@@ -5,8 +5,37 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 9,
-  "translation": "aka⟨mwa⟩ wayini, akadha⟨kwa⟩; aka⟨tubura⟩ pachi⟨garo⟩ pehema yake.",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:05:42.447134660Z",
+  "translation": "aka⟨mwa⟩ waini, aka⟨dhumwa⟩, uye aka⟨zvinurarira⟩ mukati mehema yake.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "akamwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨kubva mairi⟩"
+    },
+    {
+      "surface": "היין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "akadhumwa"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "akazvinurarira"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "hema yake"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:58.180203838Z",
   "model": "glm-5.3"
 }

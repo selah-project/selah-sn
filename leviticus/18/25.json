@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nyika yakaora, ndikagadza mhosva dzayo pamusoro pairi, uye nyika yakatsura ⟨את⟩ vagari vayο.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "yakaora"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ndikagadza (mhosva)"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mhosva dzayo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pamusoro pairi"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "yakatsura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vagari vayo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "vagari vayo"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:21.150413798Z",
+  "model": "glm-5.3"
+}

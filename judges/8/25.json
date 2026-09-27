@@ -5,8 +5,54 @@
   "book": "judges",
   "lang": "sn",
   "chapter": 8,
-  "translation": "Ivo vakati: Tichapa zvatinopa. Zvino vakaparadza ⟨⟨את⟩⟩ chipunu, uye vakakanda ipapo mumwe nomumwe nzimbo yehumbowo hwake.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:35:36.978335704Z",
+  "translation": "Uye vakati: Ngatipe tinopa. Vakaunganidza ⟨את⟩ hahwaro, uye vakaripira ipapo mumwe nomumwe nhete yehupfumi hwake.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "Ngatipe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "tinopa"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "vakaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hahwaro (⟨את⟩ hahwaro)"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "hahwaro"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "vakaripira"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "nhete"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "hupfumi hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:38.395274879Z",
   "model": "glm-5.3"
 }

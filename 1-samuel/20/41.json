@@ -5,8 +5,103 @@
   "book": "1-samuel",
   "lang": "sn",
   "chapter": 20,
-  "translation": "Mukomana apo ataenda, Dhavhidhi akamuka kumabvazuva echamhemu, akawira pachiso pake pasi, akazvimbopfidza kanhatu — kaviri — kanhatu: ok, akagwadya katatu, uye vakasanazana mumwe nomumwewa ⟨את⟩ shamwari yake, vakachema mumwe nomumwewa ⟨את⟩ shamwari yake, kusvika Dhavhidhi akaoma kusuruvara.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:49:01.095833933Z",
+  "translation": "Mukomana abva apo, Dhavhidhi akamuka kubva pedyo nechamhembe, akawira pachiso pake pasi, akazvifarira katatu; vakatambanidzana ⟨את⟩ mumwe nomumwe, vakachema mumwe ⟨את⟩ nomumwe, kusvika Dhavhidhi akazviwedzera.",
+  "tokens": [
+    {
+      "surface": "הנער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "abva apo"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "קם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "מאצל",
+      "gloss": "kubva pedyo"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "nechamhembe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "akawira"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "pachiso pake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akazvifarira"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "katatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "וישקו",
+      "gloss": "vakatambanidzana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomumwe (mumwe nomumwe)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "nomumwe"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "vakachema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomumwe (mumwe nomumwe)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "nomumwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "akazviwedzera"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:48.543119036Z",
   "model": "glm-5.3"
 }

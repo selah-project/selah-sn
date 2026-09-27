@@ -5,8 +5,57 @@
   "book": "judges",
   "lang": "sn",
   "chapter": 7,
-  "translation": "vhara",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:34:46.786341099Z",
+  "translation": "Nomuntu weIsraeri akadanidzira kurwara kweNafutari, uye kweAsheri, uye kwose kweManase, ipvai tezvira Midhiani.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akadanidzira kurwara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nomuntu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "מנפתלי",
+      "gloss": "kweNafutari"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uye kwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asheri"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uye kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwose"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "kweManase"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ipvai tezvira"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tezvira"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midhiani"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:45.943902177Z",
   "model": "glm-5.3"
 }

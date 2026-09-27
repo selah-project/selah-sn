@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Musarega Hizikiya kukuvimbisa ⟨את⟩ imi pana Yahwe, achiti: Yahwe achapunza, achaitipunza; guta iri harizopiwa mumaoko emambo weAshuru.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "musarega"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "kukuvimbisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "Hizikiya kukuvimbisa imi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "achapunza"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "achaitipunza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "harizopiwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waAshuru"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:33.686007004Z",
+  "model": "glm-5.3"
+}

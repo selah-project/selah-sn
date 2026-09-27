@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 78,
-  "translation": "Kubva kumashure kwemadzimai amwayi anorera, akamunza kuti afudze vanhu vake vechiYakobho, nehupfumi hwake hweIsraeri.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:06:33.933882837Z",
+  "translation": "Kubva mushure mevamashu achirera vana, vakamuisa kuti afudze muYaakobhu vanhu vake, uye muIsraeri rugwaro rwake rwenhaka.",
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "Kubva mushure me"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "vamashu achirera vana"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "vakamuisa"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kuti afudze"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "muYaakobhu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "uye muIsraeri"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "rugwaro rwake rwenhaka"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:05.960173608Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,77 @@
   "book": "joel",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Yakamurira nhau, mugadziri wemazwi: — inotsanangurwa pazasi",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:39:03.732959453Z",
+  "translation": "Batani-ni, maporeta, imi mapristi; rirai, imi vanoshumira altare; uyai mugare ⟨rusere⟩ muzvipfeko zveshangu, imi vanoshumira Erohimu wangu; nokuti minhe nechibairo chinwiwa chinombirwa kubva mudzimba yaErohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "חִגְר֨וּ",
+      "gloss": "Batani-ni"
+    },
+    {
+      "surface": "וְסִפְד֜וּ",
+      "gloss": "maporeta"
+    },
+    {
+      "surface": "הַכֹּהֲנִ֗ים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "הֵילִ֨ילוּ֙",
+      "gloss": "rirai"
+    },
+    {
+      "surface": "מְשָׁרְתֵ֣י",
+      "gloss": "vanoshumira"
+    },
+    {
+      "surface": "מִזְבֵּ֔חַ",
+      "gloss": "altare"
+    },
+    {
+      "surface": "בֹּ֚אוּ",
+      "gloss": "uyai"
+    },
+    {
+      "surface": "לִ֣ינוּ",
+      "gloss": "mugare ⟨rusere⟩"
+    },
+    {
+      "surface": "בַּשַּׂקִּ֔ים",
+      "gloss": "muzvipfeko zveshangu"
+    },
+    {
+      "surface": "מְשָׁרְתֵ֖י",
+      "gloss": "vanoshumira"
+    },
+    {
+      "surface": "אֱלֹהָ֑י",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נִמְנַ֛ע",
+      "gloss": "chinombirwa"
+    },
+    {
+      "surface": "מִבֵּ֥ית",
+      "gloss": "kubva mudzimba"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶ֖ם",
+      "gloss": "yaErohimu yenyu"
+    },
+    {
+      "surface": "מִנְחָ֥ה",
+      "gloss": "minhe"
+    },
+    {
+      "surface": "וָנָֽסֶךְ",
+      "gloss": "nechibairo chinwiwa"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:31.666774200Z",
   "model": "glm-5.3"
 }

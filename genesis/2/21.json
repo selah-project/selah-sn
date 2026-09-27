@@ -5,8 +5,61 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 2,
-  "translation": "Uye Yahwe Erohimu akaita kuti hope yakadzika igome pamusoro peAdamu, uye akagara ←akatarira: akaHope→ — saka: akarara; uye akatora imwe yezvipfuva zvake, uye akavhara nyama panzvimbo yayo.",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:03:59.846877882Z",
+  "translation": "Yahwe Erohimu akakonzera hope dzinoremedza kugwa pamusoro peAdamu, ndokutora imwe yezvibereko zvake, ndokuvhara nyama panzvimbo yayo.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "akakonzera kugwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "hope dzinoremedza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "akagateya ⟨akarara⟩"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ndokutora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "yezvibereko zvake"
+    },
+    {
+      "surface": "ויסגור",
+      "gloss": "ndokuvhara"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "panzvimbo yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:03.035371129Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,41 @@
   "book": "proverbs",
   "lang": "sn",
   "chapter": 15,
-  "translation": "placeholder",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:25:53.989289625Z",
+  "translation": "Mufaro mumunhu muchipindura mwomo wake, shoko panguva yaro — zvinakanaka zvakadii!",
+  "tokens": [
+    {
+      "surface": "שִׂמְחָ֣ה",
+      "gloss": "Mufaro"
+    },
+    {
+      "surface": "לָ֭אִישׁ",
+      "gloss": "mumunhu"
+    },
+    {
+      "surface": "בְּמַעֲנֵה",
+      "gloss": "muchipindura"
+    },
+    {
+      "surface": "פִּ֑יו",
+      "gloss": "mwomo wake"
+    },
+    {
+      "surface": "וְדָבָ֖ר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "בְּעִתּ֣וֹ",
+      "gloss": "panguva yaro"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "zvakadii"
+    },
+    {
+      "surface": "טֽוֹב",
+      "gloss": "zvinakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:15.343639791Z",
   "model": "glm-5.3"
 }

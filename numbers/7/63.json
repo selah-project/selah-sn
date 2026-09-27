@@ -5,8 +5,53 @@
   "book": "numbers",
   "lang": "sn",
   "chapter": 7,
-  "translation": "nungu imwe, hwayi imwe yemwaka wekutanga, chibairo chinopisa:",
-  "tokens": [],
-  "timestamp": "2026-09-27T10:51:38.737420834Z",
+  "translation": "Nhare imwe, mwanabhiza wemombe, gorongono rimwe, mwakayi mumwe, mwanazhizha rimwe, ⟨chinopihwa⟩ sechibairo chekupisa.",
+  "tokens": [
+    {
+      "surface": "פַּ֣ר",
+      "gloss": "nhare imwe"
+    },
+    {
+      "surface": "אֶחָ֞ד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwanabhiza"
+    },
+    {
+      "surface": "בָּקָ֗ר",
+      "gloss": "wemombe"
+    },
+    {
+      "surface": "אַ֧יִל",
+      "gloss": "gorongono rimwe"
+    },
+    {
+      "surface": "אֶחָ֛ד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "כֶּֽבֶשׂ",
+      "gloss": "mwakayi mumwe"
+    },
+    {
+      "surface": "אֶחָ֥ד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwanazhizha"
+    },
+    {
+      "surface": "שְׁנָת֖וֹ",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "לְעֹלָֽה",
+      "gloss": "sechibairo chekupisa"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:56.883669986Z",
   "model": "glm-5.3"
 }

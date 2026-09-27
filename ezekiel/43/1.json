@@ -5,8 +5,41 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 43,
-  "translation": "Akapindura ndokundiona ndokuendesa kumusuo, musuo unoitarira ⟨⟨nokutsvagisa⟩⟩ mbairo yekumabvazuva.",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:32:30.961994050Z",
+  "translation": "Akandiondonga akaenda neni ku⟨the⟩ gonhi, gonhi iro rinotarisa ⟨nzira⟩ yokumabvazuva.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "akandiondonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨the⟩ gonhi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gonhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "rinotarisa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨nzira⟩"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "yokumabvazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:52.261858361Z",
   "model": "glm-5.3"
 }

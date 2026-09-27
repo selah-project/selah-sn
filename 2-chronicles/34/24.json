@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sn",
   "chapter": 34,
-  "translation": "Zvakadaro tota Yahwe: Ona ini ndinounesa choipa pamusoro penzvimbo ino napavagari varo — ⟨את⟩ ruzha rwose rwakanyorwa muguwaro ravaverenga pamberi pemambo weYudha.",
+  "translation": "Zvakadaro ndataura Yahwe: Tarisa, ndinounza ⟨את⟩ zvakaipa panzvimbo iyi napavagari varo, ⟨את⟩ mishindo yose yakanyorwa mugwaro iro vakaverenga pamberi homambo yehuYudha.",
   "tokens": [
     {
       "surface": "כה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "tota"
+      "gloss": "ndataura"
     },
     {
       "surface": "יהוה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Ona ini"
+      "gloss": "Tarisa"
     },
     {
       "surface": "מביא",
-      "gloss": "ndinounesa"
+      "gloss": "ndinounza"
     },
     {
       "surface": "רעה",
-      "gloss": "choipa"
+      "gloss": "zvakaipa"
     },
     {
       "surface": "על",
-      "gloss": "pamusoro pe-"
+      "gloss": "pa"
     },
     {
       "surface": "המקום",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ino"
+      "gloss": "iyi"
     },
     {
       "surface": "ועל",
-      "gloss": "napamusoro pe-"
+      "gloss": "napa"
     },
     {
       "surface": "יושביו",
@@ -54,23 +54,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruzha rwose"
+      "marks": "mishindo yose"
     },
     {
       "surface": "כל",
-      "gloss": "rwose"
+      "gloss": "yose"
     },
     {
       "surface": "האלות",
-      "gloss": "ruzha"
+      "gloss": "mishindo"
     },
     {
       "surface": "הכתובות",
-      "gloss": "rwakanyorwa"
+      "gloss": "yakanyorwa"
     },
     {
       "surface": "על",
-      "gloss": "mu-"
+      "gloss": "mu"
     },
     {
       "surface": "הספר",
@@ -78,25 +78,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ra-"
+      "gloss": "iro"
     },
     {
       "surface": "קראו",
-      "gloss": "-vaverenga"
+      "gloss": "vakaverenga"
     },
     {
       "surface": "לפני",
-      "gloss": "pamberi pe-"
+      "gloss": "pamberi"
     },
     {
       "surface": "מלך",
-      "gloss": "mambo"
+      "gloss": "homambo"
     },
     {
       "surface": "יהוה",
-      "gloss": "weYudha"
+      "gloss": "huYudha"
     }
   ],
-  "timestamp": "2026-09-27T10:44:42.934797014Z",
+  "timestamp": "2026-09-27T12:00:24.697838394Z",
   "model": "glm-5.3"
 }

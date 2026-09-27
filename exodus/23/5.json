@@ -5,8 +5,61 @@
   "book": "exodus",
   "lang": "sn",
   "chapter": 23,
-  "translation": "Kana ukaona mbongoro yomunhu anokuvenga iri kugara pasi purokomeredzo yayo, uye ukasa kusiya iyo ⟨unofanira kusiya⟩ — ndicha kusiya naye zvakanangwa.",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:31:21.951211296Z",
+  "translation": "Kana ukaona mbongoro yomunhu anokuvenga iri kudzamarara pasi pemutoro wayo, uye wakadzimikira kuisiya, ⟨unofanira⟩ kusiya — usiye pamwe naye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ukaona"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "mbongoro"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "anokuvenga"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "kudzamarara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "mutoro wayo"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "uye wakadzimikira"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "kuisiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "usiye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamwe naye"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:16.158306589Z",
   "model": "glm-5.3"
 }

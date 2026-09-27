@@ -5,8 +5,65 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 39,
-  "translation": "Iye wo akataura kwaari mashoko aya achiti: “Muranda weHebheru waunau kwazvino kuuya kudzokera kwadzo anondidzokera kwadzo; ndiri kushandura: Muranda weHebheru wauya nauri kwandiri anondidzokera kwadzo kuti andisekese.”",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:18:51.460793052Z",
+  "translation": "Ndeipo akanetaura kwaari mazwi aya achiti: “Muranda muHebheru waunatipa anopinda kwandiri kuti anditambire.”",
+  "tokens": [
+    {
+      "surface": "ותדבר",
+      "gloss": "akanetaura"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anopinda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "muHebheru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wauna"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "unatipa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "kuti anditambire"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nemi"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:54.297746671Z",
   "model": "glm-5.3"
 }

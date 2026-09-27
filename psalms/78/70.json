@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 78,
-  "translation": "Akasarudza ⟨את⟩ Dhavhidhi muchanda wake, akatora ⟨את⟩ iye kubva panzvimbo dzekuteerera hwayi.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:06:33.933645777Z",
+  "translation": "Akasarudza Dhavhidhi muzvake wake, nokamutora kubva mundangari dzenhete dzouswa.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Akasarudza"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "muzvake wake"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "nokamutora"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "kubva mundangari"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dzenhete dzouswa"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:03.459328796Z",
   "model": "glm-5.3"
 }

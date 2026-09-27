@@ -5,19 +5,19 @@
   "book": "nehemiah",
   "lang": "sn",
   "chapter": 8,
-  "translation": "Uye mhinzimbi yose yavo vakadzoka kubva muushavi vakaita {{madziya}}, vakagara mumatendhe; nokuti vana vaIsraeri havana kuita saizvozvo kubva mazuva eYeshua mukomana waNunu kusvika zuva iro, uye kuvaka mufaro mukuru zvokuita.",
+  "translation": "Uye mushando wose wavo vakadzoka kubva mutiripiri wakaita masukoti, uye vakagara mumasukoti; nokuti kubva mazuva eYeshua mukororo waNoni, vana vaIsraeri havainakumboita saizvozvo kusvika zuva iro. Uye zvakaita mufaro mukuru zvakanyanya.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "vakaita"
+      "gloss": "wakaita"
     },
     {
       "surface": "כל",
-      "gloss": "yose"
+      "gloss": "wose"
     },
     {
       "surface": "הקהל",
-      "gloss": "mhinzimbi"
+      "gloss": "mushando"
     },
     {
       "surface": "השבים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "השבי",
-      "gloss": "muushavi"
+      "gloss": "mutiripiri"
     },
     {
       "surface": "סכות",
-      "gloss": "madziya"
+      "gloss": "masukoti"
     },
     {
       "surface": "וישבו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בסכות",
-      "gloss": "mumatendhe"
+      "gloss": "mumasukoti"
     },
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "havana"
+      "gloss": "havaina"
     },
     {
       "surface": "עשו",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "ישוע",
-      "gloss": "eYeshua"
+      "gloss": "Yeshua"
     },
     {
       "surface": "בן",
-      "gloss": "mukomana"
+      "gloss": "mukororo"
     },
     {
       "surface": "נון",
-      "gloss": "waNunu"
+      "gloss": "waNoni"
     },
     {
       "surface": "כן",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "uye kuvaka"
+      "gloss": "zvakaita"
     },
     {
       "surface": "שמחה",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "zvokuita"
+      "gloss": "zvakanyanya"
     }
   ],
-  "timestamp": "2026-09-27T10:14:19.066363426Z",
+  "timestamp": "2026-09-27T12:06:04.600059098Z",
   "model": "glm-5.3"
 }

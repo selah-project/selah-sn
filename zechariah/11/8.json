@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Ndokapotsa ⟨את⟩ varidzi vechitatu mumwedzi mumwe chete, uye mweya wangu wakaneta navo, uye mweya wawo woakadzviyira iini.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "ndokapotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varidzi vechitatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "vechitatu"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "varidzi"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "mumwedzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "wakaneta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mweya wawo"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "woakadzviyira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iini"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:30.120555313Z",
+  "model": "glm-5.3"
+}

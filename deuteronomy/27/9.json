@@ -5,8 +5,77 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 27,
-  "translation": "Moshe nevaprofita... ",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:18:06.947539998Z",
+  "translation": "Moshe navapristi vevanhu veRevi vakataura kuna Israeri vose vachiti: Nyararira, uye teerera, iwe Israeri; nhasi wava vanhu vaYahwe Erohimu wako.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "navapristi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vevanhu veRevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Nyararira"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "uye teerera"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ino⟩"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "wava"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:12.095022242Z",
   "model": "glm-5.3"
 }

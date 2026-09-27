@@ -5,8 +5,49 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:18:10.054049193Z",
+  "translation": "Kana waurova mazhanje ⟨ako⟩, usadzokere kuchiteure zvakasarira: zvichava zvomuenzi, wehupfumi, nehuswa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "waurova"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "mazhanje ⟨ako⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "dzokere kuchiteure"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "zvakasarira"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "muenzi"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "wehupfumi"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "nehuswa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zvichava"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:22.915888900Z",
   "model": "glm-5.3"
 }

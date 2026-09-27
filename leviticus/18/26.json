@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Imi muchachengeta ⟨את⟩ mitemo yangu ne⟨את⟩ mutemo wangu, uye hamuiti chimwe chero chezvinonyadziswa izvi — ⟨⟨the⟩⟩ muzvarwa uye mutorwa anogara pakati penyu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "muchachengeta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yangu"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mutemo wangu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mutemo wangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hamuiti"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hamuiti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "chimwe chero che"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "zvinonyadziswa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "muzvarwa"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "uye mutorwa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pakati penyu"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:20.628065253Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,81 @@
   "book": "judges",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Uye Yehudha akaenda ⟨na⟩ Shimoni mukoma wake, nokuti akanzi: vakaomarara. Rwendo urwu: vakarwa ⟨ne⟩ Mukanani aigara muTsefati, vakaita kuti ive cherama, vakadana zita reguta iroro richiti Chermaha.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:31:15.430046407Z",
+  "translation": "Uye Yehudha akaenda na⟨את⟩ Shimuoni mukoma wake, vakarwisa ⟨את⟩ Mukanani agere Tsafata, uye vakaita ⟨את⟩ cheromu, vakadana zita reguta rinonzi Charama.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimuoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimuoni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakarwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mukanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mukanani"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "agere"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Tsafata"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "vakaita cheromu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "cheromu (iyo guta)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "vakadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "reguta"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Charama"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:27.532067319Z",
   "model": "glm-5.3"
 }

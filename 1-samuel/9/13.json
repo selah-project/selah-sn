@@ -5,8 +5,132 @@
   "book": "1-samuel",
   "lang": "sn",
   "chapter": 9,
-  "translation": "Mukupinda kwenyu muguta, namazvo muchamuwana ⟨אתו⟩ asati akwira paↄↄↄ ↄↄ pasvodziro kudya; nokuti vanhu havadyi asati auya, nokuti ndiye anoropafadza ⟨את⟩ chibairo; mushure mezvo vanodya vakadanwa. Zvino nokudaro kwirai, nokuti ⟨אתו⟩ nhasi muchamuwana ⟨אתו⟩.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:44:47.225181740Z",
+  "translation": "Mukapinda muguta, nokudaro muchamuwana ⟨את⟩ iye asati akwira panzvimbo yakakwirira kudya; nokuti vanhu havagoni kudya kusvika apo auya, nokuti ndiye anoropafadza ⟨את⟩ chibairo; mushure mezvo vanodanwa vanodya. Zvino nayave, kwirai, nokuti ⟨את⟩ iye senhasi muchamuwana ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כבאכם",
+      "gloss": "Mukapinda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "תמצאון",
+      "gloss": "muchamuwana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Samueri)"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "asati"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "akwira"
+    },
+    {
+      "surface": "הבמתה",
+      "gloss": "panzvimbo yakakwirira"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havagoni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika apo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "auya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "anoropafadza"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mezvo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vanodya"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "vanodanwa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino nayave"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "kwirai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Samueri)"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "senhasi"
+    },
+    {
+      "surface": "תמצאון",
+      "gloss": "muchamuwana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Samueri)"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:50.721429742Z",
   "model": "glm-5.3"
 }

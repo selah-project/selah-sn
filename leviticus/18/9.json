@@ -5,8 +5,69 @@
   "book": "leviticus",
   "lang": "sn",
   "chapter": 18,
-  "translation": "Ushishi hwa Headsister yako… ",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:46:41.685465799Z",
+  "translation": "Kupira kwehanzvadzi yako, mwanasikana wababa vako kana mwanasikana wamai vako, akazvarwa mumba kana akazvarwa kunze, haugoni kuzarira kupi kwavo.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַ֨ת",
+      "gloss": "kupira"
+    },
+    {
+      "surface": "אֲחֽוֹתְךָ֤",
+      "gloss": "kwehanzvadzi yako"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "אָבִ֨יךָ֙",
+      "gloss": "wababa vako"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "אִמֶּ֔ךָ",
+      "gloss": "wamai vako"
+    },
+    {
+      "surface": "מוֹלֶ֣דֶת",
+      "gloss": "akazvarwa"
+    },
+    {
+      "surface": "בַּ֔יִת",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "א֖וֹ",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מוֹלֶ֣דֶת",
+      "gloss": "akazvarwa"
+    },
+    {
+      "surface": "ח֑וּץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "haugoni"
+    },
+    {
+      "surface": "תְגַלֶּ֖ה",
+      "gloss": "kuzarira"
+    },
+    {
+      "surface": "עֶרְוָתָֽן",
+      "gloss": "kupi kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:39.344183692Z",
   "model": "glm-5.3"
 }

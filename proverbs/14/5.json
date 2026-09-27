@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Mboni yechokwadi hairenyeri; asi mboni yenhema inoputika mhenyu.",
+  "tokens": [
+    {
+      "surface": "עֵד",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "אֱמוּנִים",
+      "gloss": "yechokwadi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יְכַזֵּב",
+      "gloss": "irenyeri"
+    },
+    {
+      "surface": "וְיָפִיחַ",
+      "gloss": "inoputika"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "mhenyu"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "שָׁקֶר",
+      "gloss": "yenhema"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:03.440886505Z",
+  "model": "glm-5.3"
+}

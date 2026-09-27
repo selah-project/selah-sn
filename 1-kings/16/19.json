@@ -5,8 +5,78 @@
   "book": "1-kings",
   "lang": "sn",
   "chapter": 16,
-  "translation": "Nekutadza kwake chaakatadza, kuchiva zvakaipa mumaso eaYahwe, kufamba munzira yaYarobhamu, noku� thinking",
-  "tokens": [],
-  "timestamp": "2026-09-27T07:13:38.450036780Z",
+  "translation": "Nokuda kwezatadzo yake yaakatadza, kuita zvakaipa maziso mberi YaYahwe, kufamba munzira YaYarobhoamu, nomutadzo wake waakaita, kuita kuti ⟨את⟩ Israeri atadze.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "zatadzo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaakatadza"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "akatadza"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maziso mberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YaYahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kufamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "YaYarobhoamu"
+    },
+    {
+      "surface": "ובחטאתו",
+      "gloss": "nomutadzo wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waakaita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "להחטיא",
+      "gloss": "kuita kuti atadze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:43.664644684Z",
   "model": "glm-5.3"
 }

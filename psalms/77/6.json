@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Ndakaongorora mazuva ekare, makore emunguva dzakareba kare.",
+  "tokens": [
+    {
+      "surface": "חִשַּ֣בְתִּי",
+      "gloss": "ndakaongorora"
+    },
+    {
+      "surface": "יָמִ֣ים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "מִקֶּ֑דֶם",
+      "gloss": "ekare"
+    },
+    {
+      "surface": "שְׁנ֗וֹת",
+      "gloss": "makore"
+    },
+    {
+      "surface": "עוֹלָמִֽים",
+      "gloss": "emunguva dzakareba kare"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:48.231804023Z",
+  "model": "glm-5.3"
+}

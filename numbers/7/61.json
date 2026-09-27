@@ -5,8 +5,89 @@
   "book": "numbers",
   "lang": "sn",
   "chapter": 7,
-  "translation": "Chibairo chake: ndiro imwe yesirivha, huremu wayo zana nemakumi matatu emashekele, mudzikiso umwe wesirivha, makumi manomwe emashekele, neshothekele detsvipo ⟨⟩ muzvakapererwa — zviviri izvi zvakanangwa nesadza yakasanganiswa nomafuta, sehasha.",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:56:33.050512058Z",
+  "translation": "Chibairo chake: chadhiya chimwe chepfuma yendesere, huremu hwacho makumi matatu neshanu nezana ⟨zveshekeli⟩, mukombe mumwe wendesere, makumi manomwe eshekeli, neshhekeli yeutsvene; zvose zviviri zvakazara muchoto unosanganiswa nomafuta, seminha.",
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "chibairo chake"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "chadhiya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "chepfuma yendesere"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "neshanu nezana"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "huremu hwacho"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "mukombe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wendesere"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "eshekeli"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "neshhekeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yeutsvene"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zvose zviviri"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "zvakazara"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "muchoto"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "unosanganiswa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nomafuta"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "seminha"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:15.222253848Z",
   "model": "glm-5.3"
 }

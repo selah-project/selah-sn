@@ -5,8 +5,94 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:18:10.053813739Z",
+  "translation": "Kana wakachera zvibereko zvemunda wako, wokanganwa chikwata chimwe mundamo, usadzoke kutora ⟨את⟩; chivave cheutingagari, cheiskana chisina baba, nechewechipfambi; kuti Yahwe Erohimu wako akaropafadze mabasa ako ose maoko ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "wakachera"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "zvibereko zvemunda wako"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "munda wako"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "wokanganwa"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "chikwata"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mundamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "usadzoke"
+    },
+    {
+      "surface": "לקחתו",
+      "gloss": "kutora ⟨את⟩",
+      "marks": "chikwata chakasiyirwa mundamo"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "cheutingagari"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "chesikana chisina baba"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "nechewechipfambi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chivave"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "akaropafadze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "maoko ako"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:26.869170146Z",
   "model": "glm-5.3"
 }

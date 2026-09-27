@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 78,
-  "translation": "Akavafudza nokutsveneka kwemoyo wake, akanotungamirira nenzungami yemaoko awa.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:06:33.934095451Z",
+  "translation": "Akafudza ⟨את⟩ vari vake zviri muchitsvene chemoyo wake, uye nezvokuchenjera mazanu make akatungamirira ⟨את⟩ vari.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "akafudza"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "muchitsvene"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "nezvokuchenjera"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mazanu make"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "akatungamirira"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:51.855083373Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Asi imwi, swedzerai pano, vana vemuroyi ⟨we⟩mashavi, mbeu yemuposi nembeu yechihure.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Asi imwi"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "swedzerai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana ve"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "muroyi ⟨wemashavi⟩"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu ye"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "muposi"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "⟨nembeu yechihure⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:32.189208386Z",
+  "model": "glm-5.3"
+}

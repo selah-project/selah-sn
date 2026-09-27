@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Anondidzikinura kubva kuvavengi vangu vane simba, nevavanengi vangu, nokuti vaive vane simba kupfuura ini.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "anondidzikinura"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "kubva kuvavengi vangu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vane simba"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "nevavanengi vangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "vaive vane simba"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kupfuura ini"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:00.417392600Z",
+  "model": "glm-5.3"
+}

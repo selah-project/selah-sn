@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Yahwe akataura zvechipfuma kuna Moshe, uye kuna Aroni, uye kuna Miriari, ati: Budai imi vanhatatuχ — ⟨budai⟩ imi nomwe — kuna Ohiri Moedhi; ndokubuda iwo tatu <…>",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "zvechipfuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kuna"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriari"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "budai"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "imi <…>"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohiri"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moedhi"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ndokubuda"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "iwo <…>"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:53.624497558Z",
+  "model": "glm-5.3"
+}

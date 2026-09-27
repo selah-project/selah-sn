@@ -5,41 +5,37 @@
   "book": "2-samuel",
   "lang": "sn",
   "chapter": 22,
-  "translation": "Anodzidzisa maoko angu hondo, uye ruoko rwangu runodzikisa uta hwemhangura.",
+  "translation": "Anodzidzisa maoko angu hondo, uye akadzikisa ⟨את⟩ uta wemukaka nemapendeku angu.",
   "tokens": [
     {
-      "surface": "мלמד",
-      "gloss": ""
+      "surface": "מְלַמֵ֥ד",
+      "gloss": "anodzidzisa"
     },
     {
-      "surface": "מלמד",
-      "gloss": "Anodzidzisa"
-    },
-    {
-      "surface": "ידי",
+      "surface": "יָדַ֖י",
       "gloss": "maoko angu"
     },
     {
-      "surface": "למלחמה",
+      "surface": "לַמִּלְחָמָ֑ה",
       "gloss": "hondo"
     },
     {
-      "surface": "ונחת",
-      "gloss": "runodzikisa"
+      "surface": "וְנִחַ֥ת",
+      "gloss": "uye akadzikisa"
     },
     {
-      "surface": "קשת",
+      "surface": "קֶֽשֶׁת",
       "gloss": "uta"
     },
     {
-      "surface": "נחושה",
-      "gloss": "hwemhangura"
+      "surface": "נְחוּשָׁ֖ה",
+      "gloss": "wemukaka"
     },
     {
-      "surface": "זרעתי",
-      "gloss": "ruoko rwangu"
+      "surface": "זְרֹעֹתָֽי",
+      "gloss": "mapendeku angu"
     }
   ],
-  "timestamp": "2026-09-27T07:03:42.828702971Z",
+  "timestamp": "2026-09-27T12:01:11.170815293Z",
   "model": "glm-5.3"
 }

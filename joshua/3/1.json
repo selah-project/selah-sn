@@ -5,8 +5,73 @@
   "book": "joshua",
   "lang": "sn",
   "chapter": 3,
-  "translation": "Yehoshua akamuka mangwananaga, ndokubva pakambamhini yeShitimu; ndokufika kune Yaridheni, iye navana vomadzinza ose vaIsraeri; vakagara kunze kuri ipapo, usati wapo wavhuka. — kudarika: Yehoshua akamuka mangwananaga, uye vakabuda kuShitimu, ndokusvika paYaridheni, iye nevanhu vose vevaIsraeri; vakavhika ipapo, usatiwavhuka. — kupedzisira: Yehoshua akamuka mangwanananga, vakafamba kubva kuShitimu, ndokufika paYaridheni, iye nevazhinji vose vevaIsraeri, vakazorora ipapo, vasati vavhuka.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:23:22.658962360Z",
+  "translation": "Yoshua akamuka mangwanan’ga, okubva apfuura kubva kuShitimu; okusvika paYoredhani iye nevana vose veIsraeri, okugaro ivapo usati kwavano yaiva.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akamuka mangwanan’ga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanan’ga"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "okufamba"
+    },
+    {
+      "surface": "מהשטים",
+      "gloss": "kubva kuShitimu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "okusvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvikira"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "paYoredhani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne… vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "וילנו",
+      "gloss": "okugaro ivapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "usati"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "kwavano yaiva"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:26.903868815Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Simuka, iwe Erohimu, taurirana ⟨את⟩ nyaya yako; rangarira ⟨את⟩ nyadzo yako kubva kumupenzi, nguva dzose.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iwe Erohimu"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "taurirana"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "⟨את⟩ nyaya yako",
+      "marks": "nyaya yako"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rangarira"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "⟨את⟩ nyadzo yako",
+      "marks": "nyadzo yako"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kubva kuna"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mupenzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nguva"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:58.776002514Z",
+  "model": "glm-5.3"
+}

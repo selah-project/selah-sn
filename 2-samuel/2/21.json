@@ -5,8 +5,102 @@
   "book": "2-samuel",
   "lang": "sn",
   "chapter": 2,
-  "translation": "Abhuna akatiza kumusoro udzimu, Abhina akati kwaari: Bvisa pachako kurudyi rwako kana kuruboshwe rwako, uye tora iwe mumwe wevasingwi, uye tora iwe chibhakacho chake. Asi Asaheu haana kuda kudzoka kumashure kwake.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:55:11.709812022Z",
+  "translation": "Abineri akati kwaari: Tema kumabvokubva kwako kana kuruboshwe rwako, uye bata iwe mumwe wevanomu, uye tora iwe ⟨את⟩ chibavo chake; asi Asaheri haana kuda kuregera kumutevera kwake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abineri"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mabvokubva kwako"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמאלך",
+      "gloss": "ruboshwe rwako"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "uye bata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "wevanomu"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "uye tora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibavo chake"
+    },
+    {
+      "surface": "חלצתו",
+      "gloss": "chibavo chake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "haana kuda"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asaheri"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "kuregera"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "kumutevera kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:25.276973595Z",
   "model": "glm-5.3"
 }

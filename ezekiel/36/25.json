@@ -5,8 +5,54 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 36,
-  "translation": "Ndichanyaira pamusoro penyu mvura tsvene, ndichabvisa miedzo yose — muchatsvenukawo; ndichatsvanyura <torerwa>Hesedhi<\/torerwa>.",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:28:53.000335712Z",
+  "translation": "Ndidzakunyorera pamusoro penyu mvura tsvene, munozove tsvene; kubva mune tsvina yenyu yose, nokubva muzvifananidzo zvenyu zvese, ndidzakuchenura ⟨את⟩ imi.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "ndidzakunyorera"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "munozove tsvene"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva mune…yose"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "tsvina yenyu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nokubva mu…zvese"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "zvifananidzo zvenyu"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "ndidzakuchenura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:06.475727663Z",
   "model": "glm-5.3"
 }

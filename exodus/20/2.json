@@ -5,8 +5,45 @@
   "book": "exodus",
   "lang": "sn",
   "chapter": 20,
-  "translation": "Ndiri Yahwe Erohimu wako, wakakudzikinura iwe kunyika yeMitsiri, kubva mudzimba yezvipo. <以色列>",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:30:36.198986918Z",
+  "translation": "Ndini Yahwe Erohimu wako, wandakoburitsa munyika yeMuitiraimu, muimba yevashumiri.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "wandakoburitsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Muitiraimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "muimba ye"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "vashumiri"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:50.934680908Z",
   "model": "glm-5.3"
 }

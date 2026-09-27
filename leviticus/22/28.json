@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "sn",
   "chapter": 22,
-  "translation": "Uye nhoomwe kana gwai, ⟨את⟩ < none > ⟨את⟩ pamwe nomwana wayo, hamupere muzuva rimwe chete.",
+  "translation": "Nombe kana gwai, iyo ne⟨את⟩ mwanayo, musafe bazi rimwe nomwezu rimwe chete.",
   "tokens": [
     {
       "surface": "ושור",
-      "gloss": "Uye nhoomwe"
+      "gloss": "Nombe"
     },
     {
       "surface": "או",
@@ -21,33 +21,35 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ < none >"
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ pamwe nomwana wayo"
+      "gloss": "⟨את⟩",
+      "marks": "mwanayo"
     },
     {
       "surface": "בנו",
-      "gloss": "mwana wayo"
+      "gloss": "mwanayo"
     },
     {
       "surface": "לא",
-      "gloss": "ha-"
+      "gloss": "musafe"
     },
     {
       "surface": "תשחטו",
-      "gloss": "mupere"
+      "gloss": "bazi"
     },
     {
       "surface": "ביום",
-      "gloss": "muzuva"
+      "gloss": "nomwezu"
     },
     {
       "surface": "אחד",
       "gloss": "rimwe chete"
     }
   ],
-  "timestamp": "2026-09-27T05:48:31.469904398Z",
+  "timestamp": "2026-09-27T12:04:18.328497237Z",
   "model": "glm-5.3"
 }

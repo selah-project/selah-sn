@@ -5,8 +5,67 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 127,
-  "translation": "Vakafara ⟨⟨אַשְׁרֵי⟩⟩ murume anodzikisa ⟨את⟩ geta rake navo; havatungamiri ← Copy text? Wait — produce Shona: 'Makafara murume akazadza ⟨את⟩ geta rake navo; havachachembuka, nokuti vachataurira ⟨את⟩ vavengi muchisoso.'",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:17:35.683676389Z",
+  "translation": "Makofiro womunhu ano ⟨wazadza⟩ ⟨את⟩ chihute chake navo; havashumiri, nokuti vachataura ⟨את⟩ navavengi pamusuwo.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Makofiro"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "womunhu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "anozadza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "chihute chake"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "chihute chake"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "vashumiri"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "vachataura"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "vavengi"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "pamusuwo"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:18.850584829Z",
   "model": "glm-5.3"
 }

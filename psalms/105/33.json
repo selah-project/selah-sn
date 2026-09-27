@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 105,
-  "translation": "Akauraya ⟨⟨את⟩⟩ mizhanhari yavo uye ⟨⟨את⟩⟩ mikonde yavo, akatyora miti yenzvimbo yavo.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:11:59.929385699Z",
+  "translation": "Akaroha ⟨את⟩ muriwo wavo wemunanwa nomu⟨את⟩ figa rawo, uye akatyora ⟨את⟩ miti yemuganhu wavo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Akaroha"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "muriwo wavo wemunanwa"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "nomufiga rawo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "uye akatyora"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "yemuganhu wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:09.651295636Z",
   "model": "glm-5.3"
 }

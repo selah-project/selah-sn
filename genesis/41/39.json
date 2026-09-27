@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Paroh akati kuna Yosefu: Mushure mekuti Erohimu akakuzivisa ⟨את⟩ iwe izvi ⟨את⟩ zvose, hapuna anonzwisisa neane hungwari sa iwe.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אַחֲרֵי",
+      "gloss": "mushure mekuti"
+    },
+    {
+      "surface": "הוֹדִיעַ",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אוֹתְךָ",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "izvi zvose (chiitwa chinoratidza iwe Yosefu semuteeranwa)"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "izvi zvose"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "hapuna"
+    },
+    {
+      "surface": "נָבוֹן",
+      "gloss": "anonzwisisa"
+    },
+    {
+      "surface": "וְחָכָם",
+      "gloss": "ane hungwari"
+    },
+    {
+      "surface": "כָּמֹךָ",
+      "gloss": "sa iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:49.844225729Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,81 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 42,
-  "translation": "Akanoburitsa kwandiri kune χicheck che outer…",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:31:56.557128701Z",
+  "translation": "Akabudisa ⟨ari⟩ kune danga repiri, nzira inoenda maodzanyemba; akaenda neni kune chumba chiri pacheno pezvinhu zvakaparadzanwa, uye chiri pacheno pechivakwa, kuodzanyemba.",
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "akabudisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "danga"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "repiri"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "inoenda"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "maodzanyemba"
+    },
+    {
+      "surface": "ויבאני",
+      "gloss": "akaenda neni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "chumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chiri"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pacheno pe"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "zvinhu zvakaparadzanwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye chiri"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pacheno pe"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "chivakwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "odzanyemba"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:03.588136363Z",
   "model": "glm-5.3"
 }

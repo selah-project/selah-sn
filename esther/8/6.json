@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "nokuti ndingagone sei kutarira zvakaipa zvichawana ⟨את⟩ vanhu vangu? kana ndingagone sei kutarira kuparadzwa kwehama yangu yokuzvarwa?",
+  "tokens": [
+    {
+      "surface": "כִּ֠י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אֵיכָכָ֤ה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "אוּכַל֙",
+      "gloss": "ndingagone"
+    },
+    {
+      "surface": "וְֽרָאִ֔יתִי",
+      "gloss": "kutarira"
+    },
+    {
+      "surface": "בָּרָעָ֖ה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "יִמְצָ֣א",
+      "gloss": "zvichawana"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu"
+    },
+    {
+      "surface": "עַמִּ֑י",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "וְאֵֽיכָכָ֤ה",
+      "gloss": "kana ndingagone sei"
+    },
+    {
+      "surface": "אוּכַל֙",
+      "gloss": "ndingagone"
+    },
+    {
+      "surface": "וְֽרָאִ֔יתִי",
+      "gloss": "kutarira"
+    },
+    {
+      "surface": "בְּאָבְדַ֖ן",
+      "gloss": "kuparadzwa"
+    },
+    {
+      "surface": "מוֹלַדְתִּֽי",
+      "gloss": "kwehama yangu yokuzvarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:58.282218311Z",
+  "model": "glm-5.3"
+}

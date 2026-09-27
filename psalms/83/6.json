@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Nokuti vakapanga moyo mumwechete, kurwira iwe sungano yavakacheka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "vakapanga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mumwechete"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kurwira iwe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "yavakacheka"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:26.001963245Z",
+  "model": "glm-5.3"
+}

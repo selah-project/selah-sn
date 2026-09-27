@@ -5,8 +5,45 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 24,
-  "translation": "Usatsauke mutemo we⟨מושב⟩ muchenjeri, rimuka nesirikhi; usatora chipfumo chevasikana.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:18:10.053083139Z",
+  "translation": "Usatsaukira mutemo wemupari, wemusha; uye usatorire chitunha hako ⟨את⟩ hembe yenhingi.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תַטֶּה",
+      "gloss": "tsaukira"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "גֵּר",
+      "gloss": "wemupari"
+    },
+    {
+      "surface": "יָתוֹם",
+      "gloss": "wemusha"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "uye usa-"
+    },
+    {
+      "surface": "תַחֲבֹל",
+      "gloss": "torire chitunha"
+    },
+    {
+      "surface": "בֶּגֶד",
+      "gloss": "hako hembe"
+    },
+    {
+      "surface": "אַלְמָנָה",
+      "gloss": "yenhingi"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:29.451127663Z",
   "model": "glm-5.3"
 }

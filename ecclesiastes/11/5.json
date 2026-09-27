@@ -5,43 +5,43 @@
   "book": "ecclesiastes",
   "lang": "sn",
   "chapter": 11,
-  "translation": "Saizvozvo iwe usingazivi nzira yemhepo, uye <semabhapu> maitiro emapfupa mukati mechitama yakazara; saizvozvo hauna kuziva ⟨את⟩ basa raErohimu, iye anoita ⟨את⟩ zvose.",
+  "translation": "Sezvausina kuziva njira yemhepo, kana mabhonzo akaita sei mukati mechibereko chazara, saizvozvo hauna kuziva ⟨את⟩ basa raErohimu, anochaita ⟨את⟩ zvose.",
   "tokens": [
     {
       "surface": "כאשר",
-      "gloss": "saizvozvo"
+      "gloss": "Sezva"
     },
     {
       "surface": "אינך",
-      "gloss": "iwe usingazivi"
+      "gloss": "usina"
     },
     {
       "surface": "יודע",
-      "gloss": "usingazivi"
+      "gloss": "kuziva"
     },
     {
       "surface": "מה",
-      "gloss": "ipi"
-    },
-    {
-      "surface": "דרך",
-      "gloss": "nzira"
-    },
-    {
-      "surface": "הרוח",
       "gloss": "yemhepo"
     },
     {
+      "surface": "דרך",
+      "gloss": "njira"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ye"
+    },
+    {
       "surface": "כעצמים",
-      "gloss": "semabhapu"
+      "gloss": "kana mabhonzo"
     },
     {
       "surface": "בבטן",
-      "gloss": "mukati mechitama"
+      "gloss": "mukati mechibereko"
     },
     {
       "surface": "המלאה",
-      "gloss": "yakazara"
+      "gloss": "chazara"
     },
     {
       "surface": "ככה",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "iye anoita"
+      "gloss": "ano"
     },
     {
       "surface": "יעשה",
-      "gloss": "anoita"
+      "gloss": "chaita"
     },
     {
       "surface": "את",
@@ -86,6 +86,6 @@
       "gloss": "zvose"
     }
   ],
-  "timestamp": "2026-09-27T09:55:45.899121879Z",
+  "timestamp": "2026-09-27T12:01:04.810165486Z",
   "model": "glm-5.3"
 }

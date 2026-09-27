@@ -5,8 +5,54 @@
   "book": "zechariah",
   "lang": "sn",
   "chapter": 12,
-  "translation": "Zvino kuchaitika pazuva iro, ndichatsvaga ku kuparadza ⟨את⟩ marudzi ose aunouza pachiRudziramwaro... ",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:49:58.846170346Z",
+  "translation": "Zvino zvinorwadza ⟨kuzoshandika⟩: muchiZHOMWE ichi, ndichatsvaga kuzoparadza ⟨את⟩ marudzi ose achiuya pamusoro peYerushalema.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvino zvinorwadza ⟨kuzoshandika⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzhombre"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ndichatsvaga"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "kuzoparadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marudzi ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "achiuya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:36.918867210Z",
   "model": "glm-5.3"
 }

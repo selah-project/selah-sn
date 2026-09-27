@@ -5,8 +5,41 @@
   "book": "proverbs",
   "lang": "sn",
   "chapter": 19,
-  "translation": "Kuhurura kweshumba ndiko kunoteedzana nokuпара... ",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:28:06.514896461Z",
+  "translation": "Kutsinhira kwehumhandara kwakaenzana nekutsamwa kwomambo; uye kufadza kwake kunenge chinaya pamusoro pehuswa.",
+  "tokens": [
+    {
+      "surface": "נַהַם",
+      "gloss": "kutsinhira"
+    },
+    {
+      "surface": "כַּכְּפִיר",
+      "gloss": "sekumhandara"
+    },
+    {
+      "surface": "זַעַף",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "וּכְטַל",
+      "gloss": "uye senzara"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "עֵשֶׂב",
+      "gloss": "huswa"
+    },
+    {
+      "surface": "רְצוֹנֽוֹ",
+      "gloss": "kufadza kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:13.599504703Z",
   "model": "glm-5.3"
 }

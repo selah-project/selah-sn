@@ -5,8 +5,115 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 39,
-  "translation": "Zvino kubva ipapo paakamuisa muteedzeri mumusha wake, napamusoro pezvose zvaaive nezvake, Yahwe akareka ⟨את⟩ umu weMuMuitre nomhosva yaYosefu; uye chirevo chakanaka chaYahwe chakanga chiri pazvose zvaaive nezvake, mumusha nemumunda.",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:19:06.956519505Z",
+  "translation": "Zvino kubva ipapo paakamuisa mumumba make, pamusoro pezvose zvaari nazo, Yahwe akaropafadza ⟨את⟩ mumba waMuEgypti nokuda kwaYosefu; uye ropafadzo yaYahwe yakashanda pazvose zvaari nazo, mudzimba nomuminda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kubva ipapo"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "paakamuisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mumumba make"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mumumba make"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumba waMuEgypti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "waMuEgypti"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ropafadzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pazvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mudzimba"
+    },
+    {
+      "surface": "ובשדה",
+      "gloss": "nomuminda"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:07.681360378Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 78,
-  "translation": "Akavaka ⟨את⟩ tsvene yake sokureva kwemadziro ano, sedenga ⟨את⟩ pasi, akayiga nokusimba zvachose.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:06:33.933297940Z",
+  "translation": "Akavaka mutsveno wake sokureba kwemasoko, sepasi raakamura nekusingaperi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "so"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "kureba kwemasoko"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "mutsveno wake"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "sepasi"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "raakamura"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nekusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:05.597311632Z",
   "model": "glm-5.3"
 }

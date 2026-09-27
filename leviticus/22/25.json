@@ -5,8 +5,82 @@
   "book": "leviticus",
   "lang": "sn",
   "chapter": 22,
-  "translation": "Uye kubva mumaoko omwana womuridzi, musapere chikafu chaErohimu wenyu chubatanidzwa chacho chiviri, asi kubva mazwi ano: kuchapfuura kuri muri, mazwi ose ari muri; haagamuchirwi kwamuri.",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:48:31.469167093Z",
+  "translation": "Uye kubva ruoko rwmwana wemunhu mupfungwa asiri weumo, hamuna kusvitsa ⟨את⟩ chikafu chaErohimu wenyu pane zvose izvi, nokuti kuora kwavo kurimo, mune kukuvadza; havagamuchirwi kwamuri.",
+  "tokens": [
+    {
+      "surface": "ומיד",
+      "gloss": "Uye kubva ruoko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wemunhu mupfungwa asiri weumo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamuna"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kusvitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikafu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "chaErohimu wenyu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "pane zvose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "kuora kwavo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kurimo"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mune kukuvadza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mumo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "vagamuchirwi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:20.282099166Z",
   "model": "glm-5.3"
 }

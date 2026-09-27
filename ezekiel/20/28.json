@@ -5,8 +5,144 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 20,
-  "translation": "Ndakavaisa mundima iyi yandakasimudza ⟨את⟩ ruoko rwangu kuti ndivape iyo; vakawona chikwata chil chati chati chati chati chati",
-  "tokens": [],
-  "timestamp": "2026-09-27T11:11:48.710393714Z",
+  "translation": "Ndikavasisa ndikavigadza kunyika yandakasimudza ⟨את⟩ ruoko rwangu kuti ndivape ⟨את⟩ iyo; vakawona chikombo chiri pakakwirira chose, nemuti une mashizha akazara wose, vakapira ipapo ⟨את⟩ mbiru dzavo, vakapa ipapo chibairo chavo chinotsamwisa, vakaisa ipapo munhuhwi wakanaka wawo, vakainwisa ipapo ⟨את⟩ nwisiro dzavo.",
+  "tokens": [
+    {
+      "surface": "ואביאם",
+      "gloss": "ndikavasisa ndikavigadza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yandakasimudza-ina"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "yandakasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti ndivape"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ iyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvapa iyo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "vakawona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "chikombo"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "chiri pakakwirira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nemuti… wose"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muti"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "une mashizha akazara"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "vakapira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbiru dzavo"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "mbiru dzavo"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "chinotsamwisa"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "chibairo chavo"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "munhuhwi wakanaka"
+    },
+    {
+      "surface": "ניחוחיהם",
+      "gloss": "wawo"
+    },
+    {
+      "surface": "ויסיכו",
+      "gloss": "vakainwisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwisiro dzavo"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "nwisiro dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:10.737777863Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,25 @@
   "book": "numbers",
   "lang": "sn",
   "chapter": 33,
-  "translation": "Vakazurwa kaviri kwazvinoguma: vakafamba Livuna, vorerutsa mabhureketi.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:07:25.796234838Z",
+  "translation": "Vakafamba kubva kuRivhuna, vakagara muchiva kuRisa.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "kubva kuRivhuna"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "vakagara muchiva"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "kuRisa"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:12.060360479Z",
   "model": "glm-5.3"
 }

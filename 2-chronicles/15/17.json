@@ -5,8 +5,53 @@
   "book": "2-chronicles",
   "lang": "sn",
   "chapter": 15,
-  "translation": "Asi ⟨את⟩ zvinopfuurira zvitsva zvetsvene zvinoisikwa kwazvo zvakananga zvakanaka kwazvo—asi mabasa echitenderero ari mukati memadziro aigariswa nemushandi mukuru zvakafanira; asi matunhu epamusoro-soro anochengetwa: asi zvitsva zviri zvakanaka asi—",
-  "tokens": [],
-  "timestamp": "2026-09-27T10:34:29.842098481Z",
+  "translation": "Asi mapindu akuru haana kubviswa muIsraeri; zvino ruvoko rwaAsa rwakanga ruri runotevedzeka mumazuva oke ake.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "Asi mapindu akuru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kubviswa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "muIsraeri"
+    },
+    {
+      "surface": "רק",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ruvoko"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "rwaAsa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "rwakanga ruri"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "runotevedzeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oke"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mumazuva ake ose"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:19.296677981Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,85 @@
   "book": "judges",
   "lang": "sn",
   "chapter": 14,
-  "translation": "Iye akachema iye mazuva nomwe agere ichangobva kudaro mabiko avo, zvino zuva rechitanhatu chete... zuva renomwe, rakabuda pachena kuti akamutomera; iye akanangidzira",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:37:50.324775369Z",
+  "translation": "Akarira iye mazuva manomwe aive misangano yavo, zvino muzuva wechinomwe akamuudza, nokuti akamumanikidza; iye wakataura ⟨את⟩ chiratidzo kuvana ⟨את⟩ vanhu vake.",
+  "tokens": [
+    {
+      "surface": "ותבך",
+      "gloss": "akarira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "manomwe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aivo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aive"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yavo"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "misangano"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wechinomwe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akamuudza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הציקתהו",
+      "gloss": "akamumanikidza"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "wakataura"
+    },
+    {
+      "surface": "החידה",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:34.655535063Z",
   "model": "glm-5.3"
 }

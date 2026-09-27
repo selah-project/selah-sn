@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye vanhu vangu vakaomarira⟨ kunetsekana⟩ nekudzoka kwangu; uye kuna Eriyoni vanomudanidzira, vose havamukudza.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "uye vanhu vangu"
+    },
+    {
+      "surface": "תלואאים",
+      "gloss": "vakaomarira⟨ kunetsekana⟩"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "nekudzoka kwangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "Eriyoni"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "vanomudanidzira"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "mukudza"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:27.584787296Z",
+  "model": "glm-5.3"
+}

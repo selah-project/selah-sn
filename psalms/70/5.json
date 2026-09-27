@@ -5,8 +5,53 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 70,
-  "translation": "Vanofanira kufara nokutambudzika muchiShona — Vakanditsvaga ngavafare nyore navarume mukati menyu; vose vanoda ruponeso rwenyu ngavati zvachose: Erohimu ngaratidzirwe kukura.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:04:22.811837173Z",
+  "translation": "Vanofarira navanofadzwa newe ⟨avo⟩ vose vanokutsvaga, uye navati: nguva dzose Erohimu ikudziwe, avo vanoda ruponeso rwako.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "vanofarira"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "navanofadzwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "vanokutsvaga"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "uyenavati"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ikudziwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "avo vanoda"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ruponeso rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:09.978705123Z",
   "model": "glm-5.3"
 }

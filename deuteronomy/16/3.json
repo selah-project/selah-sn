@@ -5,8 +5,114 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 16,
-  "translation": "Haupindi kuchimetsi; mazuva nomwe unobikira mazita, asi haupindwi... ",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:14:43.734284467Z",
+  "translation": "Haudyi nacho chakachemeruka; mazuva nomwe unodya nacho matsa — chingwa chekushushwa — nokuti munokaswa wakabuda munyika yeMitsraimu, kuti ucharangarira ⟨את⟩ zuva rokubuda kwako munyika yeMitsraimu, mazuva ose ehupenyu hwako.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "haudyi"
+    },
+    {
+      "surface": "תֹּאכַל",
+      "gloss": "unodya"
+    },
+    {
+      "surface": "עָלָיו",
+      "gloss": "nacho"
+    },
+    {
+      "surface": "חָמֵץ",
+      "gloss": "chakachemeruka"
+    },
+    {
+      "surface": "שִׁבְעַת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "תֹּאכַל",
+      "gloss": "unodya"
+    },
+    {
+      "surface": "עָלָיו",
+      "gloss": "nacho"
+    },
+    {
+      "surface": "מַצּוֹת",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "עֳנִי",
+      "gloss": "chekushushwa"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בְחִפָּזוֹן",
+      "gloss": "munokaswa"
+    },
+    {
+      "surface": "יָצָאתָ",
+      "gloss": "wakabuda"
+    },
+    {
+      "surface": "מֵאֶרֶץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsraimu"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תִּזְכֹּר",
+      "gloss": "ucharangarira"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "zuva"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "צֵאתְךָ",
+      "gloss": "rokubuda kwako"
+    },
+    {
+      "surface": "מֵאֶרֶץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsraimu"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חַיֶּיךָ",
+      "gloss": "ehupenyu hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:37.420316947Z",
   "model": "glm-5.3"
 }

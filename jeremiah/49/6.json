@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Uye mushure mezvi, ndichadzosera ⟨את⟩ kudzokera kwevana vaAmonu, muteyo waYahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Uye mushure mezvi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndichadzosera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudzokera"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kudzokera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "muteyo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:23.495023130Z",
+  "model": "glm-5.3"
+}

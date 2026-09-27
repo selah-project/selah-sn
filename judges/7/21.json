@@ -5,8 +5,49 @@
   "book": "judges",
   "lang": "sn",
   "chapter": 7,
-  "translation": "Uye vakamira mumwe nomumwe panzvimbo yake, kunze kwenhirawiri yegombe raErohimu (rambo) rinoramba richimuka.",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:34:46.785914333Z",
+  "translation": "Vakamira mumwe nomumwe panzvimbo yake, pamativi ose ⟨emushando⟩; mushando wose wakamhanya, uye vakadandadza, vakatiza.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "Vakamira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "panzvimbo yake"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pamativi ose"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨emushando⟩"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "wakamhanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "mushando"
+    },
+    {
+      "surface": "ויריעו",
+      "gloss": "vakadandadza"
+    },
+    {
+      "surface": "ויניסו",
+      "gloss": "vakatiza"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:47.504628031Z",
   "model": "glm-5.3"
 }

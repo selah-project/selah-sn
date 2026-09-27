@@ -5,8 +5,73 @@
   "book": "leviticus",
   "lang": "sn",
   "chapter": 10,
-  "translation": "Mukuyi nezviye zvinodhakwa musamwe iwe newabhinyu amako pamwe chete nawe, mukapinda muna Tenzi‌ro reMhosva; kuti musafe — mutemo wokusingaperi kumazera enyu:",
-  "tokens": [],
-  "timestamp": "2026-09-27T05:43:28.102041747Z",
+  "translation": "Yayini nushekari musanwe iwe navanakomana vako, mukapinda munaOheli Moedi, kuitira musafe: chirevo chokusingaperi kune dzinza dzose dzenyu.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "Yayini"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "nushekari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "nwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "navanakomana vako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "mukapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muna"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Oheli"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuitira"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "musafe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chirevo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "chokusingaperi"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kune dzinza dzose dzenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:55.271473562Z",
   "model": "glm-5.3"
 }

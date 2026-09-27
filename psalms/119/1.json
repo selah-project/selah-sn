@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 119,
-  "translation": "Zvakanaka kwazvo vatsvene munzira yavo, vanoita mutora waYahwe havafambi voga.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:16:14.970646716Z",
+  "translation": "Vakofora vakazarira nzira yavo, vakafamba mutora waYahwe.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֥י",
+      "gloss": "vakofora"
+    },
+    {
+      "surface": "תְמִֽימֵי",
+      "gloss": "vakazarira"
+    },
+    {
+      "surface": "דָ֑רֶךְ",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "הַֽ֝הֹלְכִ֗ים",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "בְּתוֹרַ֥ת",
+      "gloss": "mutora wa"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:04.290855496Z",
   "model": "glm-5.3"
 }

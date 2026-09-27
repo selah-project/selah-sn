@@ -5,8 +5,61 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 8,
-  "translation": "Uye akabereka muvhiki ⟨את⟩ Yevashe, nomukadzi wake Chideshi, ⟨את⟩ Yovhavha, ⟨את⟩ Tsivha, ⟨את⟩ Mesha, ⟨את⟩ Malikamu.",
-  "tokens": [],
-  "timestamp": "2026-09-27T10:19:35.904344192Z",
+  "translation": "Akabereka kuna Chodeshi, mukadzi wake, ⟨את⟩ Jobhavhu, ne⟨את⟩ Tsivhiya, ne⟨את⟩ Meisha, ne⟨את⟩ Makhama.",
+  "tokens": [
+    {
+      "surface": "וַיּ֖וֹלֶד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "חֹ֣דֶשׁ",
+      "gloss": "Chodeshi"
+    },
+    {
+      "surface": "אִשְׁתּ֑וֹ",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Jobhavhu"
+    },
+    {
+      "surface": "יוֹבָב֙",
+      "gloss": "Jobhavhu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Tsivhiya"
+    },
+    {
+      "surface": "צִבְיָ֔א",
+      "gloss": "Tsivhiya"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Meisha"
+    },
+    {
+      "surface": "מֵישָׁ֖א",
+      "gloss": "Meisha"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Makhama"
+    },
+    {
+      "surface": "מַלְכָּֽם",
+      "gloss": "Makhama"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:15.121320758Z",
   "model": "glm-5.3"
 }

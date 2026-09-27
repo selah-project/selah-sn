@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 101,
+  "translation": "Muchenjeri weunyengedzi haazogara mukati meimba yangu; anotaura nhemu haazomira pachiso pangu.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "haazogara — kwete"
+    },
+    {
+      "surface": "יֵשֵׁב",
+      "gloss": "haazogara"
+    },
+    {
+      "surface": "בְּקֶרֶב",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "בֵּיתִי",
+      "gloss": "imba yangu"
+    },
+    {
+      "surface": "עֹשֵׂה",
+      "gloss": "muchenjeri we"
+    },
+    {
+      "surface": "רְמִיָּה",
+      "gloss": "unyengedzi"
+    },
+    {
+      "surface": "דֹּבֵר",
+      "gloss": "anotaura"
+    },
+    {
+      "surface": "שְׁקָרִים",
+      "gloss": "nhemu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "haazomira — kwete"
+    },
+    {
+      "surface": "יִכּוֹן",
+      "gloss": "haazomira"
+    },
+    {
+      "surface": "לְנֶגֶד",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "עֵינָי",
+      "gloss": "pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:52.632790917Z",
+  "model": "glm-5.3"
+}

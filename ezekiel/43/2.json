@@ -5,8 +5,65 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 43,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:32:30.962324566Z",
+  "translation": "Uye taona, rukudzo rwaErohimu weIsraeri rwauya kubva nenzira yekumabvazuva; uye izwi rake rwaingoseka seiseko remvura dzakawanda, uye nyika yakapenya nokurukudzwa kwake.",
+  "tokens": [
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "כְּבוֹד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "rwaErohimu"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "בָּא",
+      "gloss": "rwauya"
+    },
+    {
+      "surface": "מִדֶּרֶךְ",
+      "gloss": "kubva nenzira"
+    },
+    {
+      "surface": "הַקָּדִם",
+      "gloss": "yekumabvazuva"
+    },
+    {
+      "surface": "וְקוֹלוֹ",
+      "gloss": "uye izwi rake"
+    },
+    {
+      "surface": "כְּקוֹל",
+      "gloss": "seiseko"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "remvura"
+    },
+    {
+      "surface": "רַבִּים",
+      "gloss": "dzakawanda"
+    },
+    {
+      "surface": "וְהָאָרֶץ",
+      "gloss": "uye nyika"
+    },
+    {
+      "surface": "הֵאִירָה",
+      "gloss": "yakapenya"
+    },
+    {
+      "surface": "מִכְּבֹדוֹ",
+      "gloss": "nokurukudzwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:59.013071802Z",
   "model": "glm-5.3"
 }

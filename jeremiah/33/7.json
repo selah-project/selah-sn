@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Ndichadzoreredza ⟨את⟩ kutapukirwa kwaYehudha, ndichadzoreredza ⟨את⟩ kutapukirwa kwaIsraeri, ndichazvivaka sezvakanga zviri pakutangatanga.",
+  "tokens": [
+    {
+      "surface": "וַהֲשִֽׁבֹתִי֙",
+      "gloss": "Ndichadzoreredza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kutapukirwa kwaYehudha"
+    },
+    {
+      "surface": "שְׁב֣וּת",
+      "gloss": "kutapukirwa"
+    },
+    {
+      "surface": "יְהוּדָ֔ה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "ndichadzoreredza ⟨את⟩",
+      "marks": "kutapukirwa kwaIsraeri"
+    },
+    {
+      "surface": "שְׁב֣וּת",
+      "gloss": "kutapukirwa"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "וּבְנִתִ֖ים",
+      "gloss": "ndichavaka"
+    },
+    {
+      "surface": "כְּבָרִֽאשֹׁנָֽה",
+      "gloss": "sezvakanga zviri pakutangatanga"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:29.017236908Z",
+  "model": "glm-5.3"
+}

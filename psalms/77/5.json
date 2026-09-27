@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Unochengeta mashuvi emaziso angu; ndakatambudzwa, ndikasa ⟨kutaura⟩.",
+  "tokens": [
+    {
+      "surface": "אָ֭חַזְתָּ",
+      "gloss": "unochengeta (wakasunga)"
+    },
+    {
+      "surface": "שְׁמֻר֣וֹת",
+      "gloss": "mashuvi"
+    },
+    {
+      "surface": "עֵינָ֑י",
+      "gloss": "emaziso angu"
+    },
+    {
+      "surface": "נִ֝פְעַ֗מְתִּי",
+      "gloss": "ndakatambudzwa"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "ndikasa"
+    },
+    {
+      "surface": "אֲדַבֵּֽר",
+      "gloss": "kutaura"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:52.336345281Z",
+  "model": "glm-5.3"
+}

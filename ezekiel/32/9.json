@@ -5,8 +5,57 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 32,
-  "translation": "Nokukudzvinyirira moyo yevanhu vazhinji, pandinounza ⟨את⟩ kuwanda kwako kunoparara kwako pakati penations, kumativi enyika dzisina kuzivikanwa nemi.",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:26:52.423015161Z",
+  "translation": "Ndichakuvhinyadza Mwoya yevanhu vazhinji ⟨panguva⟩ yandinokuparadza pakati penyika, munyika dzisina kuzivikanwa newe.",
+  "tokens": [
+    {
+      "surface": "וְהִ֨כְעַסְתִּ֔י",
+      "gloss": "ndichakuvhinyadza"
+    },
+    {
+      "surface": "לֵ֖ב",
+      "gloss": "mwoya"
+    },
+    {
+      "surface": "עַמִּ֣ים",
+      "gloss": "yevanhu"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "vazhinji"
+    },
+    {
+      "surface": "בְּהָבִיאִ֥י",
+      "gloss": "⟨panguva⟩ yandinoparadza"
+    },
+    {
+      "surface": "שִׁבְרְךָ֙",
+      "gloss": "kuparadza kwako"
+    },
+    {
+      "surface": "בַּגּוֹיִ֔ם",
+      "gloss": "pakati penyika"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "אֲרָצ֖וֹת",
+      "gloss": "dza"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יְדַעְתָּֽם",
+      "gloss": "kuzivikanwa newe"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:55.217163216Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndinokudai, Yahwe anoti; ⟨את⟩ imi munoti: Ndinokudai nei? Havuna here Isavhu aive mukoma waJakobho? Yahwe anodzviratidza; ndinoda ⟨את⟩ Jakobho.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ndinokudai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "munoti"
+    },
+    {
+      "surface": "במה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "ndinokudai"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Havuna here"
+    },
+    {
+      "surface": "אח",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Isavhu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "waJakobho"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "anodzviratidza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ndinoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:00.997333005Z",
+  "model": "glm-5.3"
+}

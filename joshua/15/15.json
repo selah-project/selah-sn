@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Ipapo akakwira kubva ipapo kuenda kune ⟨את⟩ vagari veDhebhire; uye zita raDhebhire nokare raive ⟨את⟩ Kiriyathi-Sephera.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kubva ipapo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda kune"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "veDhebhire"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye zita"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "raDhebhire"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "nokare"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyathi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sephera"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:17.904825450Z",
+  "model": "glm-5.3"
+}

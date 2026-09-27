@@ -5,8 +5,33 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 12,
-  "translation": "Pamaso avo, ita unofashadza ⟨⟨את⟩⟩ mudhii¬— kana: Pamaso avo, chidira ipapo mumadhiro, semene. Nokuti `בעלטה` richataurwa zvakananga.",
-  "tokens": [],
-  "timestamp": "2026-09-27T08:17:37.382383195Z",
+  "translation": "Pamaso avo, tema iwe rusvingo, uye uburitse ⟨zvinhu zvako⟩ narwo.",
+  "tokens": [
+    {
+      "surface": "לְעֵינֵיהֶ֖ם",
+      "gloss": "pamaso avo"
+    },
+    {
+      "surface": "חֲתָר",
+      "gloss": "tema"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בַּקִּ֑יר",
+      "gloss": "rusvingo"
+    },
+    {
+      "surface": "וְהוֹצֵאתָ֖",
+      "gloss": "uye uburitse"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "narwo"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:55.572969059Z",
   "model": "glm-5.3"
 }

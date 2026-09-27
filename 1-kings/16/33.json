@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "sn",
   "chapter": 16,
-  "translation": "Nokuti Ahabha akaita ⟨את⟩ Ashera, uye Ahabhu akawedzera kuita kutsamwisa ⟨את⟩ Yahwe, Erohimu waIsiraeri, kupfuura madzimambo ose eIsiraeri aiva <mberi> wake.",
+  "translation": "Akahabhu akaita ⟨את⟩ Ashera, uye Akahabhu akawedzera kuita kutsamwisa ⟨את⟩ Yahwe, Erohimu weIsraeri, kupfuura madzimambo ose eIsraeri aivepo mumberi peiye.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahabha"
+      "gloss": "Akahabhu"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahabhu"
+      "gloss": "Akahabhu"
     },
     {
       "surface": "לעשות",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Erohimu"
+      "gloss": "Erohimu we"
     },
     {
       "surface": "ישראל",
-      "gloss": "waIsiraeri"
+      "gloss": "Israeri"
     },
     {
       "surface": "מכל",
-      "gloss": "kupfuura <ose>"
+      "gloss": "kupfuura ose"
     },
     {
       "surface": "מלכי",
@@ -67,21 +67,21 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "eIsiraeri"
+      "gloss": "eIsraeri"
     },
     {
       "surface": "אשר",
-      "gloss": "aiva"
+      "gloss": "aivepo"
     },
     {
       "surface": "היו",
-      "gloss": "aiva"
+      "gloss": "aivepo"
     },
     {
       "surface": "לפניו",
-      "gloss": "<mberi> wake"
+      "gloss": "mumberi peiye"
     }
   ],
-  "timestamp": "2026-09-27T07:12:55.139182086Z",
+  "timestamp": "2026-09-27T12:00:36.322561285Z",
   "model": "glm-5.3"
 }

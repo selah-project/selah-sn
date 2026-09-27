@@ -5,8 +5,93 @@
   "book": "daniel",
   "lang": "sn",
   "chapter": 6,
-  "translation": "Zvino mambo akati, ndozvikurudzira, uye vakatora Dhaniieri vokanda mugomba remhambadziva; mambo akapindura akati kuna Dhaniieri: Mwari wako iye unoンムutumira... ",
-  "tokens": [],
-  "timestamp": "2026-09-27T10:04:07.876677504Z",
+  "translation": "Zvino mambo akataura, uye ⟨vakamuisa⟩ Danieri, vokisa mugomba remashumba; mambo akapindura, akati kuna Danieri: Eroha wako, iwe uinoshumira nguva dzose, ndiye achakununura.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "והיתיו",
+      "gloss": "uye ⟨vakamuisa⟩"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danieri"
+    },
+    {
+      "surface": "ורמו",
+      "gloss": "vokisa"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "mugomba"
+    },
+    {
+      "surface": "די",
+      "gloss": "re"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "mashumba"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "kuna Danieri"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Eroha wako"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨uye⟩"
+    },
+    {
+      "surface": "אנתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "uinoshumira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨uye⟩"
+    },
+    {
+      "surface": "בתדירא",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ישיזבנך",
+      "gloss": "achakununura"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:23.575310641Z",
   "model": "glm-5.3"
 }

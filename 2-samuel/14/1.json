@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Iyo Yohabu mukoma waTserujah akaona kuti moyo wamambo wanga uri paAbhusharomu.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "akaona kuti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Iyo Yohabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wamambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "uri pa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abhusharomu"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:52.198579544Z",
+  "model": "glm-5.3"
+}

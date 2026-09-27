@@ -5,8 +5,41 @@
   "book": "job",
   "lang": "sn",
   "chapter": 24,
-  "translation": "Uye kana zvisiri izvozvo izvozvi, ndiani anogona kundisimbisa seunonyepi, uye kuita kuti shoko rangu rive pasina chero chkana?",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:39:58.287921232Z",
+  "translation": "Asi kana zvisiri izvo zvino, ndianpi anondigonera nhema, uye akaisa shoko rangu sehapana?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Asi kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zvisiri"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndianpi"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "anondigonera nhema"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "uye akaisa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sehapana"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "shoko rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:27.615016420Z",
   "model": "glm-5.3"
 }

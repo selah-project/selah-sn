@@ -5,8 +5,29 @@
   "book": "proverbs",
   "lang": "sn",
   "chapter": 27,
-  "translation": "Makwayi anoita ⟨⟨את⟩⟩ hembe dzako, uye mbudzi ndidzo mutengo wemunda.",
-  "tokens": [],
-  "timestamp": "2026-09-27T09:30:48.384672252Z",
+  "translation": "Mapfuya ⟨ndiwo⟩ chokufuka chako, uye mutengo wemunda ⟨nduri⟩ mbudza dzirume.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "mapfuya"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "chokufuka chako"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "uye mutengo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "wemunda"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mbudza dzirume"
+    }
+  ],
+  "timestamp": "2026-09-27T12:05:11.400068910Z",
   "model": "glm-5.3"
 }

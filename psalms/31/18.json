@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Yahwe, rega ndashamedwa, nokuti ndakakuda; vakaipa ngavashamedwe, uye ngavamire chete vachidzorerwa kuSheori.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ndashamedwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakakuda"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ngavashamedwe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ngavamire chete"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuSheori"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:59.429965649Z",
+  "model": "glm-5.3"
+}

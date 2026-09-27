@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Kune zvachose here Adonai acharasira, uye haacha wedzera kufadza zvakare?",
+  "tokens": [
+    {
+      "surface": "הַֽ֭לְעוֹלָמִים",
+      "gloss": "kune zvachose here"
+    },
+    {
+      "surface": "יִזְנַ֥ח",
+      "gloss": "acharasira"
+    },
+    {
+      "surface": "אֲדֹנָ֑י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "יֹסִ֖יף",
+      "gloss": "acha wedzera"
+    },
+    {
+      "surface": "לִרְצ֣וֹת",
+      "gloss": "kufadza"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "zvakare"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:49.901198667Z",
+  "model": "glm-5.3"
+}

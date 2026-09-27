@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uyo akati kubaba wake nokuamai wake: “Handina kumuona”; uye ⟨את⟩ hama dzake haazivisi, uye ⟨את⟩ vana vake haazivi; nokuti vakachengeta shoko rako, uye sungano yako vachachengeta.",
+  "tokens": [
+    {
+      "surface": "הָאֹמֵ֞ר",
+      "gloss": "uyo akati"
+    },
+    {
+      "surface": "לְאָבִ֤יו",
+      "gloss": "kubaba wake"
+    },
+    {
+      "surface": "וּלְאִמּוֹ֙",
+      "gloss": "nokuamai wake"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "handina"
+    },
+    {
+      "surface": "רְאִיתִ֔יו",
+      "gloss": "kumuona"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hama dzake"
+    },
+    {
+      "surface": "אֶחָיו֙",
+      "gloss": "hama dzake"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "haazivisi"
+    },
+    {
+      "surface": "הִכִּ֔יר",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בְּנוֹ",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "haazivi"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שָֽׁמְרוּ֙",
+      "gloss": "vakachengeta"
+    },
+    {
+      "surface": "אִמְרָתֶ֔ךָ",
+      "gloss": "shoko rako"
+    },
+    {
+      "surface": "וּבְרִֽיתְךָ֖",
+      "gloss": "uye sungano yako"
+    },
+    {
+      "surface": "יִנְצֹֽרוּ",
+      "gloss": "vachachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:01.743179841Z",
+  "model": "glm-5.3"
+}

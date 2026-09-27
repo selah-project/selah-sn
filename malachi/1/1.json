@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mutoro weShoko raYahwe kuna Israeri, neruoko yaMalaki.",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֥א",
+      "gloss": "Mutoro"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "Shoko"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "neruoko"
+    },
+    {
+      "surface": "מַלְאָכִֽי",
+      "gloss": "yaMalaki"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:51.683036749Z",
+  "model": "glm-5.3"
+}

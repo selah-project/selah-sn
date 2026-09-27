@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Vakati: Sauyi, ngativachinjise kuita ⟨mavamwari⟩ — ndokuti, kubva pakuita rudzi, kuti zita raIsraeri rusaongorore zvichingodaro.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Vakati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Sauyi"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ngativachinjise"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kubva pakuita rudzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti ... rusa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "rongorore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "raIsraeri"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvichingodaro"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:51.468609936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "kutungamira umambo uchibva mumba yaShauru, nokumisika ⟨את⟩ chigaro cheDhavhidhi pamusoro peIsraeri nepamusoro peYudha, kubva munaDhani kusvika kuBheri-sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "kutungamira (kufambisa)"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uchibva mumba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "yaShauru"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "nokumisika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chigaro cheDhavhidhi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "cheDhavhidhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro pe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kubva munaDhani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika ku"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bheri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-sheva"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:52.863559957Z",
+  "model": "glm-5.3"
+}

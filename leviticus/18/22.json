@@ -5,27 +5,28 @@
   "book": "leviticus",
   "lang": "sn",
   "chapter": 18,
-  "translation": "Uye ⟨את⟩ murume usa <em>unorara semukadzi; chinonyadzisa ndicho ichocho.",
+  "translation": "Uye ⟨את⟩ chirume chiousa kugara muruarwa semokugara kwomukadzi; chinoidza ndicho.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "uye ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "chirume"
     },
     {
       "surface": "זכר",
-      "gloss": "murume"
+      "gloss": "chirume"
     },
     {
       "surface": "לא",
-      "gloss": "usa"
+      "gloss": "chiousa"
     },
     {
       "surface": "תשכב",
-      "gloss": "unorara naye"
+      "gloss": "kugara muruarwa"
     },
     {
       "surface": "משכבי",
-      "gloss": "semurara"
+      "gloss": "muruarwa"
     },
     {
       "surface": "אשה",
@@ -33,13 +34,13 @@
     },
     {
       "surface": "תועבה",
-      "gloss": "chinonyadzisa"
+      "gloss": "chinoidza"
     },
     {
       "surface": "הוא",
-      "gloss": "ichocho"
+      "gloss": "ndicho"
     }
   ],
-  "timestamp": "2026-09-27T05:47:08.213147584Z",
+  "timestamp": "2026-09-27T12:03:29.133326858Z",
   "model": "glm-5.3"
 }

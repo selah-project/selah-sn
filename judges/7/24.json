@@ -5,8 +5,137 @@
   "book": "judges",
   "lang": "sn",
   "chapter": 7,
-  "translation": "vhara",
-  "tokens": [],
-  "timestamp": "2026-09-27T06:34:46.786517811Z",
+  "translation": "Gidhioni akatuma vatumwa kugomararo rose rweEfuraimu achiti: Burukai muneunosangana neMidhiani, uye torai ⟨kumberi kwavo⟩ ⟨את⟩ mvura kusvika Bheti-Baraha ne⟨את⟩ Yorodhani. Murume wose weEfuraimu akadana, uye vakatora ⟨את⟩ mvura kusvika Bheti-Baraha ne⟨את⟩ Yorodhani.",
+  "tokens": [
+    {
+      "surface": "וּמַלְאָכִים",
+      "gloss": "vatumwa"
+    },
+    {
+      "surface": "שָׁלַח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "גִּדְעוֹן",
+      "gloss": "Gidhioni"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "gomararo"
+    },
+    {
+      "surface": "אֶפְרַיִם",
+      "gloss": "Efuraimu"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "רְדוּ",
+      "gloss": "Burukai"
+    },
+    {
+      "surface": "לִקְרַאת",
+      "gloss": "kusangana"
+    },
+    {
+      "surface": "מִדְיָן",
+      "gloss": "Midhiani"
+    },
+    {
+      "surface": "וְלִכְדוּ",
+      "gloss": "uye torai"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "⟨kumberi kwavo⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mvura"
+    },
+    {
+      "surface": "הַמַּיִם",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Bheti"
+    },
+    {
+      "surface": "בָּרָה",
+      "gloss": "Baraha"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yorodhani"
+    },
+    {
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "Yorodhani"
+    },
+    {
+      "surface": "וַיִּצָּעֵק",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "murume"
+    },
+    {
+      "surface": "אֶפְרַיִם",
+      "gloss": "Efuraimu"
+    },
+    {
+      "surface": "וַיִּלְכְּדוּ",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mvura"
+    },
+    {
+      "surface": "הַמַּיִם",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Bheti"
+    },
+    {
+      "surface": "בָּרָה",
+      "gloss": "Baraha"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yorodhani"
+    },
+    {
+      "surface": "הַיַּרְדֵּן",
+      "gloss": "Yorodhani"
+    }
+  ],
+  "timestamp": "2026-09-27T12:03:59.989890275Z",
   "model": "glm-5.3"
 }

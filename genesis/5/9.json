@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Enoshi akagara makumi mapfumbamwe emakore, ndokubereka ⟨את⟩ Kenani.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "makumi mapfumbamwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ndokubereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenani"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenani"
+    }
+  ],
+  "timestamp": "2026-09-27T12:01:42.456851305Z",
+  "model": "glm-5.3"
+}

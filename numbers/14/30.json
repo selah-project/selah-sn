@@ -5,91 +5,91 @@
   "book": "numbers",
   "lang": "sn",
   "chapter": 14,
-  "translation": "Imi hamuchapinda munyika iyo yandakasimudira ⟨את⟩ ruoko rwangu kuti ndikugareise ⟨אתכם⟩ mumariri, asi Karevhi mukoma waYefunne naYehoshua mukoma waNunu.",
+  "translation": "Imi hamuchazouvi ⟨kuna⟩ nyika iyoyo yaive ndakasimudza ⟨את⟩ ruoko rwangu kuti ndigareise ⟨את⟩ imi ⟨mairi⟩; kunze kaKarebhu mukoma waYefune naYehoshua mukoma waNuna.",
   "tokens": [
     {
-      "surface": "אם",
-      "gloss": ""
+      "surface": "אִם",
+      "gloss": "kunzi"
     },
     {
-      "surface": "אתם",
+      "surface": "אַתֶּם",
       "gloss": "imi"
     },
     {
-      "surface": "תבאו",
-      "gloss": "hamuchapinda"
+      "surface": "תָּבֹאוּ",
+      "gloss": "hamuchazouvi"
     },
     {
-      "surface": "אל",
-      "gloss": "mu-"
+      "surface": "אֶל",
+      "gloss": "kuna"
     },
     {
-      "surface": "הארץ",
+      "surface": "הָאָרֶץ",
       "gloss": "nyika"
     },
     {
-      "surface": "אשר",
-      "gloss": "iyo"
+      "surface": "אֲשֶׁר",
+      "gloss": "iyoyo"
     },
     {
-      "surface": "נשאתי",
-      "gloss": "yandakasimudira"
+      "surface": "נָשָׂאתִי",
+      "gloss": "ndakasimudza"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "ruoko rwangu"
     },
     {
-      "surface": "ידי",
+      "surface": "יָדִי",
       "gloss": "ruoko rwangu"
     },
     {
-      "surface": "לשכן",
-      "gloss": "kuti ndikugareise"
+      "surface": "לְשַׁכֵּן",
+      "gloss": "kuti ndigareise"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "imi"
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi (imwe ⟨את⟩ chiratidzo chechiitwa)"
     },
     {
-      "surface": "בה",
-      "gloss": "mumariri"
+      "surface": "בָּהּ",
+      "gloss": "mairi"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "אִם",
       "gloss": "kunze kwa"
     },
     {
-      "surface": "אם",
-      "gloss": "kunze kwa-"
+      "surface": "כָּלֵב",
+      "gloss": "Karebhu"
     },
     {
-      "surface": "כלב",
-      "gloss": "Karevhi"
-    },
-    {
-      "surface": "בן",
+      "surface": "בֵּן",
       "gloss": "mukoma wa"
     },
     {
-      "surface": "יפנה",
-      "gloss": "Yefunne"
+      "surface": "יְפֻנֶּה",
+      "gloss": "Yefune"
     },
     {
-      "surface": "ויהושע",
+      "surface": "וִיהוֹשֻׁעַ",
       "gloss": "naYehoshua"
     },
     {
-      "surface": "בן",
+      "surface": "בֵּן",
       "gloss": "mukoma wa"
     },
     {
-      "surface": "נון",
-      "gloss": "Nunu"
+      "surface": "נוּן",
+      "gloss": "Nuna"
     }
   ],
-  "timestamp": "2026-09-27T05:58:37.006635104Z",
+  "timestamp": "2026-09-27T12:04:32.444716620Z",
   "model": "glm-5.3"
 }

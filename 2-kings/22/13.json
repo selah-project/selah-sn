@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sn",
   "chapter": 22,
-  "translation": "Endai, mutsvage ⟨את⟩ Yahwe nokuda kwangu, nokuda kwavanhu, uye nokuda kwevanhu vose veYudha, pamusoro pemazoko egwaro iri rwanowanikwa; nokuti hasha dzaYahwe dzakakuru, idzo dzakatanga kupisa isu, nokuti madzibaba edu haanzwisi mazoko egwaro iri, okuita sezvose zvanyorwa kwatiri.",
+  "translation": "Endai, munamate Yahwe ⟨את⟩ kwandiri, nevanhu, naye Yudha yose, nezvakanyorwa mubhuku rino rawanikwa; nokuti hasha dzaYahwe dzakakura dzinopisa isu, nokuti madzibaba edu haanzwe mazwi ebhuku rino, kuita sezvakanyorwa zvose zvakanyorwa isu.",
   "tokens": [
     {
       "surface": "לכו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דרשו",
-      "gloss": "mutsvage"
+      "gloss": "munamate"
     },
     {
       "surface": "את",
@@ -26,51 +26,47 @@
     },
     {
       "surface": "בעדי",
-      "gloss": "nokuda kwangu"
+      "gloss": "kwandiri"
     },
     {
       "surface": "ובעד",
-      "gloss": "nokuda kwavanhu"
+      "gloss": "nevavanhu"
     },
     {
       "surface": "העם",
-      "gloss": "avanhu"
+      "gloss": "vanhu"
     },
     {
       "surface": "ובעד",
-      "gloss": "nokuda kwevanhu vose"
+      "gloss": "naye"
     },
     {
       "surface": "כל",
-      "gloss": "vose"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": ""
+      "gloss": "yose"
     },
     {
       "surface": "יהודה",
-      "gloss": "veYudha"
+      "gloss": "Yudha"
     },
     {
       "surface": "על",
-      "gloss": "pamusoro pe"
+      "gloss": "nezva"
     },
     {
       "surface": "דברי",
-      "gloss": "mazoko"
+      "gloss": "zvakanyorwa"
     },
     {
       "surface": "הספר",
-      "gloss": "egwaro"
+      "gloss": "bhuku"
     },
     {
       "surface": "הנמצא",
-      "gloss": "rwanowanikwa"
+      "gloss": "rinowanikwa"
     },
     {
       "surface": "הזה",
-      "gloss": "iri"
+      "gloss": "rino"
     },
     {
       "surface": "כי",
@@ -78,7 +74,7 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "dzakakuru"
+      "gloss": "dzakakura"
     },
     {
       "surface": "חמת",
@@ -90,15 +86,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "idzo"
+      "gloss": "nokuti"
     },
     {
       "surface": "היא",
-      "gloss": ""
+      "gloss": "⟨dziri⟩"
     },
     {
       "surface": "נצתה",
-      "gloss": "dzakatanga kupisa"
+      "gloss": "dzinopisa"
     },
     {
       "surface": "בנו",
@@ -110,15 +106,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨nokuti⟩"
     },
     {
       "surface": "לא",
-      "gloss": "ha-"
+      "gloss": "ha"
     },
     {
       "surface": "שמעו",
-      "gloss": "anzwisi"
+      "gloss": "anzwe"
     },
     {
       "surface": "אבתינו",
@@ -126,37 +122,37 @@
     },
     {
       "surface": "על",
-      "gloss": "mazoko"
+      "gloss": "ma"
     },
     {
       "surface": "דברי",
-      "gloss": "pemazoko"
+      "gloss": "mazwi"
     },
     {
       "surface": "הספר",
-      "gloss": "egwaro"
+      "gloss": "ebhuku"
     },
     {
       "surface": "הזה",
-      "gloss": "iri"
+      "gloss": "rino"
     },
     {
       "surface": "לעשות",
-      "gloss": "okuita"
+      "gloss": "kuita"
     },
     {
       "surface": "ככל",
-      "gloss": "sezvose"
+      "gloss": "sezva"
     },
     {
       "surface": "הכתוב",
-      "gloss": "zvanyorwa"
+      "gloss": "zvakanyorwa"
     },
     {
       "surface": "עלינו",
-      "gloss": "kwatiri"
+      "gloss": "isu"
     }
   ],
-  "timestamp": "2026-09-27T07:27:04.017442962Z",
+  "timestamp": "2026-09-27T12:01:23.411435717Z",
   "model": "glm-5.3"
 }

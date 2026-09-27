@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akatumira kubva pamusoro, akatora ⟨את⟩ ndiri; akandidhonza kubva mumvura yakawanda.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kubva pamusoro"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "akatora ndiri"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "akandidhonza"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "kubva mumvura"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yakawanda"
+    }
+  ],
+  "timestamp": "2026-09-27T12:04:56.194038878Z",
+  "model": "glm-5.3"
+}

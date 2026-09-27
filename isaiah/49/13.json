@@ -5,8 +5,61 @@
   "book": "isaiah",
   "lang": "sn",
   "chapter": 49,
-  "translation": "Femberai, matenga; farira, pasi; matunza, buritsai rwiyo rokufara; nokuti Yahwe ak console-revive vanhu vake, uye vanotambudzwa vake vachawanzirwa.",
-  "tokens": [],
-  "timestamp": "2026-09-27T07:43:35.248424427Z",
+  "translation": "Faridzai, matenga; uye farei, pasi; makomo, burihai ruzha rwokufara; nokuti Yahwe akanyaradza vanhu vake, uye achava netsinga vake vakatambudzika.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "Faridzai"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "uye farei"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "burihai ruzha"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rwokufara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "akanyaradza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "uye vake vakatambudzika"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "achava netsinga"
+    }
+  ],
+  "timestamp": "2026-09-27T12:02:47.084312954Z",
   "model": "glm-5.3"
 }

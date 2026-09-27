@@ -5,8 +5,77 @@
   "book": "1-kings",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Akati kwaari: Ishe wangu, iwe wakapika naYahwe Erohimu wako kuchishanda kwangu, kuti Shoromo mwanakomana wako achaita mamwe nosi zvokutonga ndokupedza, uye iye achagara pachigaro choumbirwo changu.",
-  "tokens": [],
-  "timestamp": "2026-09-27T07:04:46.696182624Z",
+  "translation": "Ikanizvaki kuna iye: Tenzi wangu, iwe wakatsvakaika muYahwe Erohimu wako muchinzvimbo chakadaro kuchinjikwa chako, kuti: Zvirokwazvo, Shoromono mwanakomana wako achaita mambo mushure mangu, iye achagara pamusoro pechigaro changu choumba.",
+  "tokens": [
+    {
+      "surface": "וַתֹּ֣אמֶר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ל֗וֹ",
+      "gloss": "kuna iye"
+    },
+    {
+      "surface": "אֲדֹנִי֙",
+      "gloss": "Tenzi wangu"
+    },
+    {
+      "surface": "אַתָּ֨ה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "נִשְׁבַּ֜עְתָּ",
+      "gloss": "wakatsvakaika"
+    },
+    {
+      "surface": "בַּֽיהוָ֤ה",
+      "gloss": "muYahwe"
+    },
+    {
+      "surface": "אֱלֹהֶ֨יךָ֙",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "לַֽאֲמָתֶ֔ךָ",
+      "gloss": "kuchinjikwa chako"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שְׁלֹמֹ֥ה",
+      "gloss": "Shoromono"
+    },
+    {
+      "surface": "בְנֵ֖ךָ",
+      "gloss": "mwanakomana wako"
+    },
+    {
+      "surface": "יִמְלֹ֣ךְ",
+      "gloss": "achaita mambo"
+    },
+    {
+      "surface": "אַחֲרָ֑י",
+      "gloss": "mushure mangu"
+    },
+    {
+      "surface": "וְה֖וּא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יֵשֵׁ֥ב",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כִּסְאִֽי",
+      "gloss": "chigaro changu choumba"
+    }
+  ],
+  "timestamp": "2026-09-27T12:00:42.877404088Z",
   "model": "glm-5.3"
 }
