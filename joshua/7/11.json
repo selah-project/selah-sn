@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Isuraeri yatadza, uye vakapfuura-dze ⟨את⟩ sungano yangu ya ndakavavudza; uye vakatora kubva mune chiri cheremu, uye vakaba, uye vakanyepa, uye vakaisa mune zvinhu zvavo.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "yatatadza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uyewo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "vakapfuura-dze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakavavudza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ivo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uyewo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "mune cheremu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uyewo"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "vakaba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uyewo"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "vakanyepa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uyewo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "mune zvinhu zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:12.185262151Z",
+  "model": "glm-5.3"
+}

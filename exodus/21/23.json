@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kana kuvara kuitika, unopa upenyu panzvimbo peupenyu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "kuvara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuitika"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "unopa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "upenyu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "upenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:32.115536987Z",
+  "model": "glm-5.3"
+}

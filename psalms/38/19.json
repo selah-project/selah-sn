@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Nokuti ndichazivisa mhosva yangu; ndinonyunguduka nenchitadzo changu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mhosva yangu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndichazivisa"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ndinonyunguduka"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "nenchitadzo changu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:20.292908419Z",
+  "model": "glm-5.3"
+}

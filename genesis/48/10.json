@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Maziso aIsiraeri akarema nokuda kwekukwegama, haagoni kuona; ndokumavedza ⟨את⟩ vaviri kwaari, akasvora vaviri, ndokukangamidza vaviri.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "akarema"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "nokuda kwekukwegama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "goni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ndokumavedza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vaviri (vana vevaviri vaYosefu)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akasvora"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "ndokukangamidza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:55.063692911Z",
+  "model": "glm-5.3"
+}

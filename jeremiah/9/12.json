@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye Yahwe akati: Nokuti vakasiya ⟨את⟩ tora yangu yandaishere pamberi pavo, uye havana kunzwa izwi rangu, uye havana kufamba mairi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Uye akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tora yangu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora yangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya-"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndaishere"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pamberi pavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "kufamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mairi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:21.908451799Z",
+  "model": "glm-5.3"
+}

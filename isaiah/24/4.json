@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Ivhu rinorwadziwa, rinoparara; nyika inodzoroka, inoparara; vakakwirira vevhu vanodzoroka.",
+  "tokens": [
+    {
+      "surface": "אָבְלָה",
+      "gloss": "rinorwadziwa"
+    },
+    {
+      "surface": "נָבְלָה",
+      "gloss": "rinoparara"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "אֻמְלְלָה",
+      "gloss": "inodzoroka"
+    },
+    {
+      "surface": "נָבְלָה",
+      "gloss": "inoparara"
+    },
+    {
+      "surface": "תֵּבֵל",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אֻמְלְלוּ",
+      "gloss": "vanodzoroka"
+    },
+    {
+      "surface": "מָרוֹם",
+      "gloss": "vakakwirira"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "vevhu"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "vevhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:13.040066428Z",
+  "model": "glm-5.3"
+}

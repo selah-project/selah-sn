@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Munhu anogona kuba Erohimu? Imi muri kuba ⟨את⟩ Ini. Zvino munoti: Tinei takuba? Chekumi neteruma.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "anogona kuba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Munhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Imi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "muri kuba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Ini"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "Zvino munoti"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Tinei"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "takuba"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "Chekumi"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "neteruma"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:19.509245854Z",
+  "model": "glm-5.3"
+}

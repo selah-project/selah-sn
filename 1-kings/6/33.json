@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Saizvozvo akaita panzvimbo yokupinda kwetempiri mitsi yemiti yemafuta, kubva ⟨את⟩ chechina.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "panzvimbo yokupinda"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "kwetempiri"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mitsi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yemiti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yemafuta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kubva chechina"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "chechina"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:53.101673156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "kana vakadzikisira mitemo yangu, uye mirairo yangu vaisachengeta—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "vakadzikisira"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mirairo yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vaisa-"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "chengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:50.155077588Z",
+  "model": "glm-5.3"
+}

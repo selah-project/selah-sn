@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndokusiya ⟨את⟩ zvifananidzo zvavo ipapo, Dhavhidhi nevarume vake vakatora.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvifananidzo zvavo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "zvifananidzo zvavo"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "וינשאם_ואנשיו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:59.248668559Z",
+  "model": "glm-5.3"
+}

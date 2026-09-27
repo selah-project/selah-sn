@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Yahwe, mabasa ako mazuru zvakadii! Mafungiro ako anopfuma zvikuru.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "zvakadii"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "mazuru zvikuru"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "anopfuma zvikuru"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "mafungiro ako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:28.885099508Z",
+  "model": "glm-5.3"
+}

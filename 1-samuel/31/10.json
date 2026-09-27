@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Vakaisa ⟨את⟩ zvigadzirwa zvake mumba maAshtaroti, uye ⟨את⟩ muviri wake vakawasungira pachuma cheBheti-shani.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvigadzirwa zvake"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvigadzirwa zvake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba ma"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtaroti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "muviri wake"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "muviri wake"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "vakawasungira"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "pachuma che"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bheti-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "shani"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:12.021939404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Yahwe aninzwa chikumbiro changu; Yahwe achagamuchira minamato yangu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "aninzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "chikumbiro changu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "minamato yangu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achagamuchira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:36.177729847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kune vanhu ava unotaura kuti: Zvakadaro ndizvo raYahwe: Ona, ini ndinokuisa pamberi penyu ⟨את⟩ nzira yehupenyu ne⟨את⟩ nzira yokufa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Uye kune"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "unotaura kuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndizvo ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ona, ini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndinokuisa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira yehupenyu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yehupenyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nzira yokufa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "המות",
+      "gloss": "yokufa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:59:43.982851075Z",
+  "model": "glm-5.3"
+}

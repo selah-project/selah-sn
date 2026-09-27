@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Yahwe, wakakwidza mweya wangu kubva muSheori, wakandipurazvidza kubva kuvanodzikira muhwowa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "wakakwidza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "muSheori"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "wakandipurazvidza"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "kubva kuvanodzikira"
+    },
+    {
+      "surface": "בור",
+      "gloss": "muhwowa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:56.329278075Z",
+  "model": "glm-5.3"
+}

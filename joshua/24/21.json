@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye vanhu vakati kuna Yehoshua: Kwete, asi ⟨את⟩ Yahwe ⟨ndiye⟩ tinomushumira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Kwete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "tinomushumira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:52.020171985Z",
+  "model": "glm-5.3"
+}

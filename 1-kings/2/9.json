@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asi izvozvi usamurege asina mhosva, nokuti uri murume wakachenjera, uye unoziva ⟨את⟩ izviya unoita iye; uye unodzikisa ⟨את⟩ uduku hwake neropa kusvika kuSheori.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Asi izvozvi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "murege asina mhosva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wakachenjera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "uye unoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izviya unoita iye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izviya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "uye unodzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uduku hwake"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "uduku hwake"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "neropa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheori"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:11.480930031Z",
+  "model": "glm-5.3"
+}

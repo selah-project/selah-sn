@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye vanhu vakauya kubva kunyika dzose kunzwa ⟨את⟩ nhungamiro yaSheromo, kubva kuna ⟨את⟩ madzimambo ose enyika, avo vaainzwa nungamiro yake.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva kunyika dzose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhungamiro yaSheromo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "nhungamiro"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "yaSheromo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kubva kuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "enyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "vaainzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhungamiro yake"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "nhungamiro yake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:28.996719620Z",
+  "model": "glm-5.3"
+}

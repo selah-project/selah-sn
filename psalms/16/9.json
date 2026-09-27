@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Naizvozvo moyo wangu wakafara, ruremekedzo yangu wakazunzuka; nyama yangu zvakare inogara zvakanaka.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "wakafara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "wakazunzuka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ruremekedzo yangu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nyama yangu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "inogara"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:30.281903182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Erohimu, usare kure neni; Erohimu wangu, kunonoka kwekubetsera kwangu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "usare kure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "neni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kubetsera kwangu"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "kunonoka kwe"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:35.484224449Z",
+  "model": "glm-5.3"
+}

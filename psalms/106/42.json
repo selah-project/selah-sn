@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Vavengi vavo vakavadzvanyirira, uye vakazvidzikisa pasi peruoko rwavo.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "vakavadzvanyirira"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "vavengi vavo"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "vakazvidzikisa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruoko rwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:35.180634484Z",
+  "model": "glm-5.3"
+}

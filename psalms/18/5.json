@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Makotshe erufu akandizinga, uye nzizi dzevasina kukosha zvakandityisa.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "akandizinga"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "makotshe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "erufu"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "uenye nzizi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "dzevasina kukosha"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "zvakandityisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:26.439608323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Vakatarisa kwaari vakapenya, uye zviso zvavo hazvizunze ⟨kunyadziswa⟩.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Vakatarisa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "vakapenya"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "zviso zvavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hazvizunze"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "kunyadziswa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:37.094794201Z",
+  "model": "glm-5.3"
+}

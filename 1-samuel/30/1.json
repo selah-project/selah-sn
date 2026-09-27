@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Zvino zvikanangana, paDhavhidhi nevarume vake vaisvika Tsikiragi, musi wechitatu, vaAmaleki vakashanda rushambadzi kunhevedza uye kuTsikiragi, vakauraya ⟨את⟩ Tsikiragi, uye vakaita kuti ive ⟨את⟩ mota muna moto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikanangana"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "pa…vaisvika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "nevarume vake"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsikiragi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wechitatu"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "vaAmaleki"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "vakashanda rushambadzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "nhevedza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye ku"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsikiragi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsikiragi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsikiragi"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "vakaita kuti ive…moto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mota muna moto"
+    },
+    {
+      "surface": "באש",
+      "gloss": "muna moto"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:50.763315449Z",
+  "model": "glm-5.3"
+}

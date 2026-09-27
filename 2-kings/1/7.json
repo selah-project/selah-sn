@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Akavhudza kwavari kuti: Chii maitiro emurume uyo akakwidza kusangana namwi, wakataura kwamwi ⟨את⟩ mashoko aya?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akavhudza"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "maitiro"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "emurume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "akakwidza"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "kusangana namwi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakataura"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwamwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko aya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:56.809807029Z",
+  "model": "glm-5.3"
+}

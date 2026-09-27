@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye Jitschak akadana J Yakobo, akamupfuudza ⟨אתו⟩, akamuraira, achimuudza kuti: Usatore mukadzi pedyo nevanasikana veKenaani.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "J Yakobo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akamupfuudza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "J Yakobo"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "akamuraira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "achimuudza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "-tore"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "pedyo nevanasikana"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "veKenaani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:40.334788882Z",
+  "model": "glm-5.3"
+}

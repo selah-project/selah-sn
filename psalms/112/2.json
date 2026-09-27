@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 112,
+  "translation": "Simba ⟨richava⟩ munyika rudzi rwake; rudzi rwevakatwasuka ruchakudzwa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Simba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "rudzi rwake"
+    },
+    {
+      "surface": "דור",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rwevakatwasuka"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ruchakudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:48.014406298Z",
+  "model": "glm-5.3"
+}

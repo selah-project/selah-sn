@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Nokuti anondiviga mumusuka wake muzuva rohuipa; anondiviga muzvenikwa zvedenda rake; pamutombo anondikwidzisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "anondiviga"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mumusuka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rohuipa"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "anondiviga"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "muzvenikwa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "zvedenda rake"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "pamutombo"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "anondikwidzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:59.070850333Z",
+  "model": "glm-5.3"
+}

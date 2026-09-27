@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndini, tarisai, ndinomisikidza ⟨את⟩ sungano yangu ⟨את⟩ navenyu, ne⟨את⟩ beu ranyu muchatevera.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tarisai"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ndinomisikidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "navenyu ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "beu ranyu"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "muchatevera"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.254864013Z",
+  "model": "glm-5.3"
+}

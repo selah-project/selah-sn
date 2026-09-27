@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Vokudzoka manheru, vachizhambadza sembwa, vachizvitenderera guta.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "vokudzoka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "manheru"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "vachizhambadza"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sembwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "vachizvitenderera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:21.264813106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 6:18",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndipo vakamisikidza mapristi mudzimbabwe yavo, nevaRevi mudzimbabwe yavo, pabasa raElohimu riri muYerusharemu, sokunyorerwa muchibhuku chaMoshe.",
+  "tokens": [
+    {
+      "surface": "והקימו",
+      "gloss": "vakamisikidza"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "בפלגתהון",
+      "gloss": "mudzimbabwe yavo"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "nevaRevi"
+    },
+    {
+      "surface": "במחלקתהון",
+      "gloss": "mudzimbabwe yavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "basa"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "די",
+      "gloss": "riri"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusharemu"
+    },
+    {
+      "surface": "ככתב",
+      "gloss": "sokunyorerwa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "muchibhuku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "chaMoshe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:07:52.854717491Z",
+  "model": "glm-5.3"
+}

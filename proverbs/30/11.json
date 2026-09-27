@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Mune chizvarwa chinotukira baba varo, uye ⟨את⟩ amai varo havarumbidzi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "chizvarwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba varo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "chinotukira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amai varo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amai varo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "chinorumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:43.906770388Z",
+  "model": "glm-5.3"
+}

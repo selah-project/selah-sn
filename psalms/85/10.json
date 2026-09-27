@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Zvirokwazvo, ruponeso rwake ruri pedyo nevatinotya iye, kuti mbiri igare munyika yedu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ruri pedyo"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "nevatinotya iye"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ruponeso rwake"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kuti igare"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "munyika yedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:19.249112021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "ndipo iwe unzwé udenga, ugoita, ugocha ⟨את⟩ varanda vako, kurambisa mwoyo, kudzikisa njira yake pamusoro pake; nokutendesesa mutendi, kumupa sezvakanaka kwake.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ndipo iwe"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "unzwé"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "udenga"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ugoita"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "ugocha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vako"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda vako"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "kurambisa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwoyo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kudzikisa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pamusoro pake"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "nokutendesesa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutendi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kumupa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "sezvakanaka kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:38.827889213Z",
+  "model": "glm-5.3"
+}

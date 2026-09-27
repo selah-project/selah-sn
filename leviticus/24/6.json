@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye unoisa ⟨את⟩ aro mativi maviri ekutevedzana, matanhatu paanotevedza, pane tafura yacho tsvene, pachiso cheYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "unoisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mativi maviri ekutevedzana"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "matevedzana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "matanhatu"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "paanotevedza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "yacho tsvene"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:18.404097743Z",
+  "model": "glm-5.3"
+}

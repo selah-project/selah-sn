@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Kune iye akatungamira vanhu vake mugwenga, nokuti hesedhi yake ichiiko nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Kune iye akatungamira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake ichiiko"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:21.256330299Z",
+  "model": "glm-5.3"
+}

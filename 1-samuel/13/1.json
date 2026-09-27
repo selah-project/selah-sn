@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mwana wemwaka mumwe Shauru pakutanga kutonga kwake, uye makore maviri akaatonga Isuraeri.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wemwaka mumwe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pakutanga kutonga kwake"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "uyye maviri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akaatonga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:37.870991163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mweya wangu mupenyu ngaufare, unekutembera, nomirayiro yako ingandibatsire.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ngaufare"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu mupenyu"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "unekutembera"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "nomirayiro yako"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "ingandibatsire"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:31.635227135Z",
+  "model": "glm-5.3"
+}

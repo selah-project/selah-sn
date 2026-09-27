@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "“Musabata Mashiach vangu, uye musaita zvakaipa vaporofita vangu.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musaita"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "musabata"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Mashiach vangu"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "uye vaporofita vangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musaita"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:30.625354177Z",
+  "model": "glm-5.3"
+}

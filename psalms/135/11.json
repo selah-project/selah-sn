@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Sihoni mambo wevaEmori, naOgi mambo weBhashani, nemamisha ose eKanaani;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wevaEmori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "naOgi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "weBhashani"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ne… ose"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mamisha"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "eKanaani"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:02.279801827Z",
+  "model": "glm-5.3"
+}

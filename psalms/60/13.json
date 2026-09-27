@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Tipa rubatsiro pakuita kweutsinye; nokuti chinhu chisina chakanaka ndichengetedzo chemunhu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Tipa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tipa (kwete isu)"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "rubatsiro"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "pakuita kweutsinye"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "nokuti chinhu chisina chakanaka"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "chengetedzo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "chemunhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:04.667116208Z",
+  "model": "glm-5.3"
+}

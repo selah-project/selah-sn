@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Iwe mwanadamu, tora zvakanaka bhirikhi, uye isa iro pamberi pako, uye nyora pariri guta, ⟨את⟩ Yerusharemu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanа-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "bhirikhi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uye isa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iro (bhirikhi)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "uye nyora"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pariri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusharemu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharemu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:17:00.747641142Z",
+  "model": "glm-5.3"
+}

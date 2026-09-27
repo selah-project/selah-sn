@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Kamwe ndakapika noutsvene hwangu — handisi kunyepa Dhavhidhi.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kamwe"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndakapika"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "noutsvene hwangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kana⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "kunyepa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:37.322187755Z",
+  "model": "glm-5.3"
+}

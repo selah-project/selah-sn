@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Kwete — mwari vamwe vachave newako pamusoro pechiso changu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vachave"
+    },
+    {
+      "surface": "לך",
+      "gloss": "newako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "vamwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pechiso changu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:19.877196736Z",
+  "model": "glm-5.3"
+}

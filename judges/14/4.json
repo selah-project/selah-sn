@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Zvino baba vake namai vake havaiziva kuti kubva kunaYahwe zvaizvo, nokuti iye aitsvaga mukana nokuda kwevaPerezitim; panguva iyoyo vaPerezitim vaitonga muIsuraeri.",
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "namai vake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha- (kwete)"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vaiziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kubva kunaYahwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zvaizvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "mukana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "aitsvaga"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "nokuda kwevaPerezitim"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "vaPerezitim"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "vaitonga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:38:08.851645855Z",
+  "model": "glm-5.3"
+}

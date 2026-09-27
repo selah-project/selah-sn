@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe akati: Zvirokwazvo, ndaona ⟨את⟩ kutambudzirwa kuvanhu vangu vari muEjipita, ndinzwa ⟨את⟩ kuchema kwavo nekuda kwevanovimbisa basa; nokuti ndinazvo zvinoziva ⟨את⟩ marwadzi avo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "zvirokwazvo-"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutambudzirwa kuvanhu vangu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kutambudzirwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vari"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muEjipita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuchema kwavo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kuchema kwavo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndinzwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nekuda kwe"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "vanovimbisa basa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinazvo zvinoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marwadzi avo"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "marwadzi avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:53.182899575Z",
+  "model": "glm-5.3"
+}

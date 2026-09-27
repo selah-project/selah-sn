@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Vakandirwira vanondirera zuva rose, nokuti vazhinji ndivo vanondirwira, iwe wakakwirira.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "vanondirera"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "vakandirwira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vazhinji"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "vanondirwira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מרומ",
+      "gloss": "iwe wakakwirira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:40.024691935Z",
+  "model": "glm-5.3"
+}

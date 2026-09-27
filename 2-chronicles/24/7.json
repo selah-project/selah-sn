@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Nokuti Ataria mwoyo akaipa, vana vake vakaputsa ⟨את⟩ imba yaErohimu; uye zvinhu zvitsvene zvose zveimba yaYahwe vakazviita zvavo zveBaari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataria"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "mwoyo akaipa"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "vakaputsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zvinhu zvitsvene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zveimba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakazviita"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "zvavo zveBaari"
+    }
+  ],
+  "timestamp": "2026-09-27T10:37:05.247462597Z",
+  "model": "glm-5.3"
+}

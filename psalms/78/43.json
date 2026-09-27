@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Paakaisa zviratidzo zake muIjipita, nezviitiko zvishamisa zvake munda weTsoani —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muIjipita"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "zviratidzo zake"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "nezviitiko zvishamisa zvake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munda we"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoani"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:50.326710583Z",
+  "model": "glm-5.3"
+}

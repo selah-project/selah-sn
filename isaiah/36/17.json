@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "kudzika ndichauya ndichatora ⟨את⟩ imi kuenda kunyika yakafanana nenyika yenyu — nyika yechibereko newayini, nyika yechingwa nemadhindiri.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kudzika"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ndichauya"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ndichatora"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "yakafanana nenyika yenyu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "yechibereko"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "newayini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yechingwa"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "nemadhindiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:18.226857110Z",
+  "model": "glm-5.3"
+}

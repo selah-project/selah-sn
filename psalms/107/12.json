@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Akavadzisa mwoyo yavo nennhumbu; vakatsumika, uye hapana anobatsira.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Akavadzisa"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "nennhumbu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "mwoyo yavo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "vakatsumika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "anobatsira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:40.778720264Z",
+  "model": "glm-5.3"
+}

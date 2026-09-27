@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Akawandisa ⟨את⟩ vanhu vake zvakanyanya, akavaita kuve masimba kupfuura vavengi vavo.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "akawandisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "akavaita kuve masimba"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "kupfuura vavengi vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:16.798078910Z",
+  "model": "glm-5.3"
+}

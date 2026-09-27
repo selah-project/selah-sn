@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nei handife mudumbu? Ndakabuda mudumbu, ndikapera ⟨kupema⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mudumbu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "fe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mudumbu"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ndakabuda"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ndikapera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:32:42.643024405Z",
+  "model": "glm-5.3"
+}

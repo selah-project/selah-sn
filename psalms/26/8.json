@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Yahwe, ndinoda chigariro cheimba yako, nenzvimbo yeMishikani yerukudzo rwako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndinoda"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "chigariro"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "cheimba yako"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "nenzvimbo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "yeMishikani"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "yerukudzo rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:28.832672696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Zvino, waaenda, nokuti watosha woshuvira kumba kwa baba vako; nekudii wakaba ⟨את⟩ mwari yangu?",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה֙",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "הָלֹ֣ךְ",
+      "gloss": "wakaenda-sure"
+    },
+    {
+      "surface": "הָלַ֔כְתָּ",
+      "gloss": "waenda"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נִכְסֹ֥ף",
+      "gloss": "woshuvira-sure"
+    },
+    {
+      "surface": "נִכְסַ֖פְתָּה",
+      "gloss": "kufinya"
+    },
+    {
+      "surface": "לְבֵ֣ית",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "אָבִ֑יךָ",
+      "gloss": "kwa baba vako"
+    },
+    {
+      "surface": "לָ֥מָּה",
+      "gloss": "nekudii"
+    },
+    {
+      "surface": "גָנַ֖בְתָּ",
+      "gloss": "wakaba"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mwari yangu"
+    },
+    {
+      "surface": "אֱלֹהָֽי",
+      "gloss": "mwari yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:31.199083683Z",
+  "model": "glm-5.3"
+}

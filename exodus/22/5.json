@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana moto wabuda, wokuzowana mitsvairo, wobvira maturusi embeu kana mbeu yakamira kana musha wose — anokonza moto uyu anobhadhara mubhadharo hwazvo ⟨את⟩ kukonzwa kwacho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "wabuda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "wokuzowana"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "mitsvairo"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "wobvira"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "maturusi embeu"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "mbeu yakamira"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "musha wose"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "anobhadhara"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mubhadharo hwazvo"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "anokonza moto uyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukonzwa kwacho"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "kukonzwa kwacho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:25.563288474Z",
+  "model": "glm-5.3"
+}

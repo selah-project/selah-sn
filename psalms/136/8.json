@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "⟨את⟩ zuva kutonga musi, nokuti hesedhi yake kusingaperi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuva"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kutonga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:23.964003188Z",
+  "model": "glm-5.3"
+}

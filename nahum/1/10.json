@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti kufanana neminzwa yakabatikana, uye vakamwa kusvika kudhakwa navo; vanodyiwa seuru rwakoma rwakaoma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufanana"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "minzwa"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "yakabatikana"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "navo kumwa kwavo"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "vakadhakwa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "vanodyiwa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "seuru"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "rwakaoma"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "rwakoma"
+    }
+  ],
+  "timestamp": "2026-09-27T08:44:41.741900462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Mukati mavo unoti: dzimba dzavo dzinozmara nokusingaperi, yokugara kwavo kuzvarwa nokuva kuzvarwa; vakazivisa mazita avo pamusoro penharaunda.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "mukati mavo"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "dzimba dzavo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "yokugara kwavo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzvarwa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nokuva kuzvarwa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "vakazivisa"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "mazita avo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "penharaunda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:50.056816420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Yahwe akagadzirira hove guru kuti igute ⟨את⟩ Yona; uye Yona akagara mudumbu rehove mazuva matatu nesusumo tatu.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "akagadzirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "hove"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kuti igute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye akagara"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "mudumbu re"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "hove"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "nusumo tatu"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "susumo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:11.567776330Z",
+  "model": "glm-5.3"
+}

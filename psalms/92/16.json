@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Kudzivulira kuti Yahwe ndiye akatwasuka; dombo rangu, uye hapana chakaipa muri iye.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Kudzivulira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "akatwasuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dombo rangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muri iye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:05.742207029Z",
+  "model": "glm-5.3"
+}

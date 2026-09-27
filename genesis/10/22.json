@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Vana vaShemu: Eramu, neAshuru, neArupakashadi, neRudi, neAramu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Vana va"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eramu"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "neAshuru"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "neArupakashadi"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "neRudi"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "neAramu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:38.046429955Z",
+  "model": "glm-5.3"
+}

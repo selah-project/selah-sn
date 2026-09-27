@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Iye akati: Ndinokumbira chikumbiro chimwe chidiki ⟨את⟩ kwauri; usadzorere ⟨את⟩ chiso changu. Mambo akati kwaari: Kumbira, amai vangu, nokuti handidzoreri ⟨את⟩ chiso chako.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "chikumbiro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "chidiki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "-nokumbira"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kwauri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "-dzorere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso changu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Kumbira"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amai vangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "-dzoreri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:29.560059442Z",
+  "model": "glm-5.3"
+}

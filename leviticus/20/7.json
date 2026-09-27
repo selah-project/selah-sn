@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Muzvitsetse, muve vatsvene; nokuti ini ndiri Yahwe Erohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Muzvitsetse"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "muve"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:44.142289972Z",
+  "model": "glm-5.3"
+}

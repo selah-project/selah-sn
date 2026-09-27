@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 31:8",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ona, ndinovuya navo kubva munyika yeMaodzanyemba, ndinovatungamidza kubva kunze kwedzimwe nzvimbo dzepasi; mune vamwe vasina kuona uye vanotambudika nedzimwe nhengo, vane vane pamuviri pamwe chete navanobata pamuviri; Bato hombe dzichadzoka pano.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ndinovuya navo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kuva navo",
+      "marks": "kunyika yeMaodzanyemba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "yeMaodzanyemba"
+    },
+    {
+      "surface": "וקבצתים",
+      "gloss": "ndinovatungamidza"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "kubva kunze kwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mune"
+    },
+    {
+      "surface": "עור",
+      "gloss": "vasina kuona"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "vanotambudika nedzimwe nhengo"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "vane pamuviri"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "navanobata pamuviri"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "Bato"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hombe"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "dzichadzoka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pano"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:15.131697407Z",
+  "model": "glm-5.3"
+}

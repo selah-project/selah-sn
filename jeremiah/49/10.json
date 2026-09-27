@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Nokuti ini ndakavhenekesa ⟨את⟩ Esavu, ndakazivisa ⟨את⟩ nzvimbo dzake dzakavanzika, uye haagoni kuzvivanza; rupenyu rwake rwakaparadzwa, nehama dzake, nenhaimo dzake — uye iye haasisipo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ndakavhenekesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ndakazivisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzake dzakavanzika"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "nzvimbo dzake dzakavanzika"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "kuzvivanza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "rwakaparadzwa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "rupenyu rwake"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "nehama dzake"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "nenvaimo dzake"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "haasisipo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:11:25.943999863Z",
+  "model": "glm-5.3"
+}

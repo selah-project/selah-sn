@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye kana chibairo chake chiri chehwayi dzomukuyi, kubva muhwayi kana kubva mumbudzi, sokuchipa chibairo chokupiswa; chirume changamire achachiunza.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hwayi dzomukuyi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "chibairo chake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "muhwayi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mumbudzi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "chibairo chokupiswa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chirume"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "changamire"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "achachiunza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:40.357859982Z",
+  "model": "glm-5.3"
+}

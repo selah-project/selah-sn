@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Kunze hapana muenzi akagona; ndinovhura ⟨mihoma⟩ yangu kune murwendo.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "akagona"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muenzi"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "mihoma yangu"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "kune murwendo"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ndinovhura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:42:39.346256938Z",
+  "model": "glm-5.3"
+}

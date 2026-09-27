@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Undiitire kuti ndinzwe mufaro nekufara; mapfupa mamwe waunaputsa agofara.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "undiitire kuti ndinzwe"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "nekufara"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "agofara"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mapfupa"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "waunaputsa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:01.691927194Z",
+  "model": "glm-5.3"
+}

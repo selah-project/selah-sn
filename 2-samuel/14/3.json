@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye uchapinda kuna mambo, uye unotaura naye sezvataurwa pano. Naizvozvo Yowabhu akaisa ⟨את⟩ mashoko mukanwa make.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "uchapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "setaurwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "mukanwa make"
+    }
+  ],
+  "timestamp": "2026-09-27T10:58:54.531950006Z",
+  "model": "glm-5.3"
+}

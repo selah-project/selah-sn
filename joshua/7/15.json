@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye zvichaita kuti uyo anotorwa nacheremu atsvwe mumoto — iye ⟨אתו⟩ ne⟨את⟩ zvose zvaari — nokuti akapfuura ⟨את⟩ sungano yaYahwe, nokuti akaita upenzi muYisraeri.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Uye zvichaita kuti"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "uyo anotorwa"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "nacheremu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "atsvwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mumoto"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose zvaari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לו",
+      "gloss": "zvaari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akapfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "upenzi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muYisraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:32.568702380Z",
+  "model": "glm-5.3"
+}

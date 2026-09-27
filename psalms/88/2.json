@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Yahwe, Erohimu wokuponesa kwangu, ndichidavira zuva nesusiku pamberi pako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "wokuponesa kwangu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ndichidavira"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nusiku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamberi pako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:03.531450728Z",
+  "model": "glm-5.3"
+}

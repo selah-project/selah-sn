@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Moshe akasimudza ⟨את⟩ ruoko rwake pamusoro pematenga, uye pakave nhema yerimuka munyika yose yeMitsrayimu mazuva matatu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "pakave"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nhema"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "yerimuka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "munyika yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:33.207739451Z",
+  "model": "glm-5.3"
+}

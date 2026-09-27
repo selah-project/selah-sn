@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "nemudzi waizadzika ruoko rwako rworudyi, nevana vamaisimbisa pachako.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "uye mudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "wakadzikisa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruoko rwako rworudyi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "wakasimbisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pachako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:11.097116497Z",
+  "model": "glm-5.3"
+}

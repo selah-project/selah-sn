@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "chiKenaani, kumabvazuva nokumadokero; chiEmori, chiChiti, chiPerizi, chiYebhusi, mugomo; nochiChivi pasi peHerimoni, munyika yeMutsipi.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "chiKenaani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kumabvazuva"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nokumadokero"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "chiEmori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "chiChiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "chiPerizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "chiYebhusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mugomo"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "chiChivi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Herimoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mutsipi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:27:32.007010464Z",
+  "model": "glm-5.3"
+}

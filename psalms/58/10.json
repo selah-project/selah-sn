@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Musati mapoto enyu aziva minzwa — zvose sokutsva sombuya — mhepo ine hasha ichavatora mumashure.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "musati"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "aziva"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "mapoto enyu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "minzwa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "so"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kutsva"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "so"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "mubuya"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "ichavatora mumhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.152711413Z",
+  "model": "glm-5.3"
+}

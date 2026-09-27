@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Nomunhu anoita upombwe ⟨את⟩ mukadzi womurume, anoita upombwe ⟨את⟩ mukadzi womunamwake, kufa anofa — mupombwe nomupombwe wechikadzi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anoita upombwe"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "anoita upombwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi womurume"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "womurume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anoita upombwe"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "anoita upombwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi womunamwake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "womunamwake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofa"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "mupombwe"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "nomupombwe wechikadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:48.965409369Z",
+  "model": "glm-5.3"
+}

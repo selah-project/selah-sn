@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye ndichavadyara pakati pevanhu, uye munzvimbo dziri kure vachandirangarira, uye vachagara ⟨את⟩ vana vavo, vobva vadzoka.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "ndichavadyara"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "pakati pevanhu"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "munzvimbo dziri kure"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "vachandirangarira"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "vachagara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vavo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "vana vavo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "vobva vadzoka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:50.670110682Z",
+  "model": "glm-5.3"
+}

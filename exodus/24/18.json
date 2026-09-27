@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Mozhe akapinda mukati mevhungo, aka kwakokwidza gomo; Mozhe akagara pagomo mazuva makumi mana nesusi makumi mana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "vhungo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akakwidza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwak"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pagomo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "nensusi makumi mana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "susu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:35.033840105Z",
+  "model": "glm-5.3"
+}

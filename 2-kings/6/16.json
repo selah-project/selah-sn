@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Akati: Usatya; nekuti vane vashoma uye vane vakawanda — avo vari ⟨את⟩ nesu vakawanda kupfuura avo ⟨את⟩ vari navo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nesu"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kupfuura avo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ vari navo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:04.905280474Z",
+  "model": "glm-5.3"
+}

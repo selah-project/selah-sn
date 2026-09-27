@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye izvi zvakaipa, chirwere: saizvozvo sokufamba kwake kwekutanga, ndokudaro achafamba; uye chii chigasho kwake anoshandira mhepo?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "chirwere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "nezvose"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "aakauya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokudaro"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "achafamba"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "uye chii"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "chigasho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "anoshandira"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "mhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:17.899569017Z",
+  "model": "glm-5.3"
+}

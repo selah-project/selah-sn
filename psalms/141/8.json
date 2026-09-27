@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 141,
+  "translation": "Nokuti maziso angu ⟨ari⟩ kwauri, Yahwe, Adonai; ndakatombera makauri — rega kushedza mweya wangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "makauri"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndakatombera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "תער",
+      "gloss": "kushedza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:10.896744655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Navo itai kandiri chinhu chitsvene, uye ndichagara pakati pevano.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "navo itai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "chinhu chitsvene"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ndichagara"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "pakati pevano"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:49.478429367Z",
+  "model": "glm-5.3"
+}

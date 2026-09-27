@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndipo vakafuratira, vakakwira munzvimbo yechikomo, vakasvika kumurera weEshikori, vakazviongorosa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ופנו",
+      "gloss": "ndipo vakafuratira"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ndipo vakakwira"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "munzvimbo yechikomo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ndipo vakasvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusu"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kumurera"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "weEshikori"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ndipo vakazviongorosa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nyika (yavo iyo)"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:47.053540279Z",
+  "model": "glm-5.3"
+}

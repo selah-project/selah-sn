@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Muipfungwa dumbu anokumbanidza ⟨את⟩ maoko ake, anodya ⟨את⟩ nyama yake.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "muipfungwa dumbu"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "anokumbanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoko ake"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maoko ake"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "anodya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:23.005469273Z",
+  "model": "glm-5.3"
+}

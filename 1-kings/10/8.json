@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Vakafa navo vanhu vako, vakafa navo varanda vako ava, vanomira pamberi pako nguva dzose, vanoteerera ⟨את⟩ hungwaru hwako.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Vakafa"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "navo vanhu vako"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "vakafa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "navo varanda vako"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "vanomira"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "vanoteerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hungwaru hwako"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hungwaru hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:39.130396113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Madzimambo makumi matanhatu ndiwo aripo, navakadzi vechipiri makumi masere, navasikana vechidiki vasina kuverengeka.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "makumi matanhatu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndiwo aripo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "makumi masere"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "navakadzi vechipiri"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "navasikana vechidiki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "vasina"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kuverengeka"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:01.507750132Z",
+  "model": "glm-5.3"
+}

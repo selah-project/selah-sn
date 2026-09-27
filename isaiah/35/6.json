@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Ndokubva iye akapunyuka achadonha semhembwe, rurimi rwomunhu asina kutaura ruchazoutamba; nokuti mvura dzichaputika mugwenga, nemadirino munyika yakaoma.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ndokubva"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "achadonha"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "semhembwe"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "iye akapunyuka"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ruchazoutamba"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "rwomunhu asina kutaura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "dzichaputika"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "nemadirino"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "munyika yakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:35.891697704Z",
+  "model": "glm-5.3"
+}

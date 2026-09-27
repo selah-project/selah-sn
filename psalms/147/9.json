@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anopa zvipfuyo zvavo chikafu, uye kune vana vemakava avo vanodanidzira.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Anopa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "zvipfuyo"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "chikafu zvavo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "makava"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "vanodanidzira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:39.831192617Z",
+  "model": "glm-5.3"
+}

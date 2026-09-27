@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye unozvimirira ⟨את⟩ iyo nedhora rakanaka; ⟨את⟩ denga rayo, uye ⟨את⟩ madziro aro kuita kutenderera; uye ⟨את⟩ nzvimbo dzaro; uye unochaita iye chishongo chedhora kuita kutenderera.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "unozvimirira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo nedhora rakanaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nedhora"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rakanaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denga rayo"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "denga rayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madziro aro"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "madziro aro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuita kutenderera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzaro"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "nzvimbo dzaro"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "unochaita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "זר",
+      "gloss": "chishongo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "chedhora"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuita kutenderera"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:04.968695389Z",
+  "model": "glm-5.3"
+}

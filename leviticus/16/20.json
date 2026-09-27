@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Apedza apurira ⟨את⟩ tsveno, ⟨את⟩ tende yokusangana, ne⟨את⟩ nharo; ipapo oga kunze kwaari ⟨את⟩ mbudzi iri mupenyu.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Apedza"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "apurira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsveno"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsveno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tende yokusangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nharo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nharo"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "oga kunze kwaari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbudzi iri mupenyu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "החי",
+      "gloss": "iri mupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:45.299568082Z",
+  "model": "glm-5.3"
+}

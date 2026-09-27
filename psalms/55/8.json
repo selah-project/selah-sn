@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Ona, ndinokwidza kure kunoita nhema; ndigorega mugwamva. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ndinokwidza kure"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "kunoita nhema"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ndigorega"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwamva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:51.412513974Z",
+  "model": "glm-5.3"
+}

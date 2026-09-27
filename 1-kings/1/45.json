@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Tsadhoki mupristi naNathani muporofita vakazodza ⟨את⟩ iye sokuti mambo pagihoni; vakabva ikoko vachifara, uye guta rakadzunguka — ndiro ruzha rwaamunzwa.",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "vakazodza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadhoki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "naNathani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sokuti mambo"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "pagihoni"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vakabva"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "vachifara"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "rakadzunguka"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rwa"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "waamunzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:10.565058465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Zvino munda uyo, nebaiwa riri mukati maro, zvakasimbiswa kuAbhurahama sezvitoringo zvekuridzira, kubva kuna ⟨את⟩ vana vaHeti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "zvakasimbiswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "munda uyo"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "nebaiwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mukati maro"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kuAbhurahama"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "sezvitoringo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "zvekuridzira"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva kuna ⟨את⟩",
+      "marks": "vana vaHeti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "vaHeti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:50.072905824Z",
+  "model": "glm-5.3"
+}

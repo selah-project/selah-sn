@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Kubvisa, ivhu richabviswa zvachose; kubvuta, richabvutwa zvachose; nokuti Yahwe wataura ⟨את⟩ shoko iri.",
+  "tokens": [
+    {
+      "surface": "הִבּוֹק",
+      "gloss": "Kubvisa"
+    },
+    {
+      "surface": "תִּבּוֹק",
+      "gloss": "richabviswa zvachose"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "וְהִבֹּז",
+      "gloss": "kubvuta"
+    },
+    {
+      "surface": "תִּבֹּז",
+      "gloss": "richabvutwa zvachose"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "wataura"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "shoko iri"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:13.039838657Z",
+  "model": "glm-5.3"
+}

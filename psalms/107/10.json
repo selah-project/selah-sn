@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vagari verima nemumvuri worufu, vatapwa venetso, vakanamata nesimbi.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Vagari"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "verima"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "nemumvuri worufu"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "vatapwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "venetso"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "vakanamata nesimbi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:40.778373265Z",
+  "model": "glm-5.3"
+}

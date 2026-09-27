@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Izvi zvaive zvandiri, nokuti ndakarinda zvinaro zvako.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Izvi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "לי",
+      "gloss": "zvandiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "zvinaro zvako"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ndakarinda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:16.841806103Z",
+  "model": "glm-5.3"
+}

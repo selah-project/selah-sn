@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Usavanganise mweya wangu pamwe nevavatadzi, kana upenyu hwangu pamwe nevanhu veropa;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "-vanganise"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne-"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "vavatadzi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kana pamwe ne-"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vanhu ve-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "upenyu hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:05.094136633Z",
+  "model": "glm-5.3"
+}

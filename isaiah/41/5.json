@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Zvinongonyangwa zakaona, zvinozvinotyisa; mapedzo epasi dzinombomoka; zvino pedyo, uye zvino uya.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "zakaona"
+    },
+    {
+      "surface": "איים",
+      "gloss": "zvinongonyangwa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "zvinozvinotyisa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mapedzo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "dzinombomoka"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "zvino pedyo"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "uye zvino uya"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:57.100514327Z",
+  "model": "glm-5.3"
+}

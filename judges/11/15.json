@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "akataura kunaari kuti: Zvakadaro anoti Yiftahi: Izraeri haina kutora ⟨את⟩ nyika yaMowabhu, na⟨את⟩ nyika yavana vaAmoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kunaari"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haina"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kutora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yaMowabhu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nyika yavana vaAmoni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:37:28.926732967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ganda redu rakapiswa sepoto yomoto, nokuda kwekupisa kwenzara.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ganda redu"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sepoto yomoto"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "rakapiswa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "kupisa kwe"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:38.286972442Z",
+  "model": "glm-5.3"
+}

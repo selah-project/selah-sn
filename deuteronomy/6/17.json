@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Chengeta zvakanaka ⟨את⟩ mirairo yaYahwe Erohimu yenyu, nemabhurawaro ake, nemitemo yake, iyo yaakakurayira.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "chengeta"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "muchachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "nemabhurawaro ake"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "nemitemo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "yaakakurayira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:25.813830167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Dhavhidhi akati: Yahwe anopenyera — Yahwe ndiye achamurova; kana zuva rake rasvika, afa; kana adzika muhondo, aparara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "anopenyera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "achamurova"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "zuva rake"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "rasvika"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "muhondo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "adzika"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "aparara"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:29.715179489Z",
+  "model": "glm-5.3"
+}

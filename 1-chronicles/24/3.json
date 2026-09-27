@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Dhavhidhi naTsadoki wevana vaErizara, naAkimereki wevana vaIthamari, vakavaparadzanisa nokugarwa kwavokushanda kwavo.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "vakavaparadzanisa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "naTsadoki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "we"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erizara"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "naAkimereki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "we"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Ithamari"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "nokugarwa kwavo"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "nokushanda kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:26:41.302556215Z",
+  "model": "glm-5.3"
+}

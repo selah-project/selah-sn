@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Yaakobh akamuka, akatakura ⟨את⟩ vana vake ne⟨את⟩ vakadzi vake pangamira.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobh"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akatakura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vakadzi vake"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vakadzi vake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:42.472233842Z",
+  "model": "glm-5.3"
+}

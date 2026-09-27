@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Tauro kuvakuru veIsraeri, uchivati: Idzi ndidzo mazuva akatarwa aYahwe, iyo muchazvidanidza ⟨את⟩ semisse dzeutsvene; idzi ndidzo mazuva angu akatarwa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Tauro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakuru ve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uchivati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kuvati"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mazuva akatarwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "muchazvidanidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "semisse dzeutsvene"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "semisse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dzeutsvene"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndidzo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mazuva angu akatarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:49.966628111Z",
+  "model": "glm-5.3"
+}

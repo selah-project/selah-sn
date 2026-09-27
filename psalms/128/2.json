@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 128,
+  "translation": "Uchadya mibairo yemazvi emawoko ako; wakafara, uye zvakanaka kwazvo kwazviri pauri.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "mibairo yemazvi"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "emawoko ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uye ⟨uchadya⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uchadya"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "wakafara"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwazviri pauri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:23.819268732Z",
+  "model": "glm-5.3"
+}

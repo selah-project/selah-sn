@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Pelisti vakarwa hondo, uye Isuraeri yakarohwa, uye munhu nomunhu akatiza kuenda mudziyo wake; uye kurohwa kwakanga kwakanyanya kwazvo, uye kubva muna Isuraeri kwakawa vanhu makumi matatu ezviuru, vanhu tsoka.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "vakarwa hondo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisti"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "yakarohwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu nomunhu"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "kuenda mudziyo wake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yakanga"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "kurohwa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kwakanyanya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "kwakawa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kubva muna Isuraeri"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezviuru"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "vanhu tsoka"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:47.210159886Z",
+  "model": "glm-5.3"
+}

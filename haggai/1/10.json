@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokudaro, matamba akadzivirira madhindi pamusoro penyu, uye pasi rakadzivirira zvibereko zvayo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokudaro ⟨pamusoro⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "akadzivirira"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matamba"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "madhindi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "uye pasi"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "rakadzivirira"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zvibereko zvayo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:46.047338960Z",
+  "model": "glm-5.3"
+}

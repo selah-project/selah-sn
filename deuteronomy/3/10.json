@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "matawuni ose echiwonga, uye Gireshadhi yose, uye Bhashani yose kusvika Sareka uye Edherei, matawuni echushe chemambo chaOghi muBhashani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "matawuni"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "echiwonga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye yose"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gireshadhi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye yose"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bhashani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Sareka"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "uye Edherei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "matawuni"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "chushe chemambo"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "chaOghi"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "muBhashani"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:47.835530617Z",
+  "model": "glm-5.3"
+}

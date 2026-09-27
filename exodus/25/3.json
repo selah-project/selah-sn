@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye uyu ndiwo mupiro muchatora ⟨את⟩ kwavari: ndarama, sirivha, nomhangura.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Uye uyu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "mupiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wo"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "muchatora"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩",
+      "marks": "kwavari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "mhangura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:40.820574130Z",
+  "model": "glm-5.3"
+}

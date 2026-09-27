@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Unovavanza muchitsiko chechiso chako, kubva mune zvirongwa zvomunhu; unovachengeta zvavanzika muchisasa, kubva pakurwisanwa kwemitauro.",
+  "tokens": [
+    {
+      "surface": "תַּסְתִּירֵ֤ם",
+      "gloss": "unovavanza"
+    },
+    {
+      "surface": "בְּסֵ֥תֶר",
+      "gloss": "muchitsiko che"
+    },
+    {
+      "surface": "פָּנֶיךָ֮",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "מֵֽרֻכְסֵ֫י",
+      "gloss": "kubva mune zvirongwa zva"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "תִּצְפְּנֵ֥ם",
+      "gloss": "unovachengeta zvavanzika"
+    },
+    {
+      "surface": "בְּסֻכָּ֗ה",
+      "gloss": "muchisasa"
+    },
+    {
+      "surface": "מֵרִ֥יב",
+      "gloss": "kubva pakurwisanwa"
+    },
+    {
+      "surface": "לְשֹׁנֽוֹת",
+      "gloss": "kwemitauro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.325670424Z",
+  "model": "glm-5.3"
+}

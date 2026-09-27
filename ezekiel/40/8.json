@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Akayera ⟨את⟩ dandemutande regamato kubva mukati memba — tsanga imwe.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Akayera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dandemutande"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "dandemutande"
+    },
+    {
+      "surface": "השער",
+      "gloss": "regamato"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "kubva mukati memba"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tsanga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:32:37.354250429Z",
+  "model": "glm-5.3"
+}

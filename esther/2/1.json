@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Shure kwezvinhu izvi, pakunyorodza kwekutsamwa kwamambo Ahashueroshi, akaangarira ⟨את⟩ Vashiti, ne⟨את⟩ izvo akaita, ne⟨את⟩ izvo zvakanongwa paari.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Shure kwe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "pakunyorodza"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kwamambo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashueroshi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akaangarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashiti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "izvo akaita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "izvo zvakanongwa paari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "zvakanongwa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "paari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:19.671164640Z",
+  "model": "glm-5.3"
+}

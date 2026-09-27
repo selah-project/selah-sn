@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Samuerhi aangasati aziva ⟨את⟩ Yahwe, uye shoko raYahwe rikanangwa naro ⟨kwaari⟩ risati raburitswa pachena.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Samuerhi"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "aangasati"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "aziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "risati"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "raburitswa pachena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:39.965698109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Kune mutungamiriri, pane ⟨mutambi we⟩ Shushani-Edhuti, mikitamu yaDhavhidhi, yokudzidzisa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiriri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "⟨mutambi we⟩ Shushani"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edhuti"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikitamu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "yokudzidzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.502911935Z",
+  "model": "glm-5.3"
+}

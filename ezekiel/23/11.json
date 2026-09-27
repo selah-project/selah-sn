@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 23:11",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Hanzvadzi yake Ahoribha ndokamuona izvi, nokuti havayi yake yakapfuura yake kuchipfavadza, uye ⟨את⟩ hupombwe hwake kupfuura hupombwe hwehanzvadzi yake.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ndokamuona"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "hanzvadzi yake"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Ahoribha"
+    },
+    {
+      "surface": "ותשחת",
+      "gloss": "yakapfuura kuchipfavadza"
+    },
+    {
+      "surface": "עגבתה",
+      "gloss": "havayi yake"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hupombwe hwake"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "hupombwe hwake"
+    },
+    {
+      "surface": "מזנוני",
+      "gloss": "kupfuura"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "hwehanzvadzi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:23:50.975302444Z",
+  "model": "glm-5.3"
+}

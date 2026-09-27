@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 122,
+  "translation": "Nokuti ipapo zvigaro zvinoitwa mhosva, zvigaro zveimba yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zvinoitwa"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "zvigaro"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "zvigaro"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "zveimba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:02.564882961Z",
+  "model": "glm-5.3"
+}

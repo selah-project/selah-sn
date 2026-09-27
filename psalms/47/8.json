@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Nokuti Erohimu ndiye Mambo we⟨the⟩ nyika yose; rumbidzai nouchipangari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nouchipangari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:22.191834606Z",
+  "model": "glm-5.3"
+}

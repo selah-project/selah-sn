@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Nzwiro yangu yave pamberi pechiso chako; tendeza nzeve dako kudanira kwangu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "yave"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pechiso chako"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "Nzwiro yangu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tendeza"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nzeve dako"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "kudanira kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:03.531585184Z",
+  "model": "glm-5.3"
+}

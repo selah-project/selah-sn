@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Moyo wangu wakazerezera, chityiso chandityisa; ⟨iye⟩ wakaita ⟨את⟩ huswa hwechido changu kuti chive kutetema kundiri.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "wakazerezera"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "chityiso"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "chandityisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huswa hwechido changu"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "huswa"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "hwechido changu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wakaita...kuti chive"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "kutetema"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:30.618075800Z",
+  "model": "glm-5.3"
+}

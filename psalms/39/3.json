@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Ndakazvininipisa, ndiri zvinyararira; ndakazvibata zvichiita runyararo, kubva pakanaka; uye kurwadziwa kwangu kwakazunzunguka.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ndakazvininipisa"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ndiri zvinyararira"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ndakazvibata zvichiita runyararo"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kubva pakanaka"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "kurwadziwa kwangu"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "kwakazunzunguka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:39.724741865Z",
+  "model": "glm-5.3"
+}

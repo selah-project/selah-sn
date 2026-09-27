@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Asi iwe, Yahwe, unoseka ⟨ivo⟩; unoseveta marudzi ose.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Asi iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "unoseka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ivo⟩"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "unoseveta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:10.562802465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Sokutsvina kwavo nokuipa kwavo ndakavaita izvi, ndikavanzira chiso changu kwavari.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sokutsvina kwavo"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "nokuipa kwavo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakavaita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ndakavaita (izvi)"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ndikavanzira"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:31:17.529616680Z",
+  "model": "glm-5.3"
+}

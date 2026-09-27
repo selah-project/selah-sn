@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Samueri akakura, uye Yahwe aiva naye, uye haana kudonhesa chimwe nacho pasi muzvose zvechirevo zvake.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "akakura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uye Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "kudonhesa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "chimwe nacho"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "echirevo zvake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:48.082130043Z",
+  "model": "glm-5.3"
+}

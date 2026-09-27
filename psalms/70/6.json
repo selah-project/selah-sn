@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 70,
+  "translation": "Asi ndiri murombo nomushayi; Erohimu, kumhanyira kwandiri. Mubatsiri wangu nomununuri wangu ndiwe, Yahwe; usaregedza kushaikira.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ndiri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "murombo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomushayi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kumhanyira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Mubatsiri wangu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nomununuri wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "regedza kushaikira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:07.063315490Z",
+  "model": "glm-5.3"
+}

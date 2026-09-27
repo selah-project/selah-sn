@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ita une tsvimbo mbiri dzensimbi yendarama; mabasa ekurohwa ndiwo unoita ⟨את⟩ iyo, uye dzichava kwazviri kudaanidzwa kwehurumende nokufambiswa kwe⟨את⟩ mazwi emauto.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "une"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "tsvimbo (dzenzere)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mabasa ekurohwa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (tsvimbo dziri mbiri)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dzichava"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwazviri"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "kodaanidzwa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "wehurumende"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "nokufambiswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi emauto"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "mazwi emauto"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:00.040320444Z",
+  "model": "glm-5.3"
+}

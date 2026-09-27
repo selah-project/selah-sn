@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "akabvisa ⟨את⟩ mapetwa emadhheseni ne⟨את⟩ mabhamoti, akatyora ⟨את⟩ matombo eMamoshi, akadimbura ⟨את⟩ maAshera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapetwa emadhheseni"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mapetwa"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "emadhheseni"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ne mabhamoti"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matombo eMamoshi"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "matombo eMamoshi"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "akadimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maAshera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "maAshera"
+    }
+  ],
+  "timestamp": "2026-09-27T10:34:36.484475506Z",
+  "model": "glm-5.3"
+}

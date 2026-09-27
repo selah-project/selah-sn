@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Ndichakutenda mune gungano guru; mune vanhu vakasimba ndichakurumbidza.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndichakutenda"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mugungano"
+    },
+    {
+      "surface": "רב",
+      "gloss": "guru"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "muvanhu"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "vakasimba"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ndichakurumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:23.294754772Z",
+  "model": "glm-5.3"
+}

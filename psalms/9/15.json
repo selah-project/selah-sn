@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Kuti ndidudzire rutendo rwako roose mumasiwo emwanasikana waZiyoni; ndichafara neponeso yako.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndidudzire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "roose"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "rutendo rwako"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "mumasiwo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "emwanasikana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "waZiyoni"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ndichafara"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "neponeso yako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:50.900181666Z",
+  "model": "glm-5.3"
+}

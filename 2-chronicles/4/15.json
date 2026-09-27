@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "⟨את⟩ gungwa rimwe chete, ne⟨את⟩ mombe gumi nembiri dziri pasi paro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gungwa rimwe chete"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rimwe chete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mombe gumi nembiri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gumi nembiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(gumi nembiri)"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pasi paro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:02.364155127Z",
+  "model": "glm-5.3"
+}

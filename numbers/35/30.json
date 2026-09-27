@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Munhu wose anouraya mweya, nokutaurwa kwevhavhati vaurayi ⟨את⟩ murayi; uye vhavhari imwe haizobudi mazwi pamusoro pemweya kuti afe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "anouraya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nokutaurwa"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "kwevhavhati"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "vaurayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murayi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "murayi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "uye vhavhari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "zobuda mazwi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "pamusoro pemweya"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuti afe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:03.552184353Z",
+  "model": "glm-5.3"
+}

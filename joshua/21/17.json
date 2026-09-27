@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kubva mumutumba weBhinjamina: ⟨את⟩ Gibhaoni netunze dzayo, ⟨את⟩ Gebha netunze dzayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kubva mumutumba we"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bhinjamina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibhaoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibhaoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netunze dzayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "netunze dzayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gebha"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netunze dzayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "netunze dzayo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:37.914456775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Anodyisa zvipfuwo zvose zvemindeni; madhongi emusango dzinoputsa chizhinyo chadzo.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "anodyisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zemindeni"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "dzinoputsa"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "madhongi emusango"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "chizhinyo chadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:08.618585988Z",
+  "model": "glm-5.3"
+}

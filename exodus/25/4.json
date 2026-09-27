@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye svipa, ruvara rwemarweni, dzvuku, tonje, nivhudzi dzembudzi.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "svipa"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ruvara rwemarweni"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dzvuku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dzvuku"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "tonje"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "vhudzi dzembudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:40.820691333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Kunyaradzwa kwuri pauripo wekuputsa, iwe uusingaputswi; wekutsenga, uye havakutsengi iwe! Paunenge wavapedza kuputsa, unoputswa; paunenge wavapedza kutsenga, vanokutsenga iwe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kunyaradzwa kwuri pauripo"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "wekuputsa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usinga-"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "putswi"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "wekutsenga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hava-"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "kutsengi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "paunenge wavapedza"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "kuputsa"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "unoputswa"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "paunenge wavapedza"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "kutsenga"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "vanokutsenga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:51.152989131Z",
+  "model": "glm-5.3"
+}

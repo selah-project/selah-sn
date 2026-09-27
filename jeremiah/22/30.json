@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 22:30",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Zvakadaro zvinotaura Yahwe: Nyorai murume uyu ⟨את⟩ semunhu asina vana, mumwe asingabudiriri mazuva ake; nokuti pasichabudirira mumwe wehwaya hwake, akagara pachigaro chechishe chaDhavhidhi, kana kutonga zvakare muJudha.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvinotaura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "Nyorai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murume uyu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ערירי",
+      "gloss": "asina vana"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asinga-"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "budiriri"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "mazuva ake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pasi-"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "chabudirira"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "wehwaya hwake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro chechishe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "chaDhavhidhi"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "kana kutonga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "muJudha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:57:54.060886093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uchazodza naro ⟨את⟩ tenda yokusangana, na⟨את⟩ chavara chechiratidzo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uchazodza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenda yokusangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "chavara chechiratidzo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chavara"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "chechiratidzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:17.369163416Z",
+  "model": "glm-5.3"
+}

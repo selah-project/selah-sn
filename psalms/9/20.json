@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Simuka, Yahwe; rega munhu asimbe; marudza atongwe pamberi pechiso chako.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "asimbe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "atongwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:52.057066939Z",
+  "model": "glm-5.3"
+}

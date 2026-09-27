@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Yahwe Erohimu akati: Hazvina kunaka kuti munhu agare ega; ndichamuita mubatsiri wakamiririra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hazvi-"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kunaka"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kuti…agare"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ega"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichamuita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mubatsiri"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "wakamiririra"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:23.730593301Z",
+  "model": "glm-5.3"
+}

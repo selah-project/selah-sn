@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "nokuti haugoni kunamata Er rimwe; nokuti Yahwe, zita rake Mutsivi, ndiye Er Mutsivi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugoni"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "kunamata"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Mutsivi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Mutsivi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:31.005188874Z",
+  "model": "glm-5.3"
+}

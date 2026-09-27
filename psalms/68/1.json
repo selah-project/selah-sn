@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Kune mutungamiri ⟨we⟩nzvimbo yokuimba. Nhemboyo yaDhavhidhi, dzinemidzwa yokuimbwa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nhemboyo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dzinemidzwa yokuimbwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:12.018832786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "2-samuel 22:45",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Vana venyika yeparutiva vanondizvininipisa; pakunzwa kwenzeva vanoteerera kune ini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "venyika yeparutiva"
+    },
+    {
+      "surface": "יתכחשו",
+      "gloss": "vanondizvininipisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kune ini"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "pakunzwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kwenzeva"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "vanoteerera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kune ini"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:11.723107278Z",
+  "model": "glm-5.3"
+}

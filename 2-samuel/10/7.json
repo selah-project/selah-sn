@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Dhavhidhi akanzwa, ndipo akatuma ⟨את⟩ Yowabhu n⟨את⟩ bato rose reauto — simba rose.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabhu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "bato rose reauto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "reauto"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "simba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:56:59.722051730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Munhu akadaidza mazita zvipfuyo zvose, neshiri dzematenga, nemhuka dzose dzeshe; asi kuna munhu haakwanisi kuwanikwa mubatsiri wakamiririra.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadaidza"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mazita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvipfuyo"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "neshiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzematenga"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mhuka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dzeshe"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "kuna munhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "kuwanikwa"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mubatsiri"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "wakamiririra"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:23.731246230Z",
+  "model": "glm-5.3"
+}

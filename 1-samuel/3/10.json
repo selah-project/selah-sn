@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe akauya, akamira, akadana senguva dzose: Shamuweri, Shamuweri. Shamuweri akati: Taura, nokuti mushandi wako anoteerera.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "senguva imwe"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuweri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuweri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuweri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Taura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anoteerera"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:23.063771258Z",
+  "model": "glm-5.3"
+}

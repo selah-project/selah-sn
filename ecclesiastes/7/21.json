@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uyezve kune mazwi ose anotaurwa, usapa moyo wako, kuti usanze unonzwa ⟨את⟩ mushandi wako achikutukira.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Uyezve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kune … ose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano-"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "taurwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "-pa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "-nzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mushandi wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "achikutukira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:23.596927072Z",
+  "model": "glm-5.3"
+}

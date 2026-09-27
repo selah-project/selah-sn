@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Vose vanondiona vanondiseka; vanotambudza muromo, vanokwenyezva musoro, vachiti:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vose"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "vanondiona"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "vanondiseka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "vanotambudza"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "vanokwenyezva"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:35.591761798Z",
+  "model": "glm-5.3"
+}

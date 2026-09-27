@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti ⟨את⟩ Ovara, ⟨את⟩ Avhimaeri, ⟨את⟩ Sheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ovara"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avhimaeri"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avhimaeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:56.127851972Z",
+  "model": "glm-5.3"
+}

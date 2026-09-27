@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akati kwaari: Danha zita rake Yizreeri, nokuti zvichangove zvishoma, ndichazviziva ⟨את⟩ ropa reYizreeri pamusoro pemusha waYehu, ndichamisa ushe hwemusha weIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Danha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvichangove"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "zvishoma"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ndichazviziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ropa reYizreeri"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "reYizreeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "musha"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "waYehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ndichamisa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ushe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hwemusha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:42.156937353Z",
+  "model": "glm-5.3"
+}

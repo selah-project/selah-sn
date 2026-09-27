@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Ndinoti kunaYahwe: utswiro hwangu nedziva rangu, Erohimu wangu, mune ndinovimba.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ndinoti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "utswiro hwangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nedziva rangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndinovimba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mune"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:34.114458707Z",
+  "model": "glm-5.3"
+}

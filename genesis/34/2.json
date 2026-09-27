@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Nokudara Shekemu mwanakomana chaKhamori Muhivhi, mutungamiri we⟨the⟩ nyika, akaona ⟨את⟩ iye; akamutora, akagara naye, akamuredzedza.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Dhinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamori"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Muhivhi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akamutora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Dhinah)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akagara naye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Dhinah)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "akamuredzedza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:34.130191089Z",
+  "model": "glm-5.3"
+}

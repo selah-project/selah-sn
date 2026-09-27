@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye ⟨את⟩ vana vake handichavapa tsitsi, nokuti vana venhando ndivo vari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "chavapa tsitsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "venhando"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndivo vari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:28.117144619Z",
+  "model": "glm-5.3"
+}

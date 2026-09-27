@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Nokuti neni �chako ndakatakura nyadzi; kunyadziswa kwakafukidza chiso changu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "neni �chako"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndakatakura"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyadzi"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "kwakafukidza"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "kunyadziswa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:32.861697486Z",
+  "model": "glm-5.3"
+}

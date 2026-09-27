@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Paakaonetsa ⟨את⟩ upfumi nehukuru hwoumambo hake, uye ⟨את⟩ ruremekedzo rwekanaka kwazvokana kune huwandu hwake, mazuva mazhinji — makumi masere nezana zuva rimwe chete.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "paakaonetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upfumi nehukuru hwoumambo hake"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "upfumi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nehukuru"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "hwoumambo hake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "ruremekedzo rwekanaka kwazvokana"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "rwekanaka kwazvokana"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kune huwandu hwake"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "makumi masere"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nezana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:34.371543288Z",
+  "model": "glm-5.3"
+}

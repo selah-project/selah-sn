@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Nokudaro ndinokutenda iwe Yahwe, muvenyika, uye ndinorumbidza zita rako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rokudaro"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndinokutenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "muvenyika"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "nezita rako"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "ndinorumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:03:50.767656921Z",
+  "model": "glm-5.3"
+}

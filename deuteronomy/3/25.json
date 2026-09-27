@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndipfuurirei, ndikaone ⟨את⟩ ivhu rakanaka iri kumuseru kweYorodhani, gomwe rakanaka iri, neRubhanoni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ndipfuurire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-rei"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndikaone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivhu rakanaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "rakanaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kumuseru"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "kweYorodhani"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gomwe"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "rakanaka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "neRubhanoni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:01.590450775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kufara kwomunhu asina kufamba muchirongwa chevarushinga, kana kumira munzira yevatadzi, kana kugara muchigaro chevanyeperi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kufara kwo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "famba"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "muchirongwa che"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "varushinga"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "munzira ye"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "vatadzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "mire"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "muchigaro che"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "vanyeperi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.950709709Z",
+  "model": "glm-5.3"
+}

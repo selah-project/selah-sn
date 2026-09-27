@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Asi iwe, Adonai, ndiwe Er ane tsitsi neane nyasha, unononoka kutsamwa, une hesedhi huru nechokwadi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Asi iwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ane tsitsi"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "neane nyasha"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "unononoka"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "une huru"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nechokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:26.069428949Z",
+  "model": "glm-5.3"
+}

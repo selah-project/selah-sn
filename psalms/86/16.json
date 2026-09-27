@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Temandira, uye ita nyasha neni; pa simba rako kumushandi wako, uye ponese mwana wemurandi wako.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Temandira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "uya ita nyasha neni"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "simba rako"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kumushandi wako"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "uye ponese"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wemurandi wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:26.069659025Z",
+  "model": "glm-5.3"
+}

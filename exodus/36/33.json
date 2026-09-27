@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Ndakaaka akaita ⟨את⟩ mutsetse wepakati, kudyara mukati memadziro, kubva kunze kumwe kusvika kunze kumwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutsetse wepakati"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "mutsetse"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "wepakati"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "kudyara"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kunze kumwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "kunze kumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:21.995958929Z",
+  "model": "glm-5.3"
+}

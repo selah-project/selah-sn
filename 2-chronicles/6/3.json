@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye mambo akatenderera ⟨את⟩ chiso chake, akaropa ⟨את⟩ mhunga yose yeIsraeri; uye mhunga yose yeIsraeri yakamira.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akatenderera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhunga yose yeIsraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mhunga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye yose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mhunga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yeIsraeri"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "yakamira"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:02.112012776Z",
+  "model": "glm-5.3"
+}

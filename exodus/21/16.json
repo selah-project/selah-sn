@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye aneba munhu nomutengesa, kana awanikwa ari mumaoko make, anofa zvirokwazvo afa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "uye aneba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "nomutengesa iye"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "kana awanikwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mumaoko make"
+    },
+    {
+      "surface": "מות",
+      "gloss": "afa zvirokwazvo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:44.365136879Z",
+  "model": "glm-5.3"
+}

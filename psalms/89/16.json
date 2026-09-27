@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Vanofara vanhu vanoziva mudeze wekufara, Yahwe; muchiedza chechiso chavo vanofamba.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Vanofara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "vanoziva"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "mudeze wekufara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "muchiedza"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chechiso chavo"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "vanofamba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:40.566341771Z",
+  "model": "glm-5.3"
+}

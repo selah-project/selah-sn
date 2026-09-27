@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 3:21",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino varume ivavo vakasungwa nezvabhachi zvavo, nehashishi zvavo, nezviputsa zvavo, nezambuko zvavo, vakakandwa mukati mechoto, moto unopisa.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "varume"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ivavo"
+    },
+    {
+      "surface": "כפתו",
+      "gloss": "vakasungwa"
+    },
+    {
+      "surface": "בסרבליהון",
+      "gloss": "nezvabhachi zvavo"
+    },
+    {
+      "surface": "פטישיהון",
+      "gloss": "nehashishi zvavo"
+    },
+    {
+      "surface": "וכרבלתהון",
+      "gloss": "nezviputsa zvavo"
+    },
+    {
+      "surface": "ולבשיהון",
+      "gloss": "nezambuko zvavo"
+    },
+    {
+      "surface": "ורמיו",
+      "gloss": "vakakandwa"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "choto"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "unopisa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:02:35.969308947Z",
+  "model": "glm-5.3"
+}

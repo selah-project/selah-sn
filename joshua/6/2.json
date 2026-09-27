@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Yahwe akati kuYehoshua: Ona, ndakupa mumaoko ako ⟨את⟩ Yeriiko ne⟨את⟩ mambo wayo, simba rehondo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakupa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mumaoko ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriiko"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mambo wayo"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "mambo wayo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "simba"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "rehondo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:10.479797239Z",
+  "model": "glm-5.3"
+}

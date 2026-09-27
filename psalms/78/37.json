@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Asi moyo yavo hauna kugadzikana naye, uye havana kutendeka musungano yake.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "asi moyo yavo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kugadzikana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "kutendeka"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "musungano yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:37.358708685Z",
+  "model": "glm-5.3"
+}

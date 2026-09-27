@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Nokuti vakashusha ⟨את⟩ Mweya wake, uye akataura zvisina fungwa nomuromo wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "vakashusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mweya wake"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Mweya wake"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "uye akataura zvisina fungwa"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "nomuromo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:44.337557975Z",
+  "model": "glm-5.3"
+}

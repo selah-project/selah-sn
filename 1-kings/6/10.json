@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Akavaka ⟨את⟩ chivako pamusoro peimba yose, hudzamu hwaro hwemamha mashanu; akabatanidza ⟨את⟩ imba nemiti yemaarezi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivako"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "chivako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hwemamha"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "hudzamu hwaro"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "akabatanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "nemiti ye"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "maarezi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:33.389305179Z",
+  "model": "glm-5.3"
+}

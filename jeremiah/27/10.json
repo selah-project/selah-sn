@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Nokuti vanobereka nhema kwenyu, kuitira kukudzingai kure nenyika yenyu; uye ndichakudzingai ⟨את⟩ imwi, imi muchapera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nhema"
+    },
+    {
+      "surface": "הם",
+      "gloss": "vano-"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "vanobereka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenyu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuitira"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "kudzingai kure"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imwi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "nyika yenyu"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "ndichakudzingai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imwi"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "muchapera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:01:49.159817306Z",
+  "model": "glm-5.3"
+}

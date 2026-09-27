@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 31:19",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Zvino nyorai kwamuri rwiyo urwu, uye rwoudzidzisa ⟨את⟩ vana vaIsiraeri; uiise mukanwa mavo, kuti rwiyo urwu rube umbowo kwandiri mune vana vaIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "nyorai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rwiyo urwu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uru"
+    },
+    {
+      "surface": "ולמדה",
+      "gloss": "rwoudzidzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "uiise"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mukanwa mavo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "rube"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uru"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "umbowo"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mune vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:15.893675568Z",
+  "model": "glm-5.3"
+}

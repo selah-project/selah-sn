@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Asi vakaedza uye vakamutsahasa ⟨את⟩ Erohimu wepamusoro-soro, uye havachazadzisa mabviro ake.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "vakaedza"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "vakamutsahasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu wepamusoro-soro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wepamusoro-soro"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mabviro ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havachazadzisa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "vaisachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:46.850963191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "uye ⟨את⟩ mwanasikana wehyaini, uye ⟨את⟩ hatahamasi, uye ⟨את⟩ hashahafu, uye ⟨את⟩ hanetu, nemhando yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mwanasikana wehyaini"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "wehyaini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "hatahamasi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "hatahamasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "hashahafu"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "hashahafu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "hanetu"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "hanetu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nemhando yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:16.505967071Z",
+  "model": "glm-5.3"
+}

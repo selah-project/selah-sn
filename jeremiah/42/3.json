@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "kuti Yahwe Erohimu wako atiudze ⟨את⟩ nzira yatinofamba nayo, ne⟨את⟩ chinhu chatinoita.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "atiudze"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tinoenda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chinhu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tinoita"
+    }
+  ],
+  "timestamp": "2026-09-27T08:08:40.373388363Z",
+  "model": "glm-5.3"
+}

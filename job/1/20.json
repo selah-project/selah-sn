@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Jobi akamuka, akabvarura ⟨את⟩ jasi rake repamusoro, akacheka ⟨את⟩ musoro wake, akawa pasi, akapfugama.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobi"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akabvarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jasi rake repamusoro"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "jasi rake repamusoro"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wake"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akapfugama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:33:37.161418319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Izvi ndinorangarira, uye ndinodururira mweya wangu pamusoro pangu; nokuti ndakambopfuura nomumberi, ndinofamba zvinyoro navo kusvika kumusha waErohimu, nenzwi rerufaro nerutendo, nomumberi wakachengeta mutoro.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Izvi"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ndinorangarira"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "uye ndinodururira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ndakambopfuura"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "nomumberi"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ndinofamba zvinyoro navo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kumusha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nenzwi re"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rufaro"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "nerutendo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "nomumberi"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "wakachengeta mutoro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:09.351771245Z",
+  "model": "glm-5.3"
+}

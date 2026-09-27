@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino zvapera mazuva matatu, vatungamiri vakapfuura nemukati memusha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvapera"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kupera kwe"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "vakapfuura"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nemukati me"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "musha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:54:36.959794826Z",
+  "model": "glm-5.3"
+}

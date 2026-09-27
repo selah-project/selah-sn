@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Adonai, pamberi penyu chipo changu chese chiri; ndokufema kwangu hakuna kuzorwa kubva kwamuri.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chese"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "chipo changu chiri"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ndokufema kwangu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kubva kwamuri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "kuzorwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:21.229425488Z",
+  "model": "glm-5.3"
+}

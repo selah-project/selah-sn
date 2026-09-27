@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Rumbidzai Yah! Imbai nomurairo kuYahwe, chiitiko chitsva; rumbidzo yake mubatanidzwa revatsvene.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Imbai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chiitiko"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "chitsva"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rumbidzo yake"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mubatanidzwa"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "revatsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:13.444940332Z",
+  "model": "glm-5.3"
+}

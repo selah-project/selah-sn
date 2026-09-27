@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Uye rukudzo rwezita ruremekedzo yake ngaruve nokusingaperi; ngaise ruremekedzo yake ⟨את⟩ pasi rose. Ameni, ameni!",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Uye rukudzo rwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita re"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ruremekedzo yake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ngaise"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ruremekedzo yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasi rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ameni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:50.183358775Z",
+  "model": "glm-5.3"
+}

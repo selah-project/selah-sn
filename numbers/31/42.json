@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Uye kubva muchidimbu chevana vaIsraeri, chaMoshe akaturika kubva kuvanhu vehondo:",
+  "tokens": [
+    {
+      "surface": "ו ממחצית",
+      "gloss": "uye kubva muchidimbu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "chevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha-"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "akaturika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "vehondo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:05:45.913667192Z",
+  "model": "glm-5.3"
+}

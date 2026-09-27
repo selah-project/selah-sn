@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Mutsvene achafara paanoona chitongwa; achasvamba mitsindo yake muropa wevakashata.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "achafara"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "anoona"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "chitongwa"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "mitsindo yake"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "achasvamba"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "muropa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "wevakashata"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.152930033Z",
+  "model": "glm-5.3"
+}

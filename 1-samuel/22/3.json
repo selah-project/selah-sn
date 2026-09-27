@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Dhavhidhi akabva ipapo akaenda Mutsipi waMoabhu, akati kumambo waMoabhu: Ndapota, baba nambuye vangu ngavabude ⟨nemi⟩, kusvika ndizive zvichaita kwandiri Erohimu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akabva ipapo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Mutsipi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMoabhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMoabhu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ngavabude"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ndapota"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "nambuye vangu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nemi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndizive"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvi-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chaita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:50.876247368Z",
+  "model": "glm-5.3"
+}

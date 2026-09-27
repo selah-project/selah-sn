@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye ⟨את⟩ madzimambo ose aya ne⟨את⟩ nyika dzavo Yehoshua akatora kamwe chete, nokuti Yahwe, Erohimu waIsuraeri, aiva airwira Isuraeri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madzimambo ose aya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyika dzavo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nyika dzavo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "airwira"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:20.391666857Z",
+  "model": "glm-5.3"
+}

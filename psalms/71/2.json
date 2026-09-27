@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Ndanyura mudhuze rematope, uye hapana pachinogara.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ndanyura"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "mudhuze"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "rematope anonhangochero"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "מעום",
+      "gloss": "pachinogara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:57.473038616Z",
+  "model": "glm-5.3"
+}

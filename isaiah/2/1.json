@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Izwi raakariona Yeshaia, mwana waAmotsi, pamusoro peYudha neYerusharemu.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raaka-"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "riona"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa-"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerusharemu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:26.631660959Z",
+  "model": "glm-5.3"
+}

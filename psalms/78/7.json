@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Uye vachisunungura kutarisira kwavo munaErohimu, uye vachasarudza mabasa aEr, mazano ake vachachengeta.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "vachisunungura"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "munaErohimu"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "kutarisira kwavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "kukasarudza"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aEr"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "mazano ake"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "vachachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:23.260682868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anotuma shoko rake, rimatedza; anodyaridza mhepo yake — mvura inoyerera.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "anotuma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "shoko rake"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "⟨anomatedza⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anodyaridza"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mhepo yake"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "inoyerera"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:03.426558011Z",
+  "model": "glm-5.3"
+}

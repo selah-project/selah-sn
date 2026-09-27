@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Vanhu vose vakasangana somunhu mumwe ⟨padambudziko⟩ riri pamberi pechiso cheGate yemvura, uye vakati kuna Ezira munyori avaunze ⟨את⟩ bhuku retora yaMoshe, iyo Yahwe akarayira ⟨את⟩ Israeri.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "somunhu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pechiso che"
+    },
+    {
+      "surface": "שער",
+      "gloss": "Gate"
+    },
+    {
+      "surface": "המים",
+      "gloss": "yemvura"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "kuna Ezira"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "munyori"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "avaunze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bhuku retora yaMoshe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bhuku"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "retora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "yaMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:15:17.906293873Z",
+  "model": "glm-5.3"
+}

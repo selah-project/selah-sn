@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Yaakobha akasimudzira tsoka dzake, akaenda kunze kwenyika yevana vakuru kuchamhembe.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "akasimudzira"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsoka dzake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kunze kwenyika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "vechamhembe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:04.929751307Z",
+  "model": "glm-5.3"
+}

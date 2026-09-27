@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Chipfuva chimwe chireba, uye chipfuva chimwe chupfumi; chine gunzvimbo chichave; uye mapfuva maviri kureba; nzvimbo dzaro dzinobva mairi.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "chipfuva chimwe"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "uye chipfuva chimwe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kupfuma"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "chiri gunzvimbo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chinove"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "uye mapfuva maviri"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kuva kureba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dzinobva mairi"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "nzvimbo dzaro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:04.968527197Z",
+  "model": "glm-5.3"
+}

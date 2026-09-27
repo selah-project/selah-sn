@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Kuzvitutumadza kunouya, ndipo panouya nyadzo; asi ⟨את⟩ vazvininipisa hungwaru.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "kunouya"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "kuzvitutumadza"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ndipo panouya"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "nyadzo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "asi ⟨את⟩",
+      "marks": "vazvininipisa"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "vazvininipisa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hungwaru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:39.868835515Z",
+  "model": "glm-5.3"
+}

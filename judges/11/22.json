@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Vakawana ⟨את⟩ muganhu wose waEmori, kubva muArnoni kusvika Yaboki, uye kubva mugwenga kusvika Yoredheni.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "vakawana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muganhu wose waEmori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "waEmori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "kubva muArnoni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yaboki"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uye kubva mu"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gwenga"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredheni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:37:06.230972497Z",
+  "model": "glm-5.3"
+}

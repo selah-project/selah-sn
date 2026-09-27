@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Hapana achazvara chifa kana asina kubeleka nyika yako; ⟨את⟩ huwandu hwemazuva ako ndichazadza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "achazvara chifa"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "kana asina kubeleka"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "nyika yako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huwandu hwemazuva ako"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "huwandu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hwemazuva ako"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ndichazadza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:30.624453450Z",
+  "model": "glm-5.3"
+}

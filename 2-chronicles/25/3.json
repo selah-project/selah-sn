@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Zvino zvakaitika, kana umambo hwakasimbiswa kwairi, akauraya ⟨את⟩ varanda vake vakauraya ⟨את⟩ mambo baba vake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hwakasimbiswa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwairi"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:24:23.811511331Z",
+  "model": "glm-5.3"
+}

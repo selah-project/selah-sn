@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye ⟨את⟩ pasi pemba akafukidza ndende, mukati nekunze.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pasi pemba"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pemba"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "akafukidza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndende"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "nekunze"
+    }
+  ],
+  "timestamp": "2026-09-27T07:08:12.626092059Z",
+  "model": "glm-5.3"
+}

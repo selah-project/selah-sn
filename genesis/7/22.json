@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvose zvaiva nekufema kwemweya hupenyu mhino dzadzo, ezvose zvaiwanikwa panzvimbo yakaoma — zvose zvakafa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaiva"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nekufema"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hupenyu"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "mhino dzadzo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaiwanikwa"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "panzvimbo yakaoma"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "zvakafa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:46.023089876Z",
+  "model": "glm-5.3"
+}

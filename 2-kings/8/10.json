@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Erisha akati kwaari: Enda, uti kwaari: Unorapwa zvirokwazvo; asi Yahwe andiratidza kuti achafa zvirokwazvo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Erisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "unorapwa"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "andiratidza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "achafa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zvirokwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:23.539219417Z",
+  "model": "glm-5.3"
+}

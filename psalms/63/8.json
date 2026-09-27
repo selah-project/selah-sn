@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Nokuti wakava rubatsiro rwangu; mumumvuri wemapiro ako ndichafara nekuzvirumbidza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wakava"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "rubatsiro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rwangu"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mumumvuri"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wemapiro ako"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ndichafara nekuzvirumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:52.631692623Z",
+  "model": "glm-5.3"
+}

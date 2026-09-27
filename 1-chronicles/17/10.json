@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "nemazuva andakakomekedza vatongi pavannhu vangu Israeri; ndakadzikisa ⟨את⟩ vavengi vako ose. Ndokuudza iwe kuti Yahwe achavakira imba yako.",
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "nemazuva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakakomekedza"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "vatongi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "ndakadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vako ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "ndokuudza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "achavaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:53.591128762Z",
+  "model": "glm-5.3"
+}

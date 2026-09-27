@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Yakobo akashumira makore nomwe nokuda kwaRakhe; ndokuita maziso ake mazuva mashoma, nokuda kwekuda ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "akashumira"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "nokuda kwaRakhe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ndokuita"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "mashoma"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "nokuda kwekuda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ihe (Rakhe)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:50.954580684Z",
+  "model": "glm-5.3"
+}

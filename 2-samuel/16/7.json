@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye Shimhi akataura udaro pakutuka kwake, kuti: Buda, buda, iwe munhu wemaropa, munhu wakashata!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "udaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimhi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "pakutuka kwake"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Buda"
+    },
+    {
+      "surface": "צא",
+      "gloss": "buda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "wemaropa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "uye munhu"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "wakashata"
+    }
+  ],
+  "timestamp": "2026-09-27T07:00:46.156588250Z",
+  "model": "glm-5.3"
+}

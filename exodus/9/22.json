@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe akati kuna Moshe: Tambanudza ⟨את⟩ ruoko rwako pamusoro pematenga, uye mabharadhi awire pasi munyika yose yeMitsirayi, pamusoro pemunhu, nepamusoro pezvipfuwo, nepamusoro peuswa hwese hwemunda munyika yeMitsirayi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tambanudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye … awire"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mabharadhi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "munyika yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsirayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro pe"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwese"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "hwemunda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsirayi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:58.346144780Z",
+  "model": "glm-5.3"
+}

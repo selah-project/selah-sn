@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye Aroni achatabatsa ⟨את⟩ mombe yechibairo chetadzo chake, achazvidzikinura iye pachake neyemumba yake.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "achatabatsa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mombe yechibairo chetadzo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yechibairo chetadzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "achazvidzikinura"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "iye pachake"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "yemumba yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:17.330776302Z",
+  "model": "glm-5.3"
+}

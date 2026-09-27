@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Anobatanidza ⟨senyere⟩ mvura yegungwa; anoisa zvidziva muzvikoro zvake.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Anobatanidza"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "senyere"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yegungwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anoisa"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "muzvikoro zvake"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "zvidziva"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:51.249670107Z",
+  "model": "glm-5.3"
+}

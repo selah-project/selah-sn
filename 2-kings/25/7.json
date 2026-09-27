@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Vakauraya ⟨את⟩ vana vaTsidikiya pamberi pamao ake; ⟨את⟩ maziso aTsidikiya akapukunywa; vakamusunga nezvitero zvestsimbi, vakamutora kuBhabhironi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaTsidikiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "vaTsidikiya"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pamberi pamao ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maziso aTsidikiya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "aTsidikiya"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akapukunywa"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "vakamusunga"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "nezvitero zvestsimbi"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "vakamutora"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "kuBhabhironi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:27.222913033Z",
+  "model": "glm-5.3"
+}

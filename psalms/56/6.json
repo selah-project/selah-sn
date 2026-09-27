@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Mazuva ose vanodzikisya mashoko angu pandiri; zvinhu zvose zvavanofungira zvakaipa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko angu"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "vanodzikisya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "zvavanofungira"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:52.761636614Z",
+  "model": "glm-5.3"
+}

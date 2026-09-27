@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Hebheru akabereka ⟨את⟩ Yafireti, ne⟨את⟩ Shomere, ne⟨את⟩ Hothamu, ne⟨את⟩ Shua, hanzvadzi yavo.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Hebheru"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yafireti"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yafireti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Shomere"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Hothamu"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hothamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "hanzvadzi yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:25.858412637Z",
+  "model": "glm-5.3"
+}

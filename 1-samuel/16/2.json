@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 16:2",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Shemueri akati: Ndingaenda sei? Shauro achanzwa nokundiparadza. Yahwe akati: Tora notso yemombe muruwanja rwako, uye uti: Ndauya kuzopira chibairo kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueri"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sei"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndingaenda"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "uye akanzwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "nokundiparadza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "notso"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "yemombe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "muruwanja rwako"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uye uti"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kuzopira chibairo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndauya"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:12.390662459Z",
+  "model": "glm-5.3"
+}

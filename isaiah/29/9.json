@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Mirai muofunge, muchishamiswa; itai mabofu, muve mabofu; mave nemakhwa, asi kwete newayini; mazamazama, asi kwete nedoro.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "mirai-muofunge"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "muchishamiswa"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "itai-mabofu"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "muve-mabofu"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mave-nemakhwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi-kwete"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wayini"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "mazamazama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi-kwete"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "doro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:21.530162640Z",
+  "model": "glm-5.3"
+}

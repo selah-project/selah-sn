@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Tichapa ⟨את⟩ vanasikana vedu kwamuri, uye ⟨את⟩ vanasikana venyu tichatora kwatiri; tichagara ⟨את⟩ nemimi, uye tichava vanhu ⟨vimwe chete⟩.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "tichapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanasikana vedu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "vanasikana vedu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanasikana venyu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "vanasikana venyu"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tichatora"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "tichagara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nemimi"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tichava"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:38.723644663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye kunaAharoni vakazvarwa ⟨את⟩ Nadhabhi ne⟨את⟩ Avhihu, ⟨את⟩ Elezara ne⟨את⟩ Itamara.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "vakazvarwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kunaAharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadhabhi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadhabhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Avhihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avhihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elezara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elezara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Itamara"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamara"
+    }
+  ],
+  "timestamp": "2026-09-27T06:04:25.763108700Z",
+  "model": "glm-5.3"
+}

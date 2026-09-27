@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Wakatora ⟨את⟩ vanakomana vako ne⟨את⟩ vanasikana vako vawakazvara kandiri, wakazvipira kuvachi kudyiwa; here hupfambi hwako hushoma?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "wakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanakomana vako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vanakomana vako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanasikana vako"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "vanasikana vako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "wakazvara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "wakazvipira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvacho"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "kudyiwa"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "hushoma"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "hupfambi hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:20:22.130649345Z",
+  "model": "glm-5.3"
+}

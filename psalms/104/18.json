@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Makomo akakwirira ⟨ndee⟩ yezimbwa yemusango; matombo ihumo yezvimbwa chatsva.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "akakwirira"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "yezimbwa yemusango"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ihumo"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "zezvimbwa chatsva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.490719646Z",
+  "model": "glm-5.3"
+}

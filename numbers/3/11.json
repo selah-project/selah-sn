@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe akataura kuna Moshe, achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:32.921219290Z",
+  "model": "glm-5.3"
+}

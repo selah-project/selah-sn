@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Batai ⟨ti⟩ mbimbimbwa, mbimbimbwa madiki anoparadza minda yemurara; nokuti minda yedu yemurara ine ruva.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "Batai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "mbimbimbwa"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "mbimbimbwa"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "madiki"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "anoparadza"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "minda yemurara"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "nokuti minda yedu yemurara"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "ine ruva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:46:32.131457607Z",
+  "model": "glm-5.3"
+}

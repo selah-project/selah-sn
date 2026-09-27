@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Are, imba yaAron ngaati: kuti nokusingaperi hesedhi yake.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ngaati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Are"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "yaAron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:52.409272095Z",
+  "model": "glm-5.3"
+}

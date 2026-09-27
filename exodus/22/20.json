@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye mugari muparadhiningausamuzvidza, uye usamutsvanyire, nokuti makanga muri varwadzi munyika yeMitsirayi.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "uye mugari muparadhini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usi"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "-muzvidza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye usi"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "-mutsvanyire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "varwadzi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "makanga muri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsirayi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:35.531771658Z",
+  "model": "glm-5.3"
+}

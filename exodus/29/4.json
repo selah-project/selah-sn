@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye ⟨את⟩ Aroni nane⟨את⟩ vana vake uchavasvitsa kumukova wetenda yekusangana, uchavageza ⟨את⟩ ivo nemvura.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Uye ⟨את⟩",
+      "marks": "Aroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nane⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "uchavasvitsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mukova"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yekusangana"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "uchavageza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aroni navana vake"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:55.845855085Z",
+  "model": "glm-5.3"
+}

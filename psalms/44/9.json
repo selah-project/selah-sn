@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "MuErohimu takazvikudza zuva rose, uye zita rako ticharikudza nokusingaperi. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "MuErohimu"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "takazvikudza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "uye zita rako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "ticharikudza"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:20.191251931Z",
+  "model": "glm-5.3"
+}

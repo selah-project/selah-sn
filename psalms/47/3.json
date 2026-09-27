@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Nokuti Yahwe ndeEriyoni, anotyisa; mambo mukuru pamusoro peakunze kwese.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eriyoni (apamusoro)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "anotyisa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwese"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "akunze"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.889783796Z",
+  "model": "glm-5.3"
+}

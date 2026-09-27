@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akamirazve mazuva nomwe rimwe, akatumira ⟨את⟩ nhanga; iyi haikambodzokera kwaari zvakare.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "akamirazve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhanga"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "nhanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "-ikawedzera"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:19.180210789Z",
+  "model": "glm-5.3"
+}

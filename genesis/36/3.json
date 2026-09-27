@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "N⟨את⟩ Bhoshimati mwanasikana waIshumaeri, sisi yaNevhayoti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "Bhoshimati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bhoshimati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana wa"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishumaeri"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sisi ya"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevhayoti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:59.423095858Z",
+  "model": "glm-5.3"
+}

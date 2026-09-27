@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye uchaita makumi mashanu emakarasi endarama, uyeuchabatanidza ⟨את⟩ machira, rimwe nerimwe, nemakarasi; uye Mishikani ichava chimwe chete.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uye uchaita"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "emakarasi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "endarama"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "uye uchabatanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machira"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "machira"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "nemakarasi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uye uchava"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:21.799985380Z",
+  "model": "glm-5.3"
+}

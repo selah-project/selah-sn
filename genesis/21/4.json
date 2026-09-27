@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye Abhurahama akadzingisa Isaka mwanakomana wake, mwana wemazuva rusere, sokuti Erohimu akamurayira ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "uye akadzingisa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "wemazuva rusere"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuti"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akamurayira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kwaari (Abhurahama)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:31.217707152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye Yahwe Erohimu wako achachekera ⟨את⟩ moyo wako nomoyo wezerere rako, kuti mude Yahwe Erohimu wako nemoyo wako wose nemweya wako wose, kuti upenyu hwako huve hunogara.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "achachekera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wako"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wezerere rako"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wezerere rako"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kuti mude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne…wose"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne…wose"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mweya wako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "upenyu hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:33.400188224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Muchamutenderedza mambo padenderedzwa, mumwe nomumwe nezvombo zake mumaoko ake; uye anopinda mumitsetse achaurawa; uye muve ⟨na⟩ ⟨את⟩ mambo pachibuda kwake nepachipinda kwake.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "Muchamutenderedza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "padenderedzwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "nezvombo zake"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mumaoko ake"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "anopinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mumu"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "mitsetse"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "achaurawa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "muve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "pachibuda kwake"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "nepachipinda kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:21:01.251949530Z",
+  "model": "glm-5.3"
+}

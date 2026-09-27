@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akavatungamirira zvakanaka vasina kutya; uye gungwa rakafukidza ⟨את⟩ vavengi vavo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Akavatungamirira"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "vasina"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vavo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "vavengi vavo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "rakafukidza"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:46.850310333Z",
+  "model": "glm-5.3"
+}

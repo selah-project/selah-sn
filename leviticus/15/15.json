@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye chibviridzo chichazviita ⟨את⟩ zviri zviviri: chimoshe chimwe chibairo chetadzo, uye chimwe chibairo chokupisa; chibviridzo chichazvitsvagirira pachiso cheYahwe zvamadonhiro ake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "chichazviita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zviri zviviri (madove)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "chibviridzo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimoshe chimwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "chibairo chetadzo"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "uye chimwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chibairo chokupisa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "chichazvitsvagirira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "zva"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "chibviridzo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "zvamadonhiro ake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:25.327453010Z",
+  "model": "glm-5.3"
+}

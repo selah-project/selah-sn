@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "unocheka ⟨את⟩ chanza chake; ziso rako risaite tsitsi.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "unocheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chanza chake"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "chanza chake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "risaite tsitsi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ziso rako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:37.532215823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye vana vaIsraeri vakawanda zvakanaka, vakazara senhuvhe, vakawandisa, vakasimba chaizvo kuchipera; nyika yakazadzwa ⟨אתם⟩ navo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Uye vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "vakawanda zvakanaka"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "vakazara senhuvhe"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "vakawandisa"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "vakasimba"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "chaizvo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kupera kwezvinhu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yakazadzwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "vano (vana vaIsraeri)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:41.387656671Z",
+  "model": "glm-5.3"
+}

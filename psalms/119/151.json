@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Iwe uri pedyo, Yahwe; uye mirairo yako yose ⟨⟨ndi⟩⟩ chokwadi.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "uri pedyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye ... yose"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:09.345668356Z",
+  "model": "glm-5.3"
+}

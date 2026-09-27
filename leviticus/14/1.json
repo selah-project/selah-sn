@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahwe akataura kuna Moshe, achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:12.816500344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Akataura, netsvetu dzakauya, madhunzwi mumiganhu yavo yose.",
+  "tokens": [
+    {
+      "surface": "אָמַר",
+      "gloss": "Akataura"
+    },
+    {
+      "surface": "וַיָּבֹא",
+      "gloss": "dzakauya"
+    },
+    {
+      "surface": "עָרֹב",
+      "gloss": "netsvetu"
+    },
+    {
+      "surface": "כִּנִּים",
+      "gloss": "madhunzwi"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "mu… yose"
+    },
+    {
+      "surface": "גְּבוּלָם",
+      "gloss": "miganhu yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:53.515040185Z",
+  "model": "glm-5.3"
+}

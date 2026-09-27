@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Zvirokwazvo, zvirwere zvedu ndiye akatakura, uye marwadzo edu akawatakira; asi isu takamuverengera arohwa, akurohwa naErohimu, uye akashushwa.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "zvirwere zvedu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "akatakura"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "marwadzo edu"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "akawatakira"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "asi isu"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "takamuverengera"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "arohwa"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "akurohwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "naErohimu"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "akashushwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:13.511508966Z",
+  "model": "glm-5.3"
+}

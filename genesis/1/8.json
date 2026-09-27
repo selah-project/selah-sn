@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akadaidza muviri wemvura “Matenga”. Zvakaita manheru, zvakaita mangwanani — zuva repiri.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadaidza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "muviri wemvura"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "“Matenga”"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaita"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manheru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaita"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "שני",
+      "gloss": "repiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:28.993581291Z",
+  "model": "glm-5.3"
+}

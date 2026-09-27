@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Kalev mukorwa waHetsroni akabereka ⟨את⟩ Azubha mukadzi, ne⟨את⟩ Yeriyothi; uye ava vana vake: Yeshari, naShobhabhi, naArdhoni.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Uye Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa wa"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetsroni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azubha"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azubha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yeriyothi"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Yeriyothi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "uye ava"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Yeshari"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "naShobhabhi"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "naArdhoni"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:58.897558010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye Achimaatsi akabereka ⟨את⟩ Azaria, uye Azaria akabereka ⟨את⟩ Yohana.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Uye Achimaatsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "uye Azaria"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yohana"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohana"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:47.811022848Z",
+  "model": "glm-5.3"
+}

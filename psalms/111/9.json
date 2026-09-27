@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Akatumira kudzikinura kuvanhu vake; akaraira sungano yake nokusingaperi; mutsvene wokutyisa zita rake.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "kudzikinura"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kuvanhu vake"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sungano yake"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "wokutyisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:22.871205626Z",
+  "model": "glm-5.3"
+}

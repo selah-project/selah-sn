@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Moshe naAroni vakati kune vana vose vaIsraeri: Madoka, muchaziva kuti Yahwe ndiye akaburitsa ⟨אתכם⟩ muvhu waEjipita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAroni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "madoka"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "muchaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "akaburitsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "imi (imi muchiburitswa)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "muvhu wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ejipita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:59.442734153Z",
+  "model": "glm-5.3"
+}

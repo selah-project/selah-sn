@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Josafha akauza kwavari mambure maviri akawona ⟨את⟩ vose, taona vaive vakaomeswa meso.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akauza kwavari"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josafha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mambure maviri"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akawona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vose (מפני שהם זועפים)"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "taona"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "vakaomeswa meso"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:47.127918488Z",
+  "model": "glm-5.3"
+}

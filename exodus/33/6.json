@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uye vana vaIsiraeri vakabvisa ⟨את⟩ nhumbi dzavo kubva pegomo reHorivhi.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "vakabvisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhumbi dzavo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "nhumbi dzavo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kubva pegomo"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "reHorivhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:24.901243632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Dhavhidhi akawedzera kupfumbatidza munaYahwe, uye Yahwe akamupindura achiti: Simuka, dzika kuKeira, nokuti ndinokupa ⟨את⟩ Vafelishti mumaoko ako.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "kupfumbatidza"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "akamupindura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "dzika"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "kuKeira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kupaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vafelishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafelishti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mumaoko ako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:19.007338480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mushure make, Eroni weZevuruni akatonga ⟨את⟩ Isiraeri, ndokutonga ⟨את⟩ Isiraeri makore gumi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mushure make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eroni"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "weZevuruni"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:36.569170797Z",
+  "model": "glm-5.3"
+}

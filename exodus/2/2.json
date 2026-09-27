@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mukadzi akazvitakura akazvara mwanakomana; akamuona ⟨את⟩ kuti aakanaka, akamuvanza miwedzi mitatu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akazvitakura"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "akamuona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye — mwanakomana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "aakanaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "akamuvanza"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "miwedzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:57.357166200Z",
+  "model": "glm-5.3"
+}

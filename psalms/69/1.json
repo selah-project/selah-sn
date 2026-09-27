@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Kune mutungamiri, pane ⟨Shoshanimu⟩, nhembo yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "⟨Shoshanimu⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nhembo yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.175737873Z",
+  "model": "glm-5.3"
+}

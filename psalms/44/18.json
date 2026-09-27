@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Izvi zvose zvakatikwanisa, asi hatina kukanganwa iwe, uye hatina kunyepa musingano yako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "zvakatikwanisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hatina"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "kukanganwa iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hatina"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "kunyepa"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "musingano yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:16.472921391Z",
+  "model": "glm-5.3"
+}

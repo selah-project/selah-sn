@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Akapfuuridzira kuvaka ⟨את⟩ Beithlehemu, ⟨את⟩ Etamu, ne⟨את⟩ Tekoa;",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beithlehemu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Etamu"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:47.343268410Z",
+  "model": "glm-5.3"
+}

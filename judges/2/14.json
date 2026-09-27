@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 2:14",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye hasha dzaYahwe dzakatsamwa paIsuraeri, ndokuzovapa mumaoko evatori, vakavatora; ndokuzovavatengesa mumaoko emavengi avo akakomberedza; uye vachisakwanisa kumira pamberi pemavengi avo.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dzakatsamwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "paIsuraeri"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ndokuzovapa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "evatori"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "vakavatora"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩avo",
+      "marks": "Isuraeri"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "ndokuzovavatengesa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "emavengi avo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "akakomberedza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye...-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "vakasakwanisa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "achi-"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "kumira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "mavengi avo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:50.918444581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Akabayira uye akapfutsa utsi panzvimbo dzepamusoro nepakumwedzi zvikwata, uye pasi pemuti nomwe nomwe wemashizha matsva.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "akabayira"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "akapfutsa utsi"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "panzvimbo dzepamusoro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepa-"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "kumwedzi zvikwata"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "pasi pe-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nomwe nomwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muti"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wemashizha matsva"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:58.554634683Z",
+  "model": "glm-5.3"
+}

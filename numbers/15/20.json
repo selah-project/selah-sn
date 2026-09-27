@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Chokutanga chefuka rwenyu, chikafu chimwe muchakwidza semhindu; sokumhindu kwegurenge, naizvozvo muchachikwidza ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "chokutanga"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "chefuka rwenyu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "chikafu chimwe"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "muchakwidza"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "semhindu"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "sokumhindu"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "kwegurenge"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "muchachikwidza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chikafu chimwe (chokutanga chefuka)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:59:54.462298119Z",
+  "model": "glm-5.3"
+}

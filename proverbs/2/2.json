@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "kuti nzeve dzako dziteerere vhumenazwi, uye moyo wako ucunze kune vhumenazvo —",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "kuti dziteerere"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "vhumenazwi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nzeve dzako"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ucunze"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "kune vhumenazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:38.855897488Z",
+  "model": "glm-5.3"
+}

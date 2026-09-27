@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Naizvozvo, tarisai, ini ndichavhara ⟨את⟩ nzira yako nemasvesve, ndichavaka ⟨את⟩ rusvingo rwake, uye nzira dzake haazozviwana.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tarisai, ini"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ndichavhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira yako"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzira yako"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "nemasvesve"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ndichavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rusvingo rwake"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "rusvingo rwake"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "uye nzira dzake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "zozviwana"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:28.117610708Z",
+  "model": "glm-5.3"
+}

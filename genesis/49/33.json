@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Yaakobh akapedza kukomekedza ⟨את⟩ vana vake, akaunganidza tsitsi dzake ⟨kumubhedha⟩, akafema nokupedzisira, uye akaunganidzwa kuvanhu vake.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "akapedza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobh"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "kukomekedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsitsi dzake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumubhedha"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "mubhedha"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "akafema nokupedzisira"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akaunganidzwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:14.548520702Z",
+  "model": "glm-5.3"
+}

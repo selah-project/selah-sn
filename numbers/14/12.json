@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Ndichavakurova nechirwere, uye ndichavashisisa; uye ndichaita iwe ⟨את⟩ kuva ruganda guru uye rine simba rupfuura iro.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Ndichavakurova"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nechirwere"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "uye ndichavashisisa"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "uye ndichaita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe kuva ruganda"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ruganda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "uye rine simba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "rupfuura iro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:51:30.655712636Z",
+  "model": "glm-5.3"
+}

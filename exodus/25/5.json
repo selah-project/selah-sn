@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nedehwe remadhiripa zvitsvuku, nedehwe retechashi, nemiti yeshitimu.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "nedehwe"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "remadhiripa"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "zvitsvuku"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "nedehwe"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "retechashi"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "nemiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeshitimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:49.477828474Z",
+  "model": "glm-5.3"
+}

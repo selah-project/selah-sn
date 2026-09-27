@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Baraka akati kwaari: Ukatsamira neni, ndinoenda; asi ukasatsamira neni, handiendi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Uka"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "tsamira"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ndinoenda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "asi uka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "tsamira"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "endi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:34:29.736981901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Varume ivavo vaiva vakanaka kwatiri zvikuru, uye hatina kunyadziswa, uye hapana chinhu chatakashayika, mazuva ose ataifamba-famba ⟨את⟩ navo, po tiri muminda.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "varume ivavo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "vaiva vakanaka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hatina"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "kunyadziswa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "chatakashayika"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "ataifamba-famba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ navo",
+      "marks": "navo (vari navo — H854, chivakashure, kwete chiratidzo chechiitwa)"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "po tiri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "muminda"
+    }
+  ],
+  "timestamp": "2026-09-27T10:57:48.937762641Z",
+  "model": "glm-5.3"
+}

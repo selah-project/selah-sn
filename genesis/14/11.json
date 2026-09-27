@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Vakatora ⟨את⟩ pfuma yese yaSodhomu neyaGomora, ne⟨את⟩ chokudya chavo chose, vakabva vaenda.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pfuma yese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yese"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "pfuma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "yaSodhomu"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "neyaGomora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chokudya chavo chose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chokudya chavo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakabva vaenda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:21.344259980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Tarisa, mumhosva ndakaberekwazve, uye muchitadzo amai vangu vakandifuratira.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "mumhosva"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ndakaberekwazve"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "muchitadzo"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "vakandifuratira"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amai vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:01.868112939Z",
+  "model": "glm-5.3"
+}

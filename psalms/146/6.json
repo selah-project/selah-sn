@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Anoita matenga nepasi, ⟨את⟩ gungwa ne⟨את⟩ zvose zviri mukati mazvo; Yahwe anochengeta chokwadi kusvika nekusingaperi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Anoita"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nepasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose zviri mukati mazvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mukati mazvo"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "anochengeta"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kusvika nekusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:24.900727678Z",
+  "model": "glm-5.3"
+}

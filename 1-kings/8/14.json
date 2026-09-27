@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye mambo akatendeutsa chiso chake, aka⟨את⟩ro⌊pafadza⌋ mutoero wose waIsirairi; uye mutoero wose waIsirairi wakamira.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akatendeutsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutoero wose waIsirairi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mutoero"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsirairi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye…wose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mutoero"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsirairi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "wakamira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:09.958755867Z",
+  "model": "glm-5.3"
+}

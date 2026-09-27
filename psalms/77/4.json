@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Ndinorangarira Erohimu, ndinoneteka; ndinofungafunga, uye Mweya wangu unoremerwa. Sera.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ndinorangarira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ndinoneteka"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndinofungafunga"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "unoremerwa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:25.383934966Z",
+  "model": "glm-5.3"
+}

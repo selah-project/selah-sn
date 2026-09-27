@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Isu takati kwaari: isu ⟨iri⟩ vechokwadi; kwete takanga tiri vaongorori.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "takati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "vechokwadi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "isu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "takanga tiri"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vaongorori"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:31.144784740Z",
+  "model": "glm-5.3"
+}

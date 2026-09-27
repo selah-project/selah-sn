@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Muka, rukudzo rwangu; muka, nevere nokinora; ndinomutsa mangwanan.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "muka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "rukudzo rwangu"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevere"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "nokinora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ndinomutsa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "mangwanan"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:59.959853920Z",
+  "model": "glm-5.3"
+}

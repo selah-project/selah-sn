@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mozhe akanzwa, uye zvakaita maziso make.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "zvakaita"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "maziso make"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:43.405728976Z",
+  "model": "glm-5.3"
+}

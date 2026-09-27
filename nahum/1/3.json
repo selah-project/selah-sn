@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 1:3",
+  "book": "nahum",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe hare kutsamwa, uye mukuru masimba, asi hadzina kutambudzika hadzisi kureurura; Yahwe mumhepo inoputa neshe yemhepo nzira yake, uye mitaunge ndidhustyi retsoka rwake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hare"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "uye mukuru"
+    },
+    {
+      "surface": "כח",
+      "gloss": "masimba"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "hadzina kutambudzika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hadzisi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "kureurura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "mumhepo inoputa"
+    },
+    {
+      "surface": "ובשערה",
+      "gloss": "neshe yemhepo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nzira yake"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "uye mitaunge"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "dhustyi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "retsoka rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:41.531621148Z",
+  "model": "glm-5.3"
+}

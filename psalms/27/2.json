@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Kana vakaipa vachindiuyira kudya ⟨את⟩ nyama yangu — vavengi vangu navakaipa vangu — iwo vakatsetsvika vakadonha.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "kana... vachindiuyira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yangu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nyama yangu"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "navakaipa vangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vangu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "vakatsetsvika"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "vakadonha"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:16.956141675Z",
+  "model": "glm-5.3"
+}

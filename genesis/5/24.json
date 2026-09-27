@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Chanoki akafambafamba ⟨⟨את⟩ na⟩Erohimu, uye haatopi, nokuti Erohimu akatora ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "akafambafamba"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "haatopi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:20.476278867Z",
+  "model": "glm-5.3"
+}

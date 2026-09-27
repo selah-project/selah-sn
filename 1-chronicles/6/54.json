@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "noku ⟨את⟩ Aiyaroni nemigarho yayo, noku ⟨את⟩ Gathirimoni nemigarho yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aiyaroni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aiyaroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "migarho yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migarho yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gathirimoni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "rimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "migarho yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migarho yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:03.621741992Z",
+  "model": "glm-5.3"
+}

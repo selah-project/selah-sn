@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Munyama yangu yakatumuka kuita kutya kwako, uye ndinotya mitemo yako.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "yakatumuka"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "kuita kutya kwako"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Munyama yangu"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "uye kubva mitemo yako"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ndinotya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:53.340383207Z",
+  "model": "glm-5.3"
+}

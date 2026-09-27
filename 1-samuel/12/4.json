@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Vakataura kuti: Hauna kudyachisa, hauna kudzvanyira, uye hauna kutora chinhu chero chii mumuridzi wako ruoko.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Vakataura kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Hauna"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "kudyachisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "kudzvanyira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hauna"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kutora"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "muruoko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "womuridzi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chinhu chero chii"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:37.390795833Z",
+  "model": "glm-5.3"
+}

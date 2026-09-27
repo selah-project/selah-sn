@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Kana mufungwa dzako, usatukire mambo, uye muzvimbamombe dzako dzekorofa usatukire mupfumi; nokuti shiri yomhepo inotakurira ⟨את⟩ izwi, uye muridzi wemapiro anozivisa shoko.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "mufungwa dzako"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "tukire"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "uye muzvimbamombe dzako"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "dzekorofa chako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "tukire"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mupfumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yomhepo"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "inotakurira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "uye muridzi"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "wemapiro"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "anozivisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:51.812565797Z",
+  "model": "glm-5.3"
+}

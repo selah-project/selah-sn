@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Moshe akati kumuridzi wake: Nokuti vanhu vanouva kwandiri kunotsvaga Erohimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "kumuridzi wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vanouva"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "kunotsvaga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:30.437157820Z",
+  "model": "glm-5.3"
+}

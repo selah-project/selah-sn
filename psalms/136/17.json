@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Kune uyo akarohita madzimambo makuru: nokuti hesedhi yake rinogara nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Kune uyo akarohita"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake rinogara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:21.469941733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Ngadai vanhu vangu vaizondinzwa! Israeri vaifamba ⟨nzira⟩ dzangu!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ngadai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vaizondinzwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "⟨nzira⟩ dzangu"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "vaifamba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:08.192652467Z",
+  "model": "glm-5.3"
+}

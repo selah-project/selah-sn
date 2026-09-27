@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Ano akabata asiye akaita, oda madzinza kubva pakutanga? Ndini Yahwe, wekokutanga, uye ⟨את⟩ vechipedzisvari ndinivo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "akabata"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "asiye akaita"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oda"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kubva pakutanga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "wekokutanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vechipedzisvari"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "vechipedzisvari"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ivo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:00.248918556Z",
+  "model": "glm-5.3"
+}

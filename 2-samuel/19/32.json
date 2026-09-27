@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Barizirai weGireadhi akazoburuka kubva kuRogirimu, akambopfuura ⟨את⟩ mambo Yordani, kumufambisa ⟨את⟩ [kunze kwe]Yordani.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Barizirai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "weGireadhi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "akazoburuka"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "kubva kuRogirimu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akambopfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo Yordani"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordani"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kumufambisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunze kweYordani"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "kunze kweYordani"
+    }
+  ],
+  "timestamp": "2026-09-27T07:02:01.417459349Z",
+  "model": "glm-5.3"
+}

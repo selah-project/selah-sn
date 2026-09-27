@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ushupa hwavo hwose ⟨uri⟩ muGirigara; nokuti ipapo ndakavavenga; nezvakaipa zvezviito zvavo ndichavarasa kubva mumba yangu; handichawedzera kuvavada; madzishe avo ose vagaritira.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ushupa hwavo"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "muGirigara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ndakavavenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "zvezviito zvavo"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "kubva mumba yangu"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "ndichavarasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "chawedzera"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "kuvavada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "madzishe avo"
+    },
+    {
+      "surface": "סררים",
+      "gloss": "vagaritira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:12:47.946427304Z",
+  "model": "glm-5.3"
+}

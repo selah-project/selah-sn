@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nziyo yaDhavhidhi. Yahwe, ndiani achagara mutendi wako? Ndiani achagara pagomo reutsvene hwako?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "mutendi wako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pagomo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "reutsvene hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:22.623888997Z",
+  "model": "glm-5.3"
+}

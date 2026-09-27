@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 12:11",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Vakaita kuti ive rushanga; yakarohwa nerushanga kwandiri; nyika yose yakashayika, nokuti hapana munhu anozoisa ⟨את⟩ ⟨pa⟩mwoyo.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "vakaita kuti ive"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "rushanga"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "yakarohwa nerushanga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "rushanga"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "yakashayika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anozoisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mwoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:56:27.990928018Z",
+  "model": "glm-5.3"
+}

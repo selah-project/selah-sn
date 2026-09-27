@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Nokuti kusimudzwa hakuna kubva mabvazuva, kana madokero, kana kubva mugwenga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "kubva mabvazuva"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kana madokero"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana hakuna"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kubva mugwenga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kusimudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.009406238Z",
+  "model": "glm-5.3"
+}

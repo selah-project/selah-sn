@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "uyo anonzwa ⟨את⟩ izwi reShavhara asina kutora yambiro, mupangara uchauya uye umutorera — ropa rake richave pamusoro peMusoro wake.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "anzwa"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "anonzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi reShavhara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "reShavhara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "kutora yambiro"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "uchauya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mupangara"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "umutorera"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ropa rake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pamusoro peMusoro wake"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "richave"
+    }
+  ],
+  "timestamp": "2026-09-27T08:27:31.023911929Z",
+  "model": "glm-5.3"
+}

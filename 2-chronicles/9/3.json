@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Mambokadzi waSheva akaona ⟨את⟩ ungwaru hwaSoromo, ne⟨the⟩ imba yaakavaka.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Mambokadzi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "waSheva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ungwaru hwaSoromo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ungwaru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "hwaSoromo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "neimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaakavaka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akavaka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:38.247631208Z",
+  "model": "glm-5.3"
+}

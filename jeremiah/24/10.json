@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Ndichavatumira kwavari ⟨את⟩ munondo, ⟨את⟩ nzara, ne⟨את⟩ dhenda, kusvika vapera kubva padhaka apo ndakapa kuvapa nemadzibaba avo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ndichavatumira"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munondo"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "munondo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzara"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "dhenda"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dhenda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "vapera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dhaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvapa"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "nemadzibaba avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:00:11.696331955Z",
+  "model": "glm-5.3"
+}

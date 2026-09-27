@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Vakaita vana vaIsraeri vainowanikwa ⟨את⟩ Paseka panguva iyo, uye ⟨את⟩ mabiko emikate isina chibviso, mazuva nomwe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "vainowanikwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mabiko"
+    },
+    {
+      "surface": "חג",
+      "gloss": "mabiko"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "emikate isina chibviso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:43:50.017507139Z",
+  "model": "glm-5.3"
+}

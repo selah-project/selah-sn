@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe, Adonai wedu, zita rako rinokosha zvakadii mumhuri yose yenyika, iwe wakagadza ruremekedzo rwako pamusoro pematenga!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wedu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvakadii"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "rinokosha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mumhuri yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yenyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "wakagadza"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ruremekedzo rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.032637781Z",
+  "model": "glm-5.3"
+}

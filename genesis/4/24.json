@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nokuti Kayini anoripiswa nomwe kaviri-kaviri; asi Lemekhi — makumi manomwe nomwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "nomwe kaviri-kaviri"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "anoripiswa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "asi Lemekhi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "nomwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:51.839091682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti kusorerwa kunopunza pfungwa dzomuchenjeri, uye mbo inoparadza ⟨את⟩ moyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "kusorerwa"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "kunopunza pfungwa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dzomuchenjeri"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "uye inoparadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "mbo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:33.259633385Z",
+  "model": "glm-5.3"
+}

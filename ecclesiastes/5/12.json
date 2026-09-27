@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Pane chakaipa chinorwara ndakaona pasi pezuva: upfumi hunochengetwa nomuridzi waro kuipa kwake.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "pane"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "chinorwara"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndakaona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "upfumi"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hunochengetwa"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "nomuridzi waro"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "kuipa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:41.668137336Z",
+  "model": "glm-5.3"
+}

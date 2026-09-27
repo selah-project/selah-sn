@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Yahwe, mangwanani unoteerera izwi rangu; mangwanani ndicharongedza kwamuri, ndichatarisira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "unoteerera"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ndicharongedza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "ndichatarisira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:58.025967413Z",
+  "model": "glm-5.3"
+}

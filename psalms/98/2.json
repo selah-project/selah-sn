@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 98,
+  "translation": "Yahwe akazivisa ruponeso rwake; pamaso emadzinwa akazaratidza kururama kwake.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ruponeso rwake"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamaso e"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "emadzinwa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "akazaratidza"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kururama kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:21.068838979Z",
+  "model": "glm-5.3"
+}

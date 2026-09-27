@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 114,
+  "translation": "Imi makomo, kuti makasvetuka semadhombo? Imi maruwa, sevana venhete?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Imi makomo"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "kuti makasvetuka"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "semadhombo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "Imi maruwa"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sevana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "venhete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:10.693636480Z",
+  "model": "glm-5.3"
+}

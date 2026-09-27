@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Kune mutungamiri, paNehiroti, nziyo yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehiroti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:58.025501882Z",
+  "model": "glm-5.3"
+}

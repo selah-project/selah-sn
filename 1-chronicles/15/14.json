@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Ndokuzvo mapristi ndevaRevi vakazviitsvenesa kuti vakwanise kutakura ⟨את⟩ chibhokisi chaYahwe, chaErohimu weIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "vakazviitsvenesa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ndevaRevi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "kutakura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibhokisi chaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chibhokisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "chaErohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:23:50.506149939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 9:3",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvino mbhurudhanga dzaKishi, baba vaSauro, dzakashayika. Uye Kishi akati kuna Sauro mwanakomana wake: Torawo zvino ⟨את⟩ newe ⟨את⟩ mumwe wevashandi, muka, famba, tsvaga ⟨את⟩ mbhurudhanga.",
+  "tokens": [
+    {
+      "surface": "ותאבדנה",
+      "gloss": "dzakashayika"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "mbhurudhanga"
+    },
+    {
+      "surface": "לקיש",
+      "gloss": "dzaKishi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba va"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauro"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Torawo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "newe ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumwe wevashandi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "wevashandi"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "muka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "famba"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "tsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbhurudhanga"
+    },
+    {
+      "surface": "האתנת",
+      "gloss": "mbhurudhanga"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:06.398596409Z",
+  "model": "glm-5.3"
+}

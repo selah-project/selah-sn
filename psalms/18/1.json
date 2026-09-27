@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Kune muchengeti wenziyo, mushandi waYahwe, Dhavhidhi, akataura kunaYahwe ⟨את⟩ mazwi enziyo iyi, pazuva iro Yahwe akamununura ⟨את⟩ kubva muruoko rwavavengi vake vose, neruoko rwaShauru.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune muchengeti wenziyo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "mushandi wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi enziyo iyi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "enziyo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "akamununura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kubva muruoko rwavavengi vake vose"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kubva muruoko rwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vavengi vake"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "neruoko rwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:32.194233888Z",
+  "model": "glm-5.3"
+}

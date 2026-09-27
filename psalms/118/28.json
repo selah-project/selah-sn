@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Iwe uri Er wangu, ndichakutendai; Erohimu wangu, ndichakukudza.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe uri"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ndichakutendai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ndichakukudza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:58.393673737Z",
+  "model": "glm-5.3"
+}

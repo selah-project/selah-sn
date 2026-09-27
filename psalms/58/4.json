@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Vakaipa vazvarwa vakasiyana nendyara; vakaerekana kubva mumba matema, vachitaura nhema.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "vakasiyana nendyara"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Vakaipa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "vakazvarwa"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "vakaerekana"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kubva mumba matema"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vachitaura"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "nhema"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:40.943103966Z",
+  "model": "glm-5.3"
+}

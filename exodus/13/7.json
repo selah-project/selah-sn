@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mafita achadyiwa ⟨את⟩ mazuva nomwe, uye chivande chisina kuvhiyiwa chichaonekwa kwauri, uye mukuyi hauchaonekwa kwauri munzvimbo dzako dzose.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mafita"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "achadyiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazuva nomwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye…ha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "chichaonekwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chivande chisina kuvhiyiwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye…ha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "uchaonekwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mukuyi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…dzose"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "nzvimbo dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:21.417041478Z",
+  "model": "glm-5.3"
+}

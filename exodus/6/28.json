@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Zvino pakaitika, muzuva iro Yahwe paakataurira Mozisi munyika yeMitsiriyamu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "pakaitika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva iro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "paakataurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozisi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsiriyamu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:19.930056356Z",
+  "model": "glm-5.3"
+}

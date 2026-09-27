@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 98,
+  "translation": "Ita ruzha rwekufara kuna Yahwe, pasi rose; bvumanai mose mufare, uye imburai dzinwa.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Ita ruzha rwekufara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "bvumanai mose"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "mufare"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "imburai dzinwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:21.069166700Z",
+  "model": "glm-5.3"
+}

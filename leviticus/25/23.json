@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ndokuti ivhu haritengeswi nokuda kwekudzikiswa kuparara, nokuti ivhu ndirerangu; nokuti muri vageni nevagari veni neni.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ritengeswi"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "nokuda kwekudzikiswa kuparara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndirerangu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vageni"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "nevagari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "muri"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "veni neni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:02.527059479Z",
+  "model": "glm-5.3"
+}

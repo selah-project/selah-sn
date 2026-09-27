@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Muchipoko ichi munhu achakanda ⟨את⟩ zvidhori zvesirivha yake ne⟨את⟩ zvidhori zvendarama yake, avo vakadziro kwaari kuzvinamata, kuzvipuku zvemunda nezveswiro.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "muchipoko"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "achakanda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvidhori zvesirivha yake"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "zvidhori"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "zvesirivha yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvidhori zvendarama yake"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "zvidhori"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "zvendarama yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakadziro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kuzvinamata"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kuzvipuku zvemunda"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "zvemunda"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "nezveswiro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:59.976231361Z",
+  "model": "glm-5.3"
+}

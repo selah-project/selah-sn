@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 11:8",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye mwari wavo, newamambo wavo, nezvinofadza zvavo — sirivha negoridhe — achatora muhutapwa kuMitsiraimu; uye iye achamira makore achibva kumambo wechamabvazuva.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "mwari wavo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "wamambo wavo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "zvinofadza zvavo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negoridhe"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "muhutapwa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kuMitsiraimu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "achamira"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "achibva kumambo"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "wechamabvazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:06:21.176782714Z",
+  "model": "glm-5.3"
+}

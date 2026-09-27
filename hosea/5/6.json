@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nemhuru dzavo nedzomombe dzavachafamba achitsvaga ⟨את⟩ Yahwe, asi havamuchawana; akavabva pavari.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "Nemhuru dzavo"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "nedzomombe dzavo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dzavachafamba"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "achitsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "havamuchawana"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "akavabva"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "pavari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:04.030407116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 13:22",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "asi wakadzoka, wakadya chikafu nokunwa mvura munzvimbo yatakataurwa kwauriti: Usadye chikafu, uye usanwe mvura — ruzhowa rako haruchapindi kumugota wemadzibaba ako.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "asi wakadzoka"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wakadya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "nokunwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yakataurwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usadye"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usanwe"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "kunwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hauchazopindi-marker"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kupinda"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "ruzhowa rako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumugota"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mugota"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "wemadzibaba ako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:05.608794312Z",
+  "model": "glm-5.3"
+}

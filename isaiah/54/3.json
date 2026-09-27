@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Nokuti kurudyi nekuruboshwe uchaputira, uye mbeu yako ichagara marudzi, nemaguta akashaywa achagariswa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kurudyi"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "nekuruboshwe"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "uchaputira"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "uye mbeu yako"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ichagara"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "nemaguta"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "akashaywa"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "achagariswa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:20.677715874Z",
+  "model": "glm-5.3"
+}

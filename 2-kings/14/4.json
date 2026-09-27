@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Asi ⟨bamoti⟩ hadzisina kudzikiswa; vanhu zvichiri kupira chibairo nekunamura panzvimbo ⟨dzepamusoro⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Asi chete"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamoti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hadzisina"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kudzikiswa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvichiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "kupira chibairo"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "nekunamura"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "panzvimbo dzepamusoro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:29.678432983Z",
+  "model": "glm-5.3"
+}

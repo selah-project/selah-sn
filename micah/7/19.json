@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "micah 7:19",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Achadzoka, achatitsidzira; anodzikisa ⟨את⟩ mhosva dzedu, uye uchadzinga ⟨את⟩ zvitadzo zvavo dzose kudzamo regungwa.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Achadzoka"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "achatitsidzira"
+    },
+    {
+      "surface": "יכבש",
+      "gloss": "anodzikisa"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "mhosva dzedu"
+    },
+    {
+      "surface": "ותשליך",
+      "gloss": "uchadzinga"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "kudzamo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "regungwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "חטאותיהם",
+      "gloss": "zvitadzo zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:25.009358128Z",
+  "model": "glm-5.3"
+}

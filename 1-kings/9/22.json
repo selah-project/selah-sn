@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 9:22",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Asi kuburikidza nevana vaIsraeri Soromu haana kuisa varanda, nokuti vaive vanarwi, varanda vake, madzimambo ake, madzitaundi ake, madzimambo emagariro ake emhiso, nemabhizimende ake.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Asi kuburikidza nevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kuisa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Soromu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vana"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "varwi"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "madzimambo ake"
+    },
+    {
+      "surface": "ושלשיו",
+      "gloss": "madzitaundi ake"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "emagariro ake"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "nemabhizimende ake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:16.360676452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Rumbidzai rukudzo rwezita rake; ita rukudzo kurumbidzwa kwake.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "kurumbidzwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.662308386Z",
+  "model": "glm-5.3"
+}

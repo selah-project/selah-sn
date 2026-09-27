@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "uye ⟨את⟩ nheo gumi, uye ⟨את⟩ madziniro gumi panheo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "nheo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "nheo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "madziniro"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "madziniro"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "nheo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:25.587834753Z",
+  "model": "glm-5.3"
+}

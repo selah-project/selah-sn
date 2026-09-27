@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye vanhu veBhabhironi vakasika ⟨את⟩ Suko-Bhenoti; uye vanhu veKuta vakasika ⟨את⟩ Nergari; uye vanhu veHamati vakasika ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "uye vanhu ve"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bhabhironi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Suko-Bhenoti"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Suko"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Bhenoti"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "uye vanhu ve"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergari"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergari"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "uye vanhu ve"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:16.856647385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Zvino shure kokufa kwaAbhurahama, Erohimu akaropafadza ⟨את⟩ Itsaka mukomana wake; uye Itsaka akagara neBheeru-Rahai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure ko"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itsaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mukomana wake"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsaka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bheeru"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Rahai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:12.264838817Z",
+  "model": "glm-5.3"
+}

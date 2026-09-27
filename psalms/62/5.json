@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Chete — kubva kukudziro yake vanorangarira ⟨kumudzikisa⟩; vanofarira manyepo; nomuromo wavo vanoropa, asi mukati memoyo yavo vanotuka. Selaha.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "kubva kukudziro yake"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "vanorangarira"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "kumudzikisa"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "vanofarira"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "manyepo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "nomuromo wavo"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "vanoropa"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "mukati memoyo yavo"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "vanotuka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:36.936115618Z",
+  "model": "glm-5.3"
+}

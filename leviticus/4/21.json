@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ndege ichibuditsa ⟨את⟩ pachiyo panze pemusha, ichopisa se ⟨את⟩ pachiyi chekutanga; chibairo chechivi cheungano ndicho.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "achabuditsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachiyo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pachiyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "panze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pemusha"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "achapisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pachiyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "wapisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachiyi chekutanga"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pachiyi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "chekutanga"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "chibairo chechivi"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "cheungano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:29.289055103Z",
+  "model": "glm-5.3"
+}

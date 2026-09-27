@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 15:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokuti Yahwe Erohimu wako achakudombedza, sevakataura kuna iwe; uye unokweretisa marudzi mazhinji, asi iwe haugumi kukweretwa; uye unotonga marudzi mazhinji, asi iwe havagumi kukutonga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "achakudombedza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuna iwe"
+    },
+    {
+      "surface": "והעבטת",
+      "gloss": "unokweretisa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תעבט",
+      "gloss": "ugumi kukweretwa"
+    },
+    {
+      "surface": "ומשלת",
+      "gloss": "unotonga"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "vagumi kukutonga"
+    }
+  ],
+  "timestamp": "2026-09-27T06:14:43.080973559Z",
+  "model": "glm-5.3"
+}

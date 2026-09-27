@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Zvino rehe ndisiwane: kufema kwangu kukapisa pakanoka vaone, ndikavadya; ndokuita iwe ⟨את⟩ kuti uve rudzi rukuru.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino rehe"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ndisiwane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "kukapisa"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "kufema kwangu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pakanoka vaone"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "ndikavadya"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ndokuita"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "iwe ⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:55.411289446Z",
+  "model": "glm-5.3"
+}

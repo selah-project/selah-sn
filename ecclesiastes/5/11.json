@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Gadziriro yemushandi inonaka, kana adya zvishoma kana zvakawanda; asi kuguta kwaupfumi hakumuregereri kurara.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "inonaka"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "gadziriro"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "yemushandi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "zvishoma"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "zvakawanda"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adya"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "kuguta kwaupfumi"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "kwaupfumi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "haku-"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "muregereri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "kurara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:41.667977946Z",
+  "model": "glm-5.3"
+}

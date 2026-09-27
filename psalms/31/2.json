@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Mhari, Yahwe, ndakatizira kwamuri; rega ndinosevereka nokusingaperi; mune utsvene hwenyu ndinunurwe.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndakatizira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ndinosevereka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mune utsvene hwenyu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ndinunurwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:03.312137354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Asi kumadzishe evana veIsirairi haana kutumira ruoko rwake; ndokuvavona ⟨את⟩ Erohimu, vakadya vakanwa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Asi ku"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsirairi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kutumira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ndokuvavona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "vakadya"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "vakanwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:36.780735210Z",
+  "model": "glm-5.3"
+}

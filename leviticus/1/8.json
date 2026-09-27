@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Vanhu vaAharon, mapristi, vacharongedza ⟨את⟩ zvidimbu, ⟨את⟩ musoro ne⟨את⟩ mafuta, pamusoro pehuni iri pamoto, iroro pamusoro pemizbeachi.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "vacharongedza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "vaAharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvidimbu"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "zvidimbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "pehuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iroro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeachi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:26.313934482Z",
+  "model": "glm-5.3"
+}

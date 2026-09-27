@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Izvozvo zvose zvichitarisira kwauri, kuti upa kudya kwavo nguva yayo.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "izvozvo zvose"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "zvichitarisira"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti upa"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "kudya kwavo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "nguva yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:52.410892647Z",
+  "model": "glm-5.3"
+}

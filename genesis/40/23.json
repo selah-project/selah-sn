@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Asi mukuru wemikombe haana kuyeuka ⟨את⟩ Yosefu, akamukanganwa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi haana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuyeuka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wemikombe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "akamukanganwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:29.094424121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye munatakira ⟨את⟩ Sikkuti mambo yenyu, uye ⟨את⟩ Kiyoni mifananidzo yenyu, nyenyedzi yamwari yenyu, iyo waita sikurudzi yenyu.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "uye munatakira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkuti"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkuti"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "mambo yenyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Kiyoni"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyoni"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "mifananidzo yenyu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "nyenyedzi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "yamwari yenyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "waita"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sikurudzi yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:41:04.499138038Z",
+  "model": "glm-5.3"
+}

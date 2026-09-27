@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 48:20",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Terumo yose ichave makumi mashanu nezviuru zviviri nemashanu, nokureba makumi mashanu nezviuru zviviri nemashanu; muchiturikira chikamu chechina ⟨את⟩ terumo yetsvene, pamwe nechitorwa cheguta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "Terumo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "nezviuru zviviri nemashanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "nokureba makumi mashanu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "nezviuru zviviri nemashanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "chikamu chechina"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "muchiturikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumo yetsvene"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumo ye"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "chitorwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cheguta"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:17.269260363Z",
+  "model": "glm-5.3"
+}

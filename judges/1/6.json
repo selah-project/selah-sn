@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye Adhoni-Bezheki akatiza, uye vakamuronda, vakamubata, vakachechura ⟨את⟩ minwe yamaoko ake netsoka dzake.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adhoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezheki"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "vakamuronda"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kumashure kwake"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "vakamubata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "vakachechura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minwe yamaoko netsoka"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "minwe mikuru"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maoko ake"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "netsoka dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:51.409890118Z",
+  "model": "glm-5.3"
+}

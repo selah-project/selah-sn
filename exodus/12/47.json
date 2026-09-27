@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mutowo weIsraeri wose unochengeta ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mutowo we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "unochengeta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Pasika (chinhu chakataurwa pakutaura kwepamberi)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:26.261939079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 128,
+  "translation": "Mukadzi wako ⟨uri⟩ seanzeri rinobereka muchidimbu chemba yako; vana vako seanzeve emaarivi, akakomberedza tafura yako.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Mukadzi wako"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "seanzeri"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "rinobereka"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "muchidimbu che"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mba yako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "seanzeve"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "emaarivi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "akakomberedza"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tafura yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:23.819646953Z",
+  "model": "glm-5.3"
+}

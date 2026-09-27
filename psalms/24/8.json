@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Ani uyu, mambo wokukudzwa? Yahwe wemasimba nokusimba, Yahwe anogona muhondo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wokukudzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "wemasimba"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "nokusimba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "anogona"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "muhondo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:50.156286159Z",
+  "model": "glm-5.3"
+}

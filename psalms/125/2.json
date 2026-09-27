@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 125,
+  "translation": "Yerusharemu — makomo ari kumashure kwavo; uye Yahwe ari kumashure kwevanhu vake, kubvira zvino kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharemu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ari kumashure"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwavo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uye Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ari kumashure"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kwevanhu vake"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kubvira zvino"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:48.752252755Z",
+  "model": "glm-5.3"
+}

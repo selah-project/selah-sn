@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Imbai muchiimbira Yahwe, anogara muZiyoni; rambai muchivudza vanhu mabasa ake.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Imbai muchiimbira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "muZiyoni"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "rambai muchivudza"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mabasa ake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:28.057748138Z",
+  "model": "glm-5.3"
+}

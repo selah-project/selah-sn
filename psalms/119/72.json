@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Tora yomomhasha yako yakakanaka kwandiri kupfuura zviuru zvohurendezvete hwerupadzamu nendarama.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yakakanaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "yomomhasha yako"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kupfuura zviuru"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "rendezvete hwerupadzamu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nendarama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:43.886105605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Yahwe akataura naMozhe, achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:36.822763966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Akavata ⟨את⟩ vatumwa achiti: Zvakadaro muchataura kuna tenzi wangu, kuna Esavu: Zvakadaro anodzara muranda wako Yakob: Ndagara mueni naRabhani, ndakamirira kusvika izvozvi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akavata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vatumwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "muchataura"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kuna tenzi wangu"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kuna Esavu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anodzara"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabhani"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ndagara mueni"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ndakamirira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izvozvi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:44.424956003Z",
+  "model": "glm-5.3"
+}

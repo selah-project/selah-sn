@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "nokuti ⟨את⟩ nyika yose yaunoriona, ndichakupawo, nevazukuru vako kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "unoriona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuna iwe"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ndichakupawo"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "nevazukuru vako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:18.626825609Z",
+  "model": "glm-5.3"
+}

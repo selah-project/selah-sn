@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Erohimu, watisiyedza, watiputsa, wakashatirwa; dzokazve kutitenderera!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "watisiyedza"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "watiputsa"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wakashatirwa"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "dzokazve kutitenderera"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwazvo isu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.503469103Z",
+  "model": "glm-5.3"
+}

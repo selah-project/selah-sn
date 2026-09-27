@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvino matenga nepasi vakapedza ⟨kuzvarwa⟩, nevavabgi vose ∅",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "vakapedza"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nepasi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "vavabgi zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:55.505683666Z",
+  "model": "glm-5.3"
+}

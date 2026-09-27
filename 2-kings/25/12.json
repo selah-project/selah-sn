@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye varombo venyika, mukuru wemabhutcha akavasiira kuti vave varyemazambura nevadzima.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "uye varombo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "akavasiira"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wemabhutcha"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "kuti vave varyemazambura"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "nevadzima"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:48.675410963Z",
+  "model": "glm-5.3"
+}

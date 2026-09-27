@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti nyika ichazadzwa nokuziva ⟨את⟩ kukudzwa kwaYahwe, semvura inofukidza gungwa.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "תִּמָּלֵא",
+      "gloss": "ichazadzwa"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "לָדַעַת",
+      "gloss": "nokuziva"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kukudzwa kwaYahwe"
+    },
+    {
+      "surface": "כְּבוֹד",
+      "gloss": "kukudzwa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כַּמַּיִם",
+      "gloss": "semvura"
+    },
+    {
+      "surface": "יְכַסּוּ",
+      "gloss": "inofukidza"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "gungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:35.597558538Z",
+  "model": "glm-5.3"
+}

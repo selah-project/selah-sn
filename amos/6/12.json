@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ngavamhanyire here zvirokwazvo pamabwe mapazi? Kana mapfumo ogozvirima nombudzi? Nokuti makashandura mutongo kuva huswa hwakaipa, uye muchero wedzikinuro kuva muruksenza.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "ngavamhanyire here"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "pamabwe"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mapazi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "ogozvirima"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "nombudzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "makashandura"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "kuva huswa hwakaipa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutongo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "muchero"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "wedzikinuro"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "kuva muruksenza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:41:23.632898973Z",
+  "model": "glm-5.3"
+}

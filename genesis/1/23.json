@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino yasvika manheru, zvino yakasvika mangwanani — zuva rechishanu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yasvika"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manheru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yakasvika"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "rechishanu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:45.696114246Z",
+  "model": "glm-5.3"
+}

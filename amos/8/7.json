@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe wapika nokurumbidzwa kwaYakobo: \"Handingakanganwe kunekusingaperi chero chimwe chemabasa avo.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wapika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "nokurumbidzwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨hapana⟩"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ndikanganwe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kune kusingaperi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mabasa avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:41:52.980759435Z",
+  "model": "glm-5.3"
+}

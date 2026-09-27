@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Dzichapinzwwa dzine mufaro nokufara; dzichapinda dendemaro remambo.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "Dzichapinzwwa"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "dzine mufaro"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "nokufara"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "dzichapinda"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "dendemaro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "remambo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:11.398212375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akamisikidza chiratidzo chiYaakobhu, akaisa tora muIsraeri, izvo akaraira ⟨את⟩ madzibaba edu, kuti vazivise kuvana vavo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamisikidza"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "chiYaakobhu"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "uye tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzibaba edu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "madzibaba edu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "kuti vazivise"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kuvana vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:23.259377222Z",
+  "model": "glm-5.3"
+}

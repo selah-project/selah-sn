@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 35:8",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Ndichazadza ⟨את⟩ makomo aro nevakaurayiwa vavo: mazvikomo enu, nemadamba enu, nemigwagwa yenyu yose, vakaurayiwa nemba rwa vachawa mumо.",
+  "tokens": [
+    {
+      "surface": "ומלאתי",
+      "gloss": "Ndichazadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makomo aro"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "makomo aro"
+    },
+    {
+      "surface": "חלליו",
+      "gloss": "nevakaurayiwa vavo"
+    },
+    {
+      "surface": "גבעותיך",
+      "gloss": "mazvikomo enu"
+    },
+    {
+      "surface": "וגאותיך",
+      "gloss": "nemadamba enu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "אפיקיך",
+      "gloss": "nemigwagwa yenyu"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "vakaurayiwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "nemba rwa"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "vachawa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mumо"
+    }
+  ],
+  "timestamp": "2026-09-27T08:29:30.540148753Z",
+  "model": "glm-5.3"
+}

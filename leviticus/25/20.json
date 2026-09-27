@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye kana muchataura: Chii tichadya mugore rochinomwe? Ona, hatidi kudyara, uye hatidi kukohwa ⟨את⟩ zvibereko zvedu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "muchataura"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Chii"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tichadya"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mugore"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "rochinomwe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatidi"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "kudyara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hatidi"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "kukohwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvibereko zvedu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "zvibereko zvedu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:45.792965640Z",
+  "model": "glm-5.3"
+}

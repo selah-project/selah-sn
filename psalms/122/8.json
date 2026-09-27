@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 122,
+  "translation": "Nokuda kwomadzibaba namaushamwari angu, ndichataura zvino: runyararo rugarire mummari.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Nokuda kwo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "madzibaba angu"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "naushamwari angu"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mummari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:02.565855858Z",
+  "model": "glm-5.3"
+}

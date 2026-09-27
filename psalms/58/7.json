@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Erohimu, tsaura ⟨את⟩ mapfedu avo muhamu yavo; maviri evana veshumba, vaparadze, Yahwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "tsaura"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "mapfedu avo"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "muhamu yavo"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "evana veshumba"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "vaparadze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:33.066751577Z",
+  "model": "glm-5.3"
+}

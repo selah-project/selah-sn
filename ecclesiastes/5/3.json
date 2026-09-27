@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Kana ukabereka chirangurudzo kuna Erohimu, usazvinzvizvirire kuchizvizadzisa; nokuti haana kufarira vapenzi — ⟨את⟩ izvo waunganazve: zvizadzise.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ukabereka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "chirangurudzo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zvinzvizvirire"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "kuchizvizadzisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "haana"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kufarira"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "vapenzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo waunganazve chirangurudzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "waunganazve"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "zvizadzise"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:50.399966176Z",
+  "model": "glm-5.3"
+}

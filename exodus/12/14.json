@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye zuva iri richavamba chiyorwa chenyu; mucharichengeta chiguva chaYahwe, mumazvarwa enzu: chirevo choushe, mucharichengeta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "chenyu"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "chiyorwa"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "mucharichengeta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chiguva"
+    },
+    {
+      "surface": "חג",
+      "gloss": "chiguva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "mumazvarwa enzu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chirevo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "choushe"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "mucharichengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:02.203620043Z",
+  "model": "glm-5.3"
+}

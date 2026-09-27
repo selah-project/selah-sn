@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvakadaro takaura Adonai Yahwe: hazvichamiri, uye hazvizochaitika.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "takaura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hazvi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "chamiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hazvi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zochaitika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:17.535710769Z",
+  "model": "glm-5.3"
+}

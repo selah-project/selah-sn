@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 140,
+  "translation": "Zvirokwazvo, vakatendeka vacharumbidza zita rako; vakatwasuka vachagara pachiso chako.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vakatendeka"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "vacharumbidza"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vachagara"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "vakatwasuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:08.810852483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Uye ⟨את⟩ imba yamambo, na⟨את⟩ imba yavanhu, vaKashadi vakazibvira nomoto; uye ⟨את⟩ madhiri eYerusharemu vakadhinduka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba yamambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yamambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba yavanhu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yavanhu"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "vakazibvira"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "vaKashadi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madhiri eYerusharemu"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "madhiri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerusharemu"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "vakadhinduka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:07:20.620857658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Anokwidza mitombo yemadonhwe kubva kunze kwe⟨iyo⟩ pasi, anogadzira mabharanzi okunaya kwemvura, anobuditsa mhepo kubva muzvitoro zake.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "anokwidza"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "mitombo yemadonhwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kubva kunze kwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨iyo⟩ pasi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mabharanzi"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "okunaya kwemvura"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anogadzira"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "anobuditsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "kubva muzvitoro zake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:44.406854052Z",
+  "model": "glm-5.3"
+}

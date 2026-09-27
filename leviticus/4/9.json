@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nokuti ⟨את⟩ dzinonyo dziri mbiri, nezvinyo zviri pamusoro padzo, izvo zviri pamusoro peutsi, ne⟨את⟩ chikafu chechiso cheropafadzo, chiri pamusoro pechiso chechirere, pamusoro pezwiro — anozvibvisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dzinonyo dziri mbiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "dzinonyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinyo zviri pamusoro padzo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "zvinyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "pamusoro padzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "utsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chikafu chechiso cheropafadzo"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "chikafu cheropafadzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "chirere"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "zwiro"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "anozvibvisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:08.231343700Z",
+  "model": "glm-5.3"
+}

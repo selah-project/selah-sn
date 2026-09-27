@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Erohimu wako unofanira kumutya, uye iye ⟨אתו⟩ umushandre, uye nezita rake usununguke.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "unofanira kumutya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "iye ⟨אתו⟩",
+      "marks": "umushandre (iye)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "umushandre"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "nezita rake"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "usununguke"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:11.279188436Z",
+  "model": "glm-5.3"
+}

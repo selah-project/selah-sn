@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Yahwe akandidzorerera sezvakatendereka kwangu, sekuchena kwangu pamberi pameso ake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akandidzorerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "sezvakatendereka kwangu"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "sekuchena kwangu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "pameso ake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:01.187252594Z",
+  "model": "glm-5.3"
+}

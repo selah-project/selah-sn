@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zuva kune zuva rinobuda shoko, usiku kune usiku rinozivisa ruzivo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Zuva"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kune zuva"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "rinobuda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "usiku kune"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "rinozivisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ruzivo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:30.638566934Z",
+  "model": "glm-5.3"
+}

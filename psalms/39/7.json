@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Zvirokwazvo, semumifananidzo munhu anofamba; zvirokwazvo, hwaru hwasara vanonzwa; ukaunganidza, asi haazive ani achaaunganidza.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "semumifananidzo"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hwaru hwasara"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "vanonzwa"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ukaunganidza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haazive"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "haazive"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "achaaunganidza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:50.547779840Z",
+  "model": "glm-5.3"
+}

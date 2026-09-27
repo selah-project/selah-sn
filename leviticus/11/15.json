@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "⟨את⟩ nguurwi yose, nemhando yayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurwi yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nguurwi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "nemhando yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:16.505827167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "ipapo ruoko rwako ruchanditungamira, neruoko rwako rwerudyi ruchandibata.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ipo⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ruchanditungamira"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ruchandibata"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rwerudyi rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:45.087763490Z",
+  "model": "glm-5.3"
+}

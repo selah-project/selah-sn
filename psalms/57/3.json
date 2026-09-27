@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Ndinodana Erohimu Eriyoni, kuEr anoita kuti zvigumiswe ⟨pane⟩ ini.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Ndinodana"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eriyoni"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kuEr"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "anoita kuti zvigumiswe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pane ini"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:57.216626056Z",
+  "model": "glm-5.3"
+}

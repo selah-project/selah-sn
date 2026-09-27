@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Asi havana kuteerera, asi vakaita ⟨את⟩ dzitsvanga dzavo dzakaomarara, sedzitsvanga yamadzibaba avo, ava havana kutenda munaYahwe Erohimu yavo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Asi havana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuteerera"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "asi vakaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzitsvanga dzavo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "dzitsvanga dzavo dzakaomarara"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "sedzitsvanga"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "yamadzibaba avo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ava"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kutenda"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:25:30.801753462Z",
+  "model": "glm-5.3"
+}

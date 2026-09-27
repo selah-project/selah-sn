@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Kunyangwe zvazvo vakabhadharira mune dzamatunhu, izvi zvino ndichavaunganidza; vachatanga kushoma ⟨nokuda⟩ kwemutoro wamambo wamadzishe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kunyangwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zvazvo"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "vakabhadharira"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mune dzamatunhu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izvi zvino"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "ndichavaunganidza"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "vachatanga kushoma"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "shoma"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "mutoro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wamambo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "wamadzishe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:09.591067568Z",
+  "model": "glm-5.3"
+}

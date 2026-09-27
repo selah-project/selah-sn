@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Akauza ⟨את⟩ mapristi ne⟨את⟩ vaRevhi, akavatora pakuungana kwose kumabvazuva.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akauza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapristi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vaRevhi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vaRevhi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "akavatora pakuungana"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "kuungana kose"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "kumabvazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:40:22.077810398Z",
+  "model": "glm-5.3"
+}

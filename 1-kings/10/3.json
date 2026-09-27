@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Shoromohi akadudzira kwaari ⟨את⟩ mashoko ose ake; hapana chinhu chakavanzwa kubva kumambo chaakanga asina kududzira kwaari.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akadudzira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko ose ake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "mashoko ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chaiiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "chakavanzwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kumambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaakanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "kududzira"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:11.720280914Z",
+  "model": "glm-5.3"
+}

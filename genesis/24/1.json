@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye Abhurahama akadyarika, akapfuura nemazuva mazhinji; uye Yahwe akaropafadza ⟨את⟩ Abhurahama muzvizvese.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "uye Abhurahama"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akadyarika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akapfuura"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "nemazuva mazhinji"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uye Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhurahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muzvizvese"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:23.827339814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye shuvhu yaEfuraimi ichatsauka, uye vavengi vaYhudha vachadimurwa; Efuraimi haazotsvaka shuvhu ⟨את⟩ Yhudha, uye Yhudha haazorwadzisa ⟨את⟩ Efuraimi.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "ichatsauka"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "shuvhu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuraimi"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "vavengi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYhudha"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "vachadimurwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuraimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazo"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "-tsvaka shuvhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yhudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yhudha"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "uye Yhudha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "-rorwadzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efuraimi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuraimi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:22.561915995Z",
+  "model": "glm-5.3"
+}

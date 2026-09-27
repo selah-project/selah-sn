@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndikaisa ipapo ⟨את⟩ ariki, imomo mune ⟨the⟩ sungano yaYahwe, yaakacheka navanakomana veIsraeri.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "ndikaisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ariki"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ariki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imomo mune"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaakacheka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanakomana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:45.310154576Z",
+  "model": "glm-5.3"
+}

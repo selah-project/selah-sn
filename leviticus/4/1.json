@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akataura naMoshe, achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:43.663810838Z",
+  "model": "glm-5.3"
+}

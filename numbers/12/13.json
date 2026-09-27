@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Moshe akadana kwadi kuna Yahwe, achiti: Er, ndapota, porofa zvakanaka ndapota.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akadana kwadi kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "porofa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:45.706063132Z",
+  "model": "glm-5.3"
+}

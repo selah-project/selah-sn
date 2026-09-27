@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti iwe, Yahwe, ucharopafadza ⟨את⟩ mururami; nekufadza kwako uchamukomberedza ⟨senhava⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ucharopafadza"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "senhava"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kufadza"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "uchamukomberedza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:34.962120871Z",
+  "model": "glm-5.3"
+}

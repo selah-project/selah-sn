@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akaona ⟨את⟩ chiedza, kuti chakanaka; Erohimu akaparadzanisa chiedza nedima.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiedza"
+    },
+    {
+      "surface": "האור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "akaparadzanisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨pakati pe⟩"
+    },
+    {
+      "surface": "האור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "dima"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:17.891328161Z",
+  "model": "glm-5.3"
+}

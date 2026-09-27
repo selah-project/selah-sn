@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mutumwa akasvika, akazivisa kwaari achiti: Vakaunza misoro yevana vomambo. Iye akati: Isai ⟨את⟩ ivo maviri masanzu pachiumb chesuwo kusvika mangwanani.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mutumwa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "vakaunza"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "misoro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yevana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vomambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "isai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (misoro)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "masanzu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pachiumb"
+    },
+    {
+      "surface": "השער",
+      "gloss": "chesuwo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mangwanani"
+    }
+  ],
+  "timestamp": "2026-09-27T07:21:32.260072792Z",
+  "model": "glm-5.3"
+}

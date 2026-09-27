@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Izwi rokushongedza kubva muguta, izwi kubva mutembere, izwi raYahwe rinobhadhara mubairo kuvavengi vake.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "rokushongedza"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kubva muguta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "kubva mutembere"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "rinobhadhara"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "mubairo"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "kuvavengi vake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:26.065258481Z",
+  "model": "glm-5.3"
+}

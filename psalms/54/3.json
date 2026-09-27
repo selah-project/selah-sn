@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Erohimu, nezita rako ndiponesa, uye nesimba rako nditongera.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nezita rako"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndiponesa"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "uyesimba rako"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "nditongera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:44.391298347Z",
+  "model": "glm-5.3"
+}

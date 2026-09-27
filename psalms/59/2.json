@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Erohimu yangu, ndinunure kubva kune vavengi vangu; ndisimbidzire pamusoro pevakasimuka kurwisa ini.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ndinunure"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "kubva kune vavengi vangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu yangu"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "kubva kune vakasimuka kurwisa ini"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ndisimbidzire pamusoro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:08.736567443Z",
+  "model": "glm-5.3"
+}

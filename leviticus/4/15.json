@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "uye vakuru vemasangano vakaisa ⟨את⟩ maoko avo pamusoro pomusoro womombe yechirume pamberi paYahwe, uye vakacheka ⟨את⟩ iyo mombe pamberi paYahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "uye vakaisa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vemasangano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoko avo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pomusoro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "womombe yechirume"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "paYahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "uye vakacheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo mombe yechirume"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "iyo mombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "paYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:09.364556913Z",
+  "model": "glm-5.3"
+}

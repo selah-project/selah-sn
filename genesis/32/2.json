@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yaakobha akaenda njira yake, uye vatumwa vaErohimu vakasangana naye.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "njira yake"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "vakasangana naye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "vatumwa va"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:18.440505164Z",
+  "model": "glm-5.3"
+}

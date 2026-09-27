@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 41:25",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Zvakaitwa pairi, padari reheikari: kerubhi netimora, sokudaro sokwakaitwa kwamadziro; uye hudzamu hwehuni ⟨riri⟩ pachiso cheuranzi, kunze.",
+  "tokens": [
+    {
+      "surface": "וְעָ֥ב",
+      "gloss": "hudzamu"
+    },
+    {
+      "surface": "עֵ֛ץ",
+      "gloss": "hwehuni"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "הָאוּלָ֖ם",
+      "gloss": "cheuranzi"
+    },
+    {
+      "surface": "מֵהַחֽוּץ",
+      "gloss": "kunze"
+    }
+  ],
+  "timestamp": "2026-09-27T08:31:18.572147682Z",
+  "model": "glm-5.3"
+}

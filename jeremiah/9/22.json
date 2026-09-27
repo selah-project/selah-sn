@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 9:22",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndizvo zvataurwa naYahwe: muchenjeri arege kuzvidada muneuchenjeri hwake, muridzi wemasimba arege kuzvidada mumasimba ake; mupfumi arege kuzvidada muhupfumi hwake.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ndizvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zataurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arege"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "kuzvidada"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "muchenjeri"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "muneuchenjeri hwake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye arege"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "kuzvidada"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "muridzi wemasimba"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "mumasimba ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arege"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "kuzvidada"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mupfumi"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "muhupfumi hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:29.753604576Z",
+  "model": "glm-5.3"
+}

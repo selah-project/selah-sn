@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Usava shamwari ⟨את⟩ yemunhu wokutasvikana, uye ⟨את⟩ munhu wokutsamwa usamuhira naye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "-va shamwari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yemunhu wokutasvikana"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "munhu we-"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wokutasvikana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "wokutsamwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "-muhira naye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:28:43.628451108Z",
+  "model": "glm-5.3"
+}

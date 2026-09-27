@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Faririsa mweya wemuzviri wako, nokuti kwauri, Adonai, mweya wangu ndinomusimudza.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Faririsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wemuzviri wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndinomusimudza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:09.434783503Z",
+  "model": "glm-5.3"
+}

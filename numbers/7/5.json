@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Torva kubva kwavari, zvichiitwa basa re⟨את⟩ basa reTendi yeNzvimbo yeKusangana; ipa kuvanhu ava MaRevhii, mumwe nomumwe zvinoenderana nebasa rake.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Torva"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kubva ⟨מאתם⟩ kwavari"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "zvichiitwa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "basa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa reTendi yeNzvimbo yeKusangana"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "basa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "reTendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yeNzvimbo yeKusangana"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ipa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "MaRevhii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "MaRevhii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "zvinoenderana"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "nebasa rake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:46.973014518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvakanaka kusabereka chirangurudzo, kupfuura kubereka wousazadzisa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kupfuura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kusabereka"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "chirangurudzo"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kubereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wousazadzisa"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "sazadzise"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:50.400104892Z",
+  "model": "glm-5.3"
+}

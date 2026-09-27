@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ita kudanazve zvino: kune here anokupindura? Uye kune ani weutsvene wauchachokera?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ita kudana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kune here"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "anokupindura"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kune"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "weutsvene"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "wauchachokera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:35:12.361833324Z",
+  "model": "glm-5.3"
+}

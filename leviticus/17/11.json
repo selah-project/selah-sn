@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "nokuti upenyu hwemwiri mumwanda ndihwo; ini ndakachiipa kwamuri pamhabvi yechibayiro, kubvisa zvitadzo zvehupenyu hwenyu; nokuti mwanda ndihwo hunobvisa zvitadzo mukati meupenyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "upenyu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "hwemwiri"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mumwanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndihwo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "uye ini"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ndakachiipa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mhabvi"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "kubvisa zvitadzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ze"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "hupenyu hwenyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mwanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndihwo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mukati meupenyu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "hunobvisa zvitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:08.931755969Z",
+  "model": "glm-5.3"
+}

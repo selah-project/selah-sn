@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Vanhu ngavaudavire, iwe Erohimu; vanhu vose ngavaudavire.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ngavaudavire"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Vanhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ngavaudavire"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:46.578815361Z",
+  "model": "glm-5.3"
+}

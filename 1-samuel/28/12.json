@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Mukadzi akaona ⟨את⟩ Samueri, akadamba nenzwi guru; mukadzi akati kuna Shauri, achiti: Nei wanyengedza ini? Iwe uri Shauri.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samueri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "akadamba"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nenzwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "wanyengedza ini"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:57:28.365654906Z",
+  "model": "glm-5.3"
+}

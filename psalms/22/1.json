@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kune anotungamira, pane ⟨Aiyerechete hashahari⟩; nziyo yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune anotungamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Aiyerechete"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "hashahari"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:24.939700720Z",
+  "model": "glm-5.3"
+}

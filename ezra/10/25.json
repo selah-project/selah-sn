@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye muIsraeri: kuvana vaParoshi; Ramija, neYizija, neMalkija, neMijamin, neErezari, neMalkija, neBenaja.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "muIsraeri"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kuvana va"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroshi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramija"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "neYizija"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "neMalkija"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "neMijamin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "neErezari"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "neMalkija"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "neBenaja"
+    }
+  ],
+  "timestamp": "2026-09-27T10:10:01.837748922Z",
+  "model": "glm-5.3"
+}

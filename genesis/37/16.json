@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Iye akati: Ndakatsvaga ⟨את⟩ hanzvadzi dzechirume; ndiudzai, ndapota, nzvimbo ipi vanopfudza ⟨את⟩ zwipfuwo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanzvadzi dzechirume"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hanzvadzi dzechirume"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ndakatsvaga"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ndiudzai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "nzvimbo ipi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vanopfudza"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:54.602524961Z",
+  "model": "glm-5.3"
+}

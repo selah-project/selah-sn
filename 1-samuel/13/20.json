@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Ndipo Isuraeri yose yaizunza kune vaFirishti, munhu ne munhu kugaya ⟨את⟩ badzo rake, uye ⟨את⟩ temo yake, uye ⟨את⟩ demo rake, uye ⟨את⟩ handa yake.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "yaizunza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kune vaFirishti"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "kugaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu ne munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badzo rake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "badzo rake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "temo yake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "temo yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "demo rake"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "demo rake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "handa yake"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "handa yake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:33.504113741Z",
+  "model": "glm-5.3"
+}

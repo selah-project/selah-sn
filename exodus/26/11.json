@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uchaita masungi emhangura makumi mashanu, uchapinza ⟨את⟩ masungi mumakenge, uchibatanidza ⟨את⟩ tendi, uye ichava imwe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "masungi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "emhangura"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "uchapinza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masungi"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "masungi"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "mumakenge"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "uchibatanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tendi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tendi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:24.900237979Z",
+  "model": "glm-5.3"
+}

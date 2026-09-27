@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye mupristi achatora ⟨את⟩ gomana rashamu, uye ⟨את⟩ giro remafuta, uye mupristi achazvinyengereza setenufa pamberi paYahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomana rashamu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "gomana"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "rashamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "giro remafuta"
+    },
+    {
+      "surface": "לג",
+      "gloss": "giro"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "remafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "achazvinyengereza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zviviri"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "setenufa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:48.316462901Z",
+  "model": "glm-5.3"
+}

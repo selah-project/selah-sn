@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Nokuti akazvidzikisa, hasha dzaYahwe dzakadzoka kubva kwaari, asina kuzvipurira kudzokoresa, nokuti zviitiko zvakanaka zvakawanikwawo muYudha.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "Nokuti akazvidzikisa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dzakadzoka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwaari"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "dzaYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "kuzvipurira"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "kudzokoresa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nokuti zvakare"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "muYudha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvakawanikwawo"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "zviitiko"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:15.946816782Z",
+  "model": "glm-5.3"
+}

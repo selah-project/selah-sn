@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yahwe akazvininipisa ⟨pakaipa⟩ paakanga ataura kuita kuvanhu vake.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "akazvininipisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pakaipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakanga ataura"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taura"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kuvanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:03.690403758Z",
+  "model": "glm-5.3"
+}

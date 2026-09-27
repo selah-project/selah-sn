@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Zita rechiri chipiri riva Eriyezero, nokuti akati: Er waibaba vangu ndiro rubatsiro rwangu, wakandinunura kubva munondo waFarao.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rechiri chipiri"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eriyezero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Er waibaba vangu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "waibaba vangu"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ndiro rubatsiro rwangu"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "wakandinunura"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kubva munondo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:00.854042704Z",
+  "model": "glm-5.3"
+}

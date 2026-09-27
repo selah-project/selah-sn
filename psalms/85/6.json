@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Kune nokusingaperi here unozvikwira hasha netsvedza? Unogwesa hasha dzako kubva mumwe kuchiumbwa kwechinhu kusvika chimwe?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "kune nokusingaperi here"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "unozvikwira hasha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "netsvedza"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "unogwesa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hasha dzako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kubva mumwe kuchiumbwa kwechinhu"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kusvika chimwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:34.281385884Z",
+  "model": "glm-5.3"
+}

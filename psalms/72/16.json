@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Ngave nehuwandu hwechibage munyika, pamusoro pezhinji dzematombo zvichizvinza seRebanoni muchero waro; uye vachavhumba kubva maguta sesvashe nyika.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ngave"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "huwandu hwe"
+    },
+    {
+      "surface": "בר",
+      "gloss": "chibage"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zhinji dzematombo"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "zvichizvinza"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "seRebanoni"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "muchero waro"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "uye vachavhumba"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kubva maguta"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sesvashe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.205517816Z",
+  "model": "glm-5.3"
+}

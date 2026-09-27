@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Hapana mambo anoponeswa nehwandu hwehuto; mushome haaponeswi nehwandu hwesimba.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "anoponeswa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nehwandu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "huto"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mushome"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "poneswi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nehwandu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "simba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:05.747072538Z",
+  "model": "glm-5.3"
+}

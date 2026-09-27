@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Vakamutsoropaza netsimbotso tsoka dzake; simbi yakapinda mupenyu wake.",
+  "tokens": [
+    {
+      "surface": "עִנּוּ",
+      "gloss": "vakamutsoropaza"
+    },
+    {
+      "surface": "בַכֶּבֶל",
+      "gloss": "netsimbotso"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsoka dzake"
+    },
+    {
+      "surface": "בַּרְזֶל",
+      "gloss": "simbi"
+    },
+    {
+      "surface": "בָּאָה",
+      "gloss": "yakapinda"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "mupenyu wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:40.572169611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Akanda nematombo ⟨את⟩ Dhavhidha, uye ⟨את⟩ vashandi vose vemambo Dhavhidha; uye vanhu vose, uye varwi vane simba vose, ⟨vari⟩ kurudyi nekuruboshwe rwake.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "akanda"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "nematombo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "vashandi vose vemambo Dhavhidha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "vashandi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vemambo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu vose"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "varwi vane simba vose"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "kurudyi rwake"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "nekuruboshwe rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:00:46.156397917Z",
+  "model": "glm-5.3"
+}

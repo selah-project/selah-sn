@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ngoma dzangu dzaiva zvinaro zvako, mumusha wemugariro wangu.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "ngoma dzangu ⟨dzaiva⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨dzaiva⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri \/ dzangu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "zvinaro zvako"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumusha wa"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "mugariro wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:16.841501571Z",
+  "model": "glm-5.3"
+}

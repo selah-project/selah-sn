@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye muchava kune ini umbo hwevapristi, ne rudzi rutsvenu. Idzi ndidzo mashoko aunotaura kuvanakomana vaIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Uye imi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "muchava"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kune ini"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "umbo"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "hwevapristi"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "ne rudzi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "rutsvenu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Idzi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aunotaura"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanakomana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:11.000984625Z",
+  "model": "glm-5.3"
+}

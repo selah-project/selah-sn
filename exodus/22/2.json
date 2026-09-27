@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana zuva rabuda pamusoro pake, dema riri kwake; anoripisa zvirokwazvo anoripisa; kana asina chiro, achatengeswa nokuba kwake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "rabuda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pake"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "riri kwake"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "anoripisa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "anoripisa zvirokwazvo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "asina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chiro"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "achatengeswa"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "nokuba kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:09.613911854Z",
+  "model": "glm-5.3"
+}

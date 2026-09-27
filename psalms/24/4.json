@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uyo ane zvanwa tsvene nomoyo wachena; uyo asina kututura mweya wake zveunyepi, asina kuraira chitsidzo nekunyengera.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "zvanwa"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "no…wachena"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kututura"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "zveunyepi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kuraira chitsidzo"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "nekunyengera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:56.722069311Z",
+  "model": "glm-5.3"
+}

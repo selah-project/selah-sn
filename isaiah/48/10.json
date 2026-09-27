@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Tarira, ndakanyungudutsa iwe, asi kwete sesirivha; ndakasarudza iwe munhototo yedambudziko.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "צְרַפְתִּ֖יךָ",
+      "gloss": "ndakanyungudutsa iwe"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "asi kwete"
+    },
+    {
+      "surface": "בְכָ֑סֶף",
+      "gloss": "sesirivha"
+    },
+    {
+      "surface": "בְּחַרְתִּ֖יךָ",
+      "gloss": "ndakasarudza iwe"
+    },
+    {
+      "surface": "בְּכ֥וּר",
+      "gloss": "munhototo"
+    },
+    {
+      "surface": "עֹֽנִי",
+      "gloss": "yedambudziko"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:54.030899199Z",
+  "model": "glm-5.3"
+}

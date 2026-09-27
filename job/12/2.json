@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Zvirokwazvo, imi ndimi ⟨vanhu⟩, uye hungwaru hunofa ⟨nemi⟩.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kuti⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "hunofa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hungwaru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:30.237341271Z",
+  "model": "glm-5.3"
+}

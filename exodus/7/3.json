@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Asi ini ndichamwinya ⟨את⟩ moyo waFarao, ndichawedza ⟨את⟩ zviratidzo zvangu ne⟨את⟩ zvinoshamisa zvangu munyika yeMitsirayi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ndichamwinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo waFarao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndichawedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zviratidzo zvangu"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "zviratidzo zvangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinoshamisa zvangu"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "zvinoshamisa zvangu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsirayi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:15.838872329Z",
+  "model": "glm-5.3"
+}

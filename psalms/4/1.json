@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Kune mutungamiri,enezviridzwa zvenziyo;mazmoora aDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "nezviridzwa zvenziyo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmoora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:39.611049011Z",
+  "model": "glm-5.3"
+}

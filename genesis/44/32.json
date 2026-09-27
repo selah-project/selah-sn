@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "nokuti muranda wako akaita chitunzo che⟨את⟩ mukomana kubva kuna baba vangu, achiti: Ndikamurega ndisina kumunokomberedza kwauri, ndinove nouchivi kuna baba vangu mazuva ose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "akaita chitunzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukomana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva kuna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ndikamurega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndisina"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "kumunokomberedza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ndinove nouchivi"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kuna baba vangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:04.633063866Z",
+  "model": "glm-5.3"
+}

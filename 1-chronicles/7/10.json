@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Navana vaYedhiayeri: Birihani; navana vaBirihani: Yeushi, naBinjamini, naEhudhi, naKenaana, naZetani, naTarshishi, naAhishahari.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "navana"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "vaYedhiayeri"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Birihani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "navana"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "vaBirihani"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeushi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "naBinjamini"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "naEhudhi"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "naKenaana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "naZetani"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "naTarshishi"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "naAhishahari"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:06.426724895Z",
+  "model": "glm-5.3"
+}

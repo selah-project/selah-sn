@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Tarisa, Adonai Yahwe achauya nesimba, nomutsoka wake woutongi ⟨unomuitira⟩; tarisa, mubairo wake uri ⟨את⟩ ⟨naye⟩, nebasa rake pachiso pake.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "achauya"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "nomutsoka wake"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "woutongi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨unomuitira⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mubairo wake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨naye⟩",
+      "marks": "mubairo wake"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "nebasa rake"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pachiso pake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:57.747827508Z",
+  "model": "glm-5.3"
+}

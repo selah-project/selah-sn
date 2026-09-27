@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vanhu vazhinji vanoti kuupenyu hwangu: hapana ruponeso rune iye kuburikidza naErohimu. Sera.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Vanhu vazhinji"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "vanoti"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kuupenyu hwangu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "ruponeso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rune iye"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuburikidza naErohimu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:27.460280496Z",
+  "model": "glm-5.3"
+}

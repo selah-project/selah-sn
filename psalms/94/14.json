@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Nokuti Yahwe hadzaisi kudzinga vanhu vake, uye nhaka yake hadzaisi kusiya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hadzisi"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "kudzinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "uye nhaka yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hadzaisi"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "kusiya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:13.924426010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Asina kuona ⟨zuva⟩ zvakare, uye asina kuziva chinhu: munhu uyu anerugare kuripisa kupfuura mumwe uya.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye asina"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rugare"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "munhu uyu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mumwe uya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:57.422427940Z",
+  "model": "glm-5.3"
+}

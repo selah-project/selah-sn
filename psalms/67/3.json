@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Kuti nyika izive ⟨את⟩ nzira yako, ⟨את⟩ chiponeso chako pakati pevanhu vose.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Kuti … izive"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzira yako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pakati pe … vose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "chiponeso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:46.578687262Z",
+  "model": "glm-5.3"
+}

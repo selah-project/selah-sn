@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 17:28",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Mumwe wemapristi avo vakatapudzwa kubva Shomeroni akauya akagara mumba waEri, akava mudzidzisi wavo ⟨את⟩, vachidzidziswa kuti vatye ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Mumwe"
+    },
+    {
+      "surface": "מהכהנים",
+      "gloss": "wemapristi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "vakatapudzwa"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "kubva Shomeroni"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waEri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "mudzidzisi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wavo",
+      "marks": "mapristi vakatapudzwa kana marudzi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "vatye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:49.900211810Z",
+  "model": "glm-5.3"
+}

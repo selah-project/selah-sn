@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezekiel 16:53",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Ndichadzoreredza ⟨את⟩ utapwa hwavo — ⟨את⟩ utapwa hwaSodhoma nemadziti ake, uye ⟨את⟩ utapwa hwaShomeroni nemadziti ake — ndichadzorereda haka utapwa hwevatapwa vako mukati mavo.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Ndichadzoreredza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utapwa hwavo"
+    },
+    {
+      "surface": "שביתהן",
+      "gloss": "utapwa hwavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utapwa hwaSodhoma"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "utapwa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodhoma"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "nemadziti ake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "utapwa hwaShomeroni"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "utapwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "nemadziti ake"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "uye utapwa"
+    },
+    {
+      "surface": "שביתיך",
+      "gloss": "hwevatapwa vako"
+    },
+    {
+      "surface": "בתוכהנה",
+      "gloss": "mukati mavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:20:49.168222635Z",
+  "model": "glm-5.3"
+}

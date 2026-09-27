@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Dare rechinyepa ribve zvakure newe; wakatendeka nomururami — usature; nokuti handigadzirise muipi.",
+  "tokens": [
+    {
+      "surface": "מִדְּבַר",
+      "gloss": "dare"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "rechinyepa"
+    },
+    {
+      "surface": "תִּרְחָק",
+      "gloss": "ribve zvakure newe"
+    },
+    {
+      "surface": "וְנָקִי",
+      "gloss": "wakatendeka"
+    },
+    {
+      "surface": "וְצַדִּיק",
+      "gloss": "nomururami"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תַהֲרֹג",
+      "gloss": "ture"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "אַצְדִּיק",
+      "gloss": "ndigadzirise"
+    },
+    {
+      "surface": "רָשָׁע",
+      "gloss": "muipi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:10.976785168Z",
+  "model": "glm-5.3"
+}

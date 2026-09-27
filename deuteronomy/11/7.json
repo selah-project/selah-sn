@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "nokuti maeso enu ndiwo aona ⟨את⟩ mabasa ose aYahwe makuru, aakaita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maeso enu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ndiwo aona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabasa ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakaita zvose"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aakaita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:53.253490875Z",
+  "model": "glm-5.3"
+}

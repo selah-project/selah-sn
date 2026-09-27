@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Kutetemara kwakavatora ikoko, marwadzo, seomunazvara.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "kutetemara"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "kwakavatora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "marwadzo"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "seomunazvara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:02.899979846Z",
+  "model": "glm-5.3"
+}

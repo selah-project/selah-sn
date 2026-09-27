@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Moshe akaraira ⟨את⟩ vana vaYisiraeri nokurairo yaYahwe, achiti: Zvakanaka zvataurwa nadzinza revana vaYosefa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaYisiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisiraeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokurairo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dzinza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "revana va"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "rinotaura"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:43.485657274Z",
+  "model": "glm-5.3"
+}

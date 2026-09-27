@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "uye makaona ⟨את⟩ zvinonyadzisa zvavo ne⟨את⟩ zvifananidzo zvavo — muti nomabwe, ndarama negoridhe — aiva navo.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "uye makaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinonyadzisa zvavo"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "zvinonyadzisa zvavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvifananidzo zvavo"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "zvifananidzo zvavo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muti"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "nomabwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negoridhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:27.855939448Z",
+  "model": "glm-5.3"
+}

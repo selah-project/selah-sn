@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ngo Morodhakai akadzokera kugate renganga dzose, asi Hamani akahombarira kumusha kwake achichema, akavhara mutsipa.",
+  "tokens": [
+    {
+      "surface": "וַיָּ֥שָׁב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "מָרְדֳּכַ֖י",
+      "gloss": "Morodhakai"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שַׁ֣עַר",
+      "gloss": "gate"
+    },
+    {
+      "surface": "הַמֶּ֑לֶךְ",
+      "gloss": "renganga dzose"
+    },
+    {
+      "surface": "וְהָמָן֙",
+      "gloss": "asi Hamani"
+    },
+    {
+      "surface": "נִדְחַ֥ף",
+      "gloss": "akahombarira"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בֵּית֖וֹ",
+      "gloss": "musha kwake"
+    },
+    {
+      "surface": "אָבֵ֑ל",
+      "gloss": "achichema"
+    },
+    {
+      "surface": "וְחָפ֥וּי",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "mutsipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:52.275781816Z",
+  "model": "glm-5.3"
+}

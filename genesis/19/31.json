@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 19:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mukuru akati kumunyoro: Baba vedu vakweguma, uye hapana murume munyika anogona kuuya kune isu, senzira yenyika yose.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "Mukuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "Munyoro"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "Baba vedu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vakweguma"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "uye murume"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuuya"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kune isu"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "senzira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yenhyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:54.992947898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "vakomana nezvitete, vachembera pamwe nevadiki —",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "zvitete"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vachembera"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "vadiki"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:05.632418995Z",
+  "model": "glm-5.3"
+}

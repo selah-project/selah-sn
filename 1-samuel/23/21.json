@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Shauro akati: Makaropafadzwa kuna Yahwe, nokuti mune tsitsi nandiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "Makaropafadzwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "mane tsitsi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:19.851107337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Uye musamupa kwaari nyarariro, kusvika amisikidza, uye kusvika asvitsa ⟨את⟩ Yerushalema kuti ive rumbidzo pasi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "uye musa-"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "musapa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "nyarariro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "amisikidza"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "uye kusvika"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "asvitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "rumbidzo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:06:51.050135717Z",
+  "model": "glm-5.3"
+}

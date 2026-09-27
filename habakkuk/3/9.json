@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Kununurwa kwazvo kwakaitwa utapo rwako, zvitsidzo zvemadanda — shoko. Seraha. Nziyo dzinopatsanura pasi.",
+  "tokens": [
+    {
+      "surface": "עריה",
+      "gloss": "kununurwa"
+    },
+    {
+      "surface": "תעור",
+      "gloss": "kwakaitwa kununurwa"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "utapo rwako"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "zvitsidzo"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "vemadanda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seraha"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "dzinopatsanura"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:46:34.836757984Z",
+  "model": "glm-5.3"
+}

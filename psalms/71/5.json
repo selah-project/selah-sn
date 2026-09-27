@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Nokuti iwe ndiri tari yangu, Adonai Yahwe, chivimbo changu kubva kudiki kwangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tari yangu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "chivimbo changu"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kubva kudiki kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:37.920774377Z",
+  "model": "glm-5.3"
+}

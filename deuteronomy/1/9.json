@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndakataura kwamuri nenguva iyoyo ndichiti: Handigoni ndega kutakura ⟨את⟩ imi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndakataura"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndichiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handigoni"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "handigoni"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ndega"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kutakura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:36.615719335Z",
+  "model": "glm-5.3"
+}

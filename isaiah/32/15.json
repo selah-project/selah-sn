@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Kusvikira Mweya wachiburwa pamusoro pedu, uye chambo chichava munda wemichero, uye munda wemichero uchaverengwa sevuchi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kusvikira"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "wachiburwa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pamusoro pedu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uye uchava"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "chambo"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "munda wemichero"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "uye munda wemichero"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "sevuchi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "uchaverengwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:57.656321137Z",
+  "model": "glm-5.3"
+}

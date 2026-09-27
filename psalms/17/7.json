@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Ratidza hesedhi hako huri kwazvo, iwe unoponesa vanotora chengetedzo mune iwe nevokuma vachiri muruoko rwako rwerudyi.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Ratidza huri kwazvo"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedhi hako"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "iwe unoponesa"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "vanotora chengetedzo mune iwe"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "nevokuma"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "vachiri muruoko rwako rwerudyi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:59.646073735Z",
+  "model": "glm-5.3"
+}

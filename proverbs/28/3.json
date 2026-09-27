@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Munhu mupfupi anodzvanyirira mupfupi — semabharadza anosekesa, uye hapana chingwa.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "רש",
+      "gloss": "mupfupi"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "anodzvanyirira"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "mupfupi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mabharadza"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "anosekesa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:42.141008057Z",
+  "model": "glm-5.3"
+}

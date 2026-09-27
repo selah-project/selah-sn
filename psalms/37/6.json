@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye achaburitsa kururama kwako sechiedza, nemutemo wako sezhana yemasikati.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "uye achaburitsa"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "sechiedza"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kururama kwako"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "nemutemo wako"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "sezhana yemasikati"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:31.660066113Z",
+  "model": "glm-5.3"
+}

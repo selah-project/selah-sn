@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye hondo yakaita zvakanyanya paShauru, uye vakamuwana vakashandisa uta, uye akatambudzwa nevakanda maseza.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "yakaita zvakanyanya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "vakamuwana"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "vakashandisa uta"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "nouta"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "akatambudzwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "vakanda maseza"
+    }
+  ],
+  "timestamp": "2026-09-27T10:21:43.379268583Z",
+  "model": "glm-5.3"
+}

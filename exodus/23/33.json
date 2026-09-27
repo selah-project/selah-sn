@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Havagari munyika yako, dzimwe vachatadzisa ⟨את⟩ iwe kwandiri; nokuti ukashumira ⟨את⟩ mwari wavo, achava muteyo kwauri.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יֵשְׁבוּ",
+      "gloss": "havagari"
+    },
+    {
+      "surface": "בְּאַרְצְךָ",
+      "gloss": "munyika yako"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "dzimwe"
+    },
+    {
+      "surface": "יַחֲטִיאוּ",
+      "gloss": "vachatadzisa"
+    },
+    {
+      "surface": "אֹתְךָ",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תַעֲבֹד",
+      "gloss": "ukashumira"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "mwari wavo"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "mwari wavo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "לְמוֹקֵשׁ",
+      "gloss": "muteyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:21.006026760Z",
+  "model": "glm-5.3"
+}

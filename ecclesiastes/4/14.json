@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nokuti akabuda mumba ematonderewi ndokuva mambo; nokuti paushe hwake pakaiberekwa murombo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "ematonderewi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ndokuva mambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "paka"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "paushe hwake"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "pakaiberekwa"
+    },
+    {
+      "surface": "רש",
+      "gloss": "murombo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:59.276489028Z",
+  "model": "glm-5.3"
+}

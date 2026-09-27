@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Paro akarema ⟨את⟩ moyo wake futi panguva ino, akaregawo kutuma ⟨את⟩ vanhu.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "akarema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akaregawo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:34.192400441Z",
+  "model": "glm-5.3"
+}

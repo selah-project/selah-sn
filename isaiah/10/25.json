@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti zvichiri zvishoma zvishoma, uye hasha dzichapera, uye hasha dzangu dzichava pamusoro pekutapadzwa kwavo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvichiri"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "zvishoma"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "zvishoma (zvakadzikiswa)"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "uye ... dzichapera"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "uyе hasha dzangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "kutapadzwa kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:04:18.679358246Z",
+  "model": "glm-5.3"
+}

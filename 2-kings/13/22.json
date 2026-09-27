@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye Hazaeri, mambo wAramu, akadzvanyirira ⟨את⟩ Isiraeri mazuva ose aYehoahazi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Uye Hazaeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wAramu"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "akadzvanyirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "aYehoahazi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:31.861860377Z",
+  "model": "glm-5.3"
+}

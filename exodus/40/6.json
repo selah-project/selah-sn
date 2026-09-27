@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uchogadzikisa ⟨את⟩ mizbeka yebasa roparira pamberi pemukova waMishikani, Chihema chekusangana.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uchogadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeka yebasa roparira"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yebasa roparira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mukova"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "waMishikani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "chekusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:10.107631494Z",
+  "model": "glm-5.3"
+}

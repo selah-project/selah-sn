@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye izvi ndizvo unoita ⟨את⟩ ⟨tebha⟩: mazana matatu ama kureba kwe⟨tebha⟩, makumi mashanu ama hupamhi, makumi matatu ama hukwidza.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Uye izvi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndizvo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tebha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tebha"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "hupamhi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "hukwidza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:55.889457238Z",
+  "model": "glm-5.3"
+}

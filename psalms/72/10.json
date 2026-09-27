@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Madzimambo eTarshishi nezvezvitsuwa vachadzosera minha; madzimambo eShebha neSevha vachapereka zvipo.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo e"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishi"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "nezvezvitsuwa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "vachadzosera"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo e"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebha"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "neSevha"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "zvipo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "vachapereka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:54.173881214Z",
+  "model": "glm-5.3"
+}

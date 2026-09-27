@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yehoshua neIsuraeri vose vakazviita sekunge vakundwa pachiso chavo, uye vakatiza nenzira yegwenga.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "vakazviita sekunge vakundwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pachiso chavo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nenzira"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yegwenga"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:02.992713282Z",
+  "model": "glm-5.3"
+}

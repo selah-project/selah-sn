@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Erohimu akaropafadza ⟨את⟩ musi wenomwe, akaitsvenesa; nokuti mumarowo akazorora kubva mubasa wake rose raakasika Erohimu ⟨kuita⟩",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musi wenomwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wenomwe"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akaitsvenesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyoyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mumarowo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "akazorora"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva muwake rose"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "basa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raakasika"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "raakasika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨kuita⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:55.506343649Z",
+  "model": "glm-5.3"
+}

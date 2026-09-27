@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Vakanzwa vagari veYabhesi weGireadi nezvaMwari vakaita Vafelisti kuSauru — ⟨את⟩ izvo vakamuitira.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nezvaMwari — kune iye"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari ve"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabhesi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gireadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo vakamuitira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafelisti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuSauru"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:12.022124010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Akaisa ⟨את⟩ shumba ne⟨את⟩ vana vavo kutanga; ⟨את⟩ Rea novana vake mugumisiro wechipiri; ⟨את⟩ Racheri ne⟨את⟩ Yosefu mugumisiro.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shumba"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vavo"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "vana vavo"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "kutanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Rea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "novana vake"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "mugumisiro wechipiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Racheri"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Racheri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "mugumisiro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:38.917681369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Ndichakutendai nokusingaperi, nokuti iwewe wakaita ⟨izvi⟩; ndinomirira zita rako, nokuti rakanaka pamberi evatsvene vako.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndichakutendai"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ndinomirira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rakanaka"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "evatsvene vako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:59.259449056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Vakamuka mangwanani, vakapika mumwe nomumwe kumumwe, uye Ishaki akavatuma, vakabva ⟨את⟩ kwaari murunyararo.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "vakamuka mangwanani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "vakapika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kumumwe"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "akavatuma"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ishaki"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakabva"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ kwaari",
+      "marks": "kubva kuna Ishaki"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "murunyararo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:44.113864127Z",
+  "model": "glm-5.3"
+}

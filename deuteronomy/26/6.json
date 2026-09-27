@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye vechiMiziraimu vakatitadzisa, vakatitambudza, ndokuisa pamusoro pedu basa rakaoma.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "vakatitadzisa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "isu"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "vechiMiziraimu"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "vakatitambudza"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ndokuisa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pamusoro pedu"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "rakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T06:18:03.926270851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Yahwe achaita kwavari sokuita kwaakaita kuSihoni naOgu, madzimambo eAmoni, nedzimwe nyika yawo, avaparadza ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kwaakaita"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "kuSihoni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "naOgu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "eAmoni"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "nedzimwe nyika yawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "avaparadza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "avo (Sihoni naOgu)"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:50.215246329Z",
+  "model": "glm-5.3"
+}

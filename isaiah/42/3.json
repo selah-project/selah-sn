@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Muridzo wakanangwa hauputsi; mwenje wakadereredza haudzimisi; muchokwadi achaburitsa mutero.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Muridzo"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "wakanangwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "uputsi"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "wakadereredza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "udzimisi"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "muchokwadi"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "achaburitsa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutero"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:14.900753245Z",
+  "model": "glm-5.3"
+}

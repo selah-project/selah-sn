@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Saka vakatuma kwauri Izhebheru, vachiti: Nabhoto wakakandwa matombo, wakaenda kufa.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "vakatuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izhebheru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "wakakandwa matombo"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabhoto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wakaenda kufa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:09.566382855Z",
+  "model": "glm-5.3"
+}

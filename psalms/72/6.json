@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Ngadzikere semvura yekunaya pouswa hwuchekwa, sekunaya kwemadonhedzwa, emvura inodzika pasi.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Ngadzikere"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "semvura yekunaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "גז",
+      "gloss": "uswa hwuchekwa"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sekunaya kwemadonhedzwa"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "emvura inodzika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:38.298015250Z",
+  "model": "glm-5.3"
+}

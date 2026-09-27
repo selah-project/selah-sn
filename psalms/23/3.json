@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Mweya wangu anodzoresa; anonditungamira munzira dzokururama, zvekudarira zita rake.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "anodzoresa"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "anonditungamira"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "munzira dzo-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-kururama"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zvekudarira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:55.036922156Z",
+  "model": "glm-5.3"
+}

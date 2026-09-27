@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Estere haana kudavurira ⟨את⟩ vanhu vake kana ⟨את⟩ rudzi rwake, nokuti Modekai akamuraira paari kuti arege kudavurira.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "הִגִּידָה",
+      "gloss": "kudavurira"
+    },
+    {
+      "surface": "אֶסְתֵּר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vake"
+    },
+    {
+      "surface": "עַמָּהּ",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "rudzi rwake"
+    },
+    {
+      "surface": "מוֹלַדְתָּהּ",
+      "gloss": "rudzi rwake"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מָרְדֳּכַי",
+      "gloss": "Modekai"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "akamuraira"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "paari"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "arege"
+    },
+    {
+      "surface": "תַּגִּיד",
+      "gloss": "kudavurira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:03.463648155Z",
+  "model": "glm-5.3"
+}

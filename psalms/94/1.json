@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Er wechipisa, Yahwe! Er wechipisa, nyatsopenesa!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wechipisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wechipisa"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "nyatsopenesa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:23.905510448Z",
+  "model": "glm-5.3"
+}

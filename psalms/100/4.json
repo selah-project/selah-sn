@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 100,
+  "translation": "Uyai kumasuwo ake nekutenda, kunamadanga ake nekurumbidza; mutenderei, uye rukudzai Zita rake.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Uyai"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "kumasuwo ake"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "nekutenda"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "kunamadanga ake"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "nekurumbidza"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mutenderei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rukudzai"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:38.117990084Z",
+  "model": "glm-5.3"
+}

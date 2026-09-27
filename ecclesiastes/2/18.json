@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndikava ndinovenga ini ⟨את⟩ basa rangu rose rinoitwa pasi pezuva, nekuti ndichasiya ⟨izvi⟩ kumunhu achauya mushure mangu.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ndikava ndinovenga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa rangu rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "basa rangu"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kushanda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ndichasiya"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kumunhu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure mangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:47.673203976Z",
+  "model": "glm-5.3"
+}

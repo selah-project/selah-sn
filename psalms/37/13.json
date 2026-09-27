@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Adonai anoseka iye, nokuti anongoona kuti zuva rake richauya.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "anoseka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "anongoona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "richauya"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "zuva rake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:01.762040746Z",
+  "model": "glm-5.3"
+}

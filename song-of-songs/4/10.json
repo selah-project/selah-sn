@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvakanaka ungani rudo rwako, hanzvadzi yangu, muroora wangu; zvakanaka kwazvi kupinda waini rudo rwako, uye unhuwi wemafuta ako kupinda zvinunhuwa zvese!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ungani"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "rudo rwako"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "hanzvadzi yangu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "muroora wangu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvakanaka kwazvi"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "kupinda"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "rudo rwako"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "uye unhuwi"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "wemafuta ako"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kupenda zvese"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "zvinunhuwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:01.702725014Z",
+  "model": "glm-5.3"
+}

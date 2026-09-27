@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe achapinda mudavaniri pamwe nemadzikuru evanhu vake nemadzinda avo: imi makapisa ⟨את⟩ munda wemabere, chibairo chemushava chiri mumimba yenyu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mudavaniri"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "achapinda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "madzikuru"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "evanhu vake"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "nemadzinda avo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "makapisa"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "⟨את⟩ munda wemabere"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "העני",
+      "gloss": "chemushava"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "mumimba yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:46.847284385Z",
+  "model": "glm-5.3"
+}

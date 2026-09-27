@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Sokatakatererwa, ndokuzvo takaona muguta waYahwe Tsevaoti, muguta waErohimu wedu; Erohimu uchaimisira kusingaperi. Sehra.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sokataka"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "takatererwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokuzvo"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "takaona"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta wa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "uchaimisira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sehra"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:43.106317817Z",
+  "model": "glm-5.3"
+}

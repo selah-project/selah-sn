@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Ondongoredza, Er, uyezve uzive moyo wangu; undedzedza, uyezve uzive pfungwa dangu.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "ondongoredza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "uyezve uzive"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "undedzedza"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "uyezve uzive"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "pfungwa dangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:45.546690911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Takachema kuna Yahwe, Erohimu yamadzitateguru edu; Yahwe akanzwa ⟨את⟩ izwi redu, akaona ⟨את⟩ kutambudzwa kwedu, ne⟨את⟩ kutambura kwedu, ne⟨את⟩ kudzvanyirwa kwedu.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "takachema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "yamadzitateguru edu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi redu"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "izwi redu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutambudzwa kwedu"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "kutambudzwa kwedu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kutambura kwedu"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "kutambura kwedu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kudzvanyirwa kwedu"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "kudzvanyirwa kwedu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:18:03.926740293Z",
+  "model": "glm-5.3"
+}

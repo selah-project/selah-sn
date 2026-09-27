@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 16:11",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye Uriya mucherebedzi akavaka ⟨את⟩ altare sokuziva kwazvo kwaakatumwa namambo Ahazi kubva muDhamasheki; saizvozvo akaita Uriya mucherebedzi, kusvika mambo Ahazi asvika kubva muDhamasheki.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mucherebedzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sokuziva kwazvo kwaakatumwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akatumwa namambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "kubva muDhamasheki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mucherebedzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "asvika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "kubva muDhamasheki"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:52.630988984Z",
+  "model": "glm-5.3"
+}

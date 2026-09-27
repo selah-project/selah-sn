@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Zvirokwazvo udzokereza ⟨את⟩ chibvumiro chake pakuwana kwezuva, agonoke mukanzusi wake, akufarire iwe; uye kwauri kuchava chokwadi pachiso cheYahwe Erohimu wako.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "udzokereza (infinitive absolute)"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "dzokereza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibvumiro chake"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "chibvumiro"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "pakuwana"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwezuva"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "agonoke"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "mukanzusi wake"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "akufarire iwe"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "chichava"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:47.274583852Z",
+  "model": "glm-5.3"
+}

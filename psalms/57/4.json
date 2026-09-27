@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Anotuma kubva kumatenga anondiponesa; anotuka uyo anondidikitira. Sela. Erohimu anotuma hesedhi wake nechokwadi chake.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Anotuma"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kubva kumatenga"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "anondiponesa"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "anotuka"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "uyo anondidikitira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "anotuma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi wake"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "nechokwadi chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:57.216782722Z",
+  "model": "glm-5.3"
+}

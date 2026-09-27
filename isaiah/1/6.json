@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kubva pachitsi chekutsi kusvika pamusoro, hapana chakanaka mume: tylko zdarma, kuputika, nemashanga matsva; haacheneswi, haumboharwi, haapfekedzwi nemafuta.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "kubva pachitsi"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "chekutsi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mume"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "jodzi"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "kuputika"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "mashanga"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "matsva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "cheneswi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "boharwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "pfekedzwi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nemafuta"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:43.088090317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye vanhu vose veYudha vakatora ⟨את⟩ Azaria, ari mwana wemakore gumi netanhatu, vakamuita mambo pachinzvimbo chaababa vake Amatsia.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "veYudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "gumi ne"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tanhatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "vakamuita mambo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Azaria)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimbo pa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ababa vake"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsia"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:49.779696403Z",
+  "model": "glm-5.3"
+}

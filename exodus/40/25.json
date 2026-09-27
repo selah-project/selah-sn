@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Akabvira akazvirisa mafuta oyakanaka pachiso cheYahwe, sokutaura kwaYahwe kuna ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akazvirisa mafuta oyakanaka"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaura kwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:31.831216560Z",
+  "model": "glm-5.3"
+}

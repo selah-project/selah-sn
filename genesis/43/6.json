@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Israeri akati: Nei maita zvakaipa kwandiri, nokududzira murume kuti munehamha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "maita zvakaipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "nokududzira"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mune"
+    },
+    {
+      "surface": "אח",
+      "gloss": "hamha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:10.379894192Z",
+  "model": "glm-5.3"
+}

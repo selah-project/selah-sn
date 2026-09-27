@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 34:35",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Uye vana vaIsraeri vaiona ⟨את⟩ chiso cheMoshe, nokuti ganda rechiso raMoshe raipenya; Moshe akadzorera ⟨את⟩ chifukidzo pachiso pake kusvika aapinda kutaura ⟨naye⟩.",
+  "tokens": [
+    {
+      "surface": "וְרָאוּ",
+      "gloss": "vaiona"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "chiso cheMoshe"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קָרַן",
+      "gloss": "raipenya"
+    },
+    {
+      "surface": "עוֹר",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "rechiso ra"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וְהֵשִׁיב",
+      "gloss": "akadzorera"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "chifukidzo"
+    },
+    {
+      "surface": "הַמַּסְוֶה",
+      "gloss": "chifukidzo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "פָּנָיו",
+      "gloss": "chiso pake"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בֹּאוֹ",
+      "gloss": "aapinda"
+    },
+    {
+      "surface": "לְדַבֵּר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "אִתּוֹ",
+      "gloss": "⟨אתו⟩",
+      "marks": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:51.549674480Z",
+  "model": "glm-5.3"
+}

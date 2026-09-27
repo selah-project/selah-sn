@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Anopira chibairo chokutenda anondiremekedza; uye anorongedza nzira yake — ndichamuridza chiponeso chaErohimu.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "anopira"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "chibairo chokutenda"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "anondiremekedza"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye anorongedza"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ndichamuridza"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "chiponeso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:56.095071647Z",
+  "model": "glm-5.3"
+}

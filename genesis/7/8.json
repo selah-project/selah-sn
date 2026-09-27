@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Kubva kunezvipukanhinga zvitsvene, uye kubva kunozvipukanhinga zvisingatsvene, uye kubva kune shiri, nezvose zvinozvinambaira pasi pano.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kunezvipukanhinga"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "zvitsvene"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uye kubva"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kunozvipukanhinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvi"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "singo-"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uye kubva"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "kuneshiri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvinambaira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pasi pano"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:38.307061062Z",
+  "model": "glm-5.3"
+}

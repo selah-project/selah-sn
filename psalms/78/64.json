@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Maporofita ake akaguma muno marwodzi, uye madzimai avo akafa muno mabasa haana kumira.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "Maporofita ake"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "muno marwodzi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "akaguma"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "madzimai avo akafa muno mabasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "kumira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:41.613940743Z",
+  "model": "glm-5.3"
+}

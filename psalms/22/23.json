@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Ndichazivisa zita rako kuvanhu vangu vehama, muzvikwata zvavanhu ndichakurumbidza iwe.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ndichazivisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kuvanhu vangu vehama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "muzvikwata"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "zvavanhu"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ndichakurumbidza iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:09.130263522Z",
+  "model": "glm-5.3"
+}

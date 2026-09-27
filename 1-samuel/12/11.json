@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ndipo Yahwe akatuma ⟨את⟩ Yerubhairi, ne⟨את⟩ Bedhani, ne⟨את⟩ Yifutahi, ne⟨את⟩ Shumweli, akakununurai mumaoko evavengi venyu, vanzeve dzose; mokagara muchakadziwa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubhairi"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubhairi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Bedhani"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedhani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yifutahi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifutahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Shumweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shumweli"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "akakununurai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mumaoko e"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vavengi venyu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "vanzeve dzose"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "mokagara"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "muchakadziwa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:42.098858921Z",
+  "model": "glm-5.3"
+}

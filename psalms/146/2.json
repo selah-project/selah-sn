@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Ndicharumbidza Yahwe muhupenyu hwangu; ndichoridza rwiyo kuErohimu wangu nguva dzose ndiri.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ndicharumbidza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "muhupenyu hwangu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndichoridza rwiyo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuErohimu wangu"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "nguva dzose ndiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:03.423396802Z",
+  "model": "glm-5.3"
+}

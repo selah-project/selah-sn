@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Naizvozvo ndakadzoka ndakatarira mazuva ano, kuita zvakanaka ⟨את⟩ Yerushalerema ne⟨את⟩ imba yaYudha; musatya.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ndakadzoka"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "ndakatarira"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ano"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "kuita zvakanaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalerema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalerema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "imba yaYudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaYudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musaita"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "musatye"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:39.163664365Z",
+  "model": "glm-5.3"
+}

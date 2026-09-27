@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Anonyaradza ruzha rwemakungwa, ruzha rwemafundire aro, nedambudziko remarudzi.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Anonyaradza"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "rwemakungwa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "rwemafundire aro"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "nedambudziko"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "remarudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:48.066656Z",
+  "model": "glm-5.3"
+}

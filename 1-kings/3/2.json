@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Chete vanhu vaivo chirikupihwa dzibairo pazvinhu zvakakwirira, nokuti imba yavakavakira zita raYahwe yaisati yavakwa kusvika mazuva iwayo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Chete"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "vaivo chirikupihwa dzibairo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "pazvinhu zvakakwirira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yaisati"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "yavakwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "yavakavakira zita ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "iwayo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:03.958970543Z",
+  "model": "glm-5.3"
+}

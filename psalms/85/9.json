@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Ndichanzwa izwi raEr Yahwe, nokuti achataura runyararo kuvanhu vake nevatsvene vake; asi ⟨varegedze⟩ kudzoka kupenga.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Ndichanzwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "achataura"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "achataura"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nevatsvene vake"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "vatsvene vake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "aregedze"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "kupenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:19.248865252Z",
+  "model": "glm-5.3"
+}

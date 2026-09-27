@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye fananidzo yezviso zvavo: chiso chemunhu, uye chiso cheshumba kurudyi, kuzvitsva zvavo; uye chiso chenzombe kuruboshwe, kuzvitsva idzi; uye chiso chechapungu, kuzvitsva idzi.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "uye fananidzo"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yezviso zvavo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "chemunhu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "uye chiso"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "cheshumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "rudyi"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "zvitsva zvavo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "uye chiso"
+    },
+    {
+      "surface": "שור",
+      "gloss": "chenzombe"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "kuruboshwe"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "zvitsva idzi"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "uye chiso"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "chechapungu"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "zvitsva idzi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:13:59.081303406Z",
+  "model": "glm-5.3"
+}

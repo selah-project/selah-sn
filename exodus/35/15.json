@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "ne⟨את⟩ altare yeutsi, ne⟨את⟩ mapango ayo, ne⟨את⟩ mafuta ekudzodza, ne⟨את⟩ utsi wezvinhuhwa, ne⟨את⟩ chivharo chemukova, pamukova waMishikani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "altare yeutsi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "yeutsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mapango ayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mapango ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuta ekudzodza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ekudzodza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "utsi wezvinhuhwa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "utsi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wezvinhuhwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chivharo chemukova"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chivharo"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "chemukova"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pamukova"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "waMishikani"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:54.303223395Z",
+  "model": "glm-5.3"
+}

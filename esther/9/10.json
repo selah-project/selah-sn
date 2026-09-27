@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Vaakauraya ⟨את⟩ vakomana gumi vavaHamani, mwanakomana waHamadhati, muvengi weYudha; asi pachibi havana kusvikisa ⟨את⟩ ruoko rwavo.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "vaHamani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "waHamadhati"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "weYudha"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "Vaakauraya"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "asi pachibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kusvikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwavo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruoko rwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:24.213652871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana mukwereta ⟨את⟩ ndarama, ⟨את⟩ mumwe wavanhu vangu, ⟨את⟩ murombo uri newe, usave iye semukweretesa; hamuisi paari mubairo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "mukwereta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumwe wavanhu vangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murombo"
+    },
+    {
+      "surface": "העני",
+      "gloss": "murombo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uri newe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "-ve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "semukweretesa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamu-"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "-isi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mubairo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:50.259961883Z",
+  "model": "glm-5.3"
+}

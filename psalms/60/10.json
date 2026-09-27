@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Moabhi ndiwo poto yangu yekugezisa; pamusoro peEdhomu ndinokanda shangu yangu; pamusoro kwangu, Pheresititi, ita mhemberero.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabhi"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "poto"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yangu yekugezisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ndinokanda"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "shangu yangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro kwangu"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pheresititi"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "ita mhemberero"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:22.893559374Z",
+  "model": "glm-5.3"
+}

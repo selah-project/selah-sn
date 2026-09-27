@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Mutumwa waYahwe anogara akadzingirira avo vanomutya, akavanunura.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Mutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "akadzingirira"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "avo vanomutya"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "akavanunura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:37.095245692Z",
+  "model": "glm-5.3"
+}

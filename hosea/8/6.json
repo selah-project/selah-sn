@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "nokuti kubva kuIsraeri ndiko kwakabva; muvezi ndiye wakaiita, uye si mwari iyoyo. Nokuti zvidimbu richava, mhuru yaShamaroni.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מִיִּשְׂרָאֵל֙",
+      "gloss": "kubva kuIsraeri"
+    },
+    {
+      "surface": "וְה֔וּא",
+      "gloss": "uye ndiwo"
+    },
+    {
+      "surface": "חָרָ֣שׁ",
+      "gloss": "muvezi"
+    },
+    {
+      "surface": "עָשָׂ֔הוּ",
+      "gloss": "wakaiita"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "uye si"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שְׁבָבִ֣ים",
+      "gloss": "zvidimbu"
+    },
+    {
+      "surface": "יִֽהְיֶ֔ה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "עֵ֖גֶל",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "שֹׁמְרֽוֹן",
+      "gloss": "yaShamaroni"
+    }
+  ],
+  "timestamp": "2026-09-27T11:12:26.160322763Z",
+  "model": "glm-5.3"
+}

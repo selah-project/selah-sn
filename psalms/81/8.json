@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Munyatsomwo wakadana, ndikakununura; ndinokupindura mukuvanzika kweruzha; ndinokuedza pamvura yaMeriba. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Munyatsomwo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "wakadana"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ndikakununura"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ndinokupindura"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mukuvanzika kwe"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ndinokuedza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura ya"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:33.039843853Z",
+  "model": "glm-5.3"
+}

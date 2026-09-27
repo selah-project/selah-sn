@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mweya wangu wakadanira husva; ndipenyudze sezvataurwa nemashoko ako.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "wakadanira"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "husva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ndipenyudze"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sezvataurwa nemashoko ako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:17.081877665Z",
+  "model": "glm-5.3"
+}

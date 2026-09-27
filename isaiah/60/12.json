@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Nokuti rudzi uye hushe hwusingakushumiri hwuchaparadzwa; uye marudzi iwo achaparara zvachose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "uye hushe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "usingakushumiri"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hwuchaparadzwa"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "uye marudzi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "parara"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "achaparara zvachose"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:39.554601702Z",
+  "model": "glm-5.3"
+}

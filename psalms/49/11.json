@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Nekuti anoona kuti vachenjeri vanofa; mupenzi nevasina kujeka pamwe chete vanoparara, uye vasiya pfuma yavo kune vamwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "anoona kuti"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "vachenjeri"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "vanofa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mupenzi"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "nevasina kujeka"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vanoparara"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "vasiya"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kune vamwe"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "pfuma yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:50.056585926Z",
+  "model": "glm-5.3"
+}

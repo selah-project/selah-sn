@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Nokuti iwe ndiwe dombo rangu netowera yangu yekudzivirira; uye zvechinangwa chezita renyu mutungamire, uye mufambise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dombo rangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "netowera yangu yekudzivirira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "uye zvechinangwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "chezita renyu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mutungamire"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "mufambise"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:03.312474715Z",
+  "model": "glm-5.3"
+}

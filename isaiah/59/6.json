@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Madandemutande avo haagumi kuita hembe, uye havazofuki nezviito zvavo; zviito zvavo ndezvakaipa, uye basa reruvhanyo ruri mumawoko avo.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "madandemutande avo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "agumi kuita"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "vazofuki"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "nezviito zvavo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "zviito zvavo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "zviito"
+    },
+    {
+      "surface": "און",
+      "gloss": "zveakaipa"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "uye basa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "reruvhanyo"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "mumawoko avo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:51.409851435Z",
+  "model": "glm-5.3"
+}

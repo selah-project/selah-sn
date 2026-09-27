@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Maziso avo adzime kuti isaone, uye chiuno chavo chizunzungudzike nguva dzose.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "adzime"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "maziso avo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "kutisaone"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "uyechiuno chavo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "chizunzungudzike"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:42.345776324Z",
+  "model": "glm-5.3"
+}

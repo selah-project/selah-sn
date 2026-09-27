@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndinoziva kuti hapana chakanaka muvavo, kunenge kufara nokuita zvakanaka muhupenyu hwavo.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ndinoziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "muvavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunenge"
+    },
+    {
+      "surface": "אם",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "kufara"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "nokuita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "muhupenyu hwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:04.810608391Z",
+  "model": "glm-5.3"
+}

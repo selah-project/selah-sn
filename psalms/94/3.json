@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Kusvika rinhi, vasina kururama, Yahwe? Kusvika rinhi vasina kururama vachizvizvidza?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vasina kururama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vasina kururama"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "vachizvizvidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:23.905911439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Itai nziyo yerufaro kuna Erohimu, simba redu; itai ruzha rwekufara kuna Erohimu waJakobho.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "itai nziyo yerufaro"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "simba redu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "itai ruzha rwekufara"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuna Erohimu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:14.103758264Z",
+  "model": "glm-5.3"
+}

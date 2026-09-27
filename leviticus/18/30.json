@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Muchichengeta ⟨את⟩ muchengeti wangu, kuti musaite mitemo yezvinonyadziswa izvo zvakaitwa pamberi penyu, uye musazvidyisa nazo; ndini Yahwe Erohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Muchichengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muchengeti wangu"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "muchengeti wangu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti musaite"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kusaita"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "mitemo ye"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "zvinonyadziswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "zvakaitwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye musa"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "zvidyise"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:46:38.269558185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Nokuti iwe watinoponesa kubva kuvavengi vedu, uye avo vanotidzvanya wakanyadzisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "watinoponesa"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "kubva kuvavengi vedu"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "avo vanotidzvanya"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "wakanyadzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:56.922894366Z",
+  "model": "glm-5.3"
+}

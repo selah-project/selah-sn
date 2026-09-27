@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Akati kwavari: Zvive zvakadaro, Yahwe agare navami sokuda kwekubvisa ⟨את⟩ imi uye ⟨את⟩ vana venyu vechidiki; onai, nokuti chinhu chakaipa chiri pamberi pechiso chenyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "zvive"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "agare navami"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda kwe"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "kubvisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vana venyu vechidiki"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "onai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "chinhu chakaipa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "chiso chenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:59.474401561Z",
+  "model": "glm-5.3"
+}

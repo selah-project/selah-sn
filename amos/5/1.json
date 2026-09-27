@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Teerera ⟨את⟩ izwi iri, ndiro ndinotora ndichikanda pamusoro penyu, nziyo yechishusho, imba yaIsraeri.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֞וּ",
+      "gloss": "Teerera"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "izwi iri"
+    },
+    {
+      "surface": "הַדָּבָ֣ר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הַזֶּ֗ה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "אָנֹכִ֜י",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נֹשֵׂ֧א",
+      "gloss": "ndinotora ndichikanda"
+    },
+    {
+      "surface": "עֲלֵיכֶ֛ם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "קִינָ֖ה",
+      "gloss": "nziyo yechishusho"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "yaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:51.802227267Z",
+  "model": "glm-5.3"
+}

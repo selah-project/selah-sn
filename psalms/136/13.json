@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Kune iye akatsemura gungwa reSufu kuva zvitsemwa, nokuti hesedhi yake ichiiko nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Kune iye akatsemura"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "reSufu"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "kuva zvitsemwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake ichiiko"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:21.255657743Z",
+  "model": "glm-5.3"
+}

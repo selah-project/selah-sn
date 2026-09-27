@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Tarisa! Anogara kuve ⟨את⟩ haasi wangu; ndiani anogara newe? Paushe pako anowira.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tarisa!"
+    },
+    {
+      "surface": "גור",
+      "gloss": "anogara kuve"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "haasi"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "wangu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "גר",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "newe ⟨את⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "paushe pako"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "anowira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:06.521734054Z",
+  "model": "glm-5.3"
+}

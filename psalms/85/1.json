@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Kune mutungamiri wemanzwiro, kuvana vaKorahi; nziyo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri wemanzwiro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:27.425353534Z",
+  "model": "glm-5.3"
+}

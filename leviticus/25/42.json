@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nokuti varanda vangu iwo, vandaka⟨את⟩buditsa munyika yeMitsraim; havatengeswi netengeso reranda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda vangu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vandaka"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "buditsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "munyika yeMitsraim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "vatengeswi"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "netengeso"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "reranda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:38.904959085Z",
+  "model": "glm-5.3"
+}

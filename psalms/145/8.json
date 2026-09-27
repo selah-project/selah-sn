@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Yahwe ane nyadzo netsitsi, anonoka kuita hasha, uye ane hesedhi huru.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ane nyadzo"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "netsitsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "anonoka"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kuita hasha"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "nehuru"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:58.849700492Z",
+  "model": "glm-5.3"
+}

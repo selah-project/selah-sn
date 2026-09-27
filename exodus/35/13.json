@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "⟨את⟩ tafura nemapango ayo, ne⟨את⟩ zvinhu zvayo zvose, ne⟨את⟩ chingwa chechiso",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafura"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mapango ayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mapango ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvayo zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinhu zvayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chingwa chechiso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "chechiso"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:33.331914553Z",
+  "model": "glm-5.3"
+}

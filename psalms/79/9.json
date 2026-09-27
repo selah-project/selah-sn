@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Tibatsire, iwe Erohimu yechiponeso chedu, nokuda kwekukudziwa kwezita rako; uye tinunure, uye uvhare zvitadzo zvedu, nokuda kwezita rako.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Tibatsire"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "yechiponeso chedu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kukudziwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wezita rako"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "uye tinunure"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uye uvhare"
+    },
+    {
+      "surface": "על",
+      "gloss": "zvitadzo"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "zvedu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wezita rako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:26.643532260Z",
+  "model": "glm-5.3"
+}

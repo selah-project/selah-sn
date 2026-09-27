@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Iwe unoziva kurengera kwangu nenyadzo yangu nokunyadziswa kwangu; pamberi pako ndivo vavengi vangu vose.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "kurengera kwangu"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "nenyadzo yangu"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "nokunyadziswa kwangu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "vavengi vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:18.388818936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Kuzhambwa kwe⟨shumba⟩, nezwi reshumba inozhamba, nedzino dzeshumba diki dzakaputswa.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "kuzhambwa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nezwi"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "reshumba inozhamba"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "nedzino"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "dzeshumba diki"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "dzakaputswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:32:36.565381194Z",
+  "model": "glm-5.3"
+}

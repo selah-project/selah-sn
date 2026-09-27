@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Teerera izwi rekuchemera kwangu, mambo wangu uye Erohimu wangu; nokuti kwamuri ndinonamata.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Teerera"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "izwi re"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kuchemera kwangu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mambo wangu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "uye Erohimu wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ndinonamata"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:58.025845879Z",
+  "model": "glm-5.3"
+}

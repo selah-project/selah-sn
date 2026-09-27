@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 2:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Madzinza mazhinji achafamba achiti: Uyai, ngatikwire kugombo raYahwe, kumaba yaErohimu yaJakobho; ndiye anotidzidzisa nzira dzake, totofamba munzira dzake; nokuti tora ichabuda muZiyoni, neizwi raYahwe muYerusharemu.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "achafamba"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Madzinza"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "achati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Uyai"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "ngatikwire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "yaJakobho"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "anotidzidzisa"
+    },
+    {
+      "surface": "מדרכיו",
+      "gloss": "nzira dzake"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "totofamba"
+    },
+    {
+      "surface": "בארחתיו",
+      "gloss": "munzira dzake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "muZiyoni"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ichabuda"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "neizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "muYerusharemu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:26.632075850Z",
+  "model": "glm-5.3"
+}

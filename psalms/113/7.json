@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Anomutsa ⟨את⟩ murombo kubva mvurutsatsa, anoSimudza ⟨את⟩ mudzikinuri kubva mumanurenhau.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Anomutsa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "kubva mvurutsatsa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "murombo"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "kubva mumanurenhau"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "anoSimudza"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mudzikinuri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:32.068465337Z",
+  "model": "glm-5.3"
+}

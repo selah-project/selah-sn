@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Ndemo yaDhavhidhi, yedzidziso. Vane mufaro avo mhosva yakatorwa ⟨kubva pairi⟩, avo chitadzo chakafukidzwa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ndemo yaDhavhidhi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yedzidziso"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Vane mufaro"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "yakatorwa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "chakafukidzwa"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "chitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:41.191605662Z",
+  "model": "glm-5.3"
+}

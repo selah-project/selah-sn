@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Unoita kuti ndive nesimba rehondo; wadzikisa vachimirira pasi pandiri.",
+  "tokens": [
+    {
+      "surface": "וַתְּאַזְּרֵנִי",
+      "gloss": "unondishandisa simba"
+    },
+    {
+      "surface": "חַיִל",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "לַמִּלְחָמָה",
+      "gloss": "rehondo"
+    },
+    {
+      "surface": "תַּכְרִיעַ",
+      "gloss": "unodzikisa"
+    },
+    {
+      "surface": "קָמַי",
+      "gloss": "vachimirira"
+    },
+    {
+      "surface": "תַּחְתָּי",
+      "gloss": "pasi pandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:39.641373021Z",
+  "model": "glm-5.3"
+}

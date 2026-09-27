@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Vakasangana na⟨את⟩ Moshe ne⟨את⟩ Aroni, vachimirira kuvatarira, pavakabuda kubva kuna⟨את⟩ Farao.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Aroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "vachimirira"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "kuvatarira"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "pavakabuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva kuna⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:24.605879777Z",
+  "model": "glm-5.3"
+}

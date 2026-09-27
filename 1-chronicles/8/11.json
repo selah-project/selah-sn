@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye kubva kuHushimu akabereka ⟨את⟩ Avhitubhu ne⟨את⟩ Erupaaru.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "uye kubva kuHushimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avhitubhu"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avhitubhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Erupaaru"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Erupaaru"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:11.567458040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Mora neaharoti, ketsiyota — zvose zvipunu zvako; kubva mudzimba dzakagadzirwa nemanyanga enzou, ⟨zvimwe zvinosvika⟩ zvemhanzi zvichikutadzira.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Mora"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "neaharoti"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "ketsiyota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "zvipunu zvako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "mudzimba"
+    },
+    {
+      "surface": "שן",
+      "gloss": "manyanga enzou"
+    },
+    {
+      "surface": "מני",
+      "gloss": "zvemhanzi"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "zvichikutadzira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:46.030313382Z",
+  "model": "glm-5.3"
+}

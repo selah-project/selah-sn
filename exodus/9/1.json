@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe akati kuMoshe: Ndokwira kuna Farao, utaure naye kuti: Naizvozvo akataura Yahwe, Erohimu vevaHebheru: Siya ⟨את⟩ vanhu vangu, vanozondishumira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ndokwira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "utaure"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "vevaHebheru"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ועבדני",
+      "gloss": "vanzondishumira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:13.118986067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Nziyo dzeKwidza. Ndinosimudza maziso angu kumakomo — ndoupi ⟨muno⟩ rubetsero rwangu?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "dzeKwidza"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Ndinosimudza"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ndoupi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ruchinoupi"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "rubetsero rwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:44.946989520Z",
+  "model": "glm-5.3"
+}

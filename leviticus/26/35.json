@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Mazuva ose ekushayiwa kwemagariro ayo ichazorora ⟨את⟩ izvo zvaisazorora munaShabhata dzenyu, pamaigara pairi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ekushayiwa kwemagariro"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ichazorora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "zvaisazorora"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "munaShabhata dzenyu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "paguqo ramaigara"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pairi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:11.208688272Z",
+  "model": "glm-5.3"
+}

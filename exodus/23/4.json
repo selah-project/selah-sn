@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Kana ukasangana nomombe yomuzvinyiri wako, kana mbongoro yake yatasva, dzosa dzosadzosa kwaari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "ukasangana na-"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "yomuzvinyiri wako"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "mbongoro yake"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "yatasva"
+    },
+    {
+      "surface": "השב",
+      "gloss": "dzosa"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "dzosadzosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:29.461148254Z",
+  "model": "glm-5.3"
+}

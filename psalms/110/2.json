@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 110,
+  "translation": "Yahwe achatumira tsvimbo yesimba rako kubva muZiyoni: tunga mukati mevavengi venyika yako.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "yesimba rako"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "achatumira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kubva muZiyoni"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mevavengi venyika yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:11.034367894Z",
+  "model": "glm-5.3"
+}

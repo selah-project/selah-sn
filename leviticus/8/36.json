@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye Aharon nevana vake vakaita ⟨את⟩ izwi zvaive zvose raYahwe akarayira nemaoko aMoshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nevana vake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi zvaive zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izwi zvaive"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nemaoko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "aMoshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:15.110837049Z",
+  "model": "glm-5.3"
+}

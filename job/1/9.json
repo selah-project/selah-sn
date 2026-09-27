@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Satani akapindura ⟨את⟩ Yahwe akati: Kwazvino, mahara here Iyobu anotya Erohimu?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "mahara"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:33:09.691575607Z",
+  "model": "glm-5.3"
+}

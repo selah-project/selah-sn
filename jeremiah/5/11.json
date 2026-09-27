@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti kunyengedza, vakanyengedza kwandiri — imba yaIsraeri nemba yaYudha — gwaro raYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "kunyengedza"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "vakanyengedza"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nemba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaYudha"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "gwaro ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:52:11.058196791Z",
+  "model": "glm-5.3"
+}

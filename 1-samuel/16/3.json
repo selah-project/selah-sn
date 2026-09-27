@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye udanidza Yishai kuchibairo, uye ini ndichakuzivisa ⟨את⟩ izvi zvaura kuita; uye unozodza kwandiri ⟨את⟩ iye wandichataura newe.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "uye udanidza"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "kuchibairo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "uye ini"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ndichakuzivisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvi zvaura kuita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvi zvaura"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "uye unozodza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iye wandichataura newe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wandichataura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:12.390960497Z",
+  "model": "glm-5.3"
+}

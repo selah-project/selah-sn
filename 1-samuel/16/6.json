@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvino pavakapinda, akaona ⟨את⟩ Eriyabhu, akati: Chokwadi, pamberi paYahwe ⟨ndiye⟩ Mashiach wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "pavakapinda"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eriyabhu"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eriyabhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiach wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:06.712011097Z",
+  "model": "glm-5.3"
+}

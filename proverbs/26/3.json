@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Chamboko chebezha, chidikiro chebhuru, nomutemeri shure kwavapenzi.",
+  "tokens": [
+    {
+      "surface": "שׁ֣וֹט",
+      "gloss": "chamboko"
+    },
+    {
+      "surface": "לַ֭סּוּס",
+      "gloss": "chebezha"
+    },
+    {
+      "surface": "מֶ֣תֶג",
+      "gloss": "chidikiro"
+    },
+    {
+      "surface": "לַחֲמ֑וֹר",
+      "gloss": "chebhuru"
+    },
+    {
+      "surface": "וְ֝שֵׁ֗בֶט",
+      "gloss": "nomutemeri"
+    },
+    {
+      "surface": "לְגֵ֣ו",
+      "gloss": "shure kwa"
+    },
+    {
+      "surface": "כְּסִילִֽים",
+      "gloss": "vapenzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:24.626374848Z",
+  "model": "glm-5.3"
+}

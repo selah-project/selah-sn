@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Nokuti tarira, rinofuka nyika, uye jekesa rimwe marudzi; asi Yahwe achazaruka pamusoro pako, uye ukudzi hwake kuchioneka pamusoro pako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "rinofuka"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jekesa"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "asi pamusoro pako"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "achazaruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "uye ukudzi hwake"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kuchioneka"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:03.838229003Z",
+  "model": "glm-5.3"
+}

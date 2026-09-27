@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Ndipo Adhadhi akatiza, iye nevarume vechiEdhomu, vevaranda vaibaba vake, ⟨pamwe chete naye⟩, kuenda kuMuitra; Adhadhi aive mwanakomana mudiki.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adhadhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "nevarume"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "vechiEdhomu"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "vevaranda va"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamwe chete naye",
+      "marks": "Adhadhi nevarume vechiEdhomu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kuMuitra"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Adhadhi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mudiki"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:24.354210542Z",
+  "model": "glm-5.3"
+}

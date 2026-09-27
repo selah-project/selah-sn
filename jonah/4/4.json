@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati: kwakanaka here kuti uvesvarire kudaro?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "kwakanaka here"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "uvesvarire"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kudaro (kwauri)"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:18.347248221Z",
+  "model": "glm-5.3"
+}

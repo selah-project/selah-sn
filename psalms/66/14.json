@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Izvo milomo yangu yakavhura, nomuromo wangu wataura pakutambudzikwa kwangu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izvo"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "yakavhura"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yangu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "wataura"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "pakutambudzikwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:31.645347348Z",
+  "model": "glm-5.3"
+}

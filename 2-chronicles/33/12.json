@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uye paakatambudzika iye, akapemha ⟨את⟩ chiso cheYahwe Erohimu wake, akazvininipisa zvakanyanya pachiso peErohimu waMadzibaba ake.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "paakatambudzika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "akapemha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso cheYahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "akazvininipisa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "waMadzibaba ake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:42:15.656036732Z",
+  "model": "glm-5.3"
+}

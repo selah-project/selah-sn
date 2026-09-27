@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Asi ⟨את⟩ ushe hwose handichaitura; chipanga chimwe chichapa mwana wako, nokuda kwaDhavidhi muzvishiri wangu, uye nokuda kwaYerusharima iyo ndakasarudza.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushe hwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ushe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "chaitura"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chipanga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "chichapa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavidhi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "muzvishiri wangu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "uye nokuda kwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndakasarudza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:34.906903858Z",
+  "model": "glm-5.3"
+}

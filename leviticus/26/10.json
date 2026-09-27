@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Muchadya chakare chakazarira, neburi rechakare muchabvisa nekuda kwechitsva.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "chakare"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "chakazarira"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "chakare"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nekuda kwe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "chitsva"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "muchabvisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:16.216176704Z",
+  "model": "glm-5.3"
+}

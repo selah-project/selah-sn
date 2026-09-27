@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Mahalaleri akagara makore mashanu nemakumi matanhatu, akazvara ⟨את⟩ Yarende.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleri"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "nemakumi matanhatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarende"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yarende"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:40.635424577Z",
+  "model": "glm-5.3"
+}

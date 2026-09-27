@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Asi kwete ⟨את⟩ nemi chete, imi, ndinocheka ⟨את⟩ sungano iyi ne⟨את⟩ mhiko iyi;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi kwete"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nemi",
+      "marks": "nemi"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "chete imi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ndinocheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano iyi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mhiko iyi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "mhiko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:27.855105266Z",
+  "model": "glm-5.3"
+}

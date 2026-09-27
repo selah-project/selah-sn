@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Shauru akaona kuti iye aive ane ungwaru zvikuru, akatya kune chiso chake.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ane ungwaru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "akatya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kune chiso chake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:03.519243551Z",
+  "model": "glm-5.3"
+}

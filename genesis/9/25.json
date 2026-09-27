@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Akati: Nguwara ngauriwe Kenani; muranda wevarandauchave kune vamwake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ngauriwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "wevaranda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "achave"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kune vamwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:37.464971600Z",
+  "model": "glm-5.3"
+}

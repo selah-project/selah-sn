@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ne⟨את⟩ Reseni, pakati peNinive neKaraha — ndiro guta guru.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Reseni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Karaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "guru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.286936614Z",
+  "model": "glm-5.3"
+}

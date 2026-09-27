@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Akadzosazve ⟨את⟩ hupfumi hwose, uyezve akadzosazve ⟨את⟩ Rote hanzvadzi yake nehupfumi hwake, uyezve ⟨את⟩ madzimai ne⟨את⟩ vanhu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzosazve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hupfumi hwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "hupfumi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uyezve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rote hanzvadzi yake"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Rote"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi yake"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "nehupfumi hwake"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "akadzosazve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uyezve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzimai"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:55.951279219Z",
+  "model": "glm-5.3"
+}

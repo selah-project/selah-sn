@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Ndinunure, Erohimu; nokuti mvura yauya kusvika pamweya.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Ndinunure"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "באו",
+      "gloss": "yauya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "pamweya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.175975282Z",
+  "model": "glm-5.3"
+}

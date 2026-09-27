@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Mukazve nomutsazve kuti utonge ⟨⟨nyaya⟩⟩ yangu, Erohimu wangu, uye Adonai wangu, rwira nyaya yangu.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Mukazve"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "nomutsazve"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "kuti utonge ⟨nyaya⟩ yangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "uye Adonai wangu"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "rwira nyaya yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:38.092084430Z",
+  "model": "glm-5.3"
+}

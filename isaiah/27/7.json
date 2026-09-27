@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Sekurova kwaakamurova here, ndiko kwaakarohwa? kana sekuurayiwa kwavakaurayiwa vake, ndiko kwakaurayiwa?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "sekurova"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "kwaakamurova"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "akarohwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "here kana"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "sekuurayiwa"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "kwavakaurayiwa vake"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "kwakaurayiwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:04:24.744312026Z",
+  "model": "glm-5.3"
+}

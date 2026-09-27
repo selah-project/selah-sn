@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Rumbidzai Adonai wamatongi, nokuti hesedhi yake inogara nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai wa"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "matongi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "inogara nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:26.960671526Z",
+  "model": "glm-5.3"
+}

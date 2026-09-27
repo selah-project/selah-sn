@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Mbeu yake ichaita kuvamwe nguva, uye chigaro chake chomambo chichave semwedzi pamberi pangu.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "mbeu yake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuvamwe nguva"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ichaita"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "uye chigaro chake chomambo"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "sewedzi"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pamberi pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:23.258699675Z",
+  "model": "glm-5.3"
+}

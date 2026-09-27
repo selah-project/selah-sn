@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Akakwidza nyere dzevanhu vake — rumbidzo kuvatsvene vake vose, kuvana vaIsraeri, vanhu vave pedyo naye. Rumbidzai Yah.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "akakwidza"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "nyere"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "dzevanhu vake"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "rumbidzo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuv... vose"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "vatsvene vake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "vave pedyo naye"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:37.905016633Z",
+  "model": "glm-5.3"
+}

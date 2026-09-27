@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Zvino vakafara nokuti ⟨zvakanyarara⟩, ndokunzoatungamirira kundove yaishuvirwa navo.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Zvino vakafara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "zvakanyarara"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ndokunzoatungamirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "ndove"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "yaishuvirwa navo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:18.991144952Z",
+  "model": "glm-5.3"
+}

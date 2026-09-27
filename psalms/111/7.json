@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Mabasa emaoko ake ndeekutenda nekumutemo; zvinovimbika zvese mirairo yake.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "emaoko ake"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eekutenda"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nekumutemo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "zvinovimbika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "mirairo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:00.078989830Z",
+  "model": "glm-5.3"
+}

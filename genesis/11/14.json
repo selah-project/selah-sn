@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Sherakhi akagara makore makumi matatu, akazvara ⟨את⟩ Evheri.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Uye Sherakhi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makore makumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evheri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evheri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:49.956248570Z",
+  "model": "glm-5.3"
+}

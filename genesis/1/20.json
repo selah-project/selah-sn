@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akati: Mvura dzibere zvidikitiro zvine mweya woupenyu; shiri dziguruke pamusoro pepasi, pamusoro pechiso chedenga rematenga.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יִשְׁרְצוּ",
+      "gloss": "dzibere zvidikitiro"
+    },
+    {
+      "surface": "הַמַּיִם",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "שֶׁרֶץ",
+      "gloss": "zvidikitiro"
+    },
+    {
+      "surface": "נֶפֶשׁ",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "חַיָּה",
+      "gloss": "woupenyu"
+    },
+    {
+      "surface": "וְעוֹף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "יְעוֹפֵף",
+      "gloss": "dziguruke"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "pepasi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "pechiso"
+    },
+    {
+      "surface": "רְקִיעַ",
+      "gloss": "chedenga"
+    },
+    {
+      "surface": "הַשָּׁמָיִם",
+      "gloss": "rematenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:19.891328470Z",
+  "model": "glm-5.3"
+}

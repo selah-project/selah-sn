@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Zvakare Yhuda haina kuchengeta ⟨את⟩ mirairo yaYahwe Erohimu yavo, vakafamba muzvitemo zveIsirairi izvo zvaiitwa navo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Zvakare"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yhuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haina"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu yavo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "muzvitemo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zveIsirairi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zvaiitwa navo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:20.663932619Z",
+  "model": "glm-5.3"
+}

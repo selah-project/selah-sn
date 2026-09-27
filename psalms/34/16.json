@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Maziso aYahwe ⟨ari⟩ kune vakatendeseka, nhete dzake dziri kune kuzunza kwavo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vakatendeseka"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "nonhete dzake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kuzunza kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:58.348895160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mitemo yaYahwe yakatwasuka, inofadza moyo; murairo waYahwe wakachena, unopenyesa maziso.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Mitemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "yakatwasuka"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "inofadza"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "murairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "wakachena"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "unopenyesa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maziso"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:52.097196468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Shauro akasvika kuna ⟨את⟩ Shamueru mumusuvo wendaro, akati: “Ndiudzewo, mboni iri kupi yamorari?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shamueru"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamueru"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mumusuvo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "wendaro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ndiudze"
+    },
+    {
+      "surface": "נא",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "yemorari"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:49.448704770Z",
+  "model": "glm-5.3"
+}

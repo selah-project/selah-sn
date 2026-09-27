@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ndinatsa mazvo angu muchena, ndichitenderedza ⟨את⟩ altari yako, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Ndinatsa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "muchena"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mazvo angu"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "ndichitenderedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altari yako"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altari yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:28.832347838Z",
+  "model": "glm-5.3"
+}

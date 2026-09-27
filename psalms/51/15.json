@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Ndichadzidzisa vatadzi nzira dzako, uye vatadzi vachadzoka kwauri.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "Ndichadzidzisa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "vatadzi"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nzira dzako"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "uye vatadzi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "vachadzoka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:09.677700004Z",
+  "model": "glm-5.3"
+}

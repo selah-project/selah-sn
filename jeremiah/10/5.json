@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Setamari yemabharo idzi ⟨הם⟩ hazvitauri; zvinotakurwa zvichinzi, nokuti hazvidhiyi. Musatya idzi, nokuti hazviite zvakaipa, uye kuita zvakanaka hakuna muzviri ⟨את⟩ kwazvo.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "setamari"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "yemabharo (chakamanikidzwa nenyundo)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "idzi ⟨הם⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hazvi-"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tauri"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "zvinotakurwa"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "zvichinzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "dihyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa- \/ musa-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ite zvakaipa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "kuita zvakanaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna muzviri"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:54:23.503016740Z",
+  "model": "glm-5.3"
+}

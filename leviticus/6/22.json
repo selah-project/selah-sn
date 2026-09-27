@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Chero chirume pamwe chemapristi chichadya ⟨את⟩ iyo; tsvene yeutsvene ndiro iyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Chero"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chirume"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "pamwe chemapristi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "chichadya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (chibairo ichi)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "yeutsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro iyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:59.396554880Z",
+  "model": "glm-5.3"
+}

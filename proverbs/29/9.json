@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Munhu muchenjeri anogara mhosva na⟨munhu⟩ mupenzi; kana anoputswa, kana anoseka, hapana rugare.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Munhu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "muchenjeri"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "anogara mhosva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu mupenzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "mupenzi"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "kana anoputswa"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "kana anoseka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rugare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:29.197715593Z",
+  "model": "glm-5.3"
+}

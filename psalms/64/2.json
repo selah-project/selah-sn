@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Nzwa, Erohimu, izwi rangu muchishuvo zvangu; udzive upenyu hwangu kubva kutya muvengi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nzwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "muchishuvo zvangu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kubva kutya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "udzive"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "upenyu hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:50.244465636Z",
+  "model": "glm-5.3"
+}

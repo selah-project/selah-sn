@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Iye wo achiri akaita nyanzvi dze kupunzika pamakomo eYudha, uye akaomesa ⟨את⟩ vagari veYerushalema, akatyokadzokera ⟨את⟩ Yudha.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "במות",
+      "gloss": "nyanzvi dze kupunzika"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "pamakomo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "eYudha"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "akaomesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vagari veYerushalema"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "veYerushalema"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "akatyokadzokera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:36:28.128950380Z",
+  "model": "glm-5.3"
+}

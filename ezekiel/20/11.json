@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Ndikapa zvavo ⟨את⟩ mitemo yangu, uye ⟨את⟩ mutemo wangu ndinozivisa kuna ⟨את⟩ iwo, kuti munhu anoita ⟨את⟩ izvi achagara mupenyu nazvo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ndikapa zvavo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuna ⟨iwo⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yangu"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mutemo wangu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mutemo wangu"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "ndinozivisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iwo",
+      "marks": "iwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ izvi",
+      "marks": "izvi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "achagara mupenyu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:11:49.702907063Z",
+  "model": "glm-5.3"
+}

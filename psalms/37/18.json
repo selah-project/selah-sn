@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Yahwe anoziva mazuva evakapfava; uye nhaka yavo icharamba iripo nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "evakapfava"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "uye nhaka yavo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "icharamba iripo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:57.896615912Z",
+  "model": "glm-5.3"
+}

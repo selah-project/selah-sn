@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vakaudza Mordhekai ⟨את⟩ mashoko aEstere.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "vakaudza"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordhekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "aEstere"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:05.499331388Z",
+  "model": "glm-5.3"
+}

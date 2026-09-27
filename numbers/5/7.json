@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "vokatenda ⟨את⟩ chitadzo chavo cha vakaita; wo dzosa ⟨את⟩ chishango chake chose, uye chishanu chacho awedzera pairi, uye apa kune uyo awaita husviro.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "vokatenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitadzo chavo"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "chitadzo chavo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "wo dzosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chishango chake"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "chishango chake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "chose"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "chishanu chacho"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "awedzera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kune uyo"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "awaita husviro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-27T05:55:07.590884460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Chete, nzvimbo dzepakakwirira dzisina kubviswa; vanhu zvichiri kupira nsemba nokutsvaira utswai panzvimbo dzepakakwirira.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "nzvimbo dzepakakwirira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "dzisina kubviswa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvichiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "kupira nsemba"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "nokutsvaira utswai"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "panzvimbo dzepakakwirira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:57.144227446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Imi amiri mumba yaYahwe, munamatiro emba yavaErohimu wedu.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "amiri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "munamatiro emba ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "emba ya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vaErohimu wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:40.104004346Z",
+  "model": "glm-5.3"
+}

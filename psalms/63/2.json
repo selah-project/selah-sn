@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Erohimu, ndiwe Er wangu; mangwanani ndinokutsvaga; mweya wangu unenzara yako, muviri wangu unokukohomera, munyika yakaoma nokutapura, isina mvura.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "mangwanani ndinokutsvaga"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "unenzara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yako"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "unokukohomera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "muviri wangu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "yakaoma"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "nokutapura"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "isina"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:07.938470083Z",
+  "model": "glm-5.3"
+}

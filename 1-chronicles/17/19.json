@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Yahwe, nokuda kwemuranda wako, uye semoyo wako, waita ⟨את⟩ izvi zvazvinokosha, kuzivisa ⟨את⟩ makukuta ose.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "semoyo wako"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvi zvazvinokosha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "zvazvinokosha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "kuzivisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makukuta ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "makukuta"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:09.296584363Z",
+  "model": "glm-5.3"
+}

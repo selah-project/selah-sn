@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Baraki akadaidza ⟨את⟩ Zevhuruni ne⟨את⟩ Naftari kuKedhasha; akaenda netsoka dzake, varume churu gumi; Dheboraha akaenda naye.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "akadaidza"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevhuruni"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevhuruni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Naftari"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftari"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kuKedhasha"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "netsoka dzake"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "churu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Dheboraha"
+    }
+  ],
+  "timestamp": "2026-09-27T06:33:42.878636211Z",
+  "model": "glm-5.3"
+}

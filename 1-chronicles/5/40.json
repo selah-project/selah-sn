@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye Azaria akabereka ⟨את⟩ Seraja; uye Seraja akabereka ⟨את⟩ Yehotsadhaki.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "uye Azaria"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "uye Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadhaki"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadhaki"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:17.127307410Z",
+  "model": "glm-5.3"
+}

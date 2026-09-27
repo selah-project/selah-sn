@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Nokuti ndokudai kwataurwa naYahwe kune masarisi: anochengeta ⟨את⟩ Shabhata dzangu, asarudza izvi zandida, anobata sungano yangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndokudai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwataurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "kune masarisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anoi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "anochengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata dzangu"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Shabhata dzangu"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "asaratudza"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "zandida"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "anobata"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "sungano yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:31.865704157Z",
+  "model": "glm-5.3"
+}

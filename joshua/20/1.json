@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Yahwe akataura kuna Yehoshua, achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:24.814383242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Akabvisa ⟨את⟩ vhiri rengava dzavo, uye akavafambisa nekurema; nokuti Misri yakati: Ngatitizirei kubva pachiso cheIsraeri, nokuti Yahwe ari kurwa kurwiwa kwavo pamusoro peMisri.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vhiri"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "vhiri"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "rengava dzavo"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "uye akavafambisa"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "nekurema"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nokuti yakati"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misri"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Ngatitizirei"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubva pachiso che"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ari kurwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kurwiwa kwavo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "pamusoro peMisri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:59.788007562Z",
+  "model": "glm-5.3"
+}

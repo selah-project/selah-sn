@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Dhavhidhi akatora ⟨את⟩ nhare dzendarama dzaiva kuna varanda vaHhadadezeri, ndokuzviunza kuYerushalema.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhare dzendarama"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "nhare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dzendarama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dzaiva"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dzairo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "vaHhadadezeri"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ndokuzviunza"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kuYerushalema"
+    }
+  ],
+  "timestamp": "2026-09-27T06:56:35.963848805Z",
+  "model": "glm-5.3"
+}

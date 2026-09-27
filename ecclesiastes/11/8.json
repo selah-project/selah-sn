@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti kana munhu agara akurarama makore mazhinji, muzvose afare, uye aye arangarire ⟨את⟩ mazuva erima; nokuti achange ari mazhinji. Zvose zvinouya ndiwo heveri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "agara akurarama"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "muzvose"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "afare"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "uye arangarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazuva erima"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "erima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "achange ari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "zvinouya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:45.899852338Z",
+  "model": "glm-5.3"
+}

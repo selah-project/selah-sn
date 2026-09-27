@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Akati kuvavo: Munzwe, ndapota, roto iri ndakarota.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Munzwe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "roto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨iri⟩"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ndakarota"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:03.769657990Z",
+  "model": "glm-5.3"
+}

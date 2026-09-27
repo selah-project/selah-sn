@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 37:30",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye izvi zvichave chiratidzo chikwari: muchadya chakamera chega gore rino, negore rechipiri chakamera choga, asi gore rechitatu muchadzesa muchokodza, muchadzikira mabindu, uye muchadya muchero wawo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "uye izvi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chikwari"
+    },
+    {
+      "surface": "האות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "gore rino"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "chakamera chega"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "negore"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rechipiri"
+    },
+    {
+      "surface": "שחיס",
+      "gloss": "chakamera choga"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "gore"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "rechitatu"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "muchadzesa"
+    },
+    {
+      "surface": "וקצרו",
+      "gloss": "muchokodza"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "muchadzikira"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mabindu"
+    },
+    {
+      "surface": "ואכול",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "muchero wawo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:08.688074183Z",
+  "model": "glm-5.3"
+}

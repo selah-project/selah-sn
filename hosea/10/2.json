@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Moyo wavo wakapatana; zvino vachazvitadzira; ⟨iyeye⟩ achadimbura mautele avo, achaparadza mitsvi yavo.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "wakapatana"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wavo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "vachazvitadzira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iyeye⟩"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "achadimbura"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "mautele avo"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "achaparadza"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "mitsvi yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:30.050069890Z",
+  "model": "glm-5.3"
+}

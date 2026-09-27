@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Vatungamiri vako vese vakatiza pamwechete; kubva mupa vakasungwa; vese vainowanikwa mukati mako vakasungwa pamwechete; kure vakatiza.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vese"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "vatungamiri vako"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "kubva mupa"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "vakasungwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vese"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "vainowanikwa mukati mako"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "vakasungwa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "vakatiza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:39.426491870Z",
+  "model": "glm-5.3"
+}

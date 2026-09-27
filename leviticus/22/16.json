@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "vokuita kuti vave nemhosva ⟨את⟩ yekutyora pakudya ⟨את⟩ zvinoyera zvavo; nokuti ndini Yahwe anovitsvenisa.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "vokuita kuti vatore"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mhosva yekutyora"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "yekutyora"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "pakudya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinoyera zvavo"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "zvinoyera zvavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "anovitsvenisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:35.360935300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati kuna Moshe muMidiyani: Enda, dzokera kuMitsuwayi, nokuti vakafa varume vose vaitsvaga ⟨את⟩ upenyu hwako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "muMidiyani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "enda"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dzokera"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kuMitsuwayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "vakafa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "vaitsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "upenyu hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:38.078542900Z",
+  "model": "glm-5.3"
+}

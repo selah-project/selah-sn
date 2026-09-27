@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "ne⟨את⟩ altare yebhuruwo nemhembero dzayo yose, ne⟨את⟩ chivharo negumbezi racho;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altare yebhuruwo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yebhuruwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mhembero dzayo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mhembero dzayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chivharo"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "chivharo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gumbezi racho"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "gumbezi racho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:53.237362518Z",
+  "model": "glm-5.3"
+}

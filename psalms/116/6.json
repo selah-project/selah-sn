@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Yahwe ndiye muchengeti wevasina nzwisiso: ndakadzikiswa, uye andinunura.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "muchengeti"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "vasina nzwisiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ndakadzikiswa"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "uye ini"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "andinunura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:53.534008330Z",
+  "model": "glm-5.3"
+}

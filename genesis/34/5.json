@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Yaakobh akanzwa kuti akatisadza ⟨את⟩ Dhinah mukomana wake, navakomana vake vaiva ⟨את⟩ nomifuyo yake musango; Yaakobh akamazvokuta kusvika vauka.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakobh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "akatisadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dhinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mukomana wake"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "navakomana vake"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "nomifuyo yake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "musango"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "akamazvokuta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "באם",
+      "gloss": "vauka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:51.294177874Z",
+  "model": "glm-5.3"
+}

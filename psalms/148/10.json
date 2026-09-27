@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Zvisikwa zvinei zvipfuyo zvese zvinopfuyiwa; zvinokambaira, neshiri dzemapapiro;",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "zvisikwa zvinei"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zvipfuyo zvinopfuyiwa"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvinokambaira"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "neshiri"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "dzemapapiro"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:53.356161205Z",
+  "model": "glm-5.3"
+}

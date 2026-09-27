@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Navana vaShimonhi: Yemuweri, Yaminhi, Ohadhi, Yakinhi, Tsochari, naShauro mwanakomana weMukanikani; ava ndivo madzinza eShimonhi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Navana"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "vaShimonhi"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuweri"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "Yaminhi"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "Ohadhi"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "Yakinhi"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "Tsochari"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "naShauro"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "weMukanikani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "eShimonhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:29.089328176Z",
+  "model": "glm-5.3"
+}

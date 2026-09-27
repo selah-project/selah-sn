@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Wakawedzera guta, Yahwe, wakawedzera guta; wakuremekedzwa; wakakwidziridza miganhu yose yepasi.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "wakawedzera"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "guta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "wakawedzera"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "guta"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "wakuremekedzwa"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "wakakwidziridza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "miganhu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "epasi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:26.971036140Z",
+  "model": "glm-5.3"
+}

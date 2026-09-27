@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Samueri akati kuna Sauro: Ini ndini yaYahwe akatuma ⟨את⟩ ini kuzodza iwe kuti uve mambo pavanhu vake, pavavra Israeri; zvino nokudaro teerera izwi remashoko aYahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauro"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wandituma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "kuzodza iwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuti uve mambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vra Israeri"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zvino nokudaro"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "izwi re-"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:22.682039908Z",
+  "model": "glm-5.3"
+}

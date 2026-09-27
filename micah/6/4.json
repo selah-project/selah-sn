@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Nokuti ndakakwidzanidzai kubva munyika yeMitsrayimu, ndikakununurai mumba wevaranda; ndakatuma pamberi penyu ⟨את⟩ Moshe, ⟨את⟩ Aroni, uye ⟨את⟩ Miriam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ndakakwidzanidzai"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "wevaranda"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ndikakununurai"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ndakatuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "uye Miriam"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:43.360701123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Ndiri ndakaraira vatsvene vangu, ndakareva nadzo futi simba rangu nokutsamwa kwangu, vanofarira kukudza kwangu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndiri ndi-"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakaraira"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "vatsvene vangu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndakareva nazo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "nokutsamwa kwangu"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "vanofarira"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "kukudza kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:04:30.709194111Z",
+  "model": "glm-5.3"
+}

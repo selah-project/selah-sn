@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvakaziviswa kumumba kwaDhavhidhi, zvichinzi: Aramu yanotama neEfuraimu. Mwoyo wake nemwoyo wevanhu wake yakazunzunguka, sokuzunzunguka kwemiti yesango pamberi pemhepo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "zvakaziviswa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kumumba kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "zvichinzi"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "yanotama"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuraimu"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "yakazunzunguka"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "mwoyo wake"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "nemwoyo we"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu wake"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "sokuzunzunguka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kwemiti"
+    },
+    {
+      "surface": "יער",
+      "gloss": "yesango"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:04:31.907785013Z",
+  "model": "glm-5.3"
+}

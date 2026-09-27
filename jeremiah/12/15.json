@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye zvichaita, mushure mekunge ndavadzura, ndichadzoka ndivatsvagira tsitsi, ndichavadzosa, mumwe nomumwe kunhaka yake, uye mumwe nomumwe kunyika yake.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvichaita"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "kunge ndavadzura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ avo",
+      "marks": "avo"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ndichadzoka"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "ndivatsvagira tsitsi"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ndichavadzosa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kunhaka yake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "uye mumwe nomumwe"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "kunyika yake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:57:15.314140150Z",
+  "model": "glm-5.3"
+}

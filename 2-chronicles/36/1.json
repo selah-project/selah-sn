@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Vanhu venyika vakatora ⟨את⟩ Yehoahazi mukoma waYoshiyahu, vakamuita mambo panzvimbo yababa wake muYerushalemu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "waYoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "vakamuita mambo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba wake"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerushalemu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:44:34.164028128Z",
+  "model": "glm-5.3"
+}

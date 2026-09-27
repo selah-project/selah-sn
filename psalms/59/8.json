@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Tarisa, vanobuda nomuromo mwavo, mapanga mulamedza avo; nokuti — ani anonzwa?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "vanobuda"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nomuromo mwavo"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mapanga"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "mulamedza avo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anonzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:00.756125368Z",
+  "model": "glm-5.3"
+}

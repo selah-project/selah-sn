@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Mukurwida kwake ⟨ne⟩Aramu-Naharayimu neAramu-Tsovaha, Joabhi akadzoka, akaedza ⟨את⟩ Edhomu mugeiya remunyu — zviuru gumi nemaviri.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Mukurwida kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Aramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovaha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akadzoka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabhi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akaedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edhomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "mugeiya"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "remunyu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zviuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.503299166Z",
+  "model": "glm-5.3"
+}

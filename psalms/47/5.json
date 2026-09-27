@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Anosarudza ⟨את⟩ nhaka yedu, ⟨את⟩ ruremekedzo rwaJakabo, waanoda. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Anosarudza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhaka yedu"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "nhaka yedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruremekedzo rwaJakabo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:22.191293084Z",
+  "model": "glm-5.3"
+}

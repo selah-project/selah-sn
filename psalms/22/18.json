@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Ndinoverenga mabhonzo angu ose; iwo vanoitarisa, vanoona ini.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ndinoverenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mabhonzo angu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "vanoitarisa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vanoona"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:21.023981280Z",
+  "model": "glm-5.3"
+}

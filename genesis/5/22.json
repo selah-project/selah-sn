@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Chanoki akafambafamba ⟨⟨את⟩ na⟩Erohimu shure pokuzvara ⟨את⟩ Metusherachi gore mazana matatu, akazvara vakomana nevasikana.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "akafambafamba"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pokuzvara iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metusherachi"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metusherachi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "nevasikana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:20.475615042Z",
+  "model": "glm-5.3"
+}

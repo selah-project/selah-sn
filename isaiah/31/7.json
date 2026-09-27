@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Nokuti pazuva iro, munhu wega wega achadzinga ⟨את⟩ mifananidzo yake yendarama, nomifananidzo yake yegoridhe, yaakasikirai nemaoko enyu, chitadzo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "achadzinga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu wega wega"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mifananidzo"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "yake yendarama"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "nomifananidzo"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "yake yegoridhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "akasikirai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenyu"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "nemaoko enyu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "chitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:26.079948335Z",
+  "model": "glm-5.3"
+}

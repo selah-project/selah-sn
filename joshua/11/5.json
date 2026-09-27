@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Madzimambo ese aya akasangana, uye akaenda, akaomesa musha pamwechete pedo nemvura yeMeromu, kurwa neIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "akasangana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ese"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "akaomesa musha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pedo ne"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura ye"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Meromu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:44.116649189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Yahwe Erohimu wangu, ndakaita ⟨izvi⟩ here; kane mune chakaipa mumaoko angu —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mune"
+    },
+    {
+      "surface": "עול",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "mumaoko angu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:47.000845112Z",
+  "model": "glm-5.3"
+}

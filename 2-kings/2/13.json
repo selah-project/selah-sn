@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Akasimudza ⟨את⟩ jira raEriya rakawa kwaairi, akadzoka, akamira pahombodo rwaJordano.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jira raEriya"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "jira"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "raEriya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ra-"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "rakawa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kwaairi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akadzoka"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "hombodo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "rwaJordano"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:56.307261856Z",
+  "model": "glm-5.3"
+}

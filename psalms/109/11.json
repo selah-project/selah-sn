@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Muridzi wechikwereti ave mushipi wezveshe zvaaive nazo, vatorwa vave vanochera basa rake.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "ave mushipi"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "muridzi wechikwereti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zveshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aive nazo"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "vave vanochera"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vatorwa"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "basa rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:46.344283747Z",
+  "model": "glm-5.3"
+}

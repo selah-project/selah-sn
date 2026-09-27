@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Kusvika ndichawana nzvimbo yaYahwe, Mishikani yaSimba reYaakobha.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndichawana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "yaSimba re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:34.881013758Z",
+  "model": "glm-5.3"
+}

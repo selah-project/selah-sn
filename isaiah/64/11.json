@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Ndokuti izvi, Yahwe, ungadzivirira here? Unganyarare, uye utitambudze kwazvo?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "ungadzivirira here"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "unganyarare"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "uye utitambudze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:19.185451705Z",
+  "model": "glm-5.3"
+}

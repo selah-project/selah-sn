@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 7:9",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Vakaenzaniswa muchizvarwa chavo, vachiverengwa semishoni yemadzinza emadzibaba avo, vanamhasi vesimba, zviuru makumi maviri nemazana maviri.",
+  "tokens": [
+    {
+      "surface": "והתיחשם",
+      "gloss": "vakaenzaniswa muchizvarwa"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "muchizvarwa chavo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mishoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yemadzinza"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "emadzibaba avo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "vanamhasi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vesimba"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "nemazana maviri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:06.426453329Z",
+  "model": "glm-5.3"
+}

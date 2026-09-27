@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye mambo weIsraeri akabuda, akaroha ⟨את⟩ mabhiza ne⟨את⟩ ⟨machari⟩, akanangana neAramu nehurohwa guru.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akaroha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhiza"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "mabhiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "machari"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "machari"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "akanangana"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "neAramu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "hurohwa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:13.346984509Z",
+  "model": "glm-5.3"
+}

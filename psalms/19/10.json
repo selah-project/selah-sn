@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Kutya Yahwe kwakachena, kunomira nokusingaperi; matongero aYahwe ndeechokwadi, ari kururama pamwe chete.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Kutya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "kwakachena"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "kunomira"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "matongero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ndeechokwadi"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ari kururama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:52.097552338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Takafanangana, Erohimu, nesimba rwehesedhi rako, mukati meumba hwako.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "takafanangana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi rako"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "umba hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:43.106727119Z",
+  "model": "glm-5.3"
+}

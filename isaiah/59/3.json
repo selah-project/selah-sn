@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Nokuti matanga enyu akaora nemaropa, neminwe yenyu nemhosva; milomo yenyu yakataura nhema, rurimi rwenyu runongoyanzura rusha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "matanga enyu"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "akaora"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "nemaropa"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "uye minwe yenyu"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "nemhosva"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "milomo yenyu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "yakataura"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nhema"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "rurimi rwenyu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "rusha"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "runongoyanzura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:12.801631237Z",
+  "model": "glm-5.3"
+}

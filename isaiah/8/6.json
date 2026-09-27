@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Nokuti vanhu ivava vakaramba ⟨את⟩ mvura yeShiroa inoyerera zvinyoro, uye vakafarira naRa tsini nomukoma waRamariahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "vakaramba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ivava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvura yeShiroa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "yeShiroa"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "inoyerera"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "zvinyoro"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "vakafarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Ra tsini"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nomukoma wa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ramariahu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:20.847586453Z",
+  "model": "glm-5.3"
+}

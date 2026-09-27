@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Pandinodanidzira,pindurai iwe Erohimu yekururama kwangu;mukutsive wakandivhurira;kutenderei,uye nzwe kunamata kwangu.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "pandinodanidzira"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "pindurai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "yekururama kwangu"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mukutsive"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "wakandivhurira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kutenderei"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "uye nzwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kunamata kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:39.611321834Z",
+  "model": "glm-5.3"
+}

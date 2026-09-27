@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye tsvagai ⟨את⟩ rugare rweguta iro ndakatapudzira ⟨את⟩ imwi kuwaro, uye minamateire kirabhadzi kuna Yahwe; nokuti kurugare rwavo ruve rugare rwenyu.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "tsvagai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rugare rweguta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rugare"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "rweguta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "ndakatapudzira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imwi",
+      "marks": "imwi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuwaro"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "minamateire"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "kirabhadzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "kurugare rwavo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ruve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kenyu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rugare"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:16.661189941Z",
+  "model": "glm-5.3"
+}

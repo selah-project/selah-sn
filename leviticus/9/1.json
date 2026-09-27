@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvino zuva rerusere rwoushe, Moshe akadaidza Aroni navanavake, nevachembere veIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zuva re"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "rerusere"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akadaidza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "navanavake"
+    },
+    {
+      "surface": "וולזקני",
+      "gloss": "nevachembere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:24.508557678Z",
+  "model": "glm-5.3"
+}

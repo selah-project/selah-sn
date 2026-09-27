@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Yahwe ngaadzimise ⟨את⟩ milomo yose yakanyorovera, ⟨את⟩ rurimi rinotaura zvikuru.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "ngaadzimise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "yakanyorovera"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "rinotaura"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:32.689209456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Dhavhidha akadzikisa ⟨את⟩ varume vake nemashoko, asavatendera kuvuka kurwisa Shauro; Shauro wo akamuka mubako, akaenda munzira.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "akadzikisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varume vake"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "varume vake"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "nemashoko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "avatendera"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kuvuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kurwisa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shauro wo"
+    },
+    {
+      "surface": "קם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "mubako"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:02.300827732Z",
+  "model": "glm-5.3"
+}

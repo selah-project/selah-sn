@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Yahwe, hesedhi yako ngaive pamusoro pedu, sokurega kwatakaita kukuramba tinokutarisira.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ngaive"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pamusoro pedu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokureva"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "takatarisira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:26.799074433Z",
+  "model": "glm-5.3"
+}

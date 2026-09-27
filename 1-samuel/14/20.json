@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Shaul akadanzwa, nevanhu vose vaiva ⟨naye⟩; vakasvika kuhondo, uye taona: bakatwa romunhu rimwe nomumwechake rwaive po — dambudziko guru kwazvo.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "akadanzwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "vanhu vose vaiva naye"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "rwaive po"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bakatwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "romunhu rimwe"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "nomumwechake"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:35.604422384Z",
+  "model": "glm-5.3"
+}

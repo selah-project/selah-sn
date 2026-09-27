@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye munhu kano shindira ⟨את⟩ mukadzi achibvisa mbeu, iye ari muzvarwa yakarongwa nomurume, asi kudzikinurwa kusina kuitwa kana kusunungurwa kusina kupiwa kwake — ondero ungowanzwa; havafi, nokuti asina kusununguka.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "uye munhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kano"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "shindira nomukadzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "achibvisa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iye ari"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "muzvarwa"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "yakarongwa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nomurume"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "asi kudzikinurwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kusina"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "kuitwa kudzikinurwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "kusunungurwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kusina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kupiwa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "ondero"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ungowanzwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "-vafi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "kusununguka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:00.662680767Z",
+  "model": "glm-5.3"
+}

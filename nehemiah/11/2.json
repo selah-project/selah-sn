@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Vanhu vakaropafadza varume ose vakazvipira mokuzvidashurira kugara muYerushalema.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "vakaropafadza"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Vanhu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oose"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "vakazvidashurira mokuzvipira"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerushalema"
+    }
+  ],
+  "timestamp": "2026-09-27T10:16:23.954154722Z",
+  "model": "glm-5.3"
+}

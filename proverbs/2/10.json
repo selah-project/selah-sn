@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti hungwaru hwapinda mumoyo wako, nezivo kuupenyu hwako zvinofadza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hwapinda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hungwaru"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "mumoyo wako"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "nezivo"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "kuupenyu hwako"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "zvinofadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:48.826686661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ernezari akabereka ⟨את⟩ Pinchasi; Pinchasi akabereka ⟨את⟩ Avishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Ernezari"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchasi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:42.716212771Z",
+  "model": "glm-5.3"
+}

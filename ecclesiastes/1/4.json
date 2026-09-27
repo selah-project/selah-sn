@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Rudzi ruri kuenda, nerudzi ruri kuuya; nyika ichimirira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Rudzi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ruri kuenda"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nerudzi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ruri kuuya"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ichimirira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:15.040059333Z",
+  "model": "glm-5.3"
+}

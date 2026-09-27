@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Yahwe, Erohimu weTsevaoti, ndiani akafanana newe, Yah wemasimba? Uye rutendo rwako runzikira ⟨mamwe mazwi⟩ dzakakomberedza iwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu we"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akafanana newe"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "wemasimba"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "Uye rutendo rwako"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "dzakakomberedza iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:41.684785202Z",
+  "model": "glm-5.3"
+}

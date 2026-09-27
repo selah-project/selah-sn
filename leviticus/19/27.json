@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Musazingidza macheto emusoro wenyu, uye musapwanya ⟨את⟩ macheto ebhuru rako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "zingidza"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "macheto"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "emusoro wenyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye musa"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "pwanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macheto ebhuru rako"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "macheto"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ebhuru rako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:26.653299618Z",
+  "model": "glm-5.3"
+}

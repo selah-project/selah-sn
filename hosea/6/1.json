@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Idzani, ngativadzoke kuna Yahwe; nokuti ndiye akatyokera, uye achatiporesa; akarova, uye achatimbindura.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Idzani"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ngativadzoke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "akatyokera"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "achipopotesa"
+    },
+    {
+      "surface": "יך",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "achabindura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:10.824897261Z",
+  "model": "glm-5.3"
+}

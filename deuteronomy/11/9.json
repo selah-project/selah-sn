@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 11:9",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye kuti murengo wemazuva enyu muchiitazve panyika ⟨inoyi⟩ Yahwe akatsvagirira madzitioro enyu, adzipa ⟨את⟩ ivo ne⟨את⟩ mbeu yavo — nyika inoyerera mvura yakafema mukaka uyeuchi.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Uye kuti"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "murengo wemazuva enyu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "inoyi"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "akatsvagirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "madzitioro enyu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "adzipa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "nembeu yavo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "inoyerera"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mukaka"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "uchi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:04.206410323Z",
+  "model": "glm-5.3"
+}

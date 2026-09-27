@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Iye anodzidzisa ⟨⟨matunhu⟩⟩, haazove here aorodza? Iye anodzidzisa munhu ruzivo —",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "anodzidzisa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "matunhu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "haazove here"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "aorodza"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "anodzidzisa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ruzivo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:33.784748995Z",
+  "model": "glm-5.3"
+}

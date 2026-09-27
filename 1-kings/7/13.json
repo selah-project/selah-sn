@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye mambo Shoromohwa akatuma, aka⟨את⟩ tora Hhiramu muTsortsi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohwa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hhiramu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hhiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "muTsortsi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:57.187910187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati kuKajini: Nei watsamwa, nei ⟨zvino⟩ uso hwako hwadonha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "watsamwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "hwadonha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uso hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:59.877225674Z",
+  "model": "glm-5.3"
+}

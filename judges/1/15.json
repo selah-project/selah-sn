@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Iye akati kwaari: Ndipa chipo; nokuti wakandipa shango yeNeghevu; saka wo ndipawo matsime emvura. Karebu akamupa ⟨את⟩ matsime epamusoro ne⟨את⟩ matsime epasi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ndipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "chipo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "shango"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "yeNeghevu"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "wakandipa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "wo wakapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "matsime"
+    },
+    {
+      "surface": "מים",
+      "gloss": "emvura"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Karebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsime epamusoro"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "matsime"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "epamusoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matsime epasi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "matsime"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "epasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:38.432094880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Muchateverera ⟨את⟩ vavengi venyu, uye vachagwa pamberi penyu nebakatwa.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Muchateverera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi venyu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vavengi venyu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "vachagwa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "nebakatwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:12.838757721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Ridzai shofari mwedzi ungava, panguva yakazarwa, zuva remabiko edu.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ridzai"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mwedzi ungava"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofari"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "panguva yakazarwa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "zuva re"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "mabiko edu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:14.104074600Z",
+  "model": "glm-5.3"
+}

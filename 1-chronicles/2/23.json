@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 2:23",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Geshuru neAramu dzakatora ⟨את⟩ misha yaYairi ⟨את⟩ kubva kwavari, ⟨את⟩ Kenati ⟨את⟩ nemwanasikana zvaro — maguta makumi matanhatu. Aya ose aive vana vaMakiri babavaGiriyadhi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dzakatora"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshuru"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "neAramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misha yaYairi"
+    },
+    {
+      "surface": "חות",
+      "gloss": "misha"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "yaYairi"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kubva kwavari ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenati"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "nemwanasikana zvaro"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "makumi matanhatu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "emaguta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "vaMakiri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "babava"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giriyadhi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:14.382826934Z",
+  "model": "glm-5.3"
+}

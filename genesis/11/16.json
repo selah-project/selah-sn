@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Evheri akagara makore mana namakumi matatu, akazvara ⟨את⟩ Paregi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evheri"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namakumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paregi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Paregi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:49.956575035Z",
+  "model": "glm-5.3"
+}

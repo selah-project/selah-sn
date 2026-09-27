@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Nachishoni akazvara ⟨את⟩ Saruma; uye Saruma akazvara ⟨את⟩ Boazi.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Uye Nachishoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saruma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Saruma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "uye Saruma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:40.608609438Z",
+  "model": "glm-5.3"
+}

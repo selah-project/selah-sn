@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Nyika yose ichafugama kuri iwe, icharumbidza kuri iwe, icharumbidza zita rako. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ichafugama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri iwe"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "icharumbidza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri iwe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "icharumbidza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.662800596Z",
+  "model": "glm-5.3"
+}

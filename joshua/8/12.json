@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akatorawo varume kunge zviuru zvishanu, ndokuvaisa ⟨את⟩ vari kuvata pakati peBeit-Eri neAyi, kumadokero kweguta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatorawo"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "kunge"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zviuru zvishanu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ndokuvaisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ vari",
+      "marks": "varume kunge zviuru zvishanu"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "kuvata"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kumadokero"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kweguta"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:07.656327880Z",
+  "model": "glm-5.3"
+}

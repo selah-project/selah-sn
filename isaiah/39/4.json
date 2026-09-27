@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 39:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Akati: vakazonzwa sei mumba yako? Chizikiya akati: ⟨את⟩ zvose zviri mumba yangu vakazviona; hapana chinhu chandanga ndisina kuvaratidza muzvitolo zvangu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vakazonzwa"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mumba yako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizikiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zviri mumba yangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "mumba yangu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vakazviona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chandanga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chandanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndisina"
+    },
+    {
+      "surface": "הראיתים",
+      "gloss": "kuvaratidza"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "muzvitolo zvangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:38.371663802Z",
+  "model": "glm-5.3"
+}

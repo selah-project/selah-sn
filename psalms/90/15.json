@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Ita kuti tifarireenguva yemazuva aunotambudza, negore roga-roga takaona zvakaipa.",
+  "tokens": [
+    {
+      "surface": "שַׂ֭מְּחֵנוּ",
+      "gloss": "Ita kuti tifarire"
+    },
+    {
+      "surface": "כִּימ֣וֹת",
+      "gloss": "enguva yemazuva"
+    },
+    {
+      "surface": "עִנִּיתָ֑נוּ",
+      "gloss": "aunotambudza"
+    },
+    {
+      "surface": "שְׁנ֗וֹת",
+      "gloss": "negore roga-roga"
+    },
+    {
+      "surface": "רָאִ֥ינוּ",
+      "gloss": "takaona"
+    },
+    {
+      "surface": "רָעָֽה",
+      "gloss": "zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:56.999365196Z",
+  "model": "glm-5.3"
+}

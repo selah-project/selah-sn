@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Uchati kwaari zvakadaro: Zvakadaro anoti Yahwe: Ona, izvo ndakavaka ndiri ndoga ndinodzikisura, uye ⟨את⟩ izvo ndakadyarira ndiri ndoga ndinodzura, uye ⟨את⟩ nyika yose iyoyo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "Uchati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndakavaka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri ndoga"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ndinodzikisura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "izvo ndakadyarira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ndakadyarira"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri ndoga"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "ndinodzura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "nyika yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:09:07.574153693Z",
+  "model": "glm-5.3"
+}

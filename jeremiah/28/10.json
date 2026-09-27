@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Zvino Hanania muporofita akatora ⟨את⟩ gavi kubva pa mutsipa waYiremiya muporofita, uye akaparadza.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hanania"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gavi"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "gavi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "mutsipa"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yiremiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "akaparadza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:02:26.209219374Z",
+  "model": "glm-5.3"
+}

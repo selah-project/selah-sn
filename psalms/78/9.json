@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Vana vaEfurayimu, vavhuri uta, vakadzokera shure musi wehondo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "vaEfurayimu"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "vavhuri"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "uta"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "vakadzokera shure"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "wehondo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:18.633937656Z",
+  "model": "glm-5.3"
+}

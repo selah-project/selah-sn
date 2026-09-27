@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Iyo ⟨sungano⟩ yaakacheka ⟨na⟩ ⟨את⟩ Abhurahama, nachitsidzo chake kuna Isaka;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhurahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "nachitsidzo chake"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kuna Isaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:19.917270440Z",
+  "model": "glm-5.3"
+}

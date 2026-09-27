@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Kuita zvakaipa ndido dambudziko kumadzimambo; nokuti nurungano chigaro chinogadzikiswa.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kumadzimambo"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "nurungano"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "chinogadzikiswa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:26:26.587255584Z",
+  "model": "glm-5.3"
+}

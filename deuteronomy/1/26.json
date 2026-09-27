@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Asi hamuna kuda kukwira, asi makamukira ⟨את⟩ muromo waYahwe Erohimu venyu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi hamuna"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "kukwira"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "makamukira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muromo waYahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:22.048033910Z",
+  "model": "glm-5.3"
+}

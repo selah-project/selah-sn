@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndakaona ⟨את⟩ shungurudzo iyo Erohimu akapa vanhu, kuti vashungurudzwe nayo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shungurudzo"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "shungurudzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "kushungurudzwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:04.810230310Z",
+  "model": "glm-5.3"
+}

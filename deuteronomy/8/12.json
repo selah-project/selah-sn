@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Kuti mukudya kwako nokuzadzikwa kwako, uye mukuvaka dzimba dzakanaka uye mukugara mairi.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti muka-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dyazva"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "nokuzadzikwa"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dzakanaka"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "mukuvaka"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "mukugara"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:33.795058749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Amhuramu akatora ⟨את⟩ Yokhebhehedi, baba wake tete wake, sokudzimba kwake; ndokuzvara kwaari ⟨את⟩ Aharoni ne⟨את⟩ Moshe; makore ehupenyu hwaAmhuramu akaiva zana nemakumi manomwe nomwe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amhuramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhebhehedi"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokhebhehedi"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "tete wake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sokudzimba kwake"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ndokuzvara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "makore"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ehupenyu"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "hwaAmhuramu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "nemakumi manomwe"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nezana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:08.657725599Z",
+  "model": "glm-5.3"
+}

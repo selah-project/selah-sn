@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 126,
+  "translation": "Dzokazve, Yahwe, ⟨את⟩ dzokero yedu, seanziyari emvura muNgevhu!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Dzokazve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzokero yedu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "dzokero yedu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "seanziyari emvura"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "muNgevhu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:02.066169707Z",
+  "model": "glm-5.3"
+}

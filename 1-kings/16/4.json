@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Anofa ari waBaasha muguta, imbwa dzichamudya; uye anofa ari wake munda, shiri dzedenga dzichamudya.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "anofa"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "waBaasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dzichadya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "uye anofa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dzichadya"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzedenga"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:19.926462210Z",
+  "model": "glm-5.3"
+}

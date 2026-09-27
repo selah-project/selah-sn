@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 143,
+  "translation": "Nziyo yaDhavhidhi. Yahwe, nzwira minamato yangu, teerera zvekukumbira zvangu; mumutendiro wako ndipindura, mutsvene wako.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nzwira"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "minamato yangu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "zvekukumbira zvangu"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "mumutendiro wako"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndipindura"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mutsvene wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:07.860100325Z",
+  "model": "glm-5.3"
+}

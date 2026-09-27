@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Zviduri zvangu kuna Yahwe ndinozvizadza, zvino pachiso chevanhu vake ose.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Zviduri zvangu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndinozvizadza"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:27.168693854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Adonai achakupai chingwa chokushayiwa chakamanika nemvura yokuoma; asi vanyoreri venyu havachazove vakavanzwa, achava meso acho achaona ⟨את⟩ vanyoreri venyu.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "achakupai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "amai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "chokushayiwa chakamanika"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "yokuoma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi ⟨havachazove⟩"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "vakavanzwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "vanyoreri venyu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "achava"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "meso acho"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "achaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanyoreri venyu"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "vanyoreri venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:28.852491666Z",
+  "model": "glm-5.3"
+}

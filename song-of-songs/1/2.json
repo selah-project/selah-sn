@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ngandibatirwe mabatirwo emuromo make, nokuti rudo rwako rwakanaka kupinda waini.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "ngandibatirwe"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "mabatirwo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "emuromo make"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "rwakanaka"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "rudo rwako"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kupinda waini"
+    }
+  ],
+  "timestamp": "2026-09-27T09:46:40.017563072Z",
+  "model": "glm-5.3"
+}

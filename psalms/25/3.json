@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Zvirokwazvo, vose vanokuvimba iwe havanganyarari; asi vanonyarara avo vanoita chinhwiro ⟨pasina chikonzero⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "vanokuvimba iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havanganyarari"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "vanonyarara ⟨havanganyarari⟩"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "vanonyarara"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "avo vanoita chinhwiro"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "⟨pasina chikonzero⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:25.717701523Z",
+  "model": "glm-5.3"
+}

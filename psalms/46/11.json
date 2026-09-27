@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Mirai, moziva kuti ndini Erohimu; ndinokudzwa pakati penharaunda, ndinokudzwa pasi pano.",
+  "tokens": [
+    {
+      "surface": "הַרְפּוּ",
+      "gloss": "Mirai"
+    },
+    {
+      "surface": "וּדְעוּ",
+      "gloss": "moziva"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אָרוּם",
+      "gloss": "ndinokudzwa"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "pakati penharaunda"
+    },
+    {
+      "surface": "אָרוּם",
+      "gloss": "ndinokudzwa"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "pasi pano"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:39.814817257Z",
+  "model": "glm-5.3"
+}

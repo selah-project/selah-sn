@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 35:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Navo vakaputswa ⟨na⟩Yahwe vachadzoka, vachasvika muZiyoni nekuridzarira, mufaro wenguva dzose pamusoro pemisoro yavo; mufaro mukuru nefariro vachawana, kurwadziwa nekufema kworwadziwa zvichapotsa.",
+  "tokens": [
+    {
+      "surface": "ופדויי",
+      "gloss": "navo vakaputswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "vachadzoka"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "vachasvika"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "muZiyoni"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "nekuridzarira"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wenguva dzose"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "pemisoro yavo"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "mufaro mukuru"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "nefariro"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "vachawana"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "zvichapotsa"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kurwadziwa"
+    },
+    {
+      "surface": "ואנחה",
+      "gloss": "nekufema kworwadziwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:53.862051413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye mucheche Shumueri aive achishandra ⟨את⟩ Yahwe pamberi peEri; izwi raYahwe rakanga riri chuma muzvinhi izvozvo, hapana chiono chinobuda.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Uye mucheche"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shumueri"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "aive achishandra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "uye izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "rakanga riri"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "muzvinhi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "chiono"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "chinobuda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:55.021525605Z",
+  "model": "glm-5.3"
+}

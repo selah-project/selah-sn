@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Pakanyanya kwakakwirira, panzira, pakasangana nzira, aimira.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "pakanyanya"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "kwakakwirira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "pakasangana"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "aimira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:47.350922197Z",
+  "model": "glm-5.3"
+}

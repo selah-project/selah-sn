@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Ngavatange kuzvipira kuna Yahwe nokuzvidavirira, ngavataure mabasa ake nokufara.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ngavatange kuzvipira"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "zvinopihwa"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "nokuzvidavirira"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ngavataure"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mabasa ake"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "nokufara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:49.500205073Z",
+  "model": "glm-5.3"
+}

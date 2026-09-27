@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe akati kundiri: Usatye ⟨את⟩ iye, nokuti ndinopa ⟨את⟩ iye mu ruoko rwako, uye ⟨את⟩ vanhu vake vose ne⟨את⟩ nyika yake; uye unoita kwaari sokawaita Sihoni, mambo weEmori, aigara muCheshibhoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "-tye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mu ruoko rwako"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinopa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "vanhu vake vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nyika yake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nyika yake"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokawaita"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "-waita"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "weEmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aigara"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "aigara"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "muCheshibhono"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:55.075271708Z",
+  "model": "glm-5.3"
+}

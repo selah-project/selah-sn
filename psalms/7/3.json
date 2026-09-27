@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Kuti atitore se shumba mweya wangu, agura-gura, uye hapana anoponesa.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "atore"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "se shumba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "agura-gura"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "anoponesa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:47.000714708Z",
+  "model": "glm-5.3"
+}

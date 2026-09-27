@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Dhavhidhu aive ane ungwaru mune nzira dzake dzose; uye Yahwe aiva naye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "aive"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mune dzose"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nzira dzake"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ane ungwaru"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "aiva naye"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:03.519132983Z",
+  "model": "glm-5.3"
+}

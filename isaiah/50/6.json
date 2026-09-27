@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Musana wangu ndakapa kune vairova, mhatama dzangu kune vaibvuna ⟨uswa⟩; chiso changu handinachiviga kubva pakunyadziswa nokudzinga mate.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "musana wangu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "kune vairova"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "mhatama dzangu"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "kune vaibvuna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "kuviga"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "pakunyadziswa"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "nokudzinga mate"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:25.672827984Z",
+  "model": "glm-5.3"
+}

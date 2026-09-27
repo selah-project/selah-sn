@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Yaakob akaropafadza ⟨את⟩ Farao, akabuda pamberi paFarao.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:35.042118858Z",
+  "model": "glm-5.3"
+}

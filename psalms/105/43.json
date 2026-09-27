@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Akabuditsa ⟨את⟩ vanhu vake nokufara, ⟨את⟩ vakasarudzwa vake nerwiyo remufaro.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Akabuditsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "nokufara"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "nerwiyo remufaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakasarudzwa vake"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "vakasarudzwa vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:17.959582180Z",
+  "model": "glm-5.3"
+}

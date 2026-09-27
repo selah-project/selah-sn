@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Kunaya kwazvinobvira, Erohimu wakakurumidza kunaya; hako yerugare, Erohimu, wakairasikira kuvanhu; iwe wakaisimbisa.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "Kunaya"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "kwazvinobvira"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "wakakurumidza kunaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "hako yerugare"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "wakairasikira kuvanhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "wakaisimbisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:37.370237268Z",
+  "model": "glm-5.3"
+}

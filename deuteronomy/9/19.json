@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti ndakatya hasha nestsamwiso iya Yahwe yaiva nayo kwamuri yokuparadza ⟨את⟩ imi; uye Yahwe akateerera ini futi nenguva iyoyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ndakatya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "האף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "nestsamwiso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iya"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "yakatsamwisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "kuparadza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akateerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:14.998968298Z",
+  "model": "glm-5.3"
+}

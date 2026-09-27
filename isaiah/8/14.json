@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye achava chitsvene; asi achava ibwe rokukangaidza, netsuri yokutsvimbanda, kumisha miviri yeIsraeri; chidhindo netsirahuni kune vagari veYerushalemu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "ibwe"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "rokukangaidza"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "tsuri"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "yokutsvimbanda"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "miviri"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "misha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "chidhindo"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "tsirahuni"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "kune vagari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalemu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:32.324645636Z",
+  "model": "glm-5.3"
+}

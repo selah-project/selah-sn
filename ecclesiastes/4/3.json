@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye zvakanaka kupinda vaviri ndiwo ⟨את⟩ uyo asinaizo kuvepo, uyo asina kuona ⟨את⟩ basa rakaipa rinoitwa pasi pezuva.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "uye zvakanaka"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "kupinda vaviri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyo asinaizo kuvepo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "zvazvino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asinaizo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kuvepo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa rakaipa"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "rakaipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ri"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "rinoitwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:52.269254581Z",
+  "model": "glm-5.3"
+}

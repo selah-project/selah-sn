@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye imi munonyadzisa ⟨את⟩ izvi, mukuti: tafura yaAdonai yakaora, uye muchero wayo wunoretwa chokudya chacho.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Uye imi"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "munonyadzisa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "izvi (Zita rangu)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "mukuti"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "yaAdonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "yakaora"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "uye muchero wayo"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "wunoretwa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "chokudya chacho"
+    }
+  ],
+  "timestamp": "2026-09-27T08:50:53.020783542Z",
+  "model": "glm-5.3"
+}

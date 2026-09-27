@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Zvipira kuna Erohimu chipo chokutenda, uye dzosa zvipikirwa zvako kuna Eriyoni.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Zvipira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "chipo chokutenda"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "uye dzosa"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "kuna Eriyoni"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "zvipikirwa zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:07.628497594Z",
+  "model": "glm-5.3"
+}

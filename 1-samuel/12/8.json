@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Panguva yaYakobo apinda muIjipita,madzibaba enyu akadana Yahwe,zvino Yahwe akatuma ⟨את⟩ Mhoze ne⟨את⟩ Aharoni,nokuti vakaburitsa ⟨את⟩ madzibaba enyu muIjipita,nekuvagadzira mugari munzvimbo ino.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Panguva ya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "apinda"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "muIjipita"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "madzibaba enyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "vakaburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzibaba enyu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "madzibaba enyu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muIjipita"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "nekuvagadzira mugari"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimbo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:06.961228672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "uyo baba vangu akarwa kwamuri, uye akashandura ⟨את⟩ mweya wake yakanangana nayo, uye akaponesa ⟨את⟩ amuri mumaoko amaMidhiani;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "akarwa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "akashandura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweya wake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "yakanangana nayo"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "akaponesa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ amuri",
+      "marks": "amuri"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "amaMidhiani"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:11.594608654Z",
+  "model": "glm-5.3"
+}

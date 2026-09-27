@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Akapisisa ⟨את⟩ imba yaYahwe, ne⟨את⟩ imba yomambo, ne⟨את⟩ imba dzose dzeYerusharemu; imba huru yose akaipisisa nomoto.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "akapisisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "imba yomambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yomambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "imba dzose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "dzeYerusharemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "imba huru yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "huru"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "akaipisisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:48.674705160Z",
+  "model": "glm-5.3"
+}

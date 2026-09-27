@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Yahwe achachengeta-ko iwe kubva zvakaipa zvose; achachengeta ⟨את⟩ upenyu hwako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "achachengeta-ko iwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva zvose"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "achachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "upenyu hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:46.657806602Z",
+  "model": "glm-5.3"
+}

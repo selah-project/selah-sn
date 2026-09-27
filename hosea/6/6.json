@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "nokuti hesedhi ndaida, kwete chibairo; uye kuziva kwaErohimu kupinda zvipiro zvinoiswa pamoto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndaida"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "uye kuziva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kwaErohimu"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "kupinda zvipiro zvinoiswa pamoto"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:48.868820621Z",
+  "model": "glm-5.3"
+}

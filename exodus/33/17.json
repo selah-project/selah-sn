@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Yahwe akati kuna Moshe: ⟨את⟩ shoko iri raunotaura ndichachiita zvirokwazvo, nokuti wawana nyasha mumaso angu, uye ndinokuziva nezita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko iri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raunotaura"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichachiita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wawana"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nyasha"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumaso angu"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "ndinokuziva"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nezita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:27.873258531Z",
+  "model": "glm-5.3"
+}

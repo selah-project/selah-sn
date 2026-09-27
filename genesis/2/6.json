@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye mhute yakayerera kubva pasi, uye yakadirisa ⟨את⟩ chiso chose cheivhu.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "uye mhute"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yakayerera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "uye yakadirisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chose cheivhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "cheivhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:58.732392959Z",
+  "model": "glm-5.3"
+}

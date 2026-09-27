@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yaakob akabvunza achiti: Ndiudze zvino zita rako. Akati: Nei uri kubvunza zita rangu? Akamurukudza ⟨את⟩ ipapo.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akabvunza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ndiudze"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "kubvunza"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "zita rangu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akamurukudza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iwe (Yaakob)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:02.253543669Z",
+  "model": "glm-5.3"
+}

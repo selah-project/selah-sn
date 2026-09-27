@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Erohimu akasangana naBhiramu, akati kwaari: \"⟨את⟩ Madzinhi nomwe ndakagadzikirira, ndikayanha mombe negotora padzinhi rechipiro.\"",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "akasangana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bhiramu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzinhi nomwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "adzinhi echipiro"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ndakagadzikirira"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ndikayanha"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "negotora"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "padzinhi rechipiro"
+    }
+  ],
+  "timestamp": "2026-09-27T06:03:33.290732343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Akagadza ⟨את⟩ altare yerendere muOheli yeKutangana, pamberi pehangaririwa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akagadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare yerendere"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yerendere"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "muOheli"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yeKutangana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "hangaririwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:31.831550080Z",
+  "model": "glm-5.3"
+}

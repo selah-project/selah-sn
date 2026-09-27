@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Vakapa mukati mekudya kwangu shora, uye pakaoma kwangu vandishekodza vinyegari.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "mukati mekudya kwangu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "shora"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "uyepakaoma kwangu"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "vandishekodza"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinyegari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:42.345395240Z",
+  "model": "glm-5.3"
+}

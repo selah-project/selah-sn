@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Umufanani wake sewe shumba ine chido chekutsemura nyama, semwanashumba uchigara munzvimbo dzakavanzika.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Umufanani wake"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "seshumba"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ine chido"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "chekutsemura nyama"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "semwanashumba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "uchigara"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "munzvimbo dzakavanzika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:35.671939511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Dziva inodanidzira dziva pachinzwi chenzwi dzemadimbwe emvura ako; mafashamu ako ose masaisai ako akapfuura pamusoro pangu.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Dziva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inodanidzira"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dziva"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "pachinzwi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "chenzwi"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "dzemadimbwe emvura ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mafashamu ako"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "masaisai ako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "akapfuura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:09.353131579Z",
+  "model": "glm-5.3"
+}

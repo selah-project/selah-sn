@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mweya wangu paungaorera ndakayeuka ⟨את⟩ Yahwe; munamato wangu wakasvika kwauri, kunyumba yetsvene yako.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "paungaorera"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "panguva ya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ndakayeuka"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "wakasvika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "munamato wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "yetsvene yako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:08.821381383Z",
+  "model": "glm-5.3"
+}

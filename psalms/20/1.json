@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Kune mutungamiri wemidhanzi, nzvimbo yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri wemidhanzi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:27.226713108Z",
+  "model": "glm-5.3"
+}

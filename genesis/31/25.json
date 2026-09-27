@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Rabhani akasvika pana Yakobo; uye Yakobo akamisa tihemu rake mugomo; uye Rabhani nehanzvadzi dzake akamisa ⟨את⟩ dzavo mugomo weGirihadi.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "akasvika pana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "uye Yakobo"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tihemu rake"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tihemu rake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mugomo"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "uye Rabhani"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanzvadzi dzake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mugomo"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "weGirihadi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:32.777424531Z",
+  "model": "glm-5.3"
+}

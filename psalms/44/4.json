@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Nokuti havagar nyika nendhasi yavo, kurema kwavo hakuna kuvaponesa; asi ruoko rwako rwerudyi, nekurema kwako, nechiedza chechiso chako — nokuti wakafadzwa navo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "nendhasi yavo"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "havagar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "kurema kwavo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "kunaponesa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kuvapo-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruoko rwako rwerudyi"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "nekurema kwako"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "nechiedza"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chechiso chako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "wakafadzwa navo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:06.024393278Z",
+  "model": "glm-5.3"
+}

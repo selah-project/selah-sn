@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye ⟨את⟩ mafuta, ne⟨את⟩ dzinza, ne⟨את⟩ chikamu chechibero chemvende, kubva muchibairo chetadzo, akaotora paaltari, sokuda Yahwe kuvhimbisa ⟨את⟩ Mozhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dzinza"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "dzinza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chikamu chechibero chemvende"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "chikamu chechibero chemvende"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "muchibero chemvende"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "muchibairo chetadzo"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "akaotora"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "paaltari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kuvhimbisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mozhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:25.291207854Z",
+  "model": "glm-5.3"
+}

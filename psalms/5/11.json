@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Vape mhosva, Erohimu; vawirane nezvinangwa zvavo; muadzinga muzhinhu wezvitadzo zvavo, nokuti vakapanduka mukamuri.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "Vape mhosva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "vawirane"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "nezvinangwa zvavo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "muzhinhu we"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "zvitadzo zvavo"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "muadzinga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "vakapanduka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mukamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:03.019659640Z",
+  "model": "glm-5.3"
+}

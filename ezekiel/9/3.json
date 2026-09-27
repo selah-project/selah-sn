@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 9:3",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ruremekedzo rwaErohimu weIsraeri rakakwidza kubva paKerubhu aiva pairi, kuhwaro hwemba; akadaidza kumunhu akapfeka zvipfeko zvebhadi, ane kesete yemunyori pahudyasi rwake.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "rwaErohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "rakakwidza"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "paKerubhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "hwaro"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hwemba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadaidza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "הלבש",
+      "gloss": "akapfeka"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "zvipfeko zvebhadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ane"
+    },
+    {
+      "surface": "קסת",
+      "gloss": "kesete"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "yemunyori"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "pahudyasi rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:19:20.202177859Z",
+  "model": "glm-5.3"
+}

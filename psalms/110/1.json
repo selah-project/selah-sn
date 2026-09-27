@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 110,
+  "translation": "Nzvimbo yaDhavhidhi. Nezwi raYahwe kuna Adonai wangu: Gara kurudyi rwangu, kusvika ndisadza vavengi venyika yako ⟨chigaro chatsviro⟩ pamasoko ako.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nzvimbo yaDhavhidhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nezwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kuna Adonai wangu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "gara"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "kurudyi rwangu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndisadza"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vavengi venyika yako"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "chigaro chatsviro"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "pamasoko ako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:11.034107505Z",
+  "model": "glm-5.3"
+}

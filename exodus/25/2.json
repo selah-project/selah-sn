@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Taurira vana vaIsirayeri vachitora mupiro kwandiri; kubva ⟨את⟩ munhu wose woyo moyo wake uchimutyaira, imwi muchatora ⟨את⟩ mupiro wangu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Taurira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirayeri"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "vachitora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "mupiro"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "munhu wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woyo"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "uchimutyaira"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "muchatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mupiro wangu"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "mupiro wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:40.820393436Z",
+  "model": "glm-5.3"
+}

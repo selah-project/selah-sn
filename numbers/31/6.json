@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Moshe akatuma ⟨אתם⟩ iwo, churu rimwe paganda, kunohondo — ⟨אתם⟩ iwo ne⟨את⟩ Finhasi mukoma waErezara mupristi, kunohondo; uye zvinhu zvetsvene, nematrampeti emhere, zvaive muruoko rwake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (matumwa)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "paganda"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kunohondo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Finhasi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Finhasi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erezara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kunohondo"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "uye zvinhu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zvetsvene"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "nematrampeti"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "emhere"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "muruoko rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:52:55.943526871Z",
+  "model": "glm-5.3"
+}

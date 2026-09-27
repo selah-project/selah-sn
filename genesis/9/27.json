@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Erohimu ngavatumire nzvimbo Yafethe, uye agare mutende dzaSheymu; uye Kenani ngave muranda wavo.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "ngavatumire nzvimbo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "Yafethe"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "agare"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "mutende dza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheymu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye ... ngave"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:37.465488537Z",
+  "model": "glm-5.3"
+}

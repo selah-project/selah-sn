@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvino zvakaitika mushure mezviya, mambo wevana vaAmoni akafa, uye Hanuna mwana wake akagara panzvimbo pake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zviya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akagara chigaro"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "panzvimbo pake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:05.948106574Z",
+  "model": "glm-5.3"
+}

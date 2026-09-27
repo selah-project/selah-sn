@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Zvakaitika sokuvhurira kwakaita kwatiri, ndokudaro kwakaitwa: ini akandidzorera panzvimbo yangu, uye iye akamukwanisa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuti"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "akavhurira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokudaro"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwakaitwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "akandidzorera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כני",
+      "gloss": "panzvimbo yangu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "akamukwanisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:43.753563128Z",
+  "model": "glm-5.3"
+}

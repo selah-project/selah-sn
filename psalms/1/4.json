@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kwete saizvozvo varushinga; asi semotse rinodzingwa namhepo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kwete"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "varushinga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "motse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ri"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "nodzingwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "namhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.951339240Z",
+  "model": "glm-5.3"
+}

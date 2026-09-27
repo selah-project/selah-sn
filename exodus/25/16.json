@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uchaisa mukati meAroni ⟨את⟩ nhoroondo yechitupa ndinokupa iwe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhoroondo yechitupa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "nhoroondo yechitupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye-"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndinokupa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:06.023521500Z",
+  "model": "glm-5.3"
+}

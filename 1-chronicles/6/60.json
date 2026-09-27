@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ne⟨את⟩ Chukokoshi nomatunze aro, ne⟨את⟩ Rechobhi nomatunze aro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chukokoshi"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Chukokoshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechobhi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechobhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:45.939684611Z",
+  "model": "glm-5.3"
+}

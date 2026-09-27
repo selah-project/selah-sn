@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Vana vaIsraeri vakenda, vakaita sokurayirwa naYahwe kunaMozhe naAroni; saizvozvo vakaita.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "vakenda"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soku-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rayirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mozhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAroni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:57.149600022Z",
+  "model": "glm-5.3"
+}

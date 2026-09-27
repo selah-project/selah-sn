@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe vakaropafadzwa, nokuti vananzwira izwi rezvikumbiro zvangu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "vakaropafadzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vananzwira"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "rezvikumbiro zvangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:38.014929420Z",
+  "model": "glm-5.3"
+}

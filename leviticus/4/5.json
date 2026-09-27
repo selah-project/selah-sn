@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye mupristi wakazodzwa achatora zvishoma zvendiri yeparu, achaiisa ⟨את⟩ mukati me tenda yokusanangana.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "wakazodzwa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "zvishoma zvendiri"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yeparu"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "achaiisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ndiri yeparu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusanangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:38.457610551Z",
+  "model": "glm-5.3"
+}

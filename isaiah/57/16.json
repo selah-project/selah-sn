@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 57:16",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Nokuti handiri kurwa nokusingaperi, kana kutsamwa kwe nguva refu; nokuti mweya unoneta pamberi pangu, ndiro mapfepo ndini ndakasika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handiri"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kwe nguva refu"
+    },
+    {
+      "surface": "אקצוף",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamberi pangu"
+    },
+    {
+      "surface": "יעטוף",
+      "gloss": "unoneta"
+    },
+    {
+      "surface": "ונשמות",
+      "gloss": "ndiro mapfepo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakasika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:27.636970834Z",
+  "model": "glm-5.3"
+}

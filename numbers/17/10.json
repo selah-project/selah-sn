@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Mukai muzve mukati memubatanidzwa uwu, kuti ndiavadye parungano; vakagwadama pachiso pavo.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Mukai muzve"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "mubatanidzwa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uwu"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "kuti ndiavadye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "parungano"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "vakagwadama"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "chiso pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:10.424249193Z",
+  "model": "glm-5.3"
+}

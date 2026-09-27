@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Shiri kave iwanza imba, neghurushwarwa dzeni, apo iisa mashure ayo — ⟨את⟩ mabwiro ako, Yahwe Tsevaoti, Mambo wangu, Erohimu wangu!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kave"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "iwanza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "neghurushwarwa"
+    },
+    {
+      "surface": "קן",
+      "gloss": "dzeni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dzake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "iisa"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "mashure ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabwiro ako"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "mabwiro ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mambo wangu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Erohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:59.886224491Z",
+  "model": "glm-5.3"
+}

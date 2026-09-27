@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Akapa kunaya kwavo chando, moto une mihora munyika yavo.",
+  "tokens": [
+    {
+      "surface": "נָתַן",
+      "gloss": "Akapa"
+    },
+    {
+      "surface": "גִּשְׁמֵיהֶם",
+      "gloss": "kunaya kwavo"
+    },
+    {
+      "surface": "בָּרָד",
+      "gloss": "chando"
+    },
+    {
+      "surface": "אֵשׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לֶהָבוֹת",
+      "gloss": "une mihora"
+    },
+    {
+      "surface": "בְּאַרְצָם",
+      "gloss": "munyika yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:53.515191613Z",
+  "model": "glm-5.3"
+}

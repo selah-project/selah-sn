@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Rimwa harina kudzima kubva kwauri, uye usiku hunoyera sesikati; rimwa rakaenzana nechiedza.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Rimwa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "harina"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "kudzima"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kubva kwauri"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sesikati"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "hunoyera"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "rimwa rakaenzana"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "nechiedza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:26.372328944Z",
+  "model": "glm-5.3"
+}

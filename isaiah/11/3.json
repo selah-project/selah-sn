@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Achafadzwa nokutya kwaYahwe; haazotonga maererano nekuona kwamaziso ake, kana kururamisa maererano nekunzwa kwenzwiro dzake.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "achafadzwa"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "nokutya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haazo"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "maererano-nekuona"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "maererano-nekunzwa"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "nzwiro dzake"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "kururamisa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:39.009828080Z",
+  "model": "glm-5.3"
+}

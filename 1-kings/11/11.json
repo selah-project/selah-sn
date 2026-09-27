@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 11:11",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akati kuShoromoh: Nokuti izvi zvaitika newe, iwe usingachengete sungano yangu nemirairo yangu yaandakuraira, ndichapatsanura ⟨את⟩ umambo kubva kwauri, ndichiipa mushandi wako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kuShoromoh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zvaitika"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hauna"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "nemirairo yangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakakuraira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "kupatsanura"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "ndichapatsanura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umambo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kubva kwauri"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ndichiipa"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "mushandi wako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:36.995680027Z",
+  "model": "glm-5.3"
+}

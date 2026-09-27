@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akati: Ndatadzeiko, kuti uri kupa ⟨את⟩ mushandi wako muruoko rwaAhabu, kundiuraya?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "iko"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndatadza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mushandi wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "muruoko"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "rwaAhabu"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "kundiuraya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:29.010995253Z",
+  "model": "glm-5.3"
+}

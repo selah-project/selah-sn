@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Nokuti Yahwe anofarira vanhu vake; anodzikomosa vanodzikama noupone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "anofarira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "anodzikomosa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "vanodzikama"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "noupone"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:13.445687973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Akati: Usawande pano; bvutsa nzvimbo dzako tsitsi kubva panzira dzako, nokuti nzvimbo iyo wagaramo pamusoro payo ivhu itsvene ⟨iri⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "wande"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "pano"
+    },
+    {
+      "surface": "של",
+      "gloss": "bvutsa"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "nzvimbo dzako tsitsi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "nzira dzako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "wagaramo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro payo"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "itsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:53.182241756Z",
+  "model": "glm-5.3"
+}

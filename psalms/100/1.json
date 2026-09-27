@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 100,
+  "translation": "Nzira yekutenda. Itai ruzha kunaYahwe, nyika yose!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzira"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "yekutenda"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Itai ruzha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:38.117346376Z",
+  "model": "glm-5.3"
+}

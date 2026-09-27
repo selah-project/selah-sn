@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye mweya wose wakabuda kumativi ava yaJakobho wakanga uri makumi manomwe emweya; uye Yosefu aigara ari muMitzrayimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Uye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "wakabuda"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kumativi ava"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "yaJakobho"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "emweya"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "uye Yosefu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aigara ari"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muMitzrayimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:41.387210838Z",
+  "model": "glm-5.3"
+}

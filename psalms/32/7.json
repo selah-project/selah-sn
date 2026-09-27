@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Iwe urizonzvimbo yekuvandira kwangu; unondichengeta kubva kutambudzika; unonditikidzira nemakuhwi ekununurwa. Selaha.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "nzvimbo yekuvandira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kubva kutambudzika"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "unondichengeta"
+    },
+    {
+      "surface": "רני",
+      "gloss": "makuhwi"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ekununurwa"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "unonditikidzira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:27.845372388Z",
+  "model": "glm-5.3"
+}

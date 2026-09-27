@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 5:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti chirima chaYahwe Tsevaoti ndicho mba yaIsuraeri, vanhu vaJudha ndivo merero wake anoita mufaro; akatarira kutonga asi tarisai ropa, kururama asi tarisai kuridzira kwazvo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "chirima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsuraeri"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaJudha"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "merero"
+    },
+    {
+      "surface": "שעשועיו",
+      "gloss": "wake anoita mufaro"
+    },
+    {
+      "surface": "ויקו",
+      "gloss": "akatarira"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kutonga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "asi tarisai"
+    },
+    {
+      "surface": "משפח",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "asi tarisai"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "kuridzira kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:09.951570297Z",
+  "model": "glm-5.3"
+}

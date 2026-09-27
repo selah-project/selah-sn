@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Yahwe ⟨ari⟩ mutsvene munzira dzake dzose, ane hesedhi mabasa ake ose.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…dzose"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "nzira dzake"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ane hesedhi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…ose"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mabasa ake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:05.864881041Z",
+  "model": "glm-5.3"
+}

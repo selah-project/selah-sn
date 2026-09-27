@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Usava wakangwara maziso ako pachako; itya ⟨את⟩ Yahwe, uye dzoka kubva pane zvakaipa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "va"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wakangwara"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "maziso ako"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "itya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "uye dzoka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kubva pane zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:29.736244837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Kukudzwa nokunako kwebasa rake; kururama kwake kwakamira kune nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Kukudzwa"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nokunako"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "kwebasa rake"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "nokururama kwake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "kwakamira"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:09.510682119Z",
+  "model": "glm-5.3"
+}

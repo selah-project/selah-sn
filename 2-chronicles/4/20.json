@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ne⟨את⟩ mapere emwenje, nemadhidhi avo ekupisa mwenje, sokutsanangurwa pamberi peDhebheri — goridhe rakanatswa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mapere emwenje"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "mapere emwenje"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "nemadhidhi avo"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ekupisa mwenje"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sokutsanangurwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Dhebheri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goridhe"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "rakanatswa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:09.102241835Z",
+  "model": "glm-5.3"
+}

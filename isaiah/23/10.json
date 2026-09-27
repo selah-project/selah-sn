@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Yambuka nyika yako semurwizi, iwe mukadzi weTarshisha; hapana bhande chokazara.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "yambuka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "nyika yako"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "semurwizi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mukadzi we…"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshisha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "bhande"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chokazara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:09.930365385Z",
+  "model": "glm-5.3"
+}

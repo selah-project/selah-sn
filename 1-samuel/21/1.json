@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Akamuka akaenda; uye Yonatani akapinda muguta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "uye Yonatani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "muguta"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:01.753931856Z",
+  "model": "glm-5.3"
+}

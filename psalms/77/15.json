@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Iwe ndiwe Er anoita zvinoshamisa; wakazivisa ⟨את⟩ simba rako kuvanhu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zvinoshamisa"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "wakazivisa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "simba rako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:04.519381051Z",
+  "model": "glm-5.3"
+}

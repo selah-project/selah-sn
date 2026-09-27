@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Asi ini ndakavafundisa Efuraimu kuti famba, ndichivatora pamabasu avo; asi vakaziva kuti ndini ndakavaporesa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ndakavafundisa kuti famba"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efuraimu"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ndichivatora"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "mabasu avo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi havazivi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vakaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ndakavaporesa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:43.590352439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Nokuti hasha dzaYahwe dzakatsamira ⟨pane⟩ vanhu vake, uye akadzvanyirira ⟨את⟩ nhlaka yake.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dzakatsamira"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "akadzvanyirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhlaka yake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "nhlaka yake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:14.350475919Z",
+  "model": "glm-5.3"
+}

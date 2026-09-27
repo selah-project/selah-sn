@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Shwake chichadzoka, shwake chaYakobho, kuna Er Gibhoru.",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "shwake"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "chichadzoka"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "shwake"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "chaYakobho"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "Gibhoru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:28.100648847Z",
+  "model": "glm-5.3"
+}

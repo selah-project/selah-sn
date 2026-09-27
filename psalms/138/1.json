@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "YaDhavhidhi. Ndichakuvavira ⟨את⟩ iwe nemwoyo wangu wose; pamberi peErohimu ndichakurumbidza nziyo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "YaDhavhidhi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndichakuvavira iwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne…wose"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mwoyo wangu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ndichakurumbidza nziyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:08.721922692Z",
+  "model": "glm-5.3"
+}

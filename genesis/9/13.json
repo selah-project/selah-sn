@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "⟨את⟩ utare wangu ndakaisa munezvu, uye zvichave chiratidzo chesungano pakati pangu n⟨e⟩pakati pepasi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utare wangu"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "utare wangu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakaisa"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "munezvu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "uye zvichave"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pangu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:05.116084791Z",
+  "model": "glm-5.3"
+}

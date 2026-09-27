@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Gefen ⟨wakabuditsa⟩ kuMisri, wakaturutsa matunhu, wakadyaridza.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuMisri"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "wakabuditsa"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "wakaturutsa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "matunhu"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "wakadyaridza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:19.908817439Z",
+  "model": "glm-5.3"
+}

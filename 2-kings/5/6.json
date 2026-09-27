@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Tsamba yakasvika kumambo weIsirayeri ichiti: Uye zvino, papinda tsamba iyi kwauri, tarira, ndatumira kwauri ⟨את⟩ Nahamani muranda wangu, kuti umupore kubva pabheti rake.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yakasvika"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "tsamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsirayeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ichiti"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "uye zvino"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "papinda"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "tsamba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndatumira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahamani"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Nahamani"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "muranda wangu"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "kuti umupore"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "kubva pabheti rake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:04.073891358Z",
+  "model": "glm-5.3"
+}

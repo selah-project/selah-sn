@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye ⟨את⟩ mafuta ayo ose achazonza kubva mairi: ⟨את⟩ muswe wemafuta, nomafuta anofukidza ⟨את⟩ zvamukati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta ayo"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "achazonza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva mairi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muswe wemafuta"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "muswe wemafuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "anofukidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvamukati"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zvamukati"
+    }
+  ],
+  "timestamp": "2026-09-27T10:51:08.766721951Z",
+  "model": "glm-5.3"
+}

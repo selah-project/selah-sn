@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Yahwe anerunyararo netsitsi, harekutsamwa, ane hesedhi yakawanda.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "anerunyararo"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "netsitsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hare"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "yakawanda"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:09.131242106Z",
+  "model": "glm-5.3"
+}

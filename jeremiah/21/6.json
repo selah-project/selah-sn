@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Ndicharwisa ⟨את⟩ vagari veguta iri, ⟨את⟩ munhu ne⟨את⟩ zvipfuwo; nechirwere chikuru dzichafa.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Ndicharwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vagari veguta iri"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "veguta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "munhu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvipfuwo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nechirwere"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "chikuru"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "dzichafa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:59:43.982399444Z",
+  "model": "glm-5.3"
+}

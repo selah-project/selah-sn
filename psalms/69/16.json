@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Usandizadze neshefu yemvura, kana mugwagwa wemvura usandimepe; kana mukono usavhara muromo wake pamusoro pangu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "kandizadze"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "neshefu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yemvura"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kana usa"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "usandimepe"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "mugwagwa wemvura"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kana usa"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "usavhare"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "באר",
+      "gloss": "mukono"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muromo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:03.261163960Z",
+  "model": "glm-5.3"
+}

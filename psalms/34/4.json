@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Itai Yahwe mukuru neni ⟨את⟩; uye ngatikudzise zita rake pamwe chete.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Itai mukuru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨neni⟩"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ngatikudzise"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:06.942134314Z",
+  "model": "glm-5.3"
+}

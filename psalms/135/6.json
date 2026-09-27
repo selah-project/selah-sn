@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Chose chaaida Yahwe chakaita mumatenga nepasi, mugungwa nedzika dzose.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha…"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "aida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chakaita"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mumatenga"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "nepasi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mugungwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne… dzose"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dzika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:44.406516762Z",
+  "model": "glm-5.3"
+}

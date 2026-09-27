@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Shauru akafa, navana vake vatatu, nepamba yake yose — pamwe chete vakafa.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "navana vake vatatu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "neyose"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "pamba yake"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "vakafa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:21:36.856884999Z",
+  "model": "glm-5.3"
+}

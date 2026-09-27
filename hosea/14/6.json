@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Ndinenge ndiri serukuni kuna Israeri; achamerera sezvinzvi, uye madziro ake achadzikama saRebanoni.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "Ndinenge ndiri"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "serukuni"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuna Israeri"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "achamerera"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "sezvinzvi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "achadzikama"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "madziro ake"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "saRebanoni"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:44.107311894Z",
+  "model": "glm-5.3"
+}

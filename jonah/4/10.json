@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati: Iwe wakarerutsa ⟨את⟩ kikioni, iro pausina kushanda mariro, uye pausinga uchiurasa; mwana wehusiku waiva, uye mwana wehusiku akapunyuka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "wakarerutsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikioni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "kushanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mariro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hauna"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "kuurasa"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wehusiku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waiva"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "uye mwana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wehusiku"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "akapunyuka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:27.979226976Z",
+  "model": "glm-5.3"
+}

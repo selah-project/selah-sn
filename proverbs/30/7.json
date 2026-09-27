@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Zvinhu zviviri ndakakukumbira kubva kwauri ⟨את⟩; usandzivadzire usati ndafa.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "zvinhu zviviri"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ndakakukumbira"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kubva kwauri ⟨את⟩",
+      "marks": "iwe (Mwari)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "-ndzivadzire"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva kwandiri"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "usati"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndafa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:26.721323997Z",
+  "model": "glm-5.3"
+}

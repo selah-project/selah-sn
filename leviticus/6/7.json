@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye iyi ndiyo tora yeminha: vana vaAroni vanopisa ⟨את⟩ iyi pamberi paYahwe, kumberi kwechivara.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "uye iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora ye"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vanopisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minha iyi — chinhu chakatarwa nechiitwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumberi kwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "chivara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:31.543912698Z",
+  "model": "glm-5.3"
+}

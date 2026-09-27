@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Nokuti vakapurukira mashoko oEr, uye ungano weEriyoni vakanyemwedzera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "vakapurukira"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oEr"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "uye ungano"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "weEriyoni"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "vakanyemwedzera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:40.778549628Z",
+  "model": "glm-5.3"
+}

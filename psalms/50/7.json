@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Nzwanika vanhu vangu, ndichataura; Israeri, ndichapupurira pachena kwamuri; Erohimu, Erohimu wenyu, ndini.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Nzwanika"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ndichapupurira pachena"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wenyu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:43.741307504Z",
+  "model": "glm-5.3"
+}

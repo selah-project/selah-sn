@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Iye akaita ⟨את⟩ altare yechipiro chemoto, yemiti yeshitimu: mamita mashanu kureba kwavarwo, namamita mashanu kupambuka — yakadzika kv square — namamita matatu kureba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare yechipiro chemoto"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yechipiro chemoto"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yemiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeshitimu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mamita"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "kureba kwavarwo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "namashanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mamita"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kupambuka kwavarwo"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "yakadzika kv square"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "namatatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mamita"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "kureba kwavarwo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:10.622533419Z",
+  "model": "glm-5.3"
+}

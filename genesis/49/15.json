@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Akaona kuti zororo rakanaka, uye ⟨את⟩ ivhu kuti rinonaka; ndokutsvetuka bvumbodo rake kutora mutoro, ndokuita muranda wemutero.",
+  "tokens": [
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "מְנֻחָה",
+      "gloss": "zororo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "rakanaka"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ivhu"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נָעֵמָה",
+      "gloss": "rinonaka"
+    },
+    {
+      "surface": "וַיֵּט",
+      "gloss": "ndokutsvetuka"
+    },
+    {
+      "surface": "שִׁכְמוֹ",
+      "gloss": "bvumbodo rake"
+    },
+    {
+      "surface": "לִסְבֹּל",
+      "gloss": "kutora mutoro"
+    },
+    {
+      "surface": "וַיְהִי",
+      "gloss": "ndokuita"
+    },
+    {
+      "surface": "לְמַס",
+      "gloss": "wemutero"
+    },
+    {
+      "surface": "עֹבֵד",
+      "gloss": "muranda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:50.064019894Z",
+  "model": "glm-5.3"
+}

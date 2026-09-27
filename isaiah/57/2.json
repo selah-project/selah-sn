@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Anopinda runyararo, vanozorora pamabhavha avo, — anofamba mururama.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "anopinda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "vanozorora"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "mabhavha avo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "mururama"
+    }
+  ],
+  "timestamp": "2026-09-27T11:06:06.933509371Z",
+  "model": "glm-5.3"
+}

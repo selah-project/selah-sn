@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Nyarara kuna Yahwe, uye umirire iye; usatsonya nokuda womunhu anobudirira munzira yake, kana womunhu anoita machirongwa ouipi.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "nyarara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "uye umirire"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "usatsonya"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "nokuda womunhu anobudirira"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "munzira yake"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kana womunhu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "machirongwa ouipi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:31.660206156Z",
+  "model": "glm-5.3"
+}

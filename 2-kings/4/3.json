@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akati: Enda, nyengerera zvibhorwa kubva kunze, kubva ⟨את⟩ vahuwandu hwevanhumba vako — zvibhorwa zvitsva, musashome.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "enda"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "nyengerera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "zvibhorwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhumba vako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "huwandu hwe"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "vanhumba vako"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "zvibhorwa"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "zvitsva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "-shome"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:40.862804280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye vakadzi vaviri vaDhavhidhi vakatorwa: Ahinoamu weYizreeri, naAvigairi, mukadzi waNavaru weKarmiri.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Uye vaviri"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vakadzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "vaDhavhidhi"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "vakatorwa"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoamu"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "weYizreeri"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "naAvigairi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi wa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navaru"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "weKarmiri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:57:51.142247718Z",
+  "model": "glm-5.3"
+}

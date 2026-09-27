@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye mumufananidzo wemupfumbere usaomberedza mune yaake mhaka.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "Uye mumufananidzo wemupfumbere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "-omberedza"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "mune yaake mhaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:29.461014217Z",
+  "model": "glm-5.3"
+}

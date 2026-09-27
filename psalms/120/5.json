@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 120,
+  "translation": "Ndatambudzira, nokuti ndinogara muMesheki, ndinogara netendi dzeKedhari.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Ndatambudzira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwavangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ndinogara"
+    },
+    {
+      "surface": "משך",
+      "gloss": "muMesheki"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ndinogara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "tendi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "dzeKedhari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:20.946044092Z",
+  "model": "glm-5.3"
+}

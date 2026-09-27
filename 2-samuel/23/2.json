@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Mweya waYahwe wataurira mumarirwo angu, uye shoko rake paurwimi hwangu.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wataurira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mumarirwo angu"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "uye shoko rake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "urwimi hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:10.551391793Z",
+  "model": "glm-5.3"
+}

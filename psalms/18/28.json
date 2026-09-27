@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti iwe unounza ruponeso kune ⟨vanhu⟩ voshushwa, uye maziso akakwirisa unodzikisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨vanhu⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "voshushwa"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "unounza ruponeso"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "uye maziso"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "akakwirisa"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "unodzikisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:27.756644012Z",
+  "model": "glm-5.3"
+}

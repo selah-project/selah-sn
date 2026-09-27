@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Usashuvira zvidyo zvake zvinoyeuka, ⟨nokuti⟩ idyo dzemanyepere.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "shuvira"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "zvidyo zvake zvinoyeuka"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "idzo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "idyo"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "dzemanyepere"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:19.285446767Z",
+  "model": "glm-5.3"
+}

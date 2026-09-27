@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Anogadzira kukagara mukadzi wasingabereki umu, amai vakafara vevana. Rumbidzai Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "anogadzira kukagara"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "mukadzi wasingabereki"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "umu ⟨mugariro⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amai"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vakafara"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:21.788373411Z",
+  "model": "glm-5.3"
+}

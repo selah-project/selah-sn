@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 19:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "vakavaka ⟨את⟩ nzvimbo dzakakwirira dzaBaari, kuti vapise ⟨את⟩ vana vavo nomoto, semhimbilhwa zvaBaari, izvo handina kurayira, ini handina kutaura, uye hazvina kukwira pamusoro pemoyo wangu.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "vakavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzakakwirira dzaBaari"
+    },
+    {
+      "surface": "במות",
+      "gloss": "nzvimbo dzakakwirira"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "dzaBaari"
+    },
+    {
+      "surface": "לשרף",
+      "gloss": "kuti vapise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vavo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "vana vavo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "semhimbilhwa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "zvaBaari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kurayira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handina"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hazvina"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "kukwira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:59:26.562164463Z",
+  "model": "glm-5.3"
+}

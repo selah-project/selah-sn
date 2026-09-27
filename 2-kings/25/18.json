@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye mukuru webhachi akatora ⟨את⟩ Serayaha mupristi mukuru, ne⟨את⟩ Tsepanyahu mupristi wechipiri, ne⟨את⟩ vanhu vatatu vachengeti bedhero.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "webhachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayaha"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayaha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsepanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsepanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wechipiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vatatu vachengeti bedhero"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "vatatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vachengeti"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "bedhero"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:43.961661503Z",
+  "model": "glm-5.3"
+}

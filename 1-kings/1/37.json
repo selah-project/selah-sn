@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Sokunge Yahwe aive naAdonai womambo, saizvozvo agare naShoromo, uye akure ⟨את⟩ chigaro chake kupfuura chigaro chaAdonai wangu womambo Dhavhidhi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sokunge"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aive"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai wangu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "womambo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "agare"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "akure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chigaro chake"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chigaro chake"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "kupfuura chigaro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chaAdonai wangu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "womambo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:41.542784963Z",
+  "model": "glm-5.3"
+}

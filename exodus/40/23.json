@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "akaunganidza pamusoro paro maronga echingwa pachiso paYahwe, sokuda kwaYahwe kuna ⟨את⟩ Mhoze.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro paro"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "maronga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "echingwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwaYahwe kwakarayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:39.194899458Z",
+  "model": "glm-5.3"
+}

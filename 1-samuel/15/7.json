@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Shauro akarwisa ⟨את⟩ Amareki, kubva kuHavira, uchaenda kuna Shuri, iri pachiso peIjipita.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amareki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amareki"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "kubva kuHavira"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "uchaenda"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kuna Shuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:40.711026804Z",
+  "model": "glm-5.3"
+}

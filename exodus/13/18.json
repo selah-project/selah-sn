@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Asi Erohimu akatemberedza ⟨את⟩ vanhu nenzira yegwenga, rinopfuura naGungwa reZvitsuwa; uye vana vaIsiraeri vakakwira vachinge vakagadzirirwa hondo, kubva munyika yeMitsriyimu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akatemberedza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nenzira"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yegwenga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Gungwa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "reZvitsuwa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "vakagadzirirwa hondo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vakakwira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsriyimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:15.683263956Z",
+  "model": "glm-5.3"
+}

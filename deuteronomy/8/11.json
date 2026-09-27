@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Chenjerera mwene pako, kuti usa kanganwa ⟨את⟩ Yahwe Erohimu wako, nokuusa kuchengeta mirairo yake nemutemo wake nemitemo yake iwo ndiwo anokuraira nhasi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Chenjerera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mwene pako"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kanganwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nokuusa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mirairo yake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "nemutemo wake"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "nemitemo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "anokuraira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:33.794900686Z",
+  "model": "glm-5.3"
+}

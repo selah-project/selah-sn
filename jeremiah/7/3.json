@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvino ndokuti Yahwe waTsevaoti, Erohimu waIsraeri: Gurutsa nzira dzenyu nemabasa enyu, ndichakugarakai munzvimbo ino.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvino ndokuti (kodzera)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "waTsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "Gurutsa (ita zvakanaka)"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "nzira dzenyu"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "nemabasa enyu"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ndichakugarakai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi (vanhu)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimbo ino"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    }
+  ],
+  "timestamp": "2026-09-27T07:53:27.980955076Z",
+  "model": "glm-5.3"
+}

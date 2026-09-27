@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Ungavatonga here, mwanadamu, ungovatonga here? Zvinyadziso zvamadzitatego avo — vazivise iwo.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Ungavatonga here"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "ungovatonga here"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana…"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinyadziso zvamadzitatego avo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "zvinyadziso"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "zvamadzitatego avo"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "vazivise iwo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:22:53.381398599Z",
+  "model": "glm-5.3"
+}

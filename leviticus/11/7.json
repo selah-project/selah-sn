@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye ⟨את⟩ hutsiri, nokuti anopatsanura parisa, uye anotsemuka tsemuko parisa, uye iye gera haagere — haatsvene iye kwamuri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hutsiri"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "hutsiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "anopatsanura"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "parisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "anotsemuka"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "tsemuko"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "parisa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye-iye"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "gere"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "haatsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:47.794187443Z",
+  "model": "glm-5.3"
+}

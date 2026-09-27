@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Iye akanzwa ⟨את⟩ mashoko evakomana vaRabhan, achiti: Yakobo atora ⟨את⟩ zvose zvive zvomubaba wedu; uye kubva muzvomubaba wedu akaita ⟨את⟩ hupfumi hwose huno.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "evakomana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "vaRabhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "atora"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvive zvomubaba wedu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvive"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "zvomubaba wedu"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "uyye kubva mu"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "zvomubaba wedu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hupfumi hwose huno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hupfumi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "huno"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:36.577390349Z",
+  "model": "glm-5.3"
+}

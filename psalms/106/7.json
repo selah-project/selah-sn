@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Madzitibaba edu, muEjipita, havana kuziva zvishamiswa zva Yahwe; havana kuyeuchidza ⟨את⟩ huwandu hwehesedhi hwake; vakumutsa gomwe pamwe nenyanga, panyanja yeSuphi.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "madzitibaba edu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muEjipita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zvishamiswa zva Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "kuyeuchidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huwandu hwehesedhi hwake"
+    },
+    {
+      "surface": "רב",
+      "gloss": "huwandu"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedhi hwake"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "vakumutsa gomwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "בים",
+      "gloss": "panyanja ye"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suphi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:35.907312726Z",
+  "model": "glm-5.3"
+}

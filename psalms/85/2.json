@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Wakafadza, Yahwe, nyika yako; wakadzosera kudzoserwa kwaJakobo.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "wakafadza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "nyika yako"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wakadzosera"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kudzoserwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:27.425635086Z",
+  "model": "glm-5.3"
+}

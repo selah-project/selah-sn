@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino vanhu venyika vakapfava maoko evanhu veJudha, uye vakavadzikisira ⟨את⟩ kuvaka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "vakapfava"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maoko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "veJudha"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "uye vakavadzikisira"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuvaka"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:08:34.769622481Z",
+  "model": "glm-5.3"
+}

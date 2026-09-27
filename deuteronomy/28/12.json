@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe achavhurira iwe ⟨את⟩ chitoro chake chakanaka, iro denga, kuti apere mvura yekunaya kwenu nguva yayo, uye kukomborera ⟨את⟩ basa rose remaoko ako; iwe uchakweretesa marudzi mazhinji, asi iwe hauchakweretesi.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "achavhurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitoro chake chakanaka"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "chitoro chake"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "denga"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti apere"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mvura yekunaya"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "yenyika yako"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "nguva yayo"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "uye kukomborera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "remaoko ako"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "uchakweretesa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "uchakweretesi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:04.777053687Z",
+  "model": "glm-5.3"
+}

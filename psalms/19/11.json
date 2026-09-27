@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvinodikanwa kupfuura ⟨ndarama⟩, zvose zvazhinji zvendarama yakachena; uye zvinonaka kupfuura uchi nomvura yeuchi yemadziro.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "Zvinodikanwa"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kupfuura ndarama"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "zvose zvendarama yakachena"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zvazhinji"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "uye zvinonaka"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "kupfuura uchi"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "nomvura"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "yeuchi yemadziro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:52.097801482Z",
+  "model": "glm-5.3"
+}

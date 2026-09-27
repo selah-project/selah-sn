@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Murombo uyu akadana, Yahwe akamunzwa, akamununura kubva kutambudiko kwose kwake.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "Murombo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akamunzwa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kubva kutambudiko kwose"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "akamununura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:37.095049981Z",
+  "model": "glm-5.3"
+}

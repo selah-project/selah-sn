@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Noaka akamuka kubva muwayin wake, akaona ⟨את⟩ izvo mwana wake muchidiki akamuitira.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaka"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "kubva muwayin wake"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo mwana wake muchidiki akamuitira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "muchidiki"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:23.564809493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Dhavhidhi akati kuti vanounganidzwe ⟨את⟩ vageni vari munyika yeIsraeri; akamisa vacheka-mabwe kuti vateme mabwe akagadzirwa kuvaka ⟨musha⟩ waErohimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "kuti vanounganidzwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vageni"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "vageni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yeIsraeri"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "vacheka-mabwe"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "kuti vateme"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "akagadzirwa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "musha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:58.068788041Z",
+  "model": "glm-5.3"
+}

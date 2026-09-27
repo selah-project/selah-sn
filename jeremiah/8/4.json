@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uchati kuvavo: Yahwe anoti ndokuti: vanowa, havamukiri here? Kana anodzoka, haadzokiri here?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Uchati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "vanowa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "havamukiri"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "mukiri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "anodzoka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haadzokiri"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dzokiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:45.168694072Z",
+  "model": "glm-5.3"
+}

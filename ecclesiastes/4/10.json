@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nokuti kana wawo akawa, mumwe anomutsa ⟨את⟩ shamwari yake; asi mumwe aka-wa, hapana wechipiri anomutswa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "anomutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamwari yake"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "shamwari yake"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "asi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "akawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wechipiri"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "anomutswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:44.841604101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Kerubhi mumwe kumagumo ari pano, nokerubhi mumwe kumagumo ari kunodivika; kubva kumagumo maviri ekaporete akaita ⟨את⟩ kerubhi.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerubhi mumwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kumagumo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pano-divi"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "nokerubhi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kumagumo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kunodivika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ekaporete"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubhi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubhi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "pamagumo"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "maviri awo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:28.463677135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Nokuti haisi muvengi andidzvanyirira — ndaidzvigamuchira; haisi ⟨anondivenga⟩ akazvitambanidza pamusoro pangu — ndaizvidzivirira kubva kwaari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haisi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "andidzvanyirira"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ndaidzvigamuchira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haisi"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "anondivenga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "akazvitambanidza"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ndaizvidzivirira"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:30.014304645Z",
+  "model": "glm-5.3"
+}

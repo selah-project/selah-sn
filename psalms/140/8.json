@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 140,
+  "translation": "Yahwe Adonai, simba renhakaniko yangu, wakavhara musoro wangu nezuzu remhondo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "renhakaniko yangu"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "wakavhara"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "musoro wangu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nezuzu"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "remhondo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:10.285539942Z",
+  "model": "glm-5.3"
+}

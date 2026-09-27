@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Vachataura simba rezviitiko zvako zvokutyokwidza, uye kukuru kwako ndinorondedza.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "uye simba"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "zviitiko zvako zvokutyokwidza"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vachataura"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "uye kukuru kwako"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ndinorondedza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:58.849224974Z",
+  "model": "glm-5.3"
+}

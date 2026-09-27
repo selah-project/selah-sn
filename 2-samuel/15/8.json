@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokuti mushandi wako akatsidza chitsidzo pakugara kwangu munaGushuru muAramu, achiti: Kana Yahwe zvokuti achandidzosa kuYerushayemi, ndichashanda ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "chitsidzo"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "akatsidza"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "pakugara kwangu"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "munaGushuru"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "muAramu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "zvokuti"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "achandidzosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kuYerushayemi"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "ndichashanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:59:51.436624359Z",
+  "model": "glm-5.3"
+}

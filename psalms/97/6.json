@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 97,
+  "translation": "Matenga akazivisa ⟨את⟩ kururama kwake, uye marudzi ose akaona ⟨את⟩ kukudziwa kwake.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "kururama kwake"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kukudziwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:36.869041038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvakakwana kwenyu kupoteredza ⟨את⟩ gomo iri; mukanangana kwenyu kuMaodzanyemba.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Zvakakwana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenyu"
+    },
+    {
+      "surface": "סב",
+      "gloss": "kupoteredza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomo iri"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "mukanangana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenyu"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "kuMaodzanyemba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:11.433167608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Dhonza hasha dzako pamusoro pe⟨the⟩ marudzi asingakuzivi, napamusoro pemamisha asingadane zita rako.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Dhonza"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "hasha dzako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isinga"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "kuzivi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "napamusoro pe"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mamisha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isinga"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dane"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:43.105890854Z",
+  "model": "glm-5.3"
+}

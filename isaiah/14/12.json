@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 14:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Sei wawira kubva matenga, iwe unopenya, mwana wemangwanani! Watemwa kune pasi, iwe unodzikisa simba remarudzi!",
+  "tokens": [
+    {
+      "surface": "אֵ֛יךְ",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "נָפַ֥לְתָּ",
+      "gloss": "wawira"
+    },
+    {
+      "surface": "מִשָּׁמַ֖יִם",
+      "gloss": "kubva matenga"
+    },
+    {
+      "surface": "הֵילֵ֣ל",
+      "gloss": "iwe unopenya"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שָׁ֑חַר",
+      "gloss": "wemangwanani"
+    },
+    {
+      "surface": "נִגְדַּ֣עְתָּ",
+      "gloss": "watemwa"
+    },
+    {
+      "surface": "לָאָ֔רֶץ",
+      "gloss": "kune pasi"
+    },
+    {
+      "surface": "חוֹלֵ֖שׁ",
+      "gloss": "unodzikisa simba"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "re"
+    },
+    {
+      "surface": "גּוֹיִֽם",
+      "gloss": "marudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:30.113935912Z",
+  "model": "glm-5.3"
+}

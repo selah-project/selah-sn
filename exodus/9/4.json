@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe achaparadzanisa pakati pezvipfuwo zveIsirairi negomwe nezvipfuwo zveEjipita; uye hapana chichafa chezvinhu zvose zvavana vaIsirairi.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "achaparadzanisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsirairi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "negomwe"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "nezvipfuwo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "veEjipita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "chichafa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "chezvinhu zvose"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "zvavana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirairi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:13.119670987Z",
+  "model": "glm-5.3"
+}

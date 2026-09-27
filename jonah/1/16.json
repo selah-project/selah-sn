@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndipo varume vakatya kutya kukuru kuna Yahwe, vakapira chibairo kuna Yahwe, uye vakadzitsanangura nzviro.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "vakatya"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kukuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "vakapira"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "vakadzitsanangura"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nzviro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:54.574923737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye Aroni achazounza ⟨את⟩ mbudzi iyo goreli raYahwe rakawira pairi, achaita chibairo chetadzo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "achazounza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbudzi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rakawira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "goreli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "chibairo chetadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:52.473791185Z",
+  "model": "glm-5.3"
+}

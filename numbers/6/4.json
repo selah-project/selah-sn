@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mazuva ose echipanganemo chake, chero chinhu chinosanganiswa kubva mumuti wewaini, kubva pambecudzwa dzemabhindu kusvika paganda remubhindu, haachizodyi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "echipanganemo chake"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "chero chinhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chinosanganiswa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chinogadzirwa"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "kubva mumuti wewaini"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wewaini"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "kubva pambecudzwa dzemabhindu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "זג",
+      "gloss": "paganda remubhindu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "chizodyi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:51:57.138944811Z",
+  "model": "glm-5.3"
+}

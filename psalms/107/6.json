@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vakadana kuna Yahwe mune yavo dambudziko, uye akavapunura kubva mune yavo njodzi.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "vakadana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yavo"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "kubva mune yavo njodzi"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "akavapunura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:00.188338639Z",
+  "model": "glm-5.3"
+}

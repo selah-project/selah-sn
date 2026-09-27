@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Anorangarira nokusingaperi sungano yake, izwi raakaraira kune churu dzemadaro.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Anorangarira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sungano yake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "raakaraira"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "kune churu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dzemadaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:20.628561320Z",
+  "model": "glm-5.3"
+}

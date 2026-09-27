@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Usandikanda pane nguva yechidiki chemberi; kana simba rangu rapera, usandisiye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ndikanda"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "pane nguva"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "yechidiki chemberi"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kana … rapera"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ndisiye"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:18.029066738Z",
+  "model": "glm-5.3"
+}

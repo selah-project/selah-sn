@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Ndipo varume veIsraeri vakabuda kuchihondo naBenjami, ndipo varume veIsraeri vakarongeka ⟨את⟩ vachizviita hondo kumusoro peGibheya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "vakabuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kuchihondo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjami"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "vakarongeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "avo (vaBenjami)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumusoro pe"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibheya"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:50.656979676Z",
+  "model": "glm-5.3"
+}

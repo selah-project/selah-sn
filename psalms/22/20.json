@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Asi iwe, Yahwe, usave kure; simba rangu, shangazira kundibatsira.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "vekure"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kundibatsira"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shangazira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:21.024261646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akabuditsa zvinoyerera zvimwe zvinenge makwiro kubva mombe, uye akakwidziridza mvura sevwuni rwezi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "akabuditsa"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "zvinoyerera zvimwe zvinenge makwiro"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "kubva mombe"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "akakwidziridza"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "sevwuni rwezi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:19.932556587Z",
+  "model": "glm-5.3"
+}

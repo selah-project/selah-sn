@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 129,
+  "translation": "Rosva harugadziri ruoko rwechiridzo, uye chihwani harugadziri chibhakera chake.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "haru-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gadziri"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ruko rwe"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "chiridzo"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "chihwani"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "anobatanidza mihindu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:21.902978798Z",
+  "model": "glm-5.3"
+}

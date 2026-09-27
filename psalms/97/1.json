@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 97,
+  "translation": "Yahwe wavatora chigaro choumutiri, pasi rifarire, nzinga dzakawanda dzifare.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wavatora chigaro choumutiri"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "rifarire"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "dzifare"
+    },
+    {
+      "surface": "איים",
+      "gloss": "nzinga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dzakawanda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:17.931562435Z",
+  "model": "glm-5.3"
+}

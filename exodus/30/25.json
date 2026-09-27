@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uchagadzira ⟨את⟩ iro mafuta emazodzwo matsvene, munhwani wakasanganiswa, basa remupi wemunhwani; mafuta emazodzwo matsvene ndiro achava.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchagadzira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "emazodzwo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "matsvene"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "munhwani"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "wakasanganiswa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "remupi wemunhwani"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "emazodzwo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "matsvene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "achava"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:17.368889755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Yahwe, usandidzvanyirire mukutsamwa kwako, kana kuti undidzorere mukurwadziwa kwako.",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "בְּקֶצְפְּךָ",
+      "gloss": "mukutsamwa kwako"
+    },
+    {
+      "surface": "תוֹכִיחֵנִי",
+      "gloss": "usandidzvanyirire"
+    },
+    {
+      "surface": "וּבַחֲמָתְךָ",
+      "gloss": "mukurwadziwa kwako"
+    },
+    {
+      "surface": "תְיַסְּרֵנִי",
+      "gloss": "undidzorere"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:17.862532476Z",
+  "model": "glm-5.3"
+}

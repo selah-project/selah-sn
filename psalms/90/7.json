@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Nokuti takapera mukutsamwa kwako, tikatyora mukuvengwa kwako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "takapera"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mukutsamwa kwako"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "mukuvengwa kwako"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "tikatyora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:05.244166154Z",
+  "model": "glm-5.3"
+}

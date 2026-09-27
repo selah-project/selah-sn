@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mudumbu akabata ⟨את⟩ gotsi romukoma wake, mhasuru paakabva amukunda ⟨את⟩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "mudumbu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "akabata gotsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gotsi romukoma wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "mhasuru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "akamukunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:53.691677678Z",
+  "model": "glm-5.3"
+}

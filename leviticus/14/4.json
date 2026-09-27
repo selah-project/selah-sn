@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Mupristi acharaira kuti torwe ⟨את⟩ yaanocheneswa: shiri mbiri dzepenyu dzitsvene, huni yesedara, shoni yakapfava, nezosi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "acharaira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "torwe"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "yaanocheneswa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "dzepenyu"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "dzitsvene"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "huni ye-"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedara"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "shoni yakapfava kana-"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "shoni yakapfava"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "nezosi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:12.817053742Z",
+  "model": "glm-5.3"
+}

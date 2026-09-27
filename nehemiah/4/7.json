@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ndakamisa ⟨vanhu⟩ munhuwo pasi panzvimbo, kumashure kwehomba, panzvimbo dzakavhurika; ndakamisa ⟨את⟩ vanhu nemhuri dzavo, nemabanga avo, mapfumo avo, neuta avo.",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "ndakamisa"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "munhuwo pasi"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kumashure"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "kwehomba"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "panzvimbo dzakavhurika"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "ndakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "nemhuri dzavo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "mabanga avo"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "mapfumo avo"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "neuta avo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:13:44.773557411Z",
+  "model": "glm-5.3"
+}

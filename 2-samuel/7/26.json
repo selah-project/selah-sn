@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 7:26",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye zita rako rikurudzirwe kusvika nokusingaperi, kuti zvinonzi: Yahwe Tsevaoti, Erohimu pamusoro peIsirayeri; uye imba yomuranda wako Dhavhidhi ichamira pamberi pechiso chako.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "rikurudzirwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti zvinonzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeri"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "uye imba"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yomuranda wako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yakagadzikana, ichamira"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pechiso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:03.020344583Z",
+  "model": "glm-5.3"
+}

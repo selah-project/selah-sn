@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye vana vaEri vaive vana vevashanyi; havana kuziva ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Uye vana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vaEri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "vevashanyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:28.903535510Z",
+  "model": "glm-5.3"
+}

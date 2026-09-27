@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mambo weMuiti wakadana midzi, wati kwadzo: Ngei makaita ⟨⟨chiro⟩⟩ ichi, uye moita kuti ⟨את⟩ vana vararame?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMuiti"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kwavatsvene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kwadzo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngei"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "makaita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chiro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "uye moita kuti vararame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:34.109812244Z",
+  "model": "glm-5.3"
+}

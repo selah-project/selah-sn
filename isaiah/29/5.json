@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 29:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye huwandu hwevasiri vako huve semumbvumbvute wakanatswa, uye huwandu hwevasuruvari huve semotsi rinopfuura; uye zvichaitwa mukana mumwe, nokukasira.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvichaitwa"
+    },
+    {
+      "surface": "כאבק",
+      "gloss": "semumbvumbvute"
+    },
+    {
+      "surface": "דק",
+      "gloss": "wakanatswa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "huwandu"
+    },
+    {
+      "surface": "זריך",
+      "gloss": "hwevasiri vako"
+    },
+    {
+      "surface": "וכמץ",
+      "gloss": "semotsi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "rinopfuura"
+    },
+    {
+      "surface": "המון",
+      "gloss": "huwandu"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "hwevasuruvari"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uye zvichaitwa"
+    },
+    {
+      "surface": "לפתע",
+      "gloss": "mukana mumwe"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "nokukasira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:00.553403260Z",
+  "model": "glm-5.3"
+}

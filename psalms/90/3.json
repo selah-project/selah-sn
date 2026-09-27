@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Unodzorera munhu kusvika atapwa, woti: “Dzokai, vana vevanhu.”",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "unodzorera"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "atapwa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "woti"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Dzokai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vevanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:58.152374548Z",
+  "model": "glm-5.3"
+}

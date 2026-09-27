@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yehudha yakakwira, uye Yahwe akapa ⟨את⟩ ⟨the⟩ Kenani neParizi mumaoko avo; vakawuraya muBezeka varume zviuru gumi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yakakwira"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "neParizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "mumaoko avo"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "vakawuraya"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "muBezeka"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:12.874920758Z",
+  "model": "glm-5.3"
+}

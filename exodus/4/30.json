@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Aharona akataura ⟨את⟩ mashoko ose aakataura Yahwe kunaMoshe, akaita ⟨את⟩ zviratidzo pachiso pevanhu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aa-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "zviratidzo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:42.589037630Z",
+  "model": "glm-5.3"
+}

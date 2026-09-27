@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Ndichaisa sungano yangu pakati pangu newe, uye ndichawedza ⟨את⟩ iwe zvikuru zvino kwazvo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ndichaisa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pangu"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "neparinewe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ndichawedza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvino kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:30.410117148Z",
+  "model": "glm-5.3"
+}

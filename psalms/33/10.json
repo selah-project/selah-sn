@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Yahwe akaputsa ⟨את⟩ dongorero dzematunhu, akadzikisa-zera ⟨את⟩ maonero ezvikwata zvomunhu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "akaputsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dongorero dzematunhu"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "dongorero"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dzematunhu"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "akadzikisa-zera"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "maonero"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "zvikwata zvomunhu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:35.584207658Z",
+  "model": "glm-5.3"
+}

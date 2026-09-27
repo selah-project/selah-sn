@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndichamisikidza ⟨את⟩ sungano yangu ⟨את⟩ navenyu; nyama yose haichazodambazve nemvura yechafura, uye hapachazove chafura chokuparadza nyika.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Ndichamisikidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "navenyu ⟨את⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haichazo"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "dambazve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-zve"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "yechafura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hapachazo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichave"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-zve"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "chafura"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "chokuparadza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.255442415Z",
+  "model": "glm-5.3"
+}

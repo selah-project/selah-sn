@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nokufanana kwazvose zvandiri kuratidza ⟨את⟩ iwe — ⟨את⟩ mufananidzo waMishikani ne⟨את⟩ mufananidzo wezvose zvinoshandiswa zvawo — ndokudaro muchaita ⟨izvi⟩.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "nokufanana kwazvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuratidza"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mufananidzo waMishikani"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mufananidzo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "waMishikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mufananidzo wezvose zvinoshandiswa zvawo"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mufananidzo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wezvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinoshandiswa zvawo"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ndokudaro"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muchaita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:11.761928343Z",
+  "model": "glm-5.3"
+}

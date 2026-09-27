@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Museve unopura mutauro wavo; nyepi wataurwa nomuromo wake; rune rwakanaka anotaurira ⟨את⟩ musave wake, asi mukati make anoisa kurwada kwake.",
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "Museve"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "unopura"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "mutauro wavo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nyepi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wataurwa"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "nomuromo wake"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rune rwakanaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musave wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "musave wake"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "anotaurira"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "asi mukati make"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "anoisa"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "kurwada kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:01.164945499Z",
+  "model": "glm-5.3"
+}

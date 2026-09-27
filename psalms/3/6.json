@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndini ndakatora chikuva, ndakazorora, ndakamuka, nokuti Yahwe akanditsigira.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ndakatora chikuva"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ndakazorora"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ndakamuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "akanditsigira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:20.303067046Z",
+  "model": "glm-5.3"
+}

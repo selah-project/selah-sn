@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Moshe akataura kuvana vaIsiraeri, sezvose zvatakavudzwa naYahwe ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "takavudza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:21.542361129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Munda wakapwanywa, ivhu rinoriona; nokuti chibereko chakapwanywa, waini wakaoma, mafuta aora.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "wakapwanywa"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "rinoriona"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "chakapwanywa"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "chibereko"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "wakaoma"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "waini"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "aora"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:12.738452299Z",
+  "model": "glm-5.3"
+}

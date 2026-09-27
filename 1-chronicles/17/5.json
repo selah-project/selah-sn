@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Nokuti handina kugara mumba kubva musi wandakakwidza ⟨את⟩ Israeri kusvika musi uno; ndaive ndichibva padhende kuenda padhende, uye kubva paMishikani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wandakakwidza"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "wandakakwidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "היום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ndaive"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "kubva padhende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "padhende"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "uye kubva paMishikani"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:55.467134928Z",
+  "model": "glm-5.3"
+}

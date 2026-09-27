@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "muposasa araira, uye vachatobvisa ⟨את⟩ matombo ari muwo chionho, uye vachavarasa ⟨את⟩ kunze kwedhorobha, kunzvimbo isina kuchena.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "araira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "muposasa"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "vachatobvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matombo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "muwo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chionho"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "vachavarasa"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "matombo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kwedhorobha"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kunze kwedhorobha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "isina kuchena"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:39.202152531Z",
+  "model": "glm-5.3"
+}

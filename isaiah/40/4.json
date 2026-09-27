@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Dhana zvose zvichasimudzwa, uye makomo uye marwadzi zvose zvichaderedzwa; uye zvinosvonoka zvichava zvakanangana, uye zvakaoma zvichava mutambo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Dhana"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "zvichasimudzwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye zvose"
+    },
+    {
+      "surface": "הר",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "uye marwadzi"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "zvichaderedzwa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uyе zvichava"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "zvinosvonoka"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "zvakanangana"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "uye zvakaoma"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "mutambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:54.903501979Z",
+  "model": "glm-5.3"
+}

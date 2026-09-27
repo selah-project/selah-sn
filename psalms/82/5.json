@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 82,
+  "translation": "Havana kuziva uye hazvizivikanwi navo, muchiedza vanofamba; tsigiri dzose dzepasi dzinogedezeka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Havana"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hazvi-"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "zivikanwi navo"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "muchiedza"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "vanofamba"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "dzinogedezeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "tsigiri dze-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:29.184334496Z",
+  "model": "glm-5.3"
+}

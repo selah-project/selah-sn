@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vanorumbidza kuna Yahwe nehésedhi yake, nezvishamiso zvake kuvana vevanhu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Vanorumbidza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "nehésedhi yake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezvishamiso zvake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vevanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:07.881794436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 130,
+  "translation": "Adonai, tinzwa ⟨izwi⟩ rangu; nzeve dzako ngadzive dzakagadzirira kuzwa ⟨izwi⟩ reminamato yangu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tinzwa"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ngadzive"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "nzeve dzako"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "dzakagadzirira kuzwa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kuzwa izwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "reminamato yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:01.668817824Z",
+  "model": "glm-5.3"
+}

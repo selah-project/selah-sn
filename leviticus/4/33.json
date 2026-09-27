@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Achisa ruwoko rwake pamusoro pemusoro wechibairo chetadzo, achauraya ⟨את⟩ sechibairo chetadzo panzvimpo apo anouraya ⟨את⟩ chibairo choupfuuri.",
+  "tokens": [
+    {
+      "surface": "וְסָמַךְ",
+      "gloss": "achisa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ruwoko rwake"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "ruwoko rwake"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "הַחַטָּאת",
+      "gloss": "wechibairo chetadzo"
+    },
+    {
+      "surface": "וְשָׁחַט",
+      "gloss": "achauraya"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chetadzo"
+    },
+    {
+      "surface": "לְחַטָּאת",
+      "gloss": "sechibairo chetadzo"
+    },
+    {
+      "surface": "בִּמְקוֹם",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יִשְׁחַט",
+      "gloss": "anouraya"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo choupfuuri"
+    },
+    {
+      "surface": "הָעֹלָה",
+      "gloss": "chibairo choupfuuri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:18.337927257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahwe Tsevaoti muite mutsvene; iye ngaave tyoga rwenyu, iye ngaave kutyiswa kwenu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tsevaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "muite mutsvene"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "muite mutsvene"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "tyoga rwenyu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "kutyiswa kwenu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:32.323602891Z",
+  "model": "glm-5.3"
+}

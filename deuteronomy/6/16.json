@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Musayedze ⟨את⟩ Yahwe Erohimu yenyu, sekumaedzwa kwamakaita kuMasaha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "musayedze"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "musayedze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "kwamakaita maedzwa"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "kuMasaha"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:11.279754476Z",
+  "model": "glm-5.3"
+}

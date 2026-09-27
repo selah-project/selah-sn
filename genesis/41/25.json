@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Yosefu akati kuFarao: Chiro chinguvana cheFarao chiumwe ndicho; izvo Erohimu ari kuita ⟨את⟩ akazivisa kuna Farao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "chiro chinguvana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "cheFarao"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chiumwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo Erohimu ari kuita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ari kuita"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuna Farao"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:04.656809615Z",
+  "model": "glm-5.3"
+}

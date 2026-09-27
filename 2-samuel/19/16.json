@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye mambo akadzokera, akasvika kufika kuYorudhani; uye Yudha akaenda Girigari, kuenda kunosangana nemambo, kudurutsa ⟨את⟩ mambo kudyambura ⟨את⟩ Yorudhani.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufika ku"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudhani"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "uye Yudha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Girigari"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kunosangana ne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kudurutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudhani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudhani"
+    }
+  ],
+  "timestamp": "2026-09-27T07:02:30.359754351Z",
+  "model": "glm-5.3"
+}

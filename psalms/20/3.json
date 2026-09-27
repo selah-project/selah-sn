@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Atumire rubetsero rwako kubva muntsvene, uye kubva muTsioni atsigire iwe.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Atumire"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "rubetsero rwako"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "kubva muntsvene"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "uye kubva muTsioni"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "atsigire iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:27.227074217Z",
+  "model": "glm-5.3"
+}

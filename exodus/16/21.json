@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Vakawunganidza ⟨את⟩ izvozvo mangwanani nemangwanani, mumwe nomumwe sokudya kwake; uye zuva rikapisa, rakanyauka.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "vakawunganidza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izvozvo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nemangwanani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "so"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "kudya kwake"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "rikapisa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "rakanyauka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:04.187144087Z",
+  "model": "glm-5.3"
+}

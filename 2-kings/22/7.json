@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Asi ndarama yakapiwa muwoko wavo haiverengwi ⟨את⟩ ivo, nokuti vanoita nokuvimbika.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "verengwi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "yakapiwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "muwoko wavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "nokuvimbika"
+    },
+    {
+      "surface": "הם",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "vanoita"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:33.955336228Z",
+  "model": "glm-5.3"
+}

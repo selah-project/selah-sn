@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Asi sokudya kweiya inongoreva yemusango nedombo remusango, ndokudya kwacho: mutsvina nemutsvene vose vanozvidya pamwe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "asi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kudya kwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya inongoreva yemusango"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "iya inongoreva yemusango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dombo remusango"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "dombo remusango"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokudya kwacho"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "vanozvidya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "mutsvina"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "nemutsvene"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "vanzvidya"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:36.548998716Z",
+  "model": "glm-5.3"
+}

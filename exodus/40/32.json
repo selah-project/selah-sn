@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Pakuuya kwavo kuna tendi yokusangana, nokusvika kwavo kuna ⟨את⟩ chibairo, vaizogeza; sokurayira kwaYahwe ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "pakuuya kwavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "nokusvika kwavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "vaizogeza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuita"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:57.796309715Z",
+  "model": "glm-5.3"
+}

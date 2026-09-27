@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Akaisa ⟨את⟩ mumwe muBheti-eri, uye ⟨את⟩ mumwe akaisa munaDhani.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "muBheti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mumwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "munaDhani"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:21.771856975Z",
+  "model": "glm-5.3"
+}

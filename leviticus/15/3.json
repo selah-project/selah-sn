@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye uno ndiwo hutsvina hwake muzovu rwake: patino mubili wake ⟨את⟩ zovu rwake, kana mubili wake wakavharwa kubva kuzovu rwake — hutsvina hwake ndihwo.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Uye uno"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "hutsvina hwake"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "muzovu rwake"
+    },
+    {
+      "surface": "רר",
+      "gloss": "patino"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mubili wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zovu rwake"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "zovu rwake"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "wakavharwa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mubili wake"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "kubva kuzovu rwake"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "hutsvina hwake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndihwo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:51:11.810331678Z",
+  "model": "glm-5.3"
+}

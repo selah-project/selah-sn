@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mambo akati kwaari: Chii chinokutsamwisa? Uye akadavira: Mukadzi uyu akati kunditi: Pa ⟨את⟩ mwana wako kuti timudye nhasi, uye ⟨את⟩ mwana wangu tichamudya mangwana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chinokutsamwisa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akadavira"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kunditi"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wako"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "kuti timudye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mwana wangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wangu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tichamudya"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mangwana"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:44.019046303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Moyo wangu ngauve wakazara muzvitemo zvako, kuti ndisanyadziswe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ngauve"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wakazara"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "muzvitemo zvako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isa-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ndisanyadziswe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:31.500706352Z",
+  "model": "glm-5.3"
+}

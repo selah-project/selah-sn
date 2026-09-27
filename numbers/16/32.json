@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Ivhu rikavhura ⟨את⟩ muromo waro, rikamedza iwo, ne⟨את⟩ misha yavo, ne⟨את⟩ vanhu vose vaKorahi, ne⟨את⟩ pfuma yose.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "rikavhura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muromo waro"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muromo waro"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "rikamedza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "misha yavo"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "misha yavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va-"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "pfuma yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "pfuma"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:01.170901405Z",
+  "model": "glm-5.3"
+}

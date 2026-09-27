@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye vaJudha vakarwisa vavengi vavo vose nokurova kwemupa, nokuuraya, nokuparadza; uye vakaita kuvavan vavo sokuda kwavo.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "vakarwisa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "vaJudha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "vavengi vavo"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "nokurova"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kwemupa"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "nokuuraya"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "nokuparadza"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "kuvavan vavo"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "sokuda kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:01.568766222Z",
+  "model": "glm-5.3"
+}

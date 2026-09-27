@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Asi watisiya waitinyadzisa, uye haubudi mumauto edu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "watisiya"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "waitinyadzisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ubudi"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "mumauto edu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:20.191560793Z",
+  "model": "glm-5.3"
+}

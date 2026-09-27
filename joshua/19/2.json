@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye yaive yavo, muzvinhwa zvavo: Bheereshebha, kana Shebha, neMorada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yavo"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "muzvinhwa zvavo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bheere-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shebha"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "kana Shebha"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "neMorada"
+    }
+  ],
+  "timestamp": "2026-09-27T06:28:56.814338978Z",
+  "model": "glm-5.3"
+}

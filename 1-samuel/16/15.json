@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Varanda vaShaure vakati kwaari: Ona, ndapota, mweya wakashata waErohimu wurikutinyeredza.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "vaShaure"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "wakashata"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "wurikutinyeredza"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:18.280225436Z",
+  "model": "glm-5.3"
+}

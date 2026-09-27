@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "⟨Munda⟩ uyo waAbhurahama akautenga kubva kuna ⟨את⟩ vana vaChiti; ipapo vakaviga Abhurahama neSara mukadzi wake.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "munda uyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "akautenga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva kuna⟨את⟩",
+      "marks": "vana vaChiti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chiti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "vakaviga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "neSara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:12.264623688Z",
+  "model": "glm-5.3"
+}

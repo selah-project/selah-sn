@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Yahwe akati kuna Moshe: Ona, ndinokuisa iwe semudzimu kuna Farao, uye Aroni mukoma wako achava muporofita wako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ndinokuisa iwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "semudzimu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuna Farao"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "uye Aroni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mukoma wako"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "muporofita wako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:15.838245732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Ini ndakazvidzvarira, handina kuvhura muromo wangu; nokuti iwe ndiwe wakaita izvi.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ndakazvidzvarira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "kuvhura"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakaita izvi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:29.741953088Z",
+  "model": "glm-5.3"
+}

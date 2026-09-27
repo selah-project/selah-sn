@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Akamhanyisa, akadururira chibharo chake muno mukombe wokunwisa, akamhanyazve kuna tsime kuchera, aka ⟨את⟩ chera ⟨את⟩ mvura yengamira dzake dzose.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "akamhanyisa"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "akadururira"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "chibharo chake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muno muna"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "mukombe wokunwisa"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "akamhanya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "tsime"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "kuchera"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "akachera"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dzose dza"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "ngamira dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:46.512617455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akati: Yehudha anokwira; ona, ndakapa ⟨את⟩ ⟨the⟩ nyika mumaoko ake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "anokwira"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mumaoko ake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:12.874314906Z",
+  "model": "glm-5.3"
+}

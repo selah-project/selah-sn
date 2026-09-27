@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe, Erohimu yevadzi venyu, awedzere pamusoro penyu kimuri churu chiuru, atore rupoko ⟨את⟩ imi sokutaura kwake kwamuri!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "yevadzi venyu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "awedzere"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "kimuri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "chiuru"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "atore rupoko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kutaura kwake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:36.616164958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Asi nokudaro ndakamisa iwe, kuti ndiratidze iwe ⟨את⟩ simba rangu, uye kuti zita rangu ritaridzwa pasi pose.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "asi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ndakamisa iwe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ndiratidze iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simba rangu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "uye kuti"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ritaridzwa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "zita rangu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pasi pose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:54.118395655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Tora imwe ichava kuve ⟨⟨kune⟩⟩ muzvarwa wenyika, nogeri anogara mumashoko mennyu.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora imwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ichava kuve"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "kune muzvarwa wenyika"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "nogeri"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mumashoko mennyu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:30.768609081Z",
+  "model": "glm-5.3"
+}

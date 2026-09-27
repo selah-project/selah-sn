@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Usakanganwa izwi revavengi vako: ruzha rwevakukwira iwe rwuri kukwira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kanganwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "revavengi vako"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "rwevakukwira iwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rwuri kukwira"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nokusiangaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:51.004711664Z",
+  "model": "glm-5.3"
+}

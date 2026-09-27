@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vochengete chengeto chake, nechengeto yemubatanidzwa wose, pamberi petende yekusangana, kuchaita ⟨את⟩ basa reMishikani.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Vochengete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chengeto chake"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "chengeto chake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chengeto yemubatanidzwa"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chengeto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "yemubatanidzwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yekusangana"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuchaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa reMishikani"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "basa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "reMishikani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:47.515427078Z",
+  "model": "glm-5.3"
+}

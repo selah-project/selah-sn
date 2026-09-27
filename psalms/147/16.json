@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anopa sinowo senga ufunde, chando semadhoti anopararira.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sinowo"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "senga ufunde"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "chando"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "semadhoti"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "anopararira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.241082411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Simuka, Yahwe, mukutsamwa kwako; simudzika nokutsamwa kwevatsoni vangu; uzorore kunditarira mutemo wawakarayira.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "simuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mukutsamwa kwako"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "simudzika"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "nokutsamwa kwe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "vatsoni vangu"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "uzorore"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kunditarira"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wawakarayira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:28.098988436Z",
+  "model": "glm-5.3"
+}

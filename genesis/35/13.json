@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Erohimu akakwidza kubva pamusoro pake, munzvimbo yaatakataurirana naye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akakwidza"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kubva pamusoro pake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "atakataurirana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:14.746789334Z",
+  "model": "glm-5.3"
+}

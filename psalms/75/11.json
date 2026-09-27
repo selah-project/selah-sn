@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Nyanga dzose dzevasvibwa ndinodzidimbura, asi nyanga dzomutsvene dzichasimudzwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dzevasvibwa"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ndinodzidimbura"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "dzichasimudzwa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "dzomutsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:51.939733127Z",
+  "model": "glm-5.3"
+}

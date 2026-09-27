@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye kana akaparadza ⟨את⟩ mazwi acho mushure mekuva aaanzwa, ndiye achatemba ⟨את⟩ mhosva yake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "akaparadza"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "akaparadza zvachose"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi acho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuva aaanzwa"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "achatemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhosva yake"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mhosva yake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:45.536433454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 15:36",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Misangano yose yakamuburitsa ⟨אתו⟩ kunze pemusha, yakamboora ⟨אתו⟩ nemabzwe, akafa; sokuda kwaYahwe kwakaita kuna ⟨את⟩ Mozhe.",
+  "tokens": [
+    {
+      "surface": "ויציאו",
+      "gloss": "yakamuburitsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "misangano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pemusha"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "yakamboora"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "nemabzwe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwakarayirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mozhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:00:00.061022524Z",
+  "model": "glm-5.3"
+}

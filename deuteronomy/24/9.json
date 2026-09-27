@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Rangarira ⟨את⟩ izvo Yahwe Erohimu wako akaita Miriamu, panzira, mukubuda kwenyu kuIgipita.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Rangarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo (Miriam)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriamu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mukubuda kwenyu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuIgipita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:11.797648671Z",
+  "model": "glm-5.3"
+}

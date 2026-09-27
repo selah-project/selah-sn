@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Iyezvino simukai, uye mudarike imi ⟨את⟩ rukova reZeredhi; ndipo taka\ndarika ⟨את⟩ rukova reZeredhi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Iyezvino"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "simukai"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "mudarike"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rukova reZeredhi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rukova"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "reZeredhi"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "taka\ndarika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rukova reZeredhi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rukova"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "reZeredhi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:53:30.058870146Z",
+  "model": "glm-5.3"
+}

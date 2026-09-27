@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Vavengi vangu vanoti zvakaipa ⟨zvandiri⟩: Riñi achafa, uye zita rake richaparara?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Vavengi vangu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vanoti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨zvandiri⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Riñi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "achafa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "richaparara"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:33.440198675Z",
+  "model": "glm-5.3"
+}

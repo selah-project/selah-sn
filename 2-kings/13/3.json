@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Kutsamwa kwaYahwe kwakatsamwarira Isiraeri, akavadzikinura kuuma okuHazaeri, mambo weAramu, nokuuma waBheni-Hadhadi, mukor waHazaeri, mazuva ose.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kwakatsamwarira"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "akavadzikinura"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kuuma oku"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "weAramu"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nokuuma oku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Bheni-Hadhadi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukor"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "waHazaeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:11.155937185Z",
+  "model": "glm-5.3"
+}

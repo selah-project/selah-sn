@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Usaita ⟨את⟩ muranda wako wechikadzi mwanasikani waBeliyari; nokuti kubva kukushungurudzwa kwangu nekukava kwangu ndataura kusvika iye zvino.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "usaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muranda wako wechikadzi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "muranda wako wechikadzi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mwanasikani wa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikani"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kubva kukuwanda"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kwekushungurudzwa kwangu"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "nekukava kwangu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndataura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "iye zvino"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:56.449253789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 129,
+  "translation": "Yahwe ⟨ari⟩ mururami; akadimura shonga dzevasha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "akadimura"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "shonga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "dzevasha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:01.841514122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akaisa ⟨את⟩ azo mudenga rematenga, kuti dzipe chiedza pamusoro pepasi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "mudenga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "rematenga"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "kuti dzipe chiedza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:19.890563367Z",
+  "model": "glm-5.3"
+}

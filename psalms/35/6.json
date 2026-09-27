@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nzira yavo ive rima nekutsvedzerera, uye mutumwa waYahwe achivateverera.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ive"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "Nzira yavo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "nekutsvedzerera"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "uye mutumwa wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "achivateverera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:18.064073102Z",
+  "model": "glm-5.3"
+}

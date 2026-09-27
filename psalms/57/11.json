@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Nokuti hesedhi yako yakakura kusvika matenga; chokwadi chako chinosvika makore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "yakakura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "chinosvika"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "chokwadi chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:59.960263222Z",
+  "model": "glm-5.3"
+}

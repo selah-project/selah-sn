@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Kwatakutarwa vanoita chakaipa: vakadonha, vakapisikidzwa, uye havagone kumuka.",
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "kwatakutarwa"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "vakadonha"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "vakapisikidzwa"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "uye havagone"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "(kugona)"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "kumuka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:23.330776820Z",
+  "model": "glm-5.3"
+}

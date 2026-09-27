@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Vana vaIsraeri vakapa vaRevi ⟨את⟩ maguta nematunze avo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "vaRevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze avo"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "matunze avo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:18.775341524Z",
+  "model": "glm-5.3"
+}

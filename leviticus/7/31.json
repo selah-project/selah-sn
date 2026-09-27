@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye mupristi achatsvina ⟨את⟩ mafuta paaltari; uye chifuva chichava chaAroni navana vake.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "achatsvina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "paaltari"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chichava"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "chifuva"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "chaAroni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "navana vake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:57.185914399Z",
+  "model": "glm-5.3"
+}

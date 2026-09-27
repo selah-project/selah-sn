@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nekuti ⟨את⟩ zviyedzwa zviviri, naro ⟨את⟩ mafuta ari pamusoro pazvo, ari pamusoro pechidyarwa, naro ⟨את⟩ chidimbu chiri pamusoro pechiropa — pamwe nezviyedzwa achachibvisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zviyedzwa zviviri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zviviri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "zviyedzwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "pamusoro pazvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "chidyarwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chidimbu"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "chidimbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "chiropa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "zviyedzwa"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "achachibvisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:05.867807898Z",
+  "model": "glm-5.3"
+}

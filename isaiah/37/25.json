@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Ini ndakatsvina mitsiva, ndikanwa mvura; uye netsoka dzangu ndakazora masango ese emuMazambabwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ndakatsvina mitsiva"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ndikanwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "ndakazora"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "nechiso che"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "tsoka dzangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ese"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "masango"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "muMazambabwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:39.420322755Z",
+  "model": "glm-5.3"
+}

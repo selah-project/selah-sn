@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Paroh akati: Ona, vhuwandu ⟨ndivhuwandu⟩ vhuru Izura nhasi vhuri vazhinji, imi muchavaita kuti varege midziyo yavo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vazhinji"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "muchaaita kuti aende"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "avo"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "kubva mitengo yavo yezvibvumairo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:07.417670788Z",
+  "model": "glm-5.3"
+}

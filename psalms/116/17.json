@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Kwamuri ndichapasa chibairo chokutenda, ndichadaidza zita raYahwe.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kwamuri"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ndichapasa chibairo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "chokutenda"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ndichadaidza zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndichadaidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:27.168363618Z",
+  "model": "glm-5.3"
+}

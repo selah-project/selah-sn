@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Makufara munhu wakaisa Yahwe sevimbiso yake, uye haana kutendeuka kune vakazvidzikisa-pfuura, kana kune avo anodzoka kunhema.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Makufara"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wakaisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "sevimbiso yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kutendeuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "vakazvidzikisa-pfuura"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "kana kune avo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kunhema"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:09.859305571Z",
+  "model": "glm-5.3"
+}

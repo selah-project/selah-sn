@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akada ivhu rakoma rugwakuuti nyika, uye kuunganidzwa kwemvura akada kuti Mahwahvi. Erohimu akaona kuti zvakanaka.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ivhu rakoma"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "kuunganidzwa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "kwemvura"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akada kuti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mahwahvi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:38.824288772Z",
+  "model": "glm-5.3"
+}

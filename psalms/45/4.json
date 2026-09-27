@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Vanosungwa bvupa rake pamusoro pekumusoro kwerwokumberi, semadzitaurwa iwayo; bvena rake nomufaro.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "vanosungwa bvupa rake"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "bvupa rako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kumusoro kwerwokumberi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "iwe munhu wemasimba"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kukudzwa kwako"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "nokutaridzika kwako kukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.888513355Z",
+  "model": "glm-5.3"
+}

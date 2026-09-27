@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Mhumhumha weAshuru akatambochora ⟨את⟩ Isiraeri kuAshuru, akavaita mugari muHarahi nemuHabhora, panaRwizi reGhozani, nemaguta eMhadhi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "akatambochora"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mhumhumha"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "kuAshuru"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akavaita mugari"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "muHarahi"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "nemuHabhora"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "panaRwizi"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "reGhozani"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "nemaguta"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "eMhadhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:34.116549920Z",
+  "model": "glm-5.3"
+}

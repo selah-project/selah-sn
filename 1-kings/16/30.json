@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvino Ahabhu mukorwa waOmiri akaita zvakaipa mumeso aYahwe, kupfuura zvose zvaiitwa navo vakamushure.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "waOmiri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kupfuura zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "vakamushure"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:02.609362255Z",
+  "model": "glm-5.3"
+}

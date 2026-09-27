@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Ndichiti mune runyararo rwangu: Handisi kusvetuka nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndichiti"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndaka"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "mune runyararo rwangu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Handisi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kusvetuka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:43.616776303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndakaitira ini mabanze nemitsvene yemichero, ndokudyara mumo miti yemichero yose.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ndakaita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mabanze"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "nemitsvene yemichero"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ndokudyara"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mumo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yemichero"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:17.344844Z",
+  "model": "glm-5.3"
+}

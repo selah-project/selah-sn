@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 7:7",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye Yehoshua akati: Aha, Adonai Yahwe, neiko wakapfuudza vanhu ava kuuripi kwakapfuura Yorodhano, kuti utipe munmaoko emuEmori kuti atiparadze? Wakadai taida kugara tiri kudivi rimwe raYorodhano!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "neiko"
+    },
+    {
+      "surface": "העברת",
+      "gloss": "wakapfuudza"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "kuuripi kwakapfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu ava"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodhano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodhano"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti utipe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ isu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "munmaoko"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emuEmori"
+    },
+    {
+      "surface": "להאבידנו",
+      "gloss": "kuti atiparadze"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "wakadai"
+    },
+    {
+      "surface": "הואלנו",
+      "gloss": "taida"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kudivi rimwe ra"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodhano"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:55.129052678Z",
+  "model": "glm-5.3"
+}

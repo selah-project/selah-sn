@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Er anonzwa, uye ovapindura, uye ⟨uyo⟩ achagara kubva kare. Sera. ⟨Avo⟩ asina shanduko dzavo, uye havatyi Erohimu.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "anzwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ovapindura"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kubva kare"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "asina"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "shanduko"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dzavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:27.618878817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Nzwa izwi rezvikumbiro zvangu pandinokuchemera, pandinokwidza maoko angu kuchikwata chako chitsvene.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nzwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "rezvikumbiro zvangu"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "pandinokuchemera"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "pandinokwidza"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maoko angu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "chikwata chako"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "chitsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:03.700063539Z",
+  "model": "glm-5.3"
+}

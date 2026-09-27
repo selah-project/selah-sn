@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Naivo chengetedzai zvikuru ⟨את⟩ mweya yenyu, kuti mide ⟨את⟩ Yahwe Erohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "chengetedzai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "mweya yenyu"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kuti mide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:58.056311516Z",
+  "model": "glm-5.3"
+}

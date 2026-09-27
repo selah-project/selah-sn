@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Kana ndikakanganwa iwe, Yerushalema, ruoko rwangu rurudyi rukanganwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ndikakanganwa iwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "rukanganwe"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ruoko rwangu rurudyi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:21.346218063Z",
+  "model": "glm-5.3"
+}

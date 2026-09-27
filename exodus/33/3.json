@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Kunyika inoyerera mukaka uye uchi: nokuti handisi kukwira mukati mako, nokuti uri vanhu vane gota rasimba, kana ndikakuparadza munzira.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kunyika ino"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "inoyerera"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mukaka"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "uye uchi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handisi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "kukwira"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mukati mako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "rasimba"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "gota"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ndikakuparadza"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:39.663857Z",
+  "model": "glm-5.3"
+}

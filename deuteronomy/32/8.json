@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Paakaerekana nhaka Eriyoni pamatunhu, paakaaparadzana vana vevanhu, akamisa muganhu wevanhu zvizhinzi nenhamba yevana vaIsiraeri.",
+  "tokens": [
+    {
+      "surface": "בְּהַנְחֵ֤ל",
+      "gloss": "paakaerekana nhaka"
+    },
+    {
+      "surface": "עֶלְיוֹן֙",
+      "gloss": "Eriyoni"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "matunhu"
+    },
+    {
+      "surface": "בְּהַפְרִיד֖וֹ",
+      "gloss": "paakaaparadzana"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "vevanhu"
+    },
+    {
+      "surface": "יַצֵּב֙",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "גְּבֻלֹ֣ת",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "עַמִּ֔ים",
+      "gloss": "wevanhu zvizhinzi"
+    },
+    {
+      "surface": "לְמִסְפַּ֖ר",
+      "gloss": "nenhamba"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "vaIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:30.901423356Z",
+  "model": "glm-5.3"
+}

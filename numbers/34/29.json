@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Ava ndivo vakarayirwa naYahwe kugovanisa nhaka ⟨את⟩ vana vaIsraeri munyika yeKanana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ava"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "vakarayirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "kugovanisa nhaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yeKanana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:07:07.455551008Z",
+  "model": "glm-5.3"
+}

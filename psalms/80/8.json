@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Erohimu Tsevaoti, tidzorerei, uye uvhenekese chiso chako, tokaponeswa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tidzorerei"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "uye uvhenekese"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "tokaponeswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:23.465770856Z",
+  "model": "glm-5.3"
+}

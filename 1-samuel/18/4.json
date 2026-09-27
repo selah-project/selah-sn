@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yehonatani akabvisa ⟨את⟩ hembe yaiva paari, ndokupa Dhavhidhi, nomahomwe ake, kusvika mopa wake, kusvika uta hwake, nokusvika bhande rake.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaiva"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ndokupa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "nomahomwe ake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mopa wake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "uta hwake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "bhande rake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:48.962827811Z",
+  "model": "glm-5.3"
+}

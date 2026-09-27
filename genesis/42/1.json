@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yaakobha akaona kuti kune mbeu muMitsirayimu, uye Yaakobha akati kuvana vake: Ndeiyi muchitarisana?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kune"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muMitsirayimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kuvana vake"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ndeiyi"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "muchitarisana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:08.528209904Z",
+  "model": "glm-5.3"
+}

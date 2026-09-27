@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndinokurairai ⟨את⟩ imi mabanana eYerushalema: musamukise, musadzandise ⟨את⟩ rudo kusvika riine chido.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ndinokurairai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mabanana eYerushalema"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mabanana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalema"
+    },
+    {
+      "surface": "מה",
+      "gloss": "musamukise"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "musamukise"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "musadzandise"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "musadzandise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rudo"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "rudo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "riine chido"
+    }
+  ],
+  "timestamp": "2026-09-27T09:48:45.593128099Z",
+  "model": "glm-5.3"
+}

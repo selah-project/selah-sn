@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye mune ivhu rose rerutaro rwenyu, mudzikinuro munopa kundiro yepasi.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "mune ... rose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "rerutaro rwenyu"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "mudzikinuro"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "munopa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kundiro yepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:02.527204761Z",
+  "model": "glm-5.3"
+}

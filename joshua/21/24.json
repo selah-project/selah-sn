@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayaroni nemiganhu yayo, ⟨את⟩ Gathi-Rimonu nemiganhu yayo — matauni mana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayaroni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayaroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "miganhu yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "miganhu yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gathi-Rimonu"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "miganhu yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "miganhu yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "matauni"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:23.677286467Z",
+  "model": "glm-5.3"
+}

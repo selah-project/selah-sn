@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Maguta ose amuchapa maRevhisi: makumi mana nesere maguta; iwo ⟨את⟩ pamwe chete uye ⟨את⟩ nharaunda dzawo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "Maguta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "muchapa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "maRevhisi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "nesere"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "iwo ⟨את⟩",
+      "marks": "maguta (ose)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "nharaunda dzawo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "nharaunda dzawo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:26.617825329Z",
+  "model": "glm-5.3"
+}

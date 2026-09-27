@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Chinhu chese chisina ⟨senapiri⟩ ne⟨keshikesheti⟩ mumvura — sheketi ⟨ndechi⟩ chokwamuri.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chinhu chese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chisina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "-sina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chi-"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "senapiri"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "nekeshikesheti"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheketi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndechi-"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "chokwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:25.593699145Z",
+  "model": "glm-5.3"
+}

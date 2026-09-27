@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "⟨את⟩ Ini akatungamidira, akaendesa ⟨nane⟩ murima, uye kwete chiedza.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Ini",
+      "marks": "Ini"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "akatungamidira"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaendesa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "murima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye kwete"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:50:27.583380492Z",
+  "model": "glm-5.3"
+}

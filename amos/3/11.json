@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokudaro zvakadaro Adonai Yahwe akataura: Muvengi ⟨achazvitsva⟩ nyika, achidzikisa kubva kwauri simba rako, uye madzimba ako achabiwa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nokudaro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Muvengi"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "achazvitsva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "והוריד",
+      "gloss": "achidzikisa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kubva kwauri"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "simba rako"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "achabiwa"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "madzimba ako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:40:03.690858119Z",
+  "model": "glm-5.3"
+}

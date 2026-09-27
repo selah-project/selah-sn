@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye Yahwe akati kunaYehoshua: Usatye izvi, nokuti ndakakupa ⟨את⟩ mumaoko ako; hapana mumwe wavo achamira pachiso pako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mumaoko ako"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "ndakakupa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "achamira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wavo"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "pachiso pako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:54:56.657010119Z",
+  "model": "glm-5.3"
+}

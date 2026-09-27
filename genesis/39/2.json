@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Yahwe akanga ari naYosefu, ndipo akava munhu anobudirira; akaigara mumba mwa⟨the⟩tenzi wake, uyu weMuitraimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "anobudirira"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akaigara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba mwa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tenzi wake"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "uyu weMuitraimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:59.972186231Z",
+  "model": "glm-5.3"
+}

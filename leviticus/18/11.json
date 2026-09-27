@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Mhembwe yemwanasikana womukadzi wababa wako, woberekiwa nababa wako — ndiye ⟨ari⟩ hanzvadzi yako; usafumure mhembwe yake.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַת",
+      "gloss": "mhembwe"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "yemwanasikana"
+    },
+    {
+      "surface": "אֵשֶׁת",
+      "gloss": "womukadzi"
+    },
+    {
+      "surface": "אָבִיךָ",
+      "gloss": "wababa wako"
+    },
+    {
+      "surface": "מוֹלֶדֶת",
+      "gloss": "woberekiwa"
+    },
+    {
+      "surface": "אָבִיךָ",
+      "gloss": "nababa wako"
+    },
+    {
+      "surface": "אֲחֹתְךָ",
+      "gloss": "hanzvadzi yako"
+    },
+    {
+      "surface": "הִוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תְגַלֵּלה",
+      "gloss": "fumure"
+    },
+    {
+      "surface": "עֶרְוָתָהּ",
+      "gloss": "mhembwe yake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:27.142915376Z",
+  "model": "glm-5.3"
+}

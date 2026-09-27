@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Raira ⟨את⟩ vana vaIsraeri kuti vatore kwauri mafuta emaorivhi, yakachena, yakanyerwa, yechiedza, kuitira kuti mwenje utemberere zvichisingaperi.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Raira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "vatore"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "emaorivhi"
+    },
+    {
+      "surface": "זך",
+      "gloss": "yakachena"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "yakanyerwa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "yechiedza"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "kutima utemberere"
+    },
+    {
+      "surface": "נר",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zvichisingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:00.023167367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye Babhivhoni, chidiso chemamuta, rounzano rwekuzvitutumadza kwevaKashidhi, ichava sekudzikwa kweErohimu ⟨את⟩ Sodhomu ne⟨את⟩ Ghomora.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babhivhoni"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "chidiso"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "chemamuta"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "rounzano"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kuzvitutumadza"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kwevaKashidhi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sekudzikwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kweErohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodhomu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodhomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Ghomora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Ghomora"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:49.083300941Z",
+  "model": "glm-5.3"
+}

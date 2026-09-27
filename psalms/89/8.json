@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Er anotyisa mune dunganeko revatsvene hombe, uye anokatyisa vakomberedze vake ose.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "anotyisa"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "mune dunganeko"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "revatsvene"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hombe"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "uye anokatyisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "vakomberedze vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.104494442Z",
+  "model": "glm-5.3"
+}

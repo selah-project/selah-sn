@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndeapi mubairo une murairidzi kupfuura ipwere? Kana murombo anoziva kufamba munzira yose pamberi pevazvose vipenyu, ane chimwe here?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ndeapi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chimwe here"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "mubairo une"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "murairidzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kupfuura"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ipwere"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ane chimwe here"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "murombo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "kufamba munzira yose"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vazvose vipenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:57.423074233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 31:9",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Nokuchema vachauya, uye nenzombo dzichindira ndichavataura; ndichavatungamirira kumitunhu yemvura, munzira yakatwasuka, havazotsvakiridza kukanganywa mariri; nokuti ndave baba yaIsraeri, uye Efrayimu ndivo mukoma wangu.",
+  "tokens": [
+    {
+      "surface": "בבכי",
+      "gloss": "nokuchema"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vachauya"
+    },
+    {
+      "surface": "ובתחנונים",
+      "gloss": "uenenzombo"
+    },
+    {
+      "surface": "אובילם",
+      "gloss": "ndichavataura"
+    },
+    {
+      "surface": "אוליכם",
+      "gloss": "ndichavatungamirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "mitunhu ye"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "yakatwasuka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havazotsvakiridza kukanganywa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "mariri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kukanganywa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndave"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "baba yaIsraeri"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "uye Efrayimu"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "mukoma wangu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndivo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:02:27.921775973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "kuti iyi ive chiratidzo pakati penyu; pavana venyu vachabvunza mune mazuva anotevera vachiti: Matombo aya anorevei kwamuri?",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ive"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "pakati penyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "vachabvunza"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vana venyu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mazuva anotevera"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "anorevei"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "Matombo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:02.887195320Z",
+  "model": "glm-5.3"
+}

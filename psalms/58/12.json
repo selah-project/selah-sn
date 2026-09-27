@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Munhu achati: zvirokwazo, chipunu chemutsvene; zvirokwazo, pane Erohimu anotonga pasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "achati"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zvirokwazo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "chipunu"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "chemutsvene"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zvirokwazo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "pane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.153155708Z",
+  "model": "glm-5.3"
+}

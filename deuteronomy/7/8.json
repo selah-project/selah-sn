@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti kubva kukuda kwaYahwe ⟨את⟩ imi, uye kucherechedza kwake ⟨את⟩ chitsidzo chaakatsidzira madzibaba enyu, Yahwe akabuditsa ⟨את⟩ imi neruoko rakaomesa, uye akakuninunurai kubva mumba wevaranda, muruoko waFarao mambo weIjipita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "kubva kukuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "kucherechedza kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsidzo"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "chitsidzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha-"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "akatsidzira"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "madzibaba enyu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "akabuditsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "neruoko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "rakaomesa"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "akakuninunurai"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kubva mumba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "wevaranda"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "muruoko wa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:39.595367859Z",
+  "model": "glm-5.3"
+}

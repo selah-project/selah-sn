@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Moshe akanyora ⟨את⟩ tora iyi, akaipa kuchibvumirwa vatumi, vana vaRivhi, vanatakura ⟨את⟩ chivande chesungano yaYahwe, nokuwanda hwose hwemadzikuru eIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akanyora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tora iyi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "akaipa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "vatendi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "vaRivhi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "vanatakura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivande chesungano yaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivande"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nokuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "madzikuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:45.601891009Z",
+  "model": "glm-5.3"
+}

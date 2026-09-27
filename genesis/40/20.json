@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Zvino nguva yechitatu, zuva rokuzvarwa kwaParhao, akagadzira doro kuvashanda vake vose; akasimudza ⟨את⟩ musoro womutevedzeri wemadrwiro, uye ⟨את⟩ musoro womutevedzeri wevabhai, pakati pevashanda vake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino nguva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "rechitatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "rokuzvarwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parhao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhao"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "doro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku-vose"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "vashanda vake"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro womutevedzeri wemadrwiro"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "womutevedzeri"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wemadrwiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "musoro womutevedzeri wevabhai"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "womutevedzeri"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wevabhai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe-"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "vashanda vake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:11.850855493Z",
+  "model": "glm-5.3"
+}

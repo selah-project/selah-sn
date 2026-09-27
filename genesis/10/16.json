@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ne⟨את⟩ Vevehusi, ne⟨את⟩ Emori, ne⟨את⟩ Girigashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Vevehusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Vevehusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Girigashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girigashi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:38.871694277Z",
+  "model": "glm-5.3"
+}

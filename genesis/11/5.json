@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akadzika kuti aaone ⟨את⟩ guta nei ⟨את⟩ dongoroso, iro vana vevanhu vakavaka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akadzika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kuti aaone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "dongoroso"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "dongoroso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "vakavaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "vevanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:15.849995230Z",
+  "model": "glm-5.3"
+}

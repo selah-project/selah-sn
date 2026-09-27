@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Hesedhi rangu nomasvingo angu, nzvimbo yakakwirira yangu nepanondinunhurwa, nhoo yangu, ndokuvimbira munaive; anotevedza vanhu vangu pasi pangu.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesedhi rangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nomasvingo angu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "nzvimbo yakakwirira yangu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nepanondinunhurwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ndangu⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "nhoo yangu"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "munaive"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndokuvimbira"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "anotevedza"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pasi pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:06.617078594Z",
+  "model": "glm-5.3"
+}

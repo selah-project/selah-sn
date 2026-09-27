@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "akamira, aka⟨את⟩ ropafadza muunganidzwa wose weIsraeri nerunhare hombe, achiti:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muunganidzwa wose weIsraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "muunganidzwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nerunhare"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hombe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:48.729583228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 9:14",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvakanyanya sei kuti ndingapindure ⟨iye⟩, ndisarudza mashoko angu naye?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "zvakanyanya sei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "ndingapindure"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "ndisarudza"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko angu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:35:03.148860200Z",
+  "model": "glm-5.3"
+}

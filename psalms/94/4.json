@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Vanobuditsa, vachitaura mashoko akaomera; vose vanoita zvakaipa vanozvikudza.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Vanobuditsa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vachitaura"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mashoko akaomera"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "vanozvikudza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:23.906063635Z",
+  "model": "glm-5.3"
+}

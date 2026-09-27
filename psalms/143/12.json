@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 143,
+  "translation": "Nehesedhi yako uparadze vavengi vangu, uye waunoparadza vose vanorwadzisa upenyu hwangu; nokuti ini ndiri mukanda wako.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Nehesedhi yako"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "uparadze"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "uye waunoparadza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "vanorwadzisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ndiri mukanda wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:46.794032864Z",
+  "model": "glm-5.3"
+}

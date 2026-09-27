@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Wakatsamisa kure vanozivikanwa neni kuburikidza neni; wakandiisa kuti ndive zvinotyisa kwavari; ndakavharwa, ndokuti handigone kubuda.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "wakatsamisa kure"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "vanozivikanwa neni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuburikidza neni"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "wakandiisa"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "zvinotyisa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ndakavharwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndokuti handigone"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kubuda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:10.607180363Z",
+  "model": "glm-5.3"
+}

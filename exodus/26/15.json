@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye ungoita ⟨את⟩ matanda e⟨the⟩ Mishikani, emuti weshiti, achiimirira.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ungoita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanda"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "e⟨the⟩ Mishikani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "emuti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weshiti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "achiimirira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:35.574606432Z",
+  "model": "glm-5.3"
+}

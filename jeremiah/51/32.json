@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "uye nzira dzekuyambuka dzakatorwa, uye ⟨את⟩ madziva vakapisa nomoto, uye varwi vehondo vakavhunduka.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "uye nzira dzekuyambuka"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "dzakatorwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madziva"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "madziva"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "vakapisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "uye varwi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "vehondo"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "vakavhunduka"
+    }
+  ],
+  "timestamp": "2026-09-27T11:09:45.855701088Z",
+  "model": "glm-5.3"
+}

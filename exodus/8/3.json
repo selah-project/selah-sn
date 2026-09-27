@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye madhokita akaita saizvozvo nelate yavo, vakasimudza ⟨את⟩ dzetsapfandana pamusoro penyika yeMitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "madhokita"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "nelate yavo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vakasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzetsapfandana"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dzetsapfandana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:01.746323606Z",
+  "model": "glm-5.3"
+}

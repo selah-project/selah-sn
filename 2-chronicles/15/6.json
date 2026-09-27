@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Rudzi rakagurirwa nerudzi, uye guta neguta, nokuti Erohimu akaita mhirizhonga pavavo nemutambudziko wose.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "rakagurirwa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "nerudzi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "neguta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "akaita mhirizhonga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mutambudziko wose"
+    }
+  ],
+  "timestamp": "2026-09-27T11:23:53.759143564Z",
+  "model": "glm-5.3"
+}

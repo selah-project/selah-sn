@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Yahwe wakakudzwa, nokuti anogara ⟨pamusoro⟩; akazadza Zioni nemutemo nekuita tsvene.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "wakakudzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨pamusoro⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "akazadza"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zioni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kuita tsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:00.500863779Z",
+  "model": "glm-5.3"
+}

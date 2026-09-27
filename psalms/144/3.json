@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Yahwe, munhu ndiani, kuti umuzive, mwanakomana womunhu, kuti umufunge?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "kuti umuzive"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "womunhu"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "kuti umufunge"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:06.617274724Z",
+  "model": "glm-5.3"
+}

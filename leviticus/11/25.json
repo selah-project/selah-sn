@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye uyo anotakura chidimbu che⟨the⟩ nyama yavo yakafa anofuka-sveta mbatya dzake, uye anotsvina kusvika madziva.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "uye uyo anotakura chidimbu che..."
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "anotakura"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "nyama yavo yakafa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "anosveta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "mbatya dzake"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "uye anotsvina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "madziva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:13.229020422Z",
+  "model": "glm-5.3"
+}

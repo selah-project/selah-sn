@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Moshe akafambisa ⟨את⟩ Isuraeri kubva kuGungwa reMadzihwe, uye vakabuda nokuenda kudenhe reShuri; vakafamba mazuva matatu mudenhe, asi vakashaika mvura.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akafambisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isuraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Gungwa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "reMadzihwe"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "vakabuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nokuenda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kudenhe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "reShuri"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mudenhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "vakashaika"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:10.191290832Z",
+  "model": "glm-5.3"
+}

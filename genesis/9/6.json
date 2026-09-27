@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Anodurura ropa re munhu, ne munhu ropa rake ruchadururwa; nokuti mufananidzo waErohimu akaita ⟨את⟩ munhu.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Anodurura"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "re munhu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ne munhu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ropa rake"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ruchadururwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "mufananidzo wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:28.590931757Z",
+  "model": "glm-5.3"
+}

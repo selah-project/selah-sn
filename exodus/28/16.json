@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Richava rakaita ruvana, rakaputirwa kaviri; upamhi hwezvigunwe hurefu hwacho, upamhi hwezvigunve futi hupamhi hwacho.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ruvana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "rakaputirwa kaviri"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "upamhi hwezvigunwe"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "hurefu hwacho"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "upamhi hwezvigunwe futi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "hupamhi hwacho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:31.261089678Z",
+  "model": "glm-5.3"
+}

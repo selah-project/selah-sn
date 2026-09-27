@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Iye akati kuna Eriya: Ndeupi hukama huripo pangu neimi, iwe murume waErohimu? Wakauya kwandiri kuyeuchidza ⟨את⟩ mhosva yangu, nekuuraya ⟨את⟩ mukomana wangu?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ndeupi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pangu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "neimi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "באת",
+      "gloss": "wakauya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "kuyeuchidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhosva yangu"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mhosva yangu"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "nekuuraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukomana wangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mukomana wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:12.856026110Z",
+  "model": "glm-5.3"
+}

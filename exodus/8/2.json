@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Aroni aka Tambidza ⟨את⟩ ruoko rwake pamusoro pemvura yeMitsrayimu, uye tsapfandana dzakasimuka, dzikavhara ⟨את⟩ nyika yeMitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "akaTambidza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "uyye dzakasimuka"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "tsapfandana"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dzikavhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:01.746164215Z",
+  "model": "glm-5.3"
+}

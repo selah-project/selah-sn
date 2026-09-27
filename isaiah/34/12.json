@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Madzikuru ayo achadanwa kuhumambo, asi hakuna aripo; madzishe ayo ose vachava chisiro.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "madzikuru ayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "asi hakuna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "po"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "humambo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "achadanwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "madzishe ayo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "chisiro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:04.549539737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Panguva iyoyo, mutauriro waYahwe: vachabuditsa ⟨את⟩ mabhonzo amadzimambo eYehudha, ne⟨את⟩ mabhonzo omatongeri awo, ne⟨את⟩ mabhonzo emapristi, ne⟨את⟩ mabhonzo evaporofita, ne⟨את⟩ mabhonzo evagari veYerusharemu, kubva makuva avo.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Panguva"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mutauriro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "vachabuditsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhonzo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mabhonzo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amadzimambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "eYehudha"
+    },
+    {
+      "surface": "ויציאו ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabhonzo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mabhonzo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "omatongeri awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabhonzo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mabhonzo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "emapristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabhonzo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mabhonzo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "evaporofita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabhonzo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mabhonzo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "evagari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "veYerusharemu"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "kubva makuva avo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:45.168038278Z",
+  "model": "glm-5.3"
+}

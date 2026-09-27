@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "ne⟨את⟩ chivhenekedzo chechiedza, ne⟨את⟩ zvinhu zvayo, ne⟨את⟩ mwenje wayo, ne⟨את⟩ mafuta echiedza",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chivhenekedzo chechiedza"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "chivhenekedzo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvayo"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zvinhu zvayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mwenje wayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "mwenje wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuta echiedza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "echiedza"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:33.333947942Z",
+  "model": "glm-5.3"
+}

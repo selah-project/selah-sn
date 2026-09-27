@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Huchenjeri hwaShoromoni hwapfuura huchenjeri hwevana vose veKedhemu, nehuchenjeri hwose hweEgipto.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "hwapfuura"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "huchenjeri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "hwaShoromoni"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "huchenjeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "veKedhemu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nehwose"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "huchenjeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "hweEgipto"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:16.564440252Z",
+  "model": "glm-5.3"
+}

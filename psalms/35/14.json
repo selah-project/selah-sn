@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Sokushamwaridzana, sokumukoma wangu, ndakafamba-famba; semunhu anorira amai vake, ndakaita svosve ndakagara ndichiita rido.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "sokushamwaridzana"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "sokumukoma wangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ndakafamba-famba"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "semunhu anorira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amai vake"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndakaita svosve"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ndakagara ndichiita rido"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:54.451910630Z",
+  "model": "glm-5.3"
+}

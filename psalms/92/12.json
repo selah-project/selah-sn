@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Ziso rangu rakatarisa ⟨kune⟩ avo vandisinganyungudza; nzvovera dzangu dzakanzwa kune vakaipa vakamuka pandiri.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "rakatarisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ziso rangu"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "avo vandisinganyungudza"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "dzakanzwa"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "nzvovera dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:52.652794560Z",
+  "model": "glm-5.3"
+}

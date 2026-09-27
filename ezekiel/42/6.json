@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 42:6",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "nokuti idzi dzakagadzirwa mitsowo mitatu, uye hadzina matsigiro sematsigiro echiiwaro; naizvozvo dzakadzikiswa kure kubva mune dzepasi nedzepakati, kubva pasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "משלשות",
+      "gloss": "dzakagadzirwa mitsowo mitatu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hadzina"
+    },
+    {
+      "surface": "להן",
+      "gloss": "⟨idzi⟩"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "matsigiro"
+    },
+    {
+      "surface": "כעמודי",
+      "gloss": "sematsigiro"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "echiiwaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨naizvozvo⟩"
+    },
+    {
+      "surface": "נאצל",
+      "gloss": "dzakadzikiswa kure"
+    },
+    {
+      "surface": "מהתחתונות",
+      "gloss": "kubva mune dzepasi"
+    },
+    {
+      "surface": "ומהתיכנות",
+      "gloss": "nedzepakati"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "kubva pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:31:55.915419471Z",
+  "model": "glm-5.3"
+}

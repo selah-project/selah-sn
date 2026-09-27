@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ho, rudzi rwaita mhosva, vanhu vane mutoro wemakaoni, mhodzi yevanovipa, vana vanoparadza! Vakasiya ⟨את⟩ Yahwe, vakazvidza ⟨את⟩ Mutsvene waIsraeri, vakadzokera shure.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "rwaita mhosva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "vane mutoro we"
+    },
+    {
+      "surface": "עון",
+      "gloss": "makaoni"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mhodzi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yevanovipa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "vanoparadza"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Vakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "vakazvidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mutsvene waIsraeri"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mutsvene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsraeri"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "vakadzokera"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:54.585006153Z",
+  "model": "glm-5.3"
+}

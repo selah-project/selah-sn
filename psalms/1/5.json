@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokudaro vakaipa havazomiri mumutongo, uye vatadzi havazomiri mumusangano wevatsvene.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-ro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "-zomiri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mumutongo"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "uye vatadzi"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "mumusangano"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wevatsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:35.907188793Z",
+  "model": "glm-5.3"
+}

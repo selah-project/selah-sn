@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 123,
+  "translation": "Nziyo yokukwira. Kwamuri ndakasimudza ⟨את⟩ maziso angu, imimi mugere mumatenga.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yokukwira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndakasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso angu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "imimi mugere"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mumatenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:58.611503608Z",
+  "model": "glm-5.3"
+}

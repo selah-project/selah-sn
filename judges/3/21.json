@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ehud akawedzera ⟨את⟩ ruwoko rwake rweruboshwe, akatora ⟨את⟩ bakatwa kubva pamusoro pemutsi wakerudyi, akaidzika mudumbu make.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwoko rwake rweruboshwe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "rweruboshwe rwake"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakatwa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "bakatwa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pamusoro pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mutsi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "wakerudyi"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "akaidzika"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "mudumbu make"
+    }
+  ],
+  "timestamp": "2026-09-27T06:33:14.528211944Z",
+  "model": "glm-5.3"
+}

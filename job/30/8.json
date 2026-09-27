@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Vana vapenzi, uye vana vasingazivi ⟨nezita⟩; vanorohwa kubva munyika.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "vapenzi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "vasina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "vanorohwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:41:33.995591662Z",
+  "model": "glm-5.3"
+}

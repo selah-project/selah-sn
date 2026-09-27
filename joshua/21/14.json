@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye ⟨את⟩ Yatiri nematunze aro, uye ⟨את⟩ Eshtemoa nematunze aro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Yatiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "matunze aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "matunze aro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:35.706367431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye vakamutora ⟨את⟩ iye pamabhiza, uye akavigwa muYerusaremu nevababa vake, muguta raDavhidu.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׂא֥וּ",
+      "gloss": "vakamutora"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הַסּוּסִ֑ים",
+      "gloss": "mabhiza"
+    },
+    {
+      "surface": "וַיִּקָּבֵ֧ר",
+      "gloss": "akavigwa"
+    },
+    {
+      "surface": "בִּירוּשָׁלִַ֛ם",
+      "gloss": "muYerusaremu"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אֲבֹתָ֖יו",
+      "gloss": "vababa vake"
+    },
+    {
+      "surface": "בְּעִ֥יר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "דָּוִֽד",
+      "gloss": "raDavhidu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:33.046512415Z",
+  "model": "glm-5.3"
+}

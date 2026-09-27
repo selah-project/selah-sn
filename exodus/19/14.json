@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mozhe akadzikira kubva kurwendo kuenda kuvanhu, akatsvenekera ⟨את⟩ vanhu, uye vakachambura mbatya dzavo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akadzikira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kurwendo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akatsvenekera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "vakachambura"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "mbatya dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:22.385616243Z",
+  "model": "glm-5.3"
+}

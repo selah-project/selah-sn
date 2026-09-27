@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Zvibairo zvaErohimu ndizo Mweya wakaputsika; moyo wakaputsika nokutsvedzwa, Erohimu, haudzvanyiriri.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "zvibairo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "zvaErohimu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "wakaputsika"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "wakaputsika"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "nokutsvedzwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "udzvanyiriri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:11.426544411Z",
+  "model": "glm-5.3"
+}

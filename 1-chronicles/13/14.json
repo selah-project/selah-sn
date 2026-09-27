@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Arki yaYahwe ⟨⟩ yakagara mudzi mamwe nomusha waObhedhi-Edhomu, mumusha wake, mwedzi mitatu; Yahwe akaropa nomuripo ⟨את⟩ musha waObhedhi-Edhomu ne⟨את⟩ zvose zvaiva zvake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yakagara"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mamwe no"
+    },
+    {
+      "surface": "בית",
+      "gloss": "musha"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "waObhedhi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mumusha wake"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropa nomuripo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musha waObhedhi-Edhomu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "musha"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "waObhedhi-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose zvaiva zvake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:22:03.442522703Z",
+  "model": "glm-5.3"
+}

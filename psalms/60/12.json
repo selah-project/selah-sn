@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Hauna here, iwe Erohimu, kutinaira? Uye hauburuki, iwe Erohimu, namauto edu!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hauna here"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "kutinaira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hauna"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kuburuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "namauto edu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:22.893845886Z",
+  "model": "glm-5.3"
+}

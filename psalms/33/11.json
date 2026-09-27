@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Umairo weYahwe huchamira nokusingaperi, mafungiro omwoyo wake kuzvidzva dzose.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Umairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "weYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "huchamira"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mafungiro"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "omwoyo wake"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzvidzva"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:05.843077040Z",
+  "model": "glm-5.3"
+}

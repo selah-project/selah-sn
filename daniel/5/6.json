@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvino chiso chemambo chakashanduka, nezvifungo zvake zvakamutyisa; zvisitsi zvake zvakasununguka, nemabvi ake achirovana ⟨nomwe narumwe⟩.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "chakashanduka"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "nezvifungo zvake"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "zvakamutyisa"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "nezvisitsi"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "zvake"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "zvakasununguka"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "nemabvi ake"
+    },
+    {
+      "surface": "דא",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "narumwe"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "achirovana"
+    }
+  ],
+  "timestamp": "2026-09-27T10:02:13.760457047Z",
+  "model": "glm-5.3"
+}

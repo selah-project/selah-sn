@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Tsvagai Yahwe nesimba rake; tsvagai chiso che chinogara nguva dzose.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Tsvagai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "nesimba rake"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tsvagai"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "chinogara nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:45.910639042Z",
+  "model": "glm-5.3"
+}

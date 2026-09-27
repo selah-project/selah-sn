@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino nhasi, mauya, ndikupa upfumi hwemazano, wununure hupenyu hwako nehupenyu hwaMwanako Shoromoni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino nhasi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mauya"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ndikupa mazano"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "mazano"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "wunonunura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hupenyu hwako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "hupenyu hwako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "hupenyu hwaMwanako"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hupenyu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "hwaMwanako"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:40.377663054Z",
+  "model": "glm-5.3"
+}

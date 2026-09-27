@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Hauya, ngatiwanidzise ⟨את⟩ baba vedu wayini, tikavhare pamwe naye, tikwanise kuchengetedza mhodzi yababa vedu.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Hauya"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ngatiwanidzise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vedu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba vedu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wayini"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "tikavhare"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamwe naye"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "tikwanise kuchengetedza"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "yababa vedu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mhodzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:54.993102469Z",
+  "model": "glm-5.3"
+}

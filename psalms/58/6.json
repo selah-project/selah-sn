@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Iyo haanzwi izwi revanorevedza, muroodzi anonyatsoroodza ⟨zvidhinha zvake⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nzwi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "revanorevedza"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "muroodzi"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "zvidhinha"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "anonyatsoroodza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:53.835981675Z",
+  "model": "glm-5.3"
+}

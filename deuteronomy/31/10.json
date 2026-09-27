@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Moshe akavayamura ⟨את⟩ivo achiti: Pakuguma kwemakungwa nomwe, panguva yakatarwa, gore rekuregesa, muchivabge cheMasukoti,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akavayamura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ivo",
+      "marks": "ivo (madzibaba mapristi nevakuru — ava akavayamura Moshe)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pakuguma"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makungwa"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "panguva yakatarwa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "gore"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "rekuregesa"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "muchivabge"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "cheMasukoti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:53:43.543622497Z",
+  "model": "glm-5.3"
+}

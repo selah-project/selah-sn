@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye ⟨את⟩ zamu retsinufa n⟨את⟩ gumbo reteruma muchazvidya munzvimo yakachena, iwe nevanakomana vako nevanasikana vako newe ⟨את⟩; nokuti chidimbu chako nechidimbu chevanakomana vako zvinopiwhwa kubva muzviito zveshelemim dzavana vaIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zamu retsinufa"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "zamu"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "retsinufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gumbo reteruma"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "gumbo"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "reteruma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muchazvidya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yakachena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "nevanakomana vako"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "nevanasikana vako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "newe ⟨את⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "chidimbu chako"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "nechidimbu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "chevanakomana vako"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "zvinopiwhwa"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kubva muzviito"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "zveshelemim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dzavana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:43.988008820Z",
+  "model": "glm-5.3"
+}

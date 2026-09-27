@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "ne⟨את⟩ Beithizuru, ne⟨את⟩ Sokoho, ne⟨את⟩ Adhuramu;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Beithizuru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beithi-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "zuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Sokoho"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokoho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Adhuramu"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adhuramu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:47.343472433Z",
+  "model": "glm-5.3"
+}

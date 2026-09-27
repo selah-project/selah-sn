@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Ndichenere, Erohimu, ndichenere; nokuti upenyu hwangu hunodzikama muri, uye mumumvuri wemhando dzenyu ndinodzikama, kusvika mabviro adarika.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndichenere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ndichenere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "hunodzikama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "uye mumumvuri wa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mhando dzenyu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndinodzikama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "adarika"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mabviro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:57.216450880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 142,
+  "translation": "Mweya wangu unondifadza zvakaoma ndiri mumwe; asi iwe unoziva nzira yangu; panzira ino ndinofamba, vakavhara muteyo wangu.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "unondifadza zvakaoma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "nzira yangu"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ino"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ndinofamba"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "vakavhara"
+    },
+    {
+      "surface": "פח",
+      "gloss": "muteyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:49.945156422Z",
+  "model": "glm-5.3"
+}

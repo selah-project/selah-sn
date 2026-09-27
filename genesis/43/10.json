@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "nokuti tikaramba kuNDARARA — kunonoka — zvirokwazvo zvino taizodzoka kanna kaviri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "tikaramba"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "kunonoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "taizodzoka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kanna"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:34.376266885Z",
+  "model": "glm-5.3"
+}

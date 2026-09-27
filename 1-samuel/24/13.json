@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Yahwe ngaatonge pakati panguva newe, uye Yahwe ngaandzorere kubva kwauri; asi ruoko rwangu harungave paun.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ngaatonge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati panguva"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "ngaandzorere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kubva kwauri"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "asi ruoko rwangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "-ngave"
+    },
+    {
+      "surface": "בך",
+      "gloss": "paun"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:52.853867519Z",
+  "model": "glm-5.3"
+}

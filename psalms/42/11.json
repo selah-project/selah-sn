@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Nokutsikwa pamapfupa angu, vavengi vangu vandituka, pavakati kwandiri mazuva ose: Aripiko Erohimu wako?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Nokutsikwa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "pamapfupa angu"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "vandituka"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "pavakati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ose"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aripiko"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:43.950649677Z",
+  "model": "glm-5.3"
+}

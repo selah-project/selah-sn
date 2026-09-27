@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Iwe wakakomekedza ⟨את⟩ mirairo yako kuti igarisirwe nokuchengetwa zvakanaka.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "wakakomekedza"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kuti igarisirwe nokuchengetwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:39.365768054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Nenzwi romuroyi nomupepi, nekuda kwomuvengi nomudzikinuri.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "nenzwi ro"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "muroyi"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "nomupepi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nekuda kwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "nomudzikinuri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:16.472609805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mweya wangu waputsika nokuda kwematongerwo ako nguva dzose.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "waputsika"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kuna⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "matongerwo ako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": " nguva dzose dzose"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:11.338881462Z",
+  "model": "glm-5.3"
+}

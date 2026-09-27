@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "⟨את⟩ chitoro chetsvene, ⟨את⟩ mwenje wayo, mwenje ekurongwa, uye ⟨את⟩ zvinhu zvose zvayo, uye ⟨את⟩ mafuta ekwenjedzo;",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "chitoro"
+    },
+    {
+      "surface": "הַמְּנֹרָה",
+      "gloss": "chitoro"
+    },
+    {
+      "surface": "הַטְּהֹרָה",
+      "gloss": "chetsvene"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mwenje wayo"
+    },
+    {
+      "surface": "נֵרֹתֶיהָ",
+      "gloss": "mwenje wayo"
+    },
+    {
+      "surface": "נֵרֹת",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "הַמַּעֲרָכָה",
+      "gloss": "ekurongwa"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zvinhu zvose zvayo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כֵּלֶיהָ",
+      "gloss": "zvinhu zvayo"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "הַמָּאוֹר",
+      "gloss": "ekwenjedzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:25.279091655Z",
+  "model": "glm-5.3"
+}

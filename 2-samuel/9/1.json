@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Davhidi akati: Kodi pane ani asara weumba yaShauro, kuti ndiite naye ⟨את⟩-hesedhi nokuda kwaYehonatani?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhidi"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "kodi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "pane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "achiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "asara"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "weumba ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "kuti ndiite"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:06.543692650Z",
+  "model": "glm-5.3"
+}

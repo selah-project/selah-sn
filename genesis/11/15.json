@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Sherakhi akagara shure pokubevara ⟨את⟩ Evheri makore matatu namazana mana, akazvara vanakomana nevanasikana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sherakhi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pokubevara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evheri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evheri"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "na"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana mana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vanakomana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "nevanasikana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:49.956387775Z",
+  "model": "glm-5.3"
+}

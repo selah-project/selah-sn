@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Yahwe, Erohimu wedu, madzimambo ezvose kunze kwawe vakatitonga; iwe chete tinokuyeuchidza zita rako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "vakatitonga"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "kunze kwawe"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "chete"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "tinokuyeuchidza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:26.970576757Z",
+  "model": "glm-5.3"
+}

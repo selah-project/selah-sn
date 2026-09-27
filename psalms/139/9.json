@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Ndikatora mapapiro emangwanani, ndikagara kumagumo kwegungwa —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ndikatora"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapapiro"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "emangwanani"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ndikagara"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "kumagumo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kwegungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:45.087445827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Haana kurega munhu ambovadzvanyirira, uye akadzora mambonga pamusoro pavo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Haana"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "kurega"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ambovadzvanyirira"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "akadzora"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mambonga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:30.625223144Z",
+  "model": "glm-5.3"
+}

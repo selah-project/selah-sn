@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "“Farao achataura pamusoro pevanhu veIsraeri, achiti: Vakafa mukufambisa nzira munyika; gwenga rakavharira.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "achataura"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pamusoro pevanhu ve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "vakafa mukufambisa nzira"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "rakavharira"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pavari"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gwenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:15.509432798Z",
+  "model": "glm-5.3"
+}

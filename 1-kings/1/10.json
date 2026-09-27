@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Asi ⟨את⟩ Nathani muporofita, neVenhayahu, ne⟨את⟩ simba ramasoja, ne⟨את⟩ Shoromoni hanzvadzi yake — haana kudanana navo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Asi ⟨את⟩",
+      "marks": "Nathani muporofita"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "neVenhayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "simba ramasoja"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "masoja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Shoromoni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kudanana navo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:40.376887752Z",
+  "model": "glm-5.3"
+}

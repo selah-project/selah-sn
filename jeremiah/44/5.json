@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Asi havana kuteerera, uye havana kugonyeza nzeve dzavo ⟨dzavo⟩ kudzoka kubva kutadziko kwavo, kudzivirira kunopfuza ⟨את⟩ zvinopuhwa kune vamwari veviri.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi hav-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "-na kuteerera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hav-"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "-na kugonyeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzeve dzavo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "nzeve dzavo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "kubva kutadziko kwavo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kudzivirira"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "kunopfuza zvinopuhwa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kune vamwari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "veviri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:10:09.399680766Z",
+  "model": "glm-5.3"
+}

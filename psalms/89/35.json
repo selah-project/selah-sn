@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Handitswanyisa sungano yangu, uye izvo zvobuda mulaviri langu handizvishanduri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "tswanyisa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "uye izvo zvobuda"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mulaviri langu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handizvi"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "shanduri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:37.322058399Z",
+  "model": "glm-5.3"
+}

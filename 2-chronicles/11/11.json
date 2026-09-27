@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Akasimbisa ⟨את⟩ zvakasimbiswa izvozvo, uye akaika mukati mavo vatungamiri, nezvipangwa zvechikafu, nemafuta, navayini",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "akasimbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvakasimbiswa izvozvo"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "zvakasimbiswa izvozvo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaika"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mukati mavo"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "nezvipangwa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "zvechikafu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "nemafuta"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "navayini"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:04.039206317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 42:29",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Vakasvika kuna Yakobho baba vavo, kunyika yeKenani, vakamuudza ⟨את⟩ zvakaitika kwavari zvose, vachiti:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobho"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba vavo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yeKenani"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "vakamuudza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvakaitika zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הקרת",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kwavari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:31.144200191Z",
+  "model": "glm-5.3"
+}

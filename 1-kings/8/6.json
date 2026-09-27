@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndipo mapristi vakapinza ⟨את⟩ Areka yesungano yaYahwe kuendela panzvimbo yayo, kuendela kune devira yomumba, kuendela kutsvene kwetsvene, pasi pemapapiro emakurubi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ndipo vakapinza"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Areka yesungano yaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yesungano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuendela"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "panzvimbo yayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuendela"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "devira"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "yomumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuendela"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kutsvene"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kwetsvene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuendela"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapapiro"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "emakurubi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:41.474494919Z",
+  "model": "glm-5.3"
+}

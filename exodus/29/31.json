@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye iwe uchatora ⟨את⟩ gota rekupinza muchitendero, uye unobikira ⟨את⟩ nyama yaro panzvimbo yetsvene.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Uye ⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "gota"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "rekupinza muchitendero"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uchatora"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "unobikira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yaro"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yaro"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yetsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:50.405235225Z",
+  "model": "glm-5.3"
+}

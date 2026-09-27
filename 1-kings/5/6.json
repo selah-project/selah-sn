@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 5:6",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye zvaive zoivo kuva ngeShoromho makumi mana ezviuru zvemabvokwa emabhabela ezvitima zvake, nezviuru zviviri nemakumi gumi nembiri evayendi temabhabela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ngeShoromho"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "ארות",
+      "gloss": "mabvokwa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "emabhabela"
+    },
+    {
+      "surface": "למרכבו",
+      "gloss": "ezvitima zvake"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "neviri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nomakumi gumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nezviuru"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "vayendi temabhabela"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:03.601348418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti ndakachengeta nzira dzaYahwe, uye handina kuita chakaipa ⟨kubva⟩ paErohimu wangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ndakachengeta"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "dzaYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handina"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "kuita chakaipa"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "⟨kubva⟩ paErohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:40.228671908Z",
+  "model": "glm-5.3"
+}

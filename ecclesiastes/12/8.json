@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Usipo wezvinhu zvisipo, vakati Kokheleti, zvose zviri usipo.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Usipo"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "wezvinhu zvisipo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kokheleti"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "usipo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:32.296790325Z",
+  "model": "glm-5.3"
+}

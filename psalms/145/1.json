@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Rumbidzo rwaDhavhidhi. Ndichasimudza iwe, Eroha wangu, ⟨mambo⟩, uye ndicharopafadza zita rako nokusingaperi zvachose.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Rumbidzo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rwaDhavhidhi"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Ndichasimudza iwe"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eroha wangu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "uye ndicharopafadza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "zvachose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:14.796537031Z",
+  "model": "glm-5.3"
+}

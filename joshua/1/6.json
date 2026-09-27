@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ita simba uye va netsa; nokuti iwe uchapa ⟨את⟩ vanhu ava nhaka ⟨את⟩ nyika iyoyo yandakapika kumadzibaba avo kuti ndiwapai.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Ita simba"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "uye va netsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "uchapa...nhaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu ava"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika iyoyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "yandakapika"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "kumadzibaba avo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti ndiwapai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kwavari⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:24.742049246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Dhavhidhi akaridza ⟨את⟩ rwiyo rwokuchema urwu paShauro nepaYonathani mukomana wake.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "akaridza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rwiyo rwokuchema urwu"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "rwiyo rwokuchema"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "urwu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mukomana wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:38.367789047Z",
+  "model": "glm-5.3"
+}

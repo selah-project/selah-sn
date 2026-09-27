@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Vana vaIsiraeri vakagara matema muGirigari, uye vakaita ⟨את⟩ Paseka musi wegumi nena me mwedzi masikati evhiki muBvumvudzo reYeriko.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "vakagara matema"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "muGirigari"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "me mwedzi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "masikati evhiki"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "muBvumvudzo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "reYeriko"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:46.419130212Z",
+  "model": "glm-5.3"
+}

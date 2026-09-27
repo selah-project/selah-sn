@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Wakatiisa mutezo; wakaisa mutoro unorema pamasaya edu.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "wakatiisa"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mutezo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wakaisa"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "mutoro unorema"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "pamasaya edu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:20.533394229Z",
+  "model": "glm-5.3"
+}

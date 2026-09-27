@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Kuti vana vaIsiraeri guruo ⟨את⟩ Paseka nguva yayo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "guruo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "nguva yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:37.095952913Z",
+  "model": "glm-5.3"
+}

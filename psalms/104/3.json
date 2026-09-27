@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Anoisa mapango echamber dzake mumvura; anoitira ⟨את⟩ makore chitima chake; anofamba nepamusoro pepanhau dzemhepo.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "anoisa mapango"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "echamber dzake"
+    },
+    {
+      "surface": "השם",
+      "gloss": "anoitira"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "chitima chake"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "panhau dze"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:50.381238126Z",
+  "model": "glm-5.3"
+}

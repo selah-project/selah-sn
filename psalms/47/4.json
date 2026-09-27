@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Anotaura vanhu pasi pedu, netsika dzamadzimambo pasi petsoka dzedu.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "anotaura"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "pasi pedu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "netsika dzamadzimambo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "tsoka dzedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.889896529Z",
+  "model": "glm-5.3"
+}

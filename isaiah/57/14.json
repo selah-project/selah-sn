@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Uye zvinenge zvataurwa kuti: Simudzai, simudzai, gurirai ⟨את⟩ nzira, bvisai chidzikiso panzira yavanhu vangu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Uye zvinenge zvataurwa kuti"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "Simudzai"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "simudzai"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "gurirai"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "bvisai"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "chidzikiso"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yavanhu vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:39.412899005Z",
+  "model": "glm-5.3"
+}

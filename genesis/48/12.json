@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Yosefu akabuditsa ⟨את⟩ vaviri kubva pakati pemadaro ake, ndokupfugamira nenchiso chake kusuva pasi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "akabuditsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אתתם",
+      "gloss": "⟨את⟩",
+      "marks": "vaviri (vana vevaviri)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva pakati"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "pemadaro ake"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ndokupfugamira"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "nenchiso chake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kusuva pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:55.064039212Z",
+  "model": "glm-5.3"
+}

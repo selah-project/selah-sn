@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Marudzi ngavarumbidze iwe, Erohimu; marudzi ose ngavarumbidze iwe.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ngavarumbidze iwe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ngavarumbidze iwe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:42.609817085Z",
+  "model": "glm-5.3"
+}

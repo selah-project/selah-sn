@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Kune mutungamiri, kuYedhituni; nziyo dzaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kuYedhituni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dzaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:39.724273054Z",
+  "model": "glm-5.3"
+}

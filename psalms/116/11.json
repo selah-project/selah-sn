@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Ini ndakati muchidzimidzo changu: munhu wose nhema.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakati"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "muchidzimidzo changu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "nhema"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:31.100566308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akasika ⟨את⟩ zvichiratidzo zviviri huru, ⟨את⟩ chiratidzo chihuri kutungamira muzuva, na⟨את⟩ chiratidzo chidiki kutungamira masikati, na⟨את⟩ nyeredzi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akasika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvichiratidzo zviviri huru"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zviviri"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "machiratidzo"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "huru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiratidzo chihuri"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "chihuri"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kutungamira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "chiratidzo chidiki"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "chidiki"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kutungamira"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nyeredzi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "nyeredzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:59.698951447Z",
+  "model": "glm-5.3"
+}

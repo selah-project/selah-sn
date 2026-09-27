@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Vakatora ⟨את⟩ mambo, vakamutora kuna mambo waBhabhironi kuRibhurata; vakamutongawo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vakamutora"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "waBhabhironi"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "kuRibhurata"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "vakamutongawo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutongo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:27.222473975Z",
+  "model": "glm-5.3"
+}

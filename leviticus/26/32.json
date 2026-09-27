@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye ini ndichaita ⟨את⟩ nyika rushambanzwa, uye vavengi venyu vachashamiswa pairo, vagari varipo mumenemo.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ndichaita rushambanzwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "vachashamiswa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pairo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vavengi venyu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "vagari varipo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mumenemo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:54.934603272Z",
+  "model": "glm-5.3"
+}

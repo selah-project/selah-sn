@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Moyo wevachenjeri uri mumba rechekuchema, uye moyo wemapenzi uri mumba remufaro.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wevachenjeri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uri mumba"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "rechekuchema"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "uye moyo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wemapenzi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uri mumba"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "remufaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:49.038776081Z",
+  "model": "glm-5.3"
+}

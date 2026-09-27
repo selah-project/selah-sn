@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Amune ruoko rwake kwayo hwokukwira kwazvino kwemidzi yepasi, uye nokuwedzera kumusoro kwemakomo ndekwake.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amune"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "muruoko rwake"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "kwayo hwokukwira kwazvino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kwemidzi yepasi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "uye nokuwedzera kumusoro"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kwemakomo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ndekwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:01.722520705Z",
+  "model": "glm-5.3"
+}

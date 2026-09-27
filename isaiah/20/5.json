@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Voruma zvokutyoka vokuzvininipisa nokuda kweKushi, tarisiro yavo, uye nokuda kweMitsrayimu, rukudzo rwavo.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "voruma zvokutyoka"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "vokuzvininipisa"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "nokuda kweKushi"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "tarisiro yavo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uye nokuda kwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "rukudzo rwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:05.307418825Z",
+  "model": "glm-5.3"
+}

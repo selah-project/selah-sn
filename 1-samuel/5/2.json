@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye Vafirisitri vakatora ⟨את⟩ chavara chaErohimu, vakachiisa mumba yaDhagoni, vakachimisa pedyo naDhagoni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafirisitri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chavara"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chavara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "chaErohimu"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "vakachiisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "chavara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "yaDhagoni"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "vakachimisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "chavara"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pedyo na"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dhagoni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:32.700132903Z",
+  "model": "glm-5.3"
+}

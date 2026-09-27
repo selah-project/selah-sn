@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Yahwe akakutumira panzira, akati: Enda, uye uparadze-sarudzo ⟨את⟩ vatadzi ⟨את⟩ Amareki, uye urwane navo kusvika wapedza ⟨את⟩ ivo.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "akakutumira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "uparadze-sarudzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatadzi"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "vatadzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amareki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amareki"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "urwane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "navo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "wapedza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:47.926402379Z",
+  "model": "glm-5.3"
+}

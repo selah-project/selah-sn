@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndikamutenga kwandiri nemasirivha gumi nemashanu, nehoma yebhari, neleteke yebhari.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "ndikamutenga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nemashanu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "masirivha"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "nehoma"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "yebhari"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "neleteke"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "yebhari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:39.702739462Z",
+  "model": "glm-5.3"
+}

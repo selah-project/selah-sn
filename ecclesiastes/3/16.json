@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye zvakare ndakaona pasi pezuva: panzvimbo youtongwa ipapo husori, uye panzvimbo yechitendero ipapo husori.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Uye zvakare"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndakaona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "youtongwa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "husori"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "uye panzvimbo"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "yechitendero"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "husori"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:58.542077480Z",
+  "model": "glm-5.3"
+}

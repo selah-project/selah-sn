@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye vachaziva kuti ndini Yahwe, pandinovaparadza pakati penhando, pandinovashungurudza munyika dzose.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "vachaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "pandinovaparadza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "pakati penhando"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pakati penhando"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "pandinovashungurudza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "munyika dzose"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "munyika dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T08:18:36.472773056Z",
+  "model": "glm-5.3"
+}

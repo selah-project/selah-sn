@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Zvakasimbiswa nokusingaperi, kusvika nenguva dzose; zvakaitwa muchokwadi nemururamatiro.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "zvakasimbiswa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kusvika nenguva dzose"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "zvakaitwa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "muchokwadi"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "nemururamatiro"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:00.079240510Z",
+  "model": "glm-5.3"
+}

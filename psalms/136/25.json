@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Anopa chikafu kune nyama yose, nokuti hesedhi yake ichaita nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Anopa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama yose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ichaita nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:14.851666965Z",
+  "model": "glm-5.3"
+}

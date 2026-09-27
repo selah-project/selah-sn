@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati kwaari: Chii ichi churi mumaoko ako? Akati: Chimuti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Chii ichi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mumaoko ako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Chimuti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:37.325089524Z",
+  "model": "glm-5.3"
+}

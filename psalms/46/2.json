@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Erohimu ndivo rupoterwo rwedu nesimba, rubatsiro mumatambudziko ruri po kwazvo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rwedu"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "rupoterwo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "rubatsiro"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mumatambudziko"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ruri po"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:00.775502462Z",
+  "model": "glm-5.3"
+}

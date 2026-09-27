@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Mishikani yako inodiwa zvakadii, Yahwe Tsevaoti!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "zvakadii"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "inodiwa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "mishikani yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:59.885886572Z",
+  "model": "glm-5.3"
+}

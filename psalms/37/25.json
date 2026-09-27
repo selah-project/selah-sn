@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Ndakange ndiri mukomana, ndakazova munyakwara, asi handina kuona mutsvene atongosiya, kana mbewu yake ichitsvaka chikafu.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakange ndiri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ndakazova"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "munyakwara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi handina"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "atongosiya"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "mbewu yake"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ichitsvaka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:59.388663144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Pamusoro pekukosheswa kwako mumeso angu, kukudzwa kwako, asi ini ndakakuda; nokuti ndinopa vanhu pachinzvimbo chako, uye madzinza pachinzvimbo pepenyu yako.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Pamusoro pekuti"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "wakosheswa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumeso angu"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "wakudzwa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "ndakakuda"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ndinopa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pachinzvimbo chako"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "uye madzinza"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimbo pe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "upenyu hako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:03.018700403Z",
+  "model": "glm-5.3"
+}

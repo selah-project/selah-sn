@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Nekuda kwekusada kwako nekushusha kwako; nokuti wandingisimikira, wandikanda ⟨pasina⟩.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Nekuda kwe"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kusada kwako"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "nekushusha kwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "wandingisimikira"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "wandikanda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:51.069850235Z",
+  "model": "glm-5.3"
+}

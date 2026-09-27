@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvakaonekwa kuti, pakanzwa mambo Hizikia, akatyora ⟨את⟩ mbatya dzake, akafukidzwa neshaku, akaenda mumba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaonekwa kuti"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pakanzwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikia"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbatya dzake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "mbatya dzake"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "akafukidzwa"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "neshaku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:25:04.938221389Z",
+  "model": "glm-5.3"
+}

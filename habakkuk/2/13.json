@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Kwete here, tarira, kubva kuna ⟨את⟩ Yahwe Tsevaoti, kuti vanhu vanoneta mumba yemoto, uye matunhu mumba yezvinhu zvemahara vanodya simba?",
+  "tokens": [
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "Kwete here"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "kubva kuna ⟨את⟩",
+      "marks": "Yahwe Tsevaoti"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צְבָאוֹת",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "וְיִיגְעוּ",
+      "gloss": "kuti vanoneta"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בְּדֵי",
+      "gloss": "mumba ye"
+    },
+    {
+      "surface": "אֵשׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וּלְאֻמִּים",
+      "gloss": "uye matunhu"
+    },
+    {
+      "surface": "בְּדֵי",
+      "gloss": "mumba ye"
+    },
+    {
+      "surface": "רִיק",
+      "gloss": "zvinhu zvemahara"
+    },
+    {
+      "surface": "יִעָפוּ",
+      "gloss": "vanodya simba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:35.597299197Z",
+  "model": "glm-5.3"
+}

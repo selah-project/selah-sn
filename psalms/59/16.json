@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Ivo vanoshetuka-svetuka svachitsvaga kudya; kana vasasvitswa, vochizunza.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ivo"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "vanosvetuka-svetuka"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "svachitsvaga kudya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "visa-"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "svitswa"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "vochizunza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:21.264950006Z",
+  "model": "glm-5.3"
+}

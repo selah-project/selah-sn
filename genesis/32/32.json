@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Zuva rakabuda kwaari paakapfuura ⟨את⟩ Fanueri, iye achibhagisa pachikwata chake.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "rakabuda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "paa-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akapfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Fanueri"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Fanueri"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "achibhagisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "chikwata chake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:02.253898911Z",
+  "model": "glm-5.3"
+}

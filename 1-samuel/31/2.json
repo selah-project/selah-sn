@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Uye maPelisti akamanikidza ⟨את⟩ Shaúru ne⟨את⟩ vana vake; uye maPelisti vakauraya ⟨את⟩ Yonatani ne⟨את⟩ Abhinadhabhu ne⟨את⟩ Marukishua, vana vaShaúru.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "akamanikidza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "maPelisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúru"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "maPelisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatani"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abhinadhabhu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abhinadhabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Marukishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Maruki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "vaShaúru"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:40.156492303Z",
+  "model": "glm-5.3"
+}

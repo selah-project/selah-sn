@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nemauto ake, neva AKaverengwa vavo: makumi mana neshanu churu, nemazana matanhatu nemakumi mashanu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Nemauto ake"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "neva AKaverengwa vavo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "neshanu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "makumi mana ne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana matanhatu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "nemakumi mashanu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:27.283063748Z",
+  "model": "glm-5.3"
+}

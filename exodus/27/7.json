@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye mitiyo yayo inopfurwa muzviringa, uye mitiyo ichava panzvimbo mbiri dzealtari, pakubata ⟨את⟩ ⟨yayo⟩.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "inopfurwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitiyo yayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mitiyo yayo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "muzviringa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mitiyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "nzvimbo mbiri"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "rutsigiro"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dzealtari"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "pakubata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (altari)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:52.949594263Z",
+  "model": "glm-5.3"
+}

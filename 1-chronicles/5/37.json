@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye Azaria akabereka ⟨את⟩ Amarja; uye Amarja akabereka ⟨את⟩ Akitubhu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "uye Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitubhu"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitubhu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:17.126136773Z",
+  "model": "glm-5.3"
+}

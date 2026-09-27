@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Vanhu vanondikwiwisa ⟨את⟩ pamberi pechiso changu nguva dzose, vanopasa zvibairo mundunzi, novanopisa nhangoe pamusoro pematombo.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "vanondikwiwisa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ndini"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "vanopasa zvibairo"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "mundunzi"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "novanopisa nhangoe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "matombo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:52.720547457Z",
+  "model": "glm-5.3"
+}

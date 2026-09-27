@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Iye anotakura zviridzwa zvake akati kwaari: Ita zvose zviri mumoyo wako; tenda iwe; tarira, ndiri newe semoyo wako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "anotakura"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zviridzwa zvake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mumoyo wako"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tarira, ndiri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "semoyo wako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:22.110433355Z",
+  "model": "glm-5.3"
+}

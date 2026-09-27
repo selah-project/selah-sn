@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Hatisiri vasheni kwaari here? Nokuti watisvika, uye wakadya zvese ⟨את⟩ sirivha yedu.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Hatisiri here"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vasheni"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "kwaari tinoverengwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "watisvika"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "wakadya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirivha yedu"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "sirivha yedu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:45.465905024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Zvino izvi zvichafadza Yahwe kupfuura n'ombe, bhuru rine nyanga netsitsi dzakapatsanurwa.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "zvichafadza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kupfuura n'ombe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bhuru"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "rine nyanga"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "netsitsi dzakapatsanurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:36.863217712Z",
+  "model": "glm-5.3"
+}

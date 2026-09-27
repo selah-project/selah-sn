@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Uye Yahwe achavapa pamaso enyu, uye muchaita kwavari sezvose chirayiro ivo izvo ndakurayira ⟨את⟩ amuri.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "achavapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamaso enyu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "muchaita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvose"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "chirayiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakurayira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ amuri",
+      "marks": "amuri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:25.306922152Z",
+  "model": "glm-5.3"
+}

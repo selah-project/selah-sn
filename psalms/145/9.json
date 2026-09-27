@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Yahwe ⟨uri⟩ nani kuvose, netsitsi dzake dziri pamusoro pemabasa ake ose.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuvose"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "netsitsi dzake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mabasa ake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:45.488068587Z",
+  "model": "glm-5.3"
+}

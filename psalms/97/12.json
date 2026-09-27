@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 97,
+  "translation": "Faranai, imi vatsvene, munaYahwe, uye rumbidza ndiro yeutsvene hwake.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Faranai"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "imi vatsvene"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "uye rumbidza"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ndiro ye"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "utsvene hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:56.105311966Z",
+  "model": "glm-5.3"
+}

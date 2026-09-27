@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uchaita ⟨את⟩ zvitsetzo nehuni dzechihuni cheshiti, uye uchafukidza ⟨את⟩ ⟨ndarama⟩, kuti tafura yotakurwa nazvo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvitsetzo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "zvitsetzo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nehuni"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "cheshiti"
+    },
+    {
+      "surface": "וצצית",
+      "gloss": "uchafukidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ndarama"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨ndarama⟩"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "yotakurwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafura"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:04.072470694Z",
+  "model": "glm-5.3"
+}

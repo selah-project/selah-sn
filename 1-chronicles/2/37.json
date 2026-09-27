@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Zabhadi akabara ⟨את⟩ Efurararu, uye Efurararu akabara ⟨את⟩ Obedhi.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Uye Zabhadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efurararu"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efurararu"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "uye Efurararu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedhi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedhi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:18.436593725Z",
+  "model": "glm-5.3"
+}

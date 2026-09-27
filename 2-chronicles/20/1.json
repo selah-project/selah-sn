@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Zvino shure kwezvinhu izvi, vana vaMoabhu nevana vaAmonhu, pamwe chete navo vechiAmonhiti, vakauwa kurwisa Yehoshafati hondo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvikanzi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vakauwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nevana va"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonhu"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "pamwe navo"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "vechiAmonhiti"
+    },
+    {
+      "surface": "על",
+      "gloss": "kurwisa"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hondo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:36:55.289821174Z",
+  "model": "glm-5.3"
+}

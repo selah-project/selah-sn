@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "vakaparara paEni-Dhori, vakava madhodhi paivhu.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "vakaparara"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "paEni-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dhori"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vakava"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "madhodhi"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "paivhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:03.723641097Z",
+  "model": "glm-5.3"
+}

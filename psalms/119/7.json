@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndichakutenda nemoyo wakatwasuka ndichidzidza mutemo wako wemasarudzo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ndichakutenda"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "nemoyo wakatwasuka ⟨mukati⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo wakatwasuka"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ndichidzidza"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kana ndichiziva"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "masarudzo ari muchidi chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:50.188973484Z",
+  "model": "glm-5.3"
+}

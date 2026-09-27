@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Iwe, tora zvakanaka pureshi yeuresi, uye isa iro serukungu rweuresi pakati pako neguta, uye gadzikirisa chiso chako kwariri; richange riri kuturwa, uye iwe unoturira pairi. Chiratidzo ichi kumba yaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "pureshi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yeuresi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uye isa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iro (pureshi)"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "serukungu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rweuresi"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "pakati pako"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "והכינותה",
+      "gloss": "uye gadzikirisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwariri"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "richange riri"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "kuturwa"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "uye unoturira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "אות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:17:00.749103249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Zvakaita kuti muYishuruni mumwe ave mambo, pavakatevera misoro yevhu, zvose zvose madzinza eIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvakaita kuti"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "muYishuruni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "pavakatevera"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "misoro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yevhu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zvose zvose"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:39.561794173Z",
+  "model": "glm-5.3"
+}

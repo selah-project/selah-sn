@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Kana ndakabvisira mune ane runyararo neni zvakaipa, ndikadzikinura asina chikonzero mutsoni wangu;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ndakabvisira"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "mune ane runyararo neni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ndikadzikinura"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mutsoni wangu"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "asina chikonzero"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:28.098543511Z",
+  "model": "glm-5.3"
+}

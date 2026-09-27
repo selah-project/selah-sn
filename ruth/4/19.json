@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Chetsironi akazvara ⟨את⟩ Ramu, uye Ramu akazvara ⟨את⟩ Aminadhabu.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "uye Chetsironi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "uye Ramu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadhabu"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadhabu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:49:13.390330855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Vana vaKehati: Aminadhabhi mwanakomana wake, Korahi mwanakomana wake, Asiri mwanakomana wake.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Vana va"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadhabhi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asiri"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:11.355499939Z",
+  "model": "glm-5.3"
+}

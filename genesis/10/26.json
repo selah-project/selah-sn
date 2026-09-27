@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Yokutani akazvara ⟨את⟩ Arumodhadhi, ⟨את⟩ Serefu, ⟨את⟩ Hatsamavheti, ⟨את⟩ Yarahi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yokutani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arumodhadhi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Arumodhadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Serefu"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Serefu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsamavheti"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsamavheti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yarahi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarahi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:56.127501759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Yosefu akati kune vamukoma vake: Ndiri kufa; Erohimu achave anokuonai, ndokukusimukurai ⟨את⟩ venyika ino, kuenda kunyika yaakapika ⟨את⟩ kuna Abhurahama, kuna Isaka, nokuna Yakobo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vamukoma vake"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "achave"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "anokuonai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "venyu"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ndokukusimukurai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "venyu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "munyika ino"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "akapika"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kuna Abhurahama"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kuna Isaka"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "nokuna Yakobo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:47.118676978Z",
+  "model": "glm-5.3"
+}

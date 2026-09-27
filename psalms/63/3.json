@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Saizvozvo ndakakuona mumutsvene, ndokuona ⟨את⟩ simba rako noruremekedzo rwako.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Saizvozvo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mumutsvene"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ndakakuona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ndokuona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "simba rako"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "noruremekedzo rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:07.938639042Z",
+  "model": "glm-5.3"
+}

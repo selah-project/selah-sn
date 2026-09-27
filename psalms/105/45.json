@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Kuti vachengete mirairo yake, ne⟨tora⟩ dzake vagare voichengeta. Rumbidzai Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "vachengete"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "mirairo yake"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ne⟨tora⟩ dzake"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "vagare voichengeta"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:08.172628930Z",
+  "model": "glm-5.3"
+}

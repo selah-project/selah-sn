@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 3:14",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "namadzimambo namagamba enyika, avo vakavaka matongo avo pachavo;",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "ויעצי",
+      "gloss": "namagamba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "enyika"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "avo vakavaka"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "matongo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pachavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:32:32.967847183Z",
+  "model": "glm-5.3"
+}

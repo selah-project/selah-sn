@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Ndikati: Yahwe, ita nyasha ndiri pano; porofa mweya wangu, nokuti ndinotadzira iwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndikati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ita nyasha ndiri pano"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "porofa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndinotadzira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:33.439973839Z",
+  "model": "glm-5.3"
+}

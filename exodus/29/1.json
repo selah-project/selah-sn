@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye ichi ndicho chinhu chauchaita kwavari kuti uvatsveneseze, kuti vave mapristi kwandiri: tora bhuru mumwe, mwana wemombe, uye magotore maviri asina chitsuwa.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Uye ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chauchaita"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "chauchaita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "kuti uvatsveneseze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vatsvene"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kuti vave mapristi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bhuru"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wemombe"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "uye magotore"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "asina chitsuwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:55.845264179Z",
+  "model": "glm-5.3"
+}

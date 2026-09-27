@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Ndokunge vakomana vatorenga, navasikana vacheche vasvike pakudonha; vachidzikamika vachidonha.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "vatorenga"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "vasvike pakuneta"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "navasikana vacheche"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "achidzikamika"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "vachidonha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:39.138710995Z",
+  "model": "glm-5.3"
+}

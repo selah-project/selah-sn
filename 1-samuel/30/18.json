@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Davhidi akaponesa ⟨את⟩ zvese zvatakwa neAmareki; nezvevakadzi vake ⟨את⟩ vaviri Davhidi akaponesa.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "akaponesa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvese zvatakwa neAmareki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvatakwa"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "zvatakwa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "neAmareki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nezve",
+      "marks": "vakadzi vake vaviri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vakadzi vake"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "akaponesa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhidi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:23.632699585Z",
+  "model": "glm-5.3"
+}

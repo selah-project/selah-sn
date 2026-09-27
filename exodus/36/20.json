@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Akagadzira ⟨את⟩ mapango eMishikani, muti weshiti, akamira.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapango"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "eMishikani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "muti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weshiti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "akamira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:53.843286106Z",
+  "model": "glm-5.3"
+}

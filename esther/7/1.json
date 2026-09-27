@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nyakubata-munda anopinda, naHamani, kunwa neEsther ⟨mutungamiri wevanhukadzi⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "anopinda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nyakubata-munda"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "naHamani"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "kunwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨mutungamiri wevanhukadzi⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:38.942605763Z",
+  "model": "glm-5.3"
+}

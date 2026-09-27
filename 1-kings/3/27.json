@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye mambo akapindura akati: Mupe iye ⟨את⟩ mwanakomana mupenyu, uye hamumurume; ndiye amai wake.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "mupe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana mupenyu"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "uye murume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamu-"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "-murai"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amai wake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:56.920113059Z",
+  "model": "glm-5.3"
+}

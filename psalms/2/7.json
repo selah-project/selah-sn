@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndichazivisa ⟨את⟩ murairo: Yahwe akati kundi: iwe mukomana wangu; ndini nhasi ndakakuzvarira.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ndichazivisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חק",
+      "gloss": "murairo",
+      "marks": "murairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mukomana wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ndakakuzvarira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:14.253008369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndiitire nyasha, Yahwe, nokuti ndinodzoka ndichirwara; ndiporesa, Yahwe, nokuti mapfupa angu agwamba.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ndiitire nyasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ndinorwara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ndiporesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "agwamba"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mapfupa angu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:13.908408835Z",
+  "model": "glm-5.3"
+}

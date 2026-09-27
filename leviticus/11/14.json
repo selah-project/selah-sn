@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "uye ⟨את⟩ hadaiya, uye ⟨את⟩ haaiya, nemhando yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "hadaiya"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "hadaiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "haaiya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "haaiya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "nemhando yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:16.505711780Z",
+  "model": "glm-5.3"
+}

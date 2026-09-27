@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Ini ndakakuzivai muchirimo, munyika yomunyoro yakaoma.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ndakakuzivai"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "muchirimo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika yo"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "munyoro yakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:59.595987680Z",
+  "model": "glm-5.3"
+}

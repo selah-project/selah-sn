@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe achaita kuti dambudziko richimudzikamisa ⟨את⟩ dambudziko paunowo, kusvika atapura ⟨את⟩ iwe pasi padunhu iro waunopinda kutora.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "achamudzikamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "paunowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dambudziko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "atapura"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pasi pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dunhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "unopinda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "kutora"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:23.265715813Z",
+  "model": "glm-5.3"
+}

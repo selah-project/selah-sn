@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye zvisiwo zvinovhariswa muchiarwa, apo izwi rekutesva neguri riri pasi, uye munhu anomuka kune izwi reshiri, uye vazhinji vechiimbi vodzikanyua vakaremara.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "zvinovhariswa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "zvisiwo"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "muchiarwa"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "riri pasi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "rekutesva neguri"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "anomuka"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kune izwi"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "reshiri"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "vodzikanyua vakaremara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vazhinji"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "vechiimbi"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "chiimbo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:07.261379624Z",
+  "model": "glm-5.3"
+}

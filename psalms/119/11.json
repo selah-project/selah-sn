@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mumoyo wangu ndakavanza shoko rako, kuti ndirege kutadza ⟨kwauri⟩.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "mumoyo wangu"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ndakavanza"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "shoko rako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndirege"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "kutadza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:30.799250795Z",
+  "model": "glm-5.3"
+}

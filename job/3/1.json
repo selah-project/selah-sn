@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Mushure meizvi Jobo akavhura ⟨את⟩ mukanwa make, ndokuturira ⟨את⟩ zuva rake.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Mushure me"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "akavhura"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukanwa make"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mukanwa make"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ndokuturira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuva rake"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "zuva rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:32:50.752973634Z",
+  "model": "glm-5.3"
+}

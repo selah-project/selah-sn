@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asi ndini ndakaisa ⟨את⟩ mambo wangu paZiyoni, gomo rangu retsvene.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ndini"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ndakaisa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mambo wangu",
+      "marks": "mambo wangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "retsvane rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:14.252849817Z",
+  "model": "glm-5.3"
+}

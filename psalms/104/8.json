@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Makomo anokwira, mabani anoderera, kumwara kwawakatsigira kwavari.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "anokwira"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Makomo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "anoderera"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "mabani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumwara kwa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "wakatsigira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:45.286757143Z",
+  "model": "glm-5.3"
+}

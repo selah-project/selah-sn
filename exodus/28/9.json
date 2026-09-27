@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uchatora ⟨את⟩ mabwe maviri eshohamu, uye uchachera pamusoro pawo mazita evana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uchatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabwe maviri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "eshohamu"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "uchachera"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pawo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mazita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "evana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:25.917648782Z",
+  "model": "glm-5.3"
+}

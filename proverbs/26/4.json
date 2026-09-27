@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Usapindura mupenzi nezvaupenzi hwake, kuti usava saake — iwe wo.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תַּ֣עַן",
+      "gloss": "pindura"
+    },
+    {
+      "surface": "כְּ֭סִיל",
+      "gloss": "mupenzi"
+    },
+    {
+      "surface": "כְּאִוַּלְתּ֑וֹ",
+      "gloss": "nezvaupenzi hwake"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "kuti usava"
+    },
+    {
+      "surface": "תִּשְׁוֶ֥ה",
+      "gloss": "usave saake"
+    },
+    {
+      "surface": "לּ֥וֹ",
+      "gloss": "saake"
+    },
+    {
+      "surface": "גַ֣ם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אָֽתָּ֗ה",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:24.626516497Z",
+  "model": "glm-5.3"
+}

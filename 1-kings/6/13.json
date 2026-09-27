@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndichagara mukati mevana vaIsiraeri, uye handisi kurega ⟨את⟩ vanhu vangu vaIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "Ndichagara"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handisi"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "kurega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu vaIsiraeri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:08:29.203320985Z",
+  "model": "glm-5.3"
+}

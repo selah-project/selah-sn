@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akagonya matenga nokudzikara, nerima guru rakapfuma pasi petsitsi dzake.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "akagonya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nokudzikara"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "nerima guru rakapfuma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsitsi dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:51.162861012Z",
+  "model": "glm-5.3"
+}

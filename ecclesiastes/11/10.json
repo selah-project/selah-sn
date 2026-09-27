@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye bvisa kushatirwa kumoyo mako, uye dzima zvakaipa kumuviri wako; nokuti utombi nekusimba kwazvinoitisa zvekukura — ndezvemahara.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Uye bvisa"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kushatirwa"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "kumoyo mako"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "uye dzima"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "kumuviri wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "utombi"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "nekusimba kwazvinoitisa zvekukura"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ndezvemahara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:12.879532951Z",
+  "model": "glm-5.3"
+}

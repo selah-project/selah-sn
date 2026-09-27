@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Adonai, nzwe: ivhu — mazana mana eshekelu yesirivha; pakati pangu nepako chii izvozvo? Uye viga ⟨את⟩ vafi vako.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "nzwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "eshekelu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yesirivha"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pangu"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "nepako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vafi vako"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "vafi vako"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "viga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:21.524796299Z",
+  "model": "glm-5.3"
+}

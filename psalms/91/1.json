@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Anogara muchihumbiriro cheEriyoni, muzumuzvu reShadai achazorora.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Anogara"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "muchihumbiriro"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "cheEriyoni"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "muzumuzvu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "reShadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "achazorora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:34.114203487Z",
+  "model": "glm-5.3"
+}

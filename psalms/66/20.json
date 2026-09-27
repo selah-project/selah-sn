@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Ropafadzwa Erohimu, asina kudzorera shure minamato yangu, uye ⟨את⟩ hesedhi yake ⟨kubva nangu⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ropafadzwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "dzoresha"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "minamato yangu"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "uye hesedhi yake"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ kubva nangu",
+      "marks": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:23.812800134Z",
+  "model": "glm-5.3"
+}

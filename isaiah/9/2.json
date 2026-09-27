@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Wawedzera ruzhunde, washandisa ⟨kwete kunyanya⟩ mufaro; vafara pachiso chako sokufara kwekukohwa, sevanoitwa nokufara pakapatsanwa chibharo.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "wawedzera"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ruzhunde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete kunyanya"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "washandisa"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "vafara"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pachiso chako"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "sokufara"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "kwekukohwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sevanoitwa"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "nokufara"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "pakapatsanwa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chibharo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:47.792099039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 21:25",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Zvino kunze kwezvinorehwa zvaAmonu zvose avaita, hazvina here kunyorwa mugwaro remashoko emazuva emadzimambo eYudha?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "kunze kwe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zvinorehwa"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "avaita"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hazvina here"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zvo"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kunyorwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "gwaro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "remashoko"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "emazuva"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "emadzimambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "eYudha"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:19.490709578Z",
+  "model": "glm-5.3"
+}

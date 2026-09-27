@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye ⟨את⟩ Shabhata yako tsvene wakavazivisa, uye mirairo nemarongero netora wakavakomekedza neruoko rwaMoshe mushandi wako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata yako tsvene"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "yako tsvene"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "wakavazivisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "marongero"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wakavakomekedza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "neruoko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "rwaMoshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:14:39.188166902Z",
+  "model": "glm-5.3"
+}

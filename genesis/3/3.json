@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Asi wemuchero wemuti uri pakati pemunda, Erohimu akati: hamudyi kubva muworo, hamudaviri kuukosvera; pamwe muchafa.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Asi we…muchero"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "wemuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva muworo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "daviri kosvera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "pamwe"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "muchafa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:24.888502731Z",
+  "model": "glm-5.3"
+}

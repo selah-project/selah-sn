@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye vachaputsa rusvingo rwaTsur, vachadzikisa matangi ayo; ndichavehurura ⟨את⟩ huru yayo kubva mairi, ndichiisaita dombo rakachena.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "vachaputsa"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "rusvingo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "rwaTsur"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "vachadzikisa"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "matangi ayo"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "ndichavehurura"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "huru yayo"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kubva mairi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichiisaita"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "huru yayo (iyo Tsur)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "rakachena"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dombo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:25:24.983749204Z",
+  "model": "glm-5.3"
+}

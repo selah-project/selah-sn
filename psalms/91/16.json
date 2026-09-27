@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Nokureba kwemazuva ndichimugadzikisa ⟨את⟩, ndikamutaridza ⟨את⟩ muchipunziro changu.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "nokureba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwemazuva"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ndichimugadzikisa"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ndikamutaridza"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "muchipunziro changu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:36.196277523Z",
+  "model": "glm-5.3"
+}

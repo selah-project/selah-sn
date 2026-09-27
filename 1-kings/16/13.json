@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nokuda kwe⟨zvitadzo⟩ zvose zvaBhasha, nezvitadzo zvaEra mwanakomana wake, izvo vakatadza, uye izvo vakaita kuti ⟨את⟩ Israeri itadze, kuitsvinyirira ⟨את⟩ Yahwe, Erohimu yeIsraeri, nezvinhu zvavo zvisina kukosha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "zvitadzo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "zvaBhasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "nezvitadzo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "zvaEra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vakatadza"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye izvo"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "vakaita kuti…itadze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "kuitsvinyirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "nezvinhu zvavo zvisina kukosha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:55.154044192Z",
+  "model": "glm-5.3"
+}

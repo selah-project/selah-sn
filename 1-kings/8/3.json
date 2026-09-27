@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndipo vakuru vose veIsiraeri vakauya, uye vapristi vakatora ⟨את⟩ chavara.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsiraeri"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "vapristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chavara"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "chavara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:16.188814452Z",
+  "model": "glm-5.3"
+}

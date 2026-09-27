@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Wakaita zvakanaka nomuranda wako, Yahwe, sokutaurwa kwako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sokutaurwa kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:58.419255703Z",
+  "model": "glm-5.3"
+}

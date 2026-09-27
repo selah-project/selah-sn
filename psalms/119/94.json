@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndewe iwe — ndiponesa; nokuti ndinotsvaga mirairo yako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ndewe iwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi⟨ini⟩"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndiponesa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ndinotsvaga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:40.201776054Z",
+  "model": "glm-5.3"
+}

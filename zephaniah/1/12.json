@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 1:12",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino chichaitika panguva iyoyo, ndichatsvaga ⟨את⟩ Yerusalema nemazambuko, ndichazvidza varume vakamonyopadzika panzvondwa dzavo, vanoti mumoyo yawo: Yahwe haagoni kuita zvakanaka, kana kuita zvakaipa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chichaitika"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "אחפש",
+      "gloss": "ndichatsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalema"
+    },
+    {
+      "surface": "בנרות",
+      "gloss": "nemazambuko"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ndichazvidza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "הקפאים",
+      "gloss": "vakamonyopadzika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שמריהם",
+      "gloss": "nzvondwa dzavo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "vanoti"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "mumoyo yawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "kuita zvakanaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "kuita zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:47:03.722301030Z",
+  "model": "glm-5.3"
+}

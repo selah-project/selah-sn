@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Anotaura zvenyengerero pamusoro penyu; vavengi vako vanotaura zvisina basa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Anotaura — ivo"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "vanotaura pamusoro penyu"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "zvenyengerero"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "vanotaura"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "zvisina basa"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "vavengi vako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:46.485101784Z",
+  "model": "glm-5.3"
+}

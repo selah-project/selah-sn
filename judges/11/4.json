@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye zvakaita mushure memazuva, vanakomana vaAmoni vakarwa navana vaIsuraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Uye zvakaita"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "mushure memazuva"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanakomana va"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vana vaIsuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:37:14.993863652Z",
+  "model": "glm-5.3"
+}

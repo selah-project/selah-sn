@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Mazhinji mangani mabasa ako, Yahwe! Zvose wakazviita nehungwaru; nyika yazara nezvisikwa zvako.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mangani"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "Mazhinji"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "Zvose"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nehungwaru"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakazviita"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yazara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "nezvisikwa zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:10.489167144Z",
+  "model": "glm-5.3"
+}

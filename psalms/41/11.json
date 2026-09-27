@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Asi iwe Yahwe, ita nyasha dzako pandiri, uye ndimutsire, ndichavadzorisawo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ita nyasha dzako pandiri"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "ndimutsire"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ndichavadzorisawo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:28.373727927Z",
+  "model": "glm-5.3"
+}

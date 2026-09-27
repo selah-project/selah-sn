@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Uye vakati kuna Moshe, vachiti: Vanhu varikuwedzera kuunza, zvakakwana kupfuura zvinoenderana nebasa rechirongwa, icho Yahwe akarayira kuita ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "varikuwedzera kuunza"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kuunza"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "zvakakwana kupfuura"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "nevasevenzi\/basa"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "chirongwa chebasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨את⟩ — chiratidzo chechinhu chakarayirwa (basa rechirongwa)"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:17.198639415Z",
+  "model": "glm-5.3"
+}

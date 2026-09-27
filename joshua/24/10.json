@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Asi handina kuda kunzwa Bhiramu, ndipo akarukamisa ⟨אתכם⟩ zvikuru, ndikakununura ⟨אתכם⟩ muzvokwakwa rwake.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Asi handina"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bhiramu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akarukamisa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "muri (chinhu chakarukamiswa)"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ndikakununura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "muri (vanhu vakakununurwa)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "muzvokwakwa rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:09.418071815Z",
+  "model": "glm-5.3"
+}

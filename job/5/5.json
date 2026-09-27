@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Mbesa yake munenzara anodya, anodzitora kubva muminzwa, uye vanenzara yemvura vanoshushopfa upfumi hwavo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yake"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "mbesa"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "munenzara"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "anodya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "muminzwa"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "anodzitora"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "vanoshushopfa"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "vanenzara yemvura"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "upfumi hwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:19:05.167124273Z",
+  "model": "glm-5.3"
+}

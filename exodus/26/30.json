@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye unomisa ⟨את⟩ Mishikani sokutaridziro yaro, iro wakaratidzwa pagomo.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "unomisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "sokutaridziro yaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "wakaratidzwa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pagomo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:50.178168171Z",
+  "model": "glm-5.3"
+}

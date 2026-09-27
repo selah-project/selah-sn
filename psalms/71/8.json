@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Mukanwa angu angazadzwa nokurumbidzwa kwako, mazuva ose nehukuru hwako.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "angazadzwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mukanwa angu"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "nokurumbidzwa kwako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "nehukuru hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:37.921359064Z",
+  "model": "glm-5.3"
+}

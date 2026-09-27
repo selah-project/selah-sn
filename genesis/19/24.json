@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Yahwe akazvonza panzvimbo yeSodhoma neAmorha gvapfu nemoto, kubva kuna Yahwe ⟨מאת⟩, kubva matenga.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "akazvonza"
+    },
+    {
+      "surface": "על",
+      "gloss": "panzvimbo ye"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodhoma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorha"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "gvapfu"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "nemoto"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:23.523135478Z",
+  "model": "glm-5.3"
+}

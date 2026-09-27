@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Uye mutengo wekudzikinura ⟨mweya⟩ wavo wakanyanya kukodzera, uye unogumira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "wakanyanya kukodzera"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "wekudzikinura"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "⟨mweya⟩ wavo"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "unogumira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:50.055886761Z",
+  "model": "glm-5.3"
+}

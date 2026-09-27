@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Akati kandiri: Mwanadamu, izwa ⟨את⟩ raunowana idya — idya ⟨את⟩ gwaro iri, uye enda, taura neimba yaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanadamu (mwanakomana)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mwanadamu (munhu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwa raunowana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raunowana"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "unowana"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "idya"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "idya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwaro iri"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gwaro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uye enda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:17:05.304548609Z",
+  "model": "glm-5.3"
+}

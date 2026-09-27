@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Akaunganidza ⟨את⟩ madzishe ose eIsraeri, nevapristi, nevaRevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzishe ose eIsraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsraeri"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "nevapristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "nevaRevi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:26:36.445423855Z",
+  "model": "glm-5.3"
+}

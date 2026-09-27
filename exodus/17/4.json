@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye Mozhe akadana Yahwe, achiti: Ndinoita chii kuvanhu ava? Kana kwechinguva chinoge, vachandibvisa moyo nomatombo.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndinoita"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kwechinguva chinoge"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "vachandibvisa moyo nomatombo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:56.137680478Z",
+  "model": "glm-5.3"
+}

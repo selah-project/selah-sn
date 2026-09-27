@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndakakurudza mabasa angu; ndakavaka misha ndiri; ndakadzika minda yemabherere ndiri.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Ndakakurudza"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mabasa angu"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndakavaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "misha"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ndakadzika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "minda yemabherere"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:33.421912863Z",
+  "model": "glm-5.3"
+}

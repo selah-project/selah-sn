@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Zvino zvino, ita chisungo ndapota shure waTenzi wangu, mambo waAshuru, ndichakupa makumi maviri emahachi, kana ukakwanisa kuipa vavayiri pamusoro pavo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino zvino"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "ita chisungo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shure waTenzi wangu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tenzi wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waAshuru"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndichakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "makumi maviri emahachi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zviuru zviviri"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mahachi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ukakwanisa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pamazvo ako"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "vavayiri"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:50.030276282Z",
+  "model": "glm-5.3"
+}

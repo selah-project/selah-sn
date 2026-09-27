@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvakanaka zita kupinda mafuta akanaka, uye zuva rekufa kupinda zuva yokuzvarwa kwake.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kupinda mafuta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "uye zuva"
+    },
+    {
+      "surface": "המות",
+      "gloss": "rekufa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kupinda zuva"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "yokuzvarwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:49.038014190Z",
+  "model": "glm-5.3"
+}

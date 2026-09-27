@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Asi pakutsvaruka kwangu vakafara, vakasangana; vakasangana pamusoro pangu vasiri vechokwadi, uye handina kuziva; vakatyora, uye havina kumira.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "pakutsvaruka kwangu"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "vakafara"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "vasiri vechokwadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuziva kwangu"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "vakatyora"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "kumira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:54.452075747Z",
+  "model": "glm-5.3"
+}

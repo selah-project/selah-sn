@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye maimona ⟨את⟩ matsemukiro emadziro eguta raDhavidi, nokuti aiva mazhinji; uye makaunganidza ⟨את⟩ mvura yedziva ruri pasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matsemukiro emadziro"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "matsemukiro"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "eguta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "raDhavidi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "maimona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "aiva mazhinji"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "makaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvura yedziva"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "yedziva"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ruri pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:54.463689933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Kunaka kwekuzvininipisa mweya pamwe ⟨ne⟩ ⟨את⟩ vapfumba, kupinda kupatsanura chibhakera ⟨na⟩ ⟨את⟩ vazvizvi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kunaka"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "kuzvininipisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vapfumba"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "vapfumba"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "kupatsanura"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chibhakera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vazvizvi"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "vazvizvi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:26:56.232985076Z",
+  "model": "glm-5.3"
+}

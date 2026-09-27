@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "NaShebueri, mukorwa waGershome, mukorwa waMoshe, aive mutungamiri pezvipfuma.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "NaShebueri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "waGershome"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "waMoshe"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe-"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "zvipfuma"
+    }
+  ],
+  "timestamp": "2026-09-27T10:27:50.727427588Z",
+  "model": "glm-5.3"
+}

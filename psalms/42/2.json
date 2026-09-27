@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Se mhembwe ichifema zvakasimva pamusoro penzizi dzemvura, saizvozvo mweya wangu unofema zvakasimva kwauri, Erohimu.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "se mhembwe"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ichifema zvakasimva"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "nzizi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "demvura"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "unofema zvakasimva"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:08.066033453Z",
+  "model": "glm-5.3"
+}

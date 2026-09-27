@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 122,
+  "translation": "Nokuda kwechimbà cheYahwe Erohimu wedu, ndichatsvaga zvakanaka ⟨kwazvo⟩ zviri ⟨kwiwe⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "chimba che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ndichatsvaga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwiwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:38.017363152Z",
+  "model": "glm-5.3"
+}

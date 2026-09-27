@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Abhimelekhi akarayira ⟨את⟩ vanhu vose achiti: Anobata munhu uyu kana mukadzi wake — anofa chaiye anofa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimelekhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "anobata"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "kana mukadzi wake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anofa chaiye"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:23.366246272Z",
+  "model": "glm-5.3"
+}

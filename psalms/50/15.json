@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Ndatembera pazuva rekutambudzika; ndichakununura iwe, uye iwe unondiremekedza.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Ndatembera"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "rekutambudzika"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ndichakununura iwe"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "uye iwe unondiremekedza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:07.628721592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye vachatora chikamu cheropa, uye vachachiisa pamutsvindo miviri nepamusoro pomusuo, pamadhindo amamo vachadya ⟨את⟩ yayo mazvimo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "vachatora"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "cheropa"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "vachachiisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "miviri"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "pamutsvindo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "pomusuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "madhindo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amamo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vachadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yayo (mhuka yechibairo)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mazvimo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:58.690685711Z",
+  "model": "glm-5.3"
+}

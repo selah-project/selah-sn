@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Mukoma haagoni kudzikinura ⟨mukoma⟩; hapana anokwanisa kupa Erohimu chibairo chake.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kudzikinura"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "kudzikinura"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anokwanisa kupa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "chibairo chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:35.000870729Z",
+  "model": "glm-5.3"
+}

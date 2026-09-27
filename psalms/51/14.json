@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Dzokeresa kune ini mufaro wekuponesa kwako, uye Mweya wakanaka unditsigire.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Dzokeresa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kune ini"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "wekuponesa kwako"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "uye Mweya"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "wakanaka"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "unditsigire"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:09.677531743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Mambo weMisraimu akamubvisa muYerushalemu, akaisa mutoro ⟨את⟩ nyika — zana rekikari chesirivha, nekikari imwe yendarama.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "akamubvisa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMisraimu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerushalemu"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "akaisa mutoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana re"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikari"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "nekikari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    }
+  ],
+  "timestamp": "2026-09-27T10:44:34.164600736Z",
+  "model": "glm-5.3"
+}

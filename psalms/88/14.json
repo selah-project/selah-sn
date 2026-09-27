@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Asi ini ndakadana kuna Yahwe, ndichidana kwauri; nemangwanana munamato wangu unokutangira.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndakadana"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "nemangwanana"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "munamato wangu"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "unokutangira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.741581340Z",
+  "model": "glm-5.3"
+}

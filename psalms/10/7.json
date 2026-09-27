@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mhaka yakazara muromo wake, uye unyengeri netsotsi; pasi perurimi rwake ruvo neuchivi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "mhaka"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "muromo wake"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "uye unyengeri"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "netsotsi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "rurimi rwake"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ruvo"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "neuchivi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:24.234060750Z",
+  "model": "glm-5.3"
+}

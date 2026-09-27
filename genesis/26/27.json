@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Isaka akati kwavari: Ndeiyi makauya kwandiri, imi makandivenga, makandituma kure ne⟨את⟩ imi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ndeiyi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "makauya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "makandivenga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini (chinhu chakavengwa)"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "makandituma kure"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "ne⟨את⟩ imi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:28.460399860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 4:34",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Mouisi naAharoni namadzimambo emhuri yakaverenga ⟨את⟩ vana vaKehati, nemhuri dzavo, nendumba dzokwawo baba.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "akaverenga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mouisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAharoni"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "namadzimambo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "emhuri yaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaKehati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "vaKehati"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemhuri dzavo"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "nendumba"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dzokwawo baba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:46.279530914Z",
+  "model": "glm-5.3"
+}

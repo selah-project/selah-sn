@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Noa akava nemazana mashanu gare gare, nokuti Noa akazvara ⟨את⟩ Shemu, ⟨את⟩ Chamu, na⟨את⟩ Yafeti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chamu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yafeti"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafeti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:24.495579855Z",
+  "model": "glm-5.3"
+}

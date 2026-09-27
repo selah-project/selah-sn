@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "nokuti hupfumi havugari nokusingaperi, uye ushe here hunogara chizvarwa nechizvarwa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havugari"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "hupfumi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ushe"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "chizvarwa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nechizvarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:55.659844705Z",
+  "model": "glm-5.3"
+}

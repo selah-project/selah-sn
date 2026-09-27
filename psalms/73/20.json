@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Sechiroto paunomuka, Adonai, mukazvimutsa, mufananidzo wavo unozvidzwa.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Sechiroto"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "paunomuka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mukazvimutsa"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "mufananidzo wavo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "unozvidzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:22.219980283Z",
+  "model": "glm-5.3"
+}

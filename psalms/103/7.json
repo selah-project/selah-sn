@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Anozivisa nzira dzake kuna Moshe, nezviitwa zvake kuvana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Anozivisa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "nzira dzake"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuna Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "nezviitwa zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:09.131083204Z",
+  "model": "glm-5.3"
+}

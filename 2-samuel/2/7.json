@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 2:7",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvino maoko enyu ngave nesimba, mive vana venyongo, nokuti Tenzi venyu Shaure wafa; uye iniwo ⟨את⟩ ndini vakandizodza (vokudzodza) mhuri yaYadhudha kuti ndive mambo pamusoro pavo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "ngave nesimba\/ive nesimba"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "maoko enyu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mive"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vana ve"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nyongo\/simba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "Tenzi venyu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaure"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye iniwo\/uye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ndini\/ini",
+      "marks": "ndini (izvo vakazodza — kudzodzwa mambo)"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "vakandizodza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mhuri ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yadhudha"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuti ndive mambo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:31.155651358Z",
+  "model": "glm-5.3"
+}

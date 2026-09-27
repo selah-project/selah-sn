@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Kana uchinotuma ⟨את⟩ mukoma wedu ⟨את⟩ nesu, tinodzika, uye tinokutinira chibairo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "uchinotuma"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wedu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mukoma wedu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nesu"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "tinodzika"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "tinokutinira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chibairo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:20:45.865302066Z",
+  "model": "glm-5.3"
+}

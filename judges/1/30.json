@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zebhuruni haana kutambwidza ⟨את⟩ vagari veKithironi, nah⟨את⟩ vagari veNaharari; ndokuti Mukanani akagara mukati mavo, ndokuita vachibhadhara mutero.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebhuruni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "kutambwidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vagari veKithironi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "veKithironi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nah⟨את⟩",
+      "marks": "vagari veNaharari"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "veNaharari"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mukanani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mukati mavo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vakaitwa"
+    },
+    {
+      "surface": "למס",
+      "gloss": "vachibhadhara mutero"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:22.129713032Z",
+  "model": "glm-5.3"
+}

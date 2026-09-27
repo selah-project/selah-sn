@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Sokumunya chirimwa, nomadzirwo ekukohwa, saizvozvo kukudzwa hakukodzeri mupenzi.",
+  "tokens": [
+    {
+      "surface": "כַּשֶּׁ֤לֶג",
+      "gloss": "sokumunya"
+    },
+    {
+      "surface": "בַּקַּ֗יִץ",
+      "gloss": "chirimwa"
+    },
+    {
+      "surface": "וְכַמָּטָ֥ר",
+      "gloss": "nomadzirwo"
+    },
+    {
+      "surface": "בַּקָּצִ֑יר",
+      "gloss": "ekukohwa"
+    },
+    {
+      "surface": "כֵּ֤ן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "נָאוֶ֖ה",
+      "gloss": "hakukodzeri"
+    },
+    {
+      "surface": "לִכְסִ֣יל",
+      "gloss": "mupenzi"
+    },
+    {
+      "surface": "כָּבֽוֹד",
+      "gloss": "kukudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:24.626020724Z",
+  "model": "glm-5.3"
+}

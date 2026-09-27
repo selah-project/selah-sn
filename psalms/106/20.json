@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Vakashandura ⟨את⟩ rukudzo rwavo kuita mufananidzo womombe inodya uswa.",
+  "tokens": [
+    {
+      "surface": "וַיָּמִירוּ",
+      "gloss": "vakashandura"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "rukudzo rwavo"
+    },
+    {
+      "surface": "כְּבוֹדָם",
+      "gloss": "rukudzo rwavo"
+    },
+    {
+      "surface": "בְּתַבְנִית",
+      "gloss": "mufananidzo wo"
+    },
+    {
+      "surface": "שׁוֹר",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "אֹכֵל",
+      "gloss": "inodya"
+    },
+    {
+      "surface": "עֵשֶׂב",
+      "gloss": "uswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:54.727150864Z",
+  "model": "glm-5.3"
+}

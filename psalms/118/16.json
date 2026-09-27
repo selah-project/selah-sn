@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Ruwoko rweYahwe rwakakwidzwa; ruwoko rweYahwe runoita simba.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "Ruwoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rweYahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "rwakakwidzwa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rweYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "runoita"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "simba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:41.287593979Z",
+  "model": "glm-5.3"
+}

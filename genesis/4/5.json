@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "asi kuKajini nokumina yake haana kuitarisa; uye Kajini akatsamwa zvikuru, uye uso hwake hwakadonha.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "asi ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "kumina yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "kuitarisa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "akatsamwa"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "hwakadonha"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uso hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:59.876918417Z",
+  "model": "glm-5.3"
+}

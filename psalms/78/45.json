@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akatumira pakati pavo zvinokwanza, zvinozodya; uye shiri dzemvura dzinoparadza.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "zvinokwanza"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "zvinozodya"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "shiri dzemvura"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "dzinoparadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:39.158505384Z",
+  "model": "glm-5.3"
+}

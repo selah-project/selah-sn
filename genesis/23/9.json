@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 23:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "kuti atipe ndiri ⟨את⟩ bako reMachipehera riri zvake, riri kumagumo kwemunda wake; nehwerdi yakazara atipe ndiri mumarimo kwamuri, sechitorwa chekuvigwa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "kuti atipe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bako reMachipehera"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "bako re"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "Machipehera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zvake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "kumagumo kwe"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "munda wake"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "nehwerdi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "יתננה",
+      "gloss": "atipe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mumarimo kwamuri"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "sechitorwa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "chekuvigwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:03.244638368Z",
+  "model": "glm-5.3"
+}

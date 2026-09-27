@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Uye vanhu vose vakabvisa ⟨את⟩ mhete dzendarama dziri munezvino, vakazviunza kuna Aharoni.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "vakabvisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhete dzendarama"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dzendarama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dziri"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "munezvino yavo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "vakazviunza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:11.864025344Z",
+  "model": "glm-5.3"
+}

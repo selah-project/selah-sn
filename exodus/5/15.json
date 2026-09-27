@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye vatungamiriri vevana vaIsirayeri vakasvika, vachidana kuna Farao kuti: Nei munoita nokudaro kvaranda dzenyu?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "vatungamiriri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirayeri"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "vachidana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "munoita"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kvaranda dzenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:43.432515404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Mitemo yesorudzi ngozi kwemazana amuri mose, munzvimbo dzose dzamunogara: mafuta ose nedamaru ose, hamufaniri kudya.",
+  "tokens": [
+    {
+      "surface": "חֻקַּת",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "yesorudzi"
+    },
+    {
+      "surface": "לְדֹרֹתֵיכֶם",
+      "gloss": "kwemazana amuri"
+    },
+    {
+      "surface": "בְּכֹל",
+      "gloss": "munzvimbo dzose"
+    },
+    {
+      "surface": "מוֹשְׁבֹתֵיכֶם",
+      "gloss": "dzamunogara"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "חֵלֶב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "nedamaru"
+    },
+    {
+      "surface": "דָּם",
+      "gloss": "ose"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "hamufaniri"
+    },
+    {
+      "surface": "תֹאכֵלוּ",
+      "gloss": "kudya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:19.973052911Z",
+  "model": "glm-5.3"
+}

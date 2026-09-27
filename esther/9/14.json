@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Mambo akati kuti kuitwe zvakadaro, uye data rakapiwa muShushani; uye ⟨את⟩ vana gumi vaHaman vakapinzhwa.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לְהֵעָשׂוֹת",
+      "gloss": "kuti kuitwe"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "וַתִּנָּתֵן",
+      "gloss": "rakapiwa"
+    },
+    {
+      "surface": "דָּת",
+      "gloss": "data"
+    },
+    {
+      "surface": "בְּשׁוּשָׁן",
+      "gloss": "muShushani"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "vana gumi vaHaman"
+    },
+    {
+      "surface": "עֲשֶׂרֶת",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "vana"
+    },
+    {
+      "surface": "הָמָן",
+      "gloss": "vaHaman"
+    },
+    {
+      "surface": "תָּלוּ",
+      "gloss": "vakapinzhwa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:00:00.114330756Z",
+  "model": "glm-5.3"
+}

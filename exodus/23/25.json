@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye muchashanda ⟨את⟩ Yahwe Erohimu yenyu, ndokukomborera ⟨את⟩ chingwa chako ne⟨את⟩ mvura yako; ndokubvisa kurwara pakati penyu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "muchashanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ndokukomborera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chingwa chako"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "chingwa chako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mvura yako"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "mvura yako"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ndokubvisa"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "kurwara"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "pakati penyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:30.624177694Z",
+  "model": "glm-5.3"
+}

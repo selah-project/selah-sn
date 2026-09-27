@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti ndakagara sichiri mumba kubva nenguva yandinoburitsa ⟨את⟩ vana vaIsiraeri kuMisyiri kusvika nhasi, asi ndakange ndiri ndichifamba-famba duta nehema nemuMishikani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ndakagara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "kubva nenguva"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "andinoburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuMisyiri"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "asi ndakange ndiri"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ndichifamba-famba"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "duta nehema"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "muMishikani"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:06.362646925Z",
+  "model": "glm-5.3"
+}

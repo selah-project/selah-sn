@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye Yaakobha akati: Tengesa nhasi ⟨את⟩ chibvumirano chokutanga kwako kwndiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Tengesa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibvumirano chokutanga kwako"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "chibvumirano chokutanga kwako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwndiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:29.467030339Z",
+  "model": "glm-5.3"
+}

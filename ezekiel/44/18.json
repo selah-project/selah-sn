@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 44:18",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Michiswa yepfusi ichava pamusoro pemisoro yavo, nomashortsi epfusi achava pamusoro pesadza ravo; havafaniri kusunga nechishusho cheswecha.",
+  "tokens": [
+    {
+      "surface": "פארי",
+      "gloss": "michiswa"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "yepfusi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ichava ⟨pamusoro pe⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "misoro yavo"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "nomashortsi"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "epfusi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "achava ⟨pamusoro pe⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מתניהם",
+      "gloss": "sadza ravo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יחגרו",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "ביזע",
+      "gloss": "neswecha"
+    }
+  ],
+  "timestamp": "2026-09-27T08:34:11.261261857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Kune mutungamiri wemaridzo, nemabhiya. Mutambo wemaridzo, nziyo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri wemaridzo"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "nemabhiya"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mutambo wemaridzo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nziyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:46.578252606Z",
+  "model": "glm-5.3"
+}

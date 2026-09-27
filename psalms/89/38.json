@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Semwedzi chichagadzikwa nokusingaperi, uye mhuri yechokwadi muchadenga. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "semwedzi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "chichagadzikwa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "uye mhuri"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "muchadenga"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "yechokwadi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:23.258943231Z",
+  "model": "glm-5.3"
+}

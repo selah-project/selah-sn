@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye zvakare vana vaRevi havachafaniri kutora ⟨את⟩ Mishikani ne⟨את⟩ zvipaumbowo zvose zvavo, sezvishandiswa zwe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "uye zvakare"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "vana vaRevi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "havana"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kutora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvipaumbowo zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvipaumbowo zvavo"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "sezvishandiswa zwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:26:33.678511512Z",
+  "model": "glm-5.3"
+}

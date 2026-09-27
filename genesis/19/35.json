@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvino usiku hwacho zvakare vakamwisira ⟨את⟩ baba vavo wayini; munyoro akamuka, akakanda rukuvhunzuro naye; asi haana kuziva pavakadzika, kana pavakamuka.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "vakamwisira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hwacho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vavo"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "baba vavo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wayini"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "munyoro"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "akakanda rukuvhunzuro"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haana kuziva"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "haana kuziva"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "pakudzika kwake"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "pakumuka kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:51.767148723Z",
+  "model": "glm-5.3"
+}

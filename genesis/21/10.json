@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Akati kunaAbhurahama: Dzinga muranda uyu wechikadzi ne⟨את⟩ mwanawe, nokuti mukororo womuranda uyu wechikadzi haagari nhaka nomwanangu, Isihaki.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kunaAbhurahama"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Dzinga"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu wechikadzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mwanawe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwanawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "-agari nhaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukororo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "womuranda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu wechikadzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "-mwanangu"
+    },
+    {
+      "surface": "עם",
+      "gloss": ","
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isihaki"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:43.919171394Z",
+  "model": "glm-5.3"
+}

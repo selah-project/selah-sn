@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 110,
+  "translation": "Adonai ari kurudyi rwako; achanyangadza madzimambo muzuzu rwa⟨hasha⟩ dzake.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ari kurudyi ⟨pa⟩"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "rwako"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "achanyangadza"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuzu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "rwa⟨hasha⟩ dzake"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "madzimambo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:02.298831022Z",
+  "model": "glm-5.3"
+}

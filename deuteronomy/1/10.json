@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe Erohimu wenyu akakuwedzerai; uye onai, nhasi muri sesenyeredzi dzematenga kuwanda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wenyu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "akakuwedzerai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi (akakuwedzerai)"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "uye onai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "sesenyeredzi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzematenga"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kuwanda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:36.615990481Z",
+  "model": "glm-5.3"
+}

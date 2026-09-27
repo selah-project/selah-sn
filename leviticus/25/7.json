@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye zvipfuyo zvako, nezvipukanana zviri munyika yako — zvibvo zvazvo zvose zvichava chokudya.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "Uye zvipfuyo zvako"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "nezvipukanana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "munyika yako"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "zvichava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zvibvo zvazvo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "chokudya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:28.783296901Z",
+  "model": "glm-5.3"
+}

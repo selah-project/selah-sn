@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Yahwe akati kuna Mose: Famba pamberi pevanhu, uye tora ⟨את⟩ nawe vechiye vevakuru veIsraeri; uye tsvimbo yako yaunorova nayo ⟨את⟩ rwizi, tora munumaoko rwako, uye famba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "famba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "uye tora"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "vechiye vevakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "uye tsvimbo yako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "waunorova"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rwizi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rwizi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "munumaoko rwako"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "uye famba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:41.843076809Z",
+  "model": "glm-5.3"
+}

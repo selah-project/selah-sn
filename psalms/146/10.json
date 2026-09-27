@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Yahwe achatonga nokusingaperi, Erohimu wako, iwe Ziyoni, kuzera nokuzera. Rumbidzai Yah.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzera"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nokuzera"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:36.059538127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Mhete dzacho dzinove miganhu iyo, sezviumbo zvezvitsetso, kutakura ⟨את⟩ tafura nazvo.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "miganhu iyo"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "pedyo na"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "dzinove"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mhete dzacho"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "sezviumbo"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "zvezvitsetso"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kutakura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafura"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:04.072272538Z",
+  "model": "glm-5.3"
+}

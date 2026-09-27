@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Yahwe ndipamusoro pemadzimambo ese; kukudzwa kwake ndepamusoro pematenga.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ndipamusoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ese"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "pematenga"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kukudzwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:35.942071330Z",
+  "model": "glm-5.3"
+}

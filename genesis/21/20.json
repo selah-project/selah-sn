@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye Erohimu aive ⟨na⟩ ⟨את⟩ mukomana; akakura akagara mugwenga, akava mudyi wuta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukomana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "akakura"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mudyi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "wuta"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:36.327230077Z",
+  "model": "glm-5.3"
+}

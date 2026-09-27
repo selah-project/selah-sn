@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "⟨את⟩ ani achadzidzisa ruzivo, uye ⟨את⟩ ani achanzwisisa shoko rinonzwikwa? Ivavo vakambomukiswa kubva mubira, vakambobviswa kubva mazamu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "achadzidzisa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ruzivo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "ani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "achanzwisisa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "shoko rinonzwikwa"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "vakambomukiswa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kubva mubira"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "vakambobviswa"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "kubva mazamu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:43.679877162Z",
+  "model": "glm-5.3"
+}

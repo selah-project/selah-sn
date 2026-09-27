@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Uye Adha akabarira Esavu ⟨את⟩ Erifazi; uye Bhoshimati akabara ⟨את⟩ Reueru.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akabarira"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adha"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erifazi"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Erifazi"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "uye Bhoshimati"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reueru"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reueru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:59.423234155Z",
+  "model": "glm-5.3"
+}

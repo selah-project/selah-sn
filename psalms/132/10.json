@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Nokuda kwaDhavhidhi, mushandi wako, usadzokere shure chiso cheMashiach wako.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Nokuda kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "dzokere shure"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:06.417513713Z",
+  "model": "glm-5.3"
+}

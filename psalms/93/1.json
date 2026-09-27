@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 93,
+  "translation": "Yahwe anotonga; akapfekedza humukuru, akapfekedza simba; akazvibatanidza ⟨nesimba⟩; zvino ⟨pasi⟩ chakagadzikana, hachizumburuki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "humukuru"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "akapfekedza"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "akapfekedza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "akazvibatanidza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "chakagadzikana"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "chizumburuki"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:37.276135209Z",
+  "model": "glm-5.3"
+}

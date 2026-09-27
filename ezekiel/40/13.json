@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Akayera ⟨את⟩ musuo kubva padenga rechita rimwe kusvika padenga rechita ropiri, upamhi hwacho makumi maviri neshanu ⟨ama⟩, mukovo uchinangana nemukovo.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "akayera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "musuo"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "kubva padenga"
+    },
+    {
+      "surface": "התא",
+      "gloss": "rechita"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "kusvika padenga raro"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upamhi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "neshanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mukovo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "uchinangana"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nemukovo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:32:30.178026589Z",
+  "model": "glm-5.3"
+}

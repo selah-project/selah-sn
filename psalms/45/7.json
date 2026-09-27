@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Chigaro chako choushe, Erohimu, chinogaramo nokusingaperi; chimuti chekururama ndicho chimoti choushe hwako.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "Chigaro chako choushe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "chinogaramo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chimuti che"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chimoti che"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "oushe hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:38.306143427Z",
+  "model": "glm-5.3"
+}

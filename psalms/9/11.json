@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye avo vanoziva zita rako vachavimba newe; nokuti hauna kusiya avo vanokutsvaka, iwe Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "Uye vachavimba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "avo vanoziva"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "avo vanokutsvaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:28.057623112Z",
+  "model": "glm-5.3"
+}

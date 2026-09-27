@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "⟨את⟩ munhu wokunze ungomudavira; asi izvo zvave nounewo navamukoma wako, ruoko rwako rungobvisa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu wokunze"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "munhu wokunze"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "ungomudavira"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "asi izvo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zvave"
+    },
+    {
+      "surface": "לך",
+      "gloss": "unounewo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mukoma wako"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "rungobvisa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:14:50.734398262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 108,
+  "translation": "Moyo wangu wakagadzikana, Erohimu; ndichaimba, ehe, ndichaita nzembamuta, nesimbi rangu chero.",
+  "tokens": [
+    {
+      "surface": "נָכ֣וֹן",
+      "gloss": "wakagadzikana"
+    },
+    {
+      "surface": "לִבִּ֣י",
+      "gloss": "Moyo wangu"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אָשִׁ֥ירָה",
+      "gloss": "ndichaimba"
+    },
+    {
+      "surface": "וַ֝אֲזַמְּרָ֗ה",
+      "gloss": "ndichaita nzembamuta"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "ehe"
+    },
+    {
+      "surface": "כְּבוֹדִֽי",
+      "gloss": "nesimbi rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:14.864812846Z",
+  "model": "glm-5.3"
+}

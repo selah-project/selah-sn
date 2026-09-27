@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Nokuti Abhurahama akateerera izwi rangu, akachengeta chengeto changu, mirairo yangu, mitemo yangu, natora yangu.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akateerera"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "akachengeta"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "chengeto changu"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mirairo yangu"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "tora yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:46.959520574Z",
+  "model": "glm-5.3"
+}

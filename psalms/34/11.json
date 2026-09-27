@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Shumba dzechidiki dzinoshoma dzinenzara; asi vachatsvaga Yahwe havashome chero chinhu chakanaka.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "shumba dzechidiki"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "dzinoshoma"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "dzinenzara"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "vachatsvaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havashome"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "chero chinhu havachishome"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chero chinhu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:47.411064703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 12:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Unolungama iwe Yahwe, ndokuti ndikutsengane newe; asi mitemo ndichataura newe. Nei nzira yevakaipa yabudirira? Nei vanyengedzi vose vakagara zvakanaka?",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Unolungama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndikutsengane"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "asi"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ newe",
+      "marks": "newe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yevakaipa"
+    },
+    {
+      "surface": "צלחה",
+      "gloss": "yabudirira"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "vakagora zvakanaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "vanyengedzi"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "vanonyengedza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:56:04.675751830Z",
+  "model": "glm-5.3"
+}

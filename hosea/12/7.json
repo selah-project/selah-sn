@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Iwe dzokera kuErohimu wako; chengeta hesedhi nemutemo, uye mirira Erohimu wako nguva dzose.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "kuErohimu wako"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "dzokera"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nemutemo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "chengeta"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "uye mirira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:33.746715428Z",
+  "model": "glm-5.3"
+}

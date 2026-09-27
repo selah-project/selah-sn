@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "uye ⟨את⟩ gungwa rimwe, uye ⟨את⟩ madhonza gumi nembiri pasi pegungwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "madhonza"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "madhonza"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nembiri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:25.587976263Z",
+  "model": "glm-5.3"
+}

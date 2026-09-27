@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Kune mudzikisi, kuvana vaKorachi, pamusoro pearamota, chirwiyo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mudzikisi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "aramota"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chirwiyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:00.775229640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "nekaata, ne⟨את⟩ rachama, ne⟨את⟩ sharaka",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "nekaata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "rachama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rachama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "sharaka"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "sharaka"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:29.529788927Z",
+  "model": "glm-5.3"
+}

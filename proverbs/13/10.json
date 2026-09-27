@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Zviduku chete chinopa bongozvo; asi ⟨את⟩ avo vanorongana pane chinangwa kune uchenjeri.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "zviduku"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "chinopa"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "bongozvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "avo vanorongana pane chinangwa"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "vanorongana"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "uchenjeri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:56.700974077Z",
+  "model": "glm-5.3"
+}

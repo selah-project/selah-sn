@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Erohimu akanzwa izvi, akaipayira zvikuru, akadzinga Israeri nokukasha kwazvo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "akaipayira"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "akadzinga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:02.140491615Z",
+  "model": "glm-5.3"
+}

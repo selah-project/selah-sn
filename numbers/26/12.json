@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Vana vaShimeoni nezvidzinwa zvavo: kunaNemueri, chidzinwa chavaNemueri; kunaYamini, chidzinwa chavaYamini; kunaYakini, chidzinwa chavaYakini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Vana"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "vaShimeoni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nezvidzinwa zvavo"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "kunaNemueri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "chidzinwa"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "chavaNemueri"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "kunaYamini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "chidzinwa"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "chavaYamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "kunaYakini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "chidzinwa"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "chavaYakini"
+    }
+  ],
+  "timestamp": "2026-09-27T10:52:55.488828307Z",
+  "model": "glm-5.3"
+}

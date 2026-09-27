@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "nokuti mazuva tanhatu Yahwe akasika ⟨את⟩ matenga ne⟨את⟩ pasi, ⟨את⟩ gungwa ne⟨את⟩ zvose zviri mukati mazvo, akazorora muzuva rechirinomwe; naizvozvo Yahwe akakomborera ⟨את⟩ zuva reShabhata, ndokuritsvenesa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "tanhatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akasika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matenga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose zviri mukati mazvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mukati mazvo"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "akazorora"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "rechirinomwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akakomborera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuva reShabhata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "reShabhata"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "ndokuritsvenesa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:40.447250825Z",
+  "model": "glm-5.3"
+}

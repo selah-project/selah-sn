@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Kubva matenga wakaita kuti mutongo unzwiwe; pasi rakaitya, ragarakazara.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Kubva matenga"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "wakaita kuti ... unzwiwe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "mutongo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rakaitya"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ragarakazara"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:08.240580195Z",
+  "model": "glm-5.3"
+}

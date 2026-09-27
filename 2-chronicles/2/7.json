@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 2:7",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye nditumire miti yemazere, ye⟨beroshi⟩, ne⟨argomumi⟩ kubva muRebhanoni; nokuti ndinoziva kuti varanda vako vanoziva kutema miti yeRebhanoni; uye taona, varanda vangu vachiri pamwe chete nevaranda vako.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "uye nditumire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "yemazere"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ye⟨beroshi⟩"
+    },
+    {
+      "surface": "ואלגומים",
+      "gloss": "ne⟨argomumi⟩"
+    },
+    {
+      "surface": "מהלבנון",
+      "gloss": "kubva muRebhanoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinoziva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda vako"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "vanoziva"
+    },
+    {
+      "surface": "לכרות",
+      "gloss": "kutema"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "yeRebhanoni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda vangu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe chete ne-"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda vako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:12.866900587Z",
+  "model": "glm-5.3"
+}

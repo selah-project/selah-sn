@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Yahwe akati kuna Moshe: Simudza ruoko rwako pamusoro pematenga, uye pave nhema pamusoro penyika yeMitsrayimu, uye nhema ichibatwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Simudza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "pave"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nhema"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "ichibatwa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nhema"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:33.207467537Z",
+  "model": "glm-5.3"
+}

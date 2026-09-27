@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye huwandu hwavo huva ⟨nhumbi⟩, uye dzimba dzavo dzave ⟨dzitsvene⟩; vachavaka dzimba asi vachaita kugara kwazvo hakuna; vachadzika mabhindauva asi haunwi ⟨את⟩ vhayini yavo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "uye zvinove"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hupfumi hwavo"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "nhumbi"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "uye dzimba dzavo"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "shata"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "vachavaka"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi kwete"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "kugara kwazvo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "vachadzika"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mabhindauva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi kwete"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "kunwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vhayini yavo"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "vhayini yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:46:46.919658600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Kune mutungamiri, paGithithi; rwiyo rwaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Githithi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rwaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.032307056Z",
+  "model": "glm-5.3"
+}

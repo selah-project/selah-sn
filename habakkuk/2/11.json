@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti ibwe richabhiza kubva mumadziro, uye chivande chehuni chichapindura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ibwe"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "kubva mumadziro"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "richabhiza"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "uye chivande"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "chehuni"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "chichapindura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:44:41.965845462Z",
+  "model": "glm-5.3"
+}

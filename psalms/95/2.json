@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Tiende tananga chiso chake nemutenda; nemarwiyo tibvume kwaari.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Tiende tananga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "nemutenda"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "nemarwiyo"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "tibvume"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:01.722034083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Farao akadana kuna Moshe, akati: Endai, shandirai ⟨את⟩ Yahwe; chete mapfanga enyu nomombe dzenyu ngazvinogarira; vana venyu vechidiki zvevo ngavaende nemi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Endai"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shandirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "mapfanga enyu"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "nomombe dzenyu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ngazvinogarira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvevo"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vana venyu vechidiki"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ngavaende"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nemi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:33.208072971Z",
+  "model": "glm-5.3"
+}

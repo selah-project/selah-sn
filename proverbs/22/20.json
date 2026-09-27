@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Handina kunyora kwakwako katatu nezvitsidzo neruzivo here?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "handina... here"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "kunyora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwakwako"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "katatu"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "nezvitsidzo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "neruzivo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:28:23.650044262Z",
+  "model": "glm-5.3"
+}

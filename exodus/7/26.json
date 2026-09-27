@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye Yahwe akataura kuna Moshe, ati: Enda kuna Farao, uye utaure naye kuti: Zvakadaro ndinoti Yahwe: Ita ⟨את⟩ vanhu vangu vasununguke, kuti vandigare ndinomushumira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uye utaure"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndinoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ita...vasununguke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "kuti vandigare ndinomushumira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:44.037770095Z",
+  "model": "glm-5.3"
+}

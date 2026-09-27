@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Sezvinofamba zvive nokudzikira mudimbuko, Mweya waYahwe wakazvinzorera; naizvozvo wakatunga vanhu vako, kuitira kuzviitira iwe zita renharembozha.",
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "Sezvinofamba zvive"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "mudimbuko"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "nokudzikira"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "wakazvinzorera"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "wakatunga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuitira kuzviitira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "renharembozha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:44.055775192Z",
+  "model": "glm-5.3"
+}

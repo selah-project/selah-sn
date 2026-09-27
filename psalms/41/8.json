@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Vose vanondivenga vanonzvenga-nzvenga pamwe chete paari; paari vanoronga zvakaipa ⟨zvandiri⟩.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "paari"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "vanonzvenga-nzvenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Vose"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "vanondivenga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "paari"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "vanoronga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨zvandiri⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:33.440525348Z",
+  "model": "glm-5.3"
+}

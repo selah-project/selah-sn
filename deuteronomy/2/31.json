@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Yahwe akati kwandiri: Ona, ndatanga kukupa pamberi pako ⟨את⟩ Sihoni nenyika yake; tanga kuvhinyi, uvhinye nyika yake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "ndatanga"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "nyika yake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nyika yake"
+    },
+    {
+      "surface": "החל",
+      "gloss": "tanga"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kuvhinyi"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "uvhinye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nyika yake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:29.819801969Z",
+  "model": "glm-5.3"
+}

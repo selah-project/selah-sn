@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Kana munzwe wako atapfuma kushoma, akatengesa kubva muchitoro chake, mudzikinuri wake ari pedyo naye achauya, adzikinura ⟨את⟩ chinotengeswa namunzwe wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "atapfuma kushoma"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "munzwe wako"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "akatengesa"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "kubva muchitoro chake"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "achauya"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "mudzikinuri wake"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ari pedyo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "adzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinotengeswa namunzwe wake"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "chinotengeswa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "namunzwe wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:13.551447343Z",
+  "model": "glm-5.3"
+}

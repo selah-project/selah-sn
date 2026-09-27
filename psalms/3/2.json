@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe, zvakawanda sei vavengi vangu vakawanda vachimira pandiri!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvakawanda sei"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "vachimira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:27.460127042Z",
+  "model": "glm-5.3"
+}

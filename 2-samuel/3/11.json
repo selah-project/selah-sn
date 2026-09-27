@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Iye haagoni zve kudavira ⟨את⟩ Abuneri shoko, nokuda kwekutya kwake ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "goni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zve"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kudavira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abuneri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abuneri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "nokuda kwekutya kwake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    }
+  ],
+  "timestamp": "2026-09-27T10:58:21.981645274Z",
+  "model": "glm-5.3"
+}

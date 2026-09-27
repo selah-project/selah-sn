@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Akati kuvavo: Ndiri kuona ⟨את⟩ chiso chaibaba venyu, kuti chisiri kwandiri sezvaiva kare; asi Erohimu yaba aive neni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndiri kuona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chaibaba venyu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "chaibaba venyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "chisiri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "sezvaiva"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "kare"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "asi Erohimu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aive"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "neni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:53.077922605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "MuErohimu ndicharumbidza shoko rake; muErohimu ndinovimbisa; handina kutyoka — chii chinokwanisa kuita nyama kwandiri?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "muErohimu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ndicharumbidza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "shoko rake"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "muErohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndinovimbisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "chinokwanisa kuita"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:52.761336483Z",
+  "model": "glm-5.3"
+}

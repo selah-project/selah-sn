@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ishi-Boshiti akatumira, akaatora ⟨את⟩ kubva kumurume — kubva kuna Parutieri, mukoma waRayishi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ishi"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshiti"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "akaatora"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva kumurume"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kumurume"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva kuna"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Parutieri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "waRayishi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:25.429255215Z",
+  "model": "glm-5.3"
+}

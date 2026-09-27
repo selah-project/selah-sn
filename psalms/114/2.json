@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 114,
+  "translation": "Yudha yakava ⟨ye⟩utsvene hwake, Israeri matare ake,",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yakava"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "⟨ye⟩utsvene hwake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "matare ake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:14.390868514Z",
+  "model": "glm-5.3"
+}

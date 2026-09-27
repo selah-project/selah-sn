@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Aya ndivo vakazvarirwa kuRafa munaGati; vakagwa mumaoko aDhavhidhi nemumaoko emiranda yake.",
+  "tokens": [
+    {
+      "surface": "אֵל",
+      "gloss": "aya ndivo"
+    },
+    {
+      "surface": "נוֹלְדוּ",
+      "gloss": "vakazvarirwa"
+    },
+    {
+      "surface": "לְהָרָפָא",
+      "gloss": "kuRafa"
+    },
+    {
+      "surface": "בְּגַת",
+      "gloss": "munaGati"
+    },
+    {
+      "surface": "וַיִּפְּלוּ",
+      "gloss": "vakagwa"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "mumaoko a"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "וּבְיַד",
+      "gloss": "nemumaoko a"
+    },
+    {
+      "surface": "עֲבָדָיו",
+      "gloss": "emiranda yake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:44.131089403Z",
+  "model": "glm-5.3"
+}

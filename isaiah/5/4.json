@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Chii chandinoitazve kumunda wangu wemazambiringa, ndisina kuita muwo? Ndeupi mhosyo ndakatarira kuti ubere mazambiringa, wokubere mazambiringa emusango?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "chinoitazve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvimwe"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kumunda wangu wemazambiringa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndisina"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muwo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ndeupi mhosyo"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndakatarira"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuti ubere"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "mazambiringa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wokubere"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "mazambiringa emusango"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:43.203228295Z",
+  "model": "glm-5.3"
+}

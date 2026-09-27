@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Nziyo, nzembero, yevana vaKorachi; kune mutungamiri, pamusoro peMacharati, yokudavira; dzidziso yaHeimani muEzrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembero"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yevana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Macharati"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "yokudavira"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "dzidziso"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "yaHeimani"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "muEzrahi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:03.531237137Z",
+  "model": "glm-5.3"
+}

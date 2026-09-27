@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 6:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uvalevhi vakadzikisa ⟨את⟩ Arki yaYahwe uye ⟨את⟩ bokisi raiva ⟨את⟩ naro, rine zvinhu zvendarama mukati, vakazvisa padombo guru; uye varume veBheti-Shemesh vakakwidzira mabapiro akapiswa, vakapira mapiro zuva iroro kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "Uvalevhi"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "vakadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bokisi"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "bokisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rine"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zendarama"
+    },
+    {
+      "surface": "וישמו",
+      "gloss": "vakazvisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "dombo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "varume"
+    },
+    {
+      "surface": "בית",
+      "gloss": "veBheti-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "vakakwidzira"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mabapiro akapiswa"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "vakapira"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mapiro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iroro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:40.976558250Z",
+  "model": "glm-5.3"
+}

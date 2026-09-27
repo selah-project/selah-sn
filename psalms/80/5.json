@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Yahwe Erohimu Tsevaoti, kusvika rinhi iwe unotsva nemaminamato evanhu vako?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "unotsva"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "nemaminamato"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "evanhu vako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:23.465222Z",
+  "model": "glm-5.3"
+}

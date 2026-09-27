@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Ukuvire chiso chako kubva pazvitadzo zvangu, uye upwese zvose zvakaipa zvangu.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "ukuvire"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "kubva pazvitadzo zvangu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye zvose"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "zvakaipa zvangu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "upwese"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:01.692058366Z",
+  "model": "glm-5.3"
+}

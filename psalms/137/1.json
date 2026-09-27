@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Panharire dzeBhabhironi, ipapo takagara, toga tichichema, tichirangarira ⟨את⟩ Ziyoni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nharire"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bhabhironi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "takagara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "toga"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "tichichema"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "tichirangarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ziyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:34.281048058Z",
+  "model": "glm-5.3"
+}

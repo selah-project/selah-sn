@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 129,
+  "translation": "Ngavanyarare zvavo ngavadzoke shure, vose vanovenga Zioni.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ngavanyarare zvavo"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ngavadzoke"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "vanovenga"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zioni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:21.902412829Z",
+  "model": "glm-5.3"
+}

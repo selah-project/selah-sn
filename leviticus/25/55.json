@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nokuti kwangu vana vaIsraeri ndivo varanda; varanda vangu ndivo, avo ndakaburitsa ⟨את⟩ munyika yeMitsrayimu; ndini Yahwe Erohimu venyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda vangu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndakaburitsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "munyika yeMitsrayimu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:34.283616314Z",
+  "model": "glm-5.3"
+}

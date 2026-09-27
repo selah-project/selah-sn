@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Abhimelekhi akati kunaIsaka: Famba kubva kwedu; nokuti wakasimba kupfuura isu zvakanyanya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimelekhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Famba"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "kubva kwedu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "wakasimba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kupfuura isu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:42.141584533Z",
+  "model": "glm-5.3"
+}

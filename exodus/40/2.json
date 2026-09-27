@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Nemusi wekviri yemwedzi wekutanga, mumotsi wemwedzi,uchamisa ⟨את⟩ Mishikani, dhende reokusangana.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nemusi"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "wemwedzi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wekutanga"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mumotsi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wemwedzi"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "uchamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dhende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rekusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:36.823560012Z",
+  "model": "glm-5.3"
+}

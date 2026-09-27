@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uchaaita ⟨את⟩ madziro emiti yeshitima, uchazvifukidza ⟨אתם⟩ ndarama.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madziro"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "emiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeshitima"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uchazvifukidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "madziro"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:04.673298741Z",
+  "model": "glm-5.3"
+}

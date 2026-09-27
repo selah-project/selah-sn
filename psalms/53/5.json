@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Herezvo, vanoita akaipa havazivi here? Vanodya vanhu vangu sevadyi chingwa; havana kudana Erohimu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "herezvo"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "havazivi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "און",
+      "gloss": "akaipa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "vanodya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sevadyi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kudana"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:08.987805443Z",
+  "model": "glm-5.3"
+}

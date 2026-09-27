@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Handina here kuchema wakane zuva rakashata? Mweya wangu wakaramba uchirwadziwa nomurombo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "ndinochengeta here kuti ndeme? — handina here kuchema"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "wakane zuwa rakashata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "wakaramba uchirwadziwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "nomurombo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:42:21.980012222Z",
+  "model": "glm-5.3"
+}

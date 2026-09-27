@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye mupristi anopisa ⟨את⟩ chiratidzo chayo — chekumbambadzi dzaya nechefuta chayo — pamusoro perevhona yaya yose; ⟨iri⟩ chibairo chomoto kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Uye mupristi anopisa (kunhuhwirira)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiratidzo chayo"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "chiratidzo chayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "chekumbambadzi dzaya"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "nechefuta chayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "revhona yaya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "chibairo chomoto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:22.289317145Z",
+  "model": "glm-5.3"
+}

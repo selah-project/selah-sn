@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Serugi akagara makore makumi matatu, akazvara ⟨את⟩ Nahori.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:35.443614037Z",
+  "model": "glm-5.3"
+}

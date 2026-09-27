@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Asi ivo, kuuraya mweya wangu ndiko kwavanoita; vachapinda muzvidzwa zvepasi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Asi ivo"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "kuuraya"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vachapinda"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "muzvidzwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zvepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:24.344383790Z",
+  "model": "glm-5.3"
+}

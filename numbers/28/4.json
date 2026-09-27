@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "⟨את⟩ emergedzwa rimwe unoita manguva okusviba, uye ⟨את⟩ emergedzwa repiri unoruita pakati pemadokinyoro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emergedzwa rimwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "emergedzwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "manguva okusviba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "emergedzwa repiri"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "emergedzwa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "repiri"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unoruita"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "madokinyoro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:52:41.812551290Z",
+  "model": "glm-5.3"
+}

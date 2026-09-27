@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Vakafa havarumbidzi Yah, pamwe nevasingadzokisi kudzika kunoenda kune nyarariro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "havarumbidzi"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "vakafa"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "<rumbidza>"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pamwe nehava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "vanodzika"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "nyarariro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:26.299507480Z",
+  "model": "glm-5.3"
+}

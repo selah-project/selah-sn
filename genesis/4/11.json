@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino naizvozvo, wakaromwa uri, wakatsiviwa kubva muivhu rakavhura ⟨את⟩ muvomo waro kuti rigamuchire ⟨את⟩ ropa rwehanzvadzi yako kubva ruoko rwako.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zvino naizvozvo"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "wakaromwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "muivhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rakavhura…roro"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "rakavhura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muvomo waro"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muvomo waro"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kuti rigamuchire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ropa rwehanzvadzi yako"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rwehanzvadzi yako"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kubva ruoko rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:17.397241169Z",
+  "model": "glm-5.3"
+}

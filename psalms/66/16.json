@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Idzai, munzwe, uye ndichataura kuvanhu vose vanotya Erohimu izvo akaita ku⟨mweya⟩ wangu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Idzai"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "munzwe"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "uye ndichataura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "vanotya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:31.645651530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anorapa vane moyo yakaputswa, uye anobanda marwadzo avo.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "anorapa"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "vane ... yakaputswa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "anobanda"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "marwadzi avo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:06.822036848Z",
+  "model": "glm-5.3"
+}

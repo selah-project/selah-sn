@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Zvakare shamwari yangu yaivakanirwa neni, iye wandainovimba naye, uyo aidyakudya chingwa changu, akandipa zvadi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "איש",
+      "gloss": "shamwari"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "yaivakanirwa neni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "wandainovimba naye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aidyakudya"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "chingwa changu"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "akaita hombe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "zvadi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:28.373537455Z",
+  "model": "glm-5.3"
+}

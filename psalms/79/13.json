@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Uye isu, vanhu vako nenhumwi dzekumapurazi ako, tichakutendera nokusingaperi, kuzvarwa nendezvarwa, tichataura ruramisiro rwako.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Uye isu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nenhumwi"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "dekumapurazi ako"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "tichakutendera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzvarwa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ndezvarwa"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "tichataura"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ruramisiro rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:44.561778472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Nzepi dzake dzichakufukidza ⟨iwe⟩, uye pasi pemabapiro ake unozvimirira; tsinga nehwaro ndiko chokwadi chake.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Nzepi dzake"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "dzichakufukidza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "uye pasi pe"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "mabapiro ake"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "unozvimirira"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "tsinga"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "nehwaro"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "chokwadi chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:34.114838953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Muvengi akaona murume mutsvene, achitsvaga kuuraya.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "murume mutsvene"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "achitsvaga"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kuuraya"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:55.288666640Z",
+  "model": "glm-5.3"
+}

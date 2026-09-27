@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mweya wangu wanyatsoshoreka muupenyu hwangu; ndichasiya kunetsero kwangu ⟨pamusoro⟩ pandiri, ndichataura mukuvava kwemweya wangu.",
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "wanyatsoshoreka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "muupenyu hwangu"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "ndichasiya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pandiri"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kunetsero kwangu"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "במר",
+      "gloss": "mukuvava"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kwemweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:48.588286714Z",
+  "model": "glm-5.3"
+}

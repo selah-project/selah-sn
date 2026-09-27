@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Yahwe anoona zvaunofunga, kuti zviri chinhu chisina maturo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "zvaunofunga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "chinhu chisina maturo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:33.784885685Z",
+  "model": "glm-5.3"
+}

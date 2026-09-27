@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Abusharomu akatuma vanoongorori kunze kwematawanga ose eIsiraeri, vachiti: Kana mukanzwa ⟨izwi⟩ rwe⟨shofari⟩, mukati: Abusharomu wava mambo kuChebhurona.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abusharomu"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vanoongorori"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kunze kwe"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "matawanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "kana mukanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi rwe⟨shofari⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "rwe⟨shofari⟩"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wava mambo"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abusharomu"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kuChebhurona"
+    }
+  ],
+  "timestamp": "2026-09-27T07:00:03.428690145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Yahwe akati: Ndichadzima ⟨את⟩ munhu wandakasika, kubva pachiso cheadhama; kubva kumunhu kusvika chipfuo, kusvika zvinorukaruka, nokusvika shiri dzadenga; nokuti ndinozvikudza, nokuti ndiakazviita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Ndichadzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wandakasika"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ndakasika"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "adhama"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kubva kumunhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "chipfuo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvinorukaruka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokusvika"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzadenga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ndinozvikudza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ndiakazviita"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:28.934505767Z",
+  "model": "glm-5.3"
+}

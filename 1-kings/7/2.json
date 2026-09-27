@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Akaaka ⟨את⟩ imba yeTema reRebhanoni: hurefu hwayo zana maamha, upamhi hwawo makumi mashanu maamha, hudzide hwawo makumi matatu maamha, pamusoro pemitsi ina yemitsigiri yemasedhari, nedhanda remasedhari pamusoro pemitsigiri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akaaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yeTema reRebhanoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יער",
+      "gloss": "yeTema"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "reRebhanoni"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "hurefu hwayo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upamhi hwawo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "hudzide hwawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "mitsi"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "yemitsigiri"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "yemasedhari"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "nedhanda remasedhari"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "masedhari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pemitsigiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:43.367383669Z",
+  "model": "glm-5.3"
+}

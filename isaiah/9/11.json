@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Aramu kumabvazuva, uye vaFirisitia kumashure; vakadya ⟨את⟩ Isiraeri nomuromo wose. Pazvose izvi hasha dzake hazwadzokera, uye ruoko rwake ruchiri kutambanuka.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kumabvazuva"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "uye vaFirisitia"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "kumashure"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "vakadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "no"
+    },
+    {
+      "surface": "פה",
+      "gloss": "muromo wose"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "zvose izvi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dzadzokera"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasha dzake"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "uye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruko rwake"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ruchiri kutambanuka"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:18.667718595Z",
+  "model": "glm-5.3"
+}

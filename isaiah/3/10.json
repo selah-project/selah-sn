@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vati vane kururama kuti zvakanaka, nokuti vachadya muchero wezviito zvavo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "vati"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vane kururama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "muchero"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "wezviito zvavo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vachadya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:34.657837700Z",
+  "model": "glm-5.3"
+}

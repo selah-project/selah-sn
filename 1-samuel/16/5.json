@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Akati: Zvakanaka; ndauya kuzopihira chibairo chiYahwe; dzikinuratsei, uye uyai ⟨את⟩ neni kuchibairo. Akadzikinura ⟨את⟩ Yishai ne⟨את⟩ vana vake, akadaita kuchibairo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kuzopihira chibairo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chiYahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndauya"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "dzikinuratsei"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "uye uyai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ neni"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "kuchibairo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akadzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadaita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "avo"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kuchibairo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:06.711764537Z",
+  "model": "glm-5.3"
+}

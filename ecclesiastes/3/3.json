@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nguva yekuuraya, uye nguva yekuporesa; nguva yekuputsa, uye nguva yekuvaka.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "yekuuraya"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "yekuporesa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "yekuputsa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yekuvaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:01.728312294Z",
+  "model": "glm-5.3"
+}

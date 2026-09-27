@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Asi ini, nekuwanda kwehesedhi yako, ndichapinda mumba mako; ndichapfugamira kuna ⟨heikari⟩ itsvene yako, nokutya kwako.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nekuwanda kwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndichapinda"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "mumba mako"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ndichapfugamira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨heikari⟩"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "itsvene yako"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "nokutya kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:00.665395670Z",
+  "model": "glm-5.3"
+}

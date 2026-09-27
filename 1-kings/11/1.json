@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye mambo Shoromoni akada vakadzi vazhinji vokunze, ne⟨את⟩ mwanasikana waFarao — vechiMoabhu, vechiAmoni, vechiEdhomi, vechiSidhoni, vechiHiti.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Uye mambo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoni"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "akada"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vakadzi"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vokunze"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "vazhinji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwanasikana waFarao"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "vechiMoabhu"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "vechiAmoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "vechiEdhomi"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "vechiSidhoni"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "vechiHiti"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:09.702739127Z",
+  "model": "glm-5.3"
+}

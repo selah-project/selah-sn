@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Unotidzosa kumashure kubva kumuvengi, uye navanotivenga vanotora zvinhu sevavo.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Unotidzosa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kumashure"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kumuvengi"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "uye navanotivenga"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "vanotora zvinhu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sevavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:20.191771590Z",
+  "model": "glm-5.3"
+}

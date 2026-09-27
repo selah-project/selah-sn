@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Shimoni naRevhi madzibaba; zvombo zvevhurwacho ndiwo mabanga avo.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וֹן",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "וְלֵוִ֖י",
+      "gloss": "naRevhi"
+    },
+    {
+      "surface": "אַחִ֑ים",
+      "gloss": "madzibaba"
+    },
+    {
+      "surface": "כְּלֵ֥י",
+      "gloss": "zvombo"
+    },
+    {
+      "surface": "חָמָ֖ס",
+      "gloss": "zvevhurwacho"
+    },
+    {
+      "surface": "מְכֵרֹתֵיהֶֽם",
+      "gloss": "mabanga avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:04.587586730Z",
+  "model": "glm-5.3"
+}

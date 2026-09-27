@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "kuti Yahwe agona kuunza ⟨את⟩ vanhu ava kunyika yaakavapika, naizvozvo akavauraya mugwenga.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "agona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kuunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu ava"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaaka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "vapika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "va"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "akavauraya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:58:34.645564367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "⟨את⟩ mwedzi nenyeredzi kutonga husiku, nokuti hosipi wake hugarako nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwedzi"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "nenyeredzi"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "kutonga"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "husiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:10.427588716Z",
+  "model": "glm-5.3"
+}

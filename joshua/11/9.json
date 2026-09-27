@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yehoshua akazviita kwavari sokutaura kwaYahwe kwakamurayira: ⟨את⟩ mabhiza avo akadonha mazviri, uye ⟨את⟩ magari avo akautsva nomoto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akazviita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaura"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwakamurayira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhiza avo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "mabhiza avo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "akadonha mazviri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magari avo"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "magari avo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "akautsva"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    }
+  ],
+  "timestamp": "2026-09-27T06:27:07.290318596Z",
+  "model": "glm-5.3"
+}

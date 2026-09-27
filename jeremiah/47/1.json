@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Izwi raYahwe raive rakauya kuna Yiremeyahu muporofita, rinodzvanyirira vaFirisitia, mushure menguva isati yasvika — Farao arova ⟨את⟩ Gaza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "raive"
+    },
+    {
+      "surface": "היה",
+      "gloss": "rakauya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rinodzvanyirira"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "vaFirisitia"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mushure menguva isati yasvika"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "arova"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:09:55.668239359Z",
+  "model": "glm-5.3"
+}

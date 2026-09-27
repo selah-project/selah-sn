@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yitiro, tezwara waMozhe, akatora ⟨את⟩ Tsipora, mukadzi waMozhe, mushure mekutumwa kwake.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitiro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tezwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "waMozhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "waMozhe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kutumwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:00.853678242Z",
+  "model": "glm-5.3"
+}

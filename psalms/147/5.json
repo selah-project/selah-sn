@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Adonai wedu mukuru, uine simba rakawanda; hakuna chiwerengo chenzwisiso yake.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai wedu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "uine rakawanda"
+    },
+    {
+      "surface": "כח",
+      "gloss": "simba"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "enzwisiso yake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "chiwerengo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:15.027202092Z",
+  "model": "glm-5.3"
+}

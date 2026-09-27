@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye ⟨את⟩ Ashani nomatunhu tavo, ⟨את⟩ Bethi-Shemeshi nomatunhu tavo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Uye ⟨את⟩",
+      "marks": "Ashani"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nomatunhu ⟨את⟩",
+      "marks": "matunhu tavo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matunhu tavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bethi-Shemeshi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nomatunhu ⟨את⟩",
+      "marks": "matunhu tavo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matunhu tavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:39.969346175Z",
+  "model": "glm-5.3"
+}

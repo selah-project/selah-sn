@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Usandikwevera nevakaipa, nevanoita zvakaipa; vanotaura runyararo nevavene vavo, asiakaipa mwoyo yavo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ndikwevere"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nevakaipa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "nevo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "vanotaura"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "vavene vavo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "asiakaipa"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "mwoyo yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:03.700245769Z",
+  "model": "glm-5.3"
+}

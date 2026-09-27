@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 28:12",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Nemufananidzo wezvose zvaiwanda muMweya wake: idzva reimba yaYahwe, nedzimba dzose dziri kumativi ose, sezvirongo zveimba yaErohimu, nezvirongo zvezvinoyera.",
+  "tokens": [
+    {
+      "surface": "ותבנית",
+      "gloss": "Nemufananidzo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvaiwanda"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "muMweya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "idzva re"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nedzimba dzose"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "dziri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kumativi ose"
+    },
+    {
+      "surface": "לאצרות",
+      "gloss": "sezvirongo zve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "nezvirongo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "zvezvinoyera"
+    }
+  ],
+  "timestamp": "2026-09-27T10:28:39.084747190Z",
+  "model": "glm-5.3"
+}

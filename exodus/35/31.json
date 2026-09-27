@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Akamuzadza ⟨את⟩ Mweya waErohimu nehungwe, nekunzwisisa, neruzivo, nubasa hwose.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "akamuzadza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Mweya waErohimu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nehungwe"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "nekunzwisisa"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "neruzivo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nubasa hwose"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "basa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:24.366256853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Kumukadzi akati: Ndichawedzera-kupfuma kupedza shungu detsitsiri dzako nehupenyu hwekutakura mwana; munjodzi uchabereka vana; uye kumurume wako kuchava shungu yako, uye iye achaita moyo wokutonga paawe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kupedza-kupedza"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ndichawedzera"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "shungu detsitsiri dzako"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "nehupenyu hwekutakura mwana"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "munjodzi"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "uchabereka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye ku"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "murume wako"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "kuchava shungu yako"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "achaita moyo wokutonga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "paawe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:25.336831693Z",
+  "model": "glm-5.3"
+}

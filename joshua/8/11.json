@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 8:11",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Vanhu vose vehondo vaiva ⟨את⟩ naye vakakwira, vakaswedera, vakasvika pamberi peguta, vakagara zvavo kumaodzanyemba kweAyi; mupata uwo woiva pakati pavo neguta reAyi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Vanhu"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "vehondo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vakakwira"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "vakaswedera"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "vakagara zvavo"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kumaodzanyemba"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "kweAyi"
+    },
+    {
+      "surface": "והגי",
+      "gloss": "mupata uwo"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:07.656139782Z",
+  "model": "glm-5.3"
+}

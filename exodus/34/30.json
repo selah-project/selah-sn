@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Aroni nevose vana vaIsiraeri vakaona ⟨את⟩ Moshe, uye taona ganda rechiso chake rakapenya, uye vakatya kuuya pedyo naye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "vakaona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "rakapenya"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rechiso chake"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "vakatya"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "kuuya pedyo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:20.444608561Z",
+  "model": "glm-5.3"
+}

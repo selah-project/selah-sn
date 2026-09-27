@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Kune mudungidziri, une zinstruments zvenzi, chidzidzo chaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mudungidziri"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "une zvinzi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chidzidzo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "chaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:56.033808787Z",
+  "model": "glm-5.3"
+}

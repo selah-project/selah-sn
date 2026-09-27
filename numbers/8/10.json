@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uchasvitsa ⟨את⟩ vhaRevhi pamberi paYahwe; vana vaIsraeri vachaisa ⟨את⟩ mazvo avo pamusoro pevhaRevhi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uchasvitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vhaRevhi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vhaRevhi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "vachaisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazvo avo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mazvo avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vhaRevhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:56:57.620986045Z",
+  "model": "glm-5.3"
+}

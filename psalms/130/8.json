@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 130,
+  "translation": "Uye iye achanunura ⟨את⟩ Israeri kubva muzvitadzo zvake zvose.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Uye iye"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "achanunura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva mu… zvose"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "muzvitadzo zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:29.586356438Z",
+  "model": "glm-5.3"
+}

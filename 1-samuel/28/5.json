@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Shauro akaona ⟨את⟩ misasa yaVaFerishtiya, akatya, uye moyo wake wakatetembera zvikuru.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misasa yaVaFerishtiya"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "misasa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "VaFerishtiya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akatya"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "wakatetembera"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:49.156724939Z",
+  "model": "glm-5.3"
+}

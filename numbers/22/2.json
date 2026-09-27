@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Balaki mukorwa waTsipori akaona ⟨את⟩ zvose zvaaita Isiraeri kuEmori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvaaita Isiraeri kuEmori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kuEmori"
+    }
+  ],
+  "timestamp": "2026-09-27T06:02:38.560852595Z",
+  "model": "glm-5.3"
+}

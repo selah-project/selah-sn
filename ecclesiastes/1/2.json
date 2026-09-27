@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mhepo yemhepo, akati Koheleti; mhepo yemhepo, zvose zvemhepo.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Mhepo"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "yemhepo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "yemhepo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zemhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:15.039795521Z",
+  "model": "glm-5.3"
+}

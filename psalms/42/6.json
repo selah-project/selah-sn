@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Ndeipi iwe unodzikwa, mweya wangu, uye unozunza pamusoro pangu? Vimbira Erohimu; nokuti ndichamutenda zvakare, maponesiro ari chiso chake.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ndeipi"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "unodzikwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "uye unozunza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Vimbira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ndichamutenda"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "maponesiro"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:09.352169441Z",
+  "model": "glm-5.3"
+}

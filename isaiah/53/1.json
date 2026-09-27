@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Ndi ani akatenda izvo takaninzwa? Uye ruoko rwaYahwe rwakavhurwa kuna ani?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndi ani"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "akatenda"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "izvo takaninzwa"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "Uye ruoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rwaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "rwakavhurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:06:10.978157250Z",
+  "model": "glm-5.3"
+}

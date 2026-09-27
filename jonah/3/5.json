@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uvarume veNinive vakatenda Erohimu, uye vakazivisa ⟨the⟩ chisi, uye vakapfekedza maputei, kubva numukuru wavo kusvika mudiki wavo.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "vakatenda"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "uvarume ve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "vakazivisa"
+    },
+    {
+      "surface": "צום",
+      "gloss": "chisi"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "vakapfekedza"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "maputei"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "kubva numukuru wavo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "mudiki wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:23.392637663Z",
+  "model": "glm-5.3"
+}

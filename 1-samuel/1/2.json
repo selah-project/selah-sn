@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye aive nemadzimai maviri: zita re Momwe rakanga riri Hanah, uye zita re wechipiri Peninah; uye Peninah aive nevana, asi Hanah haana ivana.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Uye aive ne"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita re"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Momwe"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye zita re"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wechipiri"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye aive ne"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninah"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "asi Hanah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "haana"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ivana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:31.537913012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Garira hesedhi yako kune vekuziva iwe, ruramiso rwako kune vakatwasuka pemoyo.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Garira"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "kune vekuziva iwe"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ruramiso rwako"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kune vakatwasuka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pemoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:50.647607067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mazwi eKoheleti, mukorwa waDhavhidhi, mambo muYerusharemu.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mazwi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "eKoheleti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusharemu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:15.039533245Z",
+  "model": "glm-5.3"
+}

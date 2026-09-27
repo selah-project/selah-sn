@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Uye zvinoshandiswa zvemungozvi zvakaipa; iye anoronga zvirongwa zvakaupa kuparadza vanyore nemashoko eunyengeri, uye kureverera mutorwa mutongo.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Uye zvemungozvi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinoshandiswa zvake"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "zvirongwa zvakaupa"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "anoronga"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "kuparadza"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "vanyore"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "nemashoko e"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "unyengeri"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "uye kureverera"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mutorwa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutongo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:30.774974081Z",
+  "model": "glm-5.3"
+}

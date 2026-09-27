@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Varanda vake vakamuka, vakaita chirangano, uye vakarwisa ⟨את⟩ Yoashu muBaiti-Miro, panodzikuruka kuSira.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "chirangano"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakarwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoashu"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "muBaiti"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Miro"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "panodzikuruka"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "kuSira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:59.300367966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvose mazuva aChanoki aiva makore mashanu nemakumi matanhatu nemazana matatu emakore.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "aChanoki"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "nemakumi matanhatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "nemazana matatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(emazana)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:20.475916921Z",
+  "model": "glm-5.3"
+}

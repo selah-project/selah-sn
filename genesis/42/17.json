@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Akabata ⟨את⟩ muviri muchengeterwo mazuva matatu.",
+  "tokens": [
+    {
+      "surface": "וַיֶּאֱסֹ֥ף",
+      "gloss": "akabata"
+    },
+    {
+      "surface": "אֹתָ֛ם",
+      "gloss": "⟨את⟩",
+      "marks": "muviri"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "מִשְׁמָ֖ר",
+      "gloss": "chengeterwo"
+    },
+    {
+      "surface": "שְׁלֹ֥שֶׁת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:20:38.589612733Z",
+  "model": "glm-5.3"
+}

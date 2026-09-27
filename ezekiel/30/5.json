@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Kushu, naPuti, naRudhi, nomusanganiswa wose wevanhu, naChubu, nevana venyika yesungano — ⟨את⟩ navo muchibayo dzichawa.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kushu"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "naPuti"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "naRudhi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "musanganiswa wevanhu"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "naChubu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nevana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "yesungano"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "navo (Kushu, Puti, Rudhi, musanganiswa, Chubu, vana venyika yesungano)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "muchibayo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "dzichawa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:26:29.965686317Z",
+  "model": "glm-5.3"
+}

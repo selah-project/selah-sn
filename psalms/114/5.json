@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 114,
+  "translation": "Ndeupi here unochenjerwa, iwe gungwa, kuti unotiza? Iwe Yorodhani, kuti unodzoka shure?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ndeupi here"
+    },
+    {
+      "surface": "לך",
+      "gloss": "unochenjerwa, iwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "unotiza"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iwe Yorodhani"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "unodzoka"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "shure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:10.693311902Z",
+  "model": "glm-5.3"
+}

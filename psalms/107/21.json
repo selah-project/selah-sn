@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Varumbidze Yahwe nekutenda kwaKwe, hesedhi yaKe, nezvishamiso zvaKe kuvana vanhu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Varumbidze"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yaKe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezvishamiso zvaKe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:49.499951250Z",
+  "model": "glm-5.3"
+}

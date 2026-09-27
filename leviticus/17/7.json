@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Asi varege zvekare kubayira ⟨את⟩ zvibayiro zvavo kumhara dzavo, izvo ivo vanonyengera kudzitevedza; iyi ichava mutemo wokusingaperi kwavari, nemazera avo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "varege kubayira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvekare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvibayiro zvavo"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "zvibayiro zvavo"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "kumhara dzavo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "vanonyengera"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "kudzitevedza"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wokusingaperi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nemazera avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:58.887050458Z",
+  "model": "glm-5.3"
+}

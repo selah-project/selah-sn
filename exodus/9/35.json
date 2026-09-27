@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Moyo waParoh woome, uye haana kutuma ⟨את⟩ vana vaIsraeri, sokutaurwa kwaYahwe noruoko rwaMoshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "woome"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waParoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kutuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaurwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwaitaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "noruoko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "rwaMoshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:49.195197393Z",
+  "model": "glm-5.3"
+}

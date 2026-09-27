@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yakarambwa mhuru yako, iwe Shamaroni; hasha dzangu dzakatema kwavari — kusvika rinhi havagoni kuita vatsvene?",
+  "tokens": [
+    {
+      "surface": "זָנַח֙",
+      "gloss": "yakarambwa"
+    },
+    {
+      "surface": "עֶגְלֵ֣ךְ",
+      "gloss": "mhuru yako"
+    },
+    {
+      "surface": "שֹֽׁמְר֔וֹן",
+      "gloss": "iwe Shamaroni"
+    },
+    {
+      "surface": "חָרָ֥ה",
+      "gloss": "dzakatema"
+    },
+    {
+      "surface": "אַפִּ֖י",
+      "gloss": "hasha dzangu"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מָתַ֕י",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יוּכְל֖וּ",
+      "gloss": "vagoni"
+    },
+    {
+      "surface": "נִקָּיֹֽן",
+      "gloss": "kuita vatsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T11:12:26.159978766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Asi ini ndichatarisira nguva dzose, ndichawedzera pamusoro perumbawo rwako rwose.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ndichatarisira"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ndichawedzera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "rumbawo rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:12.297947272Z",
+  "model": "glm-5.3"
+}

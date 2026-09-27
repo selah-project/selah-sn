@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Erohimu, iwe unoziva ⟨את⟩ upfuuri hwangu; nematadzo angu kubva kwako haavanzwi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upfuuri hwangu"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "upfuuri hwangu"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "nematadzo angu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kubva kwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "-vanzwi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:45.053033229Z",
+  "model": "glm-5.3"
+}

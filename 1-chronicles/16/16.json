@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Yaakacheka ⟨na⟩ ⟨את⟩ Abhurahama, nomuzvino wake waakapa Isaka.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כָּרַת",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Abhurahama"
+    },
+    {
+      "surface": "אַבְרָהָם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "וּשְׁבוּעָתוֹ",
+      "gloss": "nomuzvino wake"
+    },
+    {
+      "surface": "לְיִצְחָק",
+      "gloss": "waakapa Isaka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:23:15.129257320Z",
+  "model": "glm-5.3"
+}

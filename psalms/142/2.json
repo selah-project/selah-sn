@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 142,
+  "translation": "Izwi rangu kuna Yahwe ndinodana; izwi rangu kuna Yahwe ndinonyemwerera.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ndinodana"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ndinonyemwerera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:49.944845184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Kuna mwedzi wemazuva, kusvika pauchabuda kubva minzimbo yemhino yenyu, zvichava chinokurasai kwamuri; nokuda nokuti makaramba ⟨את⟩ Yahwe ari pakati peyo, makachema pachiso pake, mukati: Nei ichi takaenda kubva muEjipita?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuna"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wemazuva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pachino"
+    },
+    {
+      "surface": "יצצא",
+      "gloss": "pauchabuda"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "kubva minzimbo yemhino yenyu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "zvichava"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "chinokurasai"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "makaramba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "pakati peyo"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "makachema"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pachiso pake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "takaenda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kubva muEjipita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:59:32.899513870Z",
+  "model": "glm-5.3"
+}

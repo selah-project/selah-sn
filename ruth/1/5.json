@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti maviri awo akafa, Machironi neKiriyoni; asi mukadzi akasarudzika akashuma kubva kuvana vake vaviri nomurume wake.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "maviri awo"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machironi"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "neKiriyoni"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "akasarudzika akashuma"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "kubva kuvana vake vaviri"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "nomurume wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:48:59.302945816Z",
+  "model": "glm-5.3"
+}

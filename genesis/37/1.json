@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Yaakobu akagara munyika yokutamboka kwababa vake, munyika yaKanaani.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "yokutamboka kwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yaKanaani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:08.539431330Z",
+  "model": "glm-5.3"
+}

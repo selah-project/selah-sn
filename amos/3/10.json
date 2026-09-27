@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "asi havazivi kuita zvazvakatwasuka, ndiko kutaura kwaYahwe — vachivunganidza ruvhinya nokubhinya muna madzimba avo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "havazivi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "zvazvakatwasuka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndiko kutaura kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "vachivunganidza"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ruvhinya"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "nokubhinya"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "muna madzimba avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:40:03.690700334Z",
+  "model": "glm-5.3"
+}

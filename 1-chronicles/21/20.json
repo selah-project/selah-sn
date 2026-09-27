@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Arnani akadzokera, akaona ⟨את⟩ mutumwa; navanakomana vake vana vaive naye vakavanzira, uye Arnani akanga apfura chibereki.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnani"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mutumwa"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "vana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "navanakomana vake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vaive naye"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "vakavanzira"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "uye Arnani"
+    },
+    {
+      "surface": "דש",
+      "gloss": "akanga apfura"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "chibereki"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:31.944332698Z",
+  "model": "glm-5.3"
+}

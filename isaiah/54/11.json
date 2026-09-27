@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 54:11",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Iwe wakashushwa, wakazunzwa nedongi, wousina kunyaradzwa — Ona, ndiri kugadzikisa matombo ako nepuku, ndichavaka nheyo yako nesapiri.",
+  "tokens": [
+    {
+      "surface": "עניה",
+      "gloss": "wakashushwa"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "wakazunzwa nedongi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "נחמה",
+      "gloss": "kunyaradzwa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "מרביץ",
+      "gloss": "kugadzikisa"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "nepuku"
+    },
+    {
+      "surface": "אבניך",
+      "gloss": "matombo ako"
+    },
+    {
+      "surface": "ויסדתיך",
+      "gloss": "ndichavaka nheyo yako"
+    },
+    {
+      "surface": "בספירים",
+      "gloss": "nesapiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:42.891960981Z",
+  "model": "glm-5.3"
+}

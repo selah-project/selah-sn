@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye vana vaIsraeri vakaita sokutaurwa kwaMozhezi, uye vakakumbira kubva kuna Misri zvombo zvesirivha nezvombo zvendarama, nemihete.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Uye vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sokutaurwa kwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhezi"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "uye vakakumbira"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kubva kuna Misri"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvombo zve"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezvombo zve"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "nemihete"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:28.251260851Z",
+  "model": "glm-5.3"
+}

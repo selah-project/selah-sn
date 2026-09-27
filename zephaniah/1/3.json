@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndichanonga munhu nezvipfuyo, ndichanonga shiri dzamatenga nehove dzegungwa, nezvidzikiso ⟨את⟩ vakaipa; ndichadzikamura ⟨את⟩ munhu kubva pamusoro pechiso che⟨ivhu⟩, chitsidzo chaYahwe.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ndichanonga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "nezvipfuyo"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ndichanonga"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shiri dza"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "nehove dza"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "nezvidzikiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakaipa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndichadzikamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pamusoro pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨ivhu⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "chitsidzo cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:47:40.916638980Z",
+  "model": "glm-5.3"
+}

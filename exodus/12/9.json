@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Musadye cheisina kubikwa kubva mariri, uye cheisina kufushwa mumvura; asi chinofanira kuva chakazingwa nomoto: musoro waro negumbo dzaro, netumbu dzaro.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musadye"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "musadye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva mariri"
+    },
+    {
+      "surface": "נא",
+      "gloss": "cheisina kubikwa"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "uye cheisina kufushwa"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "chakafushwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chinofanira kuva"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "chakazingwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro waro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "gumbo dzaro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "netumbu dzaro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:38.183261595Z",
+  "model": "glm-5.3"
+}

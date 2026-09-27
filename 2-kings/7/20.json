@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvakaitika kwaari izvozvo: vanhu vakamutsika ⟨אתו⟩ musuwopo, akafa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "vakamutsika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "musuwopo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:32.842505772Z",
+  "model": "glm-5.3"
+}

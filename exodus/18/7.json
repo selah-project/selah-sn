@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye Moshe akabuda kunoonana natezvara wake, akapfugama namusoro, akamusvomira; ndokubvunzana mumwe nomumwe nezvekurarama; ndokupinda mutanda.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kunoonana na"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "tezvara wake"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akapfugama namusoro"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akamusvomira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "vakabvunzana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "nomumwe"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "nezvekurarama"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vakapinda"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "mutanda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:30.792678006Z",
+  "model": "glm-5.3"
+}

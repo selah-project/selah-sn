@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Nokuti ndiye Erohimu wedu, uye isu tiri vanhu vavakati misha, nevayi weruoko rwake. Nhasi, ngamunzwe izwi rake —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "uye isu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "vavakati misha"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nevayi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "weruoko rwake"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga—"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "izwi rake"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "munzwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:23.071941448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Akadaro akaita sezvazvakaita madzimai wake ekunze, vanopisa munhuwo nekupira kumwari yavo.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Akadaro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kumadzimai ose"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "ekunze"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "vanopisa munhuwo"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "nekupira"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "kumwari yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:28.771935647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Moshe akataura zvakadaro kuvana vaIsraeri, asi havana kuteerera Moshe nokuda kwokutapudzika kweMweya nokuda kwebasha rasina tsitsi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi havana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuteerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "nokuda kwokutapudzika"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kweMweya"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "nokuda kwebasha"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "rasina tsitsi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:11.444456938Z",
+  "model": "glm-5.3"
+}

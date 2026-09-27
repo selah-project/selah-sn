@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Ndakakuudza kubvazvinoro, usati wasvika ndakaita kuti unzwe, kuti usataure kuti: zvifananidzo zvangu ndizvo zvakazviita, uye chivengwa changu, negadzirwa yangu yepfuma ndiyo yakavatura izvi.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "Ndakakuudza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuti unzwe"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kubvazvinoro"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "usati"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wasvika"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "ndakaita kuti unzwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usataure"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "zvifananidzo zvangu"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "zvakazviita"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "chivengwa changu"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "gadzirwa yangu yepfuma"
+    },
+    {
+      "surface": "צום",
+      "gloss": "yakavatura izvi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:02.394330453Z",
+  "model": "glm-5.3"
+}

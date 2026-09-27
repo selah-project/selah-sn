@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Vhavhari dzinomuka; izvo zandisaziva vanondibvunza.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "dinomuka"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vhavhari"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ezviita zvakaipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "zandisaziva"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "vanondibvunza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.853540587Z",
+  "model": "glm-5.3"
+}

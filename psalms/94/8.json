@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Zvikanisai pfungwa, imi vasina pfungwa mavanhu; uye imi madziswa — richi muchazvinzwisisa?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Zvikanisai pfungwa"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "vasina pfungwa"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mavanhu"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "uye madziswa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "richi"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "muchazvinzwisisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:41.851923053Z",
+  "model": "glm-5.3"
+}

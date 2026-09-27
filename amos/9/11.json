@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Pazuva iro ndichamisa ⟨את⟩ dare raDhavhidhi rakadonha, ndichavharira ⟨את】 mapfumo aro, uye matombo ayo akawuruka ndichamisa, ndichairi vaka sokumwe kwezuva rekare.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndichamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dare raDhavhidhi"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "dare"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "raDhavhidhi"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "rakadonha"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ndichavharira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapfumo aro"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "mapfumo aro"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "matombo ayo akawuruka"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndichamisa"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ndichairi vaka"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sokumwe kwezuva"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "rekare"
+    }
+  ],
+  "timestamp": "2026-09-27T08:41:35.878585605Z",
+  "model": "glm-5.3"
+}

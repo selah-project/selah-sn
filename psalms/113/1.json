@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Rumbidzai Yah! Rumbidzai, varanda vaYahwe, rumbidzai ⟨את⟩ zita raYahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita raYahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:35.941590714Z",
+  "model": "glm-5.3"
+}

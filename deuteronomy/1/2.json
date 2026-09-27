@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Danho remazuva gumi nemotsi kubva paHorebhu, nedanho remombe reSeiri, kusvika paKadeshi-Barunea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "motsi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi ne"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kubva paHorebhu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "danho"
+    },
+    {
+      "surface": "הר",
+      "gloss": "remombe"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "reSeiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barunea"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:46.177069193Z",
+  "model": "glm-5.3"
+}

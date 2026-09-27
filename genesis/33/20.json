@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Akapfumbatidza kwaro chigaro chechipirwa, akachicherechedza kuti: Er, Erohimu waIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "akapfumbatidza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "chigaro chechipirwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akachicherechedza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:12.519251993Z",
+  "model": "glm-5.3"
+}

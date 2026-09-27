@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Asi ini, ndiri semuoni wakanyorovera mumba yaErohimu; ndavimbira muhesedhi hwaErohimu, nokusingaperi nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "semuoni"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wakanyorovera"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndavimbira"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "muhesedhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:59.259217863Z",
+  "model": "glm-5.3"
+}

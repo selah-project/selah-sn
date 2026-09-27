@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Nechii mukomana achazvinatsa ⟨את⟩ nzira yake? Nekuidzivirira sokutaurwa kwako.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "nechii"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "achazvinatsa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira yake"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "nzira yake"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "nekuidzivirira"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sokutaurwa kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:30.798839327Z",
+  "model": "glm-5.3"
+}

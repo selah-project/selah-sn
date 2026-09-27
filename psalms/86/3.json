@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Nichenere, Adonai, nokuti kwauri ndinodana masikese ose.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nichenere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndinodana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "masikese"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:09.434638990Z",
+  "model": "glm-5.3"
+}

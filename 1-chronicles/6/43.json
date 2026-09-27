@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye ⟨את⟩ Chileni nomatunhu tavo, ⟨את⟩ Deviri nomatunhu tavo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Uye ⟨את⟩",
+      "marks": "Chileni"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chileni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nomatunhu ⟨את⟩",
+      "marks": "matunhu tavo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matunhu tavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Deviri"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Deviri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nomatunhu ⟨את⟩",
+      "marks": "matunhu tavo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matunhu tavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:39.969171068Z",
+  "model": "glm-5.3"
+}

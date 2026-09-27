@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Asi ⟨את⟩ munda weguta uye ⟨את⟩ misha yaro vakapa Karebu, mukurume waYefune, senhaka yake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "munda weguta"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "weguta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "misha yaro"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "misha yaro"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Karebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukurume wa-"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "senhaka yake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:34.150537315Z",
+  "model": "glm-5.3"
+}

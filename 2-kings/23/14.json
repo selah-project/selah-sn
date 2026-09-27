@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Akatyora ⟨את⟩ mitsi yematombo, akacheka ⟨את⟩ Asherimu, akazadza ⟨את⟩ nzvimbo dzavo nemapfupa evanhu.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitsi yematombo"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "mitsi yematombo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherimu"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherimu"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "akazadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzavo"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "nzvimbo dzavo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mapfupa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "evanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:03:39.428853272Z",
+  "model": "glm-5.3"
+}

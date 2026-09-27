@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yahwe akataurira ⟨את⟩ Mozhe achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:19.272719788Z",
+  "model": "glm-5.3"
+}

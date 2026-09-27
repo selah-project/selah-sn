@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye ⟨את⟩ mambo weAyai vakamubata mupenyu, vakamusheedza kuna Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Uye ⟨את⟩",
+      "marks": "mambo weAyai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "העי",
+      "gloss": "weAyai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "vakamubata"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "vakamusheedza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ye",
+      "marks": "kuna Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:44.090324219Z",
+  "model": "glm-5.3"
+}

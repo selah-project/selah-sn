@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Pakutanga Erohimu akasika ⟨את⟩ matenga ne⟨את⟩ pasi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Pakutanga"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "akasika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matenga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:17.890625920Z",
+  "model": "glm-5.3"
+}

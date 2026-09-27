@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Pedyo-pedyo ⟨vakapedza⟩ ⟨ndiri⟩ munyika; asi ini handina kusiya mirairo yako.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Pedyo-pedyo"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "⟨vakapedza⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mirairo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:54.055384480Z",
+  "model": "glm-5.3"
+}

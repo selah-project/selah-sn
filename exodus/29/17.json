@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye ⟨את⟩ gwara rwechipiri unotsembanura zvidimbu zvacho, unochekeresa mukati mayo netsitsi dzayo, uye unoisa pamusoro pezvidimbu zvacho nepamusoro pemusoro wayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gwara rwechipiri"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "gwara rwechipiri"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "unotsembanura"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "zvidimbu zvacho"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "unochekeresa"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "mukati mayo"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "netsitsi dzayo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "unoisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "zvidimbu zvacho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro pe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:40.942135173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndimiwo ini: ziso rangu harichatenderera, uye handichashungurudza; nzira dzavo ndinodzvidza pamusoro pemusoro wavo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ndimiwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "chakatenderera"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ziso rangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "chashungurudza"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "nzira dzavo"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "pamusoro pemusoro wavo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndinodzvidza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:17:43.532922544Z",
+  "model": "glm-5.3"
+}

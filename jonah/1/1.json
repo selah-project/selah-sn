@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Izwi raYahwe rakauka kuna Yona, mukoma waAmitai, richiti:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rakauka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "waAmitai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "richiti"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:38.183686304Z",
+  "model": "glm-5.3"
+}

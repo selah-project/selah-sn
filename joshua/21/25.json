@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kubva muchidimbu chemutowa waManashe: ⟨את⟩ Taanaka nematunhu ayo, uye ⟨את⟩ Gatha-Rimoni nematunhu ayo — matauta maviri.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "uye kubva muchidimbu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "chemutowa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "waManashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanaka"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunhu ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunhu ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Gatha-Rimoni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatha-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunhu ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunhu ayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "matauta"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "maviri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:50.444988629Z",
+  "model": "glm-5.3"
+}

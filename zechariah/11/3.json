@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Inzwi rechuchema chemabvumvari, nokuti rukudzo rwavo rakaparadzwa; inzwi rekurira kwevasimba vechisikana, nokuti kukudzwa kweYorodhani kurwadzwa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Inzwi"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "rechuchema"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "chemabvumvari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "rakaparadzwa"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "rukudzo rwavo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "inzwi"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "rekurira"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "kwevasimba vechisikana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "kurwadzwa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kukudzwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "kweYorodhani"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:51.840850781Z",
+  "model": "glm-5.3"
+}

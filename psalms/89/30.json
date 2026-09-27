@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Ndichaita kuti mbeu yake igare nokusingaperi, netehe rawo semazuva ematenga.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ndichaita kuti…igare"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbeu yake"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "netehe rawo"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "semazuva"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ematenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:50.154782974Z",
+  "model": "glm-5.3"
+}

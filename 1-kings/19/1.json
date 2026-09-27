@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Achabu akazivisa Izhebheru ⟨את⟩ zvose izvo Eriya akaita, uye ⟨את⟩ zvose izvo akauraya — ⟨את⟩ vaporofita vose nependo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabu"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izhebheru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaporofita vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "vaporofita"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nependo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:59.200044808Z",
+  "model": "glm-5.3"
+}

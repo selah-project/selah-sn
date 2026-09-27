@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "«Panguva yandakasarudza, ndinotonga zvakanaka.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "«"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Panguva yandakasarudza"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "panguva yakatarwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ndinotonga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:00.845894370Z",
+  "model": "glm-5.3"
+}

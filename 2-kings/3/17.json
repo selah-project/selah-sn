@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti zvakadaro Yahwe: hamuchaona mhepo, hamuchawona kunyorova kwemvura, uye mukova uyu uchazadzwa nemvura, mudzikinuri < את > — uye muchanwa imi, nezvipfuyo zvenu, nezvipfuyo zvehurume.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamuchaona"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hamuchawona"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "kunyorova kwemvura"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "mukova uyu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "uchazadzwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "muchanwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "nezvipfuyo zvenu"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "nezvipfuyo zvehurume"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:27.962756906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndichataura zviri pachena nezvazvino mhindwa dzako pamberi pamadzimambo, uye handinNyadze.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "Ndichataura"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "nezvazvino mhindwa dzako"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handi"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nNyadze"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:16.936014625Z",
+  "model": "glm-5.3"
+}

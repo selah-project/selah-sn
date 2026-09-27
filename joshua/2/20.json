@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye kana unozivisa ⟨את⟩ nyaya yedu iyi, tichava vasina mhosva muchitsidzo chako chaunotisunga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "unozivisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyaya yedu iyi"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "nyaya yedu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tichava"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "vasina mhosva"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "muchitsidzo chako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha-"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "unotisunga"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:42.540651727Z",
+  "model": "glm-5.3"
+}

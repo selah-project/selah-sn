@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Zvirokwazvo, vana vaAdhamu ndivo mhepo chete, vana vanhurume ndivo manyepo; mumasikero vachakwidza; pamwe chete vakareruka kupfuura mhepo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vaAdhamu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "manyepo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vanhurume"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "mumasikero"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "vachakwidza"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "kupfuura mhepo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:49.951958124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Vakadurira ropa ravo semvura pamusoro pemativi onse aYerusharemu, uye hapana anoviga.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Vakadurira"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ropa ravo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "semvura"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "pamusoro pemativi onse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "aYerusharemu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "anoviga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:52.432469881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Akatumira zviratidzo nezvinoshamisa pakati penyika yaMitsraimu, paFaraoni nepavashanda vake vose.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "zviratidzo"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "nezvinoshamisa"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "pakati penyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaMitsraimu"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "paFaraoni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "vashanda vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:02.279215672Z",
+  "model": "glm-5.3"
+}

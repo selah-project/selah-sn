@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Va kune zvakaipa, uita zvakanaka; chero runyararo, uiiteveredze.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "va kure"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "nezvakaipa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "uita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "chero"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "uiiteveredze"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:58.348733814Z",
+  "model": "glm-5.3"
+}

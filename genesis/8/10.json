@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akapedza-yadzara kunze kwemazuva nomwe, akawedzera kutumira ⟨את⟩ yechimanemanombe kubva muhomba.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "akapedza-yadzara kunze"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kupedzisira"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kutumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yechimanemanombe"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "yechimanemanombe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "homba"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:32.848503586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Azaria akabara ⟨את⟩ Cherutsi, uye Cherutsi akabara ⟨את⟩ Eriashaa.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Uye Azaria"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cherutsi"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Cherutsi"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "uye Cherutsi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eriashaa"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Eriashaa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:18.437024402Z",
+  "model": "glm-5.3"
+}

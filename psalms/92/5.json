@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Nokuti Yahwe, wandida kufara nebasa rako; nemabasa emazvoko ako ndinodanira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "wandida kufara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "nebasa rako"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "nemabasa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "emazvoko ako"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ndinodanira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:28.884849945Z",
+  "model": "glm-5.3"
+}

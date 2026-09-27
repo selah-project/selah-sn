@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Panziyo dzose vakaipa vanofamba; zvisina kukosha zviri kudzikwa ⟨navanhu⟩.",
+  "tokens": [
+    {
+      "surface": "סָבִ֗יב",
+      "gloss": "panzvimbo dzose"
+    },
+    {
+      "surface": "רְשָׁעִ֥ים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "יִתְהַלָּכ֑וּן",
+      "gloss": "vanofamba"
+    },
+    {
+      "surface": "כְּרֻ֥ם",
+      "gloss": "sokudzikwa"
+    },
+    {
+      "surface": "זֻ֝לּ֗וּת",
+      "gloss": "zvisina kukosha"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:15.000749511Z",
+  "model": "glm-5.3"
+}

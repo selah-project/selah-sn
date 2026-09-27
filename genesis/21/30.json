@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Iye akati: Nokuti ⟨את⟩ nomwe idzi dzembudzi dzekushongedza dzichatorwa kubva ruoko rwangu, kuti dzive umbowo hwangu nokuti ndini ndakadziva ⟨את⟩ bheiri iyi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomwe idzi dzembudzi dzekushongedza"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "dzembudzi dzekushongedza"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "dzichatorwa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "kubva ruoko rwangu"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dzive"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hwangu"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "umbowo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "ndakadziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bheiri iyi"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "bheiri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:12.988657399Z",
+  "model": "glm-5.3"
+}

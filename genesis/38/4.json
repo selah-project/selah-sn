@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Akazvitakura zvakare, uye akabara mwanakomana; uye akadana ⟨את⟩ zita rake Onani.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akazvitakura"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:37.469062614Z",
+  "model": "glm-5.3"
+}

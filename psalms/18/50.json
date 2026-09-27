@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokudaro ndichakutendesa, Yahwe, pakati penyika dzose, uye ndichaimbira ⟨zita rako⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwezvozwo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ndichakutendesa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pakati penyika dzose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "nezita rako"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndichaimbira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:49.774247111Z",
+  "model": "glm-5.3"
+}

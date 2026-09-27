@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Ndiri kushoda vapengi here, kuti muisa ⟨את⟩ uyu kuzopenga pamberi pangu? Uyu anouza mumba mangu here?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "ndiri kushoda"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "vapengi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "muisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "kuzopenga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamberi pangu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "anouza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mumba mangu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:20.021599428Z",
+  "model": "glm-5.3"
+}

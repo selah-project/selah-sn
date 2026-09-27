@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Kana Adonai achasambisa ⟨את⟩ tsvina yedzakasikwa zveZiyoni, uye ⟨את⟩ ropa reYerusharemu achaputitsa kubva mukati memo, neMweya wemutemo, uye neMweya wokudzvanya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "asambisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsvina yedzakasikwa zveZiyoni"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "tsvina"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dzakasikwa zve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ropa reYerusharemu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "reYerusharemu"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "achaputitsa"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "kubva mukati memo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "neMweya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wemutemo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "neMweya"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wokudzvanya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:01.650375187Z",
+  "model": "glm-5.3"
+}

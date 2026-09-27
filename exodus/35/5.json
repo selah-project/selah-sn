@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Torai kubva muri ⟨אתכם⟩ mupiro kuna Yahwe; uyo wose ane moyo wechipo achaunza ⟨את⟩ mupiro waYahwe: ndarama, sirivha, mhangura.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Torai"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "kubva muri ⟨אתכם⟩"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "mupiro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oyo wose"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "une moyo wechipo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "achaunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mupiro waYahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mupiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "mhangura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:33.227430729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Rumbidzai Yahwe, nokuti ane chakanaka, nokuti hesedhi yake inogara nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ane chakanaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "inogara nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:26.960260478Z",
+  "model": "glm-5.3"
+}

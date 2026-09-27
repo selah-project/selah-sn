@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Mwanakomana waShauru akanzwa kuti Abhuna afa munaHebheroni, uye maoko ake akasvorwa, uye Israeri yose yakazunzuka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "waShauru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "afa"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abhuna"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "munaHebheroni"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "akasvorwa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maoko ake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye ... yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "yakazunzuka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:59:24.710221290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Sokureba kwekumabvakuva kubva kumadokero, akaendesera kure kubva kwatiri ⟨את⟩ zvitadzo zvedu.",
+  "tokens": [
+    {
+      "surface": "כרחוק",
+      "gloss": "sokureba"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "kumabvakuva"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "kubva kumadokero"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "akaendesera kure"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwatiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvitadzo zvedu"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "zvitadzo zvedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:06.358501991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye iye akatiburitsa ⟨את⟩ isu ikoko, kuti atisvitsa mukati, kuti atipa ⟨את⟩ nyika yaanoitsivira madzitauzvo avo kumadzitateguru edu.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ isu",
+      "marks": "iye akatiburitsa isu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "akatiburitsa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "atisvitsa mukati"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ isu",
+      "marks": "atisvitsa isu mukati"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "atipa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "isu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaanoitsivira madzitauzvo avo kumadzitateguru edu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "anoitsivira madzitauzvo"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kumadzitateguru edu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:11.736496725Z",
+  "model": "glm-5.3"
+}

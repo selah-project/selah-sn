@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino zvakaitika, sezvaakawedzera kunyengetera pamberi peYahwe, Eli akaona ⟨את⟩ muromo wake.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvino zvakaitika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "se"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "kunyengetera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muromo wake"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muromo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:34.148024132Z",
+  "model": "glm-5.3"
+}

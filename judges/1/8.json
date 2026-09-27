@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye vana vaYehudha vakarwa neYerushalema, vakatora ⟨את⟩ iyoyo, vakayiparadza nomuromo pemhepo yemhapira, uye ⟨את⟩ guta vakatuma mumoto.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYehudha"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "neYerushalema"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ⟨אותה⟩"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "vakayiparadza"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nomuromo pe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mhepo yemhapira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "guta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "vakatuma"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mumoto"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:51.410423400Z",
+  "model": "glm-5.3"
+}

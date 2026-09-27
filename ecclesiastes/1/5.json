@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zuva rinobudazve, zuwa rinodoka, richifema richidzokera ku⟨nzvimbo⟩ yaro; icho chinobuda ikoko.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "rinobudazve"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "rinodoka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "richidzokera ku"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nzvimbo yaro"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "richifema"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "chinobuda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "icho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:46.121055874Z",
+  "model": "glm-5.3"
+}

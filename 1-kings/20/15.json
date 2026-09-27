@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Akayera ⟨את⟩ vakomana vematungamiri emadhizha, vakaiva mazana maviri, makumi matatu nemaviri; uye mushure mavo akayera ⟨את⟩ vanhu vose, vana vose veIsuraeri, zviuru nomwe.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Akayera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakomana vematungamiri emadhizha"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vematungamiri"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "emadhizha"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vakaiva"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana maviri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "nemaviri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "mushure mavo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akayera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsuraeri"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nomwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:26.264749674Z",
+  "model": "glm-5.3"
+}

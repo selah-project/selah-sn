@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Achizounza ⟨את⟩ ashamu yake kuna Yahwe, kumusoro wemukova wotendi yekusangana, ndiro mumera weashamu.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "achizounza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashamu yake"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamu yake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumusoro wemukova"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mukova"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yekusangana"
+    },
+    {
+      "surface": "איל",
+      "gloss": "mumera"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "weashamu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:19.251609238Z",
+  "model": "glm-5.3"
+}

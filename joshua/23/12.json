@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 23:12",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Asi kana mukadzoka mukabatana nokuvezera marudzi aya, akasarira ⟨את⟩ nemi aya, uye muroorane navo, mukapinda navo, ivo mose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "mukadzoka"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "mukadzoka"
+    },
+    {
+      "surface": "ודבקתם",
+      "gloss": "mukabatana"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "nokuvezera"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "akasarira"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nemi",
+      "marks": "marudzi akasarira"
+    },
+    {
+      "surface": "והתחתנתם",
+      "gloss": "muroorane"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "mukapinda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mose"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:58.056573582Z",
+  "model": "glm-5.3"
+}

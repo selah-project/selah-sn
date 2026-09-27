@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Maziso aYahwe ari munzvimbo imwe neimwe, achitarisa zvakaipa nezvakanaka.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "imwe neimwe"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "munzvimbo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Maziso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "achitarisa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "nezvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:26:39.486328271Z",
+  "model": "glm-5.3"
+}

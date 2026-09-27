@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Yahwe anoti naizvozvo: Papi parino gwaru rekurambana kwamai venyu, iyo ndinotumira kure? Kana ndiani mutioni wangu iye wandakakutengesai kwaari? Tarirai, nemhosva dzenyu makatengeswa, uye nemhondi dzenyu mai venyu vakatumira kure.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Papi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "parino"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "gwaru"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "rekurambana"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "kwamai venyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "ndinotumira kure"
+    },
+    {
+      "surface": "או",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "mutioni wangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "ndakatengesa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ amuri",
+      "marks": "amuri (kutengeswa kwaamuri)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tarirai"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "nemhosva dzenyu"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "makatengeswa"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "nemhondi dzenyu"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "vakatumira kure"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "mai venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:55.335226803Z",
+  "model": "glm-5.3"
+}

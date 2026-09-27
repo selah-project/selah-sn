@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "PaErohimu ndipo ponoponeso wangu nomureza wangu; DOMbo reSImba rangu, nzvimbo yangu yodzivirirwa, iri kuna Erohimu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa…ndipo po"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "poneso wangu"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "nomureza wangu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "DOMbo"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "reSimba rangu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nzvimbo yangu yodzivirirwa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "iri kuna Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:36.936703169Z",
+  "model": "glm-5.3"
+}

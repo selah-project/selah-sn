@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvichaitika pazuva iroro, kuti ndichatyora ⟨את⟩ uta hweIsraeri mubvumbachete weYizreeri.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Zvichaitika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iroro"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "kuti ndichatyora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uta hweIsraeri"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "mubvumbachete"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "weYizreeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:31.622886766Z",
+  "model": "glm-5.3"
+}

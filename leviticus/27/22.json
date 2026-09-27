@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye kana ⟨munhu⟩ atsvenesa ⟨את⟩ musha wawanga atenga, uri kunze kwemisha yeindigi yake, kuYahwe;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musha wawanga atenga"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "musha"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "wawanga atenga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kunze kwe"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "musha"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "yeindigi yake"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "atsvenesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:56.648409553Z",
+  "model": "glm-5.3"
+}

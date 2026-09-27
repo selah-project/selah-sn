@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Ngavadzimwe mubhuku rehupenyu, uye navatsvene vasanyorwi.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "ngavadzimwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "mubhuku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "rehupenyu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "uye na"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vasa"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "nyorwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:36.862719215Z",
+  "model": "glm-5.3"
+}

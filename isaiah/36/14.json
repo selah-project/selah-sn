@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Kudaro kwakataura mambo: Regai Hizikiya arege kukunyengedza, nokuti haagoni kukununura ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kudaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwakataura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Regai…arege"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kukunyengedza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ku⟨venyu⟩"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "kukununura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:04:04.516829532Z",
+  "model": "glm-5.3"
+}

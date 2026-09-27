@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Simba rwenyu ruchapera zvisina basa, nyika yenyu haiza ⟨את⟩ chibereko chayo, uye muti wenyika haupa muchero wake.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ruchapera"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "zvisina basa"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "Simba rwenyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "iza"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "nyika yenyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibereko chayo"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "chibereko chayo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "uye muti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wenyika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "upa"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "muchero wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:15.000068877Z",
+  "model": "glm-5.3"
+}

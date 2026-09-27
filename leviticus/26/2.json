@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "⟨את⟩ Shabhata dzangu dzichengetei, uye tsime dzangu ditsvaki; ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata dzangu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabhata dzangu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "dichengetei"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "tsime dzangu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ditsvaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:16.033963736Z",
+  "model": "glm-5.3"
+}

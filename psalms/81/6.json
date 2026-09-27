@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Chitupuko munaYhoshefa akachiisa, pakubuda kwake pamusoro penyika yeMitsraim: mutauro waandaindiziva, ndakanzwa.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Chitupuko"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "munaYhoshefa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "akachiisa"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "pakubuda kwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsraim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mutauro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waandaindi-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ziva"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndakanzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:27.341227550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye Mesha mambo weMoabhu aiva mufudzi wemhanga; akadzorera mambo weIsraeri zana churu dzerwai, nezana churu dzebhande rwaizo.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Uye Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo we"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "mufudzi wemhanga"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "akadzorera"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mambo we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "dzerwai"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "nezana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "dzebhande rwaizo"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "vhudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:58.472293626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Nokuti Shamuyeri akataura nevanhu kuti: Yahwe, ndiye akaita ⟨את⟩ Mhoze ne⟨את⟩ Aharoni, uye ndiye akakwidzisa ⟨את⟩ madzibaba enyu kubva munyika yeIjipita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuyeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndiye aka-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye ndiye aka-"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "akakwidzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzibaba enyu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "madzibaba enyu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:06.960805468Z",
+  "model": "glm-5.3"
+}

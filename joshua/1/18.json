@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Munhu wose anopikisa ⟨את⟩ kamudzi yako, uye asanzwa ⟨את⟩ mashoko ako pazvinhu zvaunomuraira, ngafa; chete ita simba uye ita mwoyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anopikisa"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "anopikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamudzi yako"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "kamudzi yako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye asanzwa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "asanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko ako"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mashoko ako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pazvinhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "zvaunomuraira"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ngafa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ita simba"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "uye ita mwoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:47.829501622Z",
+  "model": "glm-5.3"
+}

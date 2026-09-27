@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Yoshefu akavanyunutsa vana vaIsraeri ⟨את⟩, achiti: Erohimu achashanyira-zvishanyira ⟨אתכם⟩, uye muchakwidzisa ⟨את⟩ mabhonzo anga kupano.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "akavanyunutsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoshefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "achashanyira"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "-zvishanyira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "muchakwidzisa mabhonzo anga"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "muchakwidzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhonzo anga"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mabhonzo anga"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kupano"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:29.909547098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye ⟨את⟩ misangano yose iwaya pamberi pemumaro wechihema chokusangana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "misangano yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "misangano"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "iwaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mumaro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "chokusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:28.809670567Z",
+  "model": "glm-5.3"
+}

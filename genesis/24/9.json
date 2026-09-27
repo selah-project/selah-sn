@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Mushandi akagadza ⟨את⟩ ruoko rwake pasi pehuru yaAbhurahama, Adonai wake, akapika kwaari pamusoro pechinhu ichi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akagadza"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mushandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "huru"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai wake"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "akapika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:16.985992810Z",
+  "model": "glm-5.3"
+}

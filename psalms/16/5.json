@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Yahwe ndiwo mugovero wechikamu changu, negirazi rangu; iwe unochengeta gurani rangu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mugovero"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "wechikamu changu"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "negirazi rangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "unochengeta"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "gurani rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:53.417317580Z",
+  "model": "glm-5.3"
+}

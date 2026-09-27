@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Kana ndiri nenzara, handizokutaurira; nokuti nyika ndeyangu, nezvizere zvayo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ndiri nenzara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "-zokutaurira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ku-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndeyangu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "nezvizere zvayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:30.357938769Z",
+  "model": "glm-5.3"
+}

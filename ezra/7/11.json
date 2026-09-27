@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 7:11",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye uyu ndiwo chitevedzwa chetsamba yaakapa mambo Arutachashasta kuEzira mupristi, munyori — munyori wemashoko emirairo yaYahwe nemidhudzuno yake pamusoro peIsraeri.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Uye uyu"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "chitevedzwa"
+    },
+    {
+      "surface": "הנשתון",
+      "gloss": "chetsamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aakapa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Arutachashasta"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "kuEzira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "munyori"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "munyori"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wemashoko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "emirairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "nemidhudzuno yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:08:01.411130439Z",
+  "model": "glm-5.3"
+}

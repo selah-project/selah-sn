@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Dzimirira kubva kukusvotwa, uye siya hasha; usatsonya — zvinongoitira kuipiswa.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "dzimirira"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "kubva kukusvotwa"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "uye siya"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "usatsonya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zvinongo"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kuipiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:31.660347875Z",
+  "model": "glm-5.3"
+}

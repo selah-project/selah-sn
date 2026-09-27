@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Eriya akati kuvanhu vose: Ndianirai kwandiri. Uye vanhu vose vakamunira, iye akagadzirisa ⟨את⟩ altare yaYahwe yaiva yarutsiwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuvanhu vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Ndianirai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "vakamunira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "akagadzirisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "yaiva yarutsiwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:53.988660397Z",
+  "model": "glm-5.3"
+}

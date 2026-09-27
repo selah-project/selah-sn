@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Nokuti ipapo vakativhotera vanhotibata vakange vasingatambudzwi — nemazwi norwiyo, nevakanotitapura vakange vasingade mufaro vachiti: Imbai norwiyo kuti tirwe norwiyo rweZiyoni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "vakativhotera"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "vanhotibata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "vakanotitapura"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Imbai norwiyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuti tirwe"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "norwiyo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "rweZiyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:34.281576729Z",
+  "model": "glm-5.3"
+}

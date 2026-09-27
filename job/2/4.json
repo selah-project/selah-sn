@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Satani akapindura ⟨את⟩ Yahwe, akati: Ganda richatonhodza neganda, uye zvose zvomunhu anazvo achazvipa nokuda woupenyu hwake.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "richatonhodza ne"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "munhu anazvo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "achazvipa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nokuda wo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "upenyu hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:33:25.449941493Z",
+  "model": "glm-5.3"
+}

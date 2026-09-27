@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mwanangu, kana vatadzi vachada kunyengedza, usavumirane.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "vachada kunyengedza"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "vatadzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "vumirane"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:49.091918440Z",
+  "model": "glm-5.3"
+}

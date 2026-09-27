@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Asi ndinoziva chikuvaraidzako chako,nekubuda kwako, nekuuya kwako, ne⟨את⟩ kukavadzara kwako kwandiri.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "chikuvaraidzako chako"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "nekubuda kwako"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "nekuuya kwako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinoziva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kukavadzara kwako kwandiri"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "kukavadzara kwako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:25:55.226501136Z",
+  "model": "glm-5.3"
+}

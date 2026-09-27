@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Ari kupi hesedhi yako yokutanga, Adonai, iyo wakapika kuna Dhavhidhi nokuvimbika kwako?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Ari kupi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yokutanga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "wakapika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuna Dhavhidhi"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "nokuvimbika kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:40.716712047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "⟨את⟩ chuma cheumbetso, uye ⟨את⟩ mapfumo aro, uye ⟨את⟩ chivharachinangwa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chuma cheumbetso"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "cheumbetso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mapfumo aro"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mapfumo aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "chivharachinangwa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chivharachinangwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:34.078561509Z",
+  "model": "glm-5.3"
+}

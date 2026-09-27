@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Kiriyadi ndeyangu, uye Manashhe ndeyangu; Efurayimu ndiwo simba remusoro wangu; Yudha ndiye mutembedzi wangu.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ndeyangu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Kiriyadi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "uye ndeyangu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "uye Efurayimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "remusoro wangu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mutembedzi wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:22.893297449Z",
+  "model": "glm-5.3"
+}

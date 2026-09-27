@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye vana vaChetsroni vakazvarirwa kwake: ⟨את⟩ Yerachimeri, na⟨את⟩ Ramu, na⟨את⟩ Kerubhai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Uye vana"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "vaChetsroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨avo⟩"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "vakazvarirwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachimeri"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachimeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Kerubhai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kerubhai"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:40.608115339Z",
+  "model": "glm-5.3"
+}

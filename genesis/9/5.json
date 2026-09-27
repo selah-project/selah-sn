@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvirokwazvo, ⟨את⟩ ropa renyu, reupenyu hwenyu, ndinotsvaga; kubva ruoko rwe chipenyu chose ndinoritsvaga; uye kubva ruoko rwe ⟨the⟩ munhu — kubva ruoko rwe mumwe murume, mukoma yake — ndinotsvaga ⟨את⟩ upenyu hwe munhu.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ropa renyu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ropa renyu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "reupenyu hwenyu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ndinotsvaga"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva ruoko rwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "chipenyu"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ndinoritsvaga"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "uye kubva ruoko rwe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva ruoko rwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe murume"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma yake"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ndinotsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwe munhu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "upenyu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hwe munhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:28.590618284Z",
+  "model": "glm-5.3"
+}

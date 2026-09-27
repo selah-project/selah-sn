@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Yosefu akawana nyasha maziso ake, akamushumira ⟨את⟩; ndipo akamuisa pamusoro pemba yake, uye zvose aive nazvo akapa mumaoko make.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "akawana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nyasha"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "akamushumira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "akamushumira — iye"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "akamuisa pamusoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "pemba yake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye zvose"
+    },
+    {
+      "surface": "יש",
+      "gloss": "aive nazvo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nazvo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mumaoko make"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:59.972588410Z",
+  "model": "glm-5.3"
+}

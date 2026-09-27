@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Yowabhu akapindura akati: Rega, rega kwandiri, kuti ndingoora kana kuparadza!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Rega"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "rega"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ndingoora"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "kuparadza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:01:38.540475392Z",
+  "model": "glm-5.3"
+}

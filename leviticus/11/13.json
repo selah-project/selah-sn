@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye idzi muchazvinwira muboka reshiri — hadzidyiwi, chinoshata idzi: ⟨את⟩ haneshari, uye ⟨את⟩ haperesi, uye ⟨את⟩ haaziniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "idzi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "chazvinwira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "boka reshiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dzidyiwi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "chinoshata"
+    },
+    {
+      "surface": "הם",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haneshari"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "haneshari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "haperesi"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "haperesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "haaziniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "haaziniya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:16.505460750Z",
+  "model": "glm-5.3"
+}

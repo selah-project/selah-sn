@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahwe akasimbisa ⟨את⟩ moyo waFarao umambo wakaenzana naFarao, noumwe wavo akatevera vana vaIsraeri; uye vana vaIsraeri vaibuda nokuwedzera kwechiratidzo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "akasimbisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo waFarao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "akatevera"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "noumwe wavo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "vaibuda"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "nokuwedzera kwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:24.406142487Z",
+  "model": "glm-5.3"
+}

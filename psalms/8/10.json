@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe Adonai wedu, zita rako rinokosha zvakadini munyika yose!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wedu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvakadini"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "rinokosha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "munyika yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:12.883083464Z",
+  "model": "glm-5.3"
+}

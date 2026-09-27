@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Haman akavaudza ⟨את⟩ ruremekedzo rweupfumi hwake nokuwanda kwavana vake, no⟨את⟩ zvose zvamambo akamukudza, ne⟨את⟩ izvo akamusimudza pamusoro pemadzimambo nevaranda vemambo.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "akavaudza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruremekedzo rweupfumi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "rweupfumi hwake"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "nokuwanda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "kwavana vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "akamukudza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izvo akamusimudza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "akamusimudza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "וועבדי",
+      "gloss": "nevaranda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vemambo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:57.169303689Z",
+  "model": "glm-5.3"
+}

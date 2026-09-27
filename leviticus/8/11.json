@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akadonhedza kubva mariri pamusoro pemizbeya kanomwe; akaona ⟨את⟩ mizbeya ne⟨את⟩ zvizvarwa zvose zvayo, ne⟨את⟩ kiyori ne⟨את⟩ chitsigiro chayo, kuazvitsvenetsa.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "akadonhedza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva mariri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kanomwe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "⟨mazwi⟩"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "akazodza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvizvarwa zvose zvayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvizvarwa zvayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "kiyori"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kiyori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chitsigiro chayo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "chitsigiro chayo"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "kuazvitsvenetsa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:21.252967720Z",
+  "model": "glm-5.3"
+}

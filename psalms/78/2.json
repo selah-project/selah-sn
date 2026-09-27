@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Ndichavhura muromo wangu muchirevo; ndichaburitsa zvakavanzika kubva zvekare.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ndichavhura"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "muchirevo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ndichaburitsa"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "zvakavanzika"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zvekare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:24.334999030Z",
+  "model": "glm-5.3"
+}

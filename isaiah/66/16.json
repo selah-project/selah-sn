@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Nokuti Yahwe achaita kutongwa nemoto, neno剑 wake ⟨את⟩ ose nyama; uye vakafa nokudukwa nemaYahwe vachawanda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nemoto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "achaita kutongwa"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "neno剑 wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ose nyama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "vachawanda"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "vakafa nokudukwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nemaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:55.173191261Z",
+  "model": "glm-5.3"
+}

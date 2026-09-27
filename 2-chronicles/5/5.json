@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye vakakwidza ⟨את⟩ arki neg⟨את⟩ tendi yokusangana, neg⟨את⟩ zvose zvishandiso zveutsvene zviri mutendi; mapristi, vaRevhi, ndivo vakazvikwidza.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "vakakwidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arki"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "neg⟨את⟩",
+      "marks": "tendi yokusangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "neg⟨את⟩",
+      "marks": "zvose zvishandiso zveutsvene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvishandiso"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zveutsvene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mutendi"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "vakazvikwidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "zvose zvishandiso zveutsvene"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vaRevhi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:35.659322259Z",
+  "model": "glm-5.3"
+}

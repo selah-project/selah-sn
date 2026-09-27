@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Akati: Ndinenge ndiri newe; uye ichava chiratidzo chokuti ndini wakutumira: pakuburitsa kwako ⟨את⟩ vanhu muMizraimu, muchashumira ⟨את⟩ Erohimu pagomo iri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "–"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndinenge ndiri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "uye ichava"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    },
+    {
+      "surface": "האות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chokuti"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "wakutumira"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "pakuburitsa kwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muMizraimu"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "muchashumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:40.092391608Z",
+  "model": "glm-5.3"
+}

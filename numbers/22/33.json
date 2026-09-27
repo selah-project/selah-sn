@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Ndokuti bhurutwa rakaiona ndiri, rakadzikatira pachiso changu nguva tatu; dai rakadzikatira kubva pachiso changu, zvino zvirokwazvo ndaipaurayawo iwe, uye ndichigarisira iro upenyu.",
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "rakandiona ndiri"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "bhurutwa"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "rakadzikatira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso changu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "⟨nguva⟩ tatu"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "dai"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "rakadzikatira"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubva pachiso changu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "ndaipauraya"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "uye ⟨את⟩",
+      "marks": "iro (bhurutwa)"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "ndichigarisira upenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:53:30.730839786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yahwe ⟨ndiye⟩ dombo rangu, nedziva rangu renhidza, nenunuro yangu; Er rangu, dombo rangu — ndinomutembere; nhoo yangu, uye nyanga yandinunurwa nayo, nenzvimbo yangu yakakwirira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dombo rangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nedziva rangu renhidza"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nenunuro yangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Er rangu"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "dombo rangu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndinomutembere"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mukati make"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "nhoo yangu"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "uye nyanga"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "yandinunurwa nayo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "nzvimbo yangu yakakwirira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:32.194761233Z",
+  "model": "glm-5.3"
+}

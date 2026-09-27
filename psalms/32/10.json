@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Zvinorwadza zvakawanda zvinouya kune mupfambi; asi uyo anovimba naYahwe, hesedhi ichamukomberedza.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "zvakawanda"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "zvinorwadza"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kune mupfambi"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "asi uyo anovimba"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ichamukomberedza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:43.622702627Z",
+  "model": "glm-5.3"
+}

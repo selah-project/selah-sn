@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Nguruve yemusango inodya-manyisa maruva aro, uye zvipembenze zveminda zvinomafesa.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "inodya-manyisa"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "Nguruve"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "yemusango"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "uye zvipembenze"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zveminda"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "zvinomafesa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:11.096835993Z",
+  "model": "glm-5.3"
+}

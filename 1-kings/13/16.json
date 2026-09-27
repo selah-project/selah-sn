@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Akati: Handigoni kudzoka ⟨את⟩ newe kana kupinda ⟨את⟩ newe; handidyi chingwa, handinwi ⟨את⟩ newe mvura munzvimbo ino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "-goni"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe",
+      "marks": "newe"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "kana kupinda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe",
+      "marks": "newe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "-dyi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "handinwi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "-nwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe",
+      "marks": "newe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimbo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:56.547705455Z",
+  "model": "glm-5.3"
+}

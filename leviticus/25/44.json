@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Muranda wako nomurandakadzi wako vachange vave zvako, kubva kumadzinza agere kumativi enyu — ⟨מאת⟩ kubva kwavari mutenga muranda nomurandakadzi.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nomurandakadzi wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vachange"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vave"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zvako"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kubva kumadzinza agere kumativi enyu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "kumativi enyu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kubva kwavari"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "mutenga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "nomurandakadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:38.905242454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye vana vose veIsraeri vakaita sokutaurirwa; zvakataurirwa naYahwe kuna Moshe ⟨את⟩ no⟨את⟩ Aroni; ndizvozvo vakaita.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaurirwa; zvakataurirwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zvakataurirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kuna Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "Aroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndizvozvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:30.769310137Z",
+  "model": "glm-5.3"
+}

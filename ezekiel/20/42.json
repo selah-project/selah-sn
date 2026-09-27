@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye muchaziva kuti ndini Yahwe, mukundiburitsa kwangu ⟨את⟩ imi kuenda munivhu yeIsraeri, kunyika yandakasimudza ⟨את⟩ ruoko rwangu kuti ndipe ⟨את⟩ iyoyo kuvamadzibaba venyu.",
+  "tokens": [
+    {
+      "surface": "וִידַעְתֶּם",
+      "gloss": "muchaziva"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בַּהֲבִיאִי",
+      "gloss": "mukundiburitsa kwangu"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi (kuenda munivhu yeIsraeri)"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "אַדְמַת",
+      "gloss": "nivhu ye"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נָשָׂאתִי",
+      "gloss": "ndakasimudza"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "יָדִי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "kuti ndipe"
+    },
+    {
+      "surface": "אוֹתָהּ",
+      "gloss": "⟨את⟩ iyoyo",
+      "marks": "iyoyo (nyika)"
+    },
+    {
+      "surface": "לַאֲבוֹתֵיכֶם",
+      "gloss": "kuvamadzibaba venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:23:07.737201421Z",
+  "model": "glm-5.3"
+}

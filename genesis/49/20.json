@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Kubva muAsheri chikafu chake chiri chakafuta, uye iye achapa zvinonaka zvemambo.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Kubva muAsheri"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "chakafuta"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chikafu chake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "achapa"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "zvinonaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "zvemambo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:49.706059494Z",
+  "model": "glm-5.3"
+}

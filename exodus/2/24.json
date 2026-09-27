@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Erohimu akanzwa kuchema kwavo, uye Erohimu akayarangarira sungano yake ⟨את⟩ naAbhurahama ⟨את⟩ naIsaka, na⟨את⟩ Jakobho.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuchema kwavo"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "kuchema kwavo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "akayarangarira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yake"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sungano yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naAbhurahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naIsaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:53.674796552Z",
+  "model": "glm-5.3"
+}

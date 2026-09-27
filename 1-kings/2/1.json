@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mazuva aDhavhidhi akasvika pedyo nokufa, ndipo akaedza ⟨את⟩ Shoromohu mukomana wake achiti:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "akasvika pedyo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "aDhavhidhi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "nokufa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "akaedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shoromohu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mukomana wake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:59:42.588414573Z",
+  "model": "glm-5.3"
+}

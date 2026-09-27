@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Yahwe anovhurira meso mapofu; Yahwe anomisikidza vakamonyoroka; Yahwe anoda vakarurama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "anovhurira meso"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "mapofu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "anomisikidza"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "vakamonyoroka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vakarurama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:24.901035563Z",
+  "model": "glm-5.3"
+}

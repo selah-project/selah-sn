@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye ndichayidyara kwandiri munyika, uye ndichaita tsitsi ⟨את⟩ Loruhamaha; uye ndichati kuna Loami: “Ami iwe”, uye achati: “Erohimu wangu.”",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ndichayidyara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ndichaita tsitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loruhamaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ruhama"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ndichati"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "kuna Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "achati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:13.346329740Z",
+  "model": "glm-5.3"
+}

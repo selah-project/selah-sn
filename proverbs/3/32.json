@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti wakapotsa anonyangadza kuna Yahwe, asi ⟨את⟩ vakatwasuka vane chitsidzo chake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "anonyangadza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "wakapotsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vakatwasuka"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "vakatwasuka"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "chitsidzo chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:00.066059878Z",
+  "model": "glm-5.3"
+}

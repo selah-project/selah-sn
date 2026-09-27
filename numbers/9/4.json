@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Moshе akataura navanakomana veIsraeri, kuti vaite Paseka.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanakomana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kuti vaite"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:51:13.331282793Z",
+  "model": "glm-5.3"
+}

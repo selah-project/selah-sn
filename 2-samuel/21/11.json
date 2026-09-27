@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Zvino vakazivisa Dhavhidhi ⟨את⟩ izvo Ritspa mukadzi waAya, chipetwe chaShauro, akaita.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "vakazivisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo Ritspa akaita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mukadzi wa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "chipetwe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:01:47.728325349Z",
+  "model": "glm-5.3"
+}

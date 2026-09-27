@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Nokuti imbwa dzandizinga; zuru revakaipa randikomberedza; ⟨shanda⟩ mashanguoko angu netsoka tsangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "dzandizinga"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "zuru"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "revakaipa"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "randikomberedza"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "⟨shanda⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mashanguoko angu"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "netsoka tsangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:21.023742334Z",
+  "model": "glm-5.3"
+}

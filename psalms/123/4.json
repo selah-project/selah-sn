@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 123,
+  "translation": "Takaguta zvikuru; upenyu hwedu hwazara nyevero dzevakagara vakazorora, nenyadzo dzemaudzvanyiriri.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Takaguta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwazviri"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "upenyu hwedu"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "nyevero"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "dzevakagara vakazorora"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "nenyadzo"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "dzemaudzvanyiriri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:58.612411828Z",
+  "model": "glm-5.3"
+}

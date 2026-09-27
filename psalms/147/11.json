@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Yahwe anofarira ⟨את⟩ vamutya vake, ⟨את⟩ vanomirira hesedhi yake.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "anofarira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vamutya vake"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "vamutya vake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanomirira hesedhi yake"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "vanomirira"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:39.831952342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ini, Kohelerethi, ndaive ndiri mambo weIsraeri muYerusharema.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelerethi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndaive"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusharema"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:42.449688332Z",
+  "model": "glm-5.3"
+}

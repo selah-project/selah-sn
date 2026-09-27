@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndakaraira ⟨את⟩ vadayeri venyu panguva iyoyo ndichiti: Teererai nyaya pakati pemadzikoma enyu, muchadayera zvakanaka pakati pemunhu nemukoma wake, nemuenzi wake.",
+  "tokens": [
+    {
+      "surface": "וָאֲצַוֶּה",
+      "gloss": "Ndakaraira"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "vadayeri venyu"
+    },
+    {
+      "surface": "שֹׁפְטֵיכֶם",
+      "gloss": "vadayeri venyu"
+    },
+    {
+      "surface": "בָּעֵת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "ndichiti"
+    },
+    {
+      "surface": "שָׁמֹעַ",
+      "gloss": "Teererai nyaya"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "אֲחֵיכֶם",
+      "gloss": "madzikoma enyu"
+    },
+    {
+      "surface": "וּשְׁפַטְתֶּם",
+      "gloss": "muchadayera"
+    },
+    {
+      "surface": "צֶדֶק",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אָחִיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גֵּרוֹ",
+      "gloss": "muenzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:32.308080018Z",
+  "model": "glm-5.3"
+}

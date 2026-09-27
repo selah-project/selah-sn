@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Rukudzo kune murume kurega kutsvengana; uye ipimbodzi chero imwe inodzvenga ⟨kazhinji⟩.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kune murume"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kurega"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "kutsvengana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ipimbodzi"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "inodzvenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:28:25.662605067Z",
+  "model": "glm-5.3"
+}

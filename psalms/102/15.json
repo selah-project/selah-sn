@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Nokuti varanda vako vanofarira ⟨את⟩ mabwe ayo, uye ⟨את⟩ ivhu rayo vanorishungunudza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "vanofarira"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda vako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabwe ayo"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "mabwe ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "ivhu rayo"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ivhu rayo"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "vanorishungunudza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:17.699765722Z",
+  "model": "glm-5.3"
+}

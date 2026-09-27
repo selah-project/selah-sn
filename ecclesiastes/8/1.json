@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndiwe ani saanochenjere, ndiwe anoiziva kuturikira kwezvinhu? Chidzitivo chemunhu chinopenyedza chiso chake, uye simba rechiso chake richachinjwa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndiwe ani"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "saanochenjere"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anoiziva"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "kuturikira"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwezvinhu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "chidzitivo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "chemunhu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "chinopenyedza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "uye simba"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rechiso chake"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "richachinjwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:39.016791652Z",
+  "model": "glm-5.3"
+}

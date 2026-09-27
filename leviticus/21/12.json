@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kubva mune chitsvene haabvise, uye haatapudza ⟨את⟩ chitsvene chaErohimu wake; nokuti chizodzo chemafuta echizodzo chaErohimu wake chiri pamusoro pake — ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Uye kubva"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "mune chitsvene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haa"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "tapudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsvene"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "chaErohimu wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "chizodzo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "chemafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "echizodzo"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "chaErohimu wake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:27.610672018Z",
+  "model": "glm-5.3"
+}

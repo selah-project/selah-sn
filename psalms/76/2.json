@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Anozivikanwa muYudha Erohimu; muIsraeri zita rake ⟨uri⟩ guru.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "anzivikanwa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "muYudha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsraeri"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:00.999130545Z",
+  "model": "glm-5.3"
+}

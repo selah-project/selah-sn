@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Akati kundiri: Iwe uri mushandi wangu, Israeri, uyo muri iwe ndichakudzwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mushandi wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri iwe"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ndichakudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:24.932669462Z",
+  "model": "glm-5.3"
+}

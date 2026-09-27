@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "uye ⟨את⟩ mwanakwesu achadzorera kana zvina, nekuda kwekuti akaita ⟨את⟩ chiitiko ichi, uye nokuti asina kureurura.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakwesu"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "mwanakwesu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "achadzorera"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "kana zvina"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nekuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwekuti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiitiko ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chiitiko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye nokuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwekuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "kureurura"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:52.750276185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Ita kuvavo sokuita kuMadiyani: seSisera, seYabhini, muchova chaKishoni.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "sokuita kuMadiyani"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "seSisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "seYabhini"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "muchova"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "chaKishoni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:03.723420520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndokunge mazuva ese aAdamu akagara ⟨akashonga⟩ ano zana pfumbamwe makore namakumi matatu makore; nokufa akafa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "akanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aAdamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חי",
+      "gloss": "akashonga"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "pfumbamwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namakumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:14.733290565Z",
+  "model": "glm-5.3"
+}

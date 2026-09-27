@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Anotonga nomasimba ake nokusingaperi; maziso ake anotarisa ⟨madzimambo⟩; avo vasingateereri ngavasimudzire pachavo. Sera.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Anotonga"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "nomasimba ake"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "muMadzimambo"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "anotarisa"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "avo vasingateereri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngava-"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "simudzire"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pachayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:34.137254774Z",
+  "model": "glm-5.3"
+}

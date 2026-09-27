@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Kune mutungamiri wokuridza, pane Ghitithi; ndeyevana vaKorachi, nziyo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri wokuridza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Ghitithi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ndeyevana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:59.885668790Z",
+  "model": "glm-5.3"
+}

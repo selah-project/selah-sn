@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nokuti ruoko rwaYahwe ruchazorora pamusoro pegomo iri, uye Mowabhu achadzingwa pasi pake, sokudzingwa kwehuswa mumarara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "ruchazorora"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rwaYahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pamusoro pegomo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "uye achadzingwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabhu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pasi pake"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "sokudzingwa"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "kwehuswa"
+    },
+    {
+      "surface": "במי",
+      "gloss": "mumi"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "mamarara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:07.359553287Z",
+  "model": "glm-5.3"
+}

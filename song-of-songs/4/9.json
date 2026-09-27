@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Wakatora ⟨את⟩ mtima wangu, hanzvadzi yangu, muroora wangu; wakatora ⟨את⟩ mtima wangu neimwe yemaso ako, nechisvo chimwe chemutsinga wako.",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "wakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mtima wangu"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "hanzvadzi yangu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "muroora wangu"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "wakatora"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "neimwe"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "yemaso ako"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "nechisvo chimwe"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "chemutsinga wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:01.701107010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mambo akabvisa ⟨את⟩ chiringa chake chaakatora kwaHamani, akaupa Morodekai; uye Ester akagadza ⟨את⟩ Morodekai pamusoro peimba yaHamani.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiringa chake"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "chiringa chake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cha"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "kwaHamani"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "akaupa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Morodekai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "akagadza"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Morodekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "yaHamani"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:46.449540178Z",
+  "model": "glm-5.3"
+}

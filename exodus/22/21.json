@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Chero mukasha nomusara — hamushushe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chero"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mukasha"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "nomusara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamu-"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "-shushe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:50.259388439Z",
+  "model": "glm-5.3"
+}

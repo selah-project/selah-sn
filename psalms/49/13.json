@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Asi munhu mukuru haugari; akafanana nezvipfuyo, zvinopera.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "asi munhu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haugari"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "haugari"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "akafanana"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "nezvipfuyo"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zvinopera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:07.732604432Z",
+  "model": "glm-5.3"
+}

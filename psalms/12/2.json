@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ponesa, Yahwe, nokuti mutsvene aparadzwa, nokuti vakatendeka vashaya pakati pevana vanhu.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Ponesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "aparadzwa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "vashaya"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "vakatendeka"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pakati pevana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:32.688928392Z",
+  "model": "glm-5.3"
+}

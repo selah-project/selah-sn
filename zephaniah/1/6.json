@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye ⟨את⟩ vanodzokera shure kubva kuna Yahwe, nevayo vasingatsvage ⟨את⟩ Yahwe, kana kumutsvaga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanodzokera shure"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "vanodzokera shure"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "shure kubva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nevayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "visinga-"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "-tsvage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "kumutsvaga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:47:13.346923345Z",
+  "model": "glm-5.3"
+}

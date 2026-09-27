@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 101,
+  "translation": "Maziso angu ⟨ari⟩ pavakatendeka venyika, vokugara nandi; anofamba munzira yakazara, iyeye andishandira.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "pavakatendeka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "vokugara"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeye"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "andishandira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:44.801214614Z",
+  "model": "glm-5.3"
+}

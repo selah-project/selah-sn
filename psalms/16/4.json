@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Matambudziko avo achawedzera — avo vakakurumidza kutevedza zvimwe zvivanzi; handidurukira madurukirwo avo eropa, uye handitora ⟨את⟩ mazita avo pamusoro pemilomo yangu.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "achawedzera"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "matambudziko avo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "zvimwe zvivanzi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "vakakurumidza kutevedza"
+    },
+    {
+      "surface": "בל",
+      "gloss": "handidurukira"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "handidurukira"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "madurukirwo avo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "eropa"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "uye handitori"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "handitora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazita avo"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "mazita avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:57.962224450Z",
+  "model": "glm-5.3"
+}

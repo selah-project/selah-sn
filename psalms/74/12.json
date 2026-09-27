@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Asi Erohimu ⟨ndiye⟩ mambo wangu wekare, anoshanda ⟨את⟩ ruponeso pakati pe⟨nyika⟩.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Asi Erohimu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mambo wangu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "wekare"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "anoshanda"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ruponeso"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:12.866585621Z",
+  "model": "glm-5.3"
+}

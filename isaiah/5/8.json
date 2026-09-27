@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Mabviro kwamuri munoita mumba kuti mumba, munda kuti munda, kusvika pasisina nzvimbo, mokagara mega munyika!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mabviro kwamuri"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "munoita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kuti mumba"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kuti munda"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "mosvitsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "mokagara"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "mega"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:09.951726964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye ruoko rwaMidhiani rwakasimba pamusoro peIsraeri; nokuda kwaMidhiani vana vaIsraeri vakazviitira ⟨את⟩ mapango ari mumativi, ne⟨את⟩ mabara, ne⟨את⟩ nzvimbo dzakachengeteka.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "rwakasimba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "waMidhiani"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwa-"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midhiani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zvokwawo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapango ari mumatovi"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mamatovi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabara"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "mabara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nzvimbo dzakachengeteka"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "nzvimbo dzakachengeteka"
+    }
+  ],
+  "timestamp": "2026-09-27T06:34:07.685126680Z",
+  "model": "glm-5.3"
+}

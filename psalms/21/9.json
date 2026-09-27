@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Ruoko rwako ruchawana vavengi vako ⟨ose⟩; ruoko rwako rwerudyi ruchawana ⟨avo⟩ vanokuvenza.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ruchawana"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruoko rwako rwerudyi"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ruchawana"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "vanokuvenza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:54.114270504Z",
+  "model": "glm-5.3"
+}

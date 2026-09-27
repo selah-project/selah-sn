@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvino baba vangu vakaisa pamusoro penyu mutoro unorema; iwo, ndiri kuwedzera pamusoro pemutoro wenyu. Baba vangu vakaranga ⟨את⟩ imi nenzimbo; iwo, ndichakuranga nengosha.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba-vangu"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "vakaisa-mutoro"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro-penyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mutoro"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "unorema"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iwo-ndiri"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ndiri-kuwedzera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro-pe"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "mutoro-wenyu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba-vangu"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "vakaranga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "nenzimbo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "iwo-ndiri"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "nengosha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:37.987876302Z",
+  "model": "glm-5.3"
+}

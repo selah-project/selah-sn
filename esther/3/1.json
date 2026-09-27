@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Shure kwezvinhu izvi, mambo Achashuveroshi akakudza ⟨את⟩ Hamani mwanakomana waHamedhata muAgagi, akamusimudza, uye akaisa ⟨את⟩ chigaro chake pamusoro pemadzishe ose vaiva ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Shure kwe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "akakudza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashuveroshi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "waHamedhata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "muAgagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "akamusimudza"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chigaro chake"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chigaro chake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:32.602154557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Ndidzokere kuna Yahwe zvikuru nomuromo wangu, uye pakati pevakawanda ndimurumbidze.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ndidzokere kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nomuromo wangu"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "uye pakati pe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ndimurumbidze"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:58.648146194Z",
+  "model": "glm-5.3"
+}

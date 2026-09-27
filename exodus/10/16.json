@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Farao akamhanyisa kudana Moshe naAroni, akati: Ndatadzira Yahwe, Erohimu venyu, nevawe.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "akamhanyisa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kudana"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "naAroni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndatadzira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu venyu"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "nevawe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:48.259618669Z",
+  "model": "glm-5.3"
+}

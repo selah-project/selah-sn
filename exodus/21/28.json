@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kana ngombe yakabaya ⟨את⟩ munhu kana ⟨את⟩ mukadzi, uye akafa, ngombo yachibviswa zvachose nematombo, uye ⟨את⟩ nyama yayo haigovi kudyiwa; asi mwene wengombo mune mhosva.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "yakabaya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "uye akafa"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "yachibviswa zvachose nematombo"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "yachibviswa zvachose nematombo"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haigovi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kudyiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yayo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama yayo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "asi mwene we"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "mune mhosva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:28.819509071Z",
+  "model": "glm-5.3"
+}

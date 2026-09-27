@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akavaka ⟨את⟩ Tadhimore mugwenzi, ne⟨את⟩ maguta ose echitunhidzo aakavaka muHamati.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadhimore"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadhimore"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maguta ose echitunhidzo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "echitunhidzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakavaka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "aakavaka"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "muHamati"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:52.246287541Z",
+  "model": "glm-5.3"
+}

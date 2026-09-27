@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye mupristi achazvitambanisa ⟨את⟩ pamusoro pechingwa chemazvirimwa ekutanga, chokutambanisa, pamberi pechiso chaYahwe, pamusoro pevana vehwayi maviri: zvichava zvitsvene kuna Yahwe, kumupristi.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "uye achazvitambanisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zvazo (vana vehwayi nechingwa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "chemazvirimwa ekutanga"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "chokutambanisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pechiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "vana vehwayi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zvitsvene"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "zvichava"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kumupristi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:36.856915741Z",
+  "model": "glm-5.3"
+}

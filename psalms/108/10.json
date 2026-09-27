@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 108,
+  "translation": "Moabhu ndiye hari yekugeza kwangu; paEdhomu ndinokanda shangu yangu; paFirisitira ndichadhonza.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "hari"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yekugeza kwangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ndinokanda"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "shangu yangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Firisitira"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ndichadhonza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:33.220362991Z",
+  "model": "glm-5.3"
+}

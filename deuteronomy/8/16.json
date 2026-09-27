@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "anokudziririsa namani munzvimbo idzva, yaibaba vako vakange vakaziva; nokuda kwekudzikisa iwe, nokuda kwekuedza iwe, kuti akuitire zvakanaka magumo ako;",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "anokudziririsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "namani"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "munzvimbo idzva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwaziva"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "vakange vakaziva"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ibaba vako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "kudzikisa iwe"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "kuedza iwe"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "kuti akuitire zvakanaka"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "magumo ako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:51.281528504Z",
+  "model": "glm-5.3"
+}

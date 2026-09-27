@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye achazviunza ⟨את⟩ netsiku yechisere, yokuchenesa kwake, kuna mupristi, kumusuo wotenti yokusangana, pamberi paYahwe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "achazviunza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zvichibayiro izvi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "netsiku"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "yechisere"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "yokuchenesa kwake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kumusuo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wotenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:48.316257341Z",
+  "model": "glm-5.3"
+}

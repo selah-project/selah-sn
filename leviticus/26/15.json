@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "uye kana mukanda zvitsidzo zvangu munge, uye mwoyo yenyu ikatambudzika nemitongo yangu, kusaita ⟨את⟩ zvose mirairo yangu, kutyora sungano yangu —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "zvitsidzo zvangu"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "mukanda munge"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitongo yangu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mitongo yangu"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ikatambudzika"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "mwoyo yenyu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kusaita"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose mirairo yangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mirairo yangu"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "kutyora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:19.425108006Z",
+  "model": "glm-5.3"
+}

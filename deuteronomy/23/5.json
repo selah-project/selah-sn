@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Nokuda kwezvi izvi, havana kukutanganidza nembira nemvura panzira, pandakabudai muMitsiri, uye nokuti vakashungirira kurwisa iwe ⟨את⟩ Bhiramu, mukoma waBheori, wePithori, weAramu-Naharayimu, wekutukura iwe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwezvi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "kukutanganidza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "nembira"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "pandakabudai"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muMitsiri"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye nokuti"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "vakashungirira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kurwisa iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bhiramu"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bhiramu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "waBheori"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "wePithori"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayimu"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "wekutukura iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:53.829550267Z",
+  "model": "glm-5.3"
+}

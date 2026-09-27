@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye mutwiuchabuda mugwenya raYishai, netsvimbo diki mudzi dzake dzichabereka muchero.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "uchabuda"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "mutwi"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "mugwenya"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "raYishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "netsvimbo-diki"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "mudzi dzake"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "dzichabereka-muchero"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:39.009352702Z",
+  "model": "glm-5.3"
+}

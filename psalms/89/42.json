@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Vamwe nenzira vanomutora zvavo; ave nyadzo kuvanhu vakomberedzake.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "vanomutora zvavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vamwe"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "vanopfuura"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nenzira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ave"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyadzo"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "kuvanhu vakomberedzake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:18.425569165Z",
+  "model": "glm-5.3"
+}

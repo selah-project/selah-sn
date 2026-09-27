@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "nokuti vekuita basa vaiipa, nehwo vakasimbisa ⟨את⟩ horo yaYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "veku"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "vaiipa"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "vakasimbisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nehwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "horo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "horo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:29.175403524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Chiso chako chiedzerere panhumba yako, uye ndidzidzise ⟨את⟩ mitengo yako.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "האר",
+      "gloss": "chiedzerere"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "panhumba yako"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "uye ndidzidzise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitengo yako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mitengo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:08.714958505Z",
+  "model": "glm-5.3"
+}

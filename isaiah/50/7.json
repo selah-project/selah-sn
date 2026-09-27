@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Nokuti Adonai Yahwe anondibatsira; naizvozvo handina kunyara; naizvozvo ndakaisa chiso changu sesevha, uye ndinoziva kuti handinganyari.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "nokuti Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "anobatsira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "na-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "kunyara"
+    },
+    {
+      "surface": "על",
+      "gloss": "na-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndakaisa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "sesevha"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "uye ndinoziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "-nganyari"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:28.879009713Z",
+  "model": "glm-5.3"
+}

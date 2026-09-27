@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Shumba nomwana wewayimwe dzichafudza ⟨seimwe⟩, shumba yegore dzichadya uswa sezhombe, nokugwara kwave chokudya chenyoka. Hadzichaita zvakaipa kana kuparadza pa{{}}gomo yangu tsvene yose, Yahwe wataura.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "nomwana wewayimwe"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "dzichafudza"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "⟨seimwe⟩"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "shumba yegore"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "sezhombe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dzichadya"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "kugwara"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chokudya chayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "chaita zvakaipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "kuparadza"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pa…yose"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "yangu tsvene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:04.724645972Z",
+  "model": "glm-5.3"
+}

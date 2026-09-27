@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye akagadzirisa ⟨את⟩ zvitsvene zvaibaba vake nezvake zvitsvene mumba yaYahwe, sirivha negore vanhuwo nezvinhu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akagadzirisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvitsvene zvaibaba vake nezvake zvitsvene"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zvitsvene"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zvaibaba vake"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "nezvake zvitsvene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negore vanhuwo"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "nezvinhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:22.457713060Z",
+  "model": "glm-5.3"
+}

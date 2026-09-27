@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "onai chinhu chinonaka nemururami pakati pevana vatenzi venyu, muise pachigaro choumambo chaibaba wake, uye rwirai imba yatenzi venyu.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "onai"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "chinhu chinonaka"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "nemururami"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pakati pevana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "vatenzi venyu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "muise"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro choumambo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "chaibaba wake"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "rwirai"
+    },
+    {
+      "surface": "על",
+      "gloss": "kurwira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "yatenzi venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:39.514567326Z",
+  "model": "glm-5.3"
+}

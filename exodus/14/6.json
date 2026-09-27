@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Akabopota ⟨את⟩ nyanzvi dzake dzemagariro, akatora ⟨את⟩ vanhu vake pamwe chete naye.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "akabopota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyanzvi dzake dzemagariro"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "nyanzvi dzake dzemagariro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamwe chete naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:24.405857581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye zvinhambwe zvenjuma pakati petsvinyo dzake, uye pfumo chenjuma pakati pebhapuro rake.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "uye zvinhambwe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zenjuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsvinyo dzake"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "uye pfumo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "chenjuma"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "bhapuro rake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:56:57.992039573Z",
+  "model": "glm-5.3"
+}

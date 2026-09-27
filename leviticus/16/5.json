@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye kubva mune ⟨את⟩ mabuswe evana vaIsiraeri achatora mbudzi dzinomwepa dziviri sezvibairo zvetadzo, neimwe yemhombwe yokupisa chibairo.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "kubva mune ⟨את⟩",
+      "marks": "mabuswe evana vaIsiraeri"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mabuswe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dziviri"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "dzinomwepa"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sezvibairo zvetadzo"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "neyemhombwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yokupisa chibairo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:17.330557960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye panyama, kana paine mukati meganda racho shichini, uye rapora.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "panyama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "paine"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mukati maro"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "meganda racho"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "shichini"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "rapora"
+    }
+  ],
+  "timestamp": "2026-09-27T05:46:11.457071636Z",
+  "model": "glm-5.3"
+}

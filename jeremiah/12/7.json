@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ndakasiya ⟨את⟩ imba yangu, ndakasiya ⟨את⟩ nhaka yangu; ndakapa ⟨את⟩ chidikanwi chomweya wangu mumaoko avavengi vayo.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Ndakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yangu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "imba yangu"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "ndakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhaka yangu"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "nhaka yangu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ndakapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chidikanwi chomweya wangu"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "chidikanwi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "chomweya wangu"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "avavengi vayo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:57:11.108194936Z",
+  "model": "glm-5.3"
+}

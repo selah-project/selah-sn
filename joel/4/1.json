@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nokuti tarisa, mazuva iwayo, uye nguva iyo, pandinodzokesa ⟨את⟩ kudzingwa kwaYudha neYerushalema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mazuva iwayo"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "iwayo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pandi-"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ndinodzokesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudzingwa kwaYudha neYerushalema"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kudzingwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalema"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:55.271856635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": " Zvino pavakasvika ⟨ku⟩Shomoronha, Erisa akati: Yahwe, vhura ⟨את⟩ maziso avo vanhu, vakaone. Yahwe akavhura ⟨את⟩ maziso avo, vakaona — tota, vaiiri mukati meShomoronha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "pavakasvika"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomoronha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Erisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "vhura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso avo vanhu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "avo vanhu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "vakaone"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "akavhura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso avo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "maziso avo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "vakaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tota"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomoronha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:17.512813268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Zvino zvikanzi Racheti abereka ⟨את⟩ Yosefu, Jakobo akati kuna Rabhani: Ndibvise ndiende kunzvimbo yangu nenyika yangu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikanzi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abereka"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Racheti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabhani"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Ndibvise"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ndiende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "nzvimbo yangu"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "nenyika yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:49.662453230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Abhurahama akamuka, akaopfasa vanhu venyika, vana vaCheti.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akaopfasa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "vaCheti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:38.158209954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Nokudaro varanda vamambo Chizikiya vakasvika kuna Yishaya.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vamambo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizikiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yishaya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:11.087786265Z",
+  "model": "glm-5.3"
+}

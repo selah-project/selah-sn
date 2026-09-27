@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndikanzwa ⟨izwi⟩ raAdonai richiti: Ndingatume ⟨ani⟩, uye ndiani achenda kwatiri? Ndikati: Ndiripo; nditume.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ndikanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "raAdonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "richiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ndingatume"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "uye ndiani"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "achenda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndikati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndiripo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "nditume"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:42.280956845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Nokuti akatyora ⟨madziro⟩ etonga, ndokudimbura misewe yutare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "etonga"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "miseve"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yutare"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "akadimbura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:07.881968424Z",
+  "model": "glm-5.3"
+}

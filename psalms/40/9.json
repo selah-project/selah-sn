@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Kuita kuda kwako, Erohimu wangu, ndinodakadzira, uye tora yako iri mukati memoyo wangu.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kuda kwako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndinodakadzira"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "uye tora yako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "moyo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:32.604687997Z",
+  "model": "glm-5.3"
+}

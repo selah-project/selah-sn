@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Hesedhi yako, Yahwe, yakazara pasi rose; ngondidzidzise chikwaro chako.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Hesedhi yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi rose"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "chikwaro chako"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ngondidzidzise"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:32.939617361Z",
+  "model": "glm-5.3"
+}

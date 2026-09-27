@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye vana vaIsraeri vakapa maRavhi ⟨את⟩ maguta awa ⟨את⟩ nematunze aro, sokuda kwakakomekedza Yahwe nemaoko vaMoshe, nemabanzi.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Uye vakapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "maRavhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta awa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "nematunze aro"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwakakomekedza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nemaoko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "vaMoshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "nemabanzi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:51.033137864Z",
+  "model": "glm-5.3"
+}

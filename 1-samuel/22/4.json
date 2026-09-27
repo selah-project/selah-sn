@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "akavaitisa pachena ⟨את⟩ pachiso pemambo waMoabhu; vakagara naye mazuva ose aiva Dhavhidhi muchisungo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "akavaitisa pachena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachiso pemambo waMoabhu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMoabhu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "היות",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "muchisungo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:50.876431834Z",
+  "model": "glm-5.3"
+}

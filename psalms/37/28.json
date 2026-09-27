@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Nokuti Yahwe anoda mutemo, uye haasiya ⟨את⟩ vatsvene vake; nokusingaperi vachachengetwa, asi mbewu yevakaipa ichadimbwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haasiya"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "haasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatsvene vake"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "vatsvene vake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "vachachengetwa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yevakaipa"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ichadimbwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:59.389296234Z",
+  "model": "glm-5.3"
+}

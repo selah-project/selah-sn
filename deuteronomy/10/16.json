@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye mudyarireni ⟨את⟩ ganda remoyo yenyu, uye huro yenyu musaigonesa zvakare.",
+  "tokens": [
+    {
+      "surface": "וּמַלְתֶּם",
+      "gloss": "mudyarireni"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "ganda remoyo yenyu"
+    },
+    {
+      "surface": "עָרְלַת",
+      "gloss": "ganda rokudyarwa"
+    },
+    {
+      "surface": "לְבַבְכֶם",
+      "gloss": "remoyo yenyu"
+    },
+    {
+      "surface": "וְעָרְפְּכֶם",
+      "gloss": "huro yenyu"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תַקְשׁוּ",
+      "gloss": "kugonesa"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "zvakare"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:49.344809695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Neye⟨את⟩ Hashabhiya, uye nayeye ⟨את⟩ Yeshaia, wobva mubvana vaMerari, hanzvadzi dzake navana vavo — makumi maviri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "neye⟨את⟩",
+      "marks": "Hashabhiya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hashabhiya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "nayeye ⟨את⟩",
+      "marks": "Yeshaia"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeshaia"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wobva mubvana va"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "navana vavo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:11:31.410644511Z",
+  "model": "glm-5.3"
+}

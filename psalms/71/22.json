@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Ndingawo ndichakutendawo ndichitamba ne-nevhari, muchechetso wako, Erohimu wangu; ndichakuimbira neginora, iwe Mutsvene waIsraeri.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "ndingawo"
+    },
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אוֹדְךָ֣",
+      "gloss": "ndichakutenda"
+    },
+    {
+      "surface": "בִּכְלִי",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "נֶבֶל",
+      "gloss": "nevhari"
+    },
+    {
+      "surface": "אֲמִתֶּּךָ",
+      "gloss": "muchechetso wako"
+    },
+    {
+      "surface": "אֱלֹהָ֥י",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "אֲזַמְּרָ֣ה",
+      "gloss": "ndichatamba ndichiimba"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "kurudo rwako"
+    },
+    {
+      "surface": "בְכִנּ֑וֹר",
+      "gloss": "neginora"
+    },
+    {
+      "surface": "קְד֣וֹשׁ",
+      "gloss": "Mutsvene"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "waIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:59.674989103Z",
+  "model": "glm-5.3"
+}

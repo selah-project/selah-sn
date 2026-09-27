@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "murume wake akanzwa, akanyarara kwaari, haana kumudzivirira ⟨את⟩ iye; ipapo zvitsidzo zvake zvose zvichamira, uye chisungo chose chaakasunga pamusoro pemweya wake chichamira.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "murume wake"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "akanyarara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "kudzivirira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (mukadzi)"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "zvichamira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "zvitsidzo zvake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye chisungo chose"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "chisungo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaa-"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "akasunga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "chichamira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:08.765796642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndapfuura kwakashoma kuvapatsva, ndikawana ⟨את⟩ wakada mweya wangu; ndakamubata, uye handina kumuregedza, kusvika pandakamuisa kuimba yamai wangu, nokukamuri yavakandibereka.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kwakashoma"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "ndapfuura"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuvapatsva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "pandakawana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakada mweya wangu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "wakada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ndakamubata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handina"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "kumuregedza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "pandakamuisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yamai wangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "noku"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "kamuri"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "yavakandibereka"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:16.655974303Z",
+  "model": "glm-5.3"
+}

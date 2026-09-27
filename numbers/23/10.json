@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Ndiani anokwanisa kuverenga ⟨את⟩ hurudza yaJakobho, kana huwandu hwechikamu chechina cheIsraeri? Mweya wangu ufe urufu rwevakatwasuka, uye magumo angu ave semavo!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "anokwanisa kuverenga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "hurudza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "yaJakobho"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "kana huwandu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikamu chechina cheIsraeri"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "chikamu chechina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cheIsraeri"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "ufe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "urufu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rwevakatwasuka"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "uye ave"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "magumu angu"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "semavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:02:53.833844724Z",
+  "model": "glm-5.3"
+}

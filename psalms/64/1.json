@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Kune muchengeti wenziyo. Nziyo yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune muchengeti wenziyo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:50.244234513Z",
+  "model": "glm-5.3"
+}

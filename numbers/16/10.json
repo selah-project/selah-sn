@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Akasvitsa ⟨את⟩ iwe pedyo, ne⟨את⟩ hanzvadzi dzako dzose dzechirume, vana vaRevhuri, ⟨את⟩ newe — asi muri kutsvaga chigaro chemapristiwo zvino!",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "akasvitsa pedyo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hanzvadzi dzako dzose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "hanzvadzi dzechirume"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "vaRevhuri"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "muri kutsvaga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "chigaro chemapristiwo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:00:37.812585619Z",
+  "model": "glm-5.3"
+}

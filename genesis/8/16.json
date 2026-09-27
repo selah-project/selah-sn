@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Buda munjaravhu; iwe nomukadzi wako, navanako, nevakadzi vavanako ⟨את⟩ iwe.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Buda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "munjaravhu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "njaravhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nomukadzi wako"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "navanako"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nevakadzi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vavanako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:44.895555229Z",
+  "model": "glm-5.3"
+}

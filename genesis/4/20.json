@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Adha akazvara ⟨את⟩ Jabhari; iye akaita baba evagari vehema nemopfumi wezvipfuwo.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jabhari"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jabhari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "היה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "vehema"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "nemopfumi wezvipfuwo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:48.641791152Z",
+  "model": "glm-5.3"
+}

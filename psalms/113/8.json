@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Kumugadza ⟨את⟩ iye agare nemadzimambo, pamadzimambo evanhu vake.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "kumugadza ⟨את⟩ iye agare"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "evanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:32.068598954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Uye kururama kwako, Erohimu, kusvika kumusoro-soko; iwe wakaita zvinokuru: Erohimu, ndiani anofanana newe?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Uye kururama kwako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kumusoro-soko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zvinokuru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "anofanana newe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:38.281138939Z",
+  "model": "glm-5.3"
+}

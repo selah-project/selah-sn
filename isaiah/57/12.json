@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Ini ndichazivisa ⟨את⟩ kulungama kwako, ne⟨את⟩ mabasa ako; asi haakuzobatsiri.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndichazivisa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kulungama kwako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mabasa ako"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "haakuzobatsiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:16.351032824Z",
+  "model": "glm-5.3"
+}

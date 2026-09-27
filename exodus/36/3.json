@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Iwo vakatora kubva pamberi paMoshe ⟨את⟩ mupiro wose wavakatungamira vana vaIsraeri kubasa rebasa rechitsvene, kuchiita ⟨את⟩; asi ivo vachiri kutora kune iye zvipo zvokuda mangwanani nemangwanani.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kubva pamberi pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mupiro wose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "mupiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amwa"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "vakatungamira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "kubasa"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "rebasa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "rechitsvene"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kuchiita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "basa rechitsvene"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "vachiri kutora"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kune iye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "zvipo zvokuda"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nemangwanani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:11.646169882Z",
+  "model": "glm-5.3"
+}

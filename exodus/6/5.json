@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uyewo ini ndanzwa ⟨את⟩ chicheme chevana vaIsiraeri, avo vaMitsirayi vari kubata varanda; ndikarangarira ⟨את⟩ sungano yangu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Uyewo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chicheme"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "chicheme"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vaMitsirayi"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "vari kubata varanda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ndikarangarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:12.163600835Z",
+  "model": "glm-5.3"
+}

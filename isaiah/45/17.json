@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Israeri yapunyurwa muYahwe, punyunuro yekusingaperi; hamuzunyisi uye hamunyadzisirwi kusvika nekusingaperi kwose.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "yapunyurwa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muYahwe"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "punyunuro"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "yekusingaperi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamu-"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "zunyisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hamu-"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "nyadzisirwi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "nekusingaperi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwose"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:26.883351783Z",
+  "model": "glm-5.3"
+}

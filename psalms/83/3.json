@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Nokuti tarira, vavengi vako vari kumuzha, uye avo vanovenga iwe vakasimudza musoro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "vari kumuzha"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "uye avo vanovenga iwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "vakasimudza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:14.184084463Z",
+  "model": "glm-5.3"
+}

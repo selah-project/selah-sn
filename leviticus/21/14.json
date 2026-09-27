@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Chizvarwa chemurume wakafa, neyakarambwa, neyakatsvetukwa, yohure ⟨את⟩ idzi haazotore; asi mhandara yevanhu vake ndiyo achatora semukadzi.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Chizvarwa chemurume wakafa"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "neyakarambwa"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "neyakatsvetukwa"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "yohure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idzi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazotore"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mhandara"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "yevanhu vake"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "semukadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:22.035905217Z",
+  "model": "glm-5.3"
+}

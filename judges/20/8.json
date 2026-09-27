@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Ndipo ruvanhu rwose rwakamuka somunhu mumwe, rwachiti: Hapana achafamba munhu ku dendere rake, uye hapana achadzoka munhu kumusha wake.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "rwakamuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ruvanhu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "somunhu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rwachiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "achafamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "kudendere rake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "achadzoka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kumusha wake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:55.189636490Z",
+  "model": "glm-5.3"
+}

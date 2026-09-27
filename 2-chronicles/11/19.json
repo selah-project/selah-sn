@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye akamuzvarira vanakomana: ⟨את⟩ Yeushi, na⟨את⟩ Shemariya, na⟨את⟩ Zahamu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akamuzvarira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "muzvariro"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vanakomana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeushi"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeushi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Shemariya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemariya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Zahamu"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:59.563333590Z",
+  "model": "glm-5.3"
+}

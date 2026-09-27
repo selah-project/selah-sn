@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asi Yahwe ari mutembero yake yetsvene — nyararai pachiso pake, nyika yose!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "asi Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ari mutembero"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "yake yetsvene"
+    },
+    {
+      "surface": "הס",
+      "gloss": "nyararai"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pachiso pake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyika yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:24.009023544Z",
+  "model": "glm-5.3"
+}

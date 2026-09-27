@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ona moto wakadzika kubva ⟨מן⟩ matenga, wakadya ⟨את⟩ vatungamiri vaviri vepamberi vevashanu makumi mashanu ne⟨את⟩ vashanu makumi mashanu vavo; zvino ngahuve upenyu hwangu wakakosha maziso ako.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "wakadzika"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wakadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatungamiri vaviri vepamberi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "vevashanu makumi mashanu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "vepamberi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vashanu makumi mashanu vavo"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "vashanu makumi mashanu vavo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "ngahuve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "maziso ako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:31.419230137Z",
+  "model": "glm-5.3"
+}

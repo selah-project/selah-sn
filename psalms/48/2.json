@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Yahwe ⟨⟨makuru⟩⟩, uye anorumbidzwa zvakanyanya, muguta raErohimu wedu, gomo rokutsvene kwake.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "uye anorumbidzwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta ra"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rokutsvene kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:32.628110904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Davhidi akatora ⟨את⟩ mhuka dzose dzouswa nomombe; akatambidzwa mberi kwezvipfuwo izvozo, vachiti: «Iyi ndiyo yakapfimbwa navDavhidi.»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhuka dzose dzouswa nomombe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dzouswa"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "nomombe"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "akatambidzwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mberi kwe"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izvozo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "yakapfimbwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "navDavhidi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:23.633077457Z",
+  "model": "glm-5.3"
+}

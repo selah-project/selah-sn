@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Zvino zvikanzi kana umambo hwatafutsa muruoko rwake, akauraya ⟨את⟩ varanda vake, vavakauraya ⟨את⟩ mambo baba vake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvikanzi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hwatafutsa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "muruoko rwake"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "vavakauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:45.521115447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokudaro Eriya akaenda kuita kuonekana kuna Ahabhu; nzara yaiva yakanyanya kuSimaroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriya"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "kuita kuonekana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yaiva yakanyanya"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "kuSimaroni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:25.124853637Z",
+  "model": "glm-5.3"
+}

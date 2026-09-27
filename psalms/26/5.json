@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ndinodzvinyirira gungano revakaipa, uye nevakaipa handigari navo.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndinodzvinyirira"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gungano"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "revakaipa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "uye ne"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "gara"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:28.832060418Z",
+  "model": "glm-5.3"
+}

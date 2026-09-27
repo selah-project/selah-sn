@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Ngari iye senhumbi inomufukidza, uye sebhande anoizinga nguva dzose.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Ngari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "senhumbi"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "inomufukidza"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "uese bhande"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "anoizinga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:17.752400639Z",
+  "model": "glm-5.3"
+}

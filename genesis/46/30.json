@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Uye Israeri akati kuna Yosefu: Ndinofa ⟨nhasi⟩, shureokuona ⟨את⟩ chiso chako, nokuti iwe uri ⟨uchiri⟩ mupenyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "Ndinofa"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "okuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "uchiri"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:05.626871444Z",
+  "model": "glm-5.3"
+}

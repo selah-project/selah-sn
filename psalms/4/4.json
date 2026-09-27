@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Asi zivai kuti Yahwe wakasarudza mutsveneroo kwaari;Yahwe achanzwa pandinodanidzira kwavari.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "asi zivai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "wakasarudza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mutsveneroo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "achanzwa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "pandinodanidzira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:39.611700265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Vane dzvata ngavadzinyadziswe, nokuti vakanditoropa nenchinyere; asi ini ndinofungafunga muzvitsidzo zvako.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ngavadzinyadziswe"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "vane dzvata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nenchinyere"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "vakanditoropa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "ndinofungafunga"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "muzvitsidzo zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:31.500262824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "nokuti vadya ⟨את⟩ Yakobo, uye ⟨את⟩ chokugara chavo vakachishatisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "vadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "chokugara chavo"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "chokugara chavo"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "vakachishatisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:43.106154666Z",
+  "model": "glm-5.3"
+}

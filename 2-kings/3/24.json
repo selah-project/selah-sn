@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vakapinda mune denderedzwa reIsraeri, Israeri vakamuka vakarwa ⟨את⟩ Muoabhu, uye vakatiza pachiso chavo; vakapinda mumba uye achirova ⟨את⟩ Muoabhu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mune"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "denderedzwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "reIsraeri"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muoabhu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muoabhu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "pachiso chavo"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "vakapinda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "achirova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muoabhu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muoabhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:07.994774239Z",
+  "model": "glm-5.3"
+}

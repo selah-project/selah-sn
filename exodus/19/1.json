@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mumwedzi wechitatu, pavakabuda vana vaIsiraeri kunyika yeMitsiriyi, pazuva iri pacho vakasvika muguva reSinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Mumwedzi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wechitatu"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "pavakabuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsiriyi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri pacho"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "muguva"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "reSinai"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:12.719064051Z",
+  "model": "glm-5.3"
+}

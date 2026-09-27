@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Mvura yakafamba kutenderedza arutari, uye akaadzaza ⟨את⟩ dzeni nemvura.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "yakafamba"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kutenderedza"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "arutari"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzeni"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "dzeni"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "akaadzaza"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:01.239228275Z",
+  "model": "glm-5.3"
+}

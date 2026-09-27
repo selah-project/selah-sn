@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Wakashata, nekukwidza kwechiso chake, haatsvaki ⟨Erohimu⟩; zvirongwa zvake zvose: hapana Erohimu.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Wakashata"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sekukwidza"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kwechiso chake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "tsvaki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "zvirongwa zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:07.495285215Z",
+  "model": "glm-5.3"
+}

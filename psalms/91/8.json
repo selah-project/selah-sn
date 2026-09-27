@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Only with your eyes shall you look, and you shall see the recompense of the wicked.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "nezviso zako"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "uchaona watarisa"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "mubairo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "evakaipa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uchaona"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:09.426792550Z",
+  "model": "glm-5.3"
+}

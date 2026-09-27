@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Anozvidzvanya nemachinja sokupfekedza ⟨את⟩ nguwo; anotambanudza ⟨את⟩ matenga sechidziro.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "anozvidzvanya"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nemachinja"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "sokupfekedza nguwo"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "anotambanudza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "sechidziro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:50.381085999Z",
+  "model": "glm-5.3"
+}

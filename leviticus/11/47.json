@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "kutsanangura pakati pechinhu chisina kutsvena nepachinhu chitsvene, pakati pemhuka inodyiwa nepakati pemhuka isingadyiwi.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "kutsanangura pakati"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "pechinhu chisina kutsvena"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "pechinhu chitsvene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "pemhuka inodyiwa"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "inodyiwa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "pemhuka isingadyiwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨iyo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isinga-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dyiwi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:10.224817642Z",
+  "model": "glm-5.3"
+}

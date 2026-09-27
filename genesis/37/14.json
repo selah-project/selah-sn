@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Iye akati kwaari: Famba ⟨iwe⟩, ona ⟨את⟩ runyararo rwevakoma vako, ne⟨את⟩ runyararo rwemabhiza, undidzoreredza shoko. Akamutuma kubva mubani reChevuroni, iye akanosvika Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Famba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runyararo rwevakoma vako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rwevakoma vako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "runyararo rwemabhiza"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "rwemabhiza"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "undidzoreredza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "Akamutuma"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "kubva mubani re"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevuroni"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akanosvika"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:56.526490329Z",
+  "model": "glm-5.3"
+}

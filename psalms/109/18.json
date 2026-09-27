@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Akapfeka tuko senhumbi yake, uye rakapinda semvura mukati wake, seserino mumapfupa make.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Akapfeka"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "tuko"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "senhumbi yake"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "uye rakapinda"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "semvura"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mukati wake"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "seserino"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "mumapfupa make"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:17.752275125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Uye mutemouchagara muchambo, uye ruramisiro ruchagara mumunda wemichero.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Uye uchagara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "muchambo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "uye ruramisiro"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "mumunda wemichero"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ruchagara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:57.656653259Z",
+  "model": "glm-5.3"
+}

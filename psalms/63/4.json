@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Nokuti hesedhi yako iri nani kupfuura upenyu; miromo yangu ichakurumbidza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "iri nani"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "kupfuura upenyu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "miromo yangu"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ichakurumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:07.938754848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Ndikati: Ndiani angandipa mapapiro sejiva, ndibhururuke ndigororonopfera?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndikati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "angandipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "mapapiro"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "sejiva"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ndibhururuke"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ndigororonopfera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:51.412346971Z",
+  "model": "glm-5.3"
+}

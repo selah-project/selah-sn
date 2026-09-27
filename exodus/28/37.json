@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uchaisa ⟨את⟩ iri paute nechishongo chetekere, richava pamusoro pe⟨the⟩mitsanefeti; kumberi, kwakatarisana nechiso chemitsanefeti chichava.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iri (chipo chetsitsva)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "chishongo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "chetekere"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitsanefeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumberi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kwakatarisana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chemitsanefeti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichava"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:37.988785883Z",
+  "model": "glm-5.3"
+}

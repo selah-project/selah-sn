@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Zvino pakufamba kwavo kubva kumabvazuva, vakawana bani munyika yeShinari, vakagara ikoko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino pakaita"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "pakufamba kwavo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kubva kumabvazuva"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "vakawana"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "bani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinari"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:11.977335103Z",
+  "model": "glm-5.3"
+}

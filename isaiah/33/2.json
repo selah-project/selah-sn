@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Yahwe, ita nyasha newo; kwamuri takamirira.Iva chirema chavo mangwanano omwe, uye ruponeso rwedu nguva yedambudziko.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ita nyasha newo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "takamirira"
+    },
+    {
+      "surface": "היה",
+      "gloss": "Iva"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "chirema chavo"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "mangwanano omwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uye"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ruponeso rwedu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nguva ye-"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dambudziko"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:51.153334105Z",
+  "model": "glm-5.3"
+}

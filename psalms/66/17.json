@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Kwari ndakadana nomuromo wangu, uye kurumbidzwa kwuri pasi pemurara wangu.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "kwari"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndakadana"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "uye kurumbidzwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "murara wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:23.812247297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Pambu here inotwa kubva kune wemasimba, kana kuti matapwa emururami achapunyutswa?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "inotwa here"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "kubva kune wemasimba"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "pambu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana kuti"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "matapwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "emururami"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "achapunyutswa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:34.200937231Z",
+  "model": "glm-5.3"
+}

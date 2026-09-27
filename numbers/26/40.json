@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Vana vaBhera vakanga vari Aridhi naNaamani; kunaAridhi, musha waAridhi; kunaNaamani, musha waNaamani.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "vakanga vari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Vana"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "vaBhera"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Aridhi"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "naNaamani"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "musha"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "waAridhi"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "kunaNaamani"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "musha"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "waNaamani"
+    }
+  ],
+  "timestamp": "2026-09-27T06:04:20.929563120Z",
+  "model": "glm-5.3"
+}

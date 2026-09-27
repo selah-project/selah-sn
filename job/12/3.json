@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Iniwo ndine moyo senyu; ini handina kudonha kupfuura imi; asi ⟨את⟩ ndiyani wasina izvi?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "iniwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "senyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kudonha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kupfuura imi"
+    },
+    {
+      "surface": "ויאמרואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndiyani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wasina"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:30.237640426Z",
+  "model": "glm-5.3"
+}

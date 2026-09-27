@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "YaDhavhidhi. Tirwira, Yahwe, ⟨את⟩ vavengi vangu; rwa ⟨את⟩ varwisi vangu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "YaDhavhidhi"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Tirwira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vangu"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varwisi vangu"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "varwisi vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:12.409165836Z",
+  "model": "glm-5.3"
+}

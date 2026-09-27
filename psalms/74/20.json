@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Tarisa sungano, nokuti nzvimbo dzinodzima dzepasi dzakazara nzvimbo dzokugara dzeruvhanyo.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "dzakazara"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "nzvimbo dzinodzima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "nzvimbo dzokugara"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "deruvhanyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:17.769331838Z",
+  "model": "glm-5.3"
+}

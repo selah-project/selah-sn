@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Arupakashadi akazvara ⟨את⟩ Shera; Shera woga akazvara ⟨את⟩ Eberi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arupakashadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shera"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shera"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Shera woga"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:38.046773672Z",
+  "model": "glm-5.3"
+}

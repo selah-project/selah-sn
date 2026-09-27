@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Murevhi akafarisira kugara ⟨את⟩ murume uyo, nehavana yave kwaari semotsi wevana vake.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "akafarisira"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Murevhi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murume uyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume uyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nehavana yave"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "semotsi"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "wevana vake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:38:39.835228300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 3:33",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zviratidzo zvake zvinongoerekana, nezvinoshamisa zvake zvakasimba zvakadarika: humambo hwake humambo hwokusapereka, husimbande hwachiri nemazera nemazera.",
+  "tokens": [
+    {
+      "surface": "אתוהי",
+      "gloss": "zviratidzo zvake"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "zvinongoerekana"
+    },
+    {
+      "surface": "רברבין",
+      "gloss": "zvakadarika"
+    },
+    {
+      "surface": "ותמהוהי",
+      "gloss": "nezvinoshamisa zvake"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "zvakasimba"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "zvakadarika zvakare"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "humambo hwake"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "humambo"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "hwokusapereka"
+    },
+    {
+      "surface": "ושלטנה",
+      "gloss": "husimbande hwachiri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דר",
+      "gloss": "mazera"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemazera"
+    }
+  ],
+  "timestamp": "2026-09-27T10:00:37.000474663Z",
+  "model": "glm-5.3"
+}

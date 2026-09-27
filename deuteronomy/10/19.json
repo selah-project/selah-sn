@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Naizvozvo vanai vamwari venyika, nokuti makanga muri vamwari venyika munyika yeMitsirayi.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "vanai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vamwari venyika"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "vamwari venyika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vamwari venyika"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "makanga muri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsirayi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:21.421398699Z",
+  "model": "glm-5.3"
+}

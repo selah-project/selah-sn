@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Kubva ruoko rwaSheori ndichavadzikinura, kubva kurufu ndichavadzikinura; ko marwadzo ako, rufu? ko kuparadza kwako, Sheori? Kutenderera kunovandwa maziso angu.",
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "kubva ruoko rwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheori"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "ndichavadzikinura"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kubva kurufu"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "ndichavadzikinura"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "marwadzo ako"
+    },
+    {
+      "surface": "מות",
+      "gloss": "rufu"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "kuparadza kwako"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheori"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "kutenderera"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "kunovandwa"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "maziso angu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:29.965442938Z",
+  "model": "glm-5.3"
+}

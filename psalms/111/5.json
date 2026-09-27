@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Akapa chokudya kuvanomutyavara; achayeuchidza sungano yake nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "chokudya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kuvanomutyavara"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "achayeuchidza"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sungano yake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:55.559987885Z",
+  "model": "glm-5.3"
+}

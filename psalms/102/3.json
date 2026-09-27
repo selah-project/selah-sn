@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Usanyanze chiso chako kubva pairi muzuva rwenhamo yangu; tenda nzeve yako kandiri; muzuva randinodana, kurumidza ndipindure.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "nyanze"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva pairi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva rwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nhamo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nzeve yako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva ra"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "andinodana"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kurumidza"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndipindure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.178305492Z",
+  "model": "glm-5.3"
+}

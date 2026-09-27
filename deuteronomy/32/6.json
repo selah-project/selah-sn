@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Kudzikinura here izvi kwamuita Yahwe, iwe ruvanhu rwasara risina hungwaru? Haasi iye here baba wako, akakuwanira? Ndiye akakusika, ndiye akakugadzikisa.",
+  "tokens": [
+    {
+      "surface": "הֲ",
+      "gloss": "here"
+    },
+    {
+      "surface": "לַיְהוָה֙",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תִּגְמְלוּ",
+      "gloss": "kwamuita...kudzikinura"
+    },
+    {
+      "surface": "זֹ֔את",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "עַ֥ם",
+      "gloss": "ruvanhu"
+    },
+    {
+      "surface": "נָבָ֖ל",
+      "gloss": "rwasara"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "risina"
+    },
+    {
+      "surface": "חָכָ֑ם",
+      "gloss": "hungwaru"
+    },
+    {
+      "surface": "הֲלֹ֥אא הוּא֙ אָבִ֣יךָ קָּנֶ֔ךָ ה֥וּא עָֽשְׂךָ֖ וַֽיְכֹנְנֶֽךָ",
+      "gloss": "Haasi iye here baba wako, akakuwanira? Ndiye akakusika, ndiye akakugadzikisa."
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:30.901155563Z",
+  "model": "glm-5.3"
+}

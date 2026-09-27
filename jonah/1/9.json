@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Akati kwavari: Muhebheru ndiri, ⟨את⟩ uye Yahwe, Erohimu wematenga, ndinomutya; iye ⟨את⟩ akaita ⟨את⟩ gungwa ne⟨את⟩ pasi yakoma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Muhebheru"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "ו",
+      "gloss": "⟨את⟩ uye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wematenga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndino"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mutya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨את⟩ akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨את⟩ gungwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "pasi yakoma"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "pasi yakoma"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:19.961426589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Munhu nomunhu wobva mumba yaIsraeri, anocheka ⟨את⟩ mombe kana gwai kana mbudzi mumusasa, kana anocheka kunze kwemusasa,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wobva mumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "anocheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mombe kana gwai kana mbudzi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "gwai"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "mumusasa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "anocheka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwemusasa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:54.186939114Z",
+  "model": "glm-5.3"
+}

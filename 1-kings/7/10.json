@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye hwaro rwaive mabwe anehukoshi, mabwe makuru, mabwa gumi emaamha, uye mabwa rusere emaamha.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "uye hwaro"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "anehukoshi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabwa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "emaamha"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "nemabwa"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "rusere"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "emaamha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:15.100625426Z",
+  "model": "glm-5.3"
+}

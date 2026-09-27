@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye ndichapedza ⟨את⟩ kutsamwa kwangu parusvingo, navanotepura iro ⟨את⟩ dho risingasangane; ndichati kuri: hakuna rusvingo, uye hakuna ⟨את⟩ vanotepura iro.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "ndichapedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsamwa kwangu"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "kutsamwa kwangu"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "parusvingo"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "navanotepura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iro"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "dho risingasangane"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndichati"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "rusvingo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "vanotepura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-27T08:18:46.419935997Z",
+  "model": "glm-5.3"
+}

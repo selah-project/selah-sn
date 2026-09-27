@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye haugoni kukwira nhanho pamusoro peMizibhecha changu, kuti kubvika> kwako kusaonekwe pairi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye haugoni"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kukwira"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "nhanho"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "Mizibhecha changu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kusaita kuti"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kusaonekwe"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "kubvika> kwako"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pairi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:26.655201953Z",
+  "model": "glm-5.3"
+}

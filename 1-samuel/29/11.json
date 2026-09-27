@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Nokuti Dhavhidhi akazunza, iye nevarume vake, kuenda mangwanani kudzokera kunyika yevaFiristia; Vafiristia vakakwira kuYizreeri.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akazunza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "nevarume vake"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kudzokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "yevaFiristia"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "Vafiristia"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vakakwira"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "kuYizreeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:51:24.454286976Z",
+  "model": "glm-5.3"
+}

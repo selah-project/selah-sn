@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Vanhu vose vakasara kubva kuna vaEmori, vaHiti, vaPerizi, vaHivi nevaYebhusi — avo vasiri vana vaIsiraeri ihvo —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Vanhu"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "vakasara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva kuna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "vaEmori"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "vaHiti"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "vaPerizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "vaHivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "nevaYebhusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vasiri"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ihvo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:13.757329868Z",
+  "model": "glm-5.3"
+}

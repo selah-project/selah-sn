@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Samueri akati: Sanzanirai ⟨את⟩ Israeru yose kuMitsipa, ndichinamatira kwamuri kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Sanzanirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeru yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeru"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "kuMitsipa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ndichinamatira"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:21.828735142Z",
+  "model": "glm-5.3"
+}

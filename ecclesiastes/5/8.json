@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye mupiro wepanyika ndiwe wezvinhu zvose; mambo anoshandirwa nomunda.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "mupiro"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wenyika"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wezvinhu zvose"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "anoshandirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:22.885733026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vakadana kuna Yahwe mukutambudzika kwavo, uye kubva mukuomesa kwavo akavadzikinura.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Vakadana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mukutambudzika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "kubva mukuomesa kwavo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "akavadzikinura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:07.881365157Z",
+  "model": "glm-5.3"
+}

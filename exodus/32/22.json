@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Aharon akati: Hasha dzaAdonai wangu dzisapfave; iwe unoziva ⟨את⟩ vanhu, kuti ⟨vari⟩ munezvakaipa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dza…dza (negation) `usa-`"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "dzisapfave"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "menezvakaipa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨vari⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:26.567141207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 97,
+  "translation": "Matomo akanyunguduka sadonagi pachiso cheYahwe, pachiso cheAdonai wepas iri rose.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "matomo"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "sadonagi"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "akanyunguduka"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "we…iri rose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pas i"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:36.868807749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Kuoneka kwebwido rwaYahwe kwakanga kuri semoto unopisa pamusoro pegomo, pamaso evana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "kuoneka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rwedzido rwaYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "semoto"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "unopisa"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamaso pa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:35.033608492Z",
+  "model": "glm-5.3"
+}

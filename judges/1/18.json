@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yudha akatorawo ⟨את⟩ Gaza nemuganhu wayo, na⟨את⟩ Ashukeroni nemuganhu wayo, na⟨את⟩ Ekeroni nemuganhu wayo.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "akatorawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "muganhu wayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "muganhu wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Ashukeroni"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashukeroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "muganhu wayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "muganhu wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Ekeroni"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekeroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "muganhu wayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "muganhu wayo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:54.147356166Z",
+  "model": "glm-5.3"
+}

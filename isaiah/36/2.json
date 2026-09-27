@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 36:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Mambo weAshuru akatuma ⟨את⟩ Rabushake kubva muRakisishi kuenda Yerusalema kuna mambo Chizikiyahu nechisirwa chinorema; akamira panzira yemvura yedziva ropadziva, panzira yesango remhanzi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabushake"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rabu"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "kubva muRakisishi"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "kuenda Yerusalema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizikiyahu"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "nechisirwa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "chinorema"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "בתעלת",
+      "gloss": "panzira yemvura"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "yedziva"
+    },
+    {
+      "surface": "העליונה",
+      "gloss": "ropadziva"
+    },
+    {
+      "surface": "במסלת",
+      "gloss": "panzira ye"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sango"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "remhanzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:02.248946604Z",
+  "model": "glm-5.3"
+}

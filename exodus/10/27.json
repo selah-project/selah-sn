@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye Yahwe akasimbisa ⟨את⟩ moyo waParao, iye asiri kuda kuavatura.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "akasimbisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo waParao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waParao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asiri kuda"
+    },
+    {
+      "surface": "אבה",
+      "gloss": ""
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "kuavatura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:09.631323018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 140,
+  "translation": "Munhu wemuridzo haugadzikwi pasi; munhu wohutsinye —akaipa— dambudziko richamuronda kumagumo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "wemuridzo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ugadzikwi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wohutsinye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "akaipa"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "richamuronda"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "kumagumo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:34.666957190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nokuti madzimambo ake ari muTsoani, uye vatumwa vake vasvika kuHanese.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "muTsoani"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "madzimambo ake"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "uye vatumwa vake"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "kuHanese"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "vasvika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:01.776742955Z",
+  "model": "glm-5.3"
+}

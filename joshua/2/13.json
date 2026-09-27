@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye muchaponesa ⟨את⟩ baba vangu ne⟨את⟩ amai vangu ne⟨את⟩ vabhradhara vangu ne⟨את⟩ vadhadhzi vangu ne⟨את⟩ zvose zvavainazvo, uye muchanunura ⟨את⟩ mweya yedu kufa.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "muchaponesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vangu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "amai vangu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amai vangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vabhradhara vangu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vabhradhara vangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vadhadhzi vangu"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "vadhadhzi vangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose zvavainazvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vavainazvo"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "muchanunura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweya yedu"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "mweya yedu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kufa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:01.413640225Z",
+  "model": "glm-5.3"
+}

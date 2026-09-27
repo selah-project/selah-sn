@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Naizvozvo, kana vana vaAmoni vakarwa neIsiraeri, vakuru veGiriyadhi vakafamba kukatora ⟨את⟩ Yifitah kunyika yeTobu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaumbo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "veGiriyadhi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kukatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yifitah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifitah"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yeTobu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:37:39.327660318Z",
+  "model": "glm-5.3"
+}

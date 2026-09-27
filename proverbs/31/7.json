@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Anomwe, abva awangira hurombo hwake, netambudziko yake haazongorangarire.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "anomwe"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "abva awangira"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "hurombo hwake"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "netambudziko yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "-zongorangarire"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:32:14.772493704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Abhurahama akanamata kuna Erohimu, uye Erohimu akaporesa ⟨את⟩ Abhimeleki ne⟨את⟩ mukadzi wake nevanhandzi vake, vakazvara.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "akanamata"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "akaporesa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimeleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mukadzi wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "nevanhandzi vake"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "vakazvara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:40.852416834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Uye Yosefu akati kubaba vake: Kwete zvokutadaro, baba vangu; nokuti uyu ndiye chibereko; isa ruoko rwako rwerudyi pamusoro pemusoro wake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvokutadaro"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "ndiye chibereko"
+    },
+    {
+      "surface": "שים",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruoko rwako rwerudyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:22.729763678Z",
+  "model": "glm-5.3"
+}

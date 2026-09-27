@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Serugi akagara shure pokuzvara kwake ⟨את⟩ Nahori makore mazana maviri, akazvara vanhurume nevanasikana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pokuzvara kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana maviri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vanhurume"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "nevanasikana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:35.443797246Z",
+  "model": "glm-5.3"
+}

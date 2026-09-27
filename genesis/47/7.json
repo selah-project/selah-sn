@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Yosefu akaunza ⟨את⟩ Yahakobu baba vake, akamumisa pamberi paParoh; Yahakobu akaropafadza ⟨את⟩ Paroh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahakobu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yahakobu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "akamumisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yahakobu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:02.227327174Z",
+  "model": "glm-5.3"
+}

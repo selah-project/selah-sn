@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Wakada kururama, wakavenga rusunzo; nokuda kweizvi Erohimu — Erohimu wako — wakakuzodza nomafuta emufaro, ⟨kupfuurisa⟩ shamwari dzako.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Wakada"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "wakavenga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rusunzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "wakakuzodza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "nomafuta e"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "shamwari dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:38.306417715Z",
+  "model": "glm-5.3"
+}

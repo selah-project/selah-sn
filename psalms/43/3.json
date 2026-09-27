@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Tumira chiedza chako nechokwadi chako; izvo zvichanditungamirira, zvichandiendesa kugomo rako dutsvene, uye kumisha dzako.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Tumira"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "chiedza chako"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nechokwadi chako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "zvichanditungamirira"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "zvichandiendesa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "rako dutsvene"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye ku"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "misha dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:59.624777713Z",
+  "model": "glm-5.3"
+}

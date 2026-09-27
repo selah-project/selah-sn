@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Kumatema nokurudyi, iwewe wakasika ⟨zvazvo⟩; Tavhoru naHermonu muzita rako zvinoimba zvichifara.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Kumatema"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "nokurudyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwewe"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "wakasika"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavhoru"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "naHermonu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "muzita rako"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zvinoimba zvichifara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:40.565800319Z",
+  "model": "glm-5.3"
+}

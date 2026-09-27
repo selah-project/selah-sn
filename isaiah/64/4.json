@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Wakasangana ⟨ne⟩ ⟨את⟩ anofarira uye anochaita kururama, avo vanokuyeuchidwa munzira dzako; tarisa, iwe wakatsamwa, tine chitadzo — muzvino zvachose tinoponeswa.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "Wakasangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anofarira uye anochaita kururama"
+    },
+    {
+      "surface": "שש",
+      "gloss": "anofarira"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "anochaita"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "munzira dzako"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "vanokuyeuchidwa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "wakatsamwa"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "tine chitadzo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muzvino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "tinoponeswa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:22.025164372Z",
+  "model": "glm-5.3"
+}

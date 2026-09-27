@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uchasvitsa ⟨את⟩ Aaroni ne⟨את⟩ vana vake kumusuo wetendi yokusangana, uchachambadza ⟨את⟩ vose nemvura.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uchasvitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "musuo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "uchachambadza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ vose"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:48.926261253Z",
+  "model": "glm-5.3"
+}

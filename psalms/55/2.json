@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Tevera nzeve dzako, iwe Erohimu, munyatso wedu; usanzvenga nyereketo yangu.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Tevera nzeve dzako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "munyatso wedu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "nzvenga"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "nyereketo yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:56.034055137Z",
+  "model": "glm-5.3"
+}

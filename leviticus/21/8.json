@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye umutsvenese, nokuti ⟨את⟩ chikafu chaErohimu wako ndiwo anochizvipereka; mutsvene achava kwauri, nokuti ndiri mutsvene, ini Yahwe, anokutsvenesai.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "uye umutsvenese"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikafu chaErohimu wako"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "chaErohimu wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "anochizvipereka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri...ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "anokutsvenesai"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:44.403673362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye nhoomwe kana gwai, ⟨את⟩ < none > ⟨את⟩ pamwe nomwana wayo, hamupere muzuva rimwe chete.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Uye nhoomwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שה",
+      "gloss": "gwai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ < none >"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ pamwe nomwana wayo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "mupere"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rimwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:31.469904398Z",
+  "model": "glm-5.3"
+}

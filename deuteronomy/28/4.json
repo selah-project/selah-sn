@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Wakadzikirwa muchero chemudumbu wako, uye muchero weivhu rako, uye muchero wezipfuwo zako — hove dzezvipfuwo zvako zvikuru, ne Madzikirwa evana veAdhamu? ndokudaro: tsumo yemombe dzako, nevana yembudzi dzako.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "wakadzikirwa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "muchero"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "chemudumbu wako"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "uye muchero"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "weivhu rako"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "uye muchero"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "wezipfuwo zako"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "vana ve"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "mombe dzako"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "vana ve"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "mbudzi dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:17.225678407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Nomuimbo wayini havanywi; shwairo rinova zvurugwi kuvanomwa rarwo.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "nomuimbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havanywi"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "kuvanomwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wayini"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "rinova zvurugwi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "shwairo"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "kuvanomwa rarwo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:16.849452325Z",
+  "model": "glm-5.3"
+}

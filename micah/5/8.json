@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ruoko rwako ruchasimudzwa pamusoro pevavengi vako, uye vavengi vako vose vachapwa.",
+  "tokens": [
+    {
+      "surface": "תרם",
+      "gloss": "ruchasimudzwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye vose"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "vachapwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:58.143416361Z",
+  "model": "glm-5.3"
+}

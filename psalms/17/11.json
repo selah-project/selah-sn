@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Nhanho dzedu zvino vakadzingira; maziso avo akaigadzira kuti tivekwe pasi panyika.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "Nhanho dzedu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "vakandizinga"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "maziso avo"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "akaigadzira"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "kuti tivekwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi panyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:35.671813018Z",
+  "model": "glm-5.3"
+}

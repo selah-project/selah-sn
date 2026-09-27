@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye shangu dzakapfava dzakatsetungudzwa patsoka dzavo, uye hembe dzakapfava pamusoro pawo; uye chikafu chose chokufamba chavo chakanga chakoma, chava madonhwe.",
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "uye shangu"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "dzakapfava"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "dzakatsetungudzwa"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "patsoka dzavo"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "uye hembe"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "dzakapfava"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pawo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye chose"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "chokufamba chavo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "chakoma"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chakanga"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "chava madonhwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:21.071621538Z",
+  "model": "glm-5.3"
+}

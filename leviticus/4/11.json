@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ne⟨את⟩ ganda remhuru yechishongo, ne⟨את⟩ nyama yose yaro, nehusoro hwayo netsoka dzaro, nezviri mukati mayo netsvina yaro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ganda remhuru"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "remhuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nyama yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "husoro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "tsoka"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "nezviri mukati"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "netsvina"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:08.231809928Z",
+  "model": "glm-5.3"
+}

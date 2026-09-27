@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Makavimba nemi, madzibaba edu; vakavimba, uye makadinunura ⟨את⟩ iwo.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "makavimba"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "madzibaba edu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vakavimba"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "uye makadinunura ⟨את⟩ iwo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:11.714551910Z",
+  "model": "glm-5.3"
+}

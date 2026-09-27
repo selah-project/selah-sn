@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Iwe gara ungoenda kusvika magumo; uchazorora, uchachimirira muchikwata chako, magumu emazuva.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ungoenda"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "kusvika magumu"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "uchazorora"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "uchachimirira"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "muchikwata chako"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "magumu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "emazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:05:28.645338046Z",
+  "model": "glm-5.3"
+}

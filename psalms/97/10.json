@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 97,
+  "translation": "Imi vanoda Yahwe, vani vengo zvakaipa; iye anochengeta mweya yevatsvene vake, anovaponesa kubva mumaoko evakaipa.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Imi vanoda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "vani vengo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anochengeta"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "yevatsvene vake"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "evakaipa"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "anovaponesa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:56.104966643Z",
+  "model": "glm-5.3"
+}

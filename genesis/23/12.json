@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Nokuti Abhurahama akagwinhamira pamberi pevanhu venyika.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "akagwinhamira"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:03.245347524Z",
+  "model": "glm-5.3"
+}

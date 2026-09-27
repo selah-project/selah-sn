@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Izwi rokunyepa mururami anaridzvanyirira; asi mwero anozvitutisa, anozonyadziswa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "rokunyepa"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "anaridzvanyirira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "asi mwero"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "anozvitutisa"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "anozonyadziswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:56.631164955Z",
+  "model": "glm-5.3"
+}

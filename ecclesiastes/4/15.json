@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ndakaona ⟨את⟩ vose vari mupenyu vanofamba pasi pemabwe, pamwe nemwanana wechipiri, uyo achamira panzvimbo yake.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vose vari mupenyu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vari mupenyu"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "vanofamba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwanana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wechipiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "achamira"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "panzvimbo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:59.276667976Z",
+  "model": "glm-5.3"
+}

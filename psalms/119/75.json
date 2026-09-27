@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndakaziva, Yahwe, kuti zvakanaka mishoni yako, uye mutsvene wakandishungurudza.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ndakaziva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mishoni yako"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "uye mutsvene"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "wakandishungurudza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:16.219016276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Ikoko vakatya chitya, hakuna chitya chaimpo; nokuti Erohimu waparadzira mapfupa awakagara pauri. Wawanyadzisa, nokuti Erohimu wavarasa.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "vakatya"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "chitya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "היה",
+      "gloss": "chaimpo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "chitya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "waparadzira"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mapfupa"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "awakagara pauri"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "wawanyadzisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "wavarasa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:08.988091256Z",
+  "model": "glm-5.3"
+}

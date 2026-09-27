@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Mweya wangu uchazadzwa ⟨se⟩ uchebve nemafuta; nemilomo yenakidzo muromo wangu ucharumbidza.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "uchebve"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "nemafuta"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "uchazadzwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "nemilomo"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "yenakidzo"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ucharumbidza"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:52.631407788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 20:3",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Dhavhidhi akapika zvakare ndokuti: Baba vako vanoziva zvirokwazvo kuti ndawana nyasha maziso ako; ndokuti, Yonathani ngaarege kuziva izvi, asaruwadzwa; asi, pachokwadi, Yahwe muri kurarama, uye upenyu hwenyu hurikurarama, pane chinangwa chete pakati peiyo neni nerufu.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "akapika"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vanoziva"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Baba vako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ndawana"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nyasha"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "maziso ako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngaarege"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "פן",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ruwadzwa"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "asi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kurarama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "urikurarama"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "upenyu hwenyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pachokwadi"
+    },
+    {
+      "surface": "כפשע",
+      "gloss": "chinangwa chete"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati peiyo neni"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המות",
+      "gloss": "rufu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:54.591130050Z",
+  "model": "glm-5.3"
+}

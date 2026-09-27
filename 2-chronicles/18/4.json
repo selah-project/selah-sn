@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye Yehoshafhati akati kumambo weIsraeri: Nyengerera, ndapota, nhasi ⟨את⟩ shoko raYahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafhati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nyengerera"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko raYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:35:35.749748491Z",
+  "model": "glm-5.3"
+}

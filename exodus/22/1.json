@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana mbavha yawanikwa ichidimbura ⟨⟨dziro⟩⟩, yakanohwa ikafa, hapana dema ⟨kwauri⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "ichidimbura-dziro"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yawanikwa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "mbavha"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "yakanohwa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ikafa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dema"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:09.613681499Z",
+  "model": "glm-5.3"
+}

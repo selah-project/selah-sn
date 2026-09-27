@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Rabhan akati: Zvakanaka ndikupa ⟨את⟩ iye kwauri kupinda kuti ndipa ⟨את⟩ iye murume mumwe; gara neni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabhan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Zvakanaka"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ndikupa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ihe (Rakhe)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ihe (Rakhe)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "gara"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "neni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:50.954349839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mudiwa wangu akapindura, akati kandiri: Simuka, shamwari yangu yaakanaka, uyewo famba iwe.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mudiwa wangu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "simuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "shamwari yangu"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "daakanaka"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "uyewo famba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:20.071386502Z",
+  "model": "glm-5.3"
+}

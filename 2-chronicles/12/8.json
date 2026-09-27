@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "nokuti vachava varanda vake, vachiziva basa rangu nobasa remambo enyika dzenyika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vake"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "vachiziva"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "basa rangu"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "nobasa re"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mambo enyika"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nyika dzenyika"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:38.267915877Z",
+  "model": "glm-5.3"
+}

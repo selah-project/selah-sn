@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vanenzara, zvokuti vanodziya, mweya wavo muviri wavo unorwadza.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "vanenzara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvokuti"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "vanodziya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mweya wavo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muviri wavo"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "unorwadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:00.188087400Z",
+  "model": "glm-5.3"
+}

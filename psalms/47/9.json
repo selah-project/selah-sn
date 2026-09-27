@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Erohimu anotonga madzinza; Erohimu akagara pachigaro chetsvene chake.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro choushe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "chetsvene chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:22.425938445Z",
+  "model": "glm-5.3"
+}

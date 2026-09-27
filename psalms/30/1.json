@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nzvimbo yekunakidza ⟨⟨muzimbo⟩⟩, rwuyo rwechisungo cheimbo, rwaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nzvimbo yekunakidza"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rwuyo"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "chisungo che"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imbo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "rwaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:56.328686959Z",
+  "model": "glm-5.3"
+}

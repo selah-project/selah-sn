@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akarwisa ⟨את⟩ Moabhu, uye Moabhu vakava varanda vaDhavhidhi, vanobetsera minha.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabhu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vakava"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "vaDhavhidhi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "vanobetsera"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:49.973001496Z",
+  "model": "glm-5.3"
+}

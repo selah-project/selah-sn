@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Vavhimi vehove vacharwadza, vose vanokanda hoka muhova vachatambudzika, uye vanoparadza mambure pamusoro pechiso chemvura vanoperera simba.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "vacharwadza"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "vavhimi vehove"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "vachatambudzika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "vanokanda"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "muhova"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "hoka"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "vanoparadza"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "mambure"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "מים",
+      "gloss": "chemvura"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "vanoperera simba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:34.242121330Z",
+  "model": "glm-5.3"
+}

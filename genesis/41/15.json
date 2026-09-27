@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Paroho akati kuna Yosefa: Roto ndinarota, asi hapana anorivhurira; ini ndakanzwa nezvako vachiti: iwe unonzwisisa roto kurivhurira ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "roto"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ndinarota"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "anorivhurira"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "roto"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndakanzwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nezvako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "unonzwisisa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "roto"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "kurivhurira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "roto"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:43.754172194Z",
+  "model": "glm-5.3"
+}

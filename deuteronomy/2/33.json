@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Yahwe Erohimu wedu akamuendesza pamberi pedu, tikaura ⟨את⟩ iye ne⟨את⟩ vana vake ne⟨את⟩ vanhu vake vose.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "akamuendesza-pamberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "pamberi pedu"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "tikaura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vake vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:40.667211185Z",
+  "model": "glm-5.3"
+}

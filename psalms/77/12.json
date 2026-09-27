@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Ndinocherechedza mabasa aYah; nokuti ndinorangarira zvinoshamisa zenguva yakare zvakaitwa nemi.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ndinocherechedza"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ndinorangarira"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "zenguva yakare"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "zvinoshamisa zvenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:14.785337547Z",
+  "model": "glm-5.3"
+}

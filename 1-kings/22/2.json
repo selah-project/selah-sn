@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Zvino mugore rechitatu, Yehoshafati mambo weYudha akazorora kune mambo weIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mugore"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "rechitatu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akazorora"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:07.603164108Z",
+  "model": "glm-5.3"
+}

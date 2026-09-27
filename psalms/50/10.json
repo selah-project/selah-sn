@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Nokuti ndangu zvose zvikara zvesango, nezvipfuyo zviri pamakomo churu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvikara"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zesango"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "nezvipfuyo"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "pamakomo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:30.357299532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye vanhu vachatsvedzerwa, munhu nomunhu, munhu nomwendakkwavo; muchinda achazvitutumadza pamberi mukuru, uye mukosheshwa pamberi mukudzwa.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "vachatsvedzerwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "nomwendakkwavo"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "achazvitutumadza"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "muchinda"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "pamberi mukuru"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "uye mukosheshwa"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "pamberi mukudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:59.620527915Z",
+  "model": "glm-5.3"
+}

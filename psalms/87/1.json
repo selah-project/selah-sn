@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 87,
+  "translation": "Kuvana vaKorachi — nzvimbo yerwiyo. Hwaro ⟨⟨hwayo⟩⟩ huripo mumakomo matsvene.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Kuvana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzvimbo yerwiyo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rerwiyo"
+    },
+    {
+      "surface": "יסוסתו",
+      "gloss": "hwaro ⟨⟨hwayo⟩⟩"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "mumakomo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "matsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:06.683245039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Akati: Wanyomba chinhu chakaoma; zvimwe, kana ukaona ⟨את⟩ ndichitorwa ⟨את⟩ kubva kwauri, zvichaitika kuko saizvozvo; asi kana pasina, hazvichaitike.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "chakaoma"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kunyomba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ukaona"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndichitorwa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ndichitorwa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kubva kwauri"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "zvichaitika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "asi kana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zvichaitiki"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:05.173159602Z",
+  "model": "glm-5.3"
+}

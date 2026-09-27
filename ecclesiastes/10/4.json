@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Kana mhepo yomutongi yakakwira kurugere iwe, usarega nzvimbo yako; nokuti kugadzikana kunorunga mhosva dzihombe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "yomutongi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "yakakwira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kurugere iwe"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "nzvimbo yako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "-rega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "kugadzikana"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "kunorunga"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "dzihombe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:56.326902420Z",
+  "model": "glm-5.3"
+}

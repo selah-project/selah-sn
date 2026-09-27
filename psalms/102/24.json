@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Akadedza simba rangu panzira; akapfupisa mazuva angu.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "akadedza"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "akapfupisa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva angu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:52.157924368Z",
+  "model": "glm-5.3"
+}

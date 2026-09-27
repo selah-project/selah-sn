@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Nokuti zvatakupandukira zvawanda pamberi pako, uye zvitadzo zvedu dzinopupurira isu: nokuti zvatakupandukira zviri ⟨את⟩ nesu, uye mhosva dzedu tinoziziva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zvawanda"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "zvatakupandukira"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "uye zvitadzo zvedu"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "dzinopupurira"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "isu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "zvatakupandukira"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nesu",
+      "marks": "nesu"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "uye mhosva dzedu"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "tinoziziva"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:48.028512284Z",
+  "model": "glm-5.3"
+}

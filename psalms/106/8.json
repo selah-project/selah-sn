@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Asi anovaponesa nokuda kwezita rake, kuti azivise ⟨את⟩ simba rake.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "asi anovaponesa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "kuti azivise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simba rake"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "simba rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:35.907459753Z",
+  "model": "glm-5.3"
+}

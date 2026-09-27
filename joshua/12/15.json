@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "mambo weLibhana, mumwe chete; mambo weAdhuramu, mumwe chete;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "weLibhana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "weAdhuramu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:26.647043439Z",
+  "model": "glm-5.3"
+}

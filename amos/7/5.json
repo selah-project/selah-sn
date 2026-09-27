@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Ndikati: Adonai Yahwe, rega ndapota, ndiani achamisa Yakobo, nokuti ndi mudiki?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "achamisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mudiki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:18.535560594Z",
+  "model": "glm-5.3"
+}

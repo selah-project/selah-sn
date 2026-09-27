@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye achatemeka ⟨את⟩ chi zvikamu zvacho; uye ⟨את⟩ musoro wayo, uye ⟨את⟩ mafuta aro; uye muprista achagadzirira ⟨את⟩ izvi pamapfumi ari pamoto ari paaltari.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "Uye achatemeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chi"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "zvikamu zvacho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wayo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta aro"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "mafuta aro"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "Uye achagadzirira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "muprista"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "mapfumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:40.358401506Z",
+  "model": "glm-5.3"
+}

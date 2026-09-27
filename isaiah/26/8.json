@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Eh, mune nzira yemitongo yako, Yahwe, takatarisira nemiwe; kuzita kwenyu nokukorangwa kwenyu ndiko kudiwa nomweya wedu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Eh"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "mune nzira"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "yemitongo yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "takatarisira nemiwe"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kuzita kwenyu"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "nokukorangwa kwenyu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kudiwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nomweya wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:08.032889751Z",
+  "model": "glm-5.3"
+}

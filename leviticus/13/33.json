@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "achazvigora, asi ⟨את⟩ neteki haagori; uye mushe achavhara ⟨את⟩ neteki mazuva nomwe, chiitaro chipiri.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "achazvigora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neteki"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "gori"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "achavhara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neteki"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteki"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "chiitaro chipiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:28.123091751Z",
+  "model": "glm-5.3"
+}

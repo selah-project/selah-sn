@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye vanhu vasina kufa vakarohwa nezvitunha; kuchema kweguta kwakakwira kusvika matenga.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "uye vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vasina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "vakafa"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "vakarohwa"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "nezvitunha"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "kwakakwira"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "kuchema kwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:22.953232562Z",
+  "model": "glm-5.3"
+}

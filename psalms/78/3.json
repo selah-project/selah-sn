@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Izvo tanzwa uye tinoziva, uye madzibaba edu akatiudza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izvo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tanzwa"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "uye tinoziva"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "uye madzibaba edu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "akatiudza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨isu⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:24.335230154Z",
+  "model": "glm-5.3"
+}

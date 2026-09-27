@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nemusi wechipiri, Netaneri mukorwa waZuwari, mutungamiriri weIsakari, akaburitsa ⟨את⟩ chibairo chake.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nemusi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wechipiri"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "akaburitsa"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netaneri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Zuwari"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mutungamiriri"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isakari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:53.438622600Z",
+  "model": "glm-5.3"
+}

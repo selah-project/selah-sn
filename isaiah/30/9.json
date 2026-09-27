@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nokuti ndivo vanhu vokumanikana, vana vonyepa, vana vasingadi kunzwa tora yaYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "vokumanikana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "vonyepa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "visiri"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:08.006611657Z",
+  "model": "glm-5.3"
+}

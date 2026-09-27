@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Nokupi ndinoenda kubva kuna Mweya wako? Uye nokupi ndinotiza kubva pachiso chako?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "nokupi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndinoenda"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "kubva kuna Mweya wako"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "nokupi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kubva pachiso chako"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ndinotiza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:49.971454058Z",
+  "model": "glm-5.3"
+}

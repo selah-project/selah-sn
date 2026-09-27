@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Akatumira ⟨את⟩ hanzvadzi dzake, vakafamba; akati kavari: Musatsvanyirana pagwara rezendo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanzvadzi dzake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kavari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musaita"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "kutsvanyirana"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pagwara rezendo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:32.329977629Z",
+  "model": "glm-5.3"
+}

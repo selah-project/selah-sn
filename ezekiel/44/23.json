@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Uye ⟨את⟩ vanhu vangu vachadzidzisa pakati peutsvene nezvisiri utsvene, uye pakati pezasina kuchena nezvakachena vachazivisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "vachadzidzisa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "utsvene"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "nezvisiri utsvene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "uye pakati pe-"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "zasina kuchena"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "nezvakachena"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "vachazivisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:33:38.641854198Z",
+  "model": "glm-5.3"
+}

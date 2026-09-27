@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Moyo wedu hauna kudzokera shure, uye matsatso edu haana kutenderera kubva munzira yako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "kudzokera"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "moyo wedu"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "haana kutenderera"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "matsatso edu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "munzira yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:16.473140640Z",
+  "model": "glm-5.3"
+}

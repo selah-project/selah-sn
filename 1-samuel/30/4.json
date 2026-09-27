@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Dhavhidhi neboka raiva ⟨את⟩ naye vakasimudza ⟨את⟩ izwi ravo vachichema, kusvika panguva isina simba muri pachavo rokuchema.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "vakasimudza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "neboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi ravo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi ravo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "vachichema"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "אין",
+      "gloss": "isina"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muri pachavo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "simba"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "rokuchema"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:50.764130285Z",
+  "model": "glm-5.3"
+}

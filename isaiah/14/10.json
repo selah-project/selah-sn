@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Vose vachapindura vachati kwauri: “Futi iwe wanyorova setiri; kwatiri wafanana!”",
+  "tokens": [
+    {
+      "surface": "כֻּלָּ֣ם",
+      "gloss": "vose"
+    },
+    {
+      "surface": "יַֽעֲנ֔וּ",
+      "gloss": "vachapindura"
+    },
+    {
+      "surface": "וְיֹאמְר֖וּ",
+      "gloss": "vachati"
+    },
+    {
+      "surface": "אֵלֶ֑יךָ",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "גַּם֙",
+      "gloss": "futi"
+    },
+    {
+      "surface": "אַתָּ֛ה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "חֻלֵּ֥יתָ",
+      "gloss": "wanyorova"
+    },
+    {
+      "surface": "כָמֹ֖נוּ",
+      "gloss": "setiri"
+    },
+    {
+      "surface": "אֵלֵ֥ינוּ",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "נִמְשָֽׁלְתָּ",
+      "gloss": "wafanana"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:30.113604348Z",
+  "model": "glm-5.3"
+}

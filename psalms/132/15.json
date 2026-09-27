@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Chidyo chayo ndicharopafadza zvakanyanya; varombo vayo ndichagutsa nembiro.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Chidyo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ndicharopafadza"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "varombo vayo"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ndichagutsa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nembiro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:10.253878255Z",
+  "model": "glm-5.3"
+}

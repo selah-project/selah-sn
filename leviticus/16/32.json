@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye muberi anozodzwa ⟨את⟩ iye, uye uyo anopihwa ⟨את⟩ ruoko rwake kuti ave mubere pachinzvimbo pa baba vake, ndivo achaperera; achapfeka ⟨את⟩ hembe dzefirimu, hembe dsetsveno.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "achaperera"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "muberi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "anozodzwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye uyo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "anopihwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kuti ave mubere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimbo pa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "achapfeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "dzefirimu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dsetsveno"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:11.233549217Z",
+  "model": "glm-5.3"
+}

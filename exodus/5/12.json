@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Vanhu vakapararira kunyika yose yeMisiri kuunganidza masasa seuswa.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "vakapararira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMisiri"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "kuunganidza"
+    },
+    {
+      "surface": "קש",
+      "gloss": "masasa"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "seuswa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:15.890045140Z",
+  "model": "glm-5.3"
+}

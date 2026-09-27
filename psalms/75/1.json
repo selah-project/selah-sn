@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Kune mutungamiri vepanondo. Usaparadze. Nziyo dzaAsafu, chimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri vepanondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "paradze"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "dzaAsafu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chimbo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:00.845323582Z",
+  "model": "glm-5.3"
+}

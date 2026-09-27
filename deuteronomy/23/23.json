@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Asi kana ukaramba kunangisa, hapana chitadzo chichava mukati mako.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "asi kana"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ukaramba"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "kunangisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichava"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mukati mako"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "chitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:29.721736686Z",
+  "model": "glm-5.3"
+}

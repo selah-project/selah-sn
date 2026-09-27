@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndipo vakamhanyisa ⟨את⟩ chavara chaYahwe, ne⟨את⟩ dhenda rekusangana, ne⟨את⟩ zvinhu zvose zventsvene zviri mudhenda; ndipo vakazvimhanyisa vapristi nevaRevi.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "vakamhanyisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chavara chaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chavara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "dhenda rekusangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dhenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rekusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvose zventsvene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zventsvene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mudhenda"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vakazvimhanyisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "vapristi nevaRevi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "vapristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "nevaRevi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:16.189069254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Mukanwa wangu uchataura kururama kwako, nguva dzose chipunzo chako; nokuti handina kuziva nhamba dzazvo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Mukanwa wangu"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "uchataura"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kururama kwako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "chipunzo chako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "nhamba dzazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:12.298075999Z",
+  "model": "glm-5.3"
+}

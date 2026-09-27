@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye kubva pamwana wemakumi mashanu emakore, adzoka kubva muchikwata chebasa, uye haagari achishanda zvakare.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "kubva pamwana wa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "adzoka"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "kubva muchikwata"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "chebasa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haagari"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "achishanda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    }
+  ],
+  "timestamp": "2026-09-27T05:56:22.318964821Z",
+  "model": "glm-5.3"
+}

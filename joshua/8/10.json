@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yehoshua akamuka mangwanani, akaongorora ⟨את⟩ vanhu, ndokukwira iye nevatsvene vakuru veIsraeru pamberi pevanhu, kusvika kuAyi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akamuka mangwanani"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "akaongorora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ndokukwira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "nevatsvene vakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeru"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:07.655885958Z",
+  "model": "glm-5.3"
+}

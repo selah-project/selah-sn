@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Akati kwatiri murume, tenzi wenyika: “Nekuzviita izvi ndinodzidza kuti makatendeka; siyai mumwe wehama dzenyu ⟨את⟩ kwandiri, torai ⟨את⟩ chenzara chemisha yenyu, uye endai.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tenzi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wenyika"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "nekuzviita izvi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndinodzidza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "makatendeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wehama dzenyu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "siyai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kwandiri",
+      "marks": "kwandiri (neni)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chenzara"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "chenzara"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "chemisha yenyu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "torai"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "endai"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:06.606525537Z",
+  "model": "glm-5.3"
+}

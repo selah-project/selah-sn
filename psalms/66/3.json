@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Ti kuna Erohimu: mangani kunokutyisa nedhemu mabasa ako! Nehuwandu hwe⟨simba rako⟩ vavengi vako vanonyepa ⟨kuri iwe⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mangani"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kunokutyisa nedhemu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nehuwandu hwe"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "simba rako"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "vanonyepa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuri iwe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vavengi vako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.662508357Z",
+  "model": "glm-5.3"
+}

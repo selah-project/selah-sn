@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Iye akaenda kubva ipapo kuenda kugomo reKaremeli, uye kubva ipapo akadzokera kuShomeroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kubva ipapo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "reKaremeli"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "uye kubva ipapo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "kuShomeroni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:16:22.474286795Z",
+  "model": "glm-5.3"
+}

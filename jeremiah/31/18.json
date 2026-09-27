@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 31:18",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Kunzwa ndakanzwa ⟨את⟩ Aferimi ozvidedza kuti: 'Wakandiranga, ndakarangwa, semwana wemombe asina kudzidziswa; dzandidzoseri, uye ndichadzoka, nokuti iwe Yahwe ndiwe Erohimu wangu.'",
+  "tokens": [
+    {
+      "surface": "שמוע",
+      "gloss": "kunzwa",
+      "marks": "ndakanzwa ⟨את⟩ Aferimi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndakanzwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Aferimi"
+    },
+    {
+      "surface": "מתנודד",
+      "gloss": "ozvidedza"
+    },
+    {
+      "surface": "יסרתני",
+      "gloss": "wakandiranga"
+    },
+    {
+      "surface": "ואוסר",
+      "gloss": "ndakarangwa"
+    },
+    {
+      "surface": "כעגל",
+      "gloss": "semwana wemombe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "למד",
+      "gloss": "kudzidziswa"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "dzandidzoseri"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "uye ndichadzoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:20.658328856Z",
+  "model": "glm-5.3"
+}

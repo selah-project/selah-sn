@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ibtsani akafa, akavigwa muBhetirehema.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsani"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akavigwa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "muBheti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rehema"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:36.569004211Z",
+  "model": "glm-5.3"
+}

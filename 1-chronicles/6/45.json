@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye kubva mubato reBinjami: ⟨את⟩ Gebha nematunzhi aro, uye ⟨את⟩ Aremethi nematunzhi aro, uye ⟨את⟩ Anathothi nematunzhi aro — maguta avo ose, maguta gumi natanatu, mumhuri dzavo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "uye kubva mubato"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "reBinjami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gebha"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunzhi aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nematunzhi aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Aremethi"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Aremethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunzhi aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nematunzhi aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Anathothi"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunzhi aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nematunzhi aro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "maguta avo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "natanatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "mumhuri dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:48.511987003Z",
+  "model": "glm-5.3"
+}

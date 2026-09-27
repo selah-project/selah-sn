@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akamisa ⟨את⟩ chiso chake, akachiisa kusvika iye anyadza; uye munhu waErohimu akatanga kuchema.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akachiisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בש",
+      "gloss": "anyadza"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "akatanga kuchema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:23.539393615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino nhasi, enda; uye ini ndichava newo mumuromo wako, uye ndichakudzidzisa izvaucha patter.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino nhasi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "enda"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "uye ini"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndichava newo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mumuromo wako"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "ndichakudzidzisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ucha patter"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:02.661691717Z",
+  "model": "glm-5.3"
+}

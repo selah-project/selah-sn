@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ne⟨את⟩ zvitswiso zvemafuta, ne⟨את⟩ makombe — izvo zvaive ndarama, ndarama, uye izvo zvaiva silvera, silvera — musoro wevasoja vakapfuma akatora.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvitswiso zvemafuta"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "zvitswiso zvemafuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "makombe"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "makombe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zvaive ndarama"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye izvo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zvaiva silvera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silvera"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "רב",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wevasoja"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:06.595810579Z",
+  "model": "glm-5.3"
+}

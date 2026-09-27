@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Iwe, Yahwe, unovachengeta; unomuchengeta kubva murudzi uyu, nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "unovachengeta"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "unomuchengeta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "murudzi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:03.130730944Z",
+  "model": "glm-5.3"
+}

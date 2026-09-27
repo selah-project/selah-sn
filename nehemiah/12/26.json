@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 12:26",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ava ndivo vakaita muzvinhambo zvaYoyakimu mukorwa waYeshua, mukorwa waYotsadhaki, uye muzvinhambo zvaNehemia gurukota, neEzra mhomwe, mnyori.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ava"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "muzvinhambo"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "zvaYoyakimu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "waYeshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "יוצדק",
+      "gloss": "waYotsadhaki"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "uye muzvinhambo"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "zvaNehemia"
+    },
+    {
+      "surface": "הפחה",
+      "gloss": "gurukota"
+    },
+    {
+      "surface": "ועזרא",
+      "gloss": "neEzra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mhomwe"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "mnyori"
+    }
+  ],
+  "timestamp": "2026-09-27T10:15:58.809867739Z",
+  "model": "glm-5.3"
+}

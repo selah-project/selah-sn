@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yahwe akafadza, nokuda kwetsitsi dza⟨uye⟩, kuwedzera tora nokukudza ⟨iyo⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "akafadza"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsitsi dzake"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "kuwedzera"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "nokukudza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:13.361878176Z",
+  "model": "glm-5.3"
+}

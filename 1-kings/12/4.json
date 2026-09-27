@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Baba vako vakomeresa ⟨את⟩ mutoro wedu; iwe zvino, rerutsa shanda yaBaba vako yesimba, nemutoro wakaorema woakaisa paivo, zvitizvokuti tichashumira iwe.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Baba vako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "vakomeresa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutoro wedu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "mutoro wedu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "rerutsa"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "shanda yaBaba vako yesimba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Baba vako"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "yesimba"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "nemutoro wakaorema"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "wakaorema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woakaisa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "paivo"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "zvitizvokuti tichashumira iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:24.885496882Z",
+  "model": "glm-5.3"
+}

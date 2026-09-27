@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "⟨את⟩ ⟨kotsi⟩, ne⟨את⟩ ⟨yanshofu⟩, uye ⟨tinshameti⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨kotsi⟩"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "⟨kotsi⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "⟨yanshofu⟩"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "⟨yanshofu⟩"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "uye ⟨tinshameti⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:32.388305293Z",
+  "model": "glm-5.3"
+}

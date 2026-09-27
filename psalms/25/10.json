@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nzira dzose dzaYahwe ⟨ndi⟩ hesedhi nechokwadi, kuvachengeti vesungano yake nemashoko manyorerwo ake.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nechokwadi"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "kuvachengeti"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sungano yake"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "nemashoko manyorerwo ake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:35.131997403Z",
+  "model": "glm-5.3"
+}

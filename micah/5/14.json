@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndichaita nokutsamwa nokushata ⟨urapo⟩ ⟨את⟩ vanhu vasina kuteerera.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "באף",
+      "gloss": "nokutsamwa"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "nokushata"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "urapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "vanhu (mamadzinza)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vasina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuteerera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:24.755084992Z",
+  "model": "glm-5.3"
+}

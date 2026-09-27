@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Nokuti munhu nerumwe munhu anomutuka ⟨את⟩ baba vake wo ⟨את⟩ amai vake, kufa anofa; baba vake naamai vake akatuka; ropa rake riri paari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nerumwe munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anomutuka"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "anomutuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wo ⟨את⟩",
+      "marks": "amai vake"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amai vake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "naamai vake"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "akatuka"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ropa rake"
+    },
+    {
+      "surface": "בו",
+      "gloss": "riri paari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:48.964948449Z",
+  "model": "glm-5.3"
+}

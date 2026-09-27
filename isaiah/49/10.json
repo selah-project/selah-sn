@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Haanganzwi nzara, uye haanganzwi nyota; uye kupisa kwezuva hakuzovavayi; nekuti uyo ane tsitsi navo ndiovatungamirira, uye panzvimbo dzemvura dzinobvira ndokuvanyungamutsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haanga"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "nzwi nzara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haanga"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "nzwi nyota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "hazovavayi"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "kupisa kwezuva (chiratidzo chedzihwa)"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "nezuva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "uyo ane tsitsi navo"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "ndiovatungamirira"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye panzvimbo dze"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "dzinobvira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "emvura"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "ndokuvanyungamutsa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:38.331792270Z",
+  "model": "glm-5.3"
+}

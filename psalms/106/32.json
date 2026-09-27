@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Vakamutsa hasha dzake pamvura yeMeribha, uye zvakaipa kunaMoshe nokuda kwavo.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "vakamutsa hasha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "yeMeribha"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kunaMoshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "nokuda kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:56.654138268Z",
+  "model": "glm-5.3"
+}

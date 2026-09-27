@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "avanobudza ⟨את⟩venyu kunze kwenyika yeMitsraim, kuti ndive Erohimu venyu; ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "avanobudza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩venyu",
+      "marks": "venyu (chiratidzo chechiitwa chine chivakashure cheuwandu hwechipiri)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunze kwenyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti ndive"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "venyu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:09.189808547Z",
+  "model": "glm-5.3"
+}

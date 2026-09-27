@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nomukurumbira make akamuka Yairi mukomana weGirihadi, akatonga ⟨את⟩ Isiraeri makumi maviri nemaviri emakore.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nomukurumbira make"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yairi"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "mukomana weGirihadi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "nemaviri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:15.321701408Z",
+  "model": "glm-5.3"
+}

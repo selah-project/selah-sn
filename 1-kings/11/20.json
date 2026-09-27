@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Sisi yaTakhapenesi akazvara iye ⟨את⟩ Genhubhati mwanakomana wake; Takhapenesi akamuyamurisira mumba mwaFarao; Genhubhati akagara mumba mwaFarao, pakati pevana vaFarao.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "Sisi ya"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Takhapenesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genhubhati mwanakomana wake"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genhubhati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "akamuyamurisira"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Takhapenesi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba mwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genhubhati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba mwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:24.354827780Z",
+  "model": "glm-5.3"
+}

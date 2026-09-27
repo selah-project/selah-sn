@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye mupristi akapa vakuru vemakumi ⟨את⟩ pfumo ne⟨את⟩ nhoo dzaDhavhidha humambo, dzairi mumba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "vemakumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pfumo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "pfumo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nhoo"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "nhoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dza"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "humambo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dzairi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:14.692834137Z",
+  "model": "glm-5.3"
+}

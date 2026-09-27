@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Kushi akabereka ⟨את⟩ Nimirodhi; iyeye ndiye akatanga kuva munyerezezou munyika.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimirodhi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimirodhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeye"
+    },
+    {
+      "surface": "החל",
+      "gloss": "akatanga"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "munyerezezou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:04.091899210Z",
+  "model": "glm-5.3"
+}

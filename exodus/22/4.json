@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana munhu apfuya munda kana muzambiringa, atumira ⟨את⟩ zvipfuyo zvake, zikadya mundawomumwe; vezvakanakisa munda wake nevezvakanakisa muzambiringa wake ndizvo anoripisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "apfuya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "muzambiringa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "atumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfuyo zvake"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "zvipfuyo zvake"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "zikadya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "womumwe"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "vezvakanakisa"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "munda wake"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "nevezvakanakisa"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "muzambiringa wake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "anoripisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:09.614318783Z",
+  "model": "glm-5.3"
+}

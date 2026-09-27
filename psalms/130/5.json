@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 130,
+  "translation": "Ndinomirira Yahwe, mweya wangu wakamirira, uye ndakamirira mushoko wake.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Ndinomirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "wakamirira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "uye mushoko wake"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ndakamirira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:29.585558228Z",
+  "model": "glm-5.3"
+}

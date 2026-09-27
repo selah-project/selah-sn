@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Muna pfumbamwe yemwedzi, nzara yakasimba muguta, uye hapana chikafu chevanhu venyika.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Muna pfumbamwe"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "yemwedzi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yakasimba"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "(hapana)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "chevanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:56.540149209Z",
+  "model": "glm-5.3"
+}

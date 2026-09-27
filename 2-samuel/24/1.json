@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye hasha dzaYahwe dzakawedzera kutsva paIsuraeri, uye akamutsa ⟨את⟩ Dhavhidhi paivo, achiti: Enda uverenge ⟨את⟩ Isuraeri ne⟨את⟩ Yudha.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "dzakawedzera"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "kutsva"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "paIsuraeri"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "akamutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paivo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "uverenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isuraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:54.937315761Z",
+  "model": "glm-5.3"
+}

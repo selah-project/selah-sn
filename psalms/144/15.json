@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Waitwa ⟨are⟩ vanhu zvakadaro; waitwa ⟨are⟩ vanhu vaMwari wavo ari Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "waitwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "waitwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:49.612890331Z",
+  "model": "glm-5.3"
+}

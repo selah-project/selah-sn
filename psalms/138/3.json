@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "Muzuva randakaidanidza, wakandipindura; wakandipa simba mumweya wangu, simba.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "randakaidanidza"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "wakandipindura"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "wakandipa simba"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "mumweya wangu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:08.722675292Z",
+  "model": "glm-5.3"
+}

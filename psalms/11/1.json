@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Kuna muchengeti wenziyo. Ndendebge yaDhavhidhi. Muna Yahwe ndinotemba; muchati sezvakaita sevako kuupenyu hwangu: “Dzokai panja senhau yechipembenene!”",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuna muchengeti wenziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ndendebge yaDhavhidhi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Muna Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndinotemba"
+    },
+    {
+      "surface": "איך",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "muchati"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kuupenyu hwangu"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Dzokai panja"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "panja"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "senhau yechipembenene"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:17.104240044Z",
+  "model": "glm-5.3"
+}

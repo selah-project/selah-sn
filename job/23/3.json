@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Aa, dai ndaiziva ndimuwane, ndisvike kusvika pachigaro chake!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dai akapa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndaiziva"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ndimuwane"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndisvike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "pachigaro chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:39:42.865226630Z",
+  "model": "glm-5.3"
+}

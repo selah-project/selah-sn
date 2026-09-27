@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akawedzera kuzvara ⟨את⟩ mukoma wake ⟨את⟩ Hebheru; Hebheru akava mufudzi wemhuka, Kaini akava murimi weadhama.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "kuzvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebheru"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebheru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebheru"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mufudzi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wemhuka"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Kaini"
+    },
+    {
+      "surface": "היה",
+      "gloss": "akava"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "murimi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "weadhama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:53.131905306Z",
+  "model": "glm-5.3"
+}

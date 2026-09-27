@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mutoro weBhabhironi, uyo Isaya mukorwa waAmots akaona.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Mutoro"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabhironi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Isaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "waAmots"
+    }
+  ],
+  "timestamp": "2026-09-27T11:04:30.257209120Z",
+  "model": "glm-5.3"
+}

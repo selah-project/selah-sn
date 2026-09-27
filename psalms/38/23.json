@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Kurumidza ku\ndzikinura kwangu, Adonai, ruponeso rwangu.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "kurumidza"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kudzikinura kwangu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ruponeso rwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:10.787228850Z",
+  "model": "glm-5.3"
+}

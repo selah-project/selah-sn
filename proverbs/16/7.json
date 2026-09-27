@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Paanofadza Yahwe nzira dzomunhu, woita kuti woita ⟨את⟩ vavengi vake vagare nomurunyararo ⟨naye⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Paanofadza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "dzomunhu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "woita kuti"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "vavengi vake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "vagare nomurunyararo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "vavengi vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:26:32.973627472Z",
+  "model": "glm-5.3"
+}

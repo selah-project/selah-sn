@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Zvitizvo zvako zvirokwazvo ndizo mufaro wangu, ⟨ndizo⟩ vanhu vezangariro yangu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "zvitizvo zvako"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mufaro wangu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "vezangariro yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:24.790684358Z",
+  "model": "glm-5.3"
+}

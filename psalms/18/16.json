@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Zvino nzvimbo dzemvura dzakaonekwa, uye matsigiro epasi avhurwa — nokutsamwira kwako, Yahwe, nokutapira kwekufema kwenhino dzako.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dzakaonekwa"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dzemvura"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "avhurwa"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "matsigiro"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "nokutsamwira kwako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "nokutapira"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwekufema"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kwenhino dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:04.650818207Z",
+  "model": "glm-5.3"
+}

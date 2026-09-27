@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Ndini Yahwe Erohimu wako, wakakudzikinura kubva munyika yeMuitare; vhura zvimbaradzi zvamukanwa mako, ndichazadza.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "wakakudzikinura"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Muitare"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "vhura zvimbaradzi zva"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mukanwa mako"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ndichazadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:58.728808656Z",
+  "model": "glm-5.3"
+}

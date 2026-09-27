@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 13:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Abhuya akamuka pamusoro peNharire yaTsemamarimu iri munharire yaEfurayimu, akati: Ndinzwai ini, iwe Yarabhuamu naishe Yisraeri.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abhuya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "להר",
+      "gloss": "Nharire ya"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Tsemamarimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "munharire ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efurayimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Ndinzwai ini"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabhuamu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "naishe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:35:09.284752995Z",
+  "model": "glm-5.3"
+}

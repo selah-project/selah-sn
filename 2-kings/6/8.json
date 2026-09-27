@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye mambo weAramu aive achirwa neIsraeri, akakurukurira navaranda vake achiti: Panzvimbo yakadai nedayaka ndichagara nhimbi dzangu.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Uye mambo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "weAramu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aive"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "achirwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "neIsraeri"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "akakurukurira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "yakadai"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "ndeyakadai"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "nhimbi dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:21.443674572Z",
+  "model": "glm-5.3"
+}

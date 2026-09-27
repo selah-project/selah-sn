@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Akataura, uye akaimirisa mhepo yechirimbudzi, iyoyo yakasimudza mabara ayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akaimirisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "yechirimbudzi"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "yakasimudza"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "mabara ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:18.934426851Z",
+  "model": "glm-5.3"
+}

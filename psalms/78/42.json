@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Harwa vakakanganwa ⟨את⟩ ruoko rwake — zuva raakadzikinura ⟨את⟩ avo kubva mumhandu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "harwa"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "vakakanganwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ra"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "raakadzikinura"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mhandu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:50.326539249Z",
+  "model": "glm-5.3"
+}

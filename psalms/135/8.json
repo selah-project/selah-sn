@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Akarova ⟨את⟩ vekutanga kuzvarwa veIjipita, kubva munhu kusvika mhuka.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "vekutanga kuzvarwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "veIjipita"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kubva munhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mhuka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:44.407099704Z",
+  "model": "glm-5.3"
+}

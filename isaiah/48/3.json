@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Zvekutanga kare ndakazivisa, uye kubva mumukanwa wangu dzakabuda, ndikazivazve; nokasanga ndakaita, uye dzikasvika.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Zvekutanga"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kare"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndakazivisa"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "uye kubva mumukanwa wangu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "dzakabuda"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "ndikazivazve"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "nokasanga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "uye dzikasvika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:23.013128437Z",
+  "model": "glm-5.3"
+}

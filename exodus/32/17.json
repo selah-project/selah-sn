@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yehoshua akanzwa ⟨את⟩ izwi reva ruva rokukiyakiya, ndokuti kuna Moshe: Izwi rehondo muna mona!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi revaruveru"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "revaruveru"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "rokukiyakiya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokutikuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "rehondo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "munamona"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:09.774073177Z",
+  "model": "glm-5.3"
+}

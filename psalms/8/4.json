@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Pandinoona matenga ako, mabasa ezvigunwe zvako, mwedzi nenyeredzi iwa wakagadza —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "po"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndinoona"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "matenga ako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ezvigunwe zvako"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "nnyeredzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwa"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "wakagadza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.032946365Z",
+  "model": "glm-5.3"
+}

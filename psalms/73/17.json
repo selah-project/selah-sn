@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Kusvikira ndakapinda mumitsvene yaEr, ndikanzwisisa magumo avo.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "Kusvikira"
+    },
+    {
+      "surface": "אָבוֹא",
+      "gloss": "ndakapinda"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מִקְדְּשֵׁי",
+      "gloss": "mitsvene"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "yaEr"
+    },
+    {
+      "surface": "אָבִינָה",
+      "gloss": "ndikanzwisisa"
+    },
+    {
+      "surface": "לְאַחֲרִיתָם",
+      "gloss": "magumo avo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:03.598749537Z",
+  "model": "glm-5.3"
+}

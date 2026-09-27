@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akarashira mhepo huru mugungwa, uye pakaita dutu guru mugungwa, chikecho chakafunga kuti chaputsika.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "akarashira"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "huru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "pakaita"
+    },
+    {
+      "surface": "סער",
+      "gloss": "dutu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mugungwa"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "chikecho"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "chakafunga kuti"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "chaputsika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:38.184259538Z",
+  "model": "glm-5.3"
+}

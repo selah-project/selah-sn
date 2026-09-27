@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe akataura naMozhe mugwenga reSinai, mugore rechipiri rokubva kwavou muEvhoro, mwedzi wekutanga, achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "reSinai"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mugore"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rechipiri"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "rokubva kwavou"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "muEvhoro"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Evhoro"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wekutanga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:37.095682046Z",
+  "model": "glm-5.3"
+}

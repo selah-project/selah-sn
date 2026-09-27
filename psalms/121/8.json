@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Yahwe achachengeta kuenda kwako nekuuya kwako, kubvira iye zvino kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "achachengeta"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "kuenda kwako"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "nekuuya kwako"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kubvira iye zvino"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:46.657995119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Moyo unoziva kuvava kwemweya wake; nomufaro wake mutorwa haaunganwe navo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Moyo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "kuvava kwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "nomufaro wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "aaunganwe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mutorwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:59.435978438Z",
+  "model": "glm-5.3"
+}

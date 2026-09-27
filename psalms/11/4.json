@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe ari munechembera rake echitsvene; Yahwe, chigaro chake chiri kudenga; maziso ake anoona, zvitoko zviso zvake anoedza, vana vaAdhamu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "munechembera"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ake echitsvene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kudenga"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chigaro chake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "anoona"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "zvitoko zviso zvake"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "anoedza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vaAdhamu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:17.104871880Z",
+  "model": "glm-5.3"
+}

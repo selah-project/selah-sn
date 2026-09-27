@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 10:22",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Vakabvunza zvakare Yahwe, kuti: Munhu uyu anouzve kunoku? Yahwe akati: Ona, iye anovanzira pakati pezvinhu.",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "vakabvunza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "anouzve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "kunoku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu uyu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "anovanzira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "pezvinhu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:05.528206414Z",
+  "model": "glm-5.3"
+}

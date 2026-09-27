@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Panyika yakataurwa naEfuremu, kutyisidzira kwaiitika; akazvikudza muIsraeri, asi paakaasadzikinura munaBhaari, akafa.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "panyika yakataurwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuremu"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "kutyisidzira"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "akazvikudza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsraeri"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "akaasadzikinura"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "munaBhaari"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:04.176072681Z",
+  "model": "glm-5.3"
+}

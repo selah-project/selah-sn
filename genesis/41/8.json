@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Zvino mamangwana ano, mweya wake wakatambudzika; akatuma akandana ⟨את⟩ vachembuzvi vose veMazambuko ne⟨את⟩ vanehungu vavo; Farao akavudza ⟨את⟩ chiroto chake, asi hapana aiva mubvunzanimwe kuna Farao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mamangwana ano"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "wakatambudzika"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akandana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vachembuzvi vose veMazambuko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "vachembuzvi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "veMazambuko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanehungu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "vanehungu"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "akavudza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiroto chake"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "chiroto chake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "asi hapana"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "mubvunzanimwe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuna Farao"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuna Farao"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:12.081097154Z",
+  "model": "glm-5.3"
+}

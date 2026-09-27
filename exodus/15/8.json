@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokufema kwenhengo dzako mvura yakayera; yakamira kunge murwi wemvura inoyerera; madzira akamanikira mudenhe regungwa.",
+  "tokens": [
+    {
+      "surface": "וּבְר֤וּחַ",
+      "gloss": "nokufema"
+    },
+    {
+      "surface": "אַפֶּ֨יךָ֙",
+      "gloss": "kwenhengo dzako"
+    },
+    {
+      "surface": "נֶ֣עֶרְמוּ",
+      "gloss": "yakayera"
+    },
+    {
+      "surface": "מַ֔יִם",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "נִצְּב֥וּ",
+      "gloss": "yakamira"
+    },
+    {
+      "surface": "כְמוֹ",
+      "gloss": "kunge"
+    },
+    {
+      "surface": "נֵ֖ד",
+      "gloss": "murwi"
+    },
+    {
+      "surface": "נֹזְלִ֑ים",
+      "gloss": "wemvura inoyerera"
+    },
+    {
+      "surface": "קָֽפְא֥וּ",
+      "gloss": "akamanikira"
+    },
+    {
+      "surface": "תְהֹמֹ֖ת",
+      "gloss": "madzira"
+    },
+    {
+      "surface": "בְּלֶב",
+      "gloss": "mudenhe"
+    },
+    {
+      "surface": "יָֽם",
+      "gloss": "regungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:42.699992903Z",
+  "model": "glm-5.3"
+}

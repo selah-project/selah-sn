@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Chigaro chokutyoka chingabatanidzwa newe here, chinogadzira chakaipa nemutemo?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "chingabatanidzwa newe here"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "Chigaro"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "chokutyoka"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "chinogadzira"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mutemo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:46.646026437Z",
+  "model": "glm-5.3"
+}

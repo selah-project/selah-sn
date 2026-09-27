@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye mudyo wake — mudyo wokusingaperi — wakapiwha ⟨את⟩ iye kubva kumambo, chikamu chezuva rimwe nezuva, mazuva ose eupenyu hwake.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "uye mudyo wake"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "mudyo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wokusingaperi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wakapiwha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kubva kumambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "chezuva"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "zuva rimwe nezuva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "eupenyu hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:22.826165438Z",
+  "model": "glm-5.3"
+}

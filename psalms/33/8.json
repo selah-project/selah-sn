@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Ngativatye Yahwe nyika yose; ngivatyisitse kwaari vagari vose vepasi pese.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Ngativatye"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ngivatyisitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "vepasi pese"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:51.249793176Z",
+  "model": "glm-5.3"
+}

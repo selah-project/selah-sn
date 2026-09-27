@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ndakaona varanda vakakwirira pamabhiza, uye madzinda achifamba sevaranda pasi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndakaona"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamabhiza (vakakwirira)"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mabhiza"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "uye madzinda"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "achifamba"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "sevaranda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi (pevhu)"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:21.950139392Z",
+  "model": "glm-5.3"
+}

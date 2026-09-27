@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 13:20",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Ndeapi ematengesi nemavatengi ezvinhu zvose gadzikana kunze kwaJerusarema kamwe nokaviri.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "gadzikana"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "ematengesi"
+    },
+    {
+      "surface": "ומכרי",
+      "gloss": "emavatengi e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kwaJerusarema"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "nokaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:57.963133735Z",
+  "model": "glm-5.3"
+}

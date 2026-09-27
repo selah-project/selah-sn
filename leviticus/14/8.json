@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye wechinatswa achasveta ⟨את⟩ hembe dzake, achagodza ⟨את⟩ vhudzi hwake hwose, achageza mumvura, achazvichena; uye mushure meizvi achapinda musasa, achagara kunze kwehumba yake mazuva nomwe.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "achasveta"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "wechinatswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hembe dzake"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "achagodza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vhudzi hwake hwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "vhudzi hwake"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "achageza"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "achazvichena"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mushure meizvi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "achapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "musasa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "kwehumba yake"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:46:30.484332904Z",
+  "model": "glm-5.3"
+}

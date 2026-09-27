@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 17:10",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye iye wo, mukomana wemasimba, amwe moyo wake serwo shumba, achanyungudika zvachose; nokuti Isuraeri yose inoziva kuti baba vako mukuru wemasimba, nevati vamwe vari ⟨את⟩ ⟨naye⟩.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wemasimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "serwo"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "המס",
+      "gloss": "achanyungudika"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "inoziva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mukuru wemasimba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nevati"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vamwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨naye⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T07:00:09.435056398Z",
+  "model": "glm-5.3"
+}

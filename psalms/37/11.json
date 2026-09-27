@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye vanodzikama vachagara ⟨את⟩ nyika, vachafara nokutaura kwazvo pamusoro pezhakanyanya pachete.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "uye vanodzikama"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "vachagara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "vachafara nokutaura kwazvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zhakanyanya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pachete"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:55.337493756Z",
+  "model": "glm-5.3"
+}

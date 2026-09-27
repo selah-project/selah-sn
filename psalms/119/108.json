@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Dzvanyirira nhasi Yahwe zvinopiwa zviri kupe zvomukanwa wangu, uye ndidzidzise mitemo yako.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "zvinopiwa zviri kupe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "zvomukanwa wangu"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "Dzvanyirira"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "mitemo yako"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ndidzidzise"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:38.592725299Z",
+  "model": "glm-5.3"
+}

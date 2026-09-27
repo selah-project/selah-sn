@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uswa hunomwa, ruva runofavara, asi shoko reErohimu redu richamira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "hunomwa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "runofavara"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ruva"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "asi shoko"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "reErohimu redu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "richamira"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:53.050757376Z",
+  "model": "glm-5.3"
+}

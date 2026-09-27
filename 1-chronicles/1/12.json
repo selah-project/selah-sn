@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ne⟨את⟩ Patrusi, ne⟨את⟩ Kaseluhi, musha mukuru avakabuda munowo Vafirisiti, ne⟨את⟩ Kafutori.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Patrusi"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Kaseluhi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaseluhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "musha"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "avakabuda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "munowo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafirisiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Kafutori"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kafutori"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:33.212107344Z",
+  "model": "glm-5.3"
+}

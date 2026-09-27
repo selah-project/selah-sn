@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye akaisa ⟨את⟩ gungwa panzvimbo yokurudyi, kumabvazuva, pakatarisa kuChamhemu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "yokurudyi"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kumabvazuva"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "pakatarisa"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kuChamhemu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:01.045795094Z",
+  "model": "glm-5.3"
+}

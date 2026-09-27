@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Mazuva emakore edu ndiwo makumi manomwe emakore; uye kana ⟨yakanangana⟩ nesimba, makumi masere emakore; uye kukudza kwavo kuri mubasa norwadzo; nokuti yakachekwa nekukasira, tinobhururuka ⟨tichibva⟩.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "emakore edu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "makumi masere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "uye kukudza kwavo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mubasa"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "norwadzo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גז",
+      "gloss": "yakachekwa"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "nekukasira"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "tinobhururuka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:39.451360042Z",
+  "model": "glm-5.3"
+}

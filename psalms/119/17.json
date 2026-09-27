@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ita zvakanaka kune chinjikwa chako ⟨kuti ndigare⟩, uye ndichachengeta shoko rako.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Ita zvakanaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kune"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "chinjikwa chako"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "⟨kuti⟩ ndigare"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "uye ndichachengeta"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "shoko rako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:11.338292723Z",
+  "model": "glm-5.3"
+}

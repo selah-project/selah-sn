@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Akabatanidza ⟨את⟩ majira mashanu, rimwe ku rimwe, uye majira mashanu akazvibatanidza rimwe ku rimwe.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "akabatanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majira mashanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "majira"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "uye mashanu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "majira"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "akabatanidza"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "rimwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:37.727299918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "unzwe kubva matenga ⟨את⟩ munamato wavo ne⟨את⟩ kukumbira kwavo, uye unoita nyaya yavo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "unzwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munamato wavo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "munamato wavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kukumbira kwavo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kukumbira kwavo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uye unoita"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "nyaya yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:41.929038122Z",
+  "model": "glm-5.3"
+}

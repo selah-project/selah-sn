@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akati: “Rangarira chiedza”; uye chiedza chakaitika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Rangarira"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chakaitika"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:17.891135453Z",
+  "model": "glm-5.3"
+}

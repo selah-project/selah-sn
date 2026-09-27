@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Joabhu akarwa nokurwara kweRabhha yevana vaAmoni, akatora ⟨את⟩ guta ramambo.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "akarwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabhu"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "nokurwara kweRabhha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta ramambo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ramambo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:04.303892053Z",
+  "model": "glm-5.3"
+}

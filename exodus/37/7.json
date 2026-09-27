@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Akaita kerubhi maviri endarama; basa rokutsindwa akaita ⟨את⟩ paviri, kubva nomagumo maviri ekaporete.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubhi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "endarama"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "basa rokutsindwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo",
+      "marks": "kerubhi maviri"
+    },
+    {
+      "surface": "משני",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "magumo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ekaporete"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:28.463421425Z",
+  "model": "glm-5.3"
+}

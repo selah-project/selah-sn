@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akavatungamirira nenhore yemiti masikati, nosero mangwanano chiedza chemoto.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "akavatungamirira"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "nenhore yemiti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nosero"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "mangwanano"
+    },
+    {
+      "surface": "באור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "אש",
+      "gloss": "chemoto"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:19.932071081Z",
+  "model": "glm-5.3"
+}

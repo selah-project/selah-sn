@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Zvichaita muzuva iro Yahwe achakupa zororo, kubva kunetso kwako, nekubva kutyokwadi kwako, nekubva kubasa rokomarara wakanga waitwa nacho.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvichaita"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "achakupa zororo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "kubva kunetso kwako"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "nekubva kutyokwadi kwako"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nekubva"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "rokomarara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wakanga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "waitwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nacho"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:36.212327168Z",
+  "model": "glm-5.3"
+}

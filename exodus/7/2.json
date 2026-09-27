@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Iwe unotaura ⟨את⟩ zvose ndinokurayira, uye Aroni mukoma wako achataura kuna Farao, kuti arege ⟨את⟩ vana vaIsiraeri kunze kwenyika yake.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "uye Aroni"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "mukoma wako"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "achataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kuti atume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "kunze kwenyika yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:15.838682415Z",
+  "model": "glm-5.3"
+}

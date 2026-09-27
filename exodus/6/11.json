@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "\"Enda, taura kuParao, mambo weEgypti, kuti atere ⟨את⟩ vana vaIsraeri muasi yake.\"",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weEgypti"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kuti atere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "muasi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:11.444875042Z",
+  "model": "glm-5.3"
+}

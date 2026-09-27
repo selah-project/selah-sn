@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Dhavhidhi akati kuna Erohimu: Ndatadza zvikuru pakuita ⟨את⟩ chiitwa ichi; zvino, ndapika, bvisa ⟨את⟩ mhosva yemuranda wako, nekuti ndakaita zvisina musoro zvikuru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Ndatadza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pakuita"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "-uita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiitwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chiitwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "bvisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhosva"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yemuranda wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ndakaita zvisina musoro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:49.368145809Z",
+  "model": "glm-5.3"
+}

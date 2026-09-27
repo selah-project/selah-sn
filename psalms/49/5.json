@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Ndinogonyatsofa nzeve yangu kune tsumo; ndichavhura chirahwe changu neginora.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ndinogonyatsofa"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "kune tsumo"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "nzeve yangu"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ndichavhura"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "neginora"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "chirahwe changu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:35.000009100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Sokuvavo vachava vakaita avo; vose vanovavimba navo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "sokuvavo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "vakaita avo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vano"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "kuvimba"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:43.940931687Z",
+  "model": "glm-5.3"
+}

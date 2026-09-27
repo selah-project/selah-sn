@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndiwuye kune hanzvadzi dzenu: Ammi; uye kune hanzvadzi dzenu hadzisati: Ruhama.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ndiwuye"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kune hanzvadzi dzenu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu (Ammi)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "nekune hanzvadzi dzenu hadzisati"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "vanorombofarwa (Ruhama)"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:08.100951733Z",
+  "model": "glm-5.3"
+}

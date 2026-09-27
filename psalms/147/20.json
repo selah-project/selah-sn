@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Haana kuita saizvozvo kurudzi rwose; ndokunge matongero, hapana rudzi runozivo. Rumbidzai Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Haana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kurudzi"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ndokunge matongero"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "runozivo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:56.325646666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Nei wadzikisa mapadza aro, kuti vose vanopfuura nemugwagwa vadye zviyero zvaro?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "wadzikisa"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "mapadza aro"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "kuti ... vadye zviyero zvaro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "vanopfuura"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nemugwagwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:11.096563101Z",
+  "model": "glm-5.3"
+}

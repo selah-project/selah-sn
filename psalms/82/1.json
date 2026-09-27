@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 82,
+  "translation": "Nzira yoAsipu. Erohimu amira mudanga reEr; mukati memwari anotonga.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzira"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "yoAsipu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "amira"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "mudanga re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "anotonga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:47.383874671Z",
+  "model": "glm-5.3"
+}

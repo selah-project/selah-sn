@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Akashongedza ⟨את⟩ imba nomatombo anomodzika sokuremekedza, uye goridhe iri rakanga ringoridhe reParuvaimu.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Akashongedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "nomatombo"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "anomodzika"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "sokuremekedza"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "uye goridhe iri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goridhe"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "reParuvaimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:24.095356185Z",
+  "model": "glm-5.3"
+}

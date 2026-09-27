@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "sokuti mauto ematenga haaverengeki, uye jecha regungwa harayerwi, ndokuti ndichawedzera ⟨את⟩ mbeu yaDhavhidhi mushandi wangu, uye ⟨את⟩ Varavhi vanoshumira ⟨pamberi⟩ ⟨את⟩ kwangu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "verengeki"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mauto"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ematenga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "yerwi"
+    },
+    {
+      "surface": "חול",
+      "gloss": "jecha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "regungwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ndichawedzera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeu yaDhavhidhi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mushandi wangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Varavhi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Varavhi"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "vanoshumira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:04:52.647979375Z",
+  "model": "glm-5.3"
+}

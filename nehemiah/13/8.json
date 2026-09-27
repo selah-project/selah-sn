@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Zvakandirwadzisa zvikuru; ndokundidzikisa ⟨את⟩ zvose zvombo zveba raTobiya, kunze, kubva mukamuri.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "zvakandirwadzisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "ndokundidzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvombo zveba raTobiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvombo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zveba"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "raTobiya"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "mukamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:01.798814248Z",
+  "model": "glm-5.3"
+}

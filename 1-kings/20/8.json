@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Vaye guru vose nevavanhu vose vakamuti: Usateerera, uye usatendera.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakamuti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vaye guru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vavanhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "uye"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "usatendera"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:25.686330588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye mambo akafa, akaunzwa kuShomeroni, uye vakaviga ⟨את⟩ mambo muShomeroni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "akaunzwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "kuShomeroni"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "vakaviga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muShomeroni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:16:50.589322530Z",
+  "model": "glm-5.3"
+}

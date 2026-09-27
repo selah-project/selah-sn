@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Ne⟨את⟩ nguruve, nokuti inodzinza ⟨את⟩ parusa asi geraha haigoni — haina kuchena kwamuri; nyama yayo hamuzodyi, uye mutumbi wayo wafa hamuzabata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nguruve"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "nguruve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "inodzinza"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "parusa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haigoni"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geraha"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "haina kuchena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nyama yayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzodyi"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "uye mutumbi wayo wafa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "muzabata"
+    }
+  ],
+  "timestamp": "2026-09-27T06:14:41.462346930Z",
+  "model": "glm-5.3"
+}

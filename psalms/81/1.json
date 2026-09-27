@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Kune muchengeti wenziyo, pagititi, nziyo yaAsafu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune muchengeti wenziyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gititi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "yaAsafu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:14.103502066Z",
+  "model": "glm-5.3"
+}

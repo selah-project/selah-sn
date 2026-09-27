@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Vana vaSena'a, zviuru zvitatu nemazana matanhatu, makumi matatu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "vaSena'a"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "zvitatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nemazana matanhatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi matatu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:05:44.331831943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Vachatya iwe ⟨pano⟩ zuva rinogumikana, uye ⟨pamberi pe⟩ mwedzi, dzinza nezvizvarwa zvezvizvarwa.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Vachatya iwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨pano⟩"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "uye ⟨pamberi pe⟩"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dzinza"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "zvezvizvarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:38.297714699Z",
+  "model": "glm-5.3"
+}

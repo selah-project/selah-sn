@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Mumabindu ehuswa hutsva anondigoreresa; pamvura dzinorugara anonditungamirira.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Mumabindu"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ehuswa hutsva"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "anondigoreresa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "dzinorugara"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "anonditungamirira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:55.036724Z",
+  "model": "glm-5.3"
+}

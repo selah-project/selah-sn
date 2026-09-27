@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "akaburitsa ⟨את⟩ izwi rake ruchichema; vekuMitsirayi vakanzwa, uye mhuri yaFarao yakanzwa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akaburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi rake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "izwi rake"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ruchichema"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vekuMitsirayi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "yakanzwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mhuri ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:06.184294331Z",
+  "model": "glm-5.3"
+}

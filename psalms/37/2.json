@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Nokuti sesora vanoverengwa nekukurumidza, uye sehuswa hunebudisirira vanopota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sesora"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "nekukurumidza"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "vanoverengwa"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "uye sehuswa hunebudisirira"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "huswa hunebudisirira"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "vanopota"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:35.192760791Z",
+  "model": "glm-5.3"
+}

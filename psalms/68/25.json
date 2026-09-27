@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Vaona ⟨zviyedzo⟩ zvako, Erohimu; zviyedzo zvaEr wangu, umambo hwangu, mutsvene.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "vaona"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "zviyedzo zvako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "zviyedzo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "umambo hwangu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mutsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:21.278831071Z",
+  "model": "glm-5.3"
+}

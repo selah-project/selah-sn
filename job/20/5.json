@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Nokuti kufara kwevapvanya kunopfuura shure nokufurirwa, uye mufaro wechinyepa unogumira nguva shoma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "kufurirwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwevapvanya"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "kunopfuura shure"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "uye mufaro"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "wechinyepa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "unogumira"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "nguva shoma"
+    }
+  ],
+  "timestamp": "2026-09-27T09:38:48.009394603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndikati: Munzwei naizvozvo, misoro yaJakobho, nemadzimambo emba yaIsraeri; haisi yenyu here kuziva ⟨את⟩ mutemo?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Munzwei"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "misoro"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "yaJakobho"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "nemadzimambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "emba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "haisi here"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenyu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutemo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "mutemo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:37.691789288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Nzendo dzangu dzakasimba panzira dzako; netsoka dzangu hadzina kuzenguruka.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "dzakasimba"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nzendo dzangu"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "panzira dzako"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "hadzina kuzenguruka"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "netsoka dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:59.645689227Z",
+  "model": "glm-5.3"
+}

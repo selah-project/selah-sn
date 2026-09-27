@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Tendai Yahwe neginya; imi muchiridza nechinhandra chemitenzi gumi, ridzai rwiyo rwake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Tendai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "neginya"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nechinhandra"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "chemitenzi gumi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ridzai rwiyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:20.839246633Z",
+  "model": "glm-5.3"
+}

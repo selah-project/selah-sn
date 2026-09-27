@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Uye izvo zvaakaita zvaikaipa mumaso maYahwe; ndokuti akamuurayawo ⟨את⟩ Onani.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "zvaikaipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mamaso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akamuuraya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-wo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Onani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:37.845950259Z",
+  "model": "glm-5.3"
+}

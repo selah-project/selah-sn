@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Nokuti ndiri munyori nomushayi, uye moyo wangu wakakuvara mukati mangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "munyori"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomushayi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wakakuvara"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mukati mangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:32.847091197Z",
+  "model": "glm-5.3"
+}

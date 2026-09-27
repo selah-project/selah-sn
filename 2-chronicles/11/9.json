@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "ne⟨את⟩ Adhoraiimu, ne⟨את⟩ Lakishi, ne⟨את⟩ Azeka",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Adhoraiimu"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adhoraiimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Lakishi"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Azeka"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:04.038461748Z",
+  "model": "glm-5.3"
+}

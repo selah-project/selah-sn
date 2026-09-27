@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Varoora havamiri pamberi pemaso ako; unovenga vose vanoita mabasa akaipa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "vamiri"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "Varoora"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maso ako"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "unovenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabasa akaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:00.665075492Z",
+  "model": "glm-5.3"
+}

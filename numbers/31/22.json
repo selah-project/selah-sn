@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Chete ⟨את⟩ ndarama ne⟨את⟩ sirivha, ⟨את⟩ mhangura ⟨את⟩ simbi, ⟨את⟩ tini, ne⟨את⟩ gora —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndarama"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "sirivha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhangura"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mhangura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simbi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "simbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tini"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "tini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "gora"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "gora"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:02.570004366Z",
+  "model": "glm-5.3"
+}

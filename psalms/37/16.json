@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Zvakanaka zvishoma kune mururami kupfuura hupfumi hwune huwandu hwavakaipa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Zvakanaka"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "zvishoma"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kune mururami"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "kupfuura hupfumi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hwavakaipa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "une huwandu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:44.923198110Z",
+  "model": "glm-5.3"
+}

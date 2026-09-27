@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Madzisekuru eguta iro voburitsa pasi ⟨את⟩ mhuru iyo, vodzikisa kunokana une mvura inogara ichiyerera, isina kana kurimwa kana kudyarwa, ipapo vokamura mutsipa ⟨את⟩ mhuru iyo mukana iwo.",
+  "tokens": [
+    {
+      "surface": "והורידו",
+      "gloss": "voburitsa pasi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "Madzisekuru"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "eguta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhuru iyo"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "mhuru iyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mukana"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "une mvura inogara ichiyerera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨iwo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isina"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "kana kurimwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "kudyarwa"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "vokamura mutsipa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhuru iyo"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "mhuru iyo"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mukana iwo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:16:52.500004564Z",
+  "model": "glm-5.3"
+}

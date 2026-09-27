@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Vababa vaJakobho vakasvika pane vakauraiwa, ndokubhora guta raivakanyadzisa hanzvadzi yavo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Vababa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "vaJakobho"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "vakauraiwa"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ndokubhora"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raivakanyadzisa"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "vakanyadzisa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "hanzvadzi yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:16.493224104Z",
+  "model": "glm-5.3"
+}

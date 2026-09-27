@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Moyo wangu unorwadziwa mukati mangu, uye kutya kwokufa kwakagwa pamusoro pangu.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "unorwadziwa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mukati mangu"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "uye kutya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kwokufa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "kwakagwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:51.411864190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Nokuti anogara arudyi rweomuhara, kuti amununure kune avatorwa mhosva yaupenyu hwake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "anogara ari"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "rudyi rwe"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "omuhara"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kuti amununure"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kune avatorwa mhosva ya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "upenyu hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:58.648313687Z",
+  "model": "glm-5.3"
+}

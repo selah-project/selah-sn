@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Vagari veGibhoni vakanzwa ⟨את⟩ izvo zvaakaita Yehoshwa kuYerihiko na kuAyi",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Vagari ve"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibhoni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo zvaakaita Yehoshwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshwa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "kuYerihiko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "na kuAyi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:40.348394959Z",
+  "model": "glm-5.3"
+}

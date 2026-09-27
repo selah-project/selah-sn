@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Shamuyeri akamuka, akaenda kubva kuGirigara kuenda kuGibheya yaBhinjamini; Shauro akaverenga ⟨את⟩ vanhu vaiva naye, vanhu zana matanhatu pachena.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuyeri"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "kuGirigara"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "kuGibheya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "yaBhinjamini"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "akaverenga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "vanhu zana matanhatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:47.203213018Z",
+  "model": "glm-5.3"
+}

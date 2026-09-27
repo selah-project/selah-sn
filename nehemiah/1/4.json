@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino pandanzwa ⟨את⟩ mazwi aya, ndakagara ndakachema ndakazunza mazuva, ndiri mutsanya ndichinamata pamberi peErohimu dzamatenga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvakaitika"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "pandanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi aya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ndakagara"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "ndakachema"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "ndakazunza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "צם",
+      "gloss": "mutsanya"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "ndichinamata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "peErohimu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzamatenga"
+    }
+  ],
+  "timestamp": "2026-09-27T10:12:00.679364825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Akazvitakura, uye akabara mwanakomana; uye akadana ⟨את⟩ zita rake Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "akazvitakura"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:37.468944572Z",
+  "model": "glm-5.3"
+}

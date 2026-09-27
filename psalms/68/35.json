@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Pai simba kunaErohimu; kukudza kwake kuri pamusoro peIsraeri, uye simba rake riri mumashoko.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Pai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kunaErohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "kukudza kwake"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "uye simba rake"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "mumashoko"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:47.023110079Z",
+  "model": "glm-5.3"
+}

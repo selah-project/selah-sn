@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 133,
+  "translation": "Sokunyerevedza kweCherimoni kunoderera pamakomo eZiyoni; nokuti ipapo Yahwe akaraira ⟨את⟩ rupoko, upenyu husingapere.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Sokunyerevedza"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "kweCherimoni"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "kunoderera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "eZiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rupoko"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "rupoko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "upenyu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "husingapere"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:28.158471311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Ava, mummoyo munoita zvakaipa; munopima ruvwengo rumaoko enyu munyika.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ava"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mummoyo"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "munoita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ruvwengo"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "rumaoko enyu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "munopima"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:40.942936683Z",
+  "model": "glm-5.3"
+}

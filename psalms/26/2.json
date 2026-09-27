@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Muedze ini, Yahwe, uye ndiyedze; svisvinisa ⟨matumbo⟩ angu nemwoyo wangu.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Muedze ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "uye ndiyedze"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "svisvinisa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "matumbo angu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "nemwoyo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:20.165090373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Iye akadzosa ⟨את⟩ mukuru wemikombe kubasa rake rekombe, uye akapa ⟨את⟩ kombe muruoko rwaParoh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukuru wemikombe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wemikombe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kubasa"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "rake rekombe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kombe"
+    },
+    {
+      "surface": "על",
+      "gloss": "muri"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:29.094003502Z",
+  "model": "glm-5.3"
+}

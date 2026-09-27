@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uchunza ⟨את⟩ tafura, uye uchagadza ⟨את⟩ kurongeka kwayo; uye uchunza ⟨את⟩ chiedza chen’anga, uye uchibvitsa ⟨את⟩ mwenje wayo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "uchunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafura"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "uchagadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurongeka kwayo"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "kurongeka kwayo"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "uchunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiedza chen’anga"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "chiedza chen’anga"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "uchibvitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwenje wayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "mwenje wayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:36.824236900Z",
+  "model": "glm-5.3"
+}

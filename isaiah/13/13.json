@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 13:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Nokudaro ndichaita kuti matenga atsinte, uye nyika ichanzvenigwa panzvimbo yayo, mune hasha dzaYahwe Tsevaoti, muzuva rokudziya kwahashe dzake.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matanga"
+    },
+    {
+      "surface": "ארגיז",
+      "gloss": "ndichaita kuti atsinte"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "uchanzvenigwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "panzvimbo yayo"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "mune hasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "dzaYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "rokudziya kwahashe"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:19.139121420Z",
+  "model": "glm-5.3"
+}

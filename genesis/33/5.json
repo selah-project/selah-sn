@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Akasimudza ⟨את⟩ maziso ake, akaona ⟨את⟩ vakadzi ne⟨את⟩ vana, akati: Ava vana ndeani here avo vakabatana newe? Akati: Ava ndivo vana vaErohimu vakatendera ⟨את⟩ mushandi wako.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso ake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakadzi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "vakadzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndeani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vakabatana newe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "vakatendera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vaErohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mushandi wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:03.641138382Z",
+  "model": "glm-5.3"
+}

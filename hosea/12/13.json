@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Jakobho akatiza kuenda munda weAramu; Israeri akashanda nokuda kwomudzimai, uye nokuda kwomudzimai akachengeta.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "akashanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "nokuda kwomudzimai"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "uye nokuda kwomudzimai"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "akachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:07.518866162Z",
+  "model": "glm-5.3"
+}

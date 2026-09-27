@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uye idzi ndidzo rupoko rwakaropafadza Mhoze, murume waErohimu, ⟨את⟩ vana vaIsiraeri, mushure mokufa kwake.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "uye idzi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "rupoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndidzo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mushure mwa-"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kufa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:01.906109640Z",
+  "model": "glm-5.3"
+}

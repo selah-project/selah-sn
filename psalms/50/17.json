@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Iwe unovenga dzidziso yekurangwa, uye wakanda mashoko angu kumashure kwako.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "unovenga"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "dzidziso yekurangwa"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "wakanda"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko angu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kumashure kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:07.801348659Z",
+  "model": "glm-5.3"
+}

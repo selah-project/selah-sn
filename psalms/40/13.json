@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Nokuti zvakaipa zvakandizeredza kusvika zvisina kuverengwa; mhosva dzangu dzakandibata, ndisingagoni kuona; dzakawanda kupfuura vhudzi remusoro wangu, uye moyo wangu wakandisiya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "zvakandizeredza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "visina"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kuverengwa"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "zakandibata"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mhosva dzangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndisina"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "kugona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "dzakawanda kupfuura"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "vhudzi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "remusoro wangu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "wakandisiya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:08.866079158Z",
+  "model": "glm-5.3"
+}

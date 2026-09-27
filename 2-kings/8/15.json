@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Zvino mangwana ano, akatora jira hombe, akaedza mumvura, akaaparadzira pamusoro pechiso chake, akafa; uye Hazaeli akagara umambo panzvimbo yake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mangwana ano"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "jira hombe"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "akaedza"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "akaaparadzira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akagara umambo"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "panzvimbo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:34.182982072Z",
+  "model": "glm-5.3"
+}

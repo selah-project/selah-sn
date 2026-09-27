@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Tora ⟨את⟩ Aharoni ne⟨את⟩ Eliazari mwanakomana wake, uye vakwidze ⟨את⟩ paHora, pagomo.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Eliazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Eliazari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "uye vakwidze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paHora, pagomo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hora"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "pagomo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:56.808934821Z",
+  "model": "glm-5.3"
+}

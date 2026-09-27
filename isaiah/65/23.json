@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Hachatambudzika zvemahara, kana kuzvarira kutya; nokuti mhuri yevakaropafadzwa naYahwe ndiyo iyo, uye vana vavo vachiri ⟨את⟩ navo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "chatambudzika"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "zvemahara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "kuzvarira"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "yevakaropafadzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndiyo iyo"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "uye vana vavo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:16.969516603Z",
+  "model": "glm-5.3"
+}

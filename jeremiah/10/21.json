@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti varidzi vemhete vave nhando, uye ⟨את⟩ Yahwe havatsvagi; naizvozvo havazvinakira, uye mhete dzavo dzose dzapararira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "vave nhando"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "varidzi vemhete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "-tsvagi"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo (sarudzo)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "-zvinakira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye dzose"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "mhete dzavo"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "dzapararira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:54:21.319776066Z",
+  "model": "glm-5.3"
+}

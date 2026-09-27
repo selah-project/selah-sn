@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Tichafara nokururamiswa kwauri, uye muzita raErohimu wedu tichatomadza mureza. Yahwe ngakuzadzire zvose zvaunokumbira.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "tichafara nokuimba"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nokururamiswa kwauri"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "muzita ra"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "tichatomadza mureza"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ngakuzadzire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "zvaunokumbira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:35.403626083Z",
+  "model": "glm-5.3"
+}

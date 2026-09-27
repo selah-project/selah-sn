@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye kana asina kudzikinura ⟨את⟩ ndima, kana wangoita akatengesa ⟨את⟩ ndima kumunhu mumwe, haichadzikinurwi zvakare.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kudzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndima"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ndima"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "akatengesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndima"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ndima"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumunhu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haicha"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "dzikinurwi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:00.807128486Z",
+  "model": "glm-5.3"
+}

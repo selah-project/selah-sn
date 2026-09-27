@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye mambo weIsraeri akati kuYehoshafati: Handida here ndakataura newe kuti haaporofita zvakanaka pandiri, asi zvakaipa chete?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "handida here"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakataura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "porofita"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chete"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:24.709408751Z",
+  "model": "glm-5.3"
+}

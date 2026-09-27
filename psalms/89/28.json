@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Naizvozvo ini ndichamupa sokutanga kuzvarwa kwangu, apamusoro pemambo enyika.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sokutanga kuzvarwa kwangu"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ndichamupa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "apamusoro"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "pemambo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "enyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:50.799946741Z",
+  "model": "glm-5.3"
+}

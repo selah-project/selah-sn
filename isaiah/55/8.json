@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Nokuti mafungiro angu haasi ⟨mafungiro⟩ enyu, uye nzira dzenyu hadzisi ⟨nzira⟩ dzangu, ndizvo zvinotaurwa naYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haisi"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mafungiro angu"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "mafungiro enyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hadzisi"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "nzira dzenyu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira dzangu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "zvinotaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:06.840227006Z",
+  "model": "glm-5.3"
+}

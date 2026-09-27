@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Umambo akatuma, akaunganidza ⟨את⟩ vakuru vose veYudha neYerushalemu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Umambo"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakuru vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "veYudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerushalemu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:44:59.558547674Z",
+  "model": "glm-5.3"
+}

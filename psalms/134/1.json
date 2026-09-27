@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 134,
+  "translation": "Chiyimbo chokukwira. Onai, rukudzai ⟨את⟩ Yahwe, imi vashumiri vose vaYahwe, vari mumba yaYahwe nenusiku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "chiyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "chokukwira"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "onai"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rukudzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "vashumiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "vari"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "nusiku"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:05.027640830Z",
+  "model": "glm-5.3"
+}

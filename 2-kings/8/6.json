@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mambo akabvunza mudzimai, iye akaudza; mambo akapa kwaari sarisi mumwe achiti: Dzosa ⟨את⟩ zvose zviri kwaake, ne⟨את⟩ zvirimo zvose zvemunda, kubva musi akasiya ⟨את⟩ nyika kusvika izvezva.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akabvunza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mudzimai"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "sarisi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Dzosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvirimo zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "zvirimo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "vemunda"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kubva musi"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izvezva"
+    }
+  ],
+  "timestamp": "2026-09-27T07:21:38.211713096Z",
+  "model": "glm-5.3"
+}

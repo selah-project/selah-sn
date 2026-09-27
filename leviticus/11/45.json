@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti ndini Yahwe, anokubitsai ⟨את⟩ muchibva nyika yeMuitiro, kuti ndive Erohimu yenyu; muchava vatsvene, nokuti ndinotsvena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "anokubitsai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "muchibva nyika yeMuitiro"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "muchibva nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMuitiro"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kuti ndive"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenyu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "muchava"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ndinotsvena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:10.224355045Z",
+  "model": "glm-5.3"
+}

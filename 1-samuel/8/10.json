@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Samueri akataura ⟨את⟩ mashoko ose aYahwe kuvanhu vayaida kubva kuna iye ⟨את⟩ mambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko ose aYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "vayaida"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ kubva kuna iye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:56:24.195624573Z",
+  "model": "glm-5.3"
+}

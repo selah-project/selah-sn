@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Moshe akarayira ⟨את⟩ vanhu nzuvo iyoyo, achiti:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nzuvo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:53:46.304647661Z",
+  "model": "glm-5.3"
+}

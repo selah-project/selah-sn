@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye vekuMitsraimu vachaziva kuti ndini Yahwe, pandinotambanisa ⟨את⟩ ruoko rwangu pamusoro poMitsraimu, ndikaburitsa ⟨את⟩ vana vaIsraeri mukati mavo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "vachaziva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vekuMitsraimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "pandinotambanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro po"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimu"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ndikaburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "mukati mavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:13.238294235Z",
+  "model": "glm-5.3"
+}

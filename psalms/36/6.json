@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Yahwe, hesedhi yako ⟨iri⟩ kumatenga; kutendeka kwako kusvika kumadhongi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "kumatenga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kutendeka kwako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "kumadhongi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:22.578146622Z",
+  "model": "glm-5.3"
+}

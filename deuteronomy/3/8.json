@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino panguva iyo tikatora ⟨את⟩ nyika kubva mumaoko emambo maviri evaEmori, aiva kunze kweYorodhano, kubva murnhivi dzeArnoni kusvika paChishongwa cheCherimoni.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "tikatora"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "emambo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "evaEmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kunze kwe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodhano"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "kubva murnhivi dze"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnoni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika pa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Chishongwa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "cheCherimoni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:08.499288940Z",
+  "model": "glm-5.3"
+}

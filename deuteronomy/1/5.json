@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kumabviro kwaYorudhani, munyika yeMowabhu, Mhozhe akatanga kutsanangura ⟨את⟩ tora iyi, achiti:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "kumabviro kwa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudhani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yeMowabhu"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "akatanga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhozhe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kutsanangura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tora iyi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:05.034701172Z",
+  "model": "glm-5.3"
+}

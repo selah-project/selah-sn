@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Chikwata chaChikashidhi chakatevera mambo, chikamubata mubvazuva reYerihho; chikwata chake chose chakapararira kubva paari.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "chakatevera"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chikwata"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "chaChikashidhi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "chikamubata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "mubvazuva"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "reYerihho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "chikwata chake"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "chakapararira"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kubva paari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:27.221942859Z",
+  "model": "glm-5.3"
+}

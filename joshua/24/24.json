@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye vanhu vakati kuna Yehoshua: ⟨את⟩ Yahwe, Erohimu wedu, ndiye tinomushumira, uye nerwi rake tinoteerera.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Erohimu wedu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "tinomushumira"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "nerwi rake"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tinoteerera"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:52.020865077Z",
+  "model": "glm-5.3"
+}

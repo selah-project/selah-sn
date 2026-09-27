@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Yahwe akaonekwa mutendi, muchirongo chemadheti; chirongo chemadheti chakamira pakumbo pemutendi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaonekwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mutendi"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "muchirongo"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "chemadheti"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "chakamira"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "chirongo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "chemadheti"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kumbo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "pemutendi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:57.103177703Z",
+  "model": "glm-5.3"
+}

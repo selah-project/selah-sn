@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Yakanaka mukukwirira kwadzo, mufaro weNyika yose — gomo reZioni, kumagumu emaodzanyemba, guta raMambo mukuru.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Yakanaka"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "mukukwirira kwadzo"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "we... yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Nyika"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "reZioni"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "kumagumu ema"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "odzanyemba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "guta ra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:32.628507703Z",
+  "model": "glm-5.3"
+}

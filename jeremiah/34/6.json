@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Uye Yiremiya muporofita akataura ⟨את⟩ shoko zvose idzi kuTsidhikiya, mambo weYudha, muYerusharemu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidhikiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko zvose idzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusharemu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:05:35.577812143Z",
+  "model": "glm-5.3"
+}

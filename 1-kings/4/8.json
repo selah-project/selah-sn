@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye idzi ndidzo mazita avo: mukoma waHuru, mugomo reEfuremu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "mazita avo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Huru"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mugomo re"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuremu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:25.957229954Z",
+  "model": "glm-5.3"
+}

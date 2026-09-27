@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Nokuti iwe ndiwe ruremekedzo rwesimba ravo, uye nokuda kwako wakakwirisa nyanga yedu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "simba ravo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "uye nokuda kwako"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "wakakwirisa"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "nyanga yedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:06.633471139Z",
+  "model": "glm-5.3"
+}

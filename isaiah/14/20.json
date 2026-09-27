@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Haugoni kubatana navo ⟨את⟩ mukuva, nokuti nyika yako wakaparadza, vanhu vako wauraya; mhodzi yevakaipa haizodanwa zvachose.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haugoni"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "kubatana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ navo",
+      "marks": "avo (vakafa vamambo)"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "mukuva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "nyika yako"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "wakaparadza"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "wauraya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haizodanwa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "haizodanwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mhodzi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yevakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:21.880070526Z",
+  "model": "glm-5.3"
+}

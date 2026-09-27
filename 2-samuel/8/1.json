@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Zvino shure kweizvi, Dhavhidhi akarwisa ⟨את⟩ Vapirisitimu ndokuvatsvetudza; Dhavhidhi akatora ⟨את⟩ mutsige weguta reAmai mumaoko eVapirisitimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino zvakaitika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vapirisitimu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vapirisitimu"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ndokuvatsvetudza"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutsige weguta reAmai"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "mutsige"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "weguta reAmai"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mumaoko e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vapirisitimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:58:40.337659683Z",
+  "model": "glm-5.3"
+}

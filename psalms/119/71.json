@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Zvakanaka kwandiri kuti ndakatambudzika, kuti ndidzidire mitemo yako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ndakatambudzika"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ndidzidire"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mitemo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:43.885945935Z",
+  "model": "glm-5.3"
+}

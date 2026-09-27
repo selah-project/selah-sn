@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anotumira chirevo chake pasi, shure izvozvo shoko rake rinomhanyazve.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "anotumira"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "chirevo chake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "shure izvozvo"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "zvikurumidira"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "rinomhanya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "shoko rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.240857224Z",
+  "model": "glm-5.3"
+}

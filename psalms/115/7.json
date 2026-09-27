@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Maoko avo, asi havagwinhi; tsoka dzavo, asi havafambi; havatauri ne⟨huro⟩ yavo.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "havagwinhi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "tsoka dzavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "havafambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "havatauri"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "nehuro yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.722300274Z",
+  "model": "glm-5.3"
+}

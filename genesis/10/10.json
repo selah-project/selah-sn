@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokutanga kweushe hwake kwakanga kuri Bhabheroni, nEreki, nAkadi, neKariniha, munyika yeShinari.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Nokutanga kwe... kwakanga kuri"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "kutanga"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ushe hwake"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bhabheroni"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "nEreki"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "nAkadi"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "neKariniha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.286498953Z",
+  "model": "glm-5.3"
+}

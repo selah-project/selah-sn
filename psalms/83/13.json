@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "avo vakati: Ngatitorerei zvokuita zvose ⟨את⟩ matunze aErohimu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Ngatitorerei zvokuita zvose"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwete zvatinoda — 'kwedu' rakanyorwa mukati memazwi okutaura",
+      "marks": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aErohimu"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "matunze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "aErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:17.445743811Z",
+  "model": "glm-5.3"
+}

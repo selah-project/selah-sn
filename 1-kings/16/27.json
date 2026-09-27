@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 16:27",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvachose zvakasara zvenyaya dzaOmri aakaita, nesimba rake aakaratidza — hazvina kunyorwa here pabhuku renyaya dzemazuva evamambo veIsirayeri?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "zvachose-zvakasara"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zvenyaya"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "dzaOmri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakaita…awo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aakaita"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "nesimba rake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakaratidza…awo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aakaratidza"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hazvina…here"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kunyorwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa…"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bhuku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "renyaya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dzemazuva"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "evamambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsirayeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:27.334933222Z",
+  "model": "glm-5.3"
+}

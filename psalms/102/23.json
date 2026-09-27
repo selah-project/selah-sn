@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Apakusangana kwevanhu pamwechete, namadzimambo — kushumira ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "pakusangana kwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "namadzimambo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kushumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:52.157791659Z",
+  "model": "glm-5.3"
+}

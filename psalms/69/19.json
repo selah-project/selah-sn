@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Svika pedyo nemweya wangu, uimudzikinure; nokuda kwevavengi vangu, ndinunure.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Svika pedyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "uimudzikinure"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ndinunure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:18.388680500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Chii chaDhavhidhi angawedzera kwauri zvakare nokukudza ⟨את⟩ muranda wako? Iwe ⟨את⟩ muranda wako waziva.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Chii"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "angawedzera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "nokukudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muranda wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muranda wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waziva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:09.296353449Z",
+  "model": "glm-5.3"
+}

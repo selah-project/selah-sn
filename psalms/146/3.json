@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Musavimbe madzishe, kana mwanadamunhu — kwaari hapana ruponeso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musasa"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "Musavimbe"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "kana mwanadamunhu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "שאין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ruponeso"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:03.423714535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana wakavakamba imba nyowani, unofanira kuita rusvingo pagomba rako, kuti usaisa ropa mumba mako, kana anopotsa aguma kubva pairi.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תִּבְנֶה",
+      "gloss": "wakavakamba"
+    },
+    {
+      "surface": "בַּיִת",
+      "gloss": "imba"
+    },
+    {
+      "surface": "חָדָשׁ",
+      "gloss": "nyowani"
+    },
+    {
+      "surface": "וְעָשִׂיתָ",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "מַעֲקֶה",
+      "gloss": "rusvingo"
+    },
+    {
+      "surface": "לְגַגֶּךָ",
+      "gloss": "pagomba rako"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תָשִׂים",
+      "gloss": "-isa"
+    },
+    {
+      "surface": "דָּמִים",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "בְּבֵיתֶךָ",
+      "gloss": "mumba mako"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יִפֹּל",
+      "gloss": "anoguma"
+    },
+    {
+      "surface": "הַנֹּפֵל",
+      "gloss": "anopotsa"
+    },
+    {
+      "surface": "מִמֶּנּוּ",
+      "gloss": "kubva pairi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:02.124338470Z",
+  "model": "glm-5.3"
+}

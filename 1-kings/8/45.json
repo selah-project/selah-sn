@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "uye unze mudenga minamato yavo nepemho yavo, uye uite kutonga kwavo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uye unze"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mudenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minamato yavo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "minamato yavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pemho yavo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "pemho yavo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uye uite"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "kutonga kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:23.110070805Z",
+  "model": "glm-5.3"
+}

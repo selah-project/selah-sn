@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye Israeri yose yakanyorwa zvedzinza rwavo, uye tarisa, vakanyorwa muchitabhwa chomadzimambo eIsraeri; uye Yahuda vakatambudzwa kuBhabhironi nokutyorwa kwavo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "uye … yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "yakanyorwa zvedzinza rwavo"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "uye tarisa, zvino"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "vakanyorwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "chitabhwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "chomadzimambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsraeri"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "uye Yahuda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "vakatambudzwa"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "kuBhabhironi"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "nokutyorwa kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:21:41.287560092Z",
+  "model": "glm-5.3"
+}

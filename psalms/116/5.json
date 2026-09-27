@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Yahwe ⟨ane⟩ tsitsi, akarurama, uye Erohimu wedu ⟨ane⟩ tsitsi dzose.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ane tsitsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "akarurama"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ane tsitsi dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:53.533760863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye kubva mumuteve waYisaskara ⟨את⟩ Kedeshi nomatunze aro, ⟨את⟩ Dhabhurathi nomatunze aro.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kubva mumuteve"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "waYisaskara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhabhurathi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dhabhurathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:45.939042856Z",
+  "model": "glm-5.3"
+}

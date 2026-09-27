@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "kuti vafambe muzvitemo zvangu, vachengete ⟨את⟩ mitemo yangu, vaiita ⟨את⟩ izvi; vachava vanhu vangu, ndichava Erohimu yavo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "muzvitemo zvangu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vafambe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yangu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "vachengete"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "vaiita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izvi",
+      "marks": "mitemo yangu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vangu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndichava"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndichava"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yavo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:18:52.836444980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Ndichasangano Mitsrayimu muMitsrayimu, vacharwa munhu nehanzvadzi yake, nomunhu nomudyi wake, guta neguta, umambo noumambo.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Ndichasangano"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muMitsrayimu"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "vacharwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "nehanzvadzi yake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "nomudyi wake"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "neguta"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "noumambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:33.302359080Z",
+  "model": "glm-5.3"
+}

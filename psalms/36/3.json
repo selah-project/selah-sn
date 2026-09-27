@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Nokuti akazvigadzikisa pameso ake pachake, kuti ashande huori hwake, kana kurombedza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "akazvigadzikisa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pachake"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "pameso ake"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kuti ashande"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "huori hwake"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "kana kurombedza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:09.911425551Z",
+  "model": "glm-5.3"
+}

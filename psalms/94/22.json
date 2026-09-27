@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Uye Yahwe ave misasa yangu, uye Erohimu wangu ave dombo refugio yangu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "uye ave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "misasa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "uye Erohimu wangu"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dombo"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "refugio yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:29.428797892Z",
+  "model": "glm-5.3"
+}

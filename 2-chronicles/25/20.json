@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Amatsiahu haana kuteerera, nokuti zvaive kubva kuErohimu — kuti avape muwanza — nokuti vakatsvaga ⟨את⟩ mwari waEdhomu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuteerera"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "kubva kuErohimu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "avape"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "muwanza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "vakatsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwari waEdhomu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mwari wa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:39:53.006054439Z",
+  "model": "glm-5.3"
+}

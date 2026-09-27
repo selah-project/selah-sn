@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Napamusoro peIshimayeri, ndakanzwa iwe; ona, ndakamuretsa, ndichaita kuti abereke, ndichamuwedzera zvakanyanya kwazvo; achabereka madzishe gumi nembiri, ndichamuita rudzi huru.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "napamusoro peIshimayeri"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ndakanzwa iwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ndakamuretsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyeye (Ishimayeri)"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ndichaita kuti abereke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyeye"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndichamuwedzera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyeye"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "(gumi ne)mbiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "achabereka"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "ndichamuita"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "huru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:09.866327511Z",
+  "model": "glm-5.3"
+}

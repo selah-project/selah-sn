@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Shauri akatuma ⟨את⟩ vatumwa kuti vaone ⟨את⟩ Dhavhidi, achiti: Muise pariri kuna⟨i⟩ andiri, kuti ndimuraye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatumwa"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "vatumwa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuti vaone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Muise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Dhavhidi pariri"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "pariri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuna⟨i⟩ andiri"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "kuti ndimuraye"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:49.574599558Z",
+  "model": "glm-5.3"
+}

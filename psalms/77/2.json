@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Izwi rangu kuna Erohimu, ndinodana; izwi rangu kuna Erohimu, kuti ⟨anoteerera⟩ kwandiri.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ndinodana"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "⟨anoteerera⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:25.383340151Z",
+  "model": "glm-5.3"
+}

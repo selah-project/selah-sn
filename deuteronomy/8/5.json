@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye unozi nezvemoyo wako, kuti sokudzidzisa kwomunhu ⟨את⟩ mwanakomana wake, ndokukadaro Yahwe Erohimu wako achikudzidzisa.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "unozi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nezve"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokudzidzisa kwo"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "anodzidzisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "achikudzidzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:42.899311911Z",
+  "model": "glm-5.3"
+}

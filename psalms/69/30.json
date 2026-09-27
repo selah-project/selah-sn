@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Asi ndiri mushayi uye ndinorwadziwa; ruponeso rwako, Erohimu, ruchandichengetedza ⟨nekundikwidza⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "asi ndiri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mushayi"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "uye ndinorwadziwa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ruponeso rwako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ruchandichengetedza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:36.862936369Z",
+  "model": "glm-5.3"
+}

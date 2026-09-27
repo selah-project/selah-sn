@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Mazuva aSheoromohi akatonga muYerusharemu pamusoro peIsiraeri wono kwese — makumi mana.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheoromohi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusharemu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:23.650131948Z",
+  "model": "glm-5.3"
+}

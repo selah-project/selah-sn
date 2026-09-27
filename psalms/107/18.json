@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Chokudya chose chitsvengo pamberi pemweya wavo, vakasvika kusvika mazvo erufu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chokudya"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "chitsvengo pamberi pe"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mweya wavo"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "mazvo e"
+    },
+    {
+      "surface": "מות",
+      "gloss": "rufu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:08.154451525Z",
+  "model": "glm-5.3"
+}

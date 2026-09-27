@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Verenga ⟨את⟩ musoro wevana vaGereshoni, ivo wo, nevemba dzamadzitibaba avo, nemhuri dzavo.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "verenga (musoro)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wevana vaGereshoni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "vaGereshoni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nevemba"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dzamadzitibaba avo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemhuri dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:02.440694584Z",
+  "model": "glm-5.3"
+}

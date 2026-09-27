@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye mushure mavo akatora ⟨את⟩ Maakha mwanasikana waAvisharomu, uye akamuzvarira ⟨את⟩ Avhiya, na⟨את⟩ Atai, na⟨את⟩ Ziza, na⟨את⟩ Shoromiti.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "mushure mavo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana wa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avisharomu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akamuzvarira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "muzvariro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avhiya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avhiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Atai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Atai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Shoromiti"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shoromiti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:59.563595935Z",
+  "model": "glm-5.3"
+}

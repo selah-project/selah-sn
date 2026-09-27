@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mumwe nomumwe amai vake nababa vake achavatya; uye ⟨את⟩ Shabhata dzu ndichachengeta ⟨zvenyu⟩. Ndini Yahwe Erohimu venyu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mumwe nomumwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amai vake"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "nababa vake"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "achavatya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata dzu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabhata dzu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ndichachengeta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:58.433239825Z",
+  "model": "glm-5.3"
+}

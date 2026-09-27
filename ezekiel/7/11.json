@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Ruvhoko rwakasimuka kuva chimwe chehondzo; kwavari hakuna chinobva, uye hakuna kuva kwehuwandu hwavo, uye hakuna ruzha rwavo, uye hauna kuchema kwuri mukati mavo.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "Ruvhoko"
+    },
+    {
+      "surface": "קם",
+      "gloss": "rwakasimuka"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kuva chimwe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "chehondzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chinobva kwavari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "kuva kwehuwandu hwavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "ruzha rwavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "נה",
+      "gloss": "uchema"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mukati mavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:16:06.761943620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Uye Yiremiahu akaraira ⟨את⟩ Baruki, achiti: Ndine kusungwa, handigoni kuenda mumba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremiahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruki"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ndine kusungwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "-goni"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:05:55.218955174Z",
+  "model": "glm-5.3"
+}

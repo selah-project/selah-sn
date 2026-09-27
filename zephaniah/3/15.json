@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe akabvisa mutongo wako, akatapudza muvengi wako; Mambo weIsraeri, Yahwe, ari pakati penyewe; hauchatya zvakaipa zvichiperazve.",
+  "tokens": [
+    {
+      "surface": "הֵסִ֤יר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מִשְׁפָּטַ֔יִךְ",
+      "gloss": "mutongo wako"
+    },
+    {
+      "surface": "פִּנָּ֖ה",
+      "gloss": "akatapudza"
+    },
+    {
+      "surface": "אֹֽיְבֵ֑ךְ",
+      "gloss": "muvengi wako"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֤ל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בְּקִרְבֵּ֔ךְ",
+      "gloss": "pakati penyewe"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תִֽירְאִ֥י",
+      "gloss": "uchatya"
+    },
+    {
+      "surface": "רָ֖ע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "zvichiperazve"
+    }
+  ],
+  "timestamp": "2026-09-27T08:46:43.435148916Z",
+  "model": "glm-5.3"
+}

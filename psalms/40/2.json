@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Ndakatarisira, ndakatarisira Yahwe, ndokudzoka kunditarisa, ndokunzwa kuchema kwangu.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "tarisira"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ndakatarisira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ndokudzoka kunditarisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ndokunzwa"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kuchema kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:32.615548521Z",
+  "model": "glm-5.3"
+}

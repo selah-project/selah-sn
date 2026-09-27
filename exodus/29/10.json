@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uchaisa ⟨את⟩ mhuru pamberi petenda yekusangana; uye Aharoni nevana vake vachaisa ⟨את⟩ mawoko avo pamusoro pemusoro wemhuru.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "uchaisa pamberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhuru"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yekusangana"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "vachaisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nevana vake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawoko avo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mawoko avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wemhuru"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:43.242466398Z",
+  "model": "glm-5.3"
+}

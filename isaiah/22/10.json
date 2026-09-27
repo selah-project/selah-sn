@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye makaverenga ⟨את⟩ dzimba dzaYerusharaim, uye makaputsa ⟨את⟩ dzimba kuchisimikidza rusvingo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dzimba dzaYerusharaim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "dzaYerusharaim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "makaverenga"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "makaputsa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "kuchisimikidza"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "rusvingo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:54.464415364Z",
+  "model": "glm-5.3"
+}

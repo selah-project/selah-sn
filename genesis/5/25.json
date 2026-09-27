@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Metuseraki akagara ⟨makore⟩ zana namakumi masere nomwe, akazvara ⟨את⟩ Lemeki.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuseraki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "namakumi masere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nezana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemeki"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemeki"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:17.990035794Z",
+  "model": "glm-5.3"
+}

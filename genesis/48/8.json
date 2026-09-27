@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Uye Isuraeri akaona ⟨את⟩ vana vaYosefu, akati: Vanhu ava ndeveani?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Uye akaona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaYosefu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "vaYosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndeveani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Vanhu ava"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:11.600192677Z",
+  "model": "glm-5.3"
+}

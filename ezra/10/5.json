@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ezira akamuka, akaita chitsidzo ⟨את⟩ madzishe aMapuristi, aRevhi, negore raIsraeriOSE kuti vaite semazwi aya; ndokuitawo chitsidzo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "akaita chitsidzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzishe aMapuristi, aRevhi, negore raIsraeri"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "aMapuristi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "aRevhi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "negore"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "raIsraeri"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuti vaite"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "semazwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ndokuitawo chitsidzo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:10:23.978718217Z",
+  "model": "glm-5.3"
+}

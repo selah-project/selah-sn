@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Vose vakawanda vechihama sevamwe mumwe chete: zviuru makumi mana nezviuru zviviri, nazana tatu, namakumi tanhatu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vose"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "vakawanda vechihama"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "sevamwe mumwe chete"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "zviuru gumi (miriyadhi)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nezviuru zviviri"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "makumi tanhatu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:07:51.423354857Z",
+  "model": "glm-5.3"
+}

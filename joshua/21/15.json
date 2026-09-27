@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "naCholoneneznzvimbo yayo yakazaruka, naDhebhirineznzvimbo yayo yakazaruka",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Choloni"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Choloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nzvimbo yayo yakazaruka"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nzvimbo yayo yakazaruka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Dhebhiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dhebhiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nzvimbo yayo yakazaruka"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nzvimbo yayo yakazaruka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:28.936569274Z",
+  "model": "glm-5.3"
+}

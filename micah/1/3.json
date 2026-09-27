@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti tarira, Yahwe anobuda panzvimbo yake, uye achazodzika, uye achafamba pamusoro penzvimbo dzakakwirira dzepasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "anobuda"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "panzvimbo yake"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "achazodzika"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "achafamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "nzvimbo dzakakwirira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dzepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:41.687747024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 5:6",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Mumazuva aShamugari mwanakomana waAnati, mumazuva aYhaeri, nzira huru dzakamira; uye vafambi venzira dzakafamba munzira dzakanyorovera.",
+  "tokens": [
+    {
+      "surface": "בימי",
+      "gloss": "Mumazuva a"
+    },
+    {
+      "surface": "שמגר",
+      "gloss": "Shamugari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana wa"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "Anati"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mumazuva a"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "Yhaeri"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "dzakamira"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "nzira huru"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "uye vafambi ve"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dzakafamba mu"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "עקלקלות",
+      "gloss": "dzakanyorovera"
+    }
+  ],
+  "timestamp": "2026-09-27T06:33:15.142313758Z",
+  "model": "glm-5.3"
+}

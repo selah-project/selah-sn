@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 24:5",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Vakavapatanura ⟨nematombo ekusarudza⟩, rimwe nerimwe, nokuti pavaita vatungamiri veutsvene navatungamiri vaErohimu, vana vaElezara navana vaItamara.",
+  "tokens": [
+    {
+      "surface": "ויחלקום",
+      "gloss": "vakavapatanura"
+    },
+    {
+      "surface": "בגורלות",
+      "gloss": "nematombo ekusarudza"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "pavaita"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vatungamiri ve-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "utsvene"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "navatungamiri va-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "vana va-"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elezara"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "navana va-"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamara"
+    }
+  ],
+  "timestamp": "2026-09-27T10:26:35.636660017Z",
+  "model": "glm-5.3"
+}

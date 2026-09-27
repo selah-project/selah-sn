@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Vanofarira navo vakafadzwa muri imi, vose vanokuwanza; vachataura zvose-zvose kuti Yahwe vanokudzwa, vanoda ruponeso rwenyu.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "vanofarira"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "navo vakafadzwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri imi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "vanokuwanza"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vachataura"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zvose-zvose"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "vanokudzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "vanoda"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ruponeso rwenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:14.041231982Z",
+  "model": "glm-5.3"
+}

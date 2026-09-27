@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Zvino-wo vachatya zvakakwirira, uye zvinotyisa zvichave munzira; uye shukedi richabvutirwa, uye chikurwa richiwandisa, uye kabhari richapera; nokuti munhu anopinda mudzimba rheakazarira, uye vanorwadziwa vachizvitenderera musika.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Zvino-wo"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "zvakakwirira"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vachatya"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "zvinotyisa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "richabvutirwa"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "shukedi"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "richiwandisa"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "chikurwa"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "richapera"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "kabhari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anopinda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mudzimba rhe…"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "yeakazarira"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "vachizvitenderera"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "musika"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "venorwadziwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:32.295948879Z",
+  "model": "glm-5.3"
+}

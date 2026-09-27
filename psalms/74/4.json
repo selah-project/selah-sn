@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Vavengi vako vakapfurira pakati penzvimbo yokusangana yako; vakaisa mazano avo semazano.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "vakapfurira"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "nzvimbo yokusangana yako"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "mazano avo"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "semazano"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.016538783Z",
+  "model": "glm-5.3"
+}

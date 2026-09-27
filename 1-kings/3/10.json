@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye izwi rakafadza maziso emaAdonai, nokuti Shoromoni akakumbira ⟨את⟩ izwi idzwa.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "rakafadza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maziso ema"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "akakumbira"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi idzwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "idzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:21.443708673Z",
+  "model": "glm-5.3"
+}

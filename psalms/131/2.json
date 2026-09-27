@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 131,
+  "translation": "Zvirokwazvo, ndinoita ⟨את⟩ upenyu hwangu kuti hugare nyaradzwa, sokuregerwa kwomwana pamusoro poamai vake; sokuregerwa kunoita upenyu hwangu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨chipfava chekutendera⟩"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndinoita"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "hugare nyaradzwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sokuregerwa kwomwana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusopo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amai vake"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sokuregerwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kunoita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:50.372591037Z",
+  "model": "glm-5.3"
+}

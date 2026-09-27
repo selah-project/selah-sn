@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ivo vanodya nyama yevanhu vangu, vanodyadza ganda ravo pavari, vanopwanya ⟨את⟩ mapfupa avo, uye vanopatsanura seviri mubishi, sevanyama mukati mekirahi.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Ivo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "vanodya"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yevanhu vangu"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "ganda ravo"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "pavari"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "vanodyadza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mapfupa avo"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "mapfupa avo"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "vanopwanya"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "vanopatsanura"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "mubishi"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "sevanyama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kirahi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:37.692200966Z",
+  "model": "glm-5.3"
+}

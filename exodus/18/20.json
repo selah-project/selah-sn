@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye unovayamurira ⟨את⟩ iwo — ⟨את⟩ zvisungo ne⟨את⟩ tora — uye unovazivisa ⟨את⟩ nzira yavanofamba nayo, ne⟨את⟩ basa ravanoita.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Uye unovayamurira"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo (vanhu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvisungo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "zvisungo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "uye unovazivisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yavanofamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ravanoita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:36.389363853Z",
+  "model": "glm-5.3"
+}

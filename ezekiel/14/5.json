@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "kuti ndigate ⟨את⟩ mbaa yevaIsraeri mumoyo yavo, avo vakazvara kubva kwandiri nezvifananidzo zvavo — vose.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ndigate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaa yevaIsraeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mbaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yevaIsraeri"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mumoyo yavo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "vakazvara"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kubva kwandiri"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "nezvifananidzo zvavo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vose"
+    }
+  ],
+  "timestamp": "2026-09-27T08:21:26.417688818Z",
+  "model": "glm-5.3"
+}

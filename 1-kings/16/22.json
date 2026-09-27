@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Asi vanhu vakanga vari mushure mwaOmri vakasimba kupfuura ⟨את⟩ vanhu vakanga vari mushure mwaTibhini mukorwa waGinathi; uye Tibhini akafa, uye Omri akatonga.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "vakasimba kupfuura"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vakanga vari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure mwa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vakanga vari mushure mwaTibhini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vakanga vari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure mwa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibhini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginathi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibhini"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:04.486828910Z",
+  "model": "glm-5.3"
+}

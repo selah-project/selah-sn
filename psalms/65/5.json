@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Mufaro uomunhu waunasarudza, uye waunokurudzira pedyo newe, atogara mumapati ako; tinodzikwa nezvakanaka zveimba yako, itsvene, tempura yako.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mufaro"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "waunasarudza"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "uye waunokurudzira pedyo newe"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "atogara"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "mumapati ako"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "tinodzikwa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nezvakanaka"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "zveimba yako"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "itsvene"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tempura yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:48.064648674Z",
+  "model": "glm-5.3"
+}

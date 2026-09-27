@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Neimbwa idzi dzine shuvu dzakaipa, hadzizivi kukwana; uye iwo ndivo vafudzi, havazivi kunzwisisa; vose vakatendeuka kunzira yavo, mumwe nomumwe kune mubairo wake, mumwe nomumwe.",
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "neimbwa idzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "dzakaipa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "shuvu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "dzizivi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kukwana"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vafudzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vazivi"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kunzwisisa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vose"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "kunzira yavo"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "vakatendeuka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "mubairo wake"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "mumwe nomumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:43.603624476Z",
+  "model": "glm-5.3"
+}

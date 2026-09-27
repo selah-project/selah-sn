@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Dhavhidhi akasanganisa ⟨את⟩ Israeri yose kuYerusharema, kutora ⟨את⟩ Arki yaYahwe kuenda kunzvimbo yayo yaakagadzirira iyo.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "akasanganisa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kuYerusharema"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "kutora kuenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "kunzvimbo yayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "akagadzirira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:22:40.123139134Z",
+  "model": "glm-5.3"
+}

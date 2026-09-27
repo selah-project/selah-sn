@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Zvino ndizvo zvakataurwa naYahwe, anopa nzira mugungwa, negwanza mumvura dzine simba —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "zvino ndizvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mugungwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "nemumvura"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "dzine simba"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "gwanza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:24.546692306Z",
+  "model": "glm-5.3"
+}

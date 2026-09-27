@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Hizikiya namadzishe vakasvika, vakaona ⟨את⟩ matunha, vakaropafadza ⟨את⟩ Yahwe ne⟨את⟩ vanhu vake Israeri.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "namadzishe"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "vakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matunha"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "matunha"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "vakaropafadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanhu vake Israeri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:24:16.545944380Z",
+  "model": "glm-5.3"
+}

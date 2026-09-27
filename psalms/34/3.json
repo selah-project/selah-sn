@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Muna Yahwe upenyu hwangu hunozvikudza; vanodzikama vachanzwa, vachifarawo.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Muna Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "hunozvikudza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "vachanzwa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "vanodzikama"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "vachifarawo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:06.941963469Z",
+  "model": "glm-5.3"
+}

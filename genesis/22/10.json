@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Abhurahama akatyoresa ⟨את⟩ ruoko rwake, akatora ⟨את⟩ banga, kuchapura ⟨את⟩ mwanakomana wake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatyoresa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruko rwake"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banga"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "banga"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "kuchapura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:27.831339951Z",
+  "model": "glm-5.3"
+}

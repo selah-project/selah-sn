@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Chivara chevhu chaunoitira ini; uye unozvipira pamusoro paro ⟨את⟩ zvipirwa zvako zvakapiswa ne⟨את⟩ zvipirwa zvako zverugare, ⟨את⟩ hwayi dzako ne⟨את⟩ mombe dzako. Anzvimbo yose pandinoratidza ⟨את⟩ zita rangu, ndichauya kwauri, ndichakuripafadza.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "chivara"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "chevhu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "chaunoitira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "uye unozvipira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipirwa zvako zvakapiswa"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "zvipirwa zvako zvakapiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvipirwa zvako zverugare"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "zvipirwa zvako zverugare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hwayi dzako"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "hwayi dzako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mombe dzako"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "mombe dzako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Anzvimbo yose"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "pandinoratidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rangu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "zita rangu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndichauya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ndichakuripafadza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:17.399542922Z",
+  "model": "glm-5.3"
+}

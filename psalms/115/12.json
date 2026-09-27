@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Yahwe atativangarira; acharega, acharega mumba yaIsraeri, acharega mumba yaAroni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "atativangarira"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "acharega"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "acharega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "acharega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "yaAroni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:28.588622177Z",
+  "model": "glm-5.3"
+}

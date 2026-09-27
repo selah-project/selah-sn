@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Itirai zvipikwa zvenyu kuna Yahwe Erohimu wenyu, vose vari kumativi ake; vachazounza zvipo kune ⟨Wokutyzwa⟩.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "itirai zvipikwa"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "uye zvizvisvike"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wenyu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "vari kumativi ake"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "vachazounza"
+    },
+    {
+      "surface": "שי",
+      "gloss": "zvipo"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "kune Wokutyzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:41.047296268Z",
+  "model": "glm-5.3"
+}

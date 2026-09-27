@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye mambo wahamba akaenda kuGibhoni kupihira dzibairo ipapo, nokuti iyoyo ndiyo yakanangwa nechiso yokukwirira; churu chedzibairo dzinopihirwa dzakanyangarika Shoromohu akazivirira pamusoro pechiratidzo icho.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "kuGibhoni"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kupihira dzibairo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ndiwo wokukwirira wakakura"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "wakakuru"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "chedzibairo dzinopihirwa dzakanyangarika"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "akazivirira"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "icho"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:03.959351698Z",
+  "model": "glm-5.3"
+}

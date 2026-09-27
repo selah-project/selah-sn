@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Uye vakatura ropa risinganonhongi, ropa revanakomana navo nevanasikana navo, avo vakabayira kumifananidzo yaKenani; nyika yakazarira neropa.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "vakatura"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "risinganonhongi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "revanakomana navo"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "nevanasikana navo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "vakabayira"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "kumifananidzo ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "yakazarira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "neropa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:26.706866819Z",
+  "model": "glm-5.3"
+}

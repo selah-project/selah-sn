@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye kubva ipapo ndakauya kuna Parwo kuti nditaure nezvezita rako, akaita zvakaipa vanhu ivava, asi haukununi ⟨את⟩ vanhu vako.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "uye kubva ipapo"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndakauya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parwo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuti nditaure"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nezvezita rako"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "akaita zvakaipa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ivava"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "kunununura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi hau-"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "-kununi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:08.341413560Z",
+  "model": "glm-5.3"
+}

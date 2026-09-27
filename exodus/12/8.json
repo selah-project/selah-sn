@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye vachadya ⟨את⟩ nyama muusiku uno, yakazingiwa nomoto, nomikate isina chivurugwo; nemiriro yakukurumidza vachaidya.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Uye vachadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "muusiku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "yakazingiwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "nomikate isina chivurugwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "miriro yakukurumidza"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "vachaidya"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:54.149506483Z",
+  "model": "glm-5.3"
+}

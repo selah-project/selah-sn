@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Akapinda pachake, achabuda pachake; kana ave murume wemukadzi, mukadzi wake achabuda naye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "pachake"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "pachake"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "achabuda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "murume"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wemukadzi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ave"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "achabuda"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:08.675186555Z",
+  "model": "glm-5.3"
+}

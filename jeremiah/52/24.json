@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Uye mukuru wevanouraya akatora ⟨את⟩ Sheria, mutemberi mukuru, uye ⟨את⟩ Tsefania, mutemberi wechipiri, uye ⟨את⟩ vatatu vagadziri vechiteso.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wevanouraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheria"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Sheria"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mutemberi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefania"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefania"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mutemberi"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "wechipiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vatatu vagadziri vechiteso"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "vatatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vagadziri"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "vechiteso"
+    }
+  ],
+  "timestamp": "2026-09-27T08:14:16.048712053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Nokuti Yahwe akaona ⟨את⟩ kutambudzika kweIsiraeri — kunorwadza zvikuru; uye hapana atoreswa, uye hapana wasarudzwa, uye hapana mubatsiri weIsiraeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutambudzika kweIsiraeri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kutambudzika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kweIsiraeri"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "kunorwadza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "atureswa"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "wasarudzwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mubatsiri"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "weIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:37.342937536Z",
+  "model": "glm-5.3"
+}

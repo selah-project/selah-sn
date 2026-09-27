@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Solomoni akatanga kuvaka ⟨את⟩ imba yaYahwe muJerusarema, pagomo reMoria, rakazoonekwa kunaDhavhidhi baba vake, panzvimbo yaDhavhidhi akagadzirira, pagwanza raAranan muYebhusi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "akatanga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomoni"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muJerusarema"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pagomo"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "reMoria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "rakazoonekwa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kunaDhavhidhi"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "akagadzirira"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "pagwanza"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "raAranan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "muYebhusi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:15.745358975Z",
+  "model": "glm-5.3"
+}

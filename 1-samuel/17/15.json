@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Dhavhidhiwo aifamba netsva adzoka kuna Shauru, kuzofudza ⟨את⟩ vafu yababa vake muna Bheti-rerema.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dhavhidhiwo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "aifamba netsva"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "adzoka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kuzofudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vafu yababa vake"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "vafu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yababa vake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bheti-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "rerema"
+    }
+  ],
+  "timestamp": "2026-09-27T10:57:19.308262978Z",
+  "model": "glm-5.3"
+}

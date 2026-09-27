@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Yaive yakamaringa; vakaita ⟨את⟩ Hosheni chinofoldhwa-kaviri: hurefu hwacho zana, upamhi hwacho zana, chinofoldhwa kaviri.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "yakamaringa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "chinofoldhwa-kaviri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hosheni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hosheni"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "zana"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "hurefu hwacho"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "nezana"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upamhi hwacho"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "chinofoldhwa kaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:05.381696047Z",
+  "model": "glm-5.3"
+}

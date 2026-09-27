@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Nhasi muri kubuda, mumwedzi waAbhibhi.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Nhasi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "muri"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "kubuda"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mumedzi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "waAbhibhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:10.296008230Z",
+  "model": "glm-5.3"
+}

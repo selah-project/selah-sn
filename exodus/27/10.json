@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Nemidziyo yayo makumi maviri, nemadzano ayo makumi maviri, echingi; vozvo zvidyo zvemidziyo nezvisungo zvayo zviriri sirivha.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "nemidziyo yayo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "nemadzano ayo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "echingi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": ""
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "zemidziyo"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "nezvisungo zvayo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:01.517260822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 14:1",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye idzi ndidzo nhaka dzakagarwa navana vaIsiraeri munyika yeKenani, idzo Erezara mutendi mukuru nehosi Yehoshua mukomana waNoni, nevatanzi vemadziro emamazita emiteve yavana vaIsraeri, vakagova kuvanhu ivaya.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Uye idzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "idzo"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "dzakagarwa navo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yeKenani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "idzo"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "vakagova"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuvanhu ivaya"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erezara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mutendi mukuru"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "nehosi Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "נון",
+      "gloss": "waNoni"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "nevatanzi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "vemadziro emamazita"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "emiteve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yavana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:27:08.896961641Z",
+  "model": "glm-5.3"
+}

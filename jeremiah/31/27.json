@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Tarisa, mazuva anouya, ndoreva Yahwe, ndichadyara ⟨את⟩ imba yaIsraeri nomuno ⟨את⟩ imba yaYudha, mbeu dzevanhu nembeu dzezvipfuyo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "באים",
+      "gloss": "anouya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndoreva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "ndichadyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaIsraeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nomuno ⟨את⟩",
+      "marks": "imba yaYudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaYudha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dzevanhu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "nembeu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dzezvipfuyo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:02:55.183084281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Izwi reBeliaru rinodururirwa paari; uye iye akarara haazowedzera kumuka.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "reBeliaru"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "rinodururirwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "akarara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "zowedzera"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kumuka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:28.373239909Z",
+  "model": "glm-5.3"
+}

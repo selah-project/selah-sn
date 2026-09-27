@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ndikazadza ⟨את⟩ iye Mweya waErohimu, nehungwaru, nevoenzaniso, nenzvokufamba, neguva rose mabasa.",
+  "tokens": [
+    {
+      "surface": "וָאֲמַלֵּא",
+      "gloss": "ndikazadza"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Betsareli)"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "בְּחָכְמָה",
+      "gloss": "nehungwaru"
+    },
+    {
+      "surface": "וּבִתְבוּנָה",
+      "gloss": "nevoenzaniso"
+    },
+    {
+      "surface": "וּבְדַּעַת",
+      "gloss": "nenzvokufamba"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "neguva rose"
+    },
+    {
+      "surface": "מְלָאכָה",
+      "gloss": "mabasa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:21.154621962Z",
+  "model": "glm-5.3"
+}

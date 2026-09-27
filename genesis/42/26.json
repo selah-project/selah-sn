@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Vakatakura ⟨את⟩ ngano yavo pamabhurumadhongi avo, vakabva munzvimbo iyoyo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "vakatakura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngano yavo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ngano yavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "mabhurumadhongi avo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakabva"
+    },
+    {
+      "surface": "משם",
+      "gloss": "munzvimbo iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:23.065414867Z",
+  "model": "glm-5.3"
+}

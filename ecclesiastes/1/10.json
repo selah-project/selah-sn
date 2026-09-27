@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kune chinhu chinogonwa kutaurwa: Ona izvi, chitsva! zvaripo kare, kare kwazvo, zvanga zviri zvitango tiri isu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kune"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "chinogonwa kutaurwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "chitsva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chil"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kare"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvaripo"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "kare kwazvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvanga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "zvitango tiri isu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:42.449396022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Akauyira kunaHagara, akaitevera; akaoona kuti akaitevera, tenzi wake wakadzikisirwa mumaso ake.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akauyira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagara"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akaitevera"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "akaoona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "akaitevera"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "wakadzikisirwa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "tenzi wake"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "mumaso ake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:53.069709029Z",
+  "model": "glm-5.3"
+}

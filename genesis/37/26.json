@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Vakati Yhuda kune vakomana vake: Chii chubiko tichauraya ⟨את⟩ mukoma wedu tobika nyorenyore ⟨את⟩ damo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yhuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vakomana vake"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "chubiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "tichauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wedu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mukoma wedu"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "tobika nyorenyore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "damo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:31.432536275Z",
+  "model": "glm-5.3"
+}

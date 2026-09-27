@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvirokwazvo, ngavakurise ⟨את⟩ vana vavo, ndinovasiya vasingasara munhu; zvirokwazvo, wo kwavari, pandichatsauka kwavari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngava-"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "kurise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vavo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "vana vavo"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ndinovasiya vasingasara"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wo kwavari"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "pandichatsauka"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:15.135556379Z",
+  "model": "glm-5.3"
+}

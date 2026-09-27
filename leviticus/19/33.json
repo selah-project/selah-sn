@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye kana mueni agara ⟨אתך⟩ newe munyika yenyu, musamureza ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "agara"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩ newe"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mueni"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "munyika yenyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musaita"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "mureze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (mueni)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:40.179041620Z",
+  "model": "glm-5.3"
+}

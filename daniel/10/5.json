@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ndakasimudza ⟨את⟩ maziso angu ndakaona, ndipo tarisa: mumwe murume akapfeka zvipfeko zvebadhi, netwumba dzake dzakasungwa nendarama yeUfazi.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Ndakasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso angu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ndakaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndipo tarisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "akapfeka"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "zvipfeko zvebadhi"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "netwumba dzake"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "dzakasungwa"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "nendarama"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "yeUfazi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:05:19.099394510Z",
+  "model": "glm-5.3"
+}

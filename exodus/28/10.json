@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Nomwe emazita avo pamabwe ⟨the⟩ rimwe, uye ⟨את⟩ mazita anosara nomwe pamabwe ⟨the⟩ chechipiri, sezvakazvarwa.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "emazita avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mazita anosara nomwe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mazita"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "anosara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "chechipiri"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "sezvakazvarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:25.917939764Z",
+  "model": "glm-5.3"
+}

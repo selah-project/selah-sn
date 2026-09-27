@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 78:38",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Iye ngaanzwira tsitsi, anorevera ⟨את⟩ mhosva, uye haazviparadza; akawanda kudzorera kutsamwa kwake, uye haamutsiri hasha yake yose.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ngaanzwira tsitsi"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "anorevera"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "paradza"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "akawanda"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kudzorera"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kutsamwa kwake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "mutsiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "hasha yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:37.359016570Z",
+  "model": "glm-5.3"
+}

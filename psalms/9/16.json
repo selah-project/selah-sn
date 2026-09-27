@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Marudzi akanyura muchidimbwi vakaita; musambi vakavanza, mutsi tsoka yavo yakabatwa.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "akanyura"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Marudzi"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "muchidimbwi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "musambi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iri"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "vakavanza"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "yakabatwa"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "tsoka yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:50.900341895Z",
+  "model": "glm-5.3"
+}

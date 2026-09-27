@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Anonyura pamusoro pevaipi mitezo, moto negafurita; nomhepo inopisa ndiyo chikamu chomukombe wavo.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "anonyura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vaipi"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "mitezo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "negafurita"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "nomhepo"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "inopisa"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "chomukombe wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:36.571599147Z",
+  "model": "glm-5.3"
+}

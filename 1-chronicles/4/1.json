@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vana vaYhudha: Peretsi, Chetsironi, uye Karmi, uye Huru, uye Shobharu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Vana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYhudha"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsi"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsironi"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "uye Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "uye Huru"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "uye Shobharu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:06.342059012Z",
+  "model": "glm-5.3"
+}

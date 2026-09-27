@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Huru akabereka ⟨את⟩ Uri; uye Uri akabereka ⟨את⟩ Betsare.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Uye Huru"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "uye Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsare"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsare"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:58.897908153Z",
+  "model": "glm-5.3"
+}

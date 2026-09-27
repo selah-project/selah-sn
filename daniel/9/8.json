@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe, kwedu ndiko nyadzo yechiso — kumadzimambo edu, kumadzishe edu, nadzibaba vedu — nokuti tatadza kwamuri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwedu"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "nyadzo"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "yechiso"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "kumadzimambo edu"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "kumadzishe edu"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "nadzibaba vedu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "tatadza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:04:33.135943553Z",
+  "model": "glm-5.3"
+}

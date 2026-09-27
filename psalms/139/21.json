@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Handisi here, Yahwe, kuvavenga avo vanokuvenga? Ndavavenga; uye navo vakusimuka kwako ndinokakavadzana.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "handisi here"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "avo vanokuvenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "ndavavenga"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "navo vakusimuka kwako"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "ndinokakavadzana"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:45.546196395Z",
+  "model": "glm-5.3"
+}

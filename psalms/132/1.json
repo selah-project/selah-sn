@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Nziyo dzokukwira. Yahwe, rangarira Dhavhidhi, ⟨את⟩ kutambudzika kwake kwose.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dzokukwira"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "rangarira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutambudzika kwake kwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwose"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "kutambudzika kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:24.561319883Z",
+  "model": "glm-5.3"
+}

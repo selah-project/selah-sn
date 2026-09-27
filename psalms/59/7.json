@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Vanodzoka manhererwo, vanoridza mhirizhonga sembwa, uye vanozvitenderera muguta.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "vanodzoka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "manhererwo"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "vanoridza mhirizhonga"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sembwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "vinozvitenderera"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "muguta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:00.755966537Z",
+  "model": "glm-5.3"
+}

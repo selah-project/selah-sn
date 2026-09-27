@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 49:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Zvichiri, vana vako ekufirwa vachati munzeve dzako kuti: 'Nzvimbo yakandikweshawira — ndipai nzvimbo ndigare.'",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "zvichiri"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vachati"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "munzeve dzako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "שכליך",
+      "gloss": "vako ekufirwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "yakandikweshawira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "ndipai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ndigare"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:26.622197187Z",
+  "model": "glm-5.3"
+}

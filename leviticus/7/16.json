@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye kana chishandiswa chakanaka chekupa kwake chiri chitsivo kana chishandiswa chine mwoyo wakanaka, muzuva rwekupa ⟨את⟩ chishandiswa chakanaka chake chichafungidzirwa; uye muzuva rwechapera, nezvasara nazvo chichafungidzirwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "chitsivo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "chishandiswa chine mwoyo wakanaka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chishandiswa chakanaka"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "chekupa kwake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "rwekupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chishandiswa chakanaka chake"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "chishandiswa chakanaka chake"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "chichafungidzirwa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "uye muzuva rwechapera"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "nezvasara"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nazvo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "chichafungidzirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:54.608182838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "malachi 2:15",
+  "book": "malachi",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Haana kuita mumwe chete here, nokuti vaiva nomusara waMweya? Nokuti mumwe woye anotsvaga chii? Mbeu yaErohimu. Saka chengetai mumweya wenyu, nomukadzi wekutanga kwako murege kunyengedza.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "uye musara"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "waMweya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "waari"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "anotsvaga"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "chengetai"
+    },
+    {
+      "surface": "ברוחכם",
+      "gloss": "mumweya wenyu"
+    },
+    {
+      "surface": "ובאשת",
+      "gloss": "nomukadzi"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "wekutanga kwako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "regai"
+    },
+    {
+      "surface": "יבגד",
+      "gloss": "kunyengedza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:26.586345509Z",
+  "model": "glm-5.3"
+}

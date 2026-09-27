@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Ani munganhaka? Iye ngaanzvizive. Ani ane chidzidzo? Iye ngaazvizive; nokuti nzira dzaYahwe ndedzakatwasuka, uye vakatwasuka vanozvifamba mazvi; asi vanyengedzi vanorwara mazvi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "munganhaka?"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "Iye ngaanzvizive"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ane chidzidzo"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "ngaazvizive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "dzakatwasuka"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקים",
+      "gloss": "uye vakatwasuka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vanozvifamba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mazvi"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "asi vanyengedzi"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "vanorwara"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mazvi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:03.258730695Z",
+  "model": "glm-5.3"
+}

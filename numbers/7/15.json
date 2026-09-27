@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Mombe imwe yomunyanga, hwai mukono imwe, hwayi imwe yomwaka umwe, sechipiriso chinopiswa.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨yomunyanga⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "yomunyanga"
+    },
+    {
+      "surface": "איל",
+      "gloss": "hwai mukono"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "hwayi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨yomwaka⟩"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "yomwaka umwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "sechipiriso chinopiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:41.748871983Z",
+  "model": "glm-5.3"
+}

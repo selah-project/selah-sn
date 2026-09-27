@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Chete kuna Erohimu mweya wangu, ngaurambe achinyarara; nokuti kwaari ndiko kunobva tariro yangu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ngaurambe achinyarara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tariro yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:36.936346112Z",
+  "model": "glm-5.3"
+}

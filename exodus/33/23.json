@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "ndichabvisa ⟨את⟩ ruoko rwangu, uchaona ⟨את⟩ shure kwangu; asi chiso changu hachionwi.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ndichabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "uchaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shure kwangu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwangu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hachina"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kuonekwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:15.947152173Z",
+  "model": "glm-5.3"
+}

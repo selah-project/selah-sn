@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Kune mutungamiri; chidzidzo chevana vaKorachi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiriri"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "chidzidzo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "chevana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "vaKorachi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:08.065498846Z",
+  "model": "glm-5.3"
+}

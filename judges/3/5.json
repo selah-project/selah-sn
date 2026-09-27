@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Novana vaIsirairi vakagara mukati meKenani, Hitite, Emori, Perizi, Hivi neYebhusite.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "novana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirairi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitite"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebhusite"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:29.505932075Z",
+  "model": "glm-5.3"
+}

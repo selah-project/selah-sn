@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndiye akatsika kudhawa, akaita zvose zvaitaurwa nambuya wake.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "akatsika"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "kudhawa"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvai"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "zvaitaurwa"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "nambuya wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:48:41.618292488Z",
+  "model": "glm-5.3"
+}

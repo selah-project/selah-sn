@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Ropafadzwa Yahwe, Erohimu yaIsraeri, kuburikidza nokusingaperi kusvika nokusingaperi. Amen, Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ropafadzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "kuburikidza nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:50.817841885Z",
+  "model": "glm-5.3"
+}

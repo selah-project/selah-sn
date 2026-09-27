@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Panguva iyoyo Shoromoh akati: Yahwe akati ⟨akada⟩ kugara murima.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Panguva iyoyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "murima"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:49.500151364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye muchengetedze-vasheni musatambudze; imi moziva ⟨את⟩ moyo wemuchengetedze-musheni, nokuti vaive vasheni munyika yeMuitiri.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Uye muchengetedze-musheni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musatambudze"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "musatambudze"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "moziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wemuchengetedze-musheni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wemuchengetedze-musheni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vasheni"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "vaive"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMuitiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:44.779320224Z",
+  "model": "glm-5.3"
+}

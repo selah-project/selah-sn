@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Nokuti muromo womunhuwoipa nomuromo wemanyepere pavakazaruja pandiri; vakataura ⟨neni⟩ nerurimi rweunyepi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "womunhuwoipa"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "nomuromo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wemanyepere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "pavakazaruja"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ neni",
+      "marks": "neni"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nerurimi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "rweunyepi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:22.980303409Z",
+  "model": "glm-5.3"
+}

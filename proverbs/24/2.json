@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Nokuti moyo wavo unofunga kuvhurisa, uye miromo yavo inotaura njodzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "שד",
+      "gloss": "kuvhurisa"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "unofunga"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wavo"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "uye njodzi"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "miromo yavo"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "inotaura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:48.409570493Z",
+  "model": "glm-5.3"
+}

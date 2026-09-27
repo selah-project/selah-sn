@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Uye bvisa mkanda, uye vala nzira yavatinyeri vangu; taura kuMweya wangu kuti: Ndiye ruponeso rwako.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "bvisa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "mkanda"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "vala nzira"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "yavatinyeri"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "vatinyeri vangu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "taura"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kuMweya wangu"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "ruponeso rwako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiye"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:12.409596790Z",
+  "model": "glm-5.3"
+}

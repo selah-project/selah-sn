@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye mubatanidzwa wematunhu ungakuchenzeze; uye pamusoro paro dzokera ⟨kumusoro⟩.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "uye mubatanidzwa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "wematunhu"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ungakuchenzeze"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "uye pamusoro paro"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "dzokera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:28.099139445Z",
+  "model": "glm-5.3"
+}

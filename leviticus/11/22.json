@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "⟨את⟩ idzi dzawo tongodya: ⟨את⟩ Haarave nomudziwo waro, uye ⟨את⟩ Sareamu nomudziwo waro, uye ⟨את⟩ Hargoru nomudziwo waro, uye ⟨את⟩ Hagavu nomudziwo waro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idzi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dzawo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tongodya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haarave"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "Haarave"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "nomudziwo waro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Sareamu"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "Sareamu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nomudziwo waro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Hargoru"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "Hargoru"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nomudziwo waro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Hagavu"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "Hagavu"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nomudziwo waro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:33.274378366Z",
+  "model": "glm-5.3"
+}

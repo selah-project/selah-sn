@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Akatora ⟨את⟩ Yerusaremu yose vatapwa, ne⟨את⟩ madzimambo ose, ne⟨את⟩ masimba ose ehondo — gumi rezviuru vatapwa — nevashandi vose nevamhizha; hakuna kusara, kunze kwevanhu varombo venyika.",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "akatora-vatapwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusaremu yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusaremu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzimambo ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "masimba ose ehondo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "masimba"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ehondo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rezviuru"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "vatapwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "vashandi"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "nevamhizha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "kusara"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "kunze kwe"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "varombo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "venvanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:26.200543867Z",
+  "model": "glm-5.3"
+}

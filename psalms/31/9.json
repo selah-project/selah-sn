@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Uye hauna kundisungirira mumaoko muvengi; wakamisa tsoka dzangu panzvimbo yakakura.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye hauna"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "kundisungirira"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "wakamisa"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "panzvimbo yakakura"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "tsoka dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:54.924712301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Simba remabasa ake akazivisa kuvanhu vake, pakupa kuvavo nhaka yematunhu.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "simba"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "remabasa ake"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kuvanhu vake"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pakupa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "nhaka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "yematunhu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:55.560226063Z",
+  "model": "glm-5.3"
+}

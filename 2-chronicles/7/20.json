@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 7:20",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "ndichavadzinura kubva pamivhu yangu ya{{ndakapa}} kuvawo, uye ⟨את⟩ imba iyi yandakaita tsvene zita rangu, ndichaita kubva pachiso changu; ndichaiita chirevo netsvero pakati pemarudzi ose.",
+  "tokens": [
+    {
+      "surface": "ונתשתים",
+      "gloss": "ndichavadzinura"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa-"
+    },
+    {
+      "surface": "אדמתי",
+      "gloss": "mivhu yangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba iyi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "ndakaita tsvene"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "zita rangu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "ואתננו",
+      "gloss": "ndichaiita"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "chirevo"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "netsvero"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pakati pe-"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "marudzi ose"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:00.767368355Z",
+  "model": "glm-5.3"
+}

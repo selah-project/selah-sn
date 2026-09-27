@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 98,
+  "translation": "Mizimori. Imburai kuna Yahwe dzinwa idzva, nokuti akaita zvinoshamisa; yakamudzikinura ruoko rwake rwerudyi ⟨neli⟩⟨no⟩ ruoko rwake rutsvene.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizimori"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Imburai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "dzinwa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "idzva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zvinoshamisa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "yakamudzikinura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kuna iye⟩"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ruoko rwake rwerudyi"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "neruoko"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rwake rutsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:21.068616657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 108,
+  "translation": "Hauna here tisina kusarudza, iwe Erohimu? Uye hauburuki, iwe Erohimu, nemauto edu!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hauna here"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "tisina kusarudza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hauburuki"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "hauburuki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "nemauto edu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:33.220731573Z",
+  "model": "glm-5.3"
+}

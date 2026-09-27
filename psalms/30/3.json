@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Yahwe Erohimu wangu, ndakadana kwauri, iwe wakandiporesa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ndakadana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "wakandiporesa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:56.329099476Z",
+  "model": "glm-5.3"
+}

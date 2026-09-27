@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Vakamukakavadza vavanuna vake; asi baba vake vakachengeta ⟨את⟩ izwi iri.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "vakamukakavadza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vavanuna vake"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vakachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi iri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:10.564491279Z",
+  "model": "glm-5.3"
+}

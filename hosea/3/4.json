@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti vana vaIsraeri vachagara mazuva mazhinji pasina mambo, pasina mutungamiri, pasina chibairo, pasina matseva, pasina efodhi, pasina terafimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vachagara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "matseva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodhi"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "pasina terafimu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:39.703013262Z",
+  "model": "glm-5.3"
+}

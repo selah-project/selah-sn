@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Nyevero yaMoshe, munhu waErohimu. Adonai, unogara wavakutibasa ⟨⟩ mudzi wekugara kwedu, mumhuri nomumhuri.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Nyevero"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "yaMoshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mudzi wekugara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wakanga uri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwedu"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "mumhuri imwe"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nomumhuri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:58.152008691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Makwayi nendzoma zvose, uye nemhuka dzesango dzose.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "makwayi"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "nendzoma"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye ne"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mhuka"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dzesango"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:23.908404176Z",
+  "model": "glm-5.3"
+}

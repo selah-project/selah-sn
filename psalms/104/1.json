@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Ropafadza Yahwe, imwe mweya yangu; Yahwe, Erohimu yangu, wakakura zvikuru; wakapfekedza ⟨את⟩ ukuru nehukudzi.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Ropafadza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu yangu"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "wakakura"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ukuru"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nehukudzi"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "wakapfekedza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:50.380852850Z",
+  "model": "glm-5.3"
+}

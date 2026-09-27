@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye ndinodzikisira ⟨את⟩ dzinza raDhavhidhi nokuda kweizvi, asi kwete mazuva ose.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ndinodzikisira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzinza raDhavhidhi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dzinza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "raDhavhidhi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:44.442835771Z",
+  "model": "glm-5.3"
+}

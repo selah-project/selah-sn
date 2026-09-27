@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 6:4",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Nzvimbo dzokupira dzako dzichaparadzwa, mifananidzo yako yechiedza ichaputswa, ndichakanda vakafa vako pachiso chemifananidzo yako.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "dzichaparadzwa"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "nzvimbo dzokupira dzako"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ichaputswa"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "mifananidzo yako yechiedza"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "ndichakanda"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "vakafa vako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "mifananidzo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:17:08.717242690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Munhu waErohimu akati: Rakadonhipi? Akamuratidza ⟨את⟩ nzvimbo iyo, akadimba danda, akarishisa ipapo, uye akayuyurutsa simbi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Rakadonhipi?"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "rakadonha"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "akamuratidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo iyo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nzvimbo iyo"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "akadimba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "danda"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "akarishisa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "akayuyurutsa"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "simbi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:21.443119499Z",
+  "model": "glm-5.3"
+}

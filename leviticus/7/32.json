@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye ⟨את⟩ gumbo rokurudyi muchapa semupiro kumupristi, kubva muzvibairo zveShelami zvenyu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gumbo rokurudyi"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "gumbo"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "rokurudyi"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "muchapa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "semupiro"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kumupristi"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "kubva muzvibairo"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "zveShelami zvenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:57.186062405Z",
+  "model": "glm-5.3"
+}

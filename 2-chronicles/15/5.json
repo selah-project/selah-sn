@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 15:5",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye menguva idzo hapana runyararo kune anobuda kana kune anopinda, nokuti mhirizhonga makuru aiva pavagari venyika dzose.",
+  "tokens": [
+    {
+      "surface": "ובעתים",
+      "gloss": "menguva"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "idzo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "ליוצא",
+      "gloss": "kune anobuda"
+    },
+    {
+      "surface": "ולבא",
+      "gloss": "nokune anopinda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מהומת",
+      "gloss": "mhirizhonga"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "venyika dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T11:23:53.758865294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 143,
+  "translation": "Uye usapinde mumutongo na⟨את⟩ muranda wako, nokuti hapana anotsveneka pamberi pako, mupenyu wose.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Uye usa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "pinda"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mumutongo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muranda wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "anotsveneka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:07.860643035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ukarima ⟨את⟩ ivhu, harichazowedzera kukupa simba raro kwauri; uchava munharingi nomutambiri munyika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uka"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "rima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivhu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hari-"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "-chazowedzera"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kukupa"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "simba raro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "נע",
+      "gloss": "munharingi"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "nomutambiri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uchava"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:17.397670309Z",
+  "model": "glm-5.3"
+}

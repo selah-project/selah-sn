@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye Vafirisitri vakatora ⟨את⟩ chavara chaErohimu, vakachiisa kubva kuEbhene-Ezeri kuenda kuAshidhodha.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Uye Vafirisitri"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chavara"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chavara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "chaErohimu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "vakachiisa"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "kubva kuEbhene-Ezeri"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ebhene-Ezeri"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "kuenda kuAshidhodha"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:32.699825856Z",
+  "model": "glm-5.3"
+}

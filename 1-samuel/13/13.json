@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 13:13",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Shamuyeri akati kuna Shauro: Waita upuzi; hawaiti chengetedza ⟨את⟩ murairo waYahwe Erohimu wako, wakakurayira; nokuti izvino Yahwe akadai agadzikirira ⟨את⟩ humambo hwako pamusoro peIsraeri kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuyeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "waita upuzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "-waiti chengetedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murairo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "murairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wakamurayira iyoyo"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "wakakurayira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izvino"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "akadai agadzikirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "humambo hwako"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "humambo hwako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:47.202666954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Musave semhete kana semhuredzu, ⟨isina⟩ kuziva; mudembo nemutambo, zvishongedzo zvayo, kudzora ⟨kuti⟩ isakufambira pedyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musave"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "muve"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "semhete"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "semhuredzu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "mudembo"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "nemutambo"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "zvishongedzo zvayo"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "kudzora"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kuti…isa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kuuya pedyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:43.622410667Z",
+  "model": "glm-5.3"
+}

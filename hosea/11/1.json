@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Israeri raive mwana ndokuti ndakamuda, uye ndakadana mwana wangu kubva muIgibhita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ndakamuda"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "kubva muIgibhita"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndakadana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mwana wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:43.589989025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Zvakadaro Yahwe akati: Mukagona kudimbura sungano yangu youswa nemukagona kudimbura sungano yangu yerusikati, kuita kuti maswa nemasikati asazove nenguva yavo —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Mukagona"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "kudimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu youswa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "youswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu yurusikati"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yurusikati"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "kuita kuti... asazove"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kuve"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "maswa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nemasikati"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "nenguva yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:04:40.435547058Z",
+  "model": "glm-5.3"
+}

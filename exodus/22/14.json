@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana muzvina wake ari naye, haabhadhari; kana chiri chinhu chakarehwa, chakauya nomubhadharo waro.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "muzvina wake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ari naye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bhadhari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "chinhu chakarehwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chiri"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chakauya"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "nomubhadharo waro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:50.102433432Z",
+  "model": "glm-5.3"
+}

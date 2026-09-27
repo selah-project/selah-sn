@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye iwe unga dzoka, unoteerera izwi raYahwe, uye unoita ⟨את⟩ mirairo yake yose iwe ndinokuraira nhasi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "uye iwe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "unga dzoka"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "unoteerera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yake yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mirairo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndinokuraira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:33.400633219Z",
+  "model": "glm-5.3"
+}

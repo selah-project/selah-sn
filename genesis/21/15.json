@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Mvura yakapera mugodzi, wokakanda ⟨את⟩ mwanakomana pasi pemumwe wemitshiga.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "yakapera"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "godzi"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "wokakanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "wemitshiga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:10.676113889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Usaite mufananidzo wakavekwa kwauri, kana mufananidzo wacho chero chiumbwa chiri kumatenga kumusoro, kana chiri munyika pano pasi, kana chiri mumvura pasi penyika.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aite"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "mufananidzo wakavekwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kana chero"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "mufananidzo wacho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chiumbwa chiri"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kumatenga"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kana chiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pano pasi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kana chiri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "penyika"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:19.878430656Z",
+  "model": "glm-5.3"
+}

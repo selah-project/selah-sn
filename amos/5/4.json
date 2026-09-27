@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti zvakadaro Yahwe akataura kumba yaIsraeri, achiti: Ndivhinyei, mova munombohupenyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "Ndivhinyei"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "mova munombohupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:42.313324343Z",
+  "model": "glm-5.3"
+}

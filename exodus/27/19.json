@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Zvose zvombo zveMishikani, mune yese basa raro, nemitsetse yaro yose, nemitsetse yechivanze yose — mhangura.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvombo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "zveMishikani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mune yese"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "basa raro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "mitsetse yaro yose"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mitsetse"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "yechivanze"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mhangura yose"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:25.494519970Z",
+  "model": "glm-5.3"
+}

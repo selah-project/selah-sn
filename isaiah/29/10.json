@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Nokuti Yahwe wakakunhurira Mweya wekurotoroka, wakavhara ⟨את⟩ maziso enyu — ⟨את⟩ maporofita — uye ⟨את⟩ misoro yenyu, vavhoni, wakazvifukidza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wakakunhurira"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro-penyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "wekurotoroka"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "wakavhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso enyu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maziso-enyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maporofita"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "maporofita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "misoro yenyu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "misoro-yenyu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "vavhoni"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "wakazvifukidza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:21.530681952Z",
+  "model": "glm-5.3"
+}

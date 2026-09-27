@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 133,
+  "translation": "Nziyo dzokukwira, yaDhavhidhi. Ona, zvakanyanya kunaka uye zvakanyanya kufadza, madzibaba kugara pamwe chete!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dzokukwira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kunaka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "uye zvakanyanya"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kufadza"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "madzibaba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pamwe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "chete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:28.157256185Z",
+  "model": "glm-5.3"
+}

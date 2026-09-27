@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Nokuti vasheni vakamuka pandiri, uye vapambi vakatsvaga upenyu hwangu; havana kuisa Erohimu pamberi pawo. Serah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vasheni"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "uye vapambi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "vakatsvaga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kuisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "pamberi pawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Serah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:34.842770536Z",
+  "model": "glm-5.3"
+}

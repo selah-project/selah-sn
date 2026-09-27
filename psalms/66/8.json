@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Ropafadzai, imi vanhu, Erohimu wedu; uye itizve kuti izwi rerumbidzo rake rinzwike.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Ropafadzai"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "imi vanhu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "uye itizve kuti...rinzwike"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rerumbidzo rake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:34.137555674Z",
+  "model": "glm-5.3"
+}

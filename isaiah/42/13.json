@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yahwe achabuda semurwi, semunhu wehondo achamutsa shuwa; achachemedza, zvino achapurura; pamusoro pevavengi vake achazvisimba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "semurwi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "achabuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "semunhu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wehondo"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "achamutsa"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "shuwa"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "achachemedza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "achapurura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vavengi vake"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "achazvisimba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:57.028225108Z",
+  "model": "glm-5.3"
+}

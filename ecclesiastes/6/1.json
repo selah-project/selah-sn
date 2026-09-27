@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Pane chakaipa iyo ndakaiona pasi pezuva, uye ihombarume pamusoro pemunhu.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Pane"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨iyo⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndakaiona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "uye ihombarume"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨pe⟩munhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:38.139701885Z",
+  "model": "glm-5.3"
+}

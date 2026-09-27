@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mose akatora ⟨את⟩ mafuta ekuzodza, akaona ⟨את⟩ Mishikani ne⟨את⟩ zvese zvirimo, akazvitsvenetsa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ekuzodza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ekuzodza"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "akazodza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvese zvirimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvi-"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ririmo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "akatsvenetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izvo (Mishikani nezvese zvirimo)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:21.252790797Z",
+  "model": "glm-5.3"
+}

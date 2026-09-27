@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Kana mazuva ake akatarwa, huwandu hwemwedzi yake hwuri ⟨את⟩ kwauri, muganhu wake waita, uye haugoni kudarika;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "akatarwa"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mazuva ake"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "huwandu"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "hwemwedzi yake"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kwauri",
+      "marks": "huwandu hwemwedzi yake"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "muganhu wake"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haugoni"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "kudarika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:39.612245908Z",
+  "model": "glm-5.3"
+}

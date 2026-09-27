@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Kubva panzvimbo yekugara kwake, akatarisa vose vagari venyika.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "kubva panzvimbo yekugara"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "akatarisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kune⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:05.746682235Z",
+  "model": "glm-5.3"
+}

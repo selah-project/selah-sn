@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "“Zvino ndinokumbira chikumbiro chimwe chete ⟨את⟩ kwauri; usandishandise ⟨את⟩ chiso changu.” Iye ndokutaura naye, “Taura.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "chikumbiro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chimwe chete"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndinokumbira"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ndinokumbira"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kwauri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "-shandise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso changu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "iye ndokutaura naye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:06.295578651Z",
+  "model": "glm-5.3"
+}

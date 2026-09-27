@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye Yahwe akatuma mune vanhu ⟨את⟩ shato dzinopisa, dzikachuma vanhu; uye huwandu hukuru hwevanhu veIsraeri hwakafa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mune vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shato dzinopisa"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "shato"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "dzinopisa"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "dzikachuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "hwakafa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "huwandu hwevanhu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hukuru"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "veIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:02:15.944519472Z",
+  "model": "glm-5.3"
+}

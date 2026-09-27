@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe akaonekwa naShoromohu kechipiri, sokufanana nekuonekwa kwake muGhibhoni.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaonekwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohu"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kechipiri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokufanana"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "akaonekwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaake"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "muGhibhoni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:29.011849770Z",
+  "model": "glm-5.3"
+}

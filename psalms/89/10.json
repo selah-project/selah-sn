@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Iwe unotonga mukwidza wegungwa; pakusimudzwa kwe⟨את⟩ masaisai aro, iwe unodzikisa ⟨wo⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "unotonga"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "mukwidza we"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "pakusimudzwa kwe"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "masaisai aro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "unodzikisa ⟨wo⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:41.685015138Z",
+  "model": "glm-5.3"
+}

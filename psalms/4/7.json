@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vazhinji vanoti: Ndiani achationyesa chinhu chakanaka? Simudza mwenje wechiso chako pamusoro pedu, iwe Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Vazhinji"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "vanoti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndiani"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "achationyesa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chinhu chakanaka"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Simudza"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pamusoro pedu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wechiso chako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:15.403140409Z",
+  "model": "glm-5.3"
+}

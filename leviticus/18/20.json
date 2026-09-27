@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nomukadzi wemunamwako wako, haugoni kupiwa kurara kwako kuzvarwa, kutsvibiswa naye.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi wa-"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "munamwako wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugoni"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kupiwa"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "kurara kwako"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kuzvarwa"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kutsvibiswa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:20.143395552Z",
+  "model": "glm-5.3"
+}

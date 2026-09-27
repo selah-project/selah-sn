@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Aravuna akaatarira, akaona ⟨את⟩ mambo ne⟨את⟩ varanda vake vachiuya kwaari; Aravuna akabuda, akapfugama pamberi pemambo, chiso chake pasi.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "akaatarira"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravuna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "vachiuya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravuna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akapfugama"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pamberi pemambo"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:26.745319275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye Paroho akaraira varume pamusoro paya; vakamutumira ⟨את⟩ iye, uye ⟨את⟩ mukadzi wake, uye ⟨את⟩ zvese zvaaiva navo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro paya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroho"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "vakamutumira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mukadzi wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zvese zvaaiva navo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaaiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:26.569636858Z",
+  "model": "glm-5.3"
+}

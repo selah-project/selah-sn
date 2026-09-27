@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Musakwira, nokuti Yahwe haari pakati penyu, uye mucharohwa pamberi pevavengi venyu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musasa"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "musakwira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "haari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "pakati penyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye mucharohwa"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "mucharohwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vavengi venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:58:48.761970159Z",
+  "model": "glm-5.3"
+}

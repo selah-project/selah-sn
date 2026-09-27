@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Nokuti akasimba magonjo emasuo ako, akaropafadza vana vako mumukati mako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "akasimba"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "magonjo"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "emasuo ako"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mumukati mako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.240313326Z",
+  "model": "glm-5.3"
+}

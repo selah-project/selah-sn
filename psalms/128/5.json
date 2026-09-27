@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 128,
+  "translation": "Yahwe agokupembera iwe kubva muTsiyoni, uye uone ⟨⟨chakanaka⟩⟩ cheYerusharemu, mazuva ose ehupenyu hwako.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "agokupembera iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kubva muTsiyoni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uye uone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨chakanaka⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "cheYerusharemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ehupenyu hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:42.092149812Z",
+  "model": "glm-5.3"
+}

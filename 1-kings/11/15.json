@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Zvino zvakaitika, paDhavidhi anga ari neAdhomu, mokwira kwaYowabhu mutungamiri weuto kuzviyo kuzvika-vigira vakafa, iye akauraya ⟨את⟩ varume ose muAdhomu —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvakaitika"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "pa… anga ari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Adhomu"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "mokwira kwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "weuto"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "kuzvika-vigira vakafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakafa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "vakafa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iye akauraya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "varume"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "muAdhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:34.907495323Z",
+  "model": "glm-5.3"
+}

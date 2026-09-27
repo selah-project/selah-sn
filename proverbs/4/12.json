@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Paunofamba, hatiteri nzvimbo yekufamba kwako; uye kana uchimhanya, haungatsvetuka.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "paunofamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hati-"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "terer"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "nzvimbo yekufamba kwako"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "uchimhanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haungatsvetuka⟨pasina⟩"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "tsvetuka"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:54.790673007Z",
+  "model": "glm-5.3"
+}

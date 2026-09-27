@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Nokuti vanoita zvakaipa vachachekwa kwasvika, uye vanomirira Yahwe, ndivo vachagara nenyika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "vanoita zvakaipa"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "vachachekwa kwasvika"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "uye vanomirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "vachagara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nenyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:37.388100115Z",
+  "model": "glm-5.3"
+}

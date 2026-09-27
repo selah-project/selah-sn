@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye mupristi anobva anopisa izvi paaltari — chokudya chake chibairo chemoto chinopihwa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "anopisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "paaltari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chokudya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "chibairo chemoto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chinopihwa Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:50.794553320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Yahwe ndiri wake, handina kutyoya; munhu anogona kundiita chii?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kutyoya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anogona kundiita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:32.700117135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Moshe naAaron vakadzoswa kuna Farao; akavati: Endai, shumirai ⟨את⟩ Yahwe Erohimu wenyu — ndiyani nandiyani vachenda?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "vakadzoswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akavati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Endai"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "shumirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wenyu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyani"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nandiyani"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "vachenda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:11.685136229Z",
+  "model": "glm-5.3"
+}

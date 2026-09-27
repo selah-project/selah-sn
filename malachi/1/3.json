@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Asi ⟨את⟩ Esav ndinomuvenga, ndokugadza ⟨את⟩ makomo ake kuti anyangarare, uye ⟨את⟩ nhaka yake igare makava esango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndinomuvenga"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ndokugadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makomo ake"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "makomo ake"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kunyanyangarara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nhaka yake"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "nhaka yake"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "makava"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sango"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:01.426393698Z",
+  "model": "glm-5.3"
+}

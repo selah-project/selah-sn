@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "noku ⟨את⟩ Yakimeamu nemigarho yayo, noku ⟨את⟩ Beitihoroni nemigarho yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yakimeamu"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Yakimeamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "migarho yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migarho yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beitihoroni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beiti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "horoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "migarho yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migarho yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:03.621445910Z",
+  "model": "glm-5.3"
+}

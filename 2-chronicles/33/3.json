@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Akadzoka aka⟨את⟩vaka nzvimbo dzepamusoro, dzakaipa dzaChizkiya baba vake akadzikisa, akamisa ma-altari kuna maBharimu, akaita ma-Asherota, akafuvara kuna mauto ose ematenga, akazvishumira.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzoka"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzepamusoro"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "nzvimbo dzepamusoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dza"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "akadzikisa"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "ma-altari"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "kuna maBharimu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "ma-Asherota"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akafuvara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuna ose"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mauto"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ematenga"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "akazvishumira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mauto ematenga"
+    }
+  ],
+  "timestamp": "2026-09-27T10:42:47.932238308Z",
+  "model": "glm-5.3"
+}

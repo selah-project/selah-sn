@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Banga rawo richapinda mumoyo wawo, uye uta hwavo ruchapwanyika.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Banga rawo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "richapinda"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "mumoyo wawo"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "uye uta hwavo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ruchapwanyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:44.923006031Z",
+  "model": "glm-5.3"
+}

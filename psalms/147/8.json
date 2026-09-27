@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anofukidza matenga nemagore, anogadhirira nyika mvula, anokura uswa pamakomo.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Anofukidza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "nemagore"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "anogadhirira"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "anokura"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "uswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:15.027928989Z",
+  "model": "glm-5.3"
+}

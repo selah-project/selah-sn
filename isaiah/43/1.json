@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Zvino zvakadaro, ndotaura Yahwe, akasika iwe Yaakobho, naakakuvumba iwe Isuraeri: Usatya, nokuti ndakakudzikinura, ndakakudana nezita rako — iwe ndewe ⟨⟨kwandiri⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino zvakadaro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndotaura"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndotaura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "akasika iwe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobho"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "naakakuvumba iwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usatya"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Usatya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "ndakakudzikinura"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndakakudana"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nezita rako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:03.017814534Z",
+  "model": "glm-5.3"
+}

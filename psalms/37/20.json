@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Nokuti vakaipa vanoparara; uye vavengi vaYahwe — sokukosheswa kwehwaya — vanopera; seiutsi vanopera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vanoparara"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "uye vavengi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "sokukosheswa"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kwehwaya"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "vanopera"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "seiutsi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "vanopera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:57.896910246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Unoisadza rima, uye kuva usiku; mairi zvipembenye zvesango zvose zvinofamba.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "unoisadza"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye kuva"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mairi"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "zvinofamba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvipembenye"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zvesango"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.491057635Z",
+  "model": "glm-5.3"
+}

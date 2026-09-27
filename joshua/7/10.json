@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye Yahwe akati kunaYehoshua: Simuka! Sei iwe wawira pachiso chako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "wawira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:12.184787191Z",
+  "model": "glm-5.3"
+}

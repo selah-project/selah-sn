@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Iye anodyara zviso, haazove here aninzwa? Iye anoumba ziso, haazove here anoona?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "anodyara zviso"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "zviso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "haazove here"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "aninzwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "anoumba"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "haazove here"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "anoona"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:33.784527790Z",
+  "model": "glm-5.3"
+}

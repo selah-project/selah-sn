@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye idzi ndidzo mitemo iyo uchaisa mumberi kwavo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Uye idzi"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mumberi kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:08.674819090Z",
+  "model": "glm-5.3"
+}

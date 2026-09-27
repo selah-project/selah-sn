@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Jahoshafati akati kumambo weIsirayeri: Tsvaga, ndapota, nhasi ⟨את⟩ shoko raYahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jahoshafati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsirayeri"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Tsvaga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:13.896168744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Kupfutsa kwenyu kunosvika kusvika pakukohwa mukuyu, uye pakukohwa mukuyu kunosvika kusvika panguva yokudyara; muchadya chingwa chenyu kusvika kuzadzikana, uye muchagara muchakagadzikana munyika yenyu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "kunonosvika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenyu"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "kupfutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakukohwa mukuyu"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "pakukohwa mukuyu"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "uye pakukohwa mukuyu"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "kunosvika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panguva yokudyara"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "panguva yokudyara"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "chingwa chenyu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kusvika kuzadzikana"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "muchagara"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "muchakagadzikana"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "munyika yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:12.838297010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Yehoyadha akacheka ⟨את⟩ sungano pakati paYahwe, nepakati pomambo, nepakati pevanhu, kuti vave vanhu vaYahwe, nepakati pomambo nepakati pevanhu.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti vave"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:07.037140431Z",
+  "model": "glm-5.3"
+}

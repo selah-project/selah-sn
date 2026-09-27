@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Masvosve kune vaveti kuti zvakaipa zvakanaka, uye kuti zvakanaka zvakaipa; vanoisa rima panzvimbo pechiedza, uye chiedza panzvimbo perima; vanoisa zvuruma panzvimbo yezvinotapira, uye zvinotapira panzvimbo pezvuruma.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Masvosve"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kune vaveti"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kuti zvakaipa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "uye kuti zvakanaka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "vanoisa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "panzvimbo pechiedza"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "uye chiedza"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "panzvimbo perima"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "vanoisa"
+    },
+    {
+      "surface": "מר",
+      "gloss": "zvuruma"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "panzvimbo yezvinotapira"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "uye zvinotapira"
+    },
+    {
+      "surface": "למר",
+      "gloss": "panzvimbo pezvuruma"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:17.703996060Z",
+  "model": "glm-5.3"
+}

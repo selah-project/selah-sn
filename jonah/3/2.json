@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Simuka, enda kuNinive, iyo guta guru, uye ita kwayo ⟨את⟩ kazwidzo iri ndiri kukutaura kwauri.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "simuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "enda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "uye ita kazwidzo"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kazwidzo"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "kazwidzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndinotaura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:52.119437353Z",
+  "model": "glm-5.3"
+}

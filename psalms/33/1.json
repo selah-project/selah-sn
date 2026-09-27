@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Fungidzirai mune zvakanaka, imi vakatsetuka, muna Yahwe; kuvakatendeseka kunodikanwa kutamidza.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "itamai nenzwikwa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vakatsetuka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muna Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kuvakatendeseka"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kunodikanwa"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kutamidza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:20.838972276Z",
+  "model": "glm-5.3"
+}

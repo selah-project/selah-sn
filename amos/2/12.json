@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asi imi makapa ⟨את⟩ vanaziri vachinwa waini, uye makaraira maporofita muchiti: Musaporofita.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "makapa vachinwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanaziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "vanaziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "maporofita"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "makaraira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "muchiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musа"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "porofita"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:09.876837056Z",
+  "model": "glm-5.3"
+}

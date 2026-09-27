@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Nokuti akarangarira ⟨את⟩ shoko ritsvene rake, ⟨את⟩ Abhurahama muranda wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akarangarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko ritsvene rake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ritsvene rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhurahama muranda wake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "muranda wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:17.959375713Z",
+  "model": "glm-5.3"
+}

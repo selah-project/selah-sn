@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 112,
+  "translation": "Moyo wake wakasimbiswa, haatye, kusvika pari aaona varwashe vake.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "wakasimbiswa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haatye"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "haatye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pari"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aaona"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "varwashe vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:08.037328910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Kunyangwe ndichafamba mubhondi rorima rekufa, handizotya zvakaipa; nokuti iwe uri neni; tsvimbo yako neterevhe yako, ndidzo dzinondinyaradza.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kunyangwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndichafamba"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "mubhondi"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "rorima rekufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handizotya"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "handizotya"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uri neni"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tsvimbo yako"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "neterevhe yako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndidzo"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "dzinondinyaradza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:55.037182197Z",
+  "model": "glm-5.3"
+}

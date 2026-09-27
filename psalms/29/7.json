@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Izwi raYahwe rinotema mihondoredzwa yemoto.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "rinotema"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "mihondoredzwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yemoto"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:20.025152395Z",
+  "model": "glm-5.3"
+}

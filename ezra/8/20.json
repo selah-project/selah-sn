@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye kubva kunaNetinimu, avo Davhidhi nemadunhumirwa vakapa kuita basa raRevhi — Netinimu mazana maviri nemakumi maviri; vose vakanyorwa mazita avo.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "uye kubva kuna"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "Netinimu"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davhidhi"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "nemadunhumirwa"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "kuita basa ra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Revhi"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "Netinimu"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana maviri"
+    },
+    {
+      "surface": "ו עשרים",
+      "gloss": "nemakumi maviri"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vose"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "vakanyorwa"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "mazita avo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:11:31.410790841Z",
+  "model": "glm-5.3"
+}

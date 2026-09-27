@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Akatora ⟨את⟩ Yehoiakini kuBhabhironi, ne⟨את⟩ amai womambo, ne⟨את⟩ vakadzi vomambo, ne⟨את⟩ varanda vake vomudzimba, ne⟨את⟩ masimba enyika — akavatora vatapwa kubva kuYerusaremu kuenda kuBhabhironi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "akatora-vatapwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoiakini"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoiakini"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "kuBhabhironi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "amai womambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "womambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vakadzi vomambo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vakadzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vomambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "varanda vake vomudzimba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "masimba enyika"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "masimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "enyika"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "akavatora"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "vatapwa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kubva kuYerusaremu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "kuBhabhironi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:26.200968047Z",
+  "model": "glm-5.3"
+}

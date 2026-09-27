@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Noa akabuda, navakomana vake, nomukadzi wake, nevadzimai vevakomana vake, ⟨את⟩ iye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "navakomana vake"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nomukadzi wake"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nevadzimai"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vevakomana vake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Noa nevomumusha wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:33.528936192Z",
+  "model": "glm-5.3"
+}

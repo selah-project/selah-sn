@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye uchaita paHosheni mhete mbiri dzandarama, uye uchaisa ⟨את⟩ ⟨dza⟩mbiri mhete pamugumo miviri yaHosheni.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hosheni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dzandarama"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbiri mhete"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "miviri"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mugumo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "yaHosheni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:31.367277843Z",
+  "model": "glm-5.3"
+}

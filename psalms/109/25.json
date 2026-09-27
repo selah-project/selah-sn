@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Ndine mwenzwo ndakava nyadzo kwavari; vanoiona ndiri kupfurikidza misoro yavo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndine mwenzwo ndakava"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakava"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyadzo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "vanoiona ndiri"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "kupfurikidza"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "misoro yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:11.986138572Z",
+  "model": "glm-5.3"
+}

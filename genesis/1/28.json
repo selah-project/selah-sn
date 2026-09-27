@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akavafadza ⟨את⟩ ivo; uye Erohimu akati kwavari: Berekai, muwedzerai, muzadze ⟨את⟩ nyika mukunde; tondai mhodzi dzegungwa, neshiri dzedenga, nezvose zvipenyu zvinonzambaira panyika.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akavafadza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Berekai"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "muwedzerai"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "muzadze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "mukunde"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "tondai"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "mhodzi dze"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "neshiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzedenga"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zvose zvipenyu"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "zvinonzambaira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "panyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:22.058839819Z",
+  "model": "glm-5.3"
+}

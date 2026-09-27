@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Uye vanhu vaEriphazi vaive: Teimani, Owmari, Tsefowu, naGhatamu, naKenazi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "vaive"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanhu va"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Eriphazi"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teimani"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Owmari"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Tsefowu"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "naGhatamu"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "naKenazi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:46.287198517Z",
+  "model": "glm-5.3"
+}

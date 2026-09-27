@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Naizvozvo Yehu akaparadza ⟨את⟩ Bhaari muIsraeri.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "akaparadza"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bhaari"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Bhaari"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "muIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:38.893883575Z",
+  "model": "glm-5.3"
+}

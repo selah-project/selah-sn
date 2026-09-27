@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Achabvisa ganda rechibairo chinopiswa, achacheka zvidimbu zvazvo sezvidimbu zvazvo.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "achabvisa ganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chinopiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "chibairo chinopiswa"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "achacheka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "zvidimbu zvazvo"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "zvidimbu zvazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:26.313494585Z",
+  "model": "glm-5.3"
+}

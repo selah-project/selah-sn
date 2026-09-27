@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye Yosefu akafa, nehama dzake dzose, nedzinza iro rose rainguva iyoyo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Uye akafa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne...dzose"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hama dzake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne...rose"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "dzinza iro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "rainguva iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:41.387473812Z",
+  "model": "glm-5.3"
+}

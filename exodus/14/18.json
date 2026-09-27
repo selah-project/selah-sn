@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye vaMitṣraji vachaziva kuti ini ndini Yahwe, pandinoremekedzwa munaFarao, anemabhurenanga ake nevakaridza mabhiza vake.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "vachaziva"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vaMitṣraji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "pandinoremekedzwa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "munaFarao"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "anemabhurenanga ake"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "nevakaridza mabhiza vake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:12.971062134Z",
+  "model": "glm-5.3"
+}

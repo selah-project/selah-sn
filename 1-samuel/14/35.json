@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Shaure akavaka mizbecha kunaYahwe; urwu ndirwo akatanga ⟨את⟩ kuvaka mizbecha kunaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaure"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbecha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kutanga kuvaka mizbecha kunaYahwe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "akatanga"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbecha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:29.109418268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Moshe akapedza kutaura ⟨naivo⟩, akaisa chifukidzo pachiso pake.",
+  "tokens": [
+    {
+      "surface": "וַיְכַל",
+      "gloss": "akapedza"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מִדַּבֵּר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "אִתָּם",
+      "gloss": "⟨אתם⟩",
+      "marks": "naivo (navo)"
+    },
+    {
+      "surface": "וַיִּתֵּן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "פָּנָיו",
+      "gloss": "chiso pake"
+    },
+    {
+      "surface": "מַסְוֶה",
+      "gloss": "chifukidzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:51.549143572Z",
+  "model": "glm-5.3"
+}

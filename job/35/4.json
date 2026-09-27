@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Ndiri kudzokorora kwamuri mazwi, new ⟨את⟩ shamwari dzenyu pamwe nemi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "kudzokorora kwamuri mazwi"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "new ⟨את⟩",
+      "marks": "shamwari dzenyu"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "shamwari dzenyu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamwe nemi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:43:20.135985326Z",
+  "model": "glm-5.3"
+}

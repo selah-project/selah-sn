@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Nokuti makurubi aiva echitambanudza mapapiro acho kuna nzvimbo yeAreka, ndipo makurubi akavharira Areka nematanda ayo kumusoro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "makurubi"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "echitambanudza"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mapapiro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "yeAreka"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "akavharira"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "makurubi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "matanda ayo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kumusoro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:41.474685112Z",
+  "model": "glm-5.3"
+}

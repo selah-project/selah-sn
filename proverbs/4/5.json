@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Wana hungwaru, wana kuzvinzwisisa; usakanganwa, uye usatenderedzwi kubva mumaziri emuromo wangu.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "wana"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hungwaru"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "wana"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kuzvinzwisisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kanganwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usa"
+    },
+    {
+      "surface": "תט",
+      "gloss": "tenderedzwa"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "kubva mumaziri"
+    },
+    {
+      "surface": "פי",
+      "gloss": "emuromo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:34.912268616Z",
+  "model": "glm-5.3"
+}

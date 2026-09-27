@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Saka unofanira kukuda ⟨את⟩ Yahwe Erohimu yako, uye kuchichengeta chengeto chake, nemirairo yake, nemutemo wake, nezvitsidzo zvake, mazuva ose.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "unofanira kukuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu yako"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "uchichengeta"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "chengeto chake"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "nemirairo yake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "nemutemo wake"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "nezvitsidzo zvake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:41.369192130Z",
+  "model": "glm-5.3"
+}

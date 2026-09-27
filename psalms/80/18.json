@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Rega ruoko rwako ruve pamusoro pemunhu wokurudyi rwako, pamusoro pemwanawomunhu waunosimbisa iwe pachako.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ruve"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wokurudyi rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanawo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "waunosimbisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pachako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:20.689146139Z",
+  "model": "glm-5.3"
+}

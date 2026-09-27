@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Pakuuya kwaDhoegi ⟨we⟩MuEdhomi, akaudza ⟨את⟩ Shauru, akati kwaari: Dhavhidhi auya kumba yaAhimeleki.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "pakuuya kwa"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Dhoegi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "MuEdhomi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "בא",
+      "gloss": "auya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "yaAhimeleki"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:22.462861621Z",
+  "model": "glm-5.3"
+}

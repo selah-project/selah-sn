@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Yahwe akati kuna Moshe: Zvino uchaona izvo ndichazviita kuna Farao, nokuti neruoko rwesimba achavatuma, neruoko rwesimba achavatura munyika yake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uchaona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichazviita"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuna Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "neruoko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "rwesimba"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "achavatuma"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "neruoko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "rwesimba"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "achavatura"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "munyika yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:08.688376868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Izvi zvose ndakaedza nehunganyi; ndati, ndichava nenhunganyi; asi iyo iri kure kwangu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "ndakaedza"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "nehunganyi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndati"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "ndichava nenhunganyi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "asi iyo"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "iri kure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:23.597297959Z",
+  "model": "glm-5.3"
+}

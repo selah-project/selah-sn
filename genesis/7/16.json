@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye avo akapinda, akapinda chirume nechikadzi kubva mune nyama yose, sokutaurirwa kwaErohimu kwakaitwa ⟨את⟩ iye; uye Yahwe akavhara ⟨את⟩ iye mukati.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "avo akapinda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chirume"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "nechikadzi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva mune…yose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "באו",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaurirwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwakaitwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Noa)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "⟨mukati⟩ pa⟨iye⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:52.848677691Z",
+  "model": "glm-5.3"
+}

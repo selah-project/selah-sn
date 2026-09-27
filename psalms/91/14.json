@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Nokuti andikumbira, ndichamununura; ndichamusimudza nokuti anoziva zita rangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "andikumbira"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "andikumbira"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ndichamununura"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ndichamusimudza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "zita rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:24.192788593Z",
+  "model": "glm-5.3"
+}

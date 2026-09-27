@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Vose vakapatuka, vose vakabatanidzwa vakaora; hakuna anoita zvakanaka, hakuna, kunyangwe mumwe chete.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Vose"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vakapatuka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "vose vakabatanidzwa"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "vakaora"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kunyangwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:55.561450891Z",
+  "model": "glm-5.3"
+}

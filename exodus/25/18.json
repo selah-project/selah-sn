@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye uchaita kerubhi maviri endarama; basa rokurohwa uchaita ⟨את⟩, ichibva mukumashure kumapeto maviri echivharo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubhi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "endarama"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "basa rokurohwa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (kerubhi maviri)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mukumashure kwemapeto"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "echivharo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:56.715585836Z",
+  "model": "glm-5.3"
+}

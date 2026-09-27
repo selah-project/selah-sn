@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye Abhurahama akamisa ⟨את⟩ nomwe dzemakwai etsekete dzega-dzega.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomwe dzemakwai"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "dzemakwai etsekete"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨dze⟩boka"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "dzega-dzega"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:05.936289264Z",
+  "model": "glm-5.3"
+}

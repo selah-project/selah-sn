@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 20:17",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Nokuti paradza zvachose: muHiti nomuAmori, muKenani nomuPerizi, muHivi nomuYebhusi, sokurayira kwakaita Yahwe Erohimu wako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "paradza zvachose"
+    },
+    {
+      "surface": "תחרימם",
+      "gloss": "paradza"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "muHiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "nomuAmori"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "muKenani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "nomuPerizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "muHivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "nomuYebhusi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokurayira kwakaita"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "wakakurayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:16:57.201407964Z",
+  "model": "glm-5.3"
+}

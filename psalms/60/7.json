@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Kuti vanhu vako vanofadza vapunhurwe; ponisa neruoko rwako rwerudyi, uye tidavirwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "vapunhurwe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "vanhu vako vanofadza"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ponisa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "neruoko rwako rwerudyi"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "uye tidavirwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:01.030634354Z",
+  "model": "glm-5.3"
+}

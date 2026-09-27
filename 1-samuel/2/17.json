@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nomwatya wevakomana waiva mukuru zvikuru ⟨את⟩ pachiso peYahwe, nokuti ⟨⟨varume⟩ vakanzvenga ⟨את⟩ minha yaYahwe.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "waiva"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mwatya"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "wevakomana"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachiso peYahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "vakanzvenga"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minha yaYahwe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:50.780579412Z",
+  "model": "glm-5.3"
+}

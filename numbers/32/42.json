@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Nokuda Nobha akaenda otorwa ⟨את⟩ Kenati ne⟨את⟩ misha yaro, okudaidza zita richinzi Nobha nezita rake.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Nobha"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "otorwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenati"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "misha yaro"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "misha yaro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "okudaidza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "zita richinzi"
+    },
+    {
+      "surface": "נבבח",
+      "gloss": "Nobha"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "nezita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:05:30.617389879Z",
+  "model": "glm-5.3"
+}

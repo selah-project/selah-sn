@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Iye zvino ndichamuka, anotaura Yahwe; iye zvino ndichikudzwa; iye zvino ndichisimudzwa.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "iye zvino"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ndichamuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "anotaura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "iye zvino"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ndichikudzwa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "iye zvino"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ndichisimudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:36.079412615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Kure neni! Kana ndingaitenderai kuti muri pachena ⟨את⟩ kusvika ndigofema nokupedzisira; handibvisi chitsvene changu kubva mune.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Kure neni!"
+    },
+    {
+      "surface": "לי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ndingaitenderai kuti muri pachena"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ amuri",
+      "marks": "amuri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ndigofema nokupedzisira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "bvisi"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "chitsvene changu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva mune"
+    }
+  ],
+  "timestamp": "2026-09-27T09:40:50.822869902Z",
+  "model": "glm-5.3"
+}

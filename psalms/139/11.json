@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Ndikati: zvirokwazvo rima richandiputira ⟨asiko⟩, usiku hunove chiedza pandiri.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "richandiputira"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "pandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:26.371979221Z",
+  "model": "glm-5.3"
+}

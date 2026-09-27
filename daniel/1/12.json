@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Edza nhasi ⟨את⟩ varanda venyu mazuva gumi; navatipe kubva muzvinwa, tigodya, nemvura, tinwa.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Edza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda venyu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda venyu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "navatipe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "muzvinwa"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "tigodya"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "tinwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:34.714417516Z",
+  "model": "glm-5.3"
+}

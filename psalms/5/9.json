@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Yahwe, nditungagutse muchitsvene chako, nokuda pevapanduki vangu; ita kuti nzira yako ive yakwayo pamberi pechiso changu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "nditungagutse"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "muchitsvene chako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda pe"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "vapanduki vangu"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "ita kuti ive yakwayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pechiso changu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzira yako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:03.019214784Z",
+  "model": "glm-5.3"
+}

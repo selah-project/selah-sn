@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akati: Ndinokuda iwe, Yahwe, simba rangu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "ndinokuda iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "simba rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:32.194588920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "kana ndikapa hope maziso angu, kurootsidza mapendeku angu,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndikapa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "hope"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "mapendeku angu"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "kurootsidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:24.562261419Z",
+  "model": "glm-5.3"
+}

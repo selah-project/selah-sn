@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Simuka, Yahwe; ndiponesa, Er wangu; nokuti wakarova ⟨את⟩ vavengi vangu vose dzama, mazino evakaipa wawatyora.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndiponesa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "wakarova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vangu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "dzama"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mazino"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "evakaipa"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wawatyora"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:20.303512390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Ndikati: Kuremara kwangu ndiko kwaita kuti shanu dzeruoko rwerudyi reEriyoni dzichinje.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "Kuremara kwangu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndiko"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ruoko rwerudyi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eriyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:14.785088473Z",
+  "model": "glm-5.3"
+}

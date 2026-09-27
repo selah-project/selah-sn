@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 10:10",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ezira mupristi akamira, akati kwavari: Imi matadzira, uye makatora vakadzi vasheni, kuwedzera paashamu yaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Imi"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "matadzira"
+    },
+    {
+      "surface": "ותשיבו",
+      "gloss": "makatora"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vakadzi"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vasheni"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "kuwedzera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אשמת",
+      "gloss": "ashamu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:10:50.811758252Z",
+  "model": "glm-5.3"
+}

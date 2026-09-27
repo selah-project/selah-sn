@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Saizvozvo zvinoitwa pomwe imwe, kana hwayi yechirume imwe, kana mwana wehwayi kana mwana wembudzi.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "zvinoitwa"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "pomwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "hwayi yechirume"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "wehwayi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "wembudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:59:59.085567297Z",
+  "model": "glm-5.3"
+}

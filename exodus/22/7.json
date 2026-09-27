@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana mbavha isina kuwanikwa, tenzi wemba anosvitswa pamberi peErohimu, kuti asina kusvitsa ruoko rwake pabasa ramukomana wake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isina"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "kuwanikwa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "mbavha"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "anosvitswa pamberi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tenzi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wemba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kusvitsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "pabasa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ramukomana wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:25.563708814Z",
+  "model": "glm-5.3"
+}

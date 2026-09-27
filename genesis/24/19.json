@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Akapedza kumupa kudya kwake kunwa, iye akati: Ngichachera mvura yenzvimbo yengamira dzako, kusvika dzapedza kunwa.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "akapedza"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "kumupa kunwa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "yenzvimbo yengamira dzako"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "ngichachera mvura"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ apo ⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dzapera"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "kunwa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:46.512235111Z",
+  "model": "glm-5.3"
+}

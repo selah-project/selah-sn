@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 100,
+  "translation": "Zivisei kuti Yahwe ndiye Erohimu; ndiye akatisika, kwete isu pachangu — imhuri vanhu vake, nomakwai okufudziwa kwake.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Zivisei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "akatisika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "isu pachangu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nomakwai"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "okufudziwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:38.117822033Z",
+  "model": "glm-5.3"
+}

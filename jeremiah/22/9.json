@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye vachati: Nokuti vakasiya ⟨את⟩ sungano yaYahwe Erohimu yavo, vakagwadya pamwe nemwari vamwe, uye vakavatenda navo.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YaHwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu yavo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "vakagwadya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kune mwari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "vamwe"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "vakavatenda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:58:59.234616129Z",
+  "model": "glm-5.3"
+}

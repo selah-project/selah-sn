@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yehu akasvika Yizreera, Jezhebheri akanzwa, akaisa ⟨⟨pachiye⟩⟩ maziso ake, akagadzirisa ⟨את⟩ musoro wake, akatarira nepawindo.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreera"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "Jezhebheri akanzwa"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "pachiye"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "akagadzirisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wake"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "musoro wake"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "akatarira"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ne"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "pawindo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:55.742664092Z",
+  "model": "glm-5.3"
+}

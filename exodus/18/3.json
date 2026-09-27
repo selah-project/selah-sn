@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Ne⟨את⟩ vana vake vazvari, vazvo zita remodzi riva Gershomi, nokuti akati: Mueni ndakange ndiri munyika yevatorwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ne⟨את⟩",
+      "marks": "vana vake vazvari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vazvari"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vazvo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "remodzi"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mueni"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakange ndiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "yevatorwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:00.853874862Z",
+  "model": "glm-5.3"
+}

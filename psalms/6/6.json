@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Nokuti mu⟨rufu⟩ hapana ranganisho yako; muSheori ndiani achakutenda iwe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "במות",
+      "gloss": "murufu"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ranganisho yako"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "muSheori"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "achakutenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:11.870363612Z",
+  "model": "glm-5.3"
+}

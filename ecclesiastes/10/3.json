@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvekare, po penzi achienda munzira, moyo wake unoshayika, uye anodudzira kuvose kuti ⟨ari⟩ penzi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "zvekare"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "sokupenzi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "achienda"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "unoshayika"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "uye anodudzira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuvose"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "penzi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:56.326737791Z",
+  "model": "glm-5.3"
+}

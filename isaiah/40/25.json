@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uye kune ani imi munondifanidza, kana ndingafanane naye? anodaro Mutsvene.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Uye kune"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "imi munondifanidza"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "kana ndingafanane naye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "anodaro"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mutsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:15.282606583Z",
+  "model": "glm-5.3"
+}

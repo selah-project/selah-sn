@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 82,
+  "translation": "Asi semunhu muchafa, uye semumwe wemadzimambo muchawa.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "semunhu"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "muchafa"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "uye semumwe we-"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "muchawa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:29.185036666Z",
+  "model": "glm-5.3"
+}

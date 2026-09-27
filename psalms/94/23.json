@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Uye achadzorera paivo ⟨את⟩ zvakaipa zvavo, uye nokutadza kwavo achavadzima; achavadzima Yahwe, Erohimu wedu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "achadzorera"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paivo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvakaipa zvavo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "zvakaipa zvavo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "uye nokutadza kwavo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "achavadzima"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "achavadzima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:29.429055976Z",
+  "model": "glm-5.3"
+}

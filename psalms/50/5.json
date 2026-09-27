@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Sanganisirai vanhotsvene vangu kwandiri, vakasika sungano yangu pamusoro pechibairo.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Sanganisirai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "vanhotsvene vangu"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "vakasika"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:43.740857552Z",
+  "model": "glm-5.3"
+}

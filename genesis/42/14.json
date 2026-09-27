@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yosefu akataura navo: Iyi ⟨ndiyo⟩ izvo ndakataura kwamuri nditi: muri vaoneredzi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndakataura"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nditi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vaoneredzi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "muri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:13.757602097Z",
+  "model": "glm-5.3"
+}

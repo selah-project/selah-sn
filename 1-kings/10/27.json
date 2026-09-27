@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti mambo akaita kuti ⟨את⟩ sirivha ive muYerusharemu sekumabhora; uye ⟨את⟩ macedhara akazviita sekumun'anga dziri mubvumbachepa, zvakawanda kwazvo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akaita kuti ive"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirivha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusharemu"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "sekumabhora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "macedhara"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "macedhara"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akazviita"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "sekumun'anga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dziri"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "mubvumbachepa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "zvakawanda kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:14.918894147Z",
+  "model": "glm-5.3"
+}

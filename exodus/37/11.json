@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye akafukidza ⟨את⟩ iyo ndarama yechena, uye akagadzira zeru rendarama kumativhi ose.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "akafukidza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "ndarama"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yechena"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "uye akagadzira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yayo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zeru"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "rendarama"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kumativhi ose"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:52.394802187Z",
+  "model": "glm-5.3"
+}

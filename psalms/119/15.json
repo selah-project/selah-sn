@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Pazvirairo zvako ndichafungafunga, ndichatarisa ⟨nzira⟩ dzako.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "pazvirairo zvako"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndichafungafunga"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ndichatarisa"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "nzira dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:05.366049937Z",
+  "model": "glm-5.3"
+}

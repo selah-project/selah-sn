@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye vanhu vakada mvura ipapo, uye vanhu vakapurukira Mozhe, vachiti: Nei ukaunza isu kubva muIjipita, kuuraya ⟨את⟩ ini ne⟨את⟩ vana vangu ne⟨את⟩ zvipfuwo zvangu nezvinoda mvura?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "vakada mvura"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "למים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "vakapurukira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ukaunza isu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kubva muIjipita"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "kuuraya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana vangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "zvipfuwo zvangu"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "nezvinoda mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:56.137511169Z",
+  "model": "glm-5.3"
+}

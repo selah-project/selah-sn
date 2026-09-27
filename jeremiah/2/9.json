@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Naizvozvo ndichakurwira zvechinyakare ⟨את⟩ imi, zvinotaurwa naYahwe, uye ⟨את⟩ vana vanavana venhu ndichakurwira.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvechinyakare"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndichakurwira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "zvinotaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "vana vanavana venhu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vana venhu"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndichakurwira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:18.969351324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kubura mwanakomana wemakumi maviri emakore nokukwirira, ose anobuda kuuto muIsirayeri, muchavaongorora ⟨את⟩ ivo nomauto avo, iwe naAharoni.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Kubura mwanakomana wo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "nokukwirira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "anobuda"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kuuto"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsirayeri"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "muchavaongorora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo",
+      "marks": "ivo"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "nomauto avo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAharoni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:08.380905170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "⟨את⟩ zvinomera zviyero zvako haungadzokorori, uye ⟨את⟩ zbherere zvemusoro wako haungazvitora; mugore weShabhata ⟨unengeuri⟩ waita pasi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinomera zviyero zvako"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "zvinomera zviyero"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "zviyero zvako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ungadzokorori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zbherere zvemusoro wako"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "zbherere"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "musoro wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ungazvitora"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mugore we"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "unengeuri waita"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:28.782878378Z",
+  "model": "glm-5.3"
+}

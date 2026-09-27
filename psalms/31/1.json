@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Kune mutungamiri, idambarengairo reDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "idambarengairo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "reDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:03.311865021Z",
+  "model": "glm-5.3"
+}

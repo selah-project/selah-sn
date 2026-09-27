@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye Yarobhoamu haana kugadziridza simba zvakare muzhizha raAbhuya; uye Yahwe akamutyisidzira, uye akafa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "haana... -"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "kudzora \/ kugadziridza"
+    },
+    {
+      "surface": "כח",
+      "gloss": "simba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobhoamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare \/ futi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "muzhizha ra- (mazuva a-)"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Abhuya"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "akamurova (akamutyisidzira)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:34:57.444092277Z",
+  "model": "glm-5.3"
+}

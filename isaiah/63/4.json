@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Nokuti zuva rokutonga nokuripisa riri mumoyo wangu, uye gore rokudzikinurwa kwavanhu vangu rakwana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "rokutonga nokuripisa"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "riri mumoyo wangu"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "uyeo gore"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "rokudzikinurwa kwavanhu vangu"
+    },
+    {
+      "surface": "באה",
+      "gloss": "rakwana"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:58.961295982Z",
+  "model": "glm-5.3"
+}

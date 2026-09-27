@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 130,
+  "translation": "Nokuti kwauri kune ureverero, kuti iwe utyewe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "kune ureverero"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "iwe utyewe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:01.669189549Z",
+  "model": "glm-5.3"
+}

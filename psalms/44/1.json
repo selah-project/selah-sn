@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Kune mutungamiri, kuvana vaKorachi, ⟨dzidziso⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "dzidziso"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:06.023565735Z",
+  "model": "glm-5.3"
+}

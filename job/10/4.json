@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Une here maziso emhasoro, kana kuti unona sekuona kweanofa?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "maziso here"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "emhasoro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "unawo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana kuti"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "sekuona"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "kweanofa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "unona"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:48.588925953Z",
+  "model": "glm-5.3"
+}

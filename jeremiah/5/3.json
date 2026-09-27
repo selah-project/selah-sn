@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Yahwe, maso ako havasi here pakuvimbika? Wakarovata ⟨את⟩, asi havatambudziki; wakapedza ⟨את⟩, vakaramba kutora dzidziso; vakasimba chiso chavo kupinda dombo, vakaramba kudzoka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maso ako"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "havasi here"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "pakuvimbika"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "wakarovata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu (iwo)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "havatambudziki"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "wakapedza"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "vakaramba"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kutora"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "dzidziso"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "vakasimba"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "chiso chavo"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "kupinda dombo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "vakaramba"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kudzoka"
+    }
+  ],
+  "timestamp": "2026-09-27T07:53:49.870847327Z",
+  "model": "glm-5.3"
+}

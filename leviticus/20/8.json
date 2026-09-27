@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Chengetai ⟨את⟩ mitemo yangu, muite ⟨את⟩ iyo; ini ndiri Yahwe, anokutsvenisai.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Chengetai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yangu"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "muite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "anokutsvenisai"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:44.142446988Z",
+  "model": "glm-5.3"
+}

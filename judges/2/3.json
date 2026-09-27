@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndiye ndakati: Handinodzinga ⟨את⟩ ivo kubva pachiso chenyu; vachava panhengo dzenyu, uye namwari vavo vachava muteyo kwenyu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ndinodzinga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "kubva pachiso chenyu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kenyu"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "panhengo dzenyu"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "namwari vavo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kenyu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "muteyo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:32:05.844472495Z",
+  "model": "glm-5.3"
+}

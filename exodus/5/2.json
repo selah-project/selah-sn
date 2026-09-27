@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Farao akati: “Yahwe ndiyani, ndinzwe izwi rake ndirase ⟨את⟩ Isiraeri? Handizivi ⟨את⟩ Yahwe, uye zvirokwazvo ⟨את⟩ Isiraeri handichamurasa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndinzwe"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "izwi rake"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ndirase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "zivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye zvirokwazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "chamurasa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:05.735056784Z",
+  "model": "glm-5.3"
+}

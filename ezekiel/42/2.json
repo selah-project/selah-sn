@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Pachiso pehurefu hwezana remamata, ⟨iri⟩ muvhuso wematunhutu; uye upamhi hwacho makumi mashanu amamata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hurefu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "remamata"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "muvhuso"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "wematunhutu"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "uye upamhi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amamata"
+    }
+  ],
+  "timestamp": "2026-09-27T11:12:33.233887868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Yaakobu akadana ⟨kune⟩ vana vake, akati: Kuunganai, ndichakutaurirai ⟨את⟩ izvo zvichaitika ⟨את⟩ kumuri mugumisiriro kwemazuva.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "Kuunganai"
+    },
+    {
+      "surface": "ו אגידה",
+      "gloss": "ndichakutaurirai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kumuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo zvichaitika kumuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "zvichaitika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kumuri",
+      "marks": "kumuri"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mugumisiriro"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwemazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:06.436135995Z",
+  "model": "glm-5.3"
+}

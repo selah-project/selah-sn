@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Ndini ndakapfava, uye handisina kuziva; ndakanga ndiri sechipfuyo pamberi pako.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ndakapfava"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handisina"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "sechipfuyo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakanga ndiri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamberi pako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:58.292471214Z",
+  "model": "glm-5.3"
+}

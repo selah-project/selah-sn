@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Zvino mwanangu, teerera izwi rangu, kune izvozvo ⟨את⟩ ndinokurayira.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kune izvozvo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:38.859677231Z",
+  "model": "glm-5.3"
+}

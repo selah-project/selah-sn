@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Mupristi anotsvenekesa akamisa ⟨את⟩ munhu anotsvenekwa, newo ⟨את⟩ ivo, pachiso peYahwe, kumusuo wehema yokusangana.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "anotsvenekesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu anotsvenekwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "anotsvenekwa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "newo ⟨את⟩ ivo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kumusuo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wehema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:59.756729849Z",
+  "model": "glm-5.3"
+}

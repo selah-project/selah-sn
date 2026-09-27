@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Haungadzoke here, utipore zvakare, kuti vanhu vako vafare nezvako?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "haungadzoke here"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "haungadzoke"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "utipore zvakare"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "uye vanhu vako"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "vafare"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nezvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:34.281537033Z",
+  "model": "glm-5.3"
+}

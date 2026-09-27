@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Mufaro une uyo anofungidzira ⟨izvozvo⟩ nemungwaru pamusoro pemupenyu; muzuva reruoko Yahwe achamununura.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mufaro une"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "anofungidzira nemungwaru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva re"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "reruoko"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "achamununura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:43.983792818Z",
+  "model": "glm-5.3"
+}

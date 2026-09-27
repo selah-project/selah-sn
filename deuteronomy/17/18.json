@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Zvino achigara chigaro choushe hwake, achanyora pachake chinyorwa chokupedzisira che⟨את⟩ tora iyi pamusoro pebhuku, pachiso chevakuru vehumambo vevabhirivhi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "achigara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "oushe hwake"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "achanyora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pachake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinyorwa chokupedzisira che tora iyi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "chinyorwa chokupedzisira"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bhuku"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "vakuru vehumambo"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vevabhirivhi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:16:32.979412616Z",
+  "model": "glm-5.3"
+}

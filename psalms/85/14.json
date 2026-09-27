@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Kururama kuchafamba pamberi pake, uye kuchavekunza nhanhatu dzake serugwaro.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Kururama"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamberi pake"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "kuchafamba"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "uchokushandura kuchavekunza"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "serugwaro"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "nhanhatu dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:04.932826808Z",
+  "model": "glm-5.3"
+}

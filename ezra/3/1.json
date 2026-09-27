@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndipo mwedzi wechinomwe wakasvika, uye vana vaIsraeri vaive muguta, ndipo vanhu vakasangana semunhu mumwechete kuYerushalema.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "wakasvika"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wechinomwe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "uye vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "semunhu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwechete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    }
+  ],
+  "timestamp": "2026-09-27T10:08:09.543406478Z",
+  "model": "glm-5.3"
+}

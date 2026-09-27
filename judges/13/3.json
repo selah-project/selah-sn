@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mutumwa waYahwe wakaonekera umukadzi, wati kwaari: Ona zvino, iwe uri asina kuchema uye hauna kuzvara; uchaunzvika, uye uzvara mukomana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wakaonekera"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Mutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umukadzi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "uri asina kuchema"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hauna"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "kuzvara"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "uchaunzvika"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "uzvara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:55.604450309Z",
+  "model": "glm-5.3"
+}

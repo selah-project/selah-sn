@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Yahwe akavaita ukomborera, akavatsvetsa, akatendeuka kwavari, nokuda kwasungano yake ⟨na⟩ Abhurahama, Isaka naYakobho; asina kuda kuvaparadza, uye asina kuvakanda kubva pachiso chake kusvika iro zvino.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "akavaita ukomborera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "akavatsvetsa"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "akatendeuka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sungano yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhurahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "naYakobho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye asina"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "kuvaparadza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye asina"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "kuvakanda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pachiso chake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "iro zvino"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:31.862044354Z",
+  "model": "glm-5.3"
+}

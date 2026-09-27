@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 34:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Naizvozvo imi vano mwoyo, nditeerai; kure naye zvikuru kuita chakaipa, Er, uye kure naShadai kuita rusarura.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vano"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mwoyo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nditeerai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "kure zvikuru"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "naEr"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "uye naShadai"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "rusarura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:43:01.815785846Z",
+  "model": "glm-5.3"
+}

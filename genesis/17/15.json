@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Erohimu akati kuna Abhurahama: Sarai, mukadzi wako — usati udanidza ⟨את⟩ zita rake Sarai; nokuti Sarha ndiro zita rake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mukadzi wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usati"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "udanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "zita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:39.888534185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Vaenderera mabasa akaipa vave pedyo; kwatora yako vave kure.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "vave pedyo"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "vaenderera"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mabasa akaipa"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "kwatora yako"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "vave kure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:09.345435416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kana vachiti: Uya ⟨את⟩ nesu, ngatimirire kuti titeure ropa, ngativandise ⟨את⟩ vakachena pasina chikonzero;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Uya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nesu",
+      "marks": "nesu (kuti: newedu)"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "ngatimirire"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "ngativandise"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "vakachena"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pasina chikonzero"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:31.609859231Z",
+  "model": "glm-5.3"
+}

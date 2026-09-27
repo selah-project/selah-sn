@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Taurirai kuvana vaIsirairi kuti: Idzi ndidzo mhuka dzamuchadya, kubva mumhuka dzose dziri pamusoro pepasi.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Taurirai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirairi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Idzi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mhuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dzamuchadya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva mudzose"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mhuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dziri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:03.518740130Z",
+  "model": "glm-5.3"
+}

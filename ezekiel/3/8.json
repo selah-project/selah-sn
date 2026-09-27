@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ona, ndakaita ⟨את⟩ chiso chako chisina kugwinha pamwe chavo, uye ⟨את⟩ matama ako asina kugwinha pamwe namatama avo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "chisina kugwinha"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "pamwe"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "nechiso chavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matama ako"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "matama ako"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "asina kugwinha"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "pamwe"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "namatama avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:16:50.916051965Z",
+  "model": "glm-5.3"
+}

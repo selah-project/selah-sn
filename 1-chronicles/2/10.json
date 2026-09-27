@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Ramu akazvara ⟨את⟩ Aminadhaba; uye Aminadhaba akazvara ⟨את⟩ Nachishoni, mutungamiri wevana vaYudha.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Uye Ramu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadhaba"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadhaba"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "uye Aminadhaba"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachishoni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachishoni"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYudha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:40.608402760Z",
+  "model": "glm-5.3"
+}

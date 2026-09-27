@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Anozvininipisa kuona zviri matenga nepasi.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "anozvininipisa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "nepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:32.068256285Z",
+  "model": "glm-5.3"
+}

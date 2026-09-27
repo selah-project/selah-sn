@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "akatora akaisa ⟨את⟩ chupupu chacho mudhara, akayisa ⟨את⟩ matanda pamusoro pedhara, akaisa ⟨את⟩ chivharo pedhara pamusoro pacho, kumusoro.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chupupu chacho"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "chupupu chacho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "dhara"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akayisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanda"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "dhara"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivharo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chivharo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "dhara"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kumusoro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:25.791833877Z",
+  "model": "glm-5.3"
+}

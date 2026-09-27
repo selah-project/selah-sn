@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Uye vakabayira ⟨את⟩ vanakomana navo ne⟨את⟩ vanasikana navo kune ⟨madhimoni⟩.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "vakabayira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanakomana navo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "vanakomana navo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanasikana navo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "vanasikana navo"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kune madhimoni"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:26.706582263Z",
+  "model": "glm-5.3"
+}

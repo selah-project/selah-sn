@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Uye achiri kurarama nokusingaperi, haazosi kuona shairo.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "achiri kurarama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "achiri"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazosi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "shairo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:50.056127732Z",
+  "model": "glm-5.3"
+}

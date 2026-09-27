@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Mupristi achaita chomwe chibairo chetadzo, nechomwe chibairo chokupisa, uye mupristi achakwanirira pachigaro chake pachiso peYahwe, nekuda kwekuyerera kwake kwekusachena kwake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chomwe (chibairo chetadzo)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chomwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "chibairo chetadzo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chomwe (chibairo chokupisa)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chomwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chibairo chokupisa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "achakwanirira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pachigaro chake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "kuyerera kwake"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "wekusachena kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:09.783067028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nomukadzi kwatwi rake haugoni kutoredza, kumutsa shungu, kuzivisa kunyadziswa kwake paari, mihuma yake.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "nomukadzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "twi rake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugoni"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kutoredza"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "kumutsa shungu"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kuzivisa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "kunyadziswa kwake"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "paari"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "mihuma yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:20.143077329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye mbozha usatore, nokuti mbozha inopofomadza vanoona, uye inochenjedza mashoko evakarurama.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "Uye mbozha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "-tore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "mbozha"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "inapofomadza"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "vanoona"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "inochenjedza"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "evakarurama"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:39.118652560Z",
+  "model": "glm-5.3"
+}

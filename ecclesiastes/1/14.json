@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndakaona ⟨את⟩ mashandisirwo ose anomuitwa pasi pezuva; uye taridza, zvose ndizvo hebhari nekutambudzika kwemhepo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashandisirwo ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "mashandisirwo"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "anomuitwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taridza"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebhari"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nekutambudzika"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwemhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:08.239775135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ani ⟨ndi⟩munhu anoita kutya Yahwe? Uyo achamudzidzisa nzira yaanasarudza.",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "⟨ndi⟩…uyu"
+    },
+    {
+      "surface": "הָ֭אִישׁ",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "יְרֵ֣א",
+      "gloss": "anoita kutya"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "י֝וֹרֶ֗נּוּ",
+      "gloss": "achamudzidzisa"
+    },
+    {
+      "surface": "בְּדֶ֣רֶךְ",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "יִבְחָֽר",
+      "gloss": "aanasarudza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:56.893761144Z",
+  "model": "glm-5.3"
+}

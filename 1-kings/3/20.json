@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Akamuka pakati peusiku, ndokutora ⟨את⟩ mwanakomana wangu pedyo neni, — mhanda yako yakarara — ndokumutorera mubereko make, ndokuisa ⟨את⟩ mwanakomana wake wakafa mubereko wangu.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ndokutora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanakomana wangu"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "pedyo neni"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mhanda yako"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "yakarara"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "ndokumutorera mubereko make"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "mubereko make"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wake wakafa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wakafa"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "ndokuisa"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "mubereko wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:34.936615816Z",
+  "model": "glm-5.3"
+}

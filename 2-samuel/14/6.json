@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye muzvidzwa wako aive nevavakomana vaviri, uye vaviri vakarwira kurwa munda, uye hapana akapatsanura pakati pavo; uye rimwe rakarwa ⟨את⟩ rimwe, uye rakauraya ⟨את⟩ iro.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "uye muzvidzwa wako"
+    },
+    {
+      "surface": "שני",
+      "gloss": "viviri"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "vakarwira kurwa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "akapatsanura"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "rakarwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rimwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "rakauraya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iro",
+      "marks": "iro"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:56.009409364Z",
+  "model": "glm-5.3"
+}

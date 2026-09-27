@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "izvo Yahwe akaraira kuti zipiwe kwavari, muzuva wokuzodza ⟨את⟩ ivo, ⟨את⟩ kubva kuvana vaIzraeri — chitemo chisingaperi kune madzinza avo.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "kuti zipiwe"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "מָשְׁחוֹ",
+      "gloss": "wokuzodza"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "⟨את⟩ kubva"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "vaIzraeri"
+    },
+    {
+      "surface": "חֻקַּת",
+      "gloss": "chitemo"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "chisingaperi"
+    },
+    {
+      "surface": "לְדֹרֹתָם",
+      "gloss": "kune madzinza avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:14.481464384Z",
+  "model": "glm-5.3"
+}

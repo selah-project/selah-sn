@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Erohimu ngavatitenderwere, uye ngavatibatsire; ngavashedze ⟨את⟩ chiso chavo kwatishe. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ngavatitenderwere"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "uye ngavatibatsire"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ngavashedze"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chavo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kwatishe",
+      "marks": "kwatishe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:46.578533739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Imi hamuchapinda munyika iyo yandakasimudira ⟨את⟩ ruoko rwangu kuti ndikugareise ⟨אתכם⟩ mumariri, asi Karevhi mukoma waYefunne naYehoshua mukoma waNunu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "hamuchapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "yandakasimudira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kuti ndikugareise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mumariri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunze kwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kunze kwa-"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Karevhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "naYehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:58:37.006635104Z",
+  "model": "glm-5.3"
+}

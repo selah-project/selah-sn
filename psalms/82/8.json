@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 82,
+  "translation": "Simuka, Erohimu, utonge pasi; nokuti iwe unogara nhaka yavanhu vazhinji ese.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "utonge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "unogara nhaka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yavanhu vazhinji ese"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "madzimadzibaba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:29.185261643Z",
+  "model": "glm-5.3"
+}

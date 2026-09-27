@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ndiye rurumbidzo rwako, uye ndiye Erohimu wako, anoita ⟨את⟩ zvikutsvagirira zvako izvi zvine simba uye ⟨את⟩ izvi zvakaomarara, izvo maziso ako akaona.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ndiye"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "rurumbidzo rwako"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye ndiye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ zvikutsvagirira zvako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvine simba"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "zvine simba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zvakaomarara"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "zvakaomarara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maziso ako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:28.484051176Z",
+  "model": "glm-5.3"
+}

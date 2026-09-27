@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 150,
+  "translation": "Murumbidzei iye nengoma dzinodzvova dzinonzwikwa; murumbidzei iye nengoma dzinodzvova dzekuzhumidza.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Murumbidzei iye"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "nengoma dzinodzvova"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dzinonzwikwa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "murumbidzei iye"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "nengoma dzinodzvova"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "dzekuzhumidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:37.805955918Z",
+  "model": "glm-5.3"
+}

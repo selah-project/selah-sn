@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akatsamwa naShoromoh, nokuti moyo wake wakatsauka kubva kunaYahwe, Erohimu yaIsiraeri, wakamuonekera kaviri.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "akatsamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "naShoromoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "wakatsauka"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "wakamuonekera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:36.995181180Z",
+  "model": "glm-5.3"
+}

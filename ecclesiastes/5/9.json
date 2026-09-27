@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Anoda madihombwe haaguti madihombwe, uye anoda upfumi haabatsirwi nacho — izvo zvisiri chibairo; izvi zvakare zvinenge mhepo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "madihombwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "guti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "madihombwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "uye anoda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "upfumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "batsirwi nacho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zvinenge mhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:41.667401359Z",
+  "model": "glm-5.3"
+}

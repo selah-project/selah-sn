@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Vakaisa ⟨את⟩ chikuvana chaYahwe pagari, ne⟨את⟩ chuma, ne⟨את⟩ mbeva dzezamba, ne⟨את⟩ mifananidzo yemadundu awo.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikuvana chaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chikuvana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chuma"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "chuma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mbeva dzezamba"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "mbeva dze"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mifananidzo yemadundu"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "mifananidzo ye"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "madundu awo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:41.323620321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati kwaari zvakare: Isa ndipo ruoko rwako muhembe yako. Akaisa ruoko rwake muhembe yake, akabudisa, uye taona, ruoko rwake rwakatemara sesirivhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "isa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "muhembe yako"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "muhembe yake"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "akabudisa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "rwakatemara"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "sesirivhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:22.216681534Z",
+  "model": "glm-5.3"
+}

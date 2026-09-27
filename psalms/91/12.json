@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Pamasanzvadzi avo vachakusimudza, kuti usatotswanya tsoka yako paibwe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pa-"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "masanzvadzi"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "avachakusimudza"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usato"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "-tswanya"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "paibwe"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tsoka yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:46.864394194Z",
+  "model": "glm-5.3"
+}

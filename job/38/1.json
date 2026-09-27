@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Yahwe akapindura ⟨את⟩ Ayiobhu kubva mukunyengeredzwa kwemhepo, akati:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayiobhu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayiobhu"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "kubva mu-"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "kunyengeredzwa kwemhepo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    }
+  ],
+  "timestamp": "2026-09-27T09:44:51.902730326Z",
+  "model": "glm-5.3"
+}

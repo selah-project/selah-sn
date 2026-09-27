@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 120,
+  "translation": "Shiri yeMatanho. Kuna Yahwe, muchinetso kwangu, ndakadana, iye akapindura.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Shiri"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yeMatanho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "muchinetso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ndakadana"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "iye akapindura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:41.181855274Z",
+  "model": "glm-5.3"
+}

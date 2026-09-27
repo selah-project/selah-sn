@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Yokishani akazvara ⟨את⟩ Shebhaha na⟨את⟩ Dedhani; vana vaDedhani vakanga vari Ashurimi, naRethushimi, naReumi.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yokishani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shebhaha"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebhaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Dedhani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedhani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "vaDedhani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vakanga vari"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurimi"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "naRethushimi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "naReumi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:36.168726121Z",
+  "model": "glm-5.3"
+}

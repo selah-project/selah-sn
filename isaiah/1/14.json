@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mwedzi yenyu nemibvumirano yenyu mweya wangu unozvionaira; mava norutwadzo kwandiri; ndaneta kuzvitakura.",
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "Mwedzi yenyu"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "nemibvumirano yenyu"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "unozvionaira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mava"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "norutwadzo"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "ndaneta"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kuzvitakura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:24.460721978Z",
+  "model": "glm-5.3"
+}

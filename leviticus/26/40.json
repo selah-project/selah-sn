@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye vachabvuma ⟨את⟩ kuipa kwavo ne⟨את⟩ kuipa kwamadzitateguru avo, mukutengesa kwavo iyo vakatengesa kwandiri; uyezve iwo vakafamba nandiri zvisingafaniri.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "vachabvuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuipa kwavo"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kuipa kwavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuipa kwamadzitateguru avo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "kwamadzitateguru avo"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "mukutengesa kwavo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "vakatengesa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "uyezve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nandiri"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "zvisingafaniri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:09.259282615Z",
+  "model": "glm-5.3"
+}

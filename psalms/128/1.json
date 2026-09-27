@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 128,
+  "translation": "Nziyo dzechikwidzo. Wakafara ⟨ndiye⟩ anosema-sema wose anotya Yahwe, anofamba munzira dzake.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dechikwidzo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Wakafara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "munzira dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:23.818854191Z",
+  "model": "glm-5.3"
+}

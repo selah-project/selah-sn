@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Kana muchifamba mumirairo yangu, uye ⟨את⟩ mirairo yangu muchichengeta nokuzviita:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "mumirairo yangu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "muchifamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mirairo yangu"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mirairo yangu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muchichengeta"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "nokuzviita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izvo (mirairo)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:16.034150926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Mutumwa waYahwe akadhindira Abhurahama kechipiri, kubva kudenga.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadhindira"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Mutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kechipiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kudenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:57.421625240Z",
+  "model": "glm-5.3"
+}

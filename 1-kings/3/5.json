@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "MuGibheoni Yahwe wakaonekwa kunaShoromwo muchipunza cheruva, uye Erohimu akati: “Nyenga — ndikupa chii?”",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "MuGibheoni"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "wakaonekwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromwo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "muchipunza"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "cheruva"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "uye akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Nyenga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndikupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:45.953095250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Nokuti achazviraira ngirozi dzake pamusoro penyoka, kuti dzichengete munzira dzako dzose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ngirozi dzake"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "achazviraira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pamusoro penyoka"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "kuti dzichengete iwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nzira dzako dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:46.864232010Z",
+  "model": "glm-5.3"
+}

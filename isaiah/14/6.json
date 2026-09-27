@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Akarova ⟨את⟩ vanhu nehasha, kurova kusingamire, akadzora marudzi mune hasha, achimanzvanza kusina anodzivirira.",
+  "tokens": [
+    {
+      "surface": "מַכֶּה",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בְּעֶבְרָה",
+      "gloss": "nehasha"
+    },
+    {
+      "surface": "מַכַּת",
+      "gloss": "kurova"
+    },
+    {
+      "surface": "בִּלְתִּי",
+      "gloss": "kusinga-"
+    },
+    {
+      "surface": "סָרָה",
+      "gloss": "mire"
+    },
+    {
+      "surface": "רֹדֶה",
+      "gloss": "akadzora"
+    },
+    {
+      "surface": "בָאַף",
+      "gloss": "mune hasha"
+    },
+    {
+      "surface": "גּוֹיִם",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "מֻרְדָּף",
+      "gloss": "achimanzvanza"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "kusina"
+    },
+    {
+      "surface": "חָשָׂךְ",
+      "gloss": "anodzivirira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:54.734128221Z",
+  "model": "glm-5.3"
+}

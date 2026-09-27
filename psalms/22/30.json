@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Vachadya vachinamata ose vanopfumi venyika; pamberi pake vachapfugama ose vanodzika kumvura yevhu, uye upenyu hwake haugoni kuzviita hupenyu.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Vachadya"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "vachinamata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "vanopfumi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamberi pake"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "vachapfugama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "vanodzika"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "kuvhu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "upenyu hwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kuzviita hupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:41.372111195Z",
+  "model": "glm-5.3"
+}

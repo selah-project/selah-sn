@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Masvotwa ano anoti kubaba: “Unobereka chii?” nomukadzi: “Unozvara chii?”",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Masvotwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "kubaba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "unobereka"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "nomukadzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "unozvara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:07.452936308Z",
+  "model": "glm-5.3"
+}

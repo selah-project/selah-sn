@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Moyo wangu wakudonha shoko rake rokuti zvakanaka; ndinotaura mabasa angu kumambo; rurimi rwanji runge peni yemunyori anokurumidza.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "wakudonha-katatu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndinotaura"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mabasa angu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kumambo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "rurimi rwanji"
+    },
+    {
+      "surface": "עט",
+      "gloss": "peni"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "yemunyori"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "anokurumidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.888182142Z",
+  "model": "glm-5.3"
+}

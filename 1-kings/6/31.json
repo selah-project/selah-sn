@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndokuti ⟨את⟩ mukanwa weDheviri, akagadzira miuso yemiti yeolivi; mutsigiri wapamusoro nemitsigiri yemativi zvaiita chikamu chechishanu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mukanwa weDheviri"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mukanwa"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "weDheviri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "miuso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yemiti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yeolivi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "mutsigiri wapamusoro"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mitsigiri yemativi"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "chikamu chechishanu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:08:12.626259553Z",
+  "model": "glm-5.3"
+}

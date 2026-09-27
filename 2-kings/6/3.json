@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mumwe wavo akati: Zvikwanire, ndapota, uyende ⟨את⟩ varanda vako. Akati: Ini ndichienda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "Mumwe wavo"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Zvikwanire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uyende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vako"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda vako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndichienda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:54.089248658Z",
+  "model": "glm-5.3"
+}

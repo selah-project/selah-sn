@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nguva yekuda, nenguva yekuvenga; nguva yehondo, nenguva yorugare.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Nguva"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "yekuda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "yokuvenga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "yehondo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rorugare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:43.012606127Z",
+  "model": "glm-5.3"
+}

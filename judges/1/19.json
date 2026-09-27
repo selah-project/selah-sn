@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe aiva naYudha, ndokutora ⟨את⟩ gororo; asi vakatadza kudzinga vagari vemu­bwinja, nokuti vaive nematara esimbi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ndokutora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gororo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gororo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vatadza"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "kudzinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vagari vemu­bwinja"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "vemubwinja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "matara"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "esimbi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vaive nawo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:54.147917108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Matenga anofara, nyika ichifara; gungwa rinodandadza, nezvizadzo zvaro.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "anofara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ichifara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "rinodandadza"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "nezvizadzo zvaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:00.430217885Z",
+  "model": "glm-5.3"
+}

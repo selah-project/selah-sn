@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati kuna Moshe: Tambanudza ruoko rwako, ubate muswe waro. Akatambanudza ruoko rwake, akabata waro, wakava chimuti muhanza wake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Tambanudza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ubate"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "muswe waro"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Akatambanudza"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "akabata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "waro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wakava"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "chimuti"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "muhanza wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:37.325412357Z",
+  "model": "glm-5.3"
+}

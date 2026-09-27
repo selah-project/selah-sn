@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye echitanhatu akanga ari Yithireamu, waEgeraha, mukadzi waDhavhidhi; ivaya vakazvarirwa ⟨na⟩Dhavhidhi muHebhroni.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "echitanhatu"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yithireamu"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "waEgeraha"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ivaya"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "vakazvarirwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "muHebhroni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:17.421543013Z",
+  "model": "glm-5.3"
+}

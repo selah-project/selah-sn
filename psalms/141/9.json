@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 141,
+  "translation": "Ndiise munzvimbo yakachengetedzwa kubva murusero rwavakarerekedza kwandiri, nezvirusero zvevashandi vezvakaipa.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ndiise munzvimbo yakachengetedzwa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "פח",
+      "gloss": "rusero"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "ravakarerekedza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "nezvirusero"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "zvevashandi"
+    },
+    {
+      "surface": "און",
+      "gloss": "zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:17.760721641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akati kwandiri: Kubva kumaodzanyemba chakaipa chichavhurwa pavagari vose venyika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kubva kumaodzanyemba"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "chichavhurwa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:50:33.945083985Z",
+  "model": "glm-5.3"
+}

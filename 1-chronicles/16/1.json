@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Vakasvitsa ⟨את⟩ areka yaErohimu, vakaimisa ⟨את⟩ pamberi mukati mehema yaDhavhidhi akatambanidzira iyo, uye vakazviramba zvipira zvokupisa nezvipira zvokururama pamberi peErohimu.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "vakasvitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "areka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "areka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "vakaimisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-iyo",
+      "marks": "areka (chinhu chakataurwa)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "mehema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya… iyo"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "akatambanidzira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "vakazviramba"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "zvipira zvokupisa"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "nezvipira zvokururama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:23:15.456076816Z",
+  "model": "glm-5.3"
+}

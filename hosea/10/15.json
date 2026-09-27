@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvakadaro kunoitwa kwamuri, iwe Beti-Eri, nokuda kwekushata kwakaipa kwenu; mangwananondo mambo weIsraeri achaputswa zvachose.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kunoitwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kushata"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "kwakaipa kwenu"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "mangwananondo"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "achaputswa"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:35.954696720Z",
+  "model": "glm-5.3"
+}

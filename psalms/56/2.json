@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Ndinetire wo, Erohimu, nokuti munhu anondirera; zuva rose anorwa, andidzvanya.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndinetire wo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "anondirera"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "anorwa"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "andidzvanya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:40.024465283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uchazodza ⟨את⟩ altare yechibairo chinopiswa ne⟨את⟩ zvinhu zvose zvaro, uchatsvenesa ⟨את⟩ altare iyo; altare ichava chitsvene chinopfuura chitsvene.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uchazodza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yechibairo chinopiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinhu zvaro"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uchatsvenesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "chinopfuura chitsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:48.925862077Z",
+  "model": "glm-5.3"
+}

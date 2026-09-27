@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Magumu ake ave yokudyiwa; muzera rinotevera zita ravo rudziiwe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ave"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "magumu ake"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "yokudyiwa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "muzera"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "rinotevera"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "rudziiwe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "zita ravo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:17.247077580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Asi Erohimu achavadonhedza ⟨nemuseve⟩; nokukasuka zvakava kuvarwadziwa kwavo.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "achavadonhedza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "museve"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "nokukasuka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zvakava"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "kuvarwadziwa kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:13.952530267Z",
+  "model": "glm-5.3"
+}

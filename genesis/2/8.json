@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Yahwe Erohimu akadyara munda muEdheni, kumabvazuva; uye akaisa iko ⟨את⟩ munhu amene akamuvaka.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "akadyara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "גן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "muEdheni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kumabvazuva"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amene"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "akamuvaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:58.733290282Z",
+  "model": "glm-5.3"
+}

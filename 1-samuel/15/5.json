@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Shauro akasvika guta reAmareki, akaunganidza masoja munzvimbo yebumba.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "reAmareki"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "akaunganidza masoja"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "munzvimbo yebumba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:40.710566372Z",
+  "model": "glm-5.3"
+}

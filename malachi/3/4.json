@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye mubairo weminha waYudha neYerusharema unochipa Yahwe kufadza, semazuva emadzoremba, semakore ekutanga.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "unochipa kufadza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mubairo weminha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "waYudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerusharema"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "semazuva"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "emadzoremba"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "semakore"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "ekutanga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:44.697076804Z",
+  "model": "glm-5.3"
+}

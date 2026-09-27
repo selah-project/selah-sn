@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Pandakanyarara, mapfupa angu akatapudzwa, nokuzhamba kwangu kwose kwemazuva ose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Pandaka-"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "-nyarara"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "akatapudzwa"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mapfupa angu"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "nokuzhamba kwangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kwemazuva ose"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:41.192023415Z",
+  "model": "glm-5.3"
+}

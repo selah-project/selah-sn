@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Saka gegesa, uzonyore, uye uvhike mabhindauko ako pamusoro pako, wozodzika kudenga; rega kuziviswa murume kudzamara apedza kudya nekunwa.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "gegesa"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "uzonyore"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "uvhike"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "mabhindauko ako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "wozodzika"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "kudenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "kuziviswa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kudzamara"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "apedza"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "nekunwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:49:43.898311908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Vakapa ⟨את⟩ matupu evaranda vako chikafu cheshiri dzadenga, inyama yevatsvene vako kune mhuka dzepasi.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Vakapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matupu evaranda vako"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "matupu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "evaranda vako"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "cheshiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzadenga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "yevatsvene vako"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "kune mhuka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dzepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:52.432272284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Iye anoshandira pamwe chete moyo yavo; anonzwisisa mabasa avo ose.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "anoshandira"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo yavo"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "anonzwisisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kune⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mabasa avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:05.746881508Z",
+  "model": "glm-5.3"
+}

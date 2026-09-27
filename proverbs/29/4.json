@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Mambo nomutemo wokururamisa anosimikarira nyika; asi munhu wemipiro anouradza.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nomutemo wokururamisa"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "anosimikarira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "wemipiro"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "anouradza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:51.849719377Z",
+  "model": "glm-5.3"
+}

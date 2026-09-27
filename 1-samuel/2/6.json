@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Yahwe anouraya nekumuporesa; anodzikisa kuna Sheori nokudzikidza.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מֵמִ֣ית",
+      "gloss": "anouraya"
+    },
+    {
+      "surface": "וּמְחַיֶּ֑ה",
+      "gloss": "anomuporesa"
+    },
+    {
+      "surface": "מוֹרִ֥יד",
+      "gloss": "anodzikisa"
+    },
+    {
+      "surface": "שְׁא֖וֹל",
+      "gloss": "kuna Sheori"
+    },
+    {
+      "surface": "וַיָּֽעַל",
+      "gloss": "nokudzikidza"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:26.724865812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Kubva mumagumo ematenga kunobuda kwaro, uye kutenderera kwaro kusvika kumagumo avo; hapana chinotsvitswa kubva kudziro yaro.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "kubva mumagumo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ematenga"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kunobuda kwaro"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "kutenderera kwaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "kumagumo avo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "chinotsvitswa"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "kudziro yaro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:50.278880180Z",
+  "model": "glm-5.3"
+}

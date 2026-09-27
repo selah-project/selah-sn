@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Akati kune vanhu vake: Tarisai, vanhu vana vaIsraeri vakawanda uye vakasimba kupfuura isu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "uye vakasimba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kupfuura isu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:19.633252493Z",
+  "model": "glm-5.3"
+}

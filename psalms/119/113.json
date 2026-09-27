@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Vanhu vepfungwa dzakaparadzana ndinovenga, asi tora yako ndinoida.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "vanhu vepfungwa dzakaparadzana"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndinovenga"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "asi tora yako"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndinoida"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:54.459785590Z",
+  "model": "glm-5.3"
+}

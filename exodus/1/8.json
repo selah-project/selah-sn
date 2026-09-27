@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino kwakauva mambo mupenyu pamusoro peMitzrayimu, asina kuziva ⟨את⟩ Yosefu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kwakauva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana kana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:41.387791546Z",
+  "model": "glm-5.3"
+}

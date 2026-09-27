@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Ne⟨את⟩ Beithi-Nimurha, ne⟨את⟩ Beithi-Harani — maguta emadzimbahwe, nedzerwa remhosi dzouswa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Beithi-Nimurha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beithi"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimurha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Beithi-Harani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beithi"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "emadzimbahwe"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "nedzerwa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "remhosi dzouswa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:27.068365801Z",
+  "model": "glm-5.3"
+}

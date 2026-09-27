@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Nokuti ndiye anokutonhodza kubva mutekenedza remuridzi wezvihuta, kubva mutachiona hunonyangadza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "anokutonhodza"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kubva mutekenedza"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "remuridzi wezvihuta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "tachiona hunonyangadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:34.114626549Z",
+  "model": "glm-5.3"
+}

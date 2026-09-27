@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Usaite zvakanyanya mhosva, uye usave mupenzi; nei ukafa usiri panenguva yako?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "uite mhosva"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usave"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "usive"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "mupenzi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ufa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "usiri"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "panenguva yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:48.295888817Z",
+  "model": "glm-5.3"
+}

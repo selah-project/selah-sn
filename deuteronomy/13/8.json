@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Kubva kuvamwari evanhu vari kumativi kwenyu, ari pedyo newe, kana ari kure newe, kubva mugumo wepasi kusvika mugumo wepasi;",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "kubva kuvamwari"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vari"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "kumativi kwenyu"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ari pedyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "ari kure"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kubva mugumo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wepasi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mugumo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:15:13.408498967Z",
+  "model": "glm-5.3"
+}

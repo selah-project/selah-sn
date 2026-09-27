@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 130,
+  "translation": "Nzira yekukwidza. Kubva mukudzika kwadzikisa ndakaita kuda kwako, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nzira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yekukwidza"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Kubva mukudzika kwadzikisa"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakaita kuda kwako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:01.668435412Z",
+  "model": "glm-5.3"
+}

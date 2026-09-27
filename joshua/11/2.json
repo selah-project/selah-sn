@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "nokumambo ari kuMaodzanyemba, mugomo, nemaArabha, chamhembe cheKinariyoti, nemudunhu reShafela, nemunzvimbo dzeDhorori kumadokero;",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "nokuna"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kuMaodzanyemba"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mugomo"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "nemaArabha"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "chamhembe"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinariyoti"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "mudunhu reShafela"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "munzvimbo dze"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dhorori"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kumadokero"
+    }
+  ],
+  "timestamp": "2026-09-27T06:27:32.006742181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Izwi raYahwe rinokomborera gwenga; rinokomborera Yahwe gwenga reKadeshi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "rinokomborera"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gwenga"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "rinokomborera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gwenga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "reKadeshi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:20.025279726Z",
+  "model": "glm-5.3"
+}

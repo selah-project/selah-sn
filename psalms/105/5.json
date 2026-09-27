@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Rangarirai zvinoshamisa zvake izvo akaita, mazvioniro ake, nematongero emuromo wake.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Rangarirai"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zvinoshamisa zvake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mazvioniro ake"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "nematongero"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "emuromo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:20.627932768Z",
+  "model": "glm-5.3"
+}

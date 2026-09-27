@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Uye vazive kuti iwe — zita rako ndiro Yahwe — iwe chete muneushe wedenga, pamusoro pe ⟨ndima⟩ yose ye ⟨nyika⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Uye vazive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "iwe chete"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "muneushe wedenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose ye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:56.331385745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ndokuti ndakaona ini ⟨את⟩ zvose kutambudzika, ne⟨את⟩ zvose ubudiriri hwabasa, nokuti ndiyo shuva yomunhu nomunumberi wake; izvi zvakare heveri uye kushinga kwemhepo.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ndakaona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose kutambudzika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kutambudzika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose ubudiriri hwabasa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ubudiriri"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "hwabasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "shuva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomunhu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "nomunumberi wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveri"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "uye kushinga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwemhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:52.269435694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mazvinyaradzi akadzinga ⟨mitsvairo⟩ yandinogara nawo, izvo zvisiri zvinoenderana natora yako.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "akadzinga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yandinogara-nawo"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "Mazvinyaradzi"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "mitsvairo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zvisiri"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "zvinoenderana natora yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:54.054915668Z",
+  "model": "glm-5.3"
+}

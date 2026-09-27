@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Dzoka, Yahwe, dzikinura ⟨את⟩ mweya wangu; ndiponese nekuda kwehesedhi yako.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Dzoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "dzikinura"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndiponese"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nekuda kwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:11.870097914Z",
+  "model": "glm-5.3"
+}

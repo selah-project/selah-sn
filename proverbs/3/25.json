@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Usatye kutya kwezvezve, kana kunhwangwa kwevaipi apo kunouya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "-tye"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "kwezvezve"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "kana kunhwangwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwevaipi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kunouya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:48.032719106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "nokuti havana kutenda munaErohimu, uye havana kuvimbika muponeso wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kutenda"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "munaErohimu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "kuvimbika"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "muponeso wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:18.917079871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Kwauri, iwe chete, ndinotadza, uye zvakaipa maziso ako ndakaita — kuti urambe uri mururami mune mashoko ako, uye usina mhosva mukutonga kwako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kwauri"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "iwe chete"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ndinotadza"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "maziso ako"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "urambe uri mururami"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "mashoko ako"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "usina mhosva"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "mukutonga kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:01.867963118Z",
+  "model": "glm-5.3"
+}

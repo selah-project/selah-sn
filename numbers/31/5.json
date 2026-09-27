@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Zvakaomerwa kubva muzviuru zvaIsraeri churu rimwe paganda, gumi nemaviri churu, vakagadzirira hondo.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "zvakaomerwa"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kubva muzviuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "paganda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "vakagadzirira"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hondo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:52:55.942275839Z",
+  "model": "glm-5.3"
+}

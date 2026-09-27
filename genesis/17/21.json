@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Asi ⟨את⟩ sungano yangu ndichaisimika ⟨את⟩ Itsheki, uyo Sara achakuzvarira pa nguva ino, mugore rinotevera.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndichaisimika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itsheki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsheki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "achazvarira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mugore"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "rinotevera"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:55.375151569Z",
+  "model": "glm-5.3"
+}

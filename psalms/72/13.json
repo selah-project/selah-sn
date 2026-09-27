@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Anotenderera ⟨את⟩ mupfumbi nevatorwa, uye mweya dzevapfumbi anoponesa.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "anotenderera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mupfumbi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nevatorwa"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "mweya dze"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "vapfumbi"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "anoponesa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.204951498Z",
+  "model": "glm-5.3"
+}

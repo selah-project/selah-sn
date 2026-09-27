@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye vakawana ⟨את⟩ Adhoni-Bezheki muBezheki, uye vakarwa naye, uye vakakunda ⟨את⟩ Mukanani ne⟨את⟩ Perizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "vakawana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adhoni-Bezheki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adhoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezheki"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "muBezheki"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakakunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mukanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mukanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:51.409619671Z",
+  "model": "glm-5.3"
+}

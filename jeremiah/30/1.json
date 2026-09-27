@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Shoko rakauka kuna Yiremiahu kubva kuna ⟨את⟩ Yahwe, richiti:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Shoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ra"
+    },
+    {
+      "surface": "היה",
+      "gloss": "rakauka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremiahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva kuna ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "richiti"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:24.128058256Z",
+  "model": "glm-5.3"
+}

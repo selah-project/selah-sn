@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 41:6",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Ishmaeri mwanakomana waNetania akabuda kubva kuMitsipa kusangana navo, achienda-ndiye-achienda achichema; zvikanzi paaavasangana navo, akati kwavari: Uyai kuna Gedhariyahu mwanakomana waAhikamu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishmaeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "waNetania"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "kusangana navo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "kuMitsipa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "achienda"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ndiye achienda"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "achichema"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvikanzi"
+    },
+    {
+      "surface": "כפגש",
+      "gloss": "paaavasangana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (varume makumi masere)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "באו",
+      "gloss": "uyai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedhariyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "waAhikamu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:08:49.531750032Z",
+  "model": "glm-5.3"
+}

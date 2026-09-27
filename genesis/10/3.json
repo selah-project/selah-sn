@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye vana vaGomera: Ashikenazi, Rifipathi naTogarama.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Uye vana va"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomera"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashikenazi"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "Rifipathi"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "Togarama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:23.435313864Z",
+  "model": "glm-5.3"
+}

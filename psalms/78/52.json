@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "akaendesera vanhu vake sevako, akavatungamirira setwanga mugwenga.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akaendesera"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sevako"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "akavatungamirira"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "setwanga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:36.003036154Z",
+  "model": "glm-5.3"
+}

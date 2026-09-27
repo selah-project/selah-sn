@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nemuzuva iwoyo, Yahwe akakudza ⟨את⟩ Yehoshua maziso evose veIsraeri; navakatya ⟨את⟩ iye, sezvavakaita kutya ⟨את⟩ Moshe, mazuva ose ehupenyu hwake.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nemuzuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iwoyo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "akakudza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maziso evose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "evose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "navakatya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (Yehoshua)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezvavakaita"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ehupenyu hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:40.023908461Z",
+  "model": "glm-5.3"
+}

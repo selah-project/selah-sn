@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye vanhu vakatora ⟨את⟩ mafuta avo asati avertsuka, nemiyeso yavo yakafugidzwa mihete yavo pamapendekero avo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta avo"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "mafuta avo"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "asati"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "avertsuka"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "miyeso yavo"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "yakafugidzwa"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "mihete yavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "mapendekero avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:28.251086792Z",
+  "model": "glm-5.3"
+}

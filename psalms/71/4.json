@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Mwari wangu, ndinunure mumanja emuneaka, muroko weava anodzorereda neavo vanorwadzisa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mwari wangu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ndinunure"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mumanja ea"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "muneaka"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "muroko we"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ava anodzorereda"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "neavo vanorwadzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:58.210472095Z",
+  "model": "glm-5.3"
+}

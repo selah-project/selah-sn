@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Zvakadiripadiri pakurumba kwangu mashoko ako; akaipa kupfuura huchi mukamwa mwangu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "zvakadi"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "ripadiri"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "pakurumba kwangu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "mashoko ako"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "kupfuura huchi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mukamwa mwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:28.226845631Z",
+  "model": "glm-5.3"
+}

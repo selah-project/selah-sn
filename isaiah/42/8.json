@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Ndini Yahwe, ndiro zita rangu; rukudzo rwangu handidi kupa rimwe, ruda rwenyasha dzangu handidi kupa zvifananidzo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "zita rangu"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "rukudzo rwangu"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handidi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ruda rwenyasha dzangu"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "kupa zvifananidzo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:57.231367124Z",
+  "model": "glm-5.3"
+}

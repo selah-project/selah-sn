@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Iwe unchasimuka, unchashungunudza ⟨את⟩ Ziyoni; nokuti nguva yekushungunudza yake yauya, nokuti nguva yakatarwa yasvika.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "unchasimuka"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "unchashungunudza"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "yekushungunudza yake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yasvika"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nguva yakatarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:17.699574691Z",
+  "model": "glm-5.3"
+}

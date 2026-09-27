@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "ne⟨את⟩ chibande cherineni, ne⟨את⟩ zvishongedzo zvehengo cherineni, ne⟨את⟩ mabhurukwa erineni, rineni rakazviringirwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chibande"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chibande"
+    },
+    {
+      "surface": "שש",
+      "gloss": "cherineni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvishongedzo"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "zvishongedzo"
+    },
+    {
+      "surface": "המגבעות",
+      "gloss": "zvehengo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "cherineni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabhurukwa"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "mabhurukwa"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "erineni"
+    },
+    {
+      "surface": "שש",
+      "gloss": "rineni"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "rakazviringirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:56.236096865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye Yahwe anovabatsira, anovanunura; anovanunura kuburikidza nevakaipa, anovaponesa, nokuti vakazvitsekera kwaari.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "anovabatsira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "anovanunura"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "anovanunura"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kuburikidza nevakaipa"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "anovaponesa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "vakazvitsekera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:02.911502125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Nokuti ndataura: hesedhi chakavakwa nokusingaperi; matenga, iwo ndimo uchatsimikiza rutendo rwako mumo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndataura"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "chakavakwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "uchatsimikiza"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "rutendo rwako"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mumo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:53.158275523Z",
+  "model": "glm-5.3"
+}

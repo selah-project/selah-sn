@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Mupanga uchagara mumaguta avo, uchapera vharo dzavo, uchadya ⟨nezve⟩ mazano avo.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "uchagara"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Mupanga"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "mumaguta avo"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "uchapera"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "vharo dzavo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "uchadya"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "nezve mazano avo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:12:07.717374172Z",
+  "model": "glm-5.3"
+}

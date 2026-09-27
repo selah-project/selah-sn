@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Asi ⟨את⟩ nyama yemombe, ne⟨את⟩ ganda rayo, ne⟨את⟩ ndove yayo unozvinyika nomoto kunze kwemusha; chibairo chetadzo ndicho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yemombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ganda rayo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ganda rayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ndove yayo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ndove yayo"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "unozvinyika"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwemusha"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "chibairo chetadzo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:31.326810009Z",
+  "model": "glm-5.3"
+}

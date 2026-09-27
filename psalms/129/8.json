@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 129,
+  "translation": "Uye vakafamba vachipfuura havatauri kuti: “Rukudzo rwaYahwe rugove pamusoro penyu; takaropafadza ⟨את⟩ imi muzita raYahwe.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "havatauri"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "vakafamba vachipfuura"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "rukorwa\/rukudzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "takaropafadza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "muzita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:21.903210620Z",
+  "model": "glm-5.3"
+}

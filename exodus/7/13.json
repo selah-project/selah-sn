@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Mwoyo waFarao wakasimba, asi haana kunzwa pavari, seizvo akataura Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wakasimba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mwoyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "pavari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seizvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:03.445799337Z",
+  "model": "glm-5.3"
+}

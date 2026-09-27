@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Kashanu katatu mugore, vose varume vako vachaonekwa ⟨את⟩ pachiso peAdonai Yahwe, Erohimu waIsraeri.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "katatu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "Kashanu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mugore"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vachaonekwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "varume vako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachiso peAdonai Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:30.088957636Z",
+  "model": "glm-5.3"
+}

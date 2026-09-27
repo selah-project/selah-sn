@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Namadzimbahwe ayo ndichapfekedza ruponeso, navatsvene vayo vacharidza mufaro.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "Namadzimbahwe ayo"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ndichapfekedza"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ruponeso"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "navatsvene vayo"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "kuridza mufaro"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vacharidza mufaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:10.253999789Z",
+  "model": "glm-5.3"
+}

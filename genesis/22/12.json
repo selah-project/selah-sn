@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 22:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Akati: Usatyoresa ruko rwako kumwana, uye usamuita chinhu; nokuti izvozvino ndinoziva kuti iwe unotya Erohimu, nokuti hwauna kuregeredza ⟨את⟩ mwanakomana wako, ⟨את⟩ wega wako, kubva kwandiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "usatyoresa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruko rwako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usa-"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "usaita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izvozvino"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinoziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "unotya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hwa-"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "hwauna kuregeredza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wako"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanakomana wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wega wako"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "wega wako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:27.831693097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Nokuti murume wako ⟨ndivo⟩ vakusika — Yahwe Tsevaoti zita ravo — uye mudzikinuri wako Mutsvene waIsirairi, Erohimu wepasirose vanodanwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "murume wako"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "vakusika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita ravo"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "uye mudzikinuri wako"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mutsvene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsirairi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "we"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasirose"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "vanodanwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:29.571872391Z",
+  "model": "glm-5.3"
+}

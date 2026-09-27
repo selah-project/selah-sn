@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "ozounza ⟨את⟩ ashamu yake kuna Yahwe pachitadzo chaakatadza: chikadzi chemhuri yezvipfuwo — hwayi kana mhene — sechibairo chetadzo; uye mupristi ozomuregerera pachitadzo chake.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ozounza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashamu yake"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamu yake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "chitadzo chake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaakatadza"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "akatadza"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "chikadzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "che-"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mhuri yezvipfuwo"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "hwayi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "mhene"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "dzembudzi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sechibairo chetadzo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ozomuregerera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "pachitadzo chake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:50.232015750Z",
+  "model": "glm-5.3"
+}

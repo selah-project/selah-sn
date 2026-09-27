@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 2:13",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ruti akati: “Ngandiwane nyasha mumeso ako, Adonai, nokuti wandinyaradza, uye nokuti wataura kune moyo wemuranda wako wechikadzi, asi ini handiri sokumwe kwevaranda vako vakadzi.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ngandiwane"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nyasha"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mumeso ako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נחמתני",
+      "gloss": "wandinyaradza"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "uye nokuti"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wataura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kune"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "wemuranda wako wechikadzi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handiri"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sokuda kunge"
+    },
+    {
+      "surface": "כאחת",
+      "gloss": "sokumwe"
+    },
+    {
+      "surface": "שפחתיך",
+      "gloss": "kwevaranda vako vakadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:49:00.930406842Z",
+  "model": "glm-5.3"
+}

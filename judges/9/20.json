@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "asi kana kwete, moto ubve kunaAbhimeleki, ugapfire ⟨את⟩ madzishe eShekemu ne⟨את⟩ mumba waMirro; uye moto ubve kumadzishe eShekemu nemumba waMirro, ugapfire ⟨את⟩ Abhimeleki.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "asi kana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ubve"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "kunaAbhimeleki"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ugapfire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzishe eShekemu"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "eShekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mumba waMirro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "waMirro"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ubve"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "kumadzishe"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "eShekemu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "nemumba"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "waMirro"
+    },
+    {
+      "surface": "ויתאכל — ותאכל",
+      "gloss": "ugapfire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimeleki"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:11.595529586Z",
+  "model": "glm-5.3"
+}

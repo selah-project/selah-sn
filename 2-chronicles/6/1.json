@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Panguva iyoyo Shoromoni akati: Yahwe akati ⟨chinodiwa chake⟩ ⟨ndi⟩kugara muzvinoira.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "panguva iyoyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "muzvinoira"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:02.111574696Z",
+  "model": "glm-5.3"
+}

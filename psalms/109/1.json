@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Kune anotungamira. Nziyo yaDhavhidhi. Erohimu werumbidzo rwangu, usanyarare.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune anotungamira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "werumbidzo rwangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nyarare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:22.979998876Z",
+  "model": "glm-5.3"
+}

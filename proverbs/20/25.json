@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Muteyo kwomunhu ndiwo kutaudza \"Chitsvene!\" asina kufunga, uye mushure memapikiriro kuongorora.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "muteyo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "kwomunhu"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "kutaudza asina kufunga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "\"Chitsvene!\""
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "uye mushure mema-"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "mapikiriro"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "kuongorora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:27:53.334764480Z",
+  "model": "glm-5.3"
+}

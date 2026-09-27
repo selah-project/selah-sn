@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "wakati: Pamuchizvarisa ⟨את⟩ madzimai echiHebheru, muchiona pamatombo echizvariso; kana mukomana — murafe ⟨אתו⟩; asi kana musikana — arambe aripenyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "pamuchizvarisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzimai echiHebheru"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "madzimai echiHebheru"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "muchiona"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matombo echizvariso"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "murafe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "iye (mukomana)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "asi kana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "musikana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "arambe aripenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:31.286202897Z",
+  "model": "glm-5.3"
+}

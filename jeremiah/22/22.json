@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 22:22",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Mhepo ichafudza vakachengeti vako vose, uye vaida kwako vachapinda musungo; nokuti panguva iyoyo uchashamedwa uye uchapfuurwa nezvakaipa zvako zvose.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "vakachengeti vako"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "ichafudza"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "ומאהביך",
+      "gloss": "uye vaida kwako"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "musungo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vachapinda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "panguva iyoyo"
+    },
+    {
+      "surface": "תבשי",
+      "gloss": "uchashamedwa"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "uchapfuurwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nezvose"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "zvakaipa zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:59:11.201115343Z",
+  "model": "glm-5.3"
+}

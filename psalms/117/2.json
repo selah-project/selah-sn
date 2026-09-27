@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 117,
+  "translation": "Nokuti hesedhi yake yakasimba pamusoro penyu, nechokwadi chaYahwe chicharamba nokusingaperi. Rumbidzai Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yakasimba"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nechokwadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:25.312786620Z",
+  "model": "glm-5.3"
+}

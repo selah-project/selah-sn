@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Imba ino yaunovaka: ukadendera muzvitemo zvangu, ukaita ⟨את⟩ mitemo yangu yezvurugama, uye ukachengeta ⟨את⟩ mirairo yangu yose woenda muzvayo, ndichamisikidza ⟨את⟩ izwi rangu ⟨את⟩ newe, raNdataura kuna Dhavhidhi baba vako.",
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "Imba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yauno"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uka"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "dendera"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "muzvitemo zvangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yangu yezvurugama"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mitemo yangu yezvurugama"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukaita"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ukachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yangu yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mirairo yangu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "woenda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muzvayo"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "ndichamisikidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi rangu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "raNdataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:33.389720839Z",
+  "model": "glm-5.3"
+}

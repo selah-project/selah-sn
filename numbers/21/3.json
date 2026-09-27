@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Yahwe akateerera izwi reIsiraeri, akazvidza ⟨את⟩ mukanaani; vakaamutsa ⟨את⟩ iye nevagari vake, newamaguta avo. Zita renzvimbo iyoyo rakanzi Charama.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akateerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "reIsiraeri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akazvidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "mukanaani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "vakaamutsa"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ iye nevagari vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maguta avo"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "maguta avo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "rakanzi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "renzvimbo"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Charama"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:39.333963871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye muPelisthi akatarisa, akaona ⟨את⟩ Dhavhidhi, akamushora; nokuti aiva mukomana, uye mutsvuku, uye wakanaka kuonekwa.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "akatarisa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "muPelisthi"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "akamushora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "uye mutsvuku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "wakanaka"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuonekwa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:52.922326800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Zvino shure kwezvinhu izvi, zvakataurwa kuYosefa kuti: Ona, baba vako vari kurwara; akatora ⟨את⟩ vana vake vaviri navo, ⟨את⟩ Menashhe ne⟨את⟩ Erfuraimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zvakataurwa"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kuYosefa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "vari kurwara"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake vaviri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "navo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashhe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Erfuraimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Erfuraimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:17.913134440Z",
+  "model": "glm-5.3"
+}

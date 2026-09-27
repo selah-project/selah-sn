@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Verenga ⟨את⟩ vana vaRevhi nemba dzamadzibaba avo, nemhuri dzavo; murume wose kubva mwanakomana wemwedzi mokupfuura uwo, uvaverenge.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "verenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaRevhi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "vaRevhi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nemba"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dzamadzibaba avo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemhuri dzavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "murume"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kubva mwanakomana"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wemwedzi"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "mokupfuura uwo"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "uvaverenge"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:50.693316368Z",
+  "model": "glm-5.3"
+}

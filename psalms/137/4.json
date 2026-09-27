@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Tingaimba sei ⟨את⟩ rwiyo rwaYahwe panzvimbo yevatorwa?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "sei"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "Tingaimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rwiyo rwaYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "inzvimbo"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yevatorwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:34.281727738Z",
+  "model": "glm-5.3"
+}

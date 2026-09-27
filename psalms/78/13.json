@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akagura gungwa, akavadzisa kudarika; akamisa ⟨את⟩ mvura semurwi wakadzika.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "akagura"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "akavadzisa kudarika"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "akamisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "נד",
+      "gloss": "murwi wakadzika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:19.931710951Z",
+  "model": "glm-5.3"
+}

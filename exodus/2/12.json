@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Akatarisa divi rimwe nedivi rimwe, akaona kuti hapana munhu; akarova ⟨את⟩ muMitsraimu, akamuviga muchitsvona.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "akatarisa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "divi rimwe"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "nedivi rimwe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muMitsraimu"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "muMitsraimu"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "akamuviga"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "muchitsvona"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:55.984143466Z",
+  "model": "glm-5.3"
+}

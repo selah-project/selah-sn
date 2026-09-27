@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Masvotwa iwe, nyika, apo mambo wako ⟨⟨ndi⟩⟩ mwana, uye madzishe ako mambakwedza vanodya!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Masvotwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "apo mambo wako"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "uye madzishe ako"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mambakwedza"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vanodya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:17.128636957Z",
+  "model": "glm-5.3"
+}

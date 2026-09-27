@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Muvatse mwana, asi angatsamwa, movanepo mumugwero; nokuti hasha dake dzichatsva kwechinguva. Vakafara vose vanovimbira mune iye.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "Muvatse"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "פן",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "angatsamwa"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "movanepo mumugwero"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mumugwero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "dzichatsva"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kwechinguva"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasha dake"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Vakafara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "vanovimbira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mune iye"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:51.311846353Z",
+  "model": "glm-5.3"
+}

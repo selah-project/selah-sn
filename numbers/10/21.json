@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye vakafamba vana vaKehati, vachitora ⟨את⟩ chitsvene; vamwe vakamisa ⟨את⟩ Mishikani kusvika vachisvika.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "vana vaKehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "vachitora"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "vakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "באם",
+      "gloss": "vachisvika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:56:31.437133550Z",
+  "model": "glm-5.3"
+}

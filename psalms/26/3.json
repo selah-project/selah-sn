@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Nokuti hesedhi yako iri pachiso pangu, ndokuti ndakafamba muchechitsuoko chako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "iri pachiso pangu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maso angu"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ndokuti ndakafamba"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "muchechitsuoko chako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:46.639942049Z",
+  "model": "glm-5.3"
+}

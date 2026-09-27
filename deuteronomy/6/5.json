@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye unofanira kuda ⟨את⟩ Yahwe Erohimu wako nemwoyo yako yose, nomweya wako wose, nesimba rako rose.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "unofanira kuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne… yose"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mwoyo yako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "no… wose"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mweya wako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne… rose"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "simba rako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:00.267264276Z",
+  "model": "glm-5.3"
+}

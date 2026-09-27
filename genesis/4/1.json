@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Murume akaziva ⟨את⟩ Havha mukadzi wake, iye akatama, akazvara ⟨את⟩ Kaini, akati: Ndakatenga ⟨את⟩ munhu neYahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Murume"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akaziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Havha"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havha"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akatama"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaini"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaini"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Ndakatenga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:53.131428881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti kana makaipa mazwi enyu nemabasa enyu, kana muita mutemo pakati pemunhu nomudzikidzi wake,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "makaipa-mazwi"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "mazwi enyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi enyu"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mazwi enyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabasa enyu"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "mabasa enyu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "muita-mutemo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muita"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no pakati pa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mudzikidzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:52:21.510248693Z",
+  "model": "glm-5.3"
+}

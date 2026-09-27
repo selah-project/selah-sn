@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Akawedzera zvakare, akabara mukomana, akadana ⟨את⟩ zita rake Shela; akanga ari munaKhezibhu paakamubereka.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "akanga ari"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "munaKhezibhu"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "paakamubereka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mukomana uyu (Shela)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:31.954895570Z",
+  "model": "glm-5.3"
+}

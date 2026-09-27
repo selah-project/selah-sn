@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Chero chinhu chakachinjirwa chiremu, chakanangwa nechiremu pavanhu, hachigadziriswi nekutsvaga; rufu rucharufa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chero"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "chinhu chakachinjirwa chiremu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "acho"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "chakanangwa nechiremu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "pavanhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haiwa"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "hachigadziriswi nekutsvaga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "rufu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "rucharufa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:30.954105699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "ngatidzosere ⟨את⟩ gata raErohimu wedu kwatiri, nokuti hatisina kuritsvaga mazuva aShauru.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ngatidzosere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gata raErohimu wedu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "gata"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "raErohimu wedu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatisina"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kuritsvaga"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mazuva a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    }
+  ],
+  "timestamp": "2026-09-27T10:23:28.015874075Z",
+  "model": "glm-5.3"
+}

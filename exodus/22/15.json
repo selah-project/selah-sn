@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye kana munhu akanyengedza mhandara isina kuroorwa, akarara naye, achayo mhari — achaiwa kwaari somukadzi wake.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "akanyengedza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mhandara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isina"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "kuroorwa"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "akarara"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "naye"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "achayo mhari"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "achaiwa kwaari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "somukadzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:50.102642135Z",
+  "model": "glm-5.3"
+}

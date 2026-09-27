@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "ne⟨את⟩ vaHhiti, ne⟨את⟩ vaPerizi, ne⟨את⟩ vaRefaimu;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vaHhiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "vaHhiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vaPerizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "vaPerizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vaRefaimu"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "vaRefaimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:15.752234680Z",
+  "model": "glm-5.3"
+}

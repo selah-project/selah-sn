@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Isa pfunda kumukanwa wako; ⟨auchauya⟩ senhonga pamusoro pebatimbo raYahwe, nokuti vakapfuura sungano yangu, uye patora yangu vakapandukira.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kumukanwa"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "pfunda"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "senhonga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "batimbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יון",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "vakapfuura"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora yangu"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "vakapandukira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:43.113361030Z",
+  "model": "glm-5.3"
+}

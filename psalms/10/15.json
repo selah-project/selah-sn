@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Chapatidza ⟨את⟩ ruoko rwomushaka, nomuviyi waita zvakaipa; tsvaga rusaruro rwake — haina kuwanikwa.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Chapatidza"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mushaka"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nomuviyi woipa"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "tsvaga"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "rusaruro rwake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "-kuwanikwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:52.923205890Z",
+  "model": "glm-5.3"
+}

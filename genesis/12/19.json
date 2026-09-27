@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Sei wataura kuti: Muzukuru wangu ndiye? Ndakatora ⟨את⟩ iye kundirera semukadzi. Zvino tarira, mukadzi wako — tora, uye famba.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wataura"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Muzukuru wangu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "Ndakatora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundirera"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "semukadzi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mukadzi wako"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uye famba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:26.569452812Z",
+  "model": "glm-5.3"
+}

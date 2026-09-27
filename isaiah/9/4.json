@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti bhutsu yese yakashongedzwa nokutsinhira, uye nhembe yakamonera mudamaro — ichava chinopiswa, chidyo chemoto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yese"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "bhutsu"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "yakashongedzwa"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "nokutsinhira"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "uye nhembe"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "yakamonera"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "mudamaro"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "chinopiswa"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "chidyo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "chemoto"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:47.793753783Z",
+  "model": "glm-5.3"
+}

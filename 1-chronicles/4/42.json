@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 4:42",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye kuvavo, kubva mavana vaShimoni, vakafamba kuenda kugomo reSeiri — varume mazana mashanu — uye Peratiya, Neariya, Refaya naUziyeri, vana vaYishei, pamasikana avo.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "Uye kuvavo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mavana va"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "להר",
+      "gloss": "kuenda kugomo re"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mazana mashanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ופלטיה",
+      "gloss": "Peratiya"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "Neariya"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "Refaya"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Uziyeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Yishei"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "pamasikana avo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:34.685250045Z",
+  "model": "glm-5.3"
+}

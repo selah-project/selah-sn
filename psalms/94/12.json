@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Mufaro wemunhu iye waunodzidzisa, iwe Yah, uye waunodzidzisa kubva mutora yako!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mufaro we"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iye"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "waunodzidzisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ו מתורתך",
+      "gloss": "kubva mutora yako"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "waunodzidzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:33.785053457Z",
+  "model": "glm-5.3"
+}

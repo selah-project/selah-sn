@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Anonditungisa muguta rakachengetedzwa? Anonditungisa kusvika Edhomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "anonditungisa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "rakachengetedzwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "anonditungisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:22.893704865Z",
+  "model": "glm-5.3"
+}

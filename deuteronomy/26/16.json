@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Zuva iri Yahwe Erohimu wako anakurayira kuti uite ⟨את⟩ mitemo iyi ne⟨את⟩ matongerwo; uye unochengeta uye uita ⟨את⟩ azo nemwoyo wako wose, nemweya wako wose.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Zuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "anakurayira"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuti uite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo iyi"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matongerwo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "matongerwo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "uye unochengeta"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uye uita"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mwoyo wako wose"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "uye ne"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mweya wako wose"
+    }
+  ],
+  "timestamp": "2026-09-27T06:18:53.973445620Z",
+  "model": "glm-5.3"
+}

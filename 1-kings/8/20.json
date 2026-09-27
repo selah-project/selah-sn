@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye Yahwe akasimutsa ⟨את⟩ shoko rake raakataura, ndikamuka ndichitevera Dhavidhi baba vangu, ndikagara pachigaro cheushe cheIsiraeri, sokuda kwaYahwe, ndikavaka imba zita raYahwe Erohimu waIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akasimutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko rake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "shoko rake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raakataura"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "ndikamuka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ndichitevera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavidhi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ndikagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro cheushe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "cheIsiraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨akataura⟩"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ndikavaka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:25.968357156Z",
+  "model": "glm-5.3"
+}

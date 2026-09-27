@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Kune mutungamiri wezviridzwa: ⟨Usaparadze⟩. Nziyo yaDhavhidhi, mukhatamu, paa pinda Shauru kutuma, vakaonga ⟨את⟩ ⟨the⟩ imba kuti vauraye.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri wezviridzwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "paradze"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mukhatamu"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "paa pinda... kutuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "vakaonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kuti vauraye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:08.736320186Z",
+  "model": "glm-5.3"
+}

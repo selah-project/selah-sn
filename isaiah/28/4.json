@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 28:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Svetso yorova, runako rwayo, iyo iri pamusoro pemusoro wegwenga rekukodza, ichava sechibage chokutanga isati yachirimo, iyo muoni aona ⟨את⟩-iyo, achiri mumaoko ake anomeya.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ichava"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "svetso"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "yorova"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "runako"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "rwayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "gwenga"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "rekukodza"
+    },
+    {
+      "surface": "כבכורה",
+      "gloss": "sechibage chokutanga"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "isati ya"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "chirimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aona"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "muoni"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩-iyo",
+      "marks": "iyo (svetso yorova)"
+    },
+    {
+      "surface": "בעודה",
+      "gloss": "achiri"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "mumaoko ake"
+    },
+    {
+      "surface": "יבלענה",
+      "gloss": "anomeya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:32.215759242Z",
+  "model": "glm-5.3"
+}

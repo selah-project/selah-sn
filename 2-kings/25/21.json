@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye mambo weBhabhiri akarova ⟨אתם⟩, akauraya ari muRibriha, munyika yeHamati; uye Yudha akatapwa kubva kuvhu rwake.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabhiri"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "muRibriha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "yeHamati"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "akatapwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "kuvhu rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:56.331176093Z",
+  "model": "glm-5.3"
+}

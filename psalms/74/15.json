@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Iwe wakavhura ⟨את⟩ chitsime nemuronga; iwe wakaomesa nzizi dzakagara dzichiyerera.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "wakavhura"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "chitsime"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "nemuronga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "wakaomesa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nzizi"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "dzakagara dzichiyerera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:08.814326285Z",
+  "model": "glm-5.3"
+}

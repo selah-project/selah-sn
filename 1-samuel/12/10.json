@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ndipo vakadana kuna Yahwe vachiti: Tatadza, nokuti takasiya ⟨את⟩ Yahwe, tikashumira ⟨את⟩ mabhahari ne⟨את⟩ maAshutaroti; zvino tinunure mumaoko evavengi vedu, togoita vashumiri vako.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "vakadana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Tatadza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "takasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "tikashumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhahari"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "mabhahari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "maAshutaroti"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "maAshutaroti"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "tinunure"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mumaoko e"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "vavengi vedu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "togoita vashumiri vako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:42.098597413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye mupristi uchaona ⟨את⟩ chirwere, achibva avhara ⟨את⟩ chirwere mazuva nomwe.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "uchaona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chirwere"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chirwere"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "achibva avhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chirwere"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chirwere"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:53.090377319Z",
+  "model": "glm-5.3"
+}

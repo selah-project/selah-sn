@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Akaenda ipapo kuvagari veDhebhiriri — uye zita raDhebhiriri nokare kwaive Kiriyati-Sefu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dhebhiriri"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye zita"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "raDhebhiriri"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "nokare"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyati"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:34.345608601Z",
+  "model": "glm-5.3"
+}

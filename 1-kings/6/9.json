@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Akavaka ⟨את⟩ imba, akanotodza; akavhara ⟨את⟩ imba nemitanda nemitsara yemaarezi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "akanotodza"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "nemitanda"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "nemitsara"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "yemaarezi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:33.389027258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndichafamba mune nzvimbo yakakura, nokuti ndakatsvaga zvakurayirwa zwako.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "Ndichafamba"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "mune nzvimbo yakakura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "zvakurayirwa zwako"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ndakatsvaga"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:16.935738101Z",
+  "model": "glm-5.3"
+}

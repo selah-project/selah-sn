@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Er wangu, Er wangu, nei waandasiyira kure nekuponeswa kwangu, mazwi ekuchema kwangu?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "waandasiyira"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "nekuponeswa kwangu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ekuchema kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:24.939937501Z",
+  "model": "glm-5.3"
+}

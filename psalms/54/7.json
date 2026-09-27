@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Zvakaipa zvichadzokera kuvavengi vangu; nomuchokwadi chako, vavadzapise.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "zvichadzokera"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kuvavengi vangu"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "nomuchokwadi chako"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "vavadzapise"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:34.843175298Z",
+  "model": "glm-5.3"
+}

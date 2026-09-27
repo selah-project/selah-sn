@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 10:26",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye kuvana vaEramu: Matanja, Zekarja, Yichieli, Abhdi, Yeremoti, neErija.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "kuvana va"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eramu"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanja"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarja"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "neYichieli"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "neAbhdi"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "neYeremoti"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "neErija"
+    }
+  ],
+  "timestamp": "2026-09-27T10:10:01.838026705Z",
+  "model": "glm-5.3"
+}

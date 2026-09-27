@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nomukunda wake Sheera; ndiye akavaka ⟨את⟩ Beti-Horoni yoPasi neyoKumusoro, na⟨את⟩ Uzzeni-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Nomukunda wake"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ndiye akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "yoPasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yoKumusoro"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yoKumusoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzeni-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzeni-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:15.653870083Z",
+  "model": "glm-5.3"
+}

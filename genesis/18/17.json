@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yahwe akati: Ndingavanzira kuna Abhurahama izwi ⟨ndiri⟩ kuita?",
+  "tokens": [
+    {
+      "surface": "וֽיהֹוָ֖ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אָמָ֑ר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הַמְכַסֶּ֤ה",
+      "gloss": "ndingavanzira"
+    },
+    {
+      "surface": "אֲנִי֙",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מֵאַבְרָהָ֔ם",
+      "gloss": "kuna Abhurahama"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "עֹשֶֽׂה",
+      "gloss": "kuita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:06.931528118Z",
+  "model": "glm-5.3"
+}

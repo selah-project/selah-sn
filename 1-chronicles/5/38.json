@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye Akitubhu akabereka ⟨את⟩ Tsadoki; uye Tsadoki akabereka ⟨את⟩ Shariyamu.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "uye Akitubhu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadoki"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoki"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "uye Tsadoki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shariyamu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shariyamu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:17.126648053Z",
+  "model": "glm-5.3"
+}

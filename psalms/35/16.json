@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Pavanyengeri venhema, vose vanoseka zvakanaka, vakatyora mazino avo pamusoro pangu.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "pavanyengeri venhema"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "vose vanoseka"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "vakatyora mazino avo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "mazino avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:54.452236534Z",
+  "model": "glm-5.3"
+}

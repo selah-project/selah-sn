@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Akavhura buri, uye akaumba, akadonha muburi waakaigadzira.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "buri"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "akavhura"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "akaumba"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "akadonha"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "muburi"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "waakaigadzira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:58.741122179Z",
+  "model": "glm-5.3"
+}

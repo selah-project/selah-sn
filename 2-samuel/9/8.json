@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Iye akagwinha pamberi, akati: Muranda wako ndiani, iwe wakatendeuka kune imbwa yakafa iri, inofanana neni?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "akagwinha pamberi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "wakatendeuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yakafa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "inofanana neni"
+    }
+  ],
+  "timestamp": "2026-09-27T10:58:26.022582310Z",
+  "model": "glm-5.3"
+}

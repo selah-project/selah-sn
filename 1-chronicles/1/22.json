@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "ne⟨את⟩ Evari, ne⟨את⟩ Avimaheri, ne⟨את⟩ Sheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Evari"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Evari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Avimaheri"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaheri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:00.965555672Z",
+  "model": "glm-5.3"
+}

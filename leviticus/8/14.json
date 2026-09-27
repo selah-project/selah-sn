@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye akauza ⟨את⟩ handiti yechitadzo; uye Aroni navanar vakaisa ⟨את⟩ mazvo avo pamusoro pemusoro wehanditi yechitadzo.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "akauza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "handiti yechitadzo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "handiti"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yechitadzo"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "navanar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazvo avo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mazvo avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "פר",
+      "gloss": "wehanditi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yechitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:39.320726257Z",
+  "model": "glm-5.3"
+}

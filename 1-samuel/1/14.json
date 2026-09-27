@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Eli akati kwaari: Uchadhwaka kusvika rinhi? Bvisa ⟨את⟩ wayini yako kubva kwauri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "uchadhwaka"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "bvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayini yako"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "wayini yako"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kubva kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:56.448818293Z",
+  "model": "glm-5.3"
+}

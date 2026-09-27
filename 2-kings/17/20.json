@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye Yahwe akaramba ⟨את⟩ mhuri yose yeIsirairi, akavashungurudza, akavapa mumawoko evanobvuta, kusvika akavashukura pachiso chake.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "akaramba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yeIsirairi"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "akavashungurudza"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "akavapa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumawoko"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "evanobvuta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izvo⟩"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "akavashukura"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pachiso chake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:20.664088028Z",
+  "model": "glm-5.3"
+}

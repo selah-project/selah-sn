@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Ndakadana zita raYahwe: Ndinokumbira, Yahwe, noonise mweya wangu.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "nezita ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "Ndakadana"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ndinokumbira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "noonise"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:55.107058664Z",
+  "model": "glm-5.3"
+}

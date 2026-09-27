@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Chido chevomutya achaita, uye ⟨את⟩ kuchema kwavanhu kwake achanzwa, uye achavadzikinura.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "chido"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "chevomutya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuchema kwavanhu kwake"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kuchema kwavanhu kwake"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "achanzwa"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "achavadzikinura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:05.865394905Z",
+  "model": "glm-5.3"
+}

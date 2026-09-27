@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Hauna here kuti nyika yose iri pachiso chako? Zvaramba zvakanaka, tiparadzane; iwe ungoenda kuruboshwe, ndichienda kurudyi; kana iwe ukatsvedza kurudyi, ndichienda kuruboshwe.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hauna here kuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pachiso chako"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "tiparadzane"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvaramba zvakanaka"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kubva pandiri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "kuruboshwe"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ndichienda kurudyi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana ukatsvedza"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kurudyi"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ndichienda kuruboshwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:09.615682767Z",
+  "model": "glm-5.3"
+}

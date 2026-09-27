@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Reya akati: Rombo rwasvika! Akaudza ⟨את⟩ zita rake kuti Gadhi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Reya"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Rombo rwasvika"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akaudza zita rake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:26.563704867Z",
+  "model": "glm-5.3"
+}

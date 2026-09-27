@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Akati: Izvozvi zvechokwadi, semazwi enyu ndizvo; uyo achawanikwa nacho ⟨אתו⟩, ave muranda wangu; imi moge vasina mhosva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvechokwadi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izvozvi"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "semazwi enyu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndizvo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "zvazviri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "achawanikwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uyo achawanikwa nacho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ave"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "moge"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "vasina mhosva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:39.821566296Z",
+  "model": "glm-5.3"
+}

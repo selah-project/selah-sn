@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Asi iwe uri mutsvene, wakagara mutsvene mazita ekurumbidza Israeri.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "wakagara"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "mazita ekurumbidza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:24.940202012Z",
+  "model": "glm-5.3"
+}

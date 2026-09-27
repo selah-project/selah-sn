@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Nokuti shupa dzangu dzakazara ⟨ne⟩ kuungudzwa, uye hapana utano mumuviri wangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "shupa dzangu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "dzakazara"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "kuungudzwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "utano"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "mumuviri wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:50.098277343Z",
+  "model": "glm-5.3"
+}

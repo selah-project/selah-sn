@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asina kuramwa kuvamura zvakare, akatorera ⟨את⟩ tevha yetsanga, akaidzororedza nedhaka ne⟨zephata⟩; akaisa ⟨את⟩ mwanakomana mukati, akaigadza mutsanga pagonde rwenzizi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kuramwa kuvamura"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "kuvamura"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akatorera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "tevha"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "yetsanga"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "akaidzororedza"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "nedhaka"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "ne⟨zephata⟩"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "akaigadza"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "mutsanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ponde"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "renzizi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:57.357362819Z",
+  "model": "glm-5.3"
+}

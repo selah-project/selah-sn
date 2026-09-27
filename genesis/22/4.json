@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Nepiri yemazuva, Abhurahama akasimudza ⟨את⟩ maziso ake, akaona ⟨את⟩ nzvimbo iri kure.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nepiri yemazuva"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "yechipiri"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso ake"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "iri kure"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:07.951954232Z",
+  "model": "glm-5.3"
+}

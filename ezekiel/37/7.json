@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 37:7",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Ndokuporofita sezvandakarayirwa; uye pakave neruzha pandakanga ndichiporofita, uye ona, kugwedezeka, uye mapfupa akaomerana, pfupa nepfupa racho.",
+  "tokens": [
+    {
+      "surface": "ונבאתי",
+      "gloss": "Ndokuporofita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakarayirwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "pakave"
+    },
+    {
+      "surface": "קול",
+      "gloss": "neruzha"
+    },
+    {
+      "surface": "כהנבאי",
+      "gloss": "pandandai"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye ona"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "kugwedezeka"
+    },
+    {
+      "surface": "ותקרבו",
+      "gloss": "akaomerana"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mapfupa"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "pfupa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "pfupa racho"
+    }
+  ],
+  "timestamp": "2026-09-27T08:29:45.586182883Z",
+  "model": "glm-5.3"
+}

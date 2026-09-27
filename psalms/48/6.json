@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Ivo vakaona, vakashamiswa zvachose, vakatetemara, vakatiza nekukasira.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vakaona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "vakashamiswa"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "vakatetemara"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "vakatiza nekukasira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:02.899399490Z",
+  "model": "glm-5.3"
+}

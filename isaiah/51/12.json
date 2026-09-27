@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Ndini, ndini ndiro inokudzikinurayi: iwe ndiani, iwe wakatya munhu anozofa, nomwanawomunhu womunhu wopiwa sewuswa?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "inokudzikinurayi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "wakatya"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "anozofa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "nomwanawomunhu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womunhu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "sewuswa"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "wopiwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:10.333344404Z",
+  "model": "glm-5.3"
+}

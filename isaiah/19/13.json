@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Vakuru veTsoani vakapenya; vakuru veNofu vakanyengedzwa; vakakanganisa ⟨את⟩ Ejipita, iwo chigango chematunhu ayo.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "vakapenya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vakuru ve"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoani"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "vakanyengedzwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vakuru ve"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nofu"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "vakakanganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ejipita"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ejipita"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "chigango"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "chematunhu ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:52.785184866Z",
+  "model": "glm-5.3"
+}

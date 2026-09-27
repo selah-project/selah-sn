@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Iwe unodya asi haugute, uye kushara kwako kuchiri mukati mako; unobata asi haununure, uye iwo aununura ⟨ndichapa⟩ mupanga.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "unodya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi ⟨ha-⟩"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ugute"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "kushara kwako"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mukati mako"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "unobata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi ⟨ha-⟩"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "ununure"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye iwo"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "aununura"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "mupanga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndichapa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:17.433578044Z",
+  "model": "glm-5.3"
+}

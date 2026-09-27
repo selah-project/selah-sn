@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Taurira vana vaIsirairi achiti: Mukadzi kana abatira natso wobereka mukomana, achazvitapukira mazuva nomwe; achazvitapukira semazuva ekutapukira kwekufema kwechirume chake.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Taurira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirairi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "abatira natso"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "wobereka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "achazvitapukira"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "semazuva"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "ekutapukira"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "kwekufema kwechirume chake"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "achazvitapukira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:23.260727012Z",
+  "model": "glm-5.3"
+}

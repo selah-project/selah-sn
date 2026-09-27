@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Rangarira ⟨את⟩ nyasha dzako, Yahwe, neh ⟨את⟩ hesedhi yako, nokuti kubvira kare ndidzo dziri.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Rangarira"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "nyasha dzako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "nehesedhi yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kubvira kare"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dziri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:49.461595939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Uye mudzikinuri achauya kuZiyoni, nevayo vakadzoka kubva pandefu muYakobo, ndizvo zvinotaura Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Uye achauya"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "kuZiyoni"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "mudzikinuri"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "nevayo vakadzoka"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "kubva pandefu"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "muYakobo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndizvo zvinotaura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:40.050575775Z",
+  "model": "glm-5.3"
+}

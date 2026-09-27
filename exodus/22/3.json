@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana chakabiwa chiwanikwa chichawanikwa mumawoko ake chine upenyu — kubva pangu'ombe kusvika pambongoro kusvika pagwai — anoripisa kaviri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "chiwanikwa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "chichawanikwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mumawoko ake"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "chakabiwa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ng'ombe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "mbongoro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שה",
+      "gloss": "gwai"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "chine upenyu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaviri"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "anoripisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:09.614081233Z",
+  "model": "glm-5.3"
+}

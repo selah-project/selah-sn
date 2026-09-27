@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Umambo hwako ⟨huri⟩ humambo hwezvose zvinyika zvose nguva dzose, hutongi hwako hunozara dzimwe nguva dzose mumazera ose.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Umambo hwako"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "humambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwezvose zvinyika zvose"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "hutongi hwako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mumazera ose"
+    },
+    {
+      "surface": "דור",
+      "gloss": "zera"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nezera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.570676383Z",
+  "model": "glm-5.3"
+}

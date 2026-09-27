@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Kududzira hesedhi rwako mambuka, neutendeka rwako husiku.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "kududzira"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mambuka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi rwako"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "neutendeka rwako"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "husiku"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:27.335995813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 50:4",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Mazuva iwayo, uye panguva iyo, chirevo chaYahwe: vana vaIsraeri vachauya, ivo navana vaYudha pamwe chete, vachienda vachichema vachenda; uye vachatsvaga ⟨את⟩ Yahwe Erohimu wavo.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "iwayo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "uye panguva"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "chirevo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vachauya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "navana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYudha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "vachienda"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "vachichema"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vachenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu wavo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wavo"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "vachatsvaga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:12:41.381994349Z",
+  "model": "glm-5.3"
+}

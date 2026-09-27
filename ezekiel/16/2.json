@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Mwanawamunhu, gadzikirisa ⟨את⟩ Yerusharema kuziva ⟨את⟩ zvinonyadzisa zvayo;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wamunhu"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "gadzikirisa kuziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusharema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinonyadzisa zvayo"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "zvinonyadzisa zvayo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:09:53.059649122Z",
+  "model": "glm-5.3"
+}

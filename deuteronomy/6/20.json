@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Pazvino mwanakomana wako achakubvunza mangwana achiti: Zviri zvinorevei mabhurawaro, nemitemo, nematongerwo, iyo Yahwe Erohimu yedu akakurayira ⟨אתכם⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pazvino"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "achakubvunza"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanakomana wako"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mangwana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zviri zvinorevei"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "mabhurawaro"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "nemitemo"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "nematongerwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akakurayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu yedu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:25.814441816Z",
+  "model": "glm-5.3"
+}

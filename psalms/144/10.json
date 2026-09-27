@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Iye anopa ruponeso kumadzimambo, ano dzikinura ⟨את⟩ Dhavhidhi mutori wake kubva munevhare yakaipa.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ruponeso"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kumadzimambo"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "anodzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mutori wake"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "kubva munevhare"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:49.257983773Z",
+  "model": "glm-5.3"
+}

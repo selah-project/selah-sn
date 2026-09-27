@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye ⟨את⟩ vana wake unounganidza pedyo, uye unovapfekedza mahembe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana wake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana wake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "unounganidza pedyo"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "unovapfekedza"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mahembe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:32.393431762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Shoko rena ndiro ndira yerutsoka rwangu, uye mwenje wenzira yangu.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ndira"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "yerutsoka rwangu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "shoko rena"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "uye mwenje"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "wenzira yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:38.592116024Z",
+  "model": "glm-5.3"
+}

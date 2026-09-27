@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Erohimu, nzwa minamato yangu; teerera mazwi emuromo wangu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nzwa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "minamato yangu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "emuromo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:44.391408146Z",
+  "model": "glm-5.3"
+}

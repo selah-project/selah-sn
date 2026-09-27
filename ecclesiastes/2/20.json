@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndikafamba-famba ini kuitira kuti ndirasikire ⟨את⟩ chivindiro changu nezvebasa rose randakashanda pasi pezuva.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ndikafamba-famba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "kurasikira chivindiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivindiro changu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nezve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "pebasa"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "randakashanda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:47.673554398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uisa banga pakuro kwako, kana uri mune mweya yekushuvira.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uisa"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "banga"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "pakuro kwako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mune"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:19.285237715Z",
+  "model": "glm-5.3"
+}

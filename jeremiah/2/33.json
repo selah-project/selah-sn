@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 2:33",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Wunoshandura sei zvakanaka nzira yako kutsvaga rudo? Naizvozvo, zvekare ⟨את⟩ zvakaipa wakadzidzisa ⟨את⟩ nzira dzako.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "תיטבי",
+      "gloss": "wunoshandura zvakanaka"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzira yako"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kutsvaga"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "rudo"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvekare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvakaipa"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "wakadzidzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira dzako"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nzira dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:50:20.710203417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye vanhu vose venyika vakafara, uguta waita runyararo; uye ⟨את⟩ Ataryahu vakamuuraya nemunondo mumba wamambo.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "vakafara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "uguta"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "waita runyararo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ataryahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataryahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nemunondo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wamambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:07.037943809Z",
+  "model": "glm-5.3"
+}

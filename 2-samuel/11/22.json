@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Mutumwa akaenda, akauya, akaudza Dhavhidhi ⟨את⟩ zvose zvaYoabhu akamutumira nazo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "Mutumwa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "akamutumira nazo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabhu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:11.506216948Z",
+  "model": "glm-5.3"
+}

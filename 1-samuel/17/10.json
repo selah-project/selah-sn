@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye muPirisiti akati: Ini ndakanyadzisa ⟨את⟩ mabhawa eIsuraeri zuva rino; mundivirei murume, tikurwisane pamwe chete.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "muPirisiti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ndakanyadzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhawa eIsuraeri"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "mabhawa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rino"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "mundivirei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "tikurwisane"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:53.894217842Z",
+  "model": "glm-5.3"
+}

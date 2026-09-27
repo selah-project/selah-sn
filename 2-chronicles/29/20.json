@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Hizikiya mambo akamuka mangwanani, akaunganidza ⟨את⟩ matungamiri eguta, akakwira kuimba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akamuka mangwanani"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matungamiri eguta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "matungamiri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "eguta"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kuimba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:40:49.075834211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti ndizvo zvakataurwa naYahwe Tsevaoti: kamwe chete, nguva shoma, uye ini ndichagunzvira ⟨את⟩ matenga ne⟨את⟩ pasi, ne⟨את⟩ gungwa, ne⟨את⟩ nyika yoma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndizvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvakataurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chete"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "nguva shoma"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ndiri⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "uye ini"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ndichagunzvira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matenga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nyika yoma"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "nyika yoma"
+    }
+  ],
+  "timestamp": "2026-09-27T08:47:34.937521190Z",
+  "model": "glm-5.3"
+}

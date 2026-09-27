@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Mufaro weuyo anobata ⟨את⟩ vana vako vachechi, nokuguritsa padombo.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Mufaro"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "weuyo anobata"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "nokuguritsa"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vako vachechi"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "vana vako vachechi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "padombo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:10.835307813Z",
+  "model": "glm-5.3"
+}

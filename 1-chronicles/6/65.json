@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye kubva mudanga raGad: ⟨את⟩ Raamothi muGireadhi, ne⟨את⟩ mafuro ayo, uye ⟨את⟩ Mahanayimu, ne⟨את⟩ mafuro ayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kubva mudanga ra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamothi"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamothi"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "muGireadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuro ayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuro ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Mahanayimu"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuro ayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuro ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:26.305403757Z",
+  "model": "glm-5.3"
+}

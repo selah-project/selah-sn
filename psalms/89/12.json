@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Matenga ndeako, nyika zvakare ndeyako; nyika yose nezvazvirimo iwe ndiwe wakaitira mazvo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ndeako"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Matenga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndeyako"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nyika yose"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "nezvazvirimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe ndiwe"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "wakaitira mazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:39.869468687Z",
+  "model": "glm-5.3"
+}

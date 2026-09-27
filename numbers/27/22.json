@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Moshe akaita sezvaYahwe rwakamuraira ⟨את⟩; akatora ⟨את⟩ Yehoshua, akamumisa pamberi paErazaro mucherezi, nepamberi pesangamwe rose.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rwakamuraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe (iye)"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "akamumisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erazaro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mucherezi"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "nepamberi pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "sangamwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:04:37.408932525Z",
+  "model": "glm-5.3"
+}

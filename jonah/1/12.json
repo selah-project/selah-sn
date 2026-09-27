@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jonah 1:12",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Akati kwavari: Munditora, mundikanda mugungwa, uye gungwa rorunyarara kwamuri; nokuti ndinoziva kuti nokuda kwangu dengenyere iri guru iri riri pamusoro penyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "שאוני",
+      "gloss": "munditora"
+    },
+    {
+      "surface": "והטילני",
+      "gloss": "mundikanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "rorunyarara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ndinoziva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "nokuda kwangu"
+    },
+    {
+      "surface": "הסער",
+      "gloss": "dengenyere"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro penyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:19.961969579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 41:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Nokuti ndini Yahwe Erohimu wako, ndinobata ruwoko rwako rwerudyi, ndinoti kwauri: Usatya, ndini ndakakubatsira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ndinobata"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruwoko rwako rwerudyi"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ndinoti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "-tya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ndakakubatsira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:48.801440379Z",
+  "model": "glm-5.3"
+}

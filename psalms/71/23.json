@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Miromo yangu ichafara kudeedza pauchandoimba, uye mweya wangu, iwe uyo waununura.",
+  "tokens": [
+    {
+      "surface": "תְּרַנֵּּנָּה",
+      "gloss": "ichafara kudeedza"
+    },
+    {
+      "surface": "שְׂפָתַ֣י",
+      "gloss": "miromo yangu"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אֲזַמְּרָ֥ה",
+      "gloss": "ndichiimba"
+    },
+    {
+      "surface": "לָּ֑ךְ",
+      "gloss": "kurudo rwako"
+    },
+    {
+      "surface": "וְנַפְשִׁ֗י",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "פָּדִֽיתָ",
+      "gloss": "waununura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:59.675130892Z",
+  "model": "glm-5.3"
+}

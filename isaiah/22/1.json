@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Mureza wemukova wechiono. Chakutyai iwe zvino, kuti wakakwira wose madenga emba?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "mureza"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "mukova"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "chiono"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chakutyai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "wakakwira"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "wose"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "madenga emba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:39.426027039Z",
+  "model": "glm-5.3"
+}

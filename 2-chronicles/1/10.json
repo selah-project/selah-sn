@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Iyezvino, uchenjeri nokuziva ndipa, ndigobuda ndigopinda pamberi pevanhu ava; nokuti ndiani anogona kutonga ⟨את⟩ vanhu vako ava vakuru kudaro?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Iyezvino"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "uchenjeri"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "nokuziva"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ndipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ndigobuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ndigopinda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "anogona kutonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "vakuru kudaro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:29:14.025759702Z",
+  "model": "glm-5.3"
+}

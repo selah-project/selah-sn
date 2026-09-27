@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Zvino zvaiitika nokuti vana vaIsraeri vakatadza kunaYahwe Erohimu wavo, vakakwanisa kuvasimudza ⟨את⟩ panyika yeMitsrayimi, pasi peruoko rwaFarao mambo weMitsrayimi, uye vakatya vamwari vechimwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvaiitika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vakatadza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wavo"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "vakakwanisa kuvasimudza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "panyika yeMitsrayimi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "panyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "peruoko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "rwaFarao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayimi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "vakatya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vamwari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "vechimwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:14.570821339Z",
+  "model": "glm-5.3"
+}

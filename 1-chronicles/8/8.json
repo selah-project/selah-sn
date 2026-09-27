@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye Shaharayimu akabereka ⟨vane⟩ munda waMoabu mushure mekuvatuma kure; Chushimi naBara ndivo vakadzi vake.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Uye Shaharayimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMoabu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kuvatuma kure"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Chushimi naBara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chushimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Bara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vakadzi vake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:56.696016469Z",
+  "model": "glm-5.3"
+}

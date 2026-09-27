@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Tarisa, ndinomutsa iwo kubva panzvimbo ya makavatengesa ⟨את⟩ iyo, ndichadzosera mubairo wenyu pamusoro pemusoro wenyu.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "ndinomutsa iwo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "makavatengesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ndichadzosera"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "mubairo wenyu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "pamusoro pemusoro wenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:04.168677461Z",
+  "model": "glm-5.3"
+}

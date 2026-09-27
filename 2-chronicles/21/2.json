@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Naive nehanzvadzi dzake, vakomana vaYehoshafati: Azaria, uye Yichieri, uye Zekaria, uye Azaria, uye Mikaeri, uye Shefatia; vose ava vakomana vaYehoshafati, mambo weIsraeri.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "naive"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "nehanzvadzi dzake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakomana va"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "uye Yichieri"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "uye Zekaria"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "uye Azaria"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "uye Mikaeri"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "uye Shefatia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakomana va"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:36:50.911730244Z",
+  "model": "glm-5.3"
+}

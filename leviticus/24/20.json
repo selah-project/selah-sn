@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "kutyokana panzvimbo pokutyokana, ziso panzvimbo peziso, zino panzvimbo pezino; sezvaanopa chivande mumunhu, ndizvozvo zvichapihwa maari.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "kutyokana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kutyokana"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezva"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "מום",
+      "gloss": "chivande"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mumunhu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndizvozvo"
+    },
+    {
+      "surface": "יינתן",
+      "gloss": "zvichapihwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "maari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:12.110693387Z",
+  "model": "glm-5.3"
+}

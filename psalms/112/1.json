@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 112,
+  "translation": "Rumbidzai Yah! Anofara munhu anotya ⟨את⟩ Yahwe, anozvikurudzira zvikuru mune ⟨mirairo⟩ yake.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Anofara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "mukati memirairo yake"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anozvikurudzira"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:48.014133616Z",
+  "model": "glm-5.3"
+}

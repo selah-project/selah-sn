@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "⟨את⟩ dhendi yokusangana, ne⟨את⟩ chigadziko cheupiri, ne⟨את⟩ chiridzo chiri pairi, ne⟨את⟩ zvinhu zvose zvedhendi —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhendi yokusangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dhendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chigadziko cheupiri"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chigadziko"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "cheupiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chiridzo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chiridzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chiri pairi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvose zvedhendi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "zvedhendi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:33.680650074Z",
+  "model": "glm-5.3"
+}

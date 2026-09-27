@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye unogadzira mbatya dzezvitsvene zaAroni hanzvadzi yako, nokurumbidza nekutaombesa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uye unogadzira"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mbatya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dzezvitsvene"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "zaAroni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "hanzvadzi yako"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "nokurumbidza"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "nekutaombesa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:14.457820688Z",
+  "model": "glm-5.3"
+}

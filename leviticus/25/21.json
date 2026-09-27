@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ndidzo kurayira ⟨את⟩ tsime yangu kwamuri mugore rechitanhatu, uye richaita ⟨את⟩ chibayiro chemakore matatu.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ndidzo kurayira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsime yangu"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "tsime yangu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "mugore"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "rechitanhatu"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "richaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibayiro"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "chibayiro"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "makore"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:02.526520120Z",
+  "model": "glm-5.3"
+}

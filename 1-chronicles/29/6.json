@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 29:6",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye madzimambo emadzinza, nemadzimambo ematunhu eIsraeri, nemadzimambo ezviuru nemazana, pamwe nemadzimambo ebasa rmambo, vakazvitupa.",
+  "tokens": [
+    {
+      "surface": "ויתנדבו",
+      "gloss": "vakazvitupa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "emadzinza"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "nemadzimambo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ematunhu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsraeri"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "nemadzimambo"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ezviuru"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "nemazana"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "pamwe nemadzimambo"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ebasa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rmambo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:29:04.124346331Z",
+  "model": "glm-5.3"
+}

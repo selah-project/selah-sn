@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye muchadimbura ⟨את⟩ ma-altari avo, muchaputsa ⟨את⟩ matombo avo echiratidzo, maAshera avo muchapisa nomoto, uye mifananidzo yamwari avo muchadimbura, muzita ravo muchaparadza kubva panzvimbo iyoyo.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "muchadimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma-altari avo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "ma-altari avo"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "muchaputsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matombo avo echiratidzo"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "matombo echiratidzo"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "maAshera avo"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "muchapisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "nemifananidzo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "yamwari avo"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "muchadimbura"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "muchaparadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita ravo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "zita ravo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:14:21.074556274Z",
+  "model": "glm-5.3"
+}

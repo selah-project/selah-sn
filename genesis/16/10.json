@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Mutumwa waYahwe akati kwaari: Ndichawedza ⟨את⟩ mbeu yako zvakanyanya, kuti isaverengwi nokuwanda kwazvo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Mutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Ndichawedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeu yako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbeu yako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti isaverengwi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "isaverengwi"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "nokuwanda kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:26.998379484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Asi zvino baba vangu vakakuisirai zerere remukodzera; asi ini ndinowedzera pazerere rwenyu; baba vangu vakaranga ⟨את⟩ mimi nemichamboko, asi ini ndicharanga ⟨את⟩ mimi nengezha.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "asi zvino"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "vakakuisirai"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kwamiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "zerere"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "remukodzera"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ndinowedzera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "zerere"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "vakaranga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mimi",
+      "marks": "michamboko"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "michamboko"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ndicharanga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mimi",
+      "marks": "ngezha"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ngezha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:03.029595661Z",
+  "model": "glm-5.3"
+}

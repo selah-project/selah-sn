@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokudaro ndakabuda ndinou kusangana newe, ndokutsvaga chiso chako, ndokukutsvaga ndakawana.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwazvadaro"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ndakabuda"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "kusangana newe"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "kutsvaga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "ndokukutsvaga ndakawana"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:30.552926433Z",
+  "model": "glm-5.3"
+}

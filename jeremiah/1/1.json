@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mashoko aYiremiya, mukoma waHirikiya, mumwe we⟨ve⟩ mapristi aiva muAnatoti, munyika yeBiniamini:",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mashoko"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "aYiremiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hirikiya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "we"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "muAnatoti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Biniamini"
+    }
+  ],
+  "timestamp": "2026-09-27T07:50:42.869263911Z",
+  "model": "glm-5.3"
+}

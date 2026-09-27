@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Ndakapa Yitsaki ⟨את⟩ Yakobo ne⟨את⟩ Esawu; ndakapa Esawu ⟨את⟩ gomo reSeyiri, kuti arigarire; asi Yakobo nevanhu vake vakadzikira kuMitsiri.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Ndakapa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Esawu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawu"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomo reSeyiri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "reSeyiri"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kuti arigarire"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ri"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nevanhu vake"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "vakadzikira"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kuMitsiri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:43.389342546Z",
+  "model": "glm-5.3"
+}

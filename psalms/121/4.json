@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Tarisa: haangazorori, haangagara akarara — iye anochengeta Israeri.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haanga"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zorori"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haangagara"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "akarara"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "iye anochengeta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:44.947546199Z",
+  "model": "glm-5.3"
+}

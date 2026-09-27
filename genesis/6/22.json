@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Noa akaita sezvose zvaErohimu vakamuraira ⟨את⟩ iye; ndokuravakaita.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "vakamuraira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokura"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:35.801807718Z",
+  "model": "glm-5.3"
+}

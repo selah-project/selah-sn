@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvino ndichakuzivisai iwe ⟨izwi⟩: izwi ndinochiita kuchirima changu — ndinobvisa chisingapfurwidze chacho, chichave chinodyiwa; ndinoputsa rukovo rwaro, chichave chinotsvedzerwa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ndichakuzivisai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndino"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chiita"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kuchirima changu"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ndinobvisa"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "chisingapfurwidze chacho"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chichave"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "chinodyiwa"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ndinoputsa"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "rukovo rwaro"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chichave"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "chinotsvedzerwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:09.951075850Z",
+  "model": "glm-5.3"
+}

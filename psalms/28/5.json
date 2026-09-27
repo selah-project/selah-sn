@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Nokuti havanzwisise mabasa aYahwe kana basa ramawoko ake; achavadzikisa, asavagadzirise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "-vanzwisise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨el⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kana ⟨el⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ramawoko ake"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "achavadzikisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "-vagadzirise"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:38.014714152Z",
+  "model": "glm-5.3"
+}

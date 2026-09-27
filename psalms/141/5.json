@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 141,
+  "translation": "Mutsvene andigobore — hesedhi; unditsoropodze; mafuta pamusoro — aris kusarega musoro wangu; nokuti ichiri, nomunamato wangu, muhutema hwavo.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "andigobore"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "unditsoropodze"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aris"
+    },
+    {
+      "surface": "יני",
+      "gloss": "kusarega"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "musoro wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ichiri"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "nomunamato wangu"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "muhutema hwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:10.895831127Z",
+  "model": "glm-5.3"
+}

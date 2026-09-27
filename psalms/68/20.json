@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Rukudzwa rwaAdonai, musi nomusi; anotakura ⟨zvinhu zvakanaka⟩⟨zvataninga⟩; ⟨ndiye⟩ Er wedu wokununurwa. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Rukudzwa rwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nomusi"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "anotakura zvataninga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "zvataninga"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "wokununurwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:09.966110100Z",
+  "model": "glm-5.3"
+}

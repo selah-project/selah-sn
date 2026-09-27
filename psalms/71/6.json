@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Pauri ndakatsigirira kubva mudumbu; kubva mukati meamai vangu iwe wakandibvisa; kurumbidzwa kwangu kuri mumi nguva dzose.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "pauri"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ndakatsigirira"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kubva mudumbu"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "kubva mukati me"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amai vangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "wakandibvisa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mumi"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "kurumbidzwa kwangu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:37.921061098Z",
+  "model": "glm-5.3"
+}

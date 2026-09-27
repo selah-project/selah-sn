@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Uye ⟨את⟩ nesi mugare, uye nyika ichave pamberi penyu; garai, mutengese mairi, uye muigire mairi.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ nesi",
+      "marks": "nesi"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "mugare"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "uye nyika"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ichave"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "garai"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "mutengese mairi"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "muigire mairi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mairi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:07.613490547Z",
+  "model": "glm-5.3"
+}

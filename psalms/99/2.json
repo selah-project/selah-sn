@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 99,
+  "translation": "Yahwe mukuru muZiyoni, iye akakwirira pamusoro pevanhu ose.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "muZiyoni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "akakwirira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:28.067402499Z",
+  "model": "glm-5.3"
+}

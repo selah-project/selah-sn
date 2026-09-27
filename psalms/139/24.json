@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Uye uone ngati pane nzira yokutambudzika mumberi mwangu; uye unditsanangurire runzera rwenguva dzose.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "uye uone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "yokutambudzika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mumberi mwangu"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "unditsanangurire"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "runzera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "rwenguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:45.546844924Z",
+  "model": "glm-5.3"
+}

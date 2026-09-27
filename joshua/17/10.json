@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Kuchamhembe ndekwaEfraimu, uye kumaodzanyemba ndekwaManase, uye gungwa raiva muganhu waro; uye munaAsheri vakasangana kumaodzanyemba, uye munaIsakari kumabvazuva.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "kuchamhembe"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ndekwaEfraimu"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "uye kumaodzanyemba"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ndekwaManase"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "raiva"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "muganhu waro"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "uye munaAsheri"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kumaodzanyemba"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "uye munaIsakari"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kumabvazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T06:28:35.688209590Z",
+  "model": "glm-5.3"
+}

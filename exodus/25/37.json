@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye uchaita ⟨את⟩ mwenje wayo, nomwe; uye achakwidza ⟨את⟩ mwenje wayo, achipenya panzvimbo iri pachiso chayo.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֥יתָ",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "mwenje wayo"
+    },
+    {
+      "surface": "מְנֹרֹתֶ֖יהָ",
+      "gloss": "mwenje wayo"
+    },
+    {
+      "surface": "שֶׁ֖בַע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "וְהֵעִ֣יל",
+      "gloss": "achakwidza"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "mwenje wayo"
+    },
+    {
+      "surface": "נֵרֹתֶ֔יהָ",
+      "gloss": "mwenje wayo"
+    },
+    {
+      "surface": "וְהֵאִ֖יר",
+      "gloss": "achipenya"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עֵ֥בֶר",
+      "gloss": "nzvimbo iri"
+    },
+    {
+      "surface": "פָּנֶֽיהָ",
+      "gloss": "chiso chayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:52.979208124Z",
+  "model": "glm-5.3"
+}

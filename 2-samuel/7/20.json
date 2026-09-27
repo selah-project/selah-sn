@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Dhavhidhi anogonawo kutaura chii kwazvo newe? Newe unoziva ⟨את⟩ shanda wako, Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "nokuti chii"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "anogonawo kuwedzera"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "newe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanda wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "shanda wako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:56:24.359368151Z",
+  "model": "glm-5.3"
+}

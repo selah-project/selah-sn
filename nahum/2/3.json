@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti Yahwe adzosa ⟨את⟩ ruremekedzo rwaJakobho, sokuremekedzwa kwaIsraeri; nokuti vakazvizvira nezvinhu zvose, vakaparadza maseke avo ezvimedu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "שב",
+      "gloss": "adzosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruremekedzo rwaJakobho"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "sokuremekedzwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "vakazvira"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "nezvinhu zvose"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "maseke avo ezvimedu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "vakaparadza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:46:08.161796848Z",
+  "model": "glm-5.3"
+}

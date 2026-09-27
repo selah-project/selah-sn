@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Pokuva vari vashoma muzverere, vashoma chaizvo, uye vatorwa munyika iyoyo.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "pokuva vari"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "varume"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "vashoma muzverere"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "vashoma chaizvo"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "uye vatorwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "munyika iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:19.917850239Z",
+  "model": "glm-5.3"
+}

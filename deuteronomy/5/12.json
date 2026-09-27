@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Chengeta ⟨את⟩ zuva reShabhata kuvaridzira; sokuda kwawakakomekedzwa naYahwe Erohimu wako.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Chengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuva reShabhata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "reShabhata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kuvaridzira"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "kwawakakomekedzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:13.806746198Z",
+  "model": "glm-5.3"
+}

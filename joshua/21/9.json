@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 21:9",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Vakapa kubva murudzi rwevana vaYhuda, uye murudzi rwevana vaShimoni, ⟨את⟩ maguta aya anodanwa ⟨את⟩ nezita.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "kubva murudzi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYhuda"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "uye murudzi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "vaShimoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta aya"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano-"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "danwa"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "nezita"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nezita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:34.146945015Z",
+  "model": "glm-5.3"
+}

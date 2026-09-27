@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Moshe aiva mufudzi we⟨את⟩ dhara raYitiro tezvara wake, mupristi weMidhiani; akatungamira ⟨את⟩ dhara kuchamhembe kwendambakombe, akaenda kukomba kwaErohimu, Churebha.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mufudzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhara raYitiro"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dhara"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "raYitiro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "tezvara wake"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "weMidhiani"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "akatungamira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhara"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dhara"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kuchamhembe kwendambakombe"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨dambakombe⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הר",
+      "gloss": "komba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kwaErohimu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Churebha"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:51.722143538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Nokuti guta rakachengetedzwa richave rioga, musha wacho wakatumwa kure nokusiwa semuridzi; ipapo mhuru ichafudza, ipapo ichazorora, uye ichapwanya dzasi dzaro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "rakachengetedzwa"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "rioga"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "musha"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wakatumwa kure"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "nokusiwa"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "semuridzi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ichafudza"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "ichazorora"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ichapwanya"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "dzasi dzaro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:23.778266605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Zvirokwazvo, Erohimu achapwanya ⟨את⟩ mutwe wavavengi vake, chisoro chine chetera cheanofamba muchitadzo chake.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "achapwanya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutwe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "wavavengi vake"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "chisoro"
+    },
+    {
+      "surface": "שער",
+      "gloss": "chine chetera"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "cheanofamba"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "muchitadzo chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:46.403670437Z",
+  "model": "glm-5.3"
+}

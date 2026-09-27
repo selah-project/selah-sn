@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye ichi ndiro chinyorwa chokuti akasimukisa ruwoko pamusoro pemambo: Sheromoh akavaka ⟨את⟩ Miro, akavhara ⟨את⟩ buroko yeguta raDhavhidhi baba vake.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "uye ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ndiro chinyorwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chokuti"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "akasimukisa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "pamusoro pemambo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheromoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miro"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Miro"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buroko"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "buroko"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "yeguta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:38.965990382Z",
+  "model": "glm-5.3"
+}

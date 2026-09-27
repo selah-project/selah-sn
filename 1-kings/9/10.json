@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvino pakupera kwemakore makumi maviri apo Soromoni akavaka ⟨את⟩ dzimba mbiri — imba yaYahwe neimba yamambo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pakupera"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Soromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzimba mbiri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba yamambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yamambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:41.250983219Z",
+  "model": "glm-5.3"
+}

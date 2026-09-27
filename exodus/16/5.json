@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvino kuchaita kuti pazuva rechitanhatu vagadzirire ⟨את⟩ izvo vachazounza; uye zvichava kaviri pane izvo vachakohwa zuva nezuva.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvino kuchaita kuti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "rechitanhatu"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "vagadzirire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo (izvo vachazounza)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "vachazounza"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "zvichava"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kaviri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "vachakohwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nezuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:59.442441214Z",
+  "model": "glm-5.3"
+}

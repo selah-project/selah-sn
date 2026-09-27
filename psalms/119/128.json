@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Naizvozvo ndinotenda mazvose mitemo yako yaitarwa zvakanaka; ndinovenga nzira yose yekunyepa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mazvose"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "mitemo yako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ndinotenda yaitarwa zvakanaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yekunyepa"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndinovenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:09.287547364Z",
+  "model": "glm-5.3"
+}

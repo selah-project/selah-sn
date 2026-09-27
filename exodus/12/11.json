@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye saizvozvo muchadya ⟨את⟩ iyo: madumbu enyu akazvenegerwa, nhande dzenyu muntsoka dzenyu, nezvimuti zvenyu mumaoko enyu; uye muchadya ⟨את⟩ iyo nokukasuka: ndiro Paseka yaYahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "uye saizvozvo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (mhuka yechibairo yaPaseka)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "madumbu enyu"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "akazvenegerwa"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "nhande dzenyu"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "muntsoka dzenyu"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "nezvimuti zvenyu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mumaoko enyu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "uye muchadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (mhuka yechibairo yaPaseka)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "nokukasuka"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:38.183803817Z",
+  "model": "glm-5.3"
+}

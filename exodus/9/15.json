@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti zvino dai ndakatambanudza ruoko rwangu, ndikakurova ⟨את⟩ iwe nevako ⟨את⟩ vanhu vako netambudziko, uye dai waparara ⟨את⟩ pasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "dai ndakatambanudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ndikakurova"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "netambudziko"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "dai waparara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:54.118202528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Anoridza mhanza iye, uye anopikisa; mumusha make tsoka dzake hadzigari.",
+  "tokens": [
+    {
+      "surface": "הֹמִיָּה",
+      "gloss": "anoridza mhanza"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וְסֹרָרֶת",
+      "gloss": "uye anopikisa"
+    },
+    {
+      "surface": "בְּבֵיתָהּ",
+      "gloss": "mumusha make"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יִשְׁכְּנוּ",
+      "gloss": "hadzigari"
+    },
+    {
+      "surface": "רַגְלֶיהָ",
+      "gloss": "tsoka dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:19:16.104404048Z",
+  "model": "glm-5.3"
+}

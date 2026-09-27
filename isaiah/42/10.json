@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Imbai Yahwe nhendo yatsva, rumbidzo rwake kubva kumagumo epasi; imi venoendera kumwanga nemazviro aro, zwitanga nezvagari zvazvo.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nhendo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yatsva"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rumbidzo rwake"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kubva kumagumo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "venoendera"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kumwanga"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "nemazviro aro"
+    },
+    {
+      "surface": "איים",
+      "gloss": "zwitanga"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "nezvagari zvazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:00.396904592Z",
+  "model": "glm-5.3"
+}

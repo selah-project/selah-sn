@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Ona, ava ndovoakaipa; vakanakira nguva dzose vawedzera chuma.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ndovoakaipa"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "vakanakira nguva dzose"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "vawedzera"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chuma"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:56.482259439Z",
+  "model": "glm-5.3"
+}

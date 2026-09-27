@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Mordekai akamuudza ⟨את⟩ zvese zvakawira iye, ne⟨את⟩ tsanangudzo yesirivha yaHaman akataura kupepeta pamusoro pezvitunze zvehupfumi homambo, ⟨nokuda⟩ kwevaJudha, kuwaparadza.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akamuudza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "akawira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "tsanangudzo yesirivha"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "tsanangudzo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "yesirivha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "kupepeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "zvitunze zvehupfumi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "homambo"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "kwevaJudha"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "kuwaparadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:37.275826199Z",
+  "model": "glm-5.3"
+}

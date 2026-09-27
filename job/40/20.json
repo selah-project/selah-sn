@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Nokuti zvirokwazo zwakatapwa zvomakomo zvinozvitakura iye; uye zvikara zvose zvomunda zvinoitamba ipapo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בול",
+      "gloss": "zwakatapwa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zvomakomo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "zvinozvitakura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye zvose"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvikara"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zvomunda"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "zvinoitamba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:44:39.614837776Z",
+  "model": "glm-5.3"
+}

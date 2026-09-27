@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Zvino kwakaitika, panguva yokubuda kwemapristi kubva munzvimbo yetsvene, kuti gore rakaenzanisa ⟨את⟩ imba yaYahwe richizadza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino kwakaitika"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "panguva yokubuda"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kwemapristi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "munzvimbo yetsvene"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "uye gore"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "rakaenzanisa richizadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:49.499731304Z",
+  "model": "glm-5.3"
+}

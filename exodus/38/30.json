@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Nayo akaita nayo ⟨את⟩ matsi echirango chehema yekusangana, ne⟨את⟩ altari yehuta, ne⟨את⟩ giridhi yehuta yaive yayo, ne⟨את⟩ zvinhu zvose zvealtari.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "matsi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "chirango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yekusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "altari yehuta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yehuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "giridhi yehuta"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "giridhi"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yehuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "zvealtari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:56.440380419Z",
+  "model": "glm-5.3"
+}

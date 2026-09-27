@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Nekuti haana kuyeuchidzwa kuchaita hesedhi, akatevedza murume murombo nomupfupiro, nomuroyi wemoyo, kuwuuraya.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Nekuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kuyeuchidzwa"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kuchaita"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "akatevedza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "עני",
+      "gloss": "murombo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomupfupiro"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "nomuroyi wemoyo — wakaremara"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wemoyo"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "kuwuuraya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:17.247563994Z",
+  "model": "glm-5.3"
+}

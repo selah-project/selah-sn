@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Akabvisa vakadzi-vechitema netsvene dzakatsemwa ⟨kubva⟩ nyikayi, uye akabvisa ⟨את⟩ zvigunwa zvose zvavaita madzibaba awa.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "netsvene dzakatsemwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyikayi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvigunwa zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "zvigunwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvavaita"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zvavaita"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "madzibaba awa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:07.060932188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe achaita kuti mvula yenyika yako ⟨את⟩ mvula ive ⟨kuita⟩ hurongo nemvura yemhepo; ichadonha kumatenga pamusoro pechiso chako, kusvika waparara.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "achaita kuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvula"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mvula"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "yenyika yako"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "hurongo"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "nemvura yemhepo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ichadonha"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pechiso chako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "waparara"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:23.266984793Z",
+  "model": "glm-5.3"
+}

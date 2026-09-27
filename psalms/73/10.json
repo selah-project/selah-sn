@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Nokudaro vanhu vake vanodzoka kuno, uye ⟨kubva⟩ mukombe wazara mvura dzinodzvanywa ⟨kwavavo⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vanodzoka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "uye mvura"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wazara"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "dzinodzvanywa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwavavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:00.502642102Z",
+  "model": "glm-5.3"
+}

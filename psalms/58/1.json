@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Kune mutungamiri vemuridzo. Usatapudza. Nziyo yaDhavhidhi, mukhatamu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri vemuridzo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tatapudza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mukhatamu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:40.942470456Z",
+  "model": "glm-5.3"
+}

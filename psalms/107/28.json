@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Ndokubva vachichemedza kuna Yahwe pachitambudiko chavo, uye anoburitsa kubva mudzidzingido dzavo.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "vachichemedza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "pachitambudiko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chavo"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "kubva mudzidzingido dzavo"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "anoburitsa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:18.935575483Z",
+  "model": "glm-5.3"
+}

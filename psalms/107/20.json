@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Anotuma shoko rake, uye anaporesa ⟨את⟩ avo, uye anoburitsa ⟨את⟩ avo kubva kumasikwa avo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Anotuma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "shoko rake"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "uye anaporesa ⟨את⟩ avo"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "uye anoburitsa ⟨את⟩ avo kubva"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "kumasikwa avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:08.154815637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Akati: Ndewo neni, uone chishuvo changu chiYahwe. Vakamukwesva ⟨את⟩ mukugara kwake pagari rake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ndewo neni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ neni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uone"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "chishuvo changu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chiYahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "vakamukwesva mukugara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mukugara kwake pagari rake"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "pagari rake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:53.836107803Z",
+  "model": "glm-5.3"
+}

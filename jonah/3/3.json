@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yona akasimuka akaenda kuNinive sokutaurwa kwaYahwe. Ninive yaive guta guru pamberi paErohimu, mhando yemazuva matatu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akasimuka"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sokutaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pamberi paErohimu"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "mhando"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:52.119689082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Aramu akaona kuti vakaurayiwa pamberi peIsraeri, ndokusangana vose pamwe chete.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "vakaurayiwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ndokusangana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "vose pamwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:04.993781586Z",
+  "model": "glm-5.3"
+}

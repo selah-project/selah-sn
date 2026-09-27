@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti chinonyadzisa kunaYahwe ndiye umwe neumwe anozviita izvi, uye nokuda kwezvinonyadzisa izvi Yahwe Erohimu wako anovadzinga kubva pamberi pako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "chinhu chinonyadzisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "umwe neumwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "uye nokuda kwe"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "zvinonyadzisa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "anadzinga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo — venyika vachadzingwa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kubva pamberi pako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:15:53.582962073Z",
+  "model": "glm-5.3"
+}

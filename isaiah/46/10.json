@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Anozivisa ⟨⟨zvinhu⟩⟩ zvinozo kubva pakutanga, uye zvisati zvaitwa kubva kare; achiti: urongwa wanguuchamira, uye chido changu chese ndichachiera.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Anozivisa"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "kubva pakutanga"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "zvinozo"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "uye kubva kare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izwi⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "zvisati zvaitwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "urongwa wangu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "uchamira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye chese"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "chido changu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichachiera"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:52.260192231Z",
+  "model": "glm-5.3"
+}

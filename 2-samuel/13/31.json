@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Ndamambo vakamuka, vakabvarura ⟨את⟩ hembe dzavo, vakarara pasi; uye varanda vake vose vakamira vaine hembe dzavakabvarura.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ndamambo"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "vakabvarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzavo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hembe-dzavo"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "vakarara"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda-vake"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "vakamira"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "dzavakabvarura"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "hembe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:59.748448718Z",
+  "model": "glm-5.3"
+}

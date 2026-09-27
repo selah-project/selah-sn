@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Anogona kutaura here masimba aYahwe? Anogona kuita kuti rumbidzo rwake rwose ruzikanwe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anogona... here"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "masimba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "kuita kuti... ruzikanwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwose"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rumbidzo rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:23.387879614Z",
+  "model": "glm-5.3"
+}

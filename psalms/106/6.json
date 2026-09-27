@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Tatadza pamwe nemadzitibaba edu; takapotsa, takaita zvakaipa.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "tatadza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "madzitibaba edu"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "takapotsa"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "takaita zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:35.907114430Z",
+  "model": "glm-5.3"
+}

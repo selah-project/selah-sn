@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Anoda ⟨⟨kururama⟩⟩ nekutonga; nehesedhi yaYahwe nyika yazara.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Anoda"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nekutonga"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yazara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:51.249302295Z",
+  "model": "glm-5.3"
+}

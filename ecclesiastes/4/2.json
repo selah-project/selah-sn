@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ndokuti ndakarumbidza ⟨את⟩ vakafa vari kufa zvazvino, kupinda vapenyu ari vapenyu zvazvino.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ndakarumbidza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakafa"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "vakafa"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "zvazvino"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "vari kufa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kupinda"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vapenyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vapenyu"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "zvazvino"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:52.269062781Z",
+  "model": "glm-5.3"
+}

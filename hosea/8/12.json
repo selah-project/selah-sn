@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndakanyorera iwe zviuru zviuru zvetora yangu; asi zvakaverengwa semutorwa.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Ndakanyorera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zviuru zviuru"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora yangu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mutorwa"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "zvakaverengwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:09.591367491Z",
+  "model": "glm-5.3"
+}

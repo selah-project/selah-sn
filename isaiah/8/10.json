@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Rongai zano, richaguruka; taurai izwi, harichasimuki; nokuti Er ari nesu.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Rongai"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "zano"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "richaguruka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "taurai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "richasimuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ari nesu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:40.993228808Z",
+  "model": "glm-5.3"
+}

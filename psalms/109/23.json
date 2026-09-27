@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Ndafamba semumvuri paunotenderera; ndakaturikwa senzhabi.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "semumvuri"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "paunotenderera"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "Ndafamba"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ndakaturikwa"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "senzhabi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:32.847224884Z",
+  "model": "glm-5.3"
+}

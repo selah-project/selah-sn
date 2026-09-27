@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye uyu ndiwo waita basa renzvimbo dzokumira: dzakanga dzine miganhu kwazvo, uye miganhu ari pakati pemashefu.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "uye uyu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "renzvimbo dzokumira"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "miganhu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "uye miganhu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "mashefu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:08:42.154104379Z",
+  "model": "glm-5.3"
+}

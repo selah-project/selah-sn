@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Uye vana vave vanodzungisika nguva dzose, vachivhunza, vachitsvaga ⟨chingwa⟩ kubva kunzvimbo dzavo dzakaparara.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "udzungisike"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "vadzungisika"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "vachivhunza"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "vachitsvaga"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "kubva kunzvimbo dzavo dzakaparara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:46.344153972Z",
+  "model": "glm-5.3"
+}

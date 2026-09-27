@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Zvakaipa anozvidavira pagomarara rake; anoimirira panzira isiri yakanaka; choipa haazvidzuriri.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "anozvidavira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "gomarara rake"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "anoimirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isiri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yakanaka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "choipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "zvidzuriri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:22.577896502Z",
+  "model": "glm-5.3"
+}

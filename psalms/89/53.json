@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Yahwe vakaropafadzwa kusingaperi. Ameni, uye Ameni.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "vakaropafadzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "uye Ameni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:14.498870213Z",
+  "model": "glm-5.3"
+}

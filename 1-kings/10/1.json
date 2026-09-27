@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye mambokadzi waSheba akanzwa ⟨את⟩ nhau dzaShoromohi dzine chita raYahwe, akauya kumuedza nge⟨zvidzinyo⟩.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "uye mambokadzi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "waSheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nau dzaShoromohi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nau"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "dzaShoromohi"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "zvechita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "kumuedza"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "ngezvidzinyo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:11.719749728Z",
+  "model": "glm-5.3"
+}

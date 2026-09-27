@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Farao ateite, uye oisa madzoro pamusoro penyika, atore chimwe chechishanu che⟨את⟩ nyika yeMitsrayimu mumakore manomwe ezvizara.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "ateite"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "oisa"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "madzoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "penyika"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "atore chimwe chechishanu che"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yeMitsrayimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "makore manomwe"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ezvizara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:20:51.059865373Z",
+  "model": "glm-5.3"
+}

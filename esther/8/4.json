@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mambo akosora kuna Ester ⟨את⟩ ndima yendarama, uye Ester akamuka, akamira pamberi pemambo.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "akosora"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kuna Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndima yendarama"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "ndima"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:46.449892206Z",
+  "model": "glm-5.3"
+}

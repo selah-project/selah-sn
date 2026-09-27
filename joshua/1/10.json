@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yoshua akakomekedza ⟨את⟩ vatungamiriri vevanhu, achiti:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akakomekedza"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatungamiriri vevanhu"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "vatungamiriri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vevanhu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:54.593265146Z",
+  "model": "glm-5.3"
+}

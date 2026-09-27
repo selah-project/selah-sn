@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndapfumbika kupfuura vadzidzisi vangu vose, nokuti hunhu hwako hwekupupurira ndihwo kufungisisa kwangu.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kupfuura... vose"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "vadzidzisi vangu"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "Ndapfumbika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "hunhu hwako hwekupupurira"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "kufungisisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:55.916876926Z",
+  "model": "glm-5.3"
+}

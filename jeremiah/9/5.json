@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Kugara kwako kuri mukati menyepi; nezveinyepa vakaramba kuziva ⟨את⟩ ndini, ndiko kutaurwa kwaYahwe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "kugara kwako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "nyepi"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "nezveinyepi"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "vakaramba"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ndini",
+      "marks": "kuziva (chinhu chakaramba kuzivikanwa)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndiko kutaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:01.164394056Z",
+  "model": "glm-5.3"
+}

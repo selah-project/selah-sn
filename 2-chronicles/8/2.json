@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ne⟨את⟩ maguta aro Huramu akapa Shoromho — Shoromho akavaka ⟨את⟩ avo, uye akagadzira ipapo ⟨את⟩ vana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Ne⟨את⟩ maguta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aro"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huramu"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shoromho"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "avo (maguta)"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "akagadzira kugara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:52.245910716Z",
+  "model": "glm-5.3"
+}

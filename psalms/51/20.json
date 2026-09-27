@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Ita zvakanaka, nokuda kwezvakanaka kwako, ⟨את⟩ Ziyoni; womadziro eYerushalema.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Ita zvakanaka"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "nokuda kwezvakanaka kwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ziyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "womadziro"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalema"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:11.426688645Z",
+  "model": "glm-5.3"
+}

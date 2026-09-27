@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 10:17",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye zvichaita: chiedza chaIsraeri chichava ⟨moto⟩, uye Mutsvene wake chichava rimi remoto; uye ⟨icho⟩ chichapisa, uye kudya minzwa yake netsvanje dzake, muzuva mumwe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Uye zvichaita"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "chaIsraeri"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "chichava ⟨moto⟩"
+    },
+    {
+      "surface": "וקדושו",
+      "gloss": "Mutsvene wake"
+    },
+    {
+      "surface": "ללהבה",
+      "gloss": "chichava rimi remoto"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "chichapisa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "uye kudya"
+    },
+    {
+      "surface": "שיתו",
+      "gloss": "minzwa yake"
+    },
+    {
+      "surface": "ושמירו",
+      "gloss": "netsvanje dzake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:49.367056371Z",
+  "model": "glm-5.3"
+}

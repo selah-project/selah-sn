@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Eshithoni akazvara ⟨את⟩ Bhethi-Rafha, ne⟨את⟩ Paseaha, ne⟨את⟩ Tehinna baba weguta reNahhashi; aya ndiwo varume veRekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Eshithoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bhethi-Rafha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bhethi"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Paseaha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Tehinna"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tehinna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba we"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta re"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahhashi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "varume ve"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:03.864359888Z",
+  "model": "glm-5.3"
+}

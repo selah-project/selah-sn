@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Uye basa rakange rakwana basa rose rokuita ⟨את⟩ racho, uye zvakawanda zvakasarira.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "uye basa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "rakanga riri"
+    },
+    {
+      "surface": "דים",
+      "gloss": "rakwana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "rokuita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "racho (basa)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "uye zvakawanda zvakasarira"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:56.877741748Z",
+  "model": "glm-5.3"
+}

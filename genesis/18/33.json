@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yahwe akaenda, apo akapedza kutaura naAbhurahama; uye Abhurahama akadzokera kune ⟨nzvimbo⟩ yake.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "akapedza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "uye Abhurahama"
+    },
+    {
+      "surface": "שב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kune nzvimbo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:52.814279438Z",
+  "model": "glm-5.3"
+}

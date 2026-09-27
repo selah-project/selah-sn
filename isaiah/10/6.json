@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ndinomutumira kunyika yemadzimadzira vasina tsvene, uye ndinomurayira pamusoro pevanhu veshure rwangu, kuti abate chibhakera nokutora chibairo, uye kuvaisa sokudzvanyirwa kwevivhu pamugwagwa.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "kunyika ye"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "vasina tsvene"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "Ndinomutumira"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pamusoro pe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "veshure rwangu"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "ndinomurayira"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kuti abate"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chibhakera"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "uye kukunda"
+    },
+    {
+      "surface": "בז",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "uye kuvaisa"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "sokudzvanyirwa"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "sevivhu"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "pamugwagwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:14.906353569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Tarisa, ndichaparadza Baasha nemhuri yake, uye ndichaita ⟨את⟩ imba yako saimba yaYarovamu mwana waNevati.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ndichaparadza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "nemushure me"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "uye ndichaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imba yako"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "saimba ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevati"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:19.925648003Z",
+  "model": "glm-5.3"
+}

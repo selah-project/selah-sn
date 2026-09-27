@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nemangwana muchaona ⟨את⟩ ruremekedzo rwaYahwe, paanonzwa ⟨את⟩ kunyemerera kwenyu kwauri Yahwe; asi isu ndiani, kuti mu nyemerere kwatisu?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "nemangwana"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "muchaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruremekedzo rwaYahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rwaYahwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "paanonzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunyemerera kwenyu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "kunyemerera kwenyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "asi isu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "munyemerera"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kwatisu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:59.442934474Z",
+  "model": "glm-5.3"
+}

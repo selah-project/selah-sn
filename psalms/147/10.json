@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Haafariri simba rebhiza, haashandise fariro mashoko omurume.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Haafariri"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "simba ra"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "bhiza"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "haafariri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haashandise"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "mashoko a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "farirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:39.831617076Z",
+  "model": "glm-5.3"
+}

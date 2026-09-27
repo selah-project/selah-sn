@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Ndini Yahwe, ndakakuda nokururama, ndichasimbisa ruoko rwako, ndichakuchengeta, ndichakupa sokusungana kuvanhu, sokuchena kwechiedza kunyunyuta marudzi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakakuda"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nokururama"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "ndichasimbisa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "ndichakuchengeta"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ndichakupa"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "sokusungana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sokuchena kwechiedza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kunyunyuta marudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:57.231045060Z",
+  "model": "glm-5.3"
+}

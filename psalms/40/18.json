@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Asi ini ndiri mushoma nomurombo; Adonai vanondifungira: imi muchibatsiri wangu nomunondipunzura; Erohimu wangu, musanetse.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ndiri mushoma"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomurombo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "vanondifungira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "muchibatsiri wangu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nomunondipunzura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "imi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musа"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "-sanetse"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:14.041548806Z",
+  "model": "glm-5.3"
+}

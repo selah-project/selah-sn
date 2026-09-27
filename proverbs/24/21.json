@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Mwanangu, ita kuti uze ⟨את⟩ Yahwe pamwe nemambo; nevanoshanduka usasangane navo.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ita kuti uze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nemambo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "nevanoshanduka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "usasangane navo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:49.490861300Z",
+  "model": "glm-5.3"
+}

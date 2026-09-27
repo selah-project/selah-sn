@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Yahwe achamuchengeta, achamuponesa; achatarisirwa kururama pasi; iwe, usamupi kumweya yavavengi wake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "achamuchengeta"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "achamuponesa"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "achatarisirwa kururama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "iwe, usa"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "mupi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kumweya ya"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vavengi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:43.983988598Z",
+  "model": "glm-5.3"
+}

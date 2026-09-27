@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Mutungamiri wevaurai akatarira ⟨את⟩ Yosefu ⟨את⟩ kuva navo, uye akashandira ⟨את⟩ ivo; vazove mazuva mukuchengetedzwa.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "akatarira"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Mutungamiri"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wevaurai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kuva navo"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "akashandira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vazove"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mukuchengetedzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:26.937446049Z",
+  "model": "glm-5.3"
+}

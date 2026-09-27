@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Moyo womuchenjeri uri kurudyi kwake, uye moyo wepenzi uri kuruboshwe kwake.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "womuchenjeri"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "kurudyi kwake"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "uye moyo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wepenzi"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "kuruboshwe kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:56.326591811Z",
+  "model": "glm-5.3"
+}

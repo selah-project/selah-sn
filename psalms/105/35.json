@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "dzikadya zvose zvirimwa zviri mumuvhu rwavo, dzikadya muchero wemuvhu rwavo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "dzikadya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "zvirimwa"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "mumuvhu rwavo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dzikadya"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "muchero"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "wemuvhu rwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:38.666268889Z",
+  "model": "glm-5.3"
+}

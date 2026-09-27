@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Itai kure neni imi vanoita zvakaipa, kuti ndichengete mirairo yaErohimu wangu.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "itai kure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "neni"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "imi vanoita zvakaipa"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "kuti ndichengete"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "yaErohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:54.460296590Z",
+  "model": "glm-5.3"
+}

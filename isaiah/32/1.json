@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Tarisa, she achatonga nokururama, uye madzishe achagara votonga nomutemo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "nokururama"
+    },
+    {
+      "surface": "יִמְלָךְ",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "she"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "uye madzishe"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "nomutemo"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "achagara votonga"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:03.727059546Z",
+  "model": "glm-5.3"
+}

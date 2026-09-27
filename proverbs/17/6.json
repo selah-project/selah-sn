@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Vana vevana ndivo chisikigo chevakurumkuru; uye rukudzo rwavana ndibaba vavo.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "chisikigo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "chevakurumkuru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana veva"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "na"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "uye rukudzo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "rwavana"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ndibaba vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:26:59.465927493Z",
+  "model": "glm-5.3"
+}

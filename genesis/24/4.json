@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "asi unongaenda kunyika yangu nokuzvarwa kwangu, uye unotora mukadzi womwanakomana wangu, Yitshaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "kunyika yangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nokuzvarwa kwangu (ku)"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "nokuzvarwa kwangu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "unongaenda"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "uye unotora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "womwanakomana wangu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshaki"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:23.827959636Z",
+  "model": "glm-5.3"
+}

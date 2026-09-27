@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Uye Iyobhu akagara upenyu shure kweizvi makore zana nemakumi mana, akaona ⟨את⟩ vanakomana vake ne⟨את⟩ vana kuvana vevanakomana vake, mazera mana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara upenyu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobhu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "nemakumi mana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanakomana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vanakomana vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana kuvana vevanakomana vake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana kuvana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vevanakomana vake"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "mazera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:46:00.185350797Z",
+  "model": "glm-5.3"
+}

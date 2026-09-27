@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Pandakakurangarira panguwo rangu, munhavo dzeusiku ndinokufungisisa iwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "Pandakakurangarira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "panguwo rangu"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "munhavo dzeusiku"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ndinokufungisisa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:52.631565223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yoramu akazorora navadzakutsvara vake, akavigwavo navadzakutsvara vake muguta raDhavhidha; mukoma wake Ahaziahu akatonga mukuvapo kwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akazorora"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoramu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "vadzakutsvara vake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akavigwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "vadzakutsvara vake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "raDhavhidha"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mukuvapo kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:35.140396696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Vana vaGereshoni: Ribuhi neshimi, nemhuri dzavo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "vaGereshoni"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ribuhi"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "neshimi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemhuri dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:08.657043962Z",
+  "model": "glm-5.3"
+}

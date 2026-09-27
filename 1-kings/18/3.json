@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Ahabhu akadana Obhadhiya, aive musariri webha; uye Obhadhiya aive anotya ⟨את⟩ Yahwe zvikuru.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kuna⟩"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obhadhiya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aive"
+    },
+    {
+      "surface": "על",
+      "gloss": "musariri we"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bha"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "uye Obhadhiya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aive"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:25.125026299Z",
+  "model": "glm-5.3"
+}

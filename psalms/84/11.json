@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Nokuti zuva rimwe mamarwe ako ranaka kupfuura ⟨churu⟩ ⟨rimwe⟩; ndasarudza kumira panzvimbo yekupinda mumba yaErohimu wangu, kupfuura kugara matenti evakaipa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ranaka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva rimwe"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "mamarwe ako"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "kupfuura churu ⟨rimwe⟩"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndasarudza"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "kumira panzvimbo yekupinda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "yaErohimu wangu"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "kupfuura kugara"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "matenti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "evakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:18.864892545Z",
+  "model": "glm-5.3"
+}

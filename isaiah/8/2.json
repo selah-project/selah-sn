@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndichatora kwandiri vapupuri vakatendeka: ⟨את⟩ Uhuriya mucherechi, ne⟨את⟩ Zekariya mukomana waYevelekiahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ndichatora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vapupuri"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "vakatendeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uhuriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uhuriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mucherechi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekariya"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekariya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "waYevelekiahu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:09.030637852Z",
+  "model": "glm-5.3"
+}

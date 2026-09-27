@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Anoburitsa kuparadza kwazvinogumazve pamusoro pevasimba, uye kuparadza kuchauya pamusoro pedzimbahwe.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "anoburitsa kazvizvozve"
+    },
+    {
+      "surface": "שד",
+      "gloss": "kuparadza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vasimba"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "uye kuparadza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "dzimbahwe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kuchauya"
+    }
+  ],
+  "timestamp": "2026-09-27T08:41:32.303038840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Pachiso paYahwe, nokuti auya, nokuti auya kudayira ⟨את⟩ ivhu; achadaya ⟨את⟩ nyika netsvene, uye vanhu nechitendero chake.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "auya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "auya"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kudayira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "achadaya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "netsvene"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "uye vanhu"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "nechitendero chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:17.563623933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Rumbidzai Yah! Rumbidzai ⟨את⟩ Yahwe kubva matenga, rumbidzai muNzvimbo Dzepamusoro.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "muNzvimbo Dzepamusoro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:15.918855062Z",
+  "model": "glm-5.3"
+}

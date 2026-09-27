@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye Er Shadai akutendere ⟨אתך⟩, akukudza, akuwandisa, uye uchava mubatanidzwa wamadzinza.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Uye Er"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "akutendere"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "akukudza"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "akuwandisa"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "uchava"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "mubatanidzwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "wamadzinza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:40.335311826Z",
+  "model": "glm-5.3"
+}

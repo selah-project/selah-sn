@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Nokuti iwe, Yahwe, ndiwe ⟨nzvimbo yangu⟩ yekuzvitiza; Eriyoni wakuisa sechokudziro chako chekugara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nzvimbo yangu yekuzvitiza"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eriyoni"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wakaisa"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "chokudziro chako chekugara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:46.863786387Z",
+  "model": "glm-5.3"
+}

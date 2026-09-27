@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye mukadzi anoswedera pedyo nchipetsu chose chaanokwirirana nacho — ungauraye ⟨את⟩ mukadzi uyo n⟨את⟩ chipetsu; zvirokwazvo vofa; ropa ravo riri paivowo.",
+  "tokens": [
+    {
+      "surface": "וְאִשָּׁ֗ה",
+      "gloss": "Uye mukadzi"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "anoswedera"
+    },
+    {
+      "surface": "תִּקְרַ֤ב",
+      "gloss": "anoswedera pedyo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "בְּהֵמָה֙",
+      "gloss": "chipetsu"
+    },
+    {
+      "surface": "לִרְבְּעָ֣הּ",
+      "gloss": "chaanokwirirana nacho"
+    },
+    {
+      "surface": "אֹתָ֔הּ",
+      "gloss": "⟨את⟩ nacho"
+    },
+    {
+      "surface": "וְהָרַגְתָּ֥",
+      "gloss": "ungauraye"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi iyo"
+    },
+    {
+      "surface": "הָאִשָּׁ֖ה",
+      "gloss": "mukadzi iyo"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "no⟨את⟩",
+      "marks": "chipetsu"
+    },
+    {
+      "surface": "הַבְּהֵמָ֑ה",
+      "gloss": "chipetsu"
+    },
+    {
+      "surface": "מ֥וֹת",
+      "gloss": "zvirokwazvo vofa"
+    },
+    {
+      "surface": "יוּמָ֖תוּ",
+      "gloss": "vofa"
+    },
+    {
+      "surface": "דְּמֵיהֶ֥ם",
+      "gloss": "ropa ravo"
+    },
+    {
+      "surface": "בָּֽם",
+      "gloss": "paivowo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:37.817372176Z",
+  "model": "glm-5.3"
+}

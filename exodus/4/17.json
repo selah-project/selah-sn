@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye ⟨את⟩ chimuti ichi unotora mumaoko ako, umochiitira nacho ⟨את⟩ zviratidzo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chimuti ichi"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "chimuti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "unotora"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mumaoko ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unochiitira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nacho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zviratidzo"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "zviratidzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:38.078070735Z",
+  "model": "glm-5.3"
+}

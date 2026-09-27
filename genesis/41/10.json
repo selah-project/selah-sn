@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Paroho akatsamwa nevaranda vake, akaenda ⟨את⟩ ndiri mundege mumba ya mutenyi wemapikicha, ini ⟨את⟩ natenyi wevaviri.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroho"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "akatsamwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndiri mundege"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mundege"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba ya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mutenyi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wemapikicha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "natenyi wevaviri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "natenyi"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wevaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:06.859455284Z",
+  "model": "glm-5.3"
+}

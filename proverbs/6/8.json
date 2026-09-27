@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "inogadzirira chikafu chayo muzhizha, uye kuunganidza chikafu chayo pakukohwa.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "inogadzirira"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "muzhizha"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "chikafu chayo"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "uye kuunganidza"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pakukohwa"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "chikafu chayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:14.064842154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Ndinunure Erohimu, pakuti madiro auya kusvika pamweya ⟨wangu⟩.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ndinunure"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pakuti"
+    },
+    {
+      "surface": "באו",
+      "gloss": "auya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "madiro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:57.472807284Z",
+  "model": "glm-5.3"
+}

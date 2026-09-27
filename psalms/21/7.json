@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Nokuti munomuisa makomborero nokusingaperi; munomufadza nefaro, ⟨את⟩ chiso chenyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "munomuisa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "makomborero"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "munomufadza"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "nefaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chenyu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:39.548284391Z",
+  "model": "glm-5.3"
+}

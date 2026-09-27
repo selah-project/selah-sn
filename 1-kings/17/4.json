@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Zvino zvinofanira kuti unwa kubva munzvimbo yemvura, uye ndakuraira makorwi ⟨את⟩ kuti vakudyire ipapo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Zvino zvinofanira kuti"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "kubva munzvimbo yemvura"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "unwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "makorwi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "makorwi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndakuraira"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "kuti vakudyire"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:04.924871232Z",
+  "model": "glm-5.3"
+}

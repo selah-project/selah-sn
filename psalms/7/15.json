@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Tarisa, anotambudzika nacho chakaipa, akatema pamuviri njodzi, uye akazvara nhema.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "anotambudzika"
+    },
+    {
+      "surface": "און",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "akatema pamuviri"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "njodzi"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nhema"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:58.740954685Z",
+  "model": "glm-5.3"
+}

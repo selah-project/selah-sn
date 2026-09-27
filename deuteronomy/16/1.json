@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Chengeta ⟨את⟩ mwedzi waAvivi, uye unoita Pesa kuna Yahwe Erohimu wako; nokuti mumwedzi waAvivi Yahwe Erohimu wako akakuburitsa muMisri husiku.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Chengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwedzi waAvivi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "waAvivi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mumwedzi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "waAvivi"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "akakuburitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muMisri"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "husiku"
+    }
+  ],
+  "timestamp": "2026-09-27T06:14:43.733839402Z",
+  "model": "glm-5.3"
+}

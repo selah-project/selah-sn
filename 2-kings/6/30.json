@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Zvikanwa mambo ainzwa ⟨את⟩ mashoko emukadzi uyu, akatyora ⟨את⟩ hembe dzake, achipfuura pamusoro pemadziro; vanhu vakatarisa, taona gwere riri mukati pamubvunzararo wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvikanwa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ainzwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko emukadzi uyu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "emukadzi uyu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hembe dzake"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "achipfuura"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pfuura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "vakatarisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "השק",
+      "gloss": "gwere"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mubvunzararo wake"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mukati"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:38.946010390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Asi kana unoteerera-noonoteerera izwi rake, uchiita zvose zvandichataura, ndichava muvengi ⟨את⟩ wevavengi venyu, uye ndichatsindira ⟨את⟩ vatsindiri venyu.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שָׁמֹעַ",
+      "gloss": "unoteerera-noo"
+    },
+    {
+      "surface": "תִּשְׁמַע",
+      "gloss": "unoteerera"
+    },
+    {
+      "surface": "בְּקֹלוֹ",
+      "gloss": "izwi rake"
+    },
+    {
+      "surface": "וְעָשִׂיתָ",
+      "gloss": "uchiita"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "אֲדַבֵּר",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "וְאָיַבְתִּי",
+      "gloss": "ndichava muvengi"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "wevavengi venyu"
+    },
+    {
+      "surface": "אֹיְבֶיךָ",
+      "gloss": "wevavengi venyu"
+    },
+    {
+      "surface": "וְצַרְתִּי",
+      "gloss": "uye ndichatsindira"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "vatsindiri venyu"
+    },
+    {
+      "surface": "צֹרְרֶיךָ",
+      "gloss": "vatsindiri venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:04.800611466Z",
+  "model": "glm-5.3"
+}

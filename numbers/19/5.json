@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Nomuridzi anopfiswa ⟨את⟩ nhanga mumeso ake: ⟨את⟩ ganda rayo, n⟨את⟩ nyama yayo, n⟨את⟩ ropa rayo, pamwe nedhaka rayo, anopfiswa.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "anopfiswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhanga"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "nhanga"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "mumeso ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ganda rayo"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "ganda rayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "nyama yayo"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "nyama yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "ropa rayo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ropa rayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "dhaka rayo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "anopfiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:31.493113118Z",
+  "model": "glm-5.3"
+}

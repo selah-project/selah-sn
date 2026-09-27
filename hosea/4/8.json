@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Chitadzo chevanhu vangu vanodya, uye kune mhaka yavo mwoyo wawo vanodzikisa.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "chitadzo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "chevanhu vangu"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "vanodya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kune"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mhaka yavo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "vanodzikisa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mwoyo wawo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:10.022547715Z",
+  "model": "glm-5.3"
+}

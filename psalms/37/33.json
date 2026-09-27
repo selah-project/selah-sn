@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Yahwe hamusi kumusiya munecha rake, uye havaamusi mhosva pakumutswakwa kwake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "hamusi kumusiya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "munecha rake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hava-"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "vaamusi mhosva"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "pakumutswakwa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:55.126710841Z",
+  "model": "glm-5.3"
+}

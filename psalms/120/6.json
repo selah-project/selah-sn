@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 120,
+  "translation": "Kwenguva refu mweya wangu wagara navo vanovenga runyararo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "kwenguva refu"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "wagara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwavake"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "vanovenga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:20.946714273Z",
+  "model": "glm-5.3"
+}

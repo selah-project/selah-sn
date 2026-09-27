@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asi izvi zvakaitwa kwauri, nokuti wakasiya ⟨את⟩ Yahwe, Erohimu wako, paengo yaakutungamirira munzira.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zvakaitwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "wakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "paengo"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "yaakutungamirira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:50:46.499964593Z",
+  "model": "glm-5.3"
+}

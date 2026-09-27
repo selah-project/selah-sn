@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Rudzi ruchirumbidza mabasa ako kurudzi rimwe, uye masimba ako achataurwa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Rudzi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kurudzi rimwe"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ruchirumbidza"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "uye masimba ako"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "achataurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:14.797358431Z",
+  "model": "glm-5.3"
+}

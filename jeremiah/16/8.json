@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye mumba wokutambira kudya nwira usapinda, kugara ⟨navo⟩, kudya nokunwa.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "nemumba"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "wokutambira kudya nwira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "pinda"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kudya nokunwa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "nokunwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:56:37.227148565Z",
+  "model": "glm-5.3"
+}

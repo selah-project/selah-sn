@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndiniwo ndakakwidzirai ⟨את⟩ inzi kubva munyika yeMuita, ndikafambisai mumuganhu makumi mana emakore, kuti mugarire ⟨את⟩ nyika yevaEmori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ndiniwo"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ndakakwidzirai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ inzi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMuita"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ndikafambisai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mumuganhu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kuti mugarire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "yevaEmori"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:09.876498158Z",
+  "model": "glm-5.3"
+}

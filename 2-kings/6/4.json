@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Akaenda ⟨את⟩ navo; vakasvika kuYorudhano, vakadimura ⟨את⟩ miti.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Akaenda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ navo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "kuYorudhano"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "vakadimura"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "miti"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:54.089388561Z",
+  "model": "glm-5.3"
+}

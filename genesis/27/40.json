@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye pachihara chako uchagara, uye ⟨את⟩ munin'ina wako uchashandira; zvichaitika kana ukasununguka, uchasunungura gomu ravo kubva peshure huro yako.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "chihara chako"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "uchagara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "munin'ina wako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "munin'ina wako"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uchashandira"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "zvichaitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "ukasununguka"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "uchasunungura"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "gomu ravo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa-"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "shure huro yako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:41.450310546Z",
+  "model": "glm-5.3"
+}

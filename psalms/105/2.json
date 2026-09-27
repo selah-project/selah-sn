@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Imbai muchiimba iye; tambai iye; taurai pamusoro pe zvinoshamisa zake zose.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbai muchiimba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "tambai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "taurai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zvinoshamisa zake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:45.910355114Z",
+  "model": "glm-5.3"
+}

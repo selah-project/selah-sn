@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Kuita ⟨wana⟩ nekuuraya zvichipa muzvinhu zvisina tsitsi, uye kuranga muzvinhu zvisina tsitsi.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Kuita"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "⟨wana⟩ nekuuraya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "muzvinhu zvisina tsitsi"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "kuranga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "zvinhu zvisina tsitsi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:06.886841292Z",
+  "model": "glm-5.3"
+}

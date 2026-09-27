@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mikhari akadzikisa ⟨את⟩ Dhavhidhi kuburikidza nehwindo, akaenda, akatiza, akanunzwa.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "akadzikisa"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kuburikidza ne"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "hwindo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "akanunzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:28.084907590Z",
+  "model": "glm-5.3"
+}

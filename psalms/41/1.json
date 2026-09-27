@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Kune mutungamiri wemidzinhi. Nhetembo yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri wemidzinhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nhetembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:43.983463212Z",
+  "model": "glm-5.3"
+}

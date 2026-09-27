@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Zvinhu tsvene zvangu wakazvidzikisa, uye ⟨את⟩ Shabhata dzangu wakazvitadzisa.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Zvinhu tsvene zvangu"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "wakazvidzikisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata dzangu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabhata dzangu"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wakazvitadzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:22:47.929215889Z",
+  "model": "glm-5.3"
+}

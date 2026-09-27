@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Ndzikunure uye ndizvinunure ruoko rwevana venharaunda dziri kure, avo muromo wavo unotaura zhara, uye ruoko rwo kurudyi rwavo ruri ruoko rwekunyepa.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Ndzikunure"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "uye ndizvinunure"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ruko rwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "venharaunda dziri kure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "muromo wavo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "zhara"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "uye ruoko rwo kurudyi rwavo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wekunyepa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:49.258241438Z",
+  "model": "glm-5.3"
+}

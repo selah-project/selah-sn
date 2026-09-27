@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu vakaropa ⟨את⟩ madambudziko, vachiti: Berekai uwandu, muwedzere, uye dzazadzise ⟨את⟩ mvura mumakungwa; uye shiri dziwedzere pasi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "vakaropa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "madambudziko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Berekai uwandu"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "muwedzere"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dzazadzise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvura"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mumakungwa"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "uye shiri"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "dziwedzere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:45.695908616Z",
+  "model": "glm-5.3"
+}

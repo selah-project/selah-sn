@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akatsamwa nababa venyu — tsamwa.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "akatsamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baba venyu"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "tsamwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:48:10.849663464Z",
+  "model": "glm-5.3"
+}

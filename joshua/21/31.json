@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelikata ne⟨את⟩ migararo yayo, ne⟨את⟩ Rehobhi ne⟨את⟩ migararo yayo — madhora ina.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelikata"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelikata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "migararo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migararo yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Rehobhi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "migararo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migararo yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "madhora"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:47.876549984Z",
+  "model": "glm-5.3"
+}

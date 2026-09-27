@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 142,
+  "translation": "Tarisa ⟨ru⟩ruboshwe uye ona, asi hapana anondiziva; nzira yokutizira yandapotsa; hapana anotsvaga mweya wangu.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ruboshwe"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uye ona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "asi hapana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "anondiziva"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yandapotsa"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "nzira yokutizira"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "anotsvaga"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:15.922400122Z",
+  "model": "glm-5.3"
+}

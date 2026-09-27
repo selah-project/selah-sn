@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 46:1",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Zvino ndizvo zvinotaurwa naAdonai Yahwe: GATE rechivanze chamukati rinatarisa kumabvazuva richavara zvakanaka mazita matanhatu emazuva ebasa; asi nokuva muzuva weShabhata richavhurwa, uye nokuva muzuva wemwedzi mutsva richavhurwa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvino ndizvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvinotaurwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "naAdonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "GATE"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "rechivanze"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "chamukati"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "rinatarisa"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "kumabvazuva"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "rara"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "matanhatu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "emazuva"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ebasa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "asi nokuva muzuva"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "weShabhata"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "richavhurwa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "uye nokuva muzuva"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "wemwedzi mutsva"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "richavhurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:34:43.902837098Z",
+  "model": "glm-5.3"
+}

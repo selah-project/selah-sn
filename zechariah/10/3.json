@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 10:3",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Hasha dzangu dzakapisa pa⟨vanofudzi⟩, uye ndicharanga ⟨mbudzi dzirume⟩; nokuti Yahwe Tsevaoti akatarisa ⟨את⟩ mfuzvo yake, ⟨את⟩ mumba waYudha, uye akaisa ⟨את⟩ ivo sehachi yeodzi yake muhondo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "vanofudzi"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "dzakapisa"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "hasha dzangu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pa"
+    },
+    {
+      "surface": "העתודים",
+      "gloss": "mbudzi dzirume"
+    },
+    {
+      "surface": "אפקוד",
+      "gloss": "ndicharanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akatarisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mfuzvo yake"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "mfuzvo yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumba waYudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "waYudha"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye akaisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ivo"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "sehachi"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "yeodzi yake"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "muhondo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:50:45.346079071Z",
+  "model": "glm-5.3"
+}

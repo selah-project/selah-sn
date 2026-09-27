@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Asi hesedhi yangu handiigutsi kubva paiye, uye handisi kunyenga mukururama kwangu.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "Asi hesedhi yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "gutsi"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kubva paiye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handisi"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "kunyenga"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "mukururama kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:37.321927226Z",
+  "model": "glm-5.3"
+}

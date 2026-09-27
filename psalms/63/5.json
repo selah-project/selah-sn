@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Naizvozvo ndichakurumbidza mupenyu wangu; nezita rako ndichasimudza matanga angu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Naizvozvozvo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ndichakurumbidza iwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "mupenyu wangu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nezita rako"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndichasimudza"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matanga angu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:52.631171566Z",
+  "model": "glm-5.3"
+}

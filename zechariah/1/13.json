@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akapindura ⟨את⟩ mngaroorwa aitaura mukati mangu, mazwi akanaka, maziri onyaradzo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mngaroorwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mngaroorwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "aitaura"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mukati mangu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maziri"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "onyaradzo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:29.981410507Z",
+  "model": "glm-5.3"
+}

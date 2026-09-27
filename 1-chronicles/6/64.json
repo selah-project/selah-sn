@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye ⟨את⟩ Kedhemoti nemi⟨את⟩ gararo yayo, uye ⟨את⟩ Mefiati nemi⟨את⟩ gararo yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Kedhemoti"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedhemoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "gararo yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "gararo yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Mefiati"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefiati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "gararo yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "gararo yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:15.531248003Z",
+  "model": "glm-5.3"
+}

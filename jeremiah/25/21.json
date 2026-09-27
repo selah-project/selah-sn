@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edhomu, ne⟨את⟩ Moabhu, ne⟨את⟩ vana vaAmoni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edhomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Moabhu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vaAmoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    }
+  ],
+  "timestamp": "2026-09-27T08:00:04.094797782Z",
+  "model": "glm-5.3"
+}

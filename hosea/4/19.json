@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Mhepo yakamukwanisa ⟨את⟩ iye mukumhara kwayo; uye vachanyadziswa nezvibairo zvavo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "yakamukwanisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mhepo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iye mukumhara kwayo"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "mukumhara kwayo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "vachanyadziswa"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "nezvibairo zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:20.708158134Z",
+  "model": "glm-5.3"
+}

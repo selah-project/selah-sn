@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye ⟨את⟩ namo vachave mumwe nomumwe womusande, mumwe musoro weba remadzibaba avo.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Uye ⟨את⟩ namo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachave"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nomumwe"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "womusande"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "weba re"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "madzibaba avo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:08.381050313Z",
+  "model": "glm-5.3"
+}

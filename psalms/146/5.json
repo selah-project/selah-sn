@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Vaakanaka ⟨ndiye⟩ ane Erohimu yaYakobbo semubatsiro wake, iye ane tariro yake paYahwe, Erohimu yake.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Vaakanaka"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "⟨ndiye⟩ iye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobbo"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "semubatsiro wake"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tariro yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:24.900260681Z",
+  "model": "glm-5.3"
+}

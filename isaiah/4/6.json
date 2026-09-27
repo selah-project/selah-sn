@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye musasa ungowova mumarimo emasikati ekutsva, uye nzvimbo yokudzivirira, uye nzvimbo yokuvanzira, kubva muzvinyipfu nekukaya kwemvura.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "musasa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ungowova"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "mumarimo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emasikati"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ekutsva"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "nzvimbo yokudzivirira"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "nzvimbo yokuvanzira"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "kubva muzvinyipfu"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "nekukaya kwemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:17.171379231Z",
+  "model": "glm-5.3"
+}

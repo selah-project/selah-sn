@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye hamupiri mazita maviri muzita rangu rokunyengedza, uye muchazvidza ⟨את⟩ zita raErohimu yako; ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Uye hamupiri"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kupira mazita maviri"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "muzita rangu"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "rokunyengedza"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "uchazvidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita raErohimu yako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "raErohimu yako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:03.345240878Z",
+  "model": "glm-5.3"
+}

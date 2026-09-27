@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Yahwe akati kwaari: Ona, ndakataridza ⟨את⟩ chiso chako, zvakanangana nedavhu iri, kuti ndisasandura ⟨את⟩ guta iro wataurira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndakataridza"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakanangana"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nedavhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti ndisasandure"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "ndisasandure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wataurira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:23.522401107Z",
+  "model": "glm-5.3"
+}

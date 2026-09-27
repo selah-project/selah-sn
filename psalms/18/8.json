@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nyika yakagunitsa okaita kutsvaga, uye mazino emakomo akazunya-zunya, okagunitswa, nokuti mwoyo wake wakapisa.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "yakagunitsa"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "okaita kutsvaga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "uye mazino"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "emakomo"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "akazunya-zunya"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "okagunitswa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "wakapisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:26.440120511Z",
+  "model": "glm-5.3"
+}

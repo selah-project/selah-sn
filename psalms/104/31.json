@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Rukudzo rwaYahwe rwugare nokusingaperi; Yahwe ofare mabasa ake.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "rwugare"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ofare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "mabasa ake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:16.513356708Z",
+  "model": "glm-5.3"
+}

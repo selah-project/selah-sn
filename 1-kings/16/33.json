@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 16:33",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nokuti Ahabha akaita ⟨את⟩ Ashera, uye Ahabhu akawedzera kuita kutsamwisa ⟨את⟩ Yahwe, Erohimu waIsiraeri, kupfuura madzimambo ose eIsiraeri aiva <mberi> wake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "kutsamwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsiraeri"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kupfuura <ose>"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsiraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "<mberi> wake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:55.139182086Z",
+  "model": "glm-5.3"
+}

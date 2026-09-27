@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvakanaka kuzadza chiwoko chimwe chete nokuzorora, kupfuura kuzadza mawoko maviri nomushando nokushushikana kwemhepo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kuzadza"
+    },
+    {
+      "surface": "כף",
+      "gloss": "chiwoko"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nokuzorora"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "kupfuura kuzadza"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "mawoko maviri"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nomushando"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nokushushikana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwemhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:23.005716462Z",
+  "model": "glm-5.3"
+}

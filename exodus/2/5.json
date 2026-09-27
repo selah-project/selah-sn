@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mwanasikana waFarao akadzika kugeza parwizi, uye vanasikana vake vaifamba parutivi perrwizi; akaona ⟨את⟩ tari iri pakati perushanga, akatuma ⟨את⟩ mhandara yake, iye akatora.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "akadzika"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "kugeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rwizi"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "vanasikana vake"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "vaifamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rutivi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rwizi"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tari"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tari"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "rushanga"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhandara yake"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "mhandara yake"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "akatora"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:17.388144674Z",
+  "model": "glm-5.3"
+}

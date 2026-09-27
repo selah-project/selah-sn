@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Yehu akaunganidza ⟨את⟩ vanhu vose, akati navo: Ahabhu akazonamata ⟨את⟩ Baari zvishoma; Yehu achamunamata zvakanyanya.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akazonamata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baari"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baari"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "zvishoma"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "achamunamata"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "zvakanyanya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:21.273974639Z",
+  "model": "glm-5.3"
+}

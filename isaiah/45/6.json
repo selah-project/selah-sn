@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Kuti vazive, kubva pakunobuda zuva uye kumadokero, kuti hapana chiri kunze kwangu; ndini Yahwe, uye hapana chimwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vazive"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kubva pakunobuda"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "uye kumadokero"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "chiri kunze kwangu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chimwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:51.435838802Z",
+  "model": "glm-5.3"
+}

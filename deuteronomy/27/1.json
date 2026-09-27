@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Moshe nevatakuru veIsiraeri vakaraira ⟨את⟩ vanhu vachiti: Chengetai ⟨את⟩ mirairo yose iwo ndinokurairai ⟨את⟩ imi nhasi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "vakaraira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "nevatakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Chengetai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ndinokurairai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:18:35.570884514Z",
+  "model": "glm-5.3"
+}

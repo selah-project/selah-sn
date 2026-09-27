@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Vanhu vatatu ava vakarega kupindura ⟨את⟩ Ajiobhu, nokuti ari mururami mukuona kwake pachake.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "vakarega"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "vatatu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "kupindura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajiobhu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ajiobhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mukuona kwake pachake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:42:46.461199579Z",
+  "model": "glm-5.3"
+}

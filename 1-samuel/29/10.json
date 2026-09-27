@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Naizvozvo zvino famba unyanzve mangwanani, iwe neshanda dzitenzi yako dzakauya ⟨את⟩ newe; mukazunza mangwanani, kana zuva rabuda, tobva makaenda.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "naizvozvo zvino"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "famba unyanzve"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "neshanda"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "dzitenzi yako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dza-"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zakauya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe",
+      "marks": "newe"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "mukazunza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "kana zuva rabuda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨zvakanangira nemi⟩"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "tobva makaenda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:51:24.454139809Z",
+  "model": "glm-5.3"
+}

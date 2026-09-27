@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zevhuru, mutungamiri weguta, akanzwa ⟨את⟩ mashoko aGaariri mwanakomana waEbhedhi, uye hasha dzaipa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevhuru"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "weguta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "געל",
+      "gloss": "aGaariri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "waEbhedhi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dzaipa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasha"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:58.484454815Z",
+  "model": "glm-5.3"
+}

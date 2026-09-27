@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti Erukanah akaenda kuRamata, kumusha kwake; uye mukomana akanga ari muzvivi ⟨את⟩ Yahwe pachiso chaEri muprista.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Erukanah"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "kuRamata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "musha kwake"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "uye mukomana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "akanga ari"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "muzvivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chaEri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso cha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "muprista"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:28.903381427Z",
+  "model": "glm-5.3"
+}

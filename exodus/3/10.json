@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino famba, ndichakutumira kuna Farao, ugoburitsa ⟨את⟩ vanhu vangu, vana vaIsiraeri, muMizraimu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "famba"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ndichakutumira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ugoburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muMizraimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:40.091976297Z",
+  "model": "glm-5.3"
+}

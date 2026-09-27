@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 1:15",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvose anoburitsa nehuki, anodhonza neneti yake, uye anounganidza neneti huru yake; naizvozvo anofara uye anoguta mufaro.",
+  "tokens": [
+    {
+      "surface": "כֻּלֹּה",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "בְּחַכָּה",
+      "gloss": "nehuki"
+    },
+    {
+      "surface": "הֶעֱלָה",
+      "gloss": "anoburitsa"
+    },
+    {
+      "surface": "יְגֹרֵהוּ",
+      "gloss": "anodhonza"
+    },
+    {
+      "surface": "בְּחֶרְמוֹ",
+      "gloss": "neneti yake"
+    },
+    {
+      "surface": "וְיַאַסְפֵהוּ",
+      "gloss": "uye anounganidza"
+    },
+    {
+      "surface": "בְּמִכְמַרְתּוֹ",
+      "gloss": "neneti huru yake"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "anofara"
+    },
+    {
+      "surface": "וְיָגִיל",
+      "gloss": "anoguta mufaro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:34.759748452Z",
+  "model": "glm-5.3"
+}

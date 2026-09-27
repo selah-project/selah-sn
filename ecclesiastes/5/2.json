@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti chiroto chinouya nokuzhinzi kwebasa, uye izwi romupenzi rinouya nokuzhinzi kwemazwi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chinouya"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "chiroto"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nokuzhinzi kwe"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "basa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "izwi ro"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mupenzi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nokuzhinzi kwe"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mazwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:50.399781989Z",
+  "model": "glm-5.3"
+}

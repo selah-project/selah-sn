@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye vakabudisa ⟨את⟩ munyongo dzeimbo reBhaari, vakazipisa.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "vakabudisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munyongo"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "munyongo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imbo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "reBhaari"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "vakazipisa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:38.893536297Z",
+  "model": "glm-5.3"
+}

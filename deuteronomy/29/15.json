@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "nokuti imi moziva ⟨את⟩ izvo takagara munyika yeIjipita, ne⟨את⟩ izvo takapfuura mukati memarudzi amo mozvipfuura;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "moziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo takagara muIjipita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "takagara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "izvo takapfuura mukati memarudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "takapfuura"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amo"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "mozvipfuura"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:27.855706299Z",
+  "model": "glm-5.3"
+}

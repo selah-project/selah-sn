@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Kuonekwa kwezviso kunokundira kufamba kwemweya; izvi zvakare ndihebelu nokushushikana kwemhepo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kunokundira"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuonekwa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "kwezviso"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "kufamba"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kwemweya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebelu"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nokushushikana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwemhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:05.301826924Z",
+  "model": "glm-5.3"
+}

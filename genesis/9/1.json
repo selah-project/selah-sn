@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Erohimu akaropafadza ⟨את⟩ Noa ne⟨את⟩ vana vake, akati kuvoona: Batanidza mibereko, muwedzere, uye dzazadzise ⟨את⟩ pasi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvoona"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Batanidza mibereko"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "muwedzere"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dzazadzise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:01.804975663Z",
+  "model": "glm-5.3"
+}

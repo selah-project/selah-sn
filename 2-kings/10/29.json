@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 10:29",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Asi matadzirwo aYarobhoamu mukoma waNevhati, iwo wakaita kuti ⟨את⟩ Israeri atadze, Yehu haana kudzoka kudziri — mhuru dzegoridhe dzaiwomumunaBheti-Eru nedzaiwomumunaDhani.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "asi"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "matadzirwo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "aYarobhoamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "waNevhati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wakaita kuti atadze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "סר",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "kudziri"
+    },
+    {
+      "surface": "עגלי",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dzegoridhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "munaBheti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Eru"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nezvinomuna"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Dhani"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:57.101726630Z",
+  "model": "glm-5.3"
+}

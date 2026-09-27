@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Iye akati: Ndakatsamwirira zvikuru Yahwe, Erohimu waTsevaoti; nokuti vana vaIsraeri vakasiya sungano yako, vakadzikisa ⟨את⟩ mapachiso ako, vakauraya ⟨את⟩ maporofita ako nendhaswa; ndini ndoga chete ndakasiyirwa, ivo vanotsvaga ⟨את⟩ upenyu hwangu kuita kuuraya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "zvakatsamwisa"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "Ndakatsamwirira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "sungano yako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapachiso ako"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "mapachiso ako"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "vakadzikisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maporofita ako"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "maporofita ako"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nendhaswa"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "ndakasiyirwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ndoga chete"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "vanotsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "kuita kuuraya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:07.670120586Z",
+  "model": "glm-5.3"
+}

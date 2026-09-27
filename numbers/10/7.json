@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye pakuunganidza ⟨את⟩ ungano, mucharidza, asi muchaita teruah kwete.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "pakuunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ungano"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ungano"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "mucharidza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "muchaita teruah"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:10.535713458Z",
+  "model": "glm-5.3"
+}

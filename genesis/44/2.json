@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Uye ⟨את⟩ mukombe wangu, mukombe wesirivha, uisa mumuromo wesando womudiki, pamwe nesirivha yechikafu chake. Iye akaita sezvakataurwa naYosefu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Uye ⟨את⟩",
+      "marks": "mukombe wangu"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "mukombe wangu"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "mukombe"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "wesirivha"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uisa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mumuromo we"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "sando"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "womudiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sirivha yechikafu chake"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "yechikafu chake"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Iye akaita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sezvakataurwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "naYosefu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:49.176264483Z",
+  "model": "glm-5.3"
+}

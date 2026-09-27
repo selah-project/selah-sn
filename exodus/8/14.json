@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Van'anga vakaita saizvozvo nezvitsidzo zvavo kuti buditse ⟨את⟩ zvipembenze, asi vakundikana; zvikava zvipembenze mumunhu nemuchipfuo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "van'anga"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "nezvitsidzo zvavo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuti buditse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipembenze"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "zvipembenze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "vakundikana"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "zvikava"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "zvipembenze"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mumunhu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nemuchipfuo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:37.543279891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "⟨את⟩ mbatya dzese dzakanyorwa dzokushumira muitsvene, ⟨את⟩ mbatya dzaitsvene dzaAroni mupristi, ne⟨את⟩ mbatya dzavana vake dzokushumira pristi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbatya dzakanyorwa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mbatya"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "dzakanyorwa"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "dzokushumira"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "muitsvene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbatya dzaitsvene"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mbatya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dzaitsvene"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "dzaAroni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mbatya dzavana vake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mbatya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "dzavana vake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "dzokushumira pristi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:35.237221474Z",
+  "model": "glm-5.3"
+}

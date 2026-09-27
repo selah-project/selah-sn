@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye shure kwazvo, akaverenga ⟨את⟩ mashoko ose aitora, zororopafadzo netambo, sezvose zvinyorwa mubhuku raitora.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Uye shure kwa-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvazvo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akaverenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko ose aitora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "aitora"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "zororopafadzo"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "netambo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvose"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "zvinyorwa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mubhuku ra-"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "aitora"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:46.386060238Z",
+  "model": "glm-5.3"
+}

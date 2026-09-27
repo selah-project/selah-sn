@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Yahwe anotsigira vanozvininipisa; anodzikisa mabinyi kusvika pasi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "anotsigira"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "vanozvininipisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "anodzikisa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mabinyi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:15.027491468Z",
+  "model": "glm-5.3"
+}

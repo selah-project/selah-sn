@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asi womuti wekuziva zvakanaka nezvakaipa, haudyi zviri muwomuti; nekuti muzuva raunodya mawo, unofa nokufa.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "womuti"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "wekuziva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nezvakaipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "udyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "zviri muwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "raunodya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nokufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "unofa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:23.730251959Z",
+  "model": "glm-5.3"
+}

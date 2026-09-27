@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Shauro akamutora zuva iro, asi haana kumupa kudzokera kumba kwa baba wake.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "akamutora"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haana"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "kumupa"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kudzokera"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kwa baba wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:48.962443722Z",
+  "model": "glm-5.3"
+}

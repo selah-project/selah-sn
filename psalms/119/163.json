@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Nhema ndinodzvanya, ndinozvituka; tora yako ndinoda.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "nhema"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndinodzvanya"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "ndinozvituka"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tora yako"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndinoda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:51.905282258Z",
+  "model": "glm-5.3"
+}

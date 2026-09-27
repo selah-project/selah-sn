@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Tarisa, ini ndinotuma mutumwa pamberi pako, kukuchengeta panzira, nekukuisa panzvimbo yandakagadzirira.",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֨ה",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "אָנֹכִ֜י",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שֹׁלֵ֤חַ",
+      "gloss": "ndinotuma"
+    },
+    {
+      "surface": "מַלְאָךְ֙",
+      "gloss": "mutumwa"
+    },
+    {
+      "surface": "לְפָנֶ֔יךָ",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "לִשְׁמָרְךָ֖",
+      "gloss": "kukuchengeta"
+    },
+    {
+      "surface": "בַּדָּ֑רֶךְ",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "וְלַהֲבִ֣יאֲךָ֔",
+      "gloss": "nekukuisa"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הַמָּק֖וֹם",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הֲכִנֹֽתִי",
+      "gloss": "yandakagadzirira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:10.304689806Z",
+  "model": "glm-5.3"
+}

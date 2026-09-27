@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 10:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti akati: Nokusimba kweruoko rwangu ndakaita, uye nouchenjeri hwangu, nokuti ndinonzwisisa; ndakabvisa matavi emadzinza, uye zvakanaka zvavo ndakatsvanya, ndakadzikisa vagari semukuru wehondo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "nokusimba"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kweruoko rwangu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "ובחכמתי",
+      "gloss": "nouchenjeri hwangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נבנותי",
+      "gloss": "ndinonzwisisa"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ndakabvisa"
+    },
+    {
+      "surface": "גבולת",
+      "gloss": "matavi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "emadzinza"
+    },
+    {
+      "surface": "ועתידתיהם",
+      "gloss": "zvakanaka zvavo"
+    },
+    {
+      "surface": "שושתי",
+      "gloss": "ndakatsvanya"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "ndakadzikisa"
+    },
+    {
+      "surface": "כאביר",
+      "gloss": "semukuru"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "vagari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:16.229594553Z",
+  "model": "glm-5.3"
+}

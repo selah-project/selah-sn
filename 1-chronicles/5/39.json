@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye Shariyamu akabereka ⟨את⟩ Hirikiya; uye Hirikiya akabereka ⟨את⟩ Azaria.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "uye Shariyamu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hirikiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hirikiya"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "uye Hirikiya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:17.126999175Z",
+  "model": "glm-5.3"
+}

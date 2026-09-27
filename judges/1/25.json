@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Akavaratidza ⟨את⟩ mukana weguta, vakauraya ⟨את⟩ guta kumusoro kwemunondo; asi ⟨את⟩ murume ne⟨את⟩ mhuri yake yose vakaituma kure.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "akavaratidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukana weguta"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "mukana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "weguta"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kumusoro kwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "munondo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murume"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mhuri yake yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "mhuri yake"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "vakaituma kure"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:41.121764063Z",
+  "model": "glm-5.3"
+}

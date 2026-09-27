@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndi mudiki uye ndinopuhwa; zvinotsva zvako handina kanganwa.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "mudiki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "uye ndinopuhwa"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "zvinotsva zvako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kanganwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:05.301022826Z",
+  "model": "glm-5.3"
+}

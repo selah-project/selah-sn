@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye vatungamiri vakazounza ⟨את⟩ kutsvenekwa kwealtari nomusi wokuzodzwa ⟨אתו⟩, uye vatungamiri vakazounza ⟨את⟩ chibairo chavo pachiso pealtari.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "vakazounza"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutsvenekwa kwealtari"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "kutsvenekwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwealtari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nomusi"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "wokuzodzwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "altari"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "vakazounza"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chavo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "chibairo chavo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:55:53.460007409Z",
+  "model": "glm-5.3"
+}

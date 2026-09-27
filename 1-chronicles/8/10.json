@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "ne⟨את⟩ Yeutsu, ne⟨את⟩ Shakhia, ne⟨את⟩ Mirmaha; ava ndivo vana vake, misoro yemadzibaba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yeutsu"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeutsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Shakhia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shakhia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Mirmaha"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmaha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "misoro"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "yemadzibaba"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:11.567199467Z",
+  "model": "glm-5.3"
+}

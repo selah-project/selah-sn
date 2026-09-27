@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Kwandiiri — mashoko ako akaipisa zvakadii, Er! Huwandu hwawo hukura zvakadii!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Kwandiiri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvakadii"
+    },
+    {
+      "surface": "יקקרו",
+      "gloss": "akaipisa"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "mashoko ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvakadii"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "hukura"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "huwandu hwawo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:46.484562706Z",
+  "model": "glm-5.3"
+}

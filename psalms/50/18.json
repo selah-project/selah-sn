@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Kana waona mbavha, wakamhanyira naye, uye chikamu chako chiri navapombwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "waona"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mbavha"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "wakamhanyira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "neva-"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "vapombwe"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "chikamu chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:07.801702154Z",
+  "model": "glm-5.3"
+}

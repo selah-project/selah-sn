@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Yahoshua akati: Nei wakatishungurudza? Yahwe achashungurudza iwe nazuvano rino. Uye Israeru yakazara yakamera ⟨את⟩ iye matombo, uye vakazvitsvaira ⟨את⟩ ivo nomoto, uye vakavashongedza ⟨את⟩ ivo nomatombo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "wakatishungurudza"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "achashungurudza iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nazuvano"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rino"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "vakamera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeru"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "vakazvitsvaira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "vakavashongedza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "nomatombo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:52.401417934Z",
+  "model": "glm-5.3"
+}

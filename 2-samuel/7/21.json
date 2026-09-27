@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuda kwezwi rako, uye sokuda kwemoyo wako, waita ⟨את⟩ kukuru kwose uku, kuzivisa ⟨את⟩ muranda wako.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "zwi rako"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "uye sokuda kwemoyo wako"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukuru kwose uku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwose"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kukuru"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uku"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "kuzivisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muranda wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:59:26.279804651Z",
+  "model": "glm-5.3"
+}

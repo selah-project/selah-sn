@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvitoro zvezvakaipa hazvibatsiri, asi kururama kununura kubva kufa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hazvi"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "batsiri"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Zvitoro"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zvezvakaipa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "asi kururama"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "kununura"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kubva kufa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:28.156617370Z",
+  "model": "glm-5.3"
+}

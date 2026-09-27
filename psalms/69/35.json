@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Matenga nenyika ngamurumbidze; nengarava, ne zvinofamba zvose zviri mukati mazvo.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ngamurumbidze"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nenyika"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nengarava"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne zvinofamba zvose"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvinofamba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mukati mazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:57.089802930Z",
+  "model": "glm-5.3"
+}

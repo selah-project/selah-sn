@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Ndicharumbidza ⟨את⟩ Yahwe nguva dzose; rumbidzo rake richigariri mukanwa mangu.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ndicharumbidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "richigariri"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rumbidzo rake"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mukanwa mangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:06.941799888Z",
+  "model": "glm-5.3"
+}

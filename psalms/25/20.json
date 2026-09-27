@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Chengeta mweya wangu undunhurwe; ndisashamed, nokuti ndinokutemwa.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "chengeta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "undunhurwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ndisa-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "sashamed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndinokutemwa \/ ndinotiza kwauri"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:11.596027310Z",
+  "model": "glm-5.3"
+}

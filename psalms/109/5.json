@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Vakaisa pamusoro pangu zvakaipa pachinzvimbo chezvakanaka, noruvi pachinzvimbo cherudo rwangu.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimbo che"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "noruvi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimbo che"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "rudo rwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:39.521700954Z",
+  "model": "glm-5.3"
+}

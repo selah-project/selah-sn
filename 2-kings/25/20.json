@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye Nevhozharadani, mukuru webhachi, akatora ⟨את⟩ ivavo, akaendesera ⟨את⟩ ivavo kuna mambo weBhabhironi, kuRibirata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivavo",
+      "marks": "ivavo"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevhozharadani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "webhachi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaendesera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivavo",
+      "marks": "ivavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabhironi"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "kuRibirata"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:43.962499596Z",
+  "model": "glm-5.3"
+}

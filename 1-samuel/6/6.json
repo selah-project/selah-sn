@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye nei muchiremedza ⟨את⟩ moyo menyu, saizvozvo sokufanana zvavakaita vekuMisiri naFarao pavakairemedza ⟨את⟩ moyo wavo? Haiko here panguva yakavashungurudza pavo, vakavatumira, uye vaenda?",
+  "tokens": [
+    {
+      "surface": "וְלָמָּה",
+      "gloss": "uye nei"
+    },
+    {
+      "surface": "תְכַבְּדוּ",
+      "gloss": "muchiremedza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "moyo menyu"
+    },
+    {
+      "surface": "לְבַבְכֶם",
+      "gloss": "moyo menyu"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "saizvozvo sokufanana"
+    },
+    {
+      "surface": "כִּבְּדוּ",
+      "gloss": "vakairemedza"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "vekuMisiri"
+    },
+    {
+      "surface": "וּפַרְעֹה",
+      "gloss": "naFarao"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wavo"
+    },
+    {
+      "surface": "לִבָּם",
+      "gloss": "moyo wavo"
+    },
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "haiko here"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "הִתְעַלֵּל",
+      "gloss": "yakavashungurudza"
+    },
+    {
+      "surface": "בָּהֶם",
+      "gloss": "pavo"
+    },
+    {
+      "surface": "וַיְשַׁלְּחוּם",
+      "gloss": "vakavatumira"
+    },
+    {
+      "surface": "וַיֵּלֵכוּ",
+      "gloss": "vaenda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:22.819171905Z",
+  "model": "glm-5.3"
+}

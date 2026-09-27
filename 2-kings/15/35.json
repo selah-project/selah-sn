@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 15:35",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Zve chete, nzvimbo dzepamusoro hadzikudzikwa; vanhu zvichinoperekera nekunhuwira ⟨zvinonhuwira⟩ paznzvimbo dzepamusoro. Iye akavaka ⟨את⟩ gonhi reba reYahwe, repamusoro.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "zve chete"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "nzvimbo dzepamusoro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hadzi-"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kudzikwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvichiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "vanoperekera"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "nekunhuwira"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "paznzvimbo dzepamusoro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gonhi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gonhi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "reba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "reYahwe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "repamusoro"
+    }
+  ],
+  "timestamp": "2026-09-27T11:03:12.185110244Z",
+  "model": "glm-5.3"
+}

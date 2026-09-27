@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Chete ndivo DOMbo rangu, iye noponeso wangu; iye nzvimbo yangu yakakwirira yodzikama; handisi kuzunyuka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "DOMbo rangu"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "noponeso wangu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "nzvimbo yangu yakakwirira yodzikama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handisi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kuzunyuka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:36.936536305Z",
+  "model": "glm-5.3"
+}

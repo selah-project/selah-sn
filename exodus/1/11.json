@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Saka vakaisa pavavo madzishe emibharo, vaomesa ivo nemitoro yavo; uye vakavaka maguta ematura kunaFarao: ⟨את⟩ Pithomu na⟨את⟩ Raamesesi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pavavo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "emibharo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "vaomesa ivo"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "nemitoro yavo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "vakavaka"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ematura"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kunaFarao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pithomu"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pithomu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Raamesesi"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamesesi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:19.633782142Z",
+  "model": "glm-5.3"
+}

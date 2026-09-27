@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Mweya wake unobuda, anodzokera kuivhu rake; zuva iro, zvirongwa zvake zvinoora.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "unobuda"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Mweya wake"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anodzokera"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "kuivhu rake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zvinoora"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "zvirongwa zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:03.424008521Z",
+  "model": "glm-5.3"
+}

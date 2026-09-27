@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Tora yaYahwe yakazara, inodzosera ⟨mweya⟩;upupuri hwaYahwe hakatendeka, hunopa nzwisiso mumwe asina nzwisiso.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "inodzosera"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "upupuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "hakatendeka"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "hunopa nzwisiso"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mumwe asina nzwisiso"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:50.279022178Z",
+  "model": "glm-5.3"
+}

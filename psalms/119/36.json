@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Kandira mwoyo wangu kumabhairo ako, kwete kuhupfumi hweakaipa.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Kandira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mwoyo wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "mabhairo ako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kwete ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "hupfumi hweakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:08.566748353Z",
+  "model": "glm-5.3"
+}

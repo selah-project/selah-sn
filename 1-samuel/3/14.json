@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Naizvozvo ndakapika kune mba yaEri kuti mhosva yemba yaEri haigadziriswi nechipiro nomunha kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndakapika"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kune mba ya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "haigadziriswi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yemba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yaEri"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "nechipiro"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "nomunha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:35.861134377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Iyi ndiyo nzvimbo yekuzororera kwangu kusvika chari-nchari; pano ndichagara, nokuti ndinoda iyi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "nzvimbo yekuzororera kwangu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chari-nchari"
+    },
+    {
+      "surface": "פה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ndichagara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "ndinoda iyi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:10.253688551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye ndichakupa ⟨את⟩ kurarama zvokuti kuwandisa zvikuru-zvikuru; ndichakuita nharaunda dzenyika, namadzimambo achabuda muri iwe.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "ndichakupa kurarama"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe",
+      "marks": "iwe"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ndichakuita"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "nharaunda dzenyika"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "namadzimambo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "muri iwe"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "achabuda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:15.301356478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Taurira vane hungavo kuti: 'Hanzvadzi yangu ⟨את⟩ iwe'; uye udaidze kunzwisisa sehama yako.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Taurira... kuti"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "vane hungavo"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Hanzvadzi yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwe \/ vane hungavo nemadzanwa (ומדע)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "uye hama inozivikanwa"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "kunzwisisa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "udaidze"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:08.225785070Z",
+  "model": "glm-5.3"
+}

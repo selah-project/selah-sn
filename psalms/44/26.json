@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Nokuti mweya wedu wadonha kufashadza, dumbu redu rakanamata pasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "wadonha"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "kufashadza"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mweya wedu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "rakanamata"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "dumbu redu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:11.047671617Z",
+  "model": "glm-5.3"
+}

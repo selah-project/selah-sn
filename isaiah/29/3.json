@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Ndinichazonama sedenderedzwa pamusoro pako, ndichavhiringa pamusoro pako misha yemauto, ndichamisa pamusoro pako madhiri ekukomeredza.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "ndichazonama"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "sedenderedzwa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ndichavhiringa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "misha yemauto"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ndichamisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "madhiri ekukomeredza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:18.972545107Z",
+  "model": "glm-5.3"
+}

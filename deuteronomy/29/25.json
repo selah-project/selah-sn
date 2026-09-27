@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Vakabva vaenda vakashanda vamwari vamwe, vakazvitambidzira kwavari — vamwari vavakange vasina kuziva, uye vavakanga asina kuvagova kwavari.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "vakabva vaenda"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "vakashanda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vamwari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "vamwe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "vakazvitambidzira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vamwari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vavakange"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye kwete"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "kuvagova"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:20:18.629753109Z",
+  "model": "glm-5.3"
+}

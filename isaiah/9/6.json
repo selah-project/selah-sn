@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 9:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Kuti kuwedzere hurumende, uye runyararo pasina magumo, pagochwa paDhavhidhi nepahumambo hwake, kumisikadza ⟨את⟩ iyo nokutsigira iyo nemutemo nokururama, kubva zvino kusvika nokusingaperi. Shungu dzaYahwe Tsevaoti dzichaita izvi.",
+  "tokens": [
+    {
+      "surface": "לםרבה",
+      "gloss": "kuti kuwedzere"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "hurumende"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "uyerunyararo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "magumo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pagochwa pa..."
+    },
+    {
+      "surface": "כסא",
+      "gloss": "gochwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepa"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "humambo hwake"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "kumisikadza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (humambo)"
+    },
+    {
+      "surface": "ולסעדה",
+      "gloss": "nokutsigiraiyo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "nemutemo"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "nokururama"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kubva zvino"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "Shungu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dzichaita"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:04:55.345753989Z",
+  "model": "glm-5.3"
+}

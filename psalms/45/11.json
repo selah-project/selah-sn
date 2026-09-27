@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Teerera, iwe weusikana, uye tarisa, uye tenda nzeve yako; uye warira ⟨vanhu⟩ vako nemba yababa wako.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Teerera"
+    },
+    {
+      "surface": "בת",
+      "gloss": "iwe weusikana"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "uye tarisa"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "uye tenda"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nzeve yako"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "uye warira"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨vanhu⟩ vako"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nemba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "yababa wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:46.031097062Z",
+  "model": "glm-5.3"
+}

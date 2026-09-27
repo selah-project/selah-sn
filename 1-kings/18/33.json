@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akaronga ⟨את⟩ matanda, ndokutema-nema ⟨את⟩ tembo, ndokuisa pa ⟨zviri pamusoro pe⟩ matanda.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "akaronga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanda"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ndokutema-nema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tembo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ndokuisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "matanda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:01.238762675Z",
+  "model": "glm-5.3"
+}

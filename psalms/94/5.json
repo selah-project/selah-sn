@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Vanhu vako, Yahwe, vanotsvetukadza, uye nhaka yako vanodzvanyirira.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "vanotsvetukadza"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "uye nhaka yako"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vanodzvanyirira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:41.851349052Z",
+  "model": "glm-5.3"
+}

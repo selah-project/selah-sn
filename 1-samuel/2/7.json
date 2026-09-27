@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Yahwe anoshaisa nekupa pfuma; anodzikisa, voipa kudzikidza.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מוֹרִ֣ישׁ",
+      "gloss": "anoshaisa"
+    },
+    {
+      "surface": "וּמַעֲשִׁ֑יר",
+      "gloss": "nekupa pfuma"
+    },
+    {
+      "surface": "מַשְׁפִּ֖יל",
+      "gloss": "anodzikisa"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "voipa"
+    },
+    {
+      "surface": "מְרוֹמֵֽם",
+      "gloss": "kudzikidza"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:26.724991327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "⟨את⟩ hoko dzaMishikani, ne⟨את⟩ hoko dzechivanze, ne⟨את⟩ matambo azo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoko dzaMishikani"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "hoko"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "dzaMishikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "hoko dzechivanze"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "hoko"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dzechivanze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matambo azo"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "matambo azo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:56.275988828Z",
+  "model": "glm-5.3"
+}

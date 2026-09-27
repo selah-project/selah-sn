@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 2:9",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mudiwa wangu anofanana netsvara, kana nhoro diki; tarisa, ari kumira shure tekuchira kwedu, ari kuatarira kuburikidza nehwindo, achionekera kuburikidza nenhare dzehwindo.",
+  "tokens": [
+    {
+      "surface": "דומה",
+      "gloss": "anofanana"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mudiwa wangu"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "netsvara"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "diki"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "yenharo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "kumira"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "shure"
+    },
+    {
+      "surface": "כתלנו",
+      "gloss": "tekuchira kwedu"
+    },
+    {
+      "surface": "משגיח",
+      "gloss": "kuatarira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuburikidza"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "nehwindo"
+    },
+    {
+      "surface": "מציץ",
+      "gloss": "achionekera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuburikidza"
+    },
+    {
+      "surface": "החרכים",
+      "gloss": "nenhare dzehwindo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:20.071112004Z",
+  "model": "glm-5.3"
+}

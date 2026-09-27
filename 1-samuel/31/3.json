@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Uye hondo yakasimba ⟨kwi⟩ Shaúru, uye vadzvanya vebhanati vakamuwana, uye akatambuduka zvikuru kubva kuvadzvanya.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "yakasimba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kwi⟩ Shaúru"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúru"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "vakamuwana"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "vadzvanya"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "vebhanati"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "akatambuduka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "kubva kuvadzvanya"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:40.156789991Z",
+  "model": "glm-5.3"
+}

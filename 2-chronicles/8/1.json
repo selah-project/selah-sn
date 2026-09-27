@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Zvino pakupera kwemakore makumi maviri avo Shoromho akavaka ⟨את⟩ imba yaYahwe uye ⟨את⟩ imba yake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino pakupera kwemakore"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pakupera"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:52.245586835Z",
+  "model": "glm-5.3"
+}

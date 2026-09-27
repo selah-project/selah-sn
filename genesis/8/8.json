@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akatumira ⟨את⟩ njiva kubva ⟨kwaari⟩, kuona kuti mvura yadzikira pachiso pevhu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Akatumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njiva"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "njiva"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kubva ⟨את⟩ kwaari"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "yadzikira"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pevhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:57.809470228Z",
+  "model": "glm-5.3"
+}

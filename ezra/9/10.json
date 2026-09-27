@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvino, Erohimu wedu, chii tingataure shure paizvi, nokuti tasiya ⟨את⟩ mirairo yako?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "tingataure"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure pa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "tasiya"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mirairo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:11:34.089381719Z",
+  "model": "glm-5.3"
+}

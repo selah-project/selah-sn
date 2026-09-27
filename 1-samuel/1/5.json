@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye kuHana akapa chikamu chimwe chete che⟨את⟩ mauso; nokuti ⟨את⟩ Hana akaida, uye Yahwe akavhara Nyumba yake yokuzvarira.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "kuHana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chimwe chete"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "chemauso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "akaida"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uye Yahwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Nyumba yake yokuzvarira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:43.321816261Z",
+  "model": "glm-5.3"
+}

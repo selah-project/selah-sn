@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 87,
+  "translation": "Ndivo vaimbi sevakadzidzira kudzamba: mazvino edu ose ari mumi.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "voimbi"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "sevakadzidzira kudzamba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mazvino edu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mumi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:00.053551654Z",
+  "model": "glm-5.3"
+}

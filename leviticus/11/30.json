@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "no⟨anakaha⟩, no⟨kokaha⟩, no⟨retaha⟩, no⟨hometi⟩, no⟨tinshameti⟩.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "noanakaha"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "nokokaha"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "noretaha"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "nohometi"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "notinshameti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:19.609778505Z",
+  "model": "glm-5.3"
+}

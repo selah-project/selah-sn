@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Usaite kwauri chiumbwa chero mufananidzo, woupi chiri kudenga nokumusoro, uye woupi chiri munyika pansi, uye woupi chiri mumvura pansi penyika",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "chiumbwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chero"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "mufananidzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woupi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "chiri kudenga"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "nokumusoro"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye woupi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "chiri munyika"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye woupi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "chiri mumvura"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "penyika"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:28.440946191Z",
+  "model": "glm-5.3"
+}

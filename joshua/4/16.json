@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "«Raira ⟨את⟩ mapristi anatakura Aroni yeChitupiko, kuti vakwire kubva muYorodhani.»",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "raira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapristi anatakura Aroni yeChitupiko"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "anatakura"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "yeChitupiko"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vakwire"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodhani"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:40.024247568Z",
+  "model": "glm-5.3"
+}

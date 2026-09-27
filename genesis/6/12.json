@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Erohimu akaona ⟨את⟩ pasi, ndokariona rakaputsika; nekuti nyama yose yaiputsa ⟨את⟩ nzira yayo pamusoro pepasi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ndokariona"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "rakaputsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "yaiputsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira yayo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nzira yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:25.452173368Z",
+  "model": "glm-5.3"
+}

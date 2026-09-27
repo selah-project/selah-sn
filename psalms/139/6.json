@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Ruzivo rwakashamisa, rwakakwirira kupfuura kwandiri; handikwanisi kurosvika.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "rwakashamisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ruzivo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kupfuura kwandiri"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "rwakakwirira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kwanisi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kurosvika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:49.971304585Z",
+  "model": "glm-5.3"
+}

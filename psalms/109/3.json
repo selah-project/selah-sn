@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Namazwi eruvengo vakandizingirira, vakandirwira pasina chikonzero.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Namazwi"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "eruvengo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "vakandizingirira"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "vakandirwira"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pasina chikonzero"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:22.980462031Z",
+  "model": "glm-5.3"
+}

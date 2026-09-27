@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 140,
+  "translation": "Vakazvikudza vakavanza muteyo kwandiri, netsimbi dzavo; vakapetapeta mambure pedyo nenzira yangu, vakagadzira zvinoteya kwandiri. Serah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "vakavanza"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "vakazvikudza"
+    },
+    {
+      "surface": "פח",
+      "gloss": "muteyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "netsimbi dzavo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "vakapetapeta"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "mambure"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "pedyo"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "nenzira"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "zvinoteya"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "vakagadzira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Serah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:10.285021608Z",
+  "model": "glm-5.3"
+}

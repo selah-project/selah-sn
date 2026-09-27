@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti mukuwanda kwezviroto nezvempwa, nemashoko mazhinji; asi iwe otpera ⟨את⟩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mukuwanda kwe"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "zviroto"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "nezvempwa"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "nemashoko"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:22.885419064Z",
+  "model": "glm-5.3"
+}

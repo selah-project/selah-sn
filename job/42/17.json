@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Nokudaro Jobhi akafa, agohwa, akaguta nenhamba yemazuva.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobhi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "agohwa"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "akaguta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nemazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:45:48.006026875Z",
+  "model": "glm-5.3"
+}

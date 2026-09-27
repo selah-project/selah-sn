@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Akati: Enda, utaure kune ⟨את⟩ vanhu vaya, kuti: Nzwanai zvakanyanya, asi musanzwisise; onai zvakanyanya, asi musazive.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "utaure"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kune vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vaya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Nzwanai"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "asi musa-"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "nzwisise"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "onai"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "asi musa-"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "zive"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:39.342172653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "nokuti vachanzwa ⟨את⟩ zita rako guru, ne⟨את⟩ ruoko rwako rasimba, nomusoro wako wakatambanudzwa; achauya okunamata ⟨kutarisa⟩ imba ino.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "vachanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rako guru"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako rasimba"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "rasimba"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "nomusoro wako"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "wakatambanudzwa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "achauya"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "okunamata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kutarisa⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:02.998854599Z",
+  "model": "glm-5.3"
+}

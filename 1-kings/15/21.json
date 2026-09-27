@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Zvino pakunzwa kwaBaasha izvi, akamira kuvaka ⟨את⟩ Rama, akagaramutsa muTiritsah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pakunzwa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagaramutsa"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "muTiritsah"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:05.782428188Z",
+  "model": "glm-5.3"
+}

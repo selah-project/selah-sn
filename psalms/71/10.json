@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Nokuti vavengi vangu vakataura ⟨pamusoro pangu⟩, nevachengeti vehupenyu hwangu vakapanga mazano pamwechete.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pamusoro pangu⟩"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "nevachengeti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hupenyu hwangu"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "vakapanga mazano"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwechete"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:18.029321470Z",
+  "model": "glm-5.3"
+}

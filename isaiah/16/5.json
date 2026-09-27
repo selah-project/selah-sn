@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Chigaro chehushe chichagadzirwa muhesedhi, uye achagara chiri pamusoro chacho munechokwadi, mutendi yaDhavhidhi, otesa mutongo obedza mutongo, uye akurumidza kururama.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "chichagadzirwa"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "muhesedhi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chigaro chehushe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro chacho"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "munechokwadi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "mutendi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "otesa mutongo"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "obedza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutongo"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "akurumidza"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:03.045729764Z",
+  "model": "glm-5.3"
+}

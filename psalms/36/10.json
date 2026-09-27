@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Nokuti kwauri ⟨kune⟩ chitsime cheupenyu; muchiedza wacho tichaona chiedza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "chitsime"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "cheupenyu"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "muchiedza wacho"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "tichaona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:50.647424697Z",
+  "model": "glm-5.3"
+}

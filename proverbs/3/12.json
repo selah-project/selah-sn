@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti ⟨uyo⟩ Yahwe anomuda anomgadzirisa, sessvababa mwanakomana aanofadzwa naye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "anomuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "anomgadzirisa"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "sessvababa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "aanofadzwa naye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:13.592447918Z",
+  "model": "glm-5.3"
+}

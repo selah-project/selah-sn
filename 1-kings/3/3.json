@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Shoromohu akada ⟨את⟩ Yahwe, akafamba mitemo yaDhavhidhi baba vake; chete pazvinhu zvakakwirira aivo chirikupihwa dzibairo nekuwunza bvunzo.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "akada"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "akafamba"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "mitemo ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "pazvinhu zvakakwirira"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aivo chirikupihwa dzibairo"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "nekuwunza bvunzo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:03.959153681Z",
+  "model": "glm-5.3"
+}

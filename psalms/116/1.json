@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Ndinoda Yahwe, nokuti aninzwa ⟨את⟩ izwi rangu, pemhero dzangu.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ndinoda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "aninzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi rangu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pemhero dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:55.106494720Z",
+  "model": "glm-5.3"
+}

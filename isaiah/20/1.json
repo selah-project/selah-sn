@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Mugore iwo Tartan akauya kuAshidhodhi, paakatumwa naSarugoni mambo weAshuru; akanorwa neAshidhodhi, nokuitora.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mugore"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartani"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "kuAshidhodhi"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "paakatumwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sarugoni"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sarugoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "akanorwa"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "neAshidhodhi"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "nokuitora"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:53.132453503Z",
+  "model": "glm-5.3"
+}

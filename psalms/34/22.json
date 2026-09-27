@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Chakaipa chinouraya mushavi, uye vavengi vemutsvene vanozotongwa nezvitadzo.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "chinouraya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mushavi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "uye vavengi ve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "vanozotongwa nezvitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:35.096890633Z",
+  "model": "glm-5.3"
+}

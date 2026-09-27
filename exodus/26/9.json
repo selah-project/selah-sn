@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uchabatanidza ⟨את⟩ matajira mashanu ega, ⟨את⟩ uye ⟨את⟩ matajira matanhatu ega; ⟨את⟩ uchipetudza ⟨את⟩ jira rechechitanhatu pakatarisa chiso chetendi.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "uchabatanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matajira mashanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "matajira"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ו",
+      "gloss": "⟨את⟩ uye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matajira matanhatu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "matanhatu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "matajira"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ega"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "⟨את⟩ uchipetudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jira rechechitanhatu"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "jira"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "rechechitanhatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pakatarisa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chetendi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:24.899861783Z",
+  "model": "glm-5.3"
+}

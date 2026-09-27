@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye unocheka ⟨את⟩ nzimbe, uye unotora ⟨את⟩ ropa rayo, uye unorashira pamusoro pearondero kukombamhara.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "unocheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzimbe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "nzimbe"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "unotora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ropa rayo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ropa rayo"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "unorashira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "arondero"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kukombamhara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:31.327189348Z",
+  "model": "glm-5.3"
+}

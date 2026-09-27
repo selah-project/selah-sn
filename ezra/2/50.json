@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Vana vaAsna, vana vaMeunimu, vana vaNefisimu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "Asna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Meunimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Nefisimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:07:23.491394143Z",
+  "model": "glm-5.3"
+}

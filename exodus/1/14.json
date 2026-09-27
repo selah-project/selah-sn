@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "vakaita kuti upenyu hwavo huve wawa mubasa rakaoma, mudhaka nematope, uye mubasa rose rose muminda; ⟨את⟩ basa ravo rose izvo vakavaita ⟨kuvo⟩ rakaoma rakaoma.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "vakawavisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwavo"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "upenyu hwavo"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "mubasa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "rakaoma"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "mudhaka"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "nematope"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nokumabasa ose"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "muminda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa ravo rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "roose"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "basa ravo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "vakavaita"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨kuvo⟩"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "rakaoma rakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:31.285800019Z",
+  "model": "glm-5.3"
+}

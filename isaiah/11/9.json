@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Havangarwadzisi uye havangaparadzi mune ⟨⟨gomo⟩⟩ rose rangu ritsvene; nokuti nyika yazara ruzivo rwaYahwe, sevha dzinofukidza gungwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "havangi"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "rwadzisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havangi"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "paradzi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muna … rose"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ritsvene rangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yazara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ruzivo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sevha"
+    },
+    {
+      "surface": "לים",
+      "gloss": "regungwa"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "dzinofukidza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:49.100688638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndakauya ne⟨את⟩ imi kunyika yemichero, kudya michero yayo nokukwana kwayo; makauya, makazvidzvanya ⟨את⟩ nyika yangu, uye nhaka yangu makaisa sechinhu chinonyadzisa.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Ndakauya ne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi kunyika yemichero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "yemichero"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "michero yayo"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "nokukwana kwayo"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "makauya"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "makazvidzvanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yangu"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "nyika yangu"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "uye nhaka yangu"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "makaisa"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "sechinhu chinonyadzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:50:47.010621803Z",
+  "model": "glm-5.3"
+}

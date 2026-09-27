@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Nokuti pachiso pemipanga vakatiza, pachiso pemupanga wakabviswa, uye pachiso peuta wakatemwa, uye pachiso peurema hwehondo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mipanga"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mupanga"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "wakabviswa"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "uye pachiso pe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "wakatemwa"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "uye pachiso pe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "urema"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hwehondo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:30.589732306Z",
+  "model": "glm-5.3"
+}

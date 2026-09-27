@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye ukafamba munzira dzangu, kuchengeta mhiko dzangu nemirairo yangu, sokufamba kwakaita Dhavhidhi baba vako, ndichaita kuti mazuva ako arebe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "uye ukafamba"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ukafamba"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "munzira dzangu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mhiko dzangu"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "nemirairo yangu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokufamba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kwakaita"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "ndichaita kuti arebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazuva ako"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mazuva ako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:17.444661998Z",
+  "model": "glm-5.3"
+}

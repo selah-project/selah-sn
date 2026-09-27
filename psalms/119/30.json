@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Nzira yechitendiro ndakasarudza, mitemo yako ndakuisa pamberi pangu.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "yechitendiro"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndakasarudza"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mitemo yako"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndakuisa pamberi pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:17.915674002Z",
+  "model": "glm-5.3"
+}

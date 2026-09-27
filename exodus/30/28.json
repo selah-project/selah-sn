@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "na⟨את⟩ nhandare yezvipiro nenhumbi dzayo dzose, na⟨את⟩ kiyori natsigiro paro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nhandare yezvipiro"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nhandare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yezvipiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nhumbi dzayo dzose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nhumbi dzayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "kiyori"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kiyori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "tsigiro paro"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tsigiro paro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:17.369631321Z",
+  "model": "glm-5.3"
+}

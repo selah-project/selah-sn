@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akanyorovedza mana pawo rokudya, uye akapa tsanga yezuva — kwavari.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Akanyorovedza"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pawo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "rokudya"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "uye tsanga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yezuva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:18.917861247Z",
+  "model": "glm-5.3"
+}

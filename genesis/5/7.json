@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Seti akagara mushure mekuzvara ⟨את⟩ Enoshi makore mazana masere nomwe, akazvara vakomana nevasikana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Seti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kuzvara kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "mazana masere"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(zana)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "nevasikana"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:56.253920784Z",
+  "model": "glm-5.3"
+}

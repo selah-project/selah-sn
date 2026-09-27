@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 140,
+  "translation": "Vanonyangadza rurimi rwavo sokaroka, bvupa penjoka shiri pansi pemilomo yavo. Sera.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Vanonyangadza"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rurimi rwavo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sokaroka"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "karoka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bvupa"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "penjoka shiri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi pe"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "milomo yavo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:40.935635488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Nokuti iwe, Adonai, uri wakanaka uye unoregerera, uye une hesedhi yakawanda kuvose vakakudana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wakanaka"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "unoregerera"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "une yakawanda"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuvose"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "vakakudana"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:37.900750176Z",
+  "model": "glm-5.3"
+}

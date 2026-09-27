@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mambokadzi waSheba akaona ⟨את⟩ ucheni hwose hwaShoromohi, nedzimba yaakaivaka.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mambokadzi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "waSheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucheni hwose hwaShoromohi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ucheni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "hwaShoromohi"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "nedzimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaakaivaka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yaakaivaka"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:11.720459513Z",
+  "model": "glm-5.3"
+}

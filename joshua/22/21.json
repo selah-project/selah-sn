@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 22:21",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Upayo vana vaReuvheni navana vaGadhi, nehafu yechizvarwa chaManhashe, vakapindura vakataura ⟨את⟩ vatungamiri vezviuru zveIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "vakapindura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "vaReuvheni"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "navana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "vaGadhi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nehafu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "yechizvarwa"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "chaManhashe"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatungamiri vezviuru zveIsraeri"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:44.537457422Z",
+  "model": "glm-5.3"
+}

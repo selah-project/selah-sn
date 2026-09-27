@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Wakakwidza nhomba yangu seya mháshu isingazivikanwe; ndanyungudutswa nomafuta matsva.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "wakakwidza"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "seya mháshu isingazivikanwe"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "nhomba yangu"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ndanyungudutswa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nomafuta"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "matsva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:52.652636636Z",
+  "model": "glm-5.3"
+}

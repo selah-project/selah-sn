@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Zita raYahwe rive rinopfuuridzwa mabhenefiti, kubva zvino kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "rive"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "rinopfuuridzwa mabhenefiti"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kubva zvino"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:35.941803398Z",
+  "model": "glm-5.3"
+}

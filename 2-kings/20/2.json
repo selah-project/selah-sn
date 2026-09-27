@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Akafashadza ⟨את⟩ chiso chake achinongedza kumadziro, akanamata kuna Yahwe, achiti:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akafashadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunongedza"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "kumadziro"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "akanamata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:21.954004457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Mugungwa nzira yako, nemadzinza ako mumvura zhinji; mitsvina yako haizivikanwi.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "mugungwa"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzira yako"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "nemadzinza ako"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "zhinji"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "mitsvina yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "zivikanwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:05.118632343Z",
+  "model": "glm-5.3"
+}

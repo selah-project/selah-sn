@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Teerera, Yahwe, munamato wangu, uye nza dzinzwe izwi rezvikumbiro zvangu.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "munamato wangu"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "nza dzinzwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi re"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "zvikumbiro zvangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:37.900976550Z",
+  "model": "glm-5.3"
+}

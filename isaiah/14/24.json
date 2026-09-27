@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahwe Tsevaoti akapika achiti: Kwete here sokuda ndakafungidzira, zvakadaro zvavaitika; uye sokuda ndakapa humbowo, ndizvo zvichamira.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "akapika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "here"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Kwete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ndakafungidzira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zvavaitika"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ndakapa humbowo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndizvo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "zvichamira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:23.162299457Z",
+  "model": "glm-5.3"
+}

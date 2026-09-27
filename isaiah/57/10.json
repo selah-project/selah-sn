@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Nehuwandu hwenzira dzako wanyanya kuneta, asi hautoziti: Hakuna tariro; wawana ⟨upenyu⟩ houroko rwako, nokudaro haukomboreka.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "nehuwandu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "hwenzira dzako"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "wanyanya kuneta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "-toziti"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "hakuna tariro"
+    },
+    {
+      "surface": "חית",
+      "gloss": "⟨upenyu⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "houroko rwako"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "wawana"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pazvakadaro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "-ukomboreka"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:16.350549762Z",
+  "model": "glm-5.3"
+}

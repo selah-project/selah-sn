@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Vana vaIsirayeri vakauya kutenga chokudya pakati pevazvauya, nokuti nzara yaiva munyika yeKanani.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeri"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kutenga chokudya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "pevazvauya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaiva"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yeKanani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:03.951724559Z",
+  "model": "glm-5.3"
+}

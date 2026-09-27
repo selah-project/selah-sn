@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 3:8",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye munhu nezvipfuwo ngavaputirwe maputei, ngavanaye kuna Erohimu nesimba, munhu wega wega ngadzoke kubva panzira yake yakaipa, nokubva kuzviito zvenyongo zviri mumawoko awo.",
+  "tokens": [
+    {
+      "surface": "ויתכסו",
+      "gloss": "ngavaputirwe"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "maputei"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "nezvipfuwo"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ngavanaye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ngadzoke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu wega wega"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "kubva panzira yake"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yakaipa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nokubva ku"
+    },
+    {
+      "surface": "החמס",
+      "gloss": "zviito zvenyonga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "mumawoko awo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:23.393338997Z",
+  "model": "glm-5.3"
+}

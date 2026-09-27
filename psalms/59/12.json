@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Usavauraye, kuti vanhu vangu vasakanganwa; wavaira-uyese nesimba rako, uye wavadzikisa, Adonai, ngao yedu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "vauraye"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti...vasa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "vasakanganwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "wavaira-uyese"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "nesimba rako"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "uye wavadzikisa"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ngao yedu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:10.563334208Z",
+  "model": "glm-5.3"
+}

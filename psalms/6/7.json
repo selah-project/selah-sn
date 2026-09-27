@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndaneta nezvinetso zvangu; usiku hwose ndinosambisa bedhi rangu; nemisodzi yangu ndinonyungudutsa muriri wangu.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ndaneta"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "nezvinetso zvangu"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ndinosambisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "bedhi rangu"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "nemisodzi yangu"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "muriri wangu"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "ndinonyungudutsa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:11.870532292Z",
+  "model": "glm-5.3"
+}

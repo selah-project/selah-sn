@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Muganhu wakaisa, havapfuuri; hadzidzoka kufukidza pasi.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wakaisa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "-pfuuri"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hadi-"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "-dzoka"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "kufukidza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:08.618171097Z",
+  "model": "glm-5.3"
+}

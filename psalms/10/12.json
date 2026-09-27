@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Simuka, iwe Yahwe, iwe Er; simudza ruoko rwako; usakanganva varombo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "simudza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kanganva"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "varombo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:17.859952443Z",
+  "model": "glm-5.3"
+}

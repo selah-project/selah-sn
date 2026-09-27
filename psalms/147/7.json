@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Imbai Yahwe nehutendi; imbai rwiyo kuErohimu wedu nekinora.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Imbai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "nehutendi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imbai rwiyo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kuErohimu wedu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "nekinora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:15.027709600Z",
+  "model": "glm-5.3"
+}

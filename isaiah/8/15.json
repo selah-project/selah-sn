@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Vakawanda vachatsvimbanda mairi, vachiwa, vachaputika, vachakamhirwa, vachatorwa.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "vachatsvimbanda"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mairi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "vachiwa"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "vachaputika"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "vachakamhirwa"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "vachatorwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:32.324792664Z",
+  "model": "glm-5.3"
+}

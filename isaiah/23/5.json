@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Sokunzwa kweEgypto, ⟨ivo⟩ vanozvininipisa; sekunzwa kweTsori.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kuEgypto"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "vanozvininipisa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sekunzwa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "weTsori"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:33.849448493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Kuparadzwa kumusvike iye asaziva, uye mambure yaakavanza imubata; mukuparadzwa iye agome murombo.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "kumusvike iye"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "Kuparadzwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "asaziva"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "uye mambure yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "akavanza"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "imubata"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "mukuparadzwa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "agome"
+    },
+    {
+      "surface": "בה",
+      "gloss": "murombo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:18.064462287Z",
+  "model": "glm-5.3"
+}

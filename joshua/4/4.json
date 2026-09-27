@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 4:4",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Yehoshua akadana varume gumi navaviri ivo vaakagadzira kubva mune vana vaIsraeri, mumwe nomumwe, mumwe nomumwe nerudzi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "navaviri"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "vaakagadzira"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kubva mune vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nomumwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nomumwe"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "nerudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:29.635974613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe ndivo simba rangu nechishamwaro changu; mwoyo wangu wavativimba, ndakabatsirwa, mwoyo wangu wafara, uye nenhamba yangu ndichavazvidza.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "nechishamwaro changu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "navo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "wavativimba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mwoyo wangu"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ndakabatsirwa"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "wafara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mwoyo wangu"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "nenhamba yangu"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ndichavazvidza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:38.015080080Z",
+  "model": "glm-5.3"
+}

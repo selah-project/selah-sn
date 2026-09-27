@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "chirairo cheIsraeri, mukanda wake, nokuti hesedhi yake yakusingaperi.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "chirairo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cheIsraeri"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mukanda wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yakusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:10.526820339Z",
+  "model": "glm-5.3"
+}

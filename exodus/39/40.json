@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 39:40",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "⟨את⟩ machira ebinduko, ⟨את⟩ matanda ayo, uye ⟨את⟩ nheyo dzayo, uye ⟨את⟩ chivharo chemusuwo webinduko, ⟨את⟩ tambo dzayo, nemapini ayo, uye ⟨את⟩ zvinhu zvose zvebasa reMishikani, reteende yekusangana;",
+  "tokens": [
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "machira ebinduko"
+    },
+    {
+      "surface": "קַלְעֵי",
+      "gloss": "machira"
+    },
+    {
+      "surface": "הֶחָצֵר",
+      "gloss": "ebinduko"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "matanda ayo"
+    },
+    {
+      "surface": "עַמֻּדֶיהָ",
+      "gloss": "matanda ayo"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "nheyo dzayo"
+    },
+    {
+      "surface": "אֲדָנֶיהָ",
+      "gloss": "nheyo dzayo"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "chivharo"
+    },
+    {
+      "surface": "הַמָּסָךְ",
+      "gloss": "chivharo"
+    },
+    {
+      "surface": "לְשַׁעַר",
+      "gloss": "chemusuwo"
+    },
+    {
+      "surface": "הֶחָצֵר",
+      "gloss": "webinduko"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tambo dzayo"
+    },
+    {
+      "surface": "מֵיתָרָיו",
+      "gloss": "tambo dzayo"
+    },
+    {
+      "surface": "וִיתֵדֹתֶיהָ",
+      "gloss": "nemapini ayo"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zvinhu zvose"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "עֲבֹדַת",
+      "gloss": "zvebasa"
+    },
+    {
+      "surface": "הַמִּשְׁכָּן",
+      "gloss": "reMishikani"
+    },
+    {
+      "surface": "לְאֹהֶל",
+      "gloss": "reteende"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "yekusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:25.279815270Z",
+  "model": "glm-5.3"
+}

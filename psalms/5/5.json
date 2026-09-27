@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti iwe hausi Er anofarira uakaipa; mova akaipi haagari newe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hausi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anofarira"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "uakaipa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "agari newe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "akaipi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:00.664826068Z",
+  "model": "glm-5.3"
+}

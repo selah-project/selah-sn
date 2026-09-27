@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Tarisa, ndipindure, Yahwe Erohimu wangu; runyaridza maziso angu, kana ndingarara kurara kwerufu;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndipindure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "runyaridza"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ndingarara"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kwerufu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:21.138399494Z",
+  "model": "glm-5.3"
+}

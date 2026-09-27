@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Zvakaitika pamambo pakanzwa ⟨את⟩ mashoko egwaro retora, akabvarura ⟨את⟩ mbatya dzake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "pakanzwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "egwaro"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "retora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akabvarura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbatya dzake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "mbatya dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:32.585352231Z",
+  "model": "glm-5.3"
+}

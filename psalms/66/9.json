@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Anoichengeta ⟨mweya⟩ wedu muchiitiko, uye haana kuremekedza tsoka dzedu kuti dzinzekeye.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "anoichengeta"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mweya wedu"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "muchiitiko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kuremekedza"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kutinzekeya"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "tsoka dzedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:20.532988768Z",
+  "model": "glm-5.3"
+}

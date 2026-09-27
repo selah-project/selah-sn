@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mugari mupenyu nemushandi wevhiki haadyi chikamu chacho.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "mugari mupenyu"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "nemushandi wevhiki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dyi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chikamu chacho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:26.261554641Z",
+  "model": "glm-5.3"
+}

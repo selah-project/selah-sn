@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Beni-Dhekeri, muMhakatsi, muShaarabhimu, muBheti-Shamashi, naEroni-Bheti-Hanani.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Beni-"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Dhekeri"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "muMhakatsi"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "muShaarabhimu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "muBheti-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shamashi"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "naEroni-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bheti-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanani"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:02.317623250Z",
+  "model": "glm-5.3"
+}

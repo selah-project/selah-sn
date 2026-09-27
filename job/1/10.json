@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Hauna here iwe wakamutinga iye, neimba yake, nezvose zvaaanazvo panzvimbo dzose? Basa remaoko ake wakarikomborera, uye zvipfuo zvake zvawanda munyika.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hauna here"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "wakamutinga"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaaanazvo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "panzvimbo dzose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "remaoko ake"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "wakarikomborera"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "zvipfuo zvake"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "zvawanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:33:09.691828104Z",
+  "model": "glm-5.3"
+}

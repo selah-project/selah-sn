@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Asi nokuda kwaDhavhidhi, Yahwe Erohimu wake akamupa mwenje muYerushalema, kuti amise ⟨את⟩ mwanakomana wake mushure make, nokumisikidza ⟨את⟩ Yerushalema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwa-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerushalema"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "kuti amise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mushure make"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "nokumisikidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:17.101708694Z",
+  "model": "glm-5.3"
+}

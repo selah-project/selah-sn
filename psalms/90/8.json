@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Wakaisa mhosva dzedu pamberi pako; zvakavanzika zvedu pakupenya kwechiso chako.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Wakaisa"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "mhosva dzedu"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "pamberi pako"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "zvakavanzika zvedu"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pakupenya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kwechiso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:05.244618412Z",
+  "model": "glm-5.3"
+}

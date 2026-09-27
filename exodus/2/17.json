@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye madzimwuyamombe akauya, nokuvadzinga; uye Moshe akamuka, nokaponesa, nokadzirwisa ⟨את⟩ mbudzi dzawo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "madzimwuyamombe"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "nokuvadzinga"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "nokaponesa"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "nokadzirwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbudzi dzawo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "mbudzi dzawo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:58.526774957Z",
+  "model": "glm-5.3"
+}

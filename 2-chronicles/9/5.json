@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti wakati kumambo: Chokwadi ⟨⟨ndi⟩⟩ izwi randakanzwa munyika yangu, nezvamazwi ako nenezvehungwaru hwako.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "randakanzwa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndakanzwa"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "munyika yangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nezva-"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mazwi ako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nenezve-"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hungwaru hwako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:45.594347458Z",
+  "model": "glm-5.3"
+}

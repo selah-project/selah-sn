@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Yahwe akati kuna Abhurahama: Enda iwe, ushande kubva munyika yako, uye kubva pakazvarwa kwako, uye kubva mumba mababa ako, kuenda kunyika yandichakuratidza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "kubva munyika yako"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "uye kubva pakazvarwa kwako"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "uye kubva mumba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "mababa ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "yandichakuratidza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:48.593574200Z",
+  "model": "glm-5.3"
+}

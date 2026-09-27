@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Moshe akati kune vanhu: Musatye; nokuti kuedza ⟨את⟩ macenzwiro enyu ndiko kwaakauya Erohimu, uye kuti kutya kwake kuve pachiso chenyu, kuti musatadze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "nokuda kwekuti"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "kuedza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "macenzwiro enyu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aakauya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "uye nokuda kwekuti"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kuve"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "kutya kwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "chiso chenyu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti musa"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "tatadze"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:06.578430323Z",
+  "model": "glm-5.3"
+}

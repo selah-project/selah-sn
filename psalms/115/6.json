@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Nzeve dzavari, asi havanzwi; mhino dzavari, asi havanhuhwi.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "nzeve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dzavari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "havanzwi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mhino"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dzavari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "havanhuhwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.722132781Z",
+  "model": "glm-5.3"
+}

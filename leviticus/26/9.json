@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ndichatenderera kumuri, ndichakuberekai ⟨אתכם⟩, ndichakuwedzerai ⟨אתכם⟩, ndichagadzikisa ⟨את⟩ sungano yangu ⟨את⟩ pamwe nemi.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ndichatenderera"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kumuri"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ndichakuberekai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "muri"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ndichakuwedzerai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "muri"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ndichagadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ pamwe nemi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:16.215925185Z",
+  "model": "glm-5.3"
+}

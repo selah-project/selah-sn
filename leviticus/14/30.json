@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye achaita ⟨את⟩ chimwe cheturu-dova, kana chimwe chevana vejiva, sezvaruoko rwake runokwanisa kusvika parwo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "uye achaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimwe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "che"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "turu-dova"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "che"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "vejiva"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "sezva"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "runokwanisa kusvika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:23.325214823Z",
+  "model": "glm-5.3"
+}

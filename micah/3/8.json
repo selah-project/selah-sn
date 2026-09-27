@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Asi ini ndizere nesimba, ⟨na⟩ Mweya waYahwe, nevautongi, nesimba rokurwisa, kuti ndizivise ⟨את⟩ Yaakobu mhosva yake, neIsraeri mtadzo yake.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ndizere"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mweya waYahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nevautongi"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "nesimba rokurwisa"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kuti ndizivise"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "mhosva yake"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "neIsraeri"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "mtadzo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:24.993989570Z",
+  "model": "glm-5.3"
+}

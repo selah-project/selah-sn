@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Akatuka ⟨את⟩ Israeri, uye Yehonatani mukoma waShimea, mukoma waDhavhidhi, akamuuraya.",
+  "tokens": [
+    {
+      "surface": "וַיְחָרֵף",
+      "gloss": "akatuka"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "וַיַּכֵּהוּ",
+      "gloss": "akamuuraya"
+    },
+    {
+      "surface": "יְהוֹנָתָן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "שִׁמְעָא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אֲחִי",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "Dhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:44.130908150Z",
+  "model": "glm-5.3"
+}

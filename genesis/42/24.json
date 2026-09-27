@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Akafuratira kubva kwavari, achichema; akadzoka kwavari, akataura navo; akatora kubva kwavari ⟨את⟩ Shimoni, akamusunga ⟨את⟩ pamberi pemaziso avo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "akafuratira"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kubva kwavari"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "achichema"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akadzoka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kubva kwavari ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimoni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "akasunga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ imye",
+      "marks": "Shimoni"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pamberi pemaziso avo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:06.332604490Z",
+  "model": "glm-5.3"
+}

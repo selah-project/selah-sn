@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "ne⟨את⟩ dzeruwo nhongo, ne⟨את⟩ mafuta ari pamusoro pazvo, ari pazuva rinopfava, ne⟨את⟩ chikwangwani chechirere chiripo pamusoro penhongo — pamusoro panhongo dzacho anobvisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nhongo dzeruwo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dzeruwo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nhongo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "pamusoro pazvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "zuva rinopfava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chikwangwani chechirere"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "chikwangwani chechirere"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "chirere"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nhongo"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "anobvisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:50.794397422Z",
+  "model": "glm-5.3"
+}

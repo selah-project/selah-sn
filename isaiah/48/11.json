@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Nedziva rwangu, nedziva rwangu, ndichaita; nokuti sei ringapfhukwa? uye rukudzo rwangu kumumwe handichapa.",
+  "tokens": [
+    {
+      "surface": "לְמַעֲנִ֧י",
+      "gloss": "nedziva rwangu"
+    },
+    {
+      "surface": "לְמַעֲנִ֛י",
+      "gloss": "nedziva rwangu"
+    },
+    {
+      "surface": "אֶעֱשֶׂ֖ה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אֵ֣יךְ",
+      "gloss": "sei"
+    },
+    {
+      "surface": "יֵחָ֑ל",
+      "gloss": "ringapfhukwa"
+    },
+    {
+      "surface": "וּכְבוֹדִ֖י",
+      "gloss": "uerukudzo rwangu"
+    },
+    {
+      "surface": "לְאַחֵ֥ר",
+      "gloss": "kumumwe"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אֶתֵּֽן",
+      "gloss": "chapa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:54.031054888Z",
+  "model": "glm-5.3"
+}

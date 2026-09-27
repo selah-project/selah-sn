@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Haakumbi munhu ⟨את⟩ mukoma wake, uye hakuna munhu akasimuka panzvimbo yake mazuva matatu; asi kuvana vose vaIsirayeri pakave chiedza munzvimbo dzavanoagara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Haakumbi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "-ona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "akasimuka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "panzvimbo yake"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "asi kuvana vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirayeri"
+    },
+    {
+      "surface": "היה",
+      "gloss": "pakave"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "munzvimbo dzavanoagara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:33.207906735Z",
+  "model": "glm-5.3"
+}

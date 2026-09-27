@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Muvengi haazomutorera; nomwana wouchivi haazomunyenyeredza.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haazomu-"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "torera"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Muvengi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nomwana"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "wouchivi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazomu-"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "nyenyeredza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:14.992998906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Anodana matenga kubva pamusoro, nepasi, kudzoserwa pachigumo ⟨את⟩ vanhu vake.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Anodana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pamusoro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "kudzoserwa pachigumo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:21.375026128Z",
+  "model": "glm-5.3"
+}

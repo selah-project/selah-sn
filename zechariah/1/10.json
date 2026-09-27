@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 1:10",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye munhu akamira pakati pemahadhasi akapindura, akati: Idzi ndiwo ⟨avo⟩ Yahwe akatuma ⟨kuti⟩ vafambe-fambe nyika.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "pemahadhasi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨avo⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "kufambe-fambe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:47:21.649753458Z",
+  "model": "glm-5.3"
+}

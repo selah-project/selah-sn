@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Vanhu vakave vakaomekera vakanzwa vachiti: Zimri akaita chifemo, uye akarwisa ⟨את⟩ mambo; nokudaro Israeri yose yakamugadza semambo ⟨את⟩ Omuri, mushandi weuto, pamusoro peIsraeri, nenguva iyoyo mudhuso.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "vakave vakaomekera"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "akaita chifemo"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "yakamugadza semambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omuri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omuri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mushandi we"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "uto"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "mudhuso"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:55.154725340Z",
+  "model": "glm-5.3"
+}

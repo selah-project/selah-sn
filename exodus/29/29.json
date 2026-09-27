@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 29:29",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye zvirokwazvo mabhuku etsvene aAroni achave evana vake vachimutevera, kuzodzwa mazvo, uye kuzadzwa mazvo ⟨את⟩ ruoko rwavo.",
+  "tokens": [
+    {
+      "surface": "ובגדי",
+      "gloss": "Uye mabhuku"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "etsvene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anho"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "aAroni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "achave"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "evana vake"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "vachimutevera"
+    },
+    {
+      "surface": "למשחה",
+      "gloss": "kuzodzwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mazvo"
+    },
+    {
+      "surface": "ולמלא",
+      "gloss": "uye kuzadzwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwavo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruoko rwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:50.404722618Z",
+  "model": "glm-5.3"
+}

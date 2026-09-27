@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Nokudaro Yahwe akanzwa, aka tsamwa, uye moto wakatsvitswa muYakobo, uye kutsamwa kwakawira muIsraeri.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Nokudaro"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "akatsamwa"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "uye moto"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "wakatsvitswa"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "muYakobo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kwakawira"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:18.916591781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Dhavhidhi akaita nomazvo, sokutaurwa kwaYahwe kwake, akananga ⟨את⟩ Vafirishiti kubva mukubva kweGheba kusvika paukuya kwako Gezheri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nomazvo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaurwa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akananga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vafirishiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafirishiti"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "kubva mukubva kweGheba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "באך",
+      "gloss": "paukuya kwako"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezheri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:23.363578919Z",
+  "model": "glm-5.3"
+}

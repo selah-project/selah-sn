@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Isa madzishe avo seOrebhi neseZeebhi, uye madzishe avo ose seZebhahi neseTsalimuna.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "madzishe avo"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "seOrebhi"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "neseZeebhi"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "seZebhahi"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "neseTsalimuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "madzishe avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:03.723814806Z",
+  "model": "glm-5.3"
+}

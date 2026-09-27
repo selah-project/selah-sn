@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Israeri yakapinda kuEjipita; uye Yakobo akagara mutorwa munyika yaChamu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yakapinda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kuEjipita"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "uye Yakobo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "akagara mutorwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "חם",
+      "gloss": "yaChamu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:16.797602974Z",
+  "model": "glm-5.3"
+}

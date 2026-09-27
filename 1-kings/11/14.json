@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akamutsa mutorwa kuShoromoni: ⟨את⟩ Hadhadhi Muadhomi, wobva mbeu yomambo — ndiye ari muAdhomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamutsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mutorwa"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kuShoromoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadhadhi Muadhomi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadhadhi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Muadhomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wobva mbeu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yomambo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "muAdhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:34.907154260Z",
+  "model": "glm-5.3"
+}

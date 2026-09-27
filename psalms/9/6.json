@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Wakatumira shoko rokutsoropodza marudzi, wakaparadza ⟨את⟩ mupfumi mune mabasa akaipa; wakadzima ⟨את⟩ zita rave nokusingaperi nekusingaperi.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "wakatumira shoko rokutsoropodza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "wakaparadza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mupfumi mune mabasa akaipa"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "zita rave"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "wakadzima"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nekusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:31.758810022Z",
+  "model": "glm-5.3"
+}

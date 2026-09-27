@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye Jordani rakaganhurira ⟨את⟩ iro kumabvakuva okutangira. Iyi ndiyo nhaka yevana vaBinjamina, nemiganhu yayo yakakomberedza, sevaya mhuri dzavo.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "uye Jordani"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "rakaganhurira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iro"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kumabvakuva"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "okutangira"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "nhaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "nemiganhu yayo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "yakakomberedza"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sevaya mhuri dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:55:13.712977340Z",
+  "model": "glm-5.3"
+}

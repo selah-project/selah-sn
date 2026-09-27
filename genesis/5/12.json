@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Keinani akagara makore makumi manomwe, uye akazvara ⟨את⟩ Mahalareri.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keinani"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalareri"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalareri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:08.729221850Z",
+  "model": "glm-5.3"
+}

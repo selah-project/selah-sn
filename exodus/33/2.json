@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Ndichatuma mutumwa pachiso pako, ndichadzinga ⟨את⟩ Kenani, Emori, Hiti, nePerizi, Hivi, neYebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ndichatuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pachiso pako"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mutumwa"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ndichadzinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenani, Emori, Hiti, Perizi, Hivi, Yebusi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "nePerizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "neYebusi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:39.663695374Z",
+  "model": "glm-5.3"
+}

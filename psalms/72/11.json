@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Uye madzimambo ose achapfugamira pamberi pake; marudzi ose achamushumira.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "achapfugamira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pamberi pake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "achamushumira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:54.174042560Z",
+  "model": "glm-5.3"
+}

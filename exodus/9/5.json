@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe akaisa nguva yokutarisira, achiti: Mangwana Yahwe achaita ⟨את⟩ shoko iri munyika.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nguva yokutarisira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mangwana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:18.833917240Z",
+  "model": "glm-5.3"
+}

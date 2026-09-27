@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 123,
+  "translation": "Ititenderere nyasha Yahwe, ititenderere nyasha, nokuti takaguta zvikuru nenyadzo.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Ititenderere nyasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ititenderere nyasha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "takaguta"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "nenyadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:58.612216606Z",
+  "model": "glm-5.3"
+}

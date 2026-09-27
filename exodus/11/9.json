@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akati kuna Moshe: Parha haangateereri ini nemi, kuti mazvinoitapo angu awande munyika yeMitsirayi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "angateereri"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ini nemi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "awande"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mazvinoitapo angu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsirayi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:36.587253884Z",
+  "model": "glm-5.3"
+}

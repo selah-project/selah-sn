@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uye chakashandwa chenu chakaunganidzwa, sehukwaniso hwemhashu; sezvinomhanyira hwemhashu vanomhanyira pairi.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "chakaunganidzwa"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "chakashandwa chenu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "hukwaniso"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hwemhashu"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "sezvinomhanyira"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "hwemhashu"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "vanomhanyira"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pairi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:51.154298063Z",
+  "model": "glm-5.3"
+}

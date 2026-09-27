@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "uye ukatora mwanasikana wake sevokwasha vavanakomana vako, ndokumwanasikana wake uhwu hwarohura namwari vavo, ndokuti hwaita kuti ⟨את⟩ vanakomana vako vahure namwari vavo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ukatora"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "mwanasikana wake"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "vavanakomana vako"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "hwarohura"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "mwanasikana wake uhwu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "mwari vavo"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "hwaita kuti vahure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanakomana vako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vanakomana vako"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "mwari vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:31.005780827Z",
+  "model": "glm-5.3"
+}

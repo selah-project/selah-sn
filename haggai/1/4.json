@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kune imi here nguva — imi pachenyu — kugara muzvimba zvenu zvakavharwa nadenga, uye imba iyi ichisara yakaparara?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Kune … here nguva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi pachenyu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "muzvimba zvenu"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "zvakavharwa nadenga"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "uye imba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "yakaparara"
+    }
+  ],
+  "timestamp": "2026-09-27T08:48:03.803996523Z",
+  "model": "glm-5.3"
+}

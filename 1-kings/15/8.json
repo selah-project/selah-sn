@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye Abhiyamu akarara navadzikoma vake, uye vakamuviga muguta raDhavhidhi; uye Asa mwanakomana wake akatonga mushure make.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akarara"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Abhiyamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "vadzikoma vake"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "uye vakamuviga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "raDhavhidhi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "uye akatonga"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mushure make"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:39.539376577Z",
+  "model": "glm-5.3"
+}

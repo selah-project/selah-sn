@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Asi kunaSheori ndichadzikiswa, kune muzasi wegomba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheori"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "uchadzikiswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "muzasi"
+    },
+    {
+      "surface": "בור",
+      "gloss": "wegomba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:45.854419281Z",
+  "model": "glm-5.3"
+}

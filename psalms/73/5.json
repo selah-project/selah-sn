@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Muchitambudziko chevanhu ⟨havasi⟩, uye sevanhu havasi vanotambudzwa.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "Muchitambudziko che"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "havasi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "uye se"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havasi"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "vanotambudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:11.374222030Z",
+  "model": "glm-5.3"
+}

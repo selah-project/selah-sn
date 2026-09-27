@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Vakaita mhuru muHorhebha, vakazunungamura kune chivande chenhambo yehedzededzo.",
+  "tokens": [
+    {
+      "surface": "יַעֲשׂוּ",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "עֵגֶל",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "בְּחֹרֵב",
+      "gloss": "muHorhebha"
+    },
+    {
+      "surface": "וַיִּשְׁתַּחֲווּ",
+      "gloss": "vakazunungamura kune"
+    },
+    {
+      "surface": "לְמַסֵּכָה",
+      "gloss": "chivande chenhambo yehedzededzo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:54.726988819Z",
+  "model": "glm-5.3"
+}

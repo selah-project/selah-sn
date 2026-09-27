@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Asi Haman akadzora yake, akaenda kumusha wake, akatuma akaunza ⟨את⟩ shamwari dzake nomu⟨את⟩ Zeresh, mukadzi wake.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "akadzora yake"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "musha wake"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamwari dzake"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "shamwari dzake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:57.169130049Z",
+  "model": "glm-5.3"
+}

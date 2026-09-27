@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akati: Mvura dziri pasi pematenga ngadziunganidzwe kunzvimbo imwe, uye pasi dry rgove rinoratidzika. Zvino zvakaitwa saizvozvo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ngadziunganidzwe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "yoratidzika"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:38.823788878Z",
+  "model": "glm-5.3"
+}

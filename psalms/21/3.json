@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Chido chehukoma hwake wakamupa, uye chikumbiro chehudyoadzo hwake huna kumuvharira. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "chido"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "chehukoma hwake"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wakamupa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "uye chikumbiro"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "chehudyoadzo hwake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "huna"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "kumuvharira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:42.592469409Z",
+  "model": "glm-5.3"
+}

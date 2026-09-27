@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Unganzwa mudenga, mokugara kwako, ⟨את⟩ munamato wavo ne⟨את⟩ kukumbira kwavo, uye ugoita kururamisira kwavo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Unganzwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mudenga"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mokugara"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munamato wavo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "munamato wavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "kukumbira kwavo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kukumbira kwavo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ugoita"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "kururamisira kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:26.782264148Z",
+  "model": "glm-5.3"
+}

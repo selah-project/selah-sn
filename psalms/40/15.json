@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Ngavanyare ngovanetse pamwechete avo vanotsvaga upenyu hwangu kuhuparadza; ngavadzokere shure ngovanetse avo vanofarira zvakaipa zvangu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ngavanyare"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ngovanetse"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "vanotsvaga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "kuhuparadza"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ngavadzokere"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ngovanetse"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "vanofarira"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "zvakaipa zvangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:08.866735507Z",
+  "model": "glm-5.3"
+}

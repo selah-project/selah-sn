@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 7:2",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nyakubata-munda akati kunaEsther, futi pazuva rechipiri, pamusangano wevayini: Chii chikonzero chako, Esther mutungamiri wevanhukadzi? chino chichapihwa kwauri; uye chii chikumbiro chako? kusvika pakwechiri ehumambo, chino chichaitwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nyakubata-munda"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kunaEsther"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "השני",
+      "gloss": "rechipiri"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "pamusangano"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wevayini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "chikonzero chako"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mutungamiri wevanhukadzi"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "chichapihwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "chikumbiro chako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "pakwechiri"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ehumambo"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "chichaitwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:38.942831718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye varega vapinde kuona, kana chinhu chitsvene chichiputswa ⟨את⟩ chitsvene, vafe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Uye varega"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vapinde"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "kana chinhu chichiputswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsvene"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "vafe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:04.717336601Z",
+  "model": "glm-5.3"
+}

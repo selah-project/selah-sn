@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Sokukonjesi kunonyunguduka, ngaafambe; senhumbu yemunhukadzi isina kumbouona zuva.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "so"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "konjesi"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "kunonyunguduka"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ngaafambe"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nhumbu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "wemunhukadzi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.152318874Z",
+  "model": "glm-5.3"
+}

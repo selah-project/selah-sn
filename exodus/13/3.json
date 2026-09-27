@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mose akaudza vanhu, achiti: Yangarira ⟨את⟩ zuva rino raunobuda naro muMisiri, kubva mudzimba dzezvipombwa, nokuti Yahwe akakudzikinura nokuoma kwemusoro wake kubva pano, uye chingwa chikuru hachidyiwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Yangarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuva rino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raunobuda"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "unobuda naro"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muMisiri"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kubva mudzimba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dzezvipombwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "nokuoma"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kwemusoro wake"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "akakudzikinura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi (akakudzikinura imi)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kubva pano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye...hachidyiwe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hachidyiwe"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chingwa chikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:10.295842623Z",
+  "model": "glm-5.3"
+}

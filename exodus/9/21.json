@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye iye asina kuisa mwoyo wake paShoko raYahwe akasiya ⟨את⟩ varanda vake ne⟨את⟩ zvipfuwo zvake munda.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuisa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mwoyo wake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvipfuwo zvake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "zvipfuwo zvake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:58.345748748Z",
+  "model": "glm-5.3"
+}

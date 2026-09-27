@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvino pakaitika, Baasha apo akaizvozva, akarega kuvaka ⟨את⟩ Rama, akaita kuti ⟨את⟩ basa rake rware.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "pakaitika"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apo akaizvozva"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "akarega"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "akaita kuti rware"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa rake"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "basa rake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:35:38.263862714Z",
+  "model": "glm-5.3"
+}

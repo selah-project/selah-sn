@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Kudonhedza museve muchivanzika vanotsvene; nokukasuka vanomudonhedza, uye havatyi.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "kudonhedza"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "muchivanzika"
+    },
+    {
+      "surface": "תם",
+      "gloss": "vanotsvene"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "nokukasuka"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "vanomudonhedza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "vatyi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:13.952032399Z",
+  "model": "glm-5.3"
+}

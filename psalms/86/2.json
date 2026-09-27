@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Chengeta mweya wangu, nokuti ndiri mutsvene; niponesa muzviri wako — iwe Er wangu — wakatendeka kwauri.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Chengeta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "niponesa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muzviri wako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "wakatendeka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:09.434441463Z",
+  "model": "glm-5.3"
+}

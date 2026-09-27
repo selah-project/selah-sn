@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Vane mufaro munhu Yahwe samusarehwi chakaipa; uye pasina unyengeri mumhepo yake.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Vane mufaro"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "samusa-"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "-rehwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwomunhu uyo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye pasina"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "mumhepo yake"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "unyengeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:41.191860463Z",
+  "model": "glm-5.3"
+}

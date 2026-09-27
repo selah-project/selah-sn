@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye kana vakafamba vachienda muruoko rwevanovavenga, ndichakurudza ⟨את⟩ mhepo yendege kubva ipapo, uye ichavauraya; ndichaisa meso angu pavari — kuneiaka, kwete kuneakanaka.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "vachienda muruoko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "vanovavenga"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kubva ipapo"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ndichakurudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhepo yendege"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mhepo yendege"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "uye ichavauraya"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ndichaisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meso angu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pavari"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "kuneiaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "kuneakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:26.287300172Z",
+  "model": "glm-5.3"
+}

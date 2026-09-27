@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye pamberi pedevhiri: makumi maviri eamha kureba, makumi maviri eamha upamhi, makumi maviri eamha hukwidzwa; akaishandura nezhande tsvene; uye akashandura altari — erezhi.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "uye pamberi"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "pedevhiri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "eamha"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "eamha"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upamhi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "eamha"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "hukwidzwa"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "akaishandura"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nezhande"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "akashandura"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "erezhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:36.669258740Z",
+  "model": "glm-5.3"
+}

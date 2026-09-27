@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye Yahwe akataura kuMozhe achiti: Mutungamiri mumwe nomusi, mutungamiri mumwe nomusi, ndivo vachazounza ⟨את⟩ chibairo chavo chekutsvenekwa kwealtari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "Mutungamiri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "nomusi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "nomusi"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "vachazounza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chavo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "chibairo chavo"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "chekutsvenekwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwealtari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:55:53.460166590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Kune mutungamiri webhahari. Nziyo dzaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri webhahari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dzaDhavhidhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:32.615294209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Uye vakaramba nyika yakanaka; havana kutenda shoko rake.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "vakaramba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "yakanaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "vakatenda"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "shoko rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:36.694438948Z",
+  "model": "glm-5.3"
+}

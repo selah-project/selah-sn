@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye mukukohwa ⟨את⟩ kukohwa kwenyika yenyu, hamufaniri kupedza chiumbiko chemunda wako pachekukohwa, uye masvosve ekukohwa kwako haugoomararwe;",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "mukukohwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukohwa kwenyika yenyu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kukohwa"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "kwenyika yenyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamufaniri"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kupedza"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "chiumbiko"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "chemunda wako"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "pachekukohwa"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "masvosve"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ekukohwa kwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugoomararwi"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kuoomarara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:03.344572023Z",
+  "model": "glm-5.3"
+}

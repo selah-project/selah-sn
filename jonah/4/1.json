@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino tsamwa huru yakashata kuna Yona, uye moyo wake ukatsva kwaari.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "yakashata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tsamwa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "huru"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "moyo wake ukatsva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:18.912110133Z",
+  "model": "glm-5.3"
+}

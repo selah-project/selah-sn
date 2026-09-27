@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Imba yaIsraeri, rumbidzai ⟨את⟩ Yahwe; imba yaAroni, rumbidzai ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Imba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "yaAroni"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:43.941209678Z",
+  "model": "glm-5.3"
+}

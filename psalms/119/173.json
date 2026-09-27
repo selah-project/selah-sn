@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ruoko rwako rugare kundibatsira, nokuti ndakasarudza mirairo yako.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "rugare"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "kundibatsira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ndakasarudza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:31.634853874Z",
+  "model": "glm-5.3"
+}

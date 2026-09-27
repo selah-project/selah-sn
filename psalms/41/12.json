@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Nekudaro ndinazvo ndichaziva kuti waNdida, sezva munyu wangu ati haashandi kupamusoro.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "nekudaro"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinazvo ndichaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "waNdida"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ndida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sezva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "shandi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "munyu wangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kupamusoro panguva"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:28.373883755Z",
+  "model": "glm-5.3"
+}

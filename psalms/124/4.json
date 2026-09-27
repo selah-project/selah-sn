@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 124,
+  "translation": "paigne pamvura dzinendatira, mvura yechiriva yakapfuura pamusoro peupenyu hwedu:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "paigne"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "dzinendatira"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mvura yechiriva"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yakapfuura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "upenyu hwedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:25.090357918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye ⟨את⟩ magumu maviri etambo maviri dzakapeterwa unofanira kuisa pamazariri maviri, uye uchaisa iwo paberekete maviri efodi, kumberi kwachiso chacho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "magumu maviri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "magumu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "tambo dzakapeterwa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "unofanira kuisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "mazariri"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "maberekete"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kumberi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chacho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:17.249262606Z",
+  "model": "glm-5.3"
+}

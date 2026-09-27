@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Asi ndini Yahwe Erohimu wako, kubva munyika yeMisyireimu; uye Erohimu ⟨kunze kwangu⟩ haumboziva, uye hapuna mudzikinuri ⟨kunze kwangu⟩.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "asi ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMisyireimu"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "uye Erohimu"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "⟨kunze kwangu⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haumboziva"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "haumboziva"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "uye mudzikinuri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapuna"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨kunze kwangu⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:04.176715902Z",
+  "model": "glm-5.3"
+}

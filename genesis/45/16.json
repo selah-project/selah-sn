@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Izwi rikazonzwwa muimba yaParho, richiti: “Hanzvadzi dzaYosef dzauya”; uye zvakafadza ⟨maziso⟩ aParho, nemaziro etsviri ⟨dzake⟩.",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "izwi raka-"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "zonzwwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "muimba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "yaParho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "richiti"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dzauya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hanzvadzi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "dzaYosef"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "zvakafadza"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "aParho"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "nemaziro etsviri"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:25.171724199Z",
+  "model": "glm-5.3"
+}

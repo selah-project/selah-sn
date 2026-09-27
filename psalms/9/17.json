@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe wozivikanwa: wakaita mutemo; mubasa mumaoko ake mukuyasungwa murashaka. Higayoni. Sera.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "wozivikanwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "mubasa"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mumaoko ake"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "mukuyasungwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "murashaka"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayoni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:52.056515497Z",
+  "model": "glm-5.3"
+}

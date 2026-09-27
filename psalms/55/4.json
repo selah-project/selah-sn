@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Nenzwi remuvenge, nekunetseka kwomwariwo; nokuti vanondiburitsira mabviro evashoma, uye nokutsamwira vanondidikanwa.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Nenzwi re-"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvenge"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nekunetseka kwo-"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "kunetseka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwariwo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "vanondiburitsira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pa- \/ kwandiri"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabviro evashoma"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "uye nokutsamwira"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "vanondidikanwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:56.034352684Z",
+  "model": "glm-5.3"
+}

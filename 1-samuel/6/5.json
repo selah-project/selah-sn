@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Muchaita mifananidzo yematuva enyu nemifananidzo yembeva dzenyu dzinoparadza ⟨את⟩ nyika, uye muchapa Erohimu weIsraeri kukudza; kangave anoremedza ⟨את⟩ ruoko rwake kubva pamusoro penyu, napamusoro pemwari yenyu, napamusoro penyika yenyu.",
+  "tokens": [
+    {
+      "surface": "וַעֲשִׂיתֶם",
+      "gloss": "muchaita"
+    },
+    {
+      "surface": "צַלְמֵי",
+      "gloss": "mifananidzo"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "yematuva enyu"
+    },
+    {
+      "surface": "וְצַלְמֵי",
+      "gloss": "nemifananidzo"
+    },
+    {
+      "surface": "עכבריכם",
+      "gloss": "yembeva dzenyu"
+    },
+    {
+      "surface": "הַמַּשְׁחִיתִם",
+      "gloss": "dzinoparadza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "וּנְתַתֶּם",
+      "gloss": "uye muchapa"
+    },
+    {
+      "surface": "לֵאלֹהֵי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "כָּבוֹד",
+      "gloss": "kukudza"
+    },
+    {
+      "surface": "אוּלַי",
+      "gloss": "kangave"
+    },
+    {
+      "surface": "יָקֵל",
+      "gloss": "anoremedza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "יָדוֹ",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "מֵעֲלֵיכֶם",
+      "gloss": "kubva pamusoro penyu"
+    },
+    {
+      "surface": "וּמֵעַל",
+      "gloss": "napamusoro"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "pemwari yenyu"
+    },
+    {
+      "surface": "וּמֵעַל",
+      "gloss": "napamusoro"
+    },
+    {
+      "surface": "אַרְצְכֶם",
+      "gloss": "penyika yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:22.818788095Z",
+  "model": "glm-5.3"
+}

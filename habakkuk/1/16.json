@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Naizvozvo anopira kune neti yake, uye anopisa fodya kune neti huru yake; nokuti nayo chikamu chake chine mafuta, uye chokudya chake chakazara.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "יְזַבֵּחַ",
+      "gloss": "anopira"
+    },
+    {
+      "surface": "לְחֶרְמוֹ",
+      "gloss": "kune neti yake"
+    },
+    {
+      "surface": "וִיקַטֵּר",
+      "gloss": "uye anopisa fodya"
+    },
+    {
+      "surface": "לְמִכְמַרְתּוֹ",
+      "gloss": "kune neti huru yake"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בָּהֵמָּה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "שָׁמֵן",
+      "gloss": "ine mafuta"
+    },
+    {
+      "surface": "חֶלְקוֹ",
+      "gloss": "chikamu chake"
+    },
+    {
+      "surface": "וּמַאֲכָלוֹ",
+      "gloss": "uye chokudya chake"
+    },
+    {
+      "surface": "בְּרִיאָה",
+      "gloss": "chakazara"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:34.759949611Z",
+  "model": "glm-5.3"
+}

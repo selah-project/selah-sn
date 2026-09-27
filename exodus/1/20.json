@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akaita zvakanaka kwavatsvene; vanhu vakawanda, vakasimba zvikuru.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "akaita zvakanaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kwavatsvene"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "vakasimba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:34.110127324Z",
+  "model": "glm-5.3"
+}

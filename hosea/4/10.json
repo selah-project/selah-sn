@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vachadya asi havazvigutsi; vachaita hure asi havawandisi; nokuti vakasiya ⟨את⟩ Yahwe, vachida kusachengeta.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Vachadya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "havazvigutsi"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "vachaita hure"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "havawandisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "vachida kusachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:37.894994725Z",
+  "model": "glm-5.3"
+}

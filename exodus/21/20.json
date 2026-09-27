@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kana munhu aromesa ⟨את⟩ muranda wake kana ⟨את⟩ mu­ren­di­ka­ti­ve wake netsvimbo, uye afa pamaoko ake, zvirokwazvo anoripiswa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "aromesa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muranda wake"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "muranda wake"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murhandikadzi wake"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "murhandikadzi wake"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "netsvimbo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maoko ake"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "anoripiswa"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "zvirokwazvo anoripiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:08.844016461Z",
+  "model": "glm-5.3"
+}

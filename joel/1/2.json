@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Teerai izvi, vakuru, uye nziyodzve, vose vagari venyika: kana izvi zvaitika muzviwaniko zvenyu, kana muzviwaniko zvamadzibaba enyu?",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Teerai"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "הַזְּקֵנִים",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "וְהַאֲזִינוּ",
+      "gloss": "uye nziyodzve"
+    },
+    {
+      "surface": "כֹּל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "יוֹשְׁבֵי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "הֶהָיְתָה",
+      "gloss": "zvaitika"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "בִּימֵיכֶם",
+      "gloss": "muzviwaniko zvenyu"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בִּימֵי",
+      "gloss": "muzviwaniko"
+    },
+    {
+      "surface": "אֲבֹתֵיכֶם",
+      "gloss": "zvamadzibaba enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:35.238187672Z",
+  "model": "glm-5.3"
+}

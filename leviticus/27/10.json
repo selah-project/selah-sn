@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Haachashanduri, uye kwete, haatsanduri ⟨אתו⟩, chakanaka nechakaipa, kana chakaipa nechakanaka; uye kana achitsandura otsandura chikara nichikara, zvino iro nchitsandurwa charo chichava chitsvene.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "chashanduri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye kwete"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "haatsanduri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chakanaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nechakaipa"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רע",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "nechakanaka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "המר",
+      "gloss": "achitsandura"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "otsandura"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "chikara"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "nichikara"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "nchitsandurwa charo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichava"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:02.441146669Z",
+  "model": "glm-5.3"
+}

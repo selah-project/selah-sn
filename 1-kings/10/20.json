@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Neshumba gumi nembiri dzakamira ipapo panhanhatu dzezvikwata, kudivi rimwe nerimwe; hapana kuitwa kudaro kune umambo hwose.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "gumi nembiri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dzakamira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nhanhatu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dzezvikwata"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kudivi rimwe"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "nerimwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kuitwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kudaro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "umambo hwose"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:25.870455633Z",
+  "model": "glm-5.3"
+}

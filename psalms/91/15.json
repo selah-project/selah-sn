@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Anodanidza ⟨את⟩ nediro yangu, ndinomupindura; ini ndichiri naye munjodzi, ndinombudutsa, ndinomuremekedza.",
+  "tokens": [
+    {
+      "surface": "יקקראני",
+      "gloss": "Anodanidza nediro yangu"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ndinomupindura"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "munjodzi"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ndinombudutsa"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ndinomuremekedza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:36.196033688Z",
+  "model": "glm-5.3"
+}

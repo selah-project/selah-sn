@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Zvino pakupera kwemazuva makumi mana, Noa akavhura ⟨את⟩ hwindo rengarava yaakagadzira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "pakupera"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kwemazuva"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "akavhura"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hwindo"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "hwindo"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "rengarava"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ya⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akagadzira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:57.808988634Z",
+  "model": "glm-5.3"
+}

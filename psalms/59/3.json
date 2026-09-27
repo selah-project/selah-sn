@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Ndinunure kubva kune vachaita zvakaipa, uye ndiponese kubva kune varume veropa.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ndinunure"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "kubva kune vachaita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "uye... kubva kune varume"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "veropa"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndiponese"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:08.736688557Z",
+  "model": "glm-5.3"
+}

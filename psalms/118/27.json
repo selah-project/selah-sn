@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Er ari Yahwe, akativhenekera; sungai chibayo netsvimbo kusvika kumhinda dzeartari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ari Yahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "akativhenekera"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "חג",
+      "gloss": "chibayo chemhembero"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "netsvimbo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "kumhinda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dzeartari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:58.393499120Z",
+  "model": "glm-5.3"
+}

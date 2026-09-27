@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye vachaisa ⟨את⟩ iyo ne⟨את⟩ zvinhu zvose zvayo mukufukidzwa kweganda retakashi, uye vachaisa pamusoro pemutwairo.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "vachaisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvose zvayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zvinhu zvayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kufukidzwa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "retakashi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "vachaisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "mutwairo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:19.603655299Z",
+  "model": "glm-5.3"
+}

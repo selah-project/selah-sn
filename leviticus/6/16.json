@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye minha yose yemupristi ichaitwa ⟨is⟩ yose; haizodyi.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Uye yose"
+    },
+    {
+      "surface": "מִנְחַת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "כֹּהֵן",
+      "gloss": "yemupristi"
+    },
+    {
+      "surface": "כָּלִיל",
+      "gloss": "yose (inoputwa yose)"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "ichaitwa"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תֵּאָכֵל",
+      "gloss": "izodyi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:02.665516915Z",
+  "model": "glm-5.3"
+}

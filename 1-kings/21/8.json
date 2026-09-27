@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Akanyora madhinda muzita raAhabhu, akazvitsunga nesisigiri yake, akatuma madhinda aya kune vakuru nehurumende vaigara mudare yake, vachigara naNabhoti.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "akanyora"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "madhinda"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "muzita ra-"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "akazvitsunga"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "nesisigiri yake"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "madhinda aya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kune vakuru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nekune"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "hurumende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vai-"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "mudare yake"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "vaigara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na-"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabhoti"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:57.388699194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "ne⟨את⟩ mabhesi ake, uye ⟨את⟩ mabhanha ake akaita, ari pamusoro pemabhesi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabhesi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mabhesi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mabhanha"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "mabhanha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mabhesi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:02.363849686Z",
+  "model": "glm-5.3"
+}

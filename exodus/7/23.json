@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye Parho akafuratira, akaenda kumba kwake, uye haa kuisa moyo wake kunyange paizvozvi.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "akafuratira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kumba kwake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "שת",
+      "gloss": "kuisa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kunyange"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "paizvozvi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:41.219496030Z",
+  "model": "glm-5.3"
+}

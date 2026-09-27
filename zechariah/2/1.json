@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndakasimudza ⟨את⟩ maziso angu ndakaona, uye taona: nyanga ina.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Ndakasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziso angu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ndakaona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ina"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "nyanga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:05.025245178Z",
+  "model": "glm-5.3"
+}

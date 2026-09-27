@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Nokuti mweya wake, upenyu hwake, anarumbidza; uye vanokurumbidza ⟨iwe⟩, nokuti unozviitira zvakanaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "mupenyu hwake"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "anarumbidza"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "uye vanokurumbidza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "unozviitira zvakanaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pauriri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:01.846960878Z",
+  "model": "glm-5.3"
+}

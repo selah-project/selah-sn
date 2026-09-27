@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 6:2",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Dhavhidhi akamuka, akaenda navanhu vose vaiva ⟨את⟩ naye, kubva muBhaare-Yehudha, kuti vakwidzise kubva ikoko ⟨את⟩ Arki yaErohimu, iyo chinodanwa Zita: Zita raYahwe Tsevaoti, anogara pakati pemakherubhi pamusoro paro.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "kubva muBhaare"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "kuti vakwidzise"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kubva ikoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arki yaErohimu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "chinodanwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Zita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "raZita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "makherubhi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro paro"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:20.923217603Z",
+  "model": "glm-5.3"
+}

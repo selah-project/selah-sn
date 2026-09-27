@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "YaDhavhidhi, paakashandura ⟨את⟩ maitiro ake pamberi paAbhimelekhi, ndokumudzinga, ndokuenda.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "YaDhavhidhi"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "paakashandura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maitiro ake"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "maitiro ake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimelekhi"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ndokumudzinga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ndokuenda"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:06.941561921Z",
+  "model": "glm-5.3"
+}

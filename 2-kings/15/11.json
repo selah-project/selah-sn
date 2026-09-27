@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 15:11",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye zvinoreva zvose zvaZekariya, tarisa, zvinyorwa mubhuku remanzwiro emazuva emadzimambo eIzuraeri.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "zvinoreva zvose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "emanzwiro"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "vaZekariya"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zvinyorwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mubhuku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bhuku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "emanzwiro"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "emazuva"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "emadzimambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIzuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:09.381544756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Pakuwandiswa kwazvinhu zvakanaka, vadyi varo vawanda; uye chinobatsira chii muridzi waro, kunze kwekuona kwaziso yake?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "pa kuwandiswa kwa"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "zvinhu zvakanaka"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "vawanda"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "vadyi varo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "uye chinobatsira chii"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "chinobatsira"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "muridzi waro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ziso yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:41.667752550Z",
+  "model": "glm-5.3"
+}

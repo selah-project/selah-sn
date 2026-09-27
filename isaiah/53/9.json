@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Vakapa ⟨את⟩ vakaipa muguva rwake, uye ⟨את⟩ mupfumi mukufa kwake; pane hutsinye hwaakaita, uye hapuna hunyengeri mukanwa make.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Vakapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakaipa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "muguva rwake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mupfumi"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mupfumi"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "mukufa kwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "hutsinye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hwaakaita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hapuna"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "hunyengeri"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mukanwa make"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:52.627552824Z",
+  "model": "glm-5.3"
+}

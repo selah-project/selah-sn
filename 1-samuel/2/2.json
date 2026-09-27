@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Hapana mutsvene seiYahwe, nokuti hapana ⟨kusara kwako⟩, uye hapana dombo seiErohimu wedu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Hapana"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "seiYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "kusara kwako"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uyye hapana"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dombo"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "seiErohimu wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:39.118154022Z",
+  "model": "glm-5.3"
+}

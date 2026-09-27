@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Yahwe anochengeta ⟨את⟩ vose vanomuda, uye ⟨את⟩ voseakaipa achavadzoriara.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "anochengeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vose vanomuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "vanomuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vose akaipa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "akaipa"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "achavadzoriara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:05.865635807Z",
+  "model": "glm-5.3"
+}

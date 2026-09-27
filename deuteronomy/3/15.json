@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye kuMakhiri ndakapa ⟨את⟩ Gireadi.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "kuMakhiri"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gireadi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gireadi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:09.828554526Z",
+  "model": "glm-5.3"
+}

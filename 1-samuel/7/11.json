@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Varume veIsraëri vakabuda kuMitsipa, vakazvinangirira ⟨את⟩ Filistia, vakavaguma kusvika kunzvimbo iri pasi peBete-kari.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "vakabuda"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "varume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraëri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitsipa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "vakazvinangirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistia"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "vakavaguma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "peBete-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kari"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:02.532107571Z",
+  "model": "glm-5.3"
+}

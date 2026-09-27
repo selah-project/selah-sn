@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe akati kuna Shumuweri: Teerera izwi revanhu, zvese vaachataura kwauri; nokuti iwe havakurambira, asi ndini vakandirambira, kundigare navo semambo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shumuweri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "revanhu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaacha-"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "taura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "vakurambira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndini"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "vakandirambira"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kundigare navo semambo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:01.659914142Z",
+  "model": "glm-5.3"
+}

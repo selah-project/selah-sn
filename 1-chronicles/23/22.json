@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Erhazari akafa, uye haana kuva navana ⟨vakomana⟩, asi vana ⟨vasikana⟩ chete; uye vana vaKirhishi, hanzvadzi dzavo, vakawatora.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erhazari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "navana"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana ⟨vakomana⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chete"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "vana vasikana"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "vakawatora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "vaKirhishi"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "hanzvadzi dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:26:45.089767965Z",
+  "model": "glm-5.3"
+}

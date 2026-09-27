@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Mwakaipa anokwereta asi haabhadhara; asi mutsvene anoratidza rudo, anopa.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "anokwereta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mwakaipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi ha-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "abhadhara"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "asi mutsvene"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "anoratidza rudo"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "anopa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:01.853660916Z",
+  "model": "glm-5.3"
+}

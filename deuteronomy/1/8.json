@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ona, ndakaisa pamberi penyu ⟨את⟩ nyika; uyai, torai ⟨את⟩ nyika yaYahwe akapika kuvabereki venyu — kuAbhurahama, kuIsaka, nekuJakobho — kukuipai kwavoyo nokumbeu yavo mushure mavo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakaisa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "באו",
+      "gloss": "uyai"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "torai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "akapika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kuvabereki venyu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kuAbhurahama"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kuIsaka"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "nekuJakobho"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kukuipai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavoyo"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "nokumbeu yavo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "mushure mavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:05.035388745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Asi ndini dzvinyu, kwete munhu; mhumo yavanhu, nomunyoredzi wemadzikoro.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Asi ndini"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "dzvinyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "mhumo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yavanhu"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "nomunyoredzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wemadzikoro"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:35.591366465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": " Muchivani mizvanyira muchaita ⟨את⟩ ⟨yayo⟩; sokureva kwawaita Muchidza newe muchigomo, naizvozvo vouchaita.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Muchivani"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mizvanyira"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muchaita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yayo (altari)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokureva"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "kwawaita Muchidza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "muchigomo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "vouchaita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:52.949755540Z",
+  "model": "glm-5.3"
+}

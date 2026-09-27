@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 7:25",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye vakatora madzishe maviri eMidiyani, ⟨את⟩ Orevu na⟨את⟩ Zeevu; vakauraya ⟨את⟩ Orevu padombo raOrevu, uye ⟨את⟩ Zeevu vakamuuraya pawaini-puresi yaZeevu; vakarwiza Midiyani, uye misoro yaOrevu naZeevu vakazviisa kuna Gidheoni kudhanha kwerwizi Yaradheno.",
+  "tokens": [
+    {
+      "surface": "וילכדו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "eMidiyani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Orevu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Orevu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Zeevu"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeevu"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Orevu"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Orevu"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "padombo"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "raOrevu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeevu"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeevu"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "vakamuuraya"
+    },
+    {
+      "surface": "ביקב",
+      "gloss": "pawaini-puresi"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "yaZeevu"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "vakarwiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "misoro"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yaOrevu"
+    },
+    {
+      "surface": "וזאב",
+      "gloss": "naZeevu"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "vakazviisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidheoni"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kudhanha"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "kwerwizi Yaradheno"
+    }
+  ],
+  "timestamp": "2026-09-27T06:34:58.803058278Z",
+  "model": "glm-5.3"
+}

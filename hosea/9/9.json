@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Vakadzika-kudzika, vakatyora, semazuva eGibheya; acharangarira mhosva dzavo, achazviziva tadzisu dzavo.",
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "vakadzika-kudzika"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "vakatyora"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "semazuva"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "eGibheya"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "acharangarira"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mhosva dzavo"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "achazviziva"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "tadzisu dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:15.134848760Z",
+  "model": "glm-5.3"
+}

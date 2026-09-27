@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe ndivo simba ravo, uye ndivo hutano hweponesero hwaMashiach wavo — ivo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ravo"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "hutano"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "hweponesero"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hwaMashiach wavo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ivo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:38.015220263Z",
+  "model": "glm-5.3"
+}

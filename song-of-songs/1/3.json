@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Munhuwi wemafuta ako akanaka; zita rako semafuta aturikwa; naizvozvo vevasikana vakakutenda.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "munhuwi"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "wemafuta ako"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "semafuta"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "aturikwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(naizvozvo)"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "vevasikana"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "vakakutenda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:46:40.017700112Z",
+  "model": "glm-5.3"
+}

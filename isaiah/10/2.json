@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "kudzikisa kutonga kwavarombo, nekutora chigaro chevanotambudzika vevanhu vangu, kuti vatengi vave chidorwa chavo, uye ⟨את⟩ nherera dzichiburwa.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "kudzikisa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "kutonga"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kwavarombo"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "nekutora"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chigaro"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "chevanotambudzika"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vevanhu vangu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vatengi"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "chidorwa chavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nherera"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "nherera"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "dzichiburwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:13.460281136Z",
+  "model": "glm-5.3"
+}

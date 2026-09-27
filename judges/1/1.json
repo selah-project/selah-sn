@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 1:1",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino zvikanangana nokufa kwaYehoshua, vana vaIsraeri vakabvunza Yahwe, vachiti: Ndinani anokwira nesu kurwisa Kenani, kutanga, kuti torwa naye?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikanangana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nokufa shure"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יְהוֹשֻׁעַ",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "vakabvunza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndinani"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "anokwira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kurwisa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "kutanga"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kuti torwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:12.873938011Z",
+  "model": "glm-5.3"
+}

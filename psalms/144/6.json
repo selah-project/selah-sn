@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Simuka nemhenye uye uvaradze; tuma miseve yako uye uvasundunure.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Simuka nemhenye"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "mhenye"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "uye uvaradze"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "miseve yako"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "uye uvasundunure"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:47.880348569Z",
+  "model": "glm-5.3"
+}

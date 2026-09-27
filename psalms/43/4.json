@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Ndichapinda kundoo dzaErohimu, kuna Er, mufaro wokufara kwangu; uye ndichakutenda nendere, Erohimu, Erohimu wangu.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Ndichapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ndoo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dzaErohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "wokufara kwangu"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "uye ndichakutenda"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "nendere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:59.624919013Z",
+  "model": "glm-5.3"
+}

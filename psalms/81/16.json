@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Vavengi vaYahwe vachizvinyepera kwaari, uye nguva yavo icharamba ichipo kusingaperi.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Vavengi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "vachizvinyepera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "icharamba"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "nguva yavo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:08.192956370Z",
+  "model": "glm-5.3"
+}

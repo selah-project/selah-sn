@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Kubva kuna Yahwe Tsevaoti ungosvikirwa nenzvamuko, nedendenyika yepasi, neruzha hombe, nangiriri yomhepo nedongi, nemurazvo wemoto unodya.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "kubva kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ungosvikirwa"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "nenzvamuko"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "nedendenyika yepasi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "neruzha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hombe"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "nangiriri yomhepo"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "nedongi"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "nemurazvo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "wemoto"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "unodya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:00.554142520Z",
+  "model": "glm-5.3"
+}

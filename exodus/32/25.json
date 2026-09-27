@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Mhoshe akaona ⟨את⟩ vanhu, nokuti vakanga vasina kudzorerwa, nokuti Aroni akavasiya vasina kudzorerwa, kuzoradzwa navavakwi zvavo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "vasina kudzorerwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "akasiya vasina kudzorerwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "kuzoradzwa"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "navavakwi zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:10.949428269Z",
+  "model": "glm-5.3"
+}

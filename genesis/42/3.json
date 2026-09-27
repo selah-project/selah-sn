@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Vakaenda vabalekwa gumi vaYosefu kunodurukira kutenga mbeu kubva muMitsirayimu.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "vakaenda kunodurukira"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vabalekwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "vaYosefu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kutenga mbeu"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kubva muMitsirayimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:08.528688006Z",
+  "model": "glm-5.3"
+}

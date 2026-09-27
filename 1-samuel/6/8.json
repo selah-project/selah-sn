@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye mutora ⟨את⟩ Arki yaYahwe, muisa ⟨את⟩ pagaro; ⟨את⟩ zvinhu zvendarama dzamukudzorera kwaari semuripo weashamu, munoisa mubhokisi riri kudivi raro; munoituma, uye richaenda.",
+  "tokens": [
+    {
+      "surface": "וּלְקַחְתֶּם",
+      "gloss": "uye mutora"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Arki yaYahwe"
+    },
+    {
+      "surface": "אֲרוֹן",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "וּנְתַתֶּם",
+      "gloss": "muisa"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "pagaro"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הָעֲגָלָה",
+      "gloss": "garo"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvendarama"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "zvendarama"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "idzo"
+    },
+    {
+      "surface": "הֲשֵׁבֹתֶם",
+      "gloss": "dzamukudzorera"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אָשָׁם",
+      "gloss": "ashamu"
+    },
+    {
+      "surface": "תָּשִׂימוּ",
+      "gloss": "munoisa"
+    },
+    {
+      "surface": "בָּאַרְגַּז",
+      "gloss": "mubhokisi"
+    },
+    {
+      "surface": "מִצִּדּוֹ",
+      "gloss": "riri kudivi raro"
+    },
+    {
+      "surface": "וְשִׁלַּחְתֶּם",
+      "gloss": "munoituma"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "riyo Arki"
+    },
+    {
+      "surface": "וְהָלָךְ",
+      "gloss": "richaenda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:22.819802205Z",
+  "model": "glm-5.3"
+}

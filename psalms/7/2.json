@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Yahwe Erohimu wangu, mune wako ndinotsigira; ndiponese kubuma vateveri vangu vose, uye ndinunure.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mune wako"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ndinotsigira"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ndiponese"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubuma … vose"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "vateveri vangu"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "uye ndinunure"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:47.000560486Z",
+  "model": "glm-5.3"
+}

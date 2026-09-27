@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Mufambi anokurumidza kuunhurwa; uye haafi asvika kuparadzwa, uye chingwa chake hachishomi.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "anokurumidza"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "mufambi"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "kuunhurwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuparadzwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "chishomi"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chingwa chake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:40.648836844Z",
+  "model": "glm-5.3"
+}

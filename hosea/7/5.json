@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Muzuva wamambo wedu, madzimambo akapfava nemoto wouvayini; wakasimudza ruoko rwake ⟨na⟩⟨את⟩ vasheedzeri.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "wamambo wedu"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "akapfava"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "wouvayini"
+    },
+    {
+      "surface": "משך",
+      "gloss": "wakasimudza"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasheedzeri"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "vasheedzeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:54.129288527Z",
+  "model": "glm-5.3"
+}

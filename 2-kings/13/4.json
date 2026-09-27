@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Yehoahazi akaombedza ⟨את⟩ chiso chaYahwe, Yahwe akamuteerera, nokuti akaona ⟨את⟩ kusvinwa kwaIsiraeri, nokuti mambo weAramu akasvinwa ⟨את⟩ avo.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "akaombedza"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chaYahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "akamuteerera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwavake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kusvinwa kwaIsiraeri"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "kusvinwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwaIsiraeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "akasvinwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "avo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "weAramu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:11.156168169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Mumukuru wemadziro echitariko, kunzira yekumabvazuva, pachiso pechiganwa nepachiso pechivakwa, dzimba dzaiwanikwa.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "mumukuru"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "wemadziro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "echitariko"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "kumabvazuva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "chiganwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nekuna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "chivakwa"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "dzimba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:31:28.396086965Z",
+  "model": "glm-5.3"
+}

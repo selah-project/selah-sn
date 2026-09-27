@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Akaridzikisa ndarama yechena, mukati nekunze; uye akaita pairi yendarama yakakomberedza.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "akaridzikisa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yechena"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "nekunze"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mutsetse wakakomberedza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wendarama"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "takakomberedza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:42.547581820Z",
+  "model": "glm-5.3"
+}

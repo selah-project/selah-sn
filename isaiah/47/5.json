@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Gara zvinyararira, uye pinda ⟨murima⟩, iwe mwanasikana weKashadhi; nokuti haungazombopi zita rokuti mambokadzi yemadzimambo.",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "gara"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "zvinyararira"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "uye pinda"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "murima"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "weKashadhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haungazom"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "-pi zita"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "vachadaidza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuti iwe"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "mambokadzi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "yemadzimambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:08.474233626Z",
+  "model": "glm-5.3"
+}

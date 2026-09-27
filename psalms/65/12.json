@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Unokwevera ⟨את⟩ gore nomakanaka ako, uye nzira dzako dzinodonha ustipe.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "unokwevera"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "nomakanaka ako"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "uye nzira dzako"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "dzinodonha"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ustipe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:25.393892994Z",
+  "model": "glm-5.3"
+}

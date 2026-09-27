@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ndinovenga vachengeti vezvinhu zvemhazha zvemanyepo; asi ini, muna Yahwe ndinovimba.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ndinovenga"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "vachengeti"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "vezvinhu zvemhazha"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "zvemanyepo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndinovimba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:10.217203995Z",
+  "model": "glm-5.3"
+}

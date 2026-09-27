@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye mupristi achanyika chigunwe chake mundiri, uye achadonhedza zvishoma zvendiri kanomwe pachiso peYahwe, pachiso pechishongo chechitsvene.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "achanyika"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chigunwe chake"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "chigunwe chake"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mundiri"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "achadonhedza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "zvishoma zve"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kanomwe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "nguva dzakanangana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "chishongo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chechitsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:38.457938343Z",
+  "model": "glm-5.3"
+}

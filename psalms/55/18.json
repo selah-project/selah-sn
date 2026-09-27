@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Manheru, mangwanana, nego remasikati, ndichafungidzira-nokutaura, ndichodaidzira, uye anonzwa izwi rangu.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Manheru"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "mangwanana"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "nego remasikati"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndichafungidzira-nokutaura"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "ndichodaidzira"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "anzwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:27.618575752Z",
+  "model": "glm-5.3"
+}

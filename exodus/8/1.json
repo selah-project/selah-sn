@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe akataura kuti Mose, kuti: Taura kuna Aroni, kuti: Tambidza ⟨את⟩ ruoko rwako nemutengo wako pamusoro penzizi, pamusoro pemadzinhi, nepamusoro pezvipatara, uye simudza ⟨את⟩ dzetsapfandana pamusoro penyika yeMitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Taura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tambidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "nemutengo wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "nzizi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "madzinhi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro pe"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "zvipatara"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "uye simudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzetsapfandana"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dzetsapfandana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:01.745892790Z",
+  "model": "glm-5.3"
+}

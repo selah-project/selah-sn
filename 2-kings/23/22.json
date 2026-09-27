@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Nokuti haina kuitwa Pasaka senzi iyi kubva mazuva evatongi ⟨את⟩ vakatonga ⟨את⟩ Israeri, nokumazuva ose evamambo veIsraeri nevamambo veYudha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haina"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kuitwa"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "senzi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "kubva mazuva"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "evatongi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vakatonga"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "vakatonga ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nokumazuva ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "evamambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "nevamambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "veYudha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:55.236228622Z",
+  "model": "glm-5.3"
+}

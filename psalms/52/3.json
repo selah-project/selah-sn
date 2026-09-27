@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Uchizvitutudza nezvakaipa here, iwe wemasimba? Hesedhi yaEr iripo mazuvose.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "here"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "uchizvitutudza"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nezvakaipa"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "iwe wemasimba"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:22.463051045Z",
+  "model": "glm-5.3"
+}

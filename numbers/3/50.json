@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Kubva ⟨מאת⟩ bekuru revana vaIsraeri akatora ⟨את⟩ ndarama — churu nemazana matatu nemakumi matanhatu nanomwe, ngeshekeri yeutsvene.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kubva"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bekuru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndarama"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "nemakumi matanhatu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "nanomwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana matatu"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ngeshekeri"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yeutsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:16.964343206Z",
+  "model": "glm-5.3"
+}

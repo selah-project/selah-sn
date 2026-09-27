@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye kuti iwe unyorerere nzeve dza mwana wako nomwana womwana wako ⟨את⟩ izvo ndakaita kuEjipita, ne⟨את⟩ zviratidzo zvangu izvo ndakaisa mumaritori avo; kuti muze kuti ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Uye kuti"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "unyorerere"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nzeve dza"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nomwana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "womwana wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo ndakaita kuEjipita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "kuEjipita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zviratidzo zvangu"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "zviratidzo zvangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndakaisa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mumaritori avo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "kuti muze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:30.053930764Z",
+  "model": "glm-5.3"
+}

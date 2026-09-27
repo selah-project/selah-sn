@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti Ezira akagadzirira mutima wake kuti atsvage ⟨את⟩ tora yaYahwe, nokuiita, uye kudzidzisa muIsraeri chidimbu nemutemo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezira"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "akagadzirira"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "mutima wake"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kuti atsvage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tora yaYahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "nokuiita"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "uye kudzidzisa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsraeri"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chidimbu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nemutemo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:08:01.410939127Z",
+  "model": "glm-5.3"
+}

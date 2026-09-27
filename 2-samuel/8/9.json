@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Toi mutongi weChamati akanzwa kuti Dhavhidhi akarwisa ⟨את⟩ simba rose raHadhadhezeri.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mutongi we"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simba rose raHadhadhezeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "simba"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "raHadhadhezeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:56:00.488820489Z",
+  "model": "glm-5.3"
+}

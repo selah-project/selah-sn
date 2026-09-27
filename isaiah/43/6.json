@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Ndichati kumaodzanyemba: Ipa; uye kuchamhembe: Usavhara; dzikwanisa kudzosawo vana vangu vachibva kure, nevasikana vangu kubva kumagumo enyika.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ndichati"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "kumaodzanyemba"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ipa"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "uye kuchamhembe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "vhara"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "dzikwanisa kudzosawo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana vangu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "vachibva kure"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "nevasikana vangu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kubva kumagumo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "enyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:04.384851564Z",
+  "model": "glm-5.3"
+}

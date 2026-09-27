@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye Kanaani akazvara ⟨את⟩ Tsidhoni mkuru wake wokutanga, ne⟨את⟩ Heti.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Uye Kanaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidhoni"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidhoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mkuru wake wokutanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:38.871528530Z",
+  "model": "glm-5.3"
+}

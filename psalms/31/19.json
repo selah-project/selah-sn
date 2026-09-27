@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ngadzimenwe ⟨את⟩ milomo yenhema, iyo inotaura makuhwa pamusoro pemutsva, mukudzwa nekushora.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "ngadzimenwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milomo yenhema"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yenhema"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "inotaura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kune avo vanokutya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsva"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "makuhwa makuru"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "mukudzwa"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "nekushora"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:16.168896403Z",
+  "model": "glm-5.3"
+}

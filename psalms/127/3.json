@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 127,
+  "translation": "Ona, vana ndivo nhaka yaYahwe; mubairo ndiwo muchero womutumbu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "nhaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mubairo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "muchero"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "womutumbu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:52.068559186Z",
+  "model": "glm-5.3"
+}

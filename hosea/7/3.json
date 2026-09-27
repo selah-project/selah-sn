@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nekuipa kwavo vanofadza mambo, uye nehunyengeri hwavo vanofadza madzishe.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "nekuipa kwavo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "vanofadza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "nehunyengeri hwavo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "madzishe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:44.812868179Z",
+  "model": "glm-5.3"
+}

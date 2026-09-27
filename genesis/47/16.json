@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Uye Yosefu akati: Ipei zvipfuwo zvenu, ndichakupai chingwa ⟨chingwa⟩ muzvipfuwo zvenu, kana mari yapera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Ipei"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "zvipfuwo zvenu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndichakupai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "—"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "muzvipfuwo zvenu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "yapera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:41.105111216Z",
+  "model": "glm-5.3"
+}

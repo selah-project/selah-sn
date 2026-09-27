@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Kune mutungamiri wenziyo, pane Yedhutuni; dhonzomugwi raAsafu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri wenziyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedhutuni"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "raAsafu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dhonzomugwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:25.382921350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe achakurova nokushomeka kwezvinamira, nedziya, nechirwere chokubvira, nodzi yakanyanya kupisa, nebanga, nekuora kwezvirimwa, nemhazha; uye idzi dzichakuteveredza kusvika waora.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "achakurova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "nokushomeka kwezvinamira"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "nedziya"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "nechirwere chokubvira"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "nodzi yakanyanya kupisa"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "nebanga"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "nekuora kwezvirimwa"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "nemhazha"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "dzichakuteveredza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "waora"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:23.266235824Z",
+  "model": "glm-5.3"
+}

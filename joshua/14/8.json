@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Asi hanzvadzi dzangu dzakakwira neni dzakanyangadza ⟨את⟩ moyo wevanhu; asi ini ndakatevera Yahwe Erohimu wangu nesimba rose.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "hanzvadzi dzangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dza"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "dzakakwira"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "dzakanyangadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wevanhu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ndakazadza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ndakatevera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:27:28.833447793Z",
+  "model": "glm-5.3"
+}

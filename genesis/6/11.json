@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Pasi rakaputsika pamberi paErohimu; nyika yose yakazadzwa hutsinye.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "rakaputsika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Pasi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yakazadzwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika yose"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "hutsinye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:25.451819104Z",
+  "model": "glm-5.3"
+}

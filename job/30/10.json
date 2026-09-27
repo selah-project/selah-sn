@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Vanondivenga, vakandira kure, uye hakuna kana pachiso changu pavakadzivirira ⟨kudonhedza⟩ mate.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "vanondivenga"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "vakandira kure"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kure"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "pachiso changu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "vakadzivirira"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mate"
+    }
+  ],
+  "timestamp": "2026-09-27T09:41:50.864091525Z",
+  "model": "glm-5.3"
+}

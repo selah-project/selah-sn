@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Asi iwe, Yahwe, unogara nokusingaperi, uye kurangarirwa kwako kune rudzi nerudzi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Asi iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "unogara"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "uye kurangarirwa kwako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kune rudzi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nerudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:17.699304454Z",
+  "model": "glm-5.3"
+}

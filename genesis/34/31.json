@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Vakati: Mbonje here ndiyo angaita ⟨את⟩ sisi yedu?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "mbonje"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "angaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisi yedu"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "sisi yedu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:36.308830647Z",
+  "model": "glm-5.3"
+}

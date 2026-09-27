@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "genesis 24:46",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Akakurumidza, ndokudzikisa kadha rake kubva pa bendere rake, ndokuti: “Inwa, uye ngamira dzako ndichapa kunwa.” Ndakawa, uye akapa ⟨את⟩ ngamira dzekunwa.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "akakurumidza"
+    },
+    {
+      "surface": "ותורד",
+      "gloss": "ndokudzikisa"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kadha rake"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "kubva pa bendere rake"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "inwa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "גמליך",
+      "gloss": "ngamira dzako"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "ndichapa kunwa"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ndakawa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngamira"
+    },
+    {
+      "surface": "השקתה",
+      "gloss": "akapa kunwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:12.689681054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "YaDhavhidhi. Usatsumwe nemakaipa, usazvidire vanoita mabasa akaipa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "YaDhavhidhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "-tsumwe"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "nemakaipa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "-zvidire"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mabasa akaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:35.192501311Z",
+  "model": "glm-5.3"
+}

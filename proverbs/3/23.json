@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ipapo uchafamba nzira yako nezvinovimbika, netsoka dzako hadzisatinhire.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ipapo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uchafamba"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nezvinovimbika"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzira yako"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "netsoka dzako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "dzisatinhire"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:10.002037615Z",
+  "model": "glm-5.3"
+}

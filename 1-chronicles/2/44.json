@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Shema akabereka ⟨את⟩ Rahamu, baba waYorikeamu; uye Rekemu akabereka ⟨את⟩ Shamai.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "UyeShema"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahamu"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Rahamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "waYorikeamu"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "uyeRekemu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shamai"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:11.714049571Z",
+  "model": "glm-5.3"
+}

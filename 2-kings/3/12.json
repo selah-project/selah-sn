@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yehoshafhati akati: Chavo chaYahwe chiri naye ⟨את⟩. Bhingumambo gweIsiraeri, naYehoshafhati, nebhumambo gweEdhomu, vakatsika kwaari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafhati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "chiri naye"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "chavo chaYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chavo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "vakatsika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bhingumambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "naYehoshafhati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nebhingumambo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:20.957985871Z",
+  "model": "glm-5.3"
+}

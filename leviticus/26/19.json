@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ndichaputsa ⟨את⟩ chikuva chesimba chenyu, ndichaisa ⟨את⟩ matenga enyu sesimbi, uye ⟨את⟩ nyika yenyu semhangura.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Ndichaputsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikuva chesimba chenyu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "chikuva"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "chesimba chenyu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matenga enyu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "matenga enyu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "sesimbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yenyu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "nyika yenyu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "semhangura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:14.999871420Z",
+  "model": "glm-5.3"
+}

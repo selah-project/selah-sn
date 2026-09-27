@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Ndipindure, Yahwe, nokuti hesedhi yako yakanaka; sezvakawanda ny dzidziriro dzako, tenda chiso chako kwandiri.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Ndipindure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yakanaka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sezvakawanda"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dzidziriro dzako"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "tenda chiso chako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:18.387704671Z",
+  "model": "glm-5.3"
+}

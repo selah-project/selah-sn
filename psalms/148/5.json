@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Varumbidze ⟨את⟩ zita raYahwe, nokuti iye akarayira, zvino zvakasikwa.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "varumbidze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "zvino zvakasikwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:22.774458076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anokanda chando chake sezvidimbu; pamberi pekuchanda kwake — ndiyani anogona kumira?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "anokanda"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "chando chake"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "sezvidimbu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "kuchanda kwake"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "anogona kumira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:03.426250964Z",
+  "model": "glm-5.3"
+}

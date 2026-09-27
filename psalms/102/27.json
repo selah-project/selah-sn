@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Iwo zvichaparadzwa, asi iwe wakamira; uye zvose seguka richipera, sechipfeko iwe unochinjazve, uye zvichapinda.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Iwo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zvichaparadzwa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "wakamira"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "uye zvose"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "seguka richipera"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "richipera"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sechipfeko"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "unochinjazve"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "zvichapinda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:29.588241463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye Yhuda akaenda kune Kenani aigara muChebhironi — uye zita raChebhironi nokare kwaive Kiriyati-Arba — vakavhiya ⟨את⟩ Sheshai, ne⟨את⟩ Achiman, ne⟨את⟩ Tarumai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yhuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "aigara"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "muChebhironi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye zita"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "raChebhironi"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "nokare"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriyati"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakavhiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Tarumai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Tarumai"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:34.345364556Z",
+  "model": "glm-5.3"
+}

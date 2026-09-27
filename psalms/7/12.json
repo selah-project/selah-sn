@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Erohimu ⟨ndi⟩ mutongi mururami, uye Er anotsamwa zuva rimwe nerimwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mutongi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye Er"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "anotsamwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:56.669211786Z",
+  "model": "glm-5.3"
+}

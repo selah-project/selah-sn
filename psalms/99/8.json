@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 99,
+  "translation": "Yahwe Erohimu wedu, iwe wakapvumira; Er wakaregerera wanga uri kuvavo, asi wakatora chidiriro pazviitwa zvavo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "wakapvumira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "נושא",
+      "gloss": "wakaregerera"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wanga uri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "ונוקם",
+      "gloss": "wakatora chidiriro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלילותיהם",
+      "gloss": "zviitwa zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:39.275502990Z",
+  "model": "glm-5.3"
+}

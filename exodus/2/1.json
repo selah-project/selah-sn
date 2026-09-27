@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvino murume weumba yaRevhi akaenda, aka ⟨את⟩ mwanasikani waRevhi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "weumba ya"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revhi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "aka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanasikani waRevhi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikani"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:57.356895333Z",
+  "model": "glm-5.3"
+}

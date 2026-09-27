@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 65:17",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Nokuti tarisai, ndiri kusika matenga matsva nepasi matsva; zvokutanga hazvizopangidzwa zvakare, uye hazvipindi mumoyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tarisai"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ndiri kusika"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "matsva"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nepasi"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "matsva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hazvi-"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "pangidzwa zvakare"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "zvokutanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hazvi-"
+    },
+    {
+      "surface": "תעלינה",
+      "gloss": "pindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:54.789947320Z",
+  "model": "glm-5.3"
+}

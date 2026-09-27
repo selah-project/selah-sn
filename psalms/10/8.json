@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Anogara muchirindi chemazana; panzvimbo dzakavanzika anouraya wasina mhosva; maziso ake avaraira zvakavanzika kuona vanopedzwa.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "muchirindi"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "chemazana"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "panzvimbo dzakavanzika"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "anouraya"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wasina mhosva"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "kuona vanopedzwa"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "avaraira zvakavanzika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:24.234218464Z",
+  "model": "glm-5.3"
+}

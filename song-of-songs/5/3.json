@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndakabvisa ⟨את⟩ nhumbi yangu; sei ndichaipfekedza? Ndakasveta ⟨את⟩ mapadza angu; sei ndichiahwadza?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Ndakabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhumbi yangu"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "nhumbi yangu"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "ndichaipfekedza"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Ndakasveta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapadza angu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mapadza angu"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "ndichiahwadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:28.296384755Z",
+  "model": "glm-5.3"
+}

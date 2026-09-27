@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Ziso ravo rakabuda muvhavha; vakapfuura zvifungo zvemoyo.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "rakabuda"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "muvhavha"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ziso ravo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "vakapfuura"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "zvifungo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zemoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:00.137684783Z",
+  "model": "glm-5.3"
+}

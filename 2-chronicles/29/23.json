@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye vakaswedzeresa ⟨את⟩ mbudzi dzirume dzechibairo chetadzo pamberi pomambo neungano, vakaisa maoko avo pamusoro padzo.",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "vakaswedzeresa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbudzi dzirume dzechibairo chetadzo"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "mbudzi dzirume"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "dzechibairo chetadzo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi po"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "neungano"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro padzo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:41:35.911256098Z",
+  "model": "glm-5.3"
+}

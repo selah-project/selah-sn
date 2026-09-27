@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Momo murume mutsvene runomera ungwaru, nerurimi rwake runotaura mutemo wokutongwa.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "momo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "murume mutsvene"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "runomera"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ungwaru"
+    },
+    {
+      "surface": "ו לשונו",
+      "gloss": "nerurimi rwake"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "runotaura"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo wokutongwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:55.288359455Z",
+  "model": "glm-5.3"
+}

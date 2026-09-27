@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Vatadzi ngavanoperere kubva pasi, nevakaipa vangave vasisipo. Ropembera ⟨את⟩ Yahwe, iwe mweya wangu; rumbidzai Yah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ngavanoperere"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "Vatadzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "nevakaipa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vasaraivo"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "vasisipo"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Ropembera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:16.601012631Z",
+  "model": "glm-5.3"
+}

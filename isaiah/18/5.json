@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti pamberi pekukohwa, kana ruva rwapedza, uye muchero usina kwiya richava chibhura, achadimura misipo nemidyo yekucheka, uye ⟨את⟩ matwi akabvisa, akadimbura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kukohwa"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ruva"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "uye muchero usina kwiya"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "richava"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "chibhura"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "achadimura"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "misipo"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "nemidyo yekucheka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matwi"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "matwi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "התז",
+      "gloss": "akadimbura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:02.868862141Z",
+  "model": "glm-5.3"
+}

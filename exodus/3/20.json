@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndichaburitsa ruoko rwangu, ndicharova ⟨את⟩ Mitsrayimu nezvinoshamisa zvangu zvose zvandichaita mumukati mewo; mushure meizvozvo achakuregerai kuenda.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ndichaburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ndicharova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne…zvose"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "zvinoshamisa zvangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mumukati mewo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mushure"
+    },
+    {
+      "surface": "כן",
+      "gloss": "meizvozvo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "achakuregerai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ muri",
+      "marks": "muri kuenda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:12.060676885Z",
+  "model": "glm-5.3"
+}

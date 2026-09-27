@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 131,
+  "translation": "Nziyo yekukwira, yaDhavhidhi. Yahwe, moyo wangu hauina kusimbarara, uye maziso angu haana kutsvitsa papamusoro; ndinyorerwo haitenderwi kubvira ndakafamba mumazwi makuru nezvinoshamisa zvisiri pachangu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yekukwira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "kusimbarara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "kutsvitsa papamusoro"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haina"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "kutenderwa kuti ndafamba"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "mumazwi makuru"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "nezvinoshamisa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "zvisiri pachangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:50.372018433Z",
+  "model": "glm-5.3"
+}

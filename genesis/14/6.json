@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye ⟨את⟩ VaHori, mugomo rwavo rweSeiri, kusvika Eri-Parani, iri pedyo negwenga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Uye ⟨את⟩",
+      "marks": "VaHori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "VaHori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "mugomo rwavo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "rweSeiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Eri-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pedyo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "negwenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:56.202170321Z",
+  "model": "glm-5.3"
+}

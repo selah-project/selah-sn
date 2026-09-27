@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Asi ini ndakavimba newe, Yahwe; ndati: Erohimu wangu, iwe ⟨uri⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndakavimba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:50.301048440Z",
+  "model": "glm-5.3"
+}

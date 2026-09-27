@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 41:12",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "vakatora ⟨את⟩ vanhu vose, vakaenda kurwa neIshimaeri mukoma waNetania, vakamuwana ⟨את⟩ kumvura huru iri kuGibhoni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakaenda"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishimaeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netania"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "vakamuwana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kumvura huru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "huru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "kuGibhoni"
+    }
+  ],
+  "timestamp": "2026-09-27T08:08:00.770498619Z",
+  "model": "glm-5.3"
+}

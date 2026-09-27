@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye uchaisa ⟨את⟩ mishonga miviri yakatenderedzana yendarama pamhete mbiri, pamigumo yaHosheni.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishonga miviri yakatenderedzana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "miviri"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "mishonga yakatenderedzana"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "migumo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "yaHosheni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:31.367413975Z",
+  "model": "glm-5.3"
+}

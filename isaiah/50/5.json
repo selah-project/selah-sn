@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Adonai Yahwe akavhura kwandiri nzeve, ndipo ini handina kupanduka, kumashure handina kudzokera shure.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "akavhura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "nzeve"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ndipo ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "kupanduka"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kumashure"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "kudzokera shure"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:25.672564591Z",
+  "model": "glm-5.3"
+}

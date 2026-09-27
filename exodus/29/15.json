@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye unotora ⟨את⟩ imwe yenzimbe, uye Aharon navanakwe vanotevera ⟨את⟩ maoko avo pamusoro pemusoro wenzimbe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "yenzimbe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "unotora"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "vanotevera"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "navanakwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoko avo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wenzimbe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:31.327006349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Tumirai mumwe wenyu, ngaateure ⟨את⟩ mukoma wenyu; imi mugare makandwa, kuti mashoko enyu aedzwe, kuti chokwadi chiri ⟨את⟩ imwi; uye kana kwete, Upenyu hwaFarao, muri vaoneredzi.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Tumirai"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "wenyu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ngaateure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wenyu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mukoma wenyu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "mugare makandwa"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "aedzwe"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "mashoko enyu"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imwi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Upenyu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "hwaFarao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vaoneredzi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "muri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:13.757938550Z",
+  "model": "glm-5.3"
+}

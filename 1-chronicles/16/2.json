@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Dhavhidhi akapedza kuzvipira zvizhinji zvakaita zvipira zvokupisa nezvipira zvokururama, akaropafadza ⟨את⟩ vanhu nezita raYahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "akapedza"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "kuzvipira"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zvipira zvokupisa"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "nezvipira zvokururama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nezita ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:23:15.456385401Z",
+  "model": "glm-5.3"
+}

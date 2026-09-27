@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Aya ndiwo madzinza eShemu: Shemu aive mwana wezana remakore paakabereka ⟨את⟩ Arupakashadha, makore maviri mushure meGuho Guru.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "eShemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "wezana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "remakore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paakabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arupakashadha"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arupakashadha"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "makore maviri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Guho Guru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:55.408846213Z",
+  "model": "glm-5.3"
+}

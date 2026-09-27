@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 143,
+  "translation": "Nokuda pezita rako, Yahwe, ita kuti ndipenyu; mururamo wako undoburitsa upenyu hwangu mukutambudzika.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Nokuda pe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ita kuti ndipenyu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mururamo wako"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "undoburitsa"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "mukutambudzika"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:46.793874870Z",
+  "model": "glm-5.3"
+}

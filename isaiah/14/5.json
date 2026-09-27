@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahwe akatyora ⟨את⟩ tsvimbo yevakaipa, ⟨את⟩ ndanda yevatongi.",
+  "tokens": [
+    {
+      "surface": "שָׁבַר",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מַטֵּה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "yevakaipa"
+    },
+    {
+      "surface": "שֵׁבֶט",
+      "gloss": "ndanda"
+    },
+    {
+      "surface": "מֹשְׁלִים",
+      "gloss": "yevatongi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:54.733796797Z",
+  "model": "glm-5.3"
+}

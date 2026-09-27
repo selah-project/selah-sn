@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 143,
+  "translation": "Nokuti muvengi akateveredza mweya wangu, akanyudza upenyu hwangu pasi, akandigadzira kugara murima, sevakafa kare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "akateveredza"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "akanyudza"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "akandigadzira kugara"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "murima"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "sevakafa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:07.860975716Z",
+  "model": "glm-5.3"
+}

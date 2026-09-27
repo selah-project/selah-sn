@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Anodzikinura upenyu hwako kubva muguva, anokupfekedza chiremba chehesedhi netsitsi.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "anodzikinura"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "kubva muguva"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "upenyu hwako"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "anokupfekedza chiremba"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "netsitsi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:46.608759341Z",
+  "model": "glm-5.3"
+}

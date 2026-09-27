@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Shamuweru akataura nomuchekesi: Ipa ⟨את⟩ chikamu andakupa iwe, ndakataura newe kuti: Isa ⟨את⟩ iyo newe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuweru"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "nomuchekesi"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Ipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikamu"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anda-"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "po"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakataura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "שים",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:42.649444438Z",
+  "model": "glm-5.3"
+}

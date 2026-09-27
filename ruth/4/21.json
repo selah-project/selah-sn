@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Salamoni akazvara ⟨את⟩ Boazi, uye Boazi akazvara ⟨את⟩ Obedhi.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Salamoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazi"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "uye Boazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedhi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:58.190231073Z",
+  "model": "glm-5.3"
+}

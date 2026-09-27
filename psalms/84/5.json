@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Vakafara vagari vembwa yako; vachiri kukurumbidza iwe. Sehara.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Vakafara"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "vembwa yako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vachiri"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "kukurumbidza iwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sehara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:54.460984677Z",
+  "model": "glm-5.3"
+}

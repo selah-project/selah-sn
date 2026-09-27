@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye zvichangopererwa shangu, uye muvengi haasati ari; iwe uchaongorora nzvimbo yake, uye haagoni kuwanika.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "uye zvichangopererwa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "shangu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye haasati ari"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "iwe uchaongorora"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nzvimbo yake"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "uye haagoni kuwanika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:37.388415962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Teerera izvi, vanhu vose; ita nzeve dzakazaruka, vagari vose ve⟨nyika⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Teerera"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ita nzeve dzakazaruka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.683942453Z",
+  "model": "glm-5.3"
+}

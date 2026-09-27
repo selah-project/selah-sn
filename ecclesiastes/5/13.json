@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye upfumi hwacho hunoparadzwa noutambi hwakaipa, uye akabereka mukomana, uye hapana chiripo mumaoko awa.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "hunoparadzwa"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "upfumi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hwacho"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "noutambi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hwakaipa"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "uye akabereka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "mumaoko awa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chiripo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:17.899088750Z",
+  "model": "glm-5.3"
+}

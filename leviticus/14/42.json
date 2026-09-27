@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye vachatora matombo ane mumwe, uye vachazviisa panzvimbo yematombo iwayo; uye danda rimwe chatiri achatora, achazodzvambira ⟨את⟩ imba.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "vachatora"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ane mumwe"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "vachazviisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo ya"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matombo iwayo"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "uye danda rimwe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "chatiri"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "achazodzvambira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:46:07.856882157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Atai akazvara Natanani, uye Natanani akazvara ⟨את⟩ Zabhadi.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "uye Atai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natanani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanani"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "uye Natanani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabhadi"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabhadi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:50.250701581Z",
+  "model": "glm-5.3"
+}

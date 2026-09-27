@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Akavasvika, akataura navo ⟨את⟩ mashoko aya.",
+  "tokens": [
+    {
+      "surface": "וַיַּשְּׂגֵם",
+      "gloss": "akavasvika"
+    },
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אֲלֵהֶם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko aya"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "הָאֵלֶּה",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:57.320856135Z",
+  "model": "glm-5.3"
+}

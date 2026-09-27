@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Adonai Yahwe akapa kwandiri rurimi revadzidziswa, kuti ndizive kubatsira ⟨את⟩ aneta neshoko; anodzunza mangwanana nomangwanana, anodzunza nzeve yangu kuteerera sevadzidziswa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "revadzidziswa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuti ndizive"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "kubatsira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aneta"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "aneta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "neshoko"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "anodzunza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanana"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nomangwanana"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "anodzunza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "nzeve yangu"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuteerera"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "sevadzidziswa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:47.203089329Z",
+  "model": "glm-5.3"
+}

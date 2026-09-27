@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Iwe unorayira ⟨את⟩ vana vaIsraeri, kuti vatore zvichauya kwazviiri mafuta emaoro akachena, akavhiyiwa, ezokuwedzera; kuti mwenje utere nguva dzose.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "unorayira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "vatore"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "zvichauya kwazviiri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "emaoro"
+    },
+    {
+      "surface": "זך",
+      "gloss": "akachena"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "akavhiyiwa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ezokuwedzera"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "kuti utere"
+    },
+    {
+      "surface": "נר",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:25.494701922Z",
+  "model": "glm-5.3"
+}

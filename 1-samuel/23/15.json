@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Dhavhidhi akaona kuti Saulu abuda kutsvaga ⟨את⟩ upenyu hwake; Dhavhidhi aive mugwambeni weZifu, muHoresha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abuda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kutsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "upenyu hwake"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwambeni"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "weZifu"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "muHoresha"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:49.760044259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Rhoti akabuda kwavari panzvimbo yemukova, akavhara ⟨את⟩ mukiva mushure make.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Rhoti"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "panzvimbo yemukova"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "mukiva"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mushure make"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:15.133897897Z",
+  "model": "glm-5.3"
+}

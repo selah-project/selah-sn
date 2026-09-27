@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Izwi raYahwe rine simba; izwi raYahwe rine ukuru.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "rine simba"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "rine ukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:43.526290090Z",
+  "model": "glm-5.3"
+}

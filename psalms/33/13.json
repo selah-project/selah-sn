@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Kubva matenga Yahwe akanatarira; akaona ⟨את⟩ vana vose vanhu.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "kubva matenga"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "akanatarira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vose vanhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:05.746377704Z",
+  "model": "glm-5.3"
+}

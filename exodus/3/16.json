@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Enda, unounganidza ⟨את⟩ vechekuru vaIsraeri, uye unoti kuvavari: Yahwe, Erohimu yemadzakuna enyu, Erohimu yaAbhurahama, Isaka naJakobo, akaonekela kwandiri, achiti: Ndanyoreri zvirokwazvo, ndakaona ⟨את⟩ izvo zvakaitirwa mumuEgypto.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "enda"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "unounganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vechekuru vaIsraeri"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vechekuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "unoti"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kuvavari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "yemadzakuna enyu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "akaonekela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "naJakobo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ndanyoreri"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "murume"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "izvo zvakaitirwa"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "izvo zvakaitirwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mumumu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Egypto"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:48.974515245Z",
+  "model": "glm-5.3"
+}

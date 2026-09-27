@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Murume uyo Erikanha, neimba yake yose, akakwira kuzopira Yahwe ⟨את⟩ chibairo chemazuva, ne⟨את⟩ chitsauko chake.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume uyo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Erikanha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne…yose"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kuzopira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chemazuva"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "chemazuva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chitsauko chake"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "chitsauko chake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:56:40.513314681Z",
+  "model": "glm-5.3"
+}

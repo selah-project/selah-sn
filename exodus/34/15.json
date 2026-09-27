@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 34:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "kuti usasunganisa sungano nemugari wenyika, ndokuvatiza kuhura namwari vavo, ndokuzvipira kune mwari vavo, ndokuti munhu achakudaidza, iwe uchadya chibairo chake.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti usasunganisa"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "usasunganisa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "nemugari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wenyika"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "kuhura"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "mwari vavo"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "ndokuzvipira"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "kune mwari vavo"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "achakudaidza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuti iwe"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "uchadya"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "chibairo chake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:31.005464490Z",
+  "model": "glm-5.3"
+}

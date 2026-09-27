@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye yakapfihwa, kana yakaputika, kana yakadimbwa, kana yakachekwa — izvi hamugoni kuzviperekedza kuna Yahwe; uye munyika yenyu hamugoni kuzviita.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "yakapfihwa"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "yakaputika"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "yakadimbwa"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "yakachekwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "hamugoni kuzviperekedza"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "uye munyika yenyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mugoni kuzviita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:11.517076974Z",
+  "model": "glm-5.3"
+}

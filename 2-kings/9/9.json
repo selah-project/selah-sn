@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndichaita ⟨את⟩ imba yaAhabhu sokuita kweimba yaYarobheamu, mukomana waNevhati, nesokuita kweimba yaBhasha, mukomana waAhiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndichaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaAhabhu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "sokuita kweimba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobheamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "waNevhati"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "nesokuita kweimba"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "yaBhasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "waAhiya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:19.764929667Z",
+  "model": "glm-5.3"
+}

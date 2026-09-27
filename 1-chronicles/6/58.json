@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ne⟨את⟩ Raamothi nomatunze aro, ne⟨את⟩ Anermu nomatunze aro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raamothi"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anermu"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anermu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:45.939294306Z",
+  "model": "glm-5.3"
+}

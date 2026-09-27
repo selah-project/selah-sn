@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Dombo rimwe rakaomarara riri kumaodzanyemba, ruchitarisa Mikhimashi; uye rimwe riri kuchamhemu, ruchitarisa Gibhea.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "dombo rakaomarara"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "rakaomarara"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kumaodzanyemba"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ruchitarisa"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhimashi"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "uye rimwe"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "kuchamhemu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ruchitarisa"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gibhea"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:22.109821983Z",
+  "model": "glm-5.3"
+}

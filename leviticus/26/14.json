@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Asi kana musateerera iwo, uye musaite ⟨את⟩ zvose mirairo iyi —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Asi kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musateerera"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye musaite"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mukaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose mirairo iyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:19.424867592Z",
+  "model": "glm-5.3"
+}

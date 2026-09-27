@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Kamwa kandikavhura, ndikafema nekushuwa, nokuti ndinoshuvira mirairo yawo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "kamwa kangu"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "ndikavhura"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "ndikafema nekushuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "ndinoshuvira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:10.284555458Z",
+  "model": "glm-5.3"
+}

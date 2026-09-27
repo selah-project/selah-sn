@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye vakaisa ⟨את⟩ mafuta pamazvara, iye akaita hutsva mafuta paAltari.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "mazvara"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "akaita hutsva"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "paAltari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:59.373303028Z",
+  "model": "glm-5.3"
+}

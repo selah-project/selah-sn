@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 108,
+  "translation": "Erohimu akataura mutsvene wake; ndichafara, ndichapatsanura Shekemu, ndichayera mukova weSukothi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "mutsvene wake"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ndichafara"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ndichapatsanura"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "nomukova we"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukothi"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ndichayera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:55.514409534Z",
+  "model": "glm-5.3"
+}

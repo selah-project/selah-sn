@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Vose vanodziya setandooro, uye vanodya ⟨את⟩ vavengi vavo; vamambo vavo vose vakaguma; hakuna anoshevedzera kwandiri pakati pavo.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "vose"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "vanodziya"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "setandooro"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "vanodya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vavo"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "vavengi vavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "vamambo vavo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "vakaguma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "anoshevedzera"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:54.129792683Z",
+  "model": "glm-5.3"
+}

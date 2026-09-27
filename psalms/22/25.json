@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Nokuti haana kuzvidza uye haana kudenga nyaradzo yeanetsekayo, uye haana kuvanza chiso chake kubva kwaari; asi pakuchema kwake kuna yeye, akamunzwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kuzvidza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kudenga"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "nyaradzo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "eanetsekayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "kuvanza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwaari"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "asi pakuchema kwake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuna yeye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akamunzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:19.738987198Z",
+  "model": "glm-5.3"
+}

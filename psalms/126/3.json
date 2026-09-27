@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 126,
+  "translation": "Yahwe akakura-kurira kuita nesu zvinhu; takava varwere vakafara.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "akakura-kurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "takava"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "vakafara"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:02.065882008Z",
+  "model": "glm-5.3"
+}

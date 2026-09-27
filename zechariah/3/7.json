@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 3:7",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvakadaro ndataura Yahwe Tsevaoti: Kana unofamba munzira dzangu, uye kana unochengeta ⟨את⟩ chichengeto changu, iwe wochatauro ⟨את⟩ imba yangu, uye wochachengeta ⟨את⟩ matunzhi angu; ndichakupa nzira dzokufamba pakati peavakamira ava.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "munzira dzangu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "unofamba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chichengeto changu"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "chichengeto changu"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "unchengeta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תדין",
+      "gloss": "wochatauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yangu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "imba yangu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "wochengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matunzhi angu"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "matunzhi angu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מהלכים",
+      "gloss": "nzira dzokufamba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "avakamira"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ava"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:22.661886317Z",
+  "model": "glm-5.3"
+}

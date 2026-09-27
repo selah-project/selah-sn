@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Namidzi anozvondaya ⟨את⟩ Erohimu, uye havana kuita sezvakataurwa navo nemambo weMuiti, asi vakararamisa ⟨את⟩ vana.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "vanozvondaya"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havasi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vasina kuita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMuiti"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "uye vakararamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:34.109465803Z",
+  "model": "glm-5.3"
+}

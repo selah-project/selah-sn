@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye wouchaita mitiyo yealtari, mitiyo yemiti yeshitimu, uye wozvidzokesa nengoma.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "wouchaita"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "mitiyo"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "yealtari"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mitiyo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yemiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeshitimu"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "wozvidzokesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mitiyo (özvayo)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nengoma"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:52.949269894Z",
+  "model": "glm-5.3"
+}

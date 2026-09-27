@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Zvino zuva radoka, iye wachena; uye mushure izvozvi anodya zvinhu zvitsvene, nokuti chikafu chake ndicho.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Zvino zuva radoka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "iye wachena"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "uye mushure izvozvi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "anodya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "zvitsvene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "chikafu chake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:49.299167654Z",
+  "model": "glm-5.3"
+}

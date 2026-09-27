@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Vanothinga, vanovanzika; ivo, nzira dzangu dzavanoronda — sezvo vakatarisira upenyu hwangu.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "vanothinga"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "vanovanzika"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "nzira dzangu (matsiro)"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "vanoronda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezvo"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "vakatarisira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:52.761796913Z",
+  "model": "glm-5.3"
+}

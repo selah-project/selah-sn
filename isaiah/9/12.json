@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Asi vanhu havadzokera kune arovaka, uye ⟨את⟩ Yahwe Tsevaoti havatsvagi.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "asi vanhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vadzokera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kune"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "arovaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Tsevaoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "vatsvagi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:18.667863318Z",
+  "model": "glm-5.3"
+}

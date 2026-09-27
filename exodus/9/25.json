@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Muchedengwe wakarohira munyika yose yaMitsrayimu ⟨את⟩ zvose zviri mumunda, kubva munhu kusvika zvipfuyo; uye ⟨את⟩ uswa hwose hwemunda muchedengwe wakarohira, uye ⟨את⟩ miti yose yemunda wakadimbura.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wakarohira"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "muchedengwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaMitsrayimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zviri mumunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mumunda"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kubva munhu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zvipfuyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uswa hwose hwemunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "hwemunda"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wakarohira"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "muchedengwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miti yose yemunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "yemunda"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wakadimbura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:21.482201339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Munhu chenjeri anotya, anobva pazvakaipa; asi mpenzi anozvitutumadza, anozvitendira chero.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "munhu chenjeri"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "anobva"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "pazvakaipa"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "asi mpenzi"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "anozvitutumadza"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "anozvitendira chero"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:44.573027788Z",
+  "model": "glm-5.3"
+}

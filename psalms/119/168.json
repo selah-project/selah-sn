@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndakachengeta mirairo yako nezvapupu zvako; nokuti nzira dzangu dzose dziri pamberi pako.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Ndakachengeta"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "nezvapupu zvako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira dzangu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "dziri pamberi pako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:02.962289169Z",
+  "model": "glm-5.3"
+}

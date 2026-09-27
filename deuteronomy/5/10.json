@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye anoshanda hesedhi kusvika kuzviuru, kuvandinoda, nevachengeta mirairo yake.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "anoshanda"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kusvika kuzviuru"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kuvandinoda"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nevachengeta"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mirairo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:13.806354077Z",
+  "model": "glm-5.3"
+}

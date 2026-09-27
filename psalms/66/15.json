@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Zvipiriso zvopisa zvemhuka dzinonyanya mafuta ndichakupira iwe, nefumo rehwai dzemukono; ndichaita nzimbe nembudzi dzemukono. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "Zvipiriso zvopisa"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "zinonyanya mafuta"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndichakupira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fumo"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "rehwai dzemukono"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nzimbe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mbudzi dzemukono"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:31.645499474Z",
+  "model": "glm-5.3"
+}

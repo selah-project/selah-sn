@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Upfumi hunobva muzvitigwa hunoderera; asi anounganidza nemaoko anowedzera.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "upfumi"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "hunobva muzvitigwa"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "hunoderera"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "anounganidza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maoko"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "anowedzera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:56.701147227Z",
+  "model": "glm-5.3"
+}

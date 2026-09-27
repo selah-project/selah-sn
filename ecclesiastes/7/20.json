@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti munhu hapana mururami panyika anoita zvakanaka oga asiri kutadza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "panyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye asiri"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "kutadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:48.296412599Z",
+  "model": "glm-5.3"
+}

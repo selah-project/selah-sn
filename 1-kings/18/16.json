@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Obhadhia akaenda kunosangana naAhabhu, ndokumuzivisa; Ahabhu wo akazoenda kunosangana naEriya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obhadhia"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kunosangana na"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ndokumuzivisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akazoenda"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kunosangana na"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:23.099406591Z",
+  "model": "glm-5.3"
+}

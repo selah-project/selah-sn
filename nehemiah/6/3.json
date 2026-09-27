@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 6:3",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndkatuma vatumwa kwavari vachiti: “Ndiri kuita basa guru, uye handigoni kudzika; nei basa ribvire pandichirega ndikadzira kwamuri?”",
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "ndkatuma"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "vatumwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ndiri kuita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handigoni"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kudzika"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "kudzika"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ribvire"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pandi"
+    },
+    {
+      "surface": "ארפה",
+      "gloss": "chirega"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "ndikadzira"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:13:53.638846130Z",
+  "model": "glm-5.3"
+}

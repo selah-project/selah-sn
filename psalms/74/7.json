@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Vakatuma moto mukutsvene kwako; vakadetsa kumhosi ⟨את⟩ Mishikani yezita rako.",
+  "tokens": [
+    {
+      "surface": "שִׁלְח֣וּ",
+      "gloss": "vakatuma"
+    },
+    {
+      "surface": "בָ֭אֵשׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מִקְדָּשֶׁ֑ךָ",
+      "gloss": "mukutsvene kwako"
+    },
+    {
+      "surface": "לָ֝אָ֗רֶץ",
+      "gloss": "kumhosi"
+    },
+    {
+      "surface": "חִלְּל֥וּ",
+      "gloss": "vakadetsa"
+    },
+    {
+      "surface": "מִֽשְׁכַּן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "שְׁמֶֽךָ",
+      "gloss": "yezita rako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:22.589933365Z",
+  "model": "glm-5.3"
+}

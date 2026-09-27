@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye vakatuma kwandiri nemazwi akadaro kazvina, ndikapindura ⟨את⟩ navo nemazwi akadaro.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "vakatuma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nemazwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "akadaro"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kazvina"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kazvina"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ndikapindura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "nemazwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "akadaro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:13:53.639036254Z",
+  "model": "glm-5.3"
+}

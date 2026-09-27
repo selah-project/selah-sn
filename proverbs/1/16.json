@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti tsoka dzavo dzinomhanya kuenda kuipa, uye dzinokurumidza kukanda ropa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "tsoka dzavo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kuenda kuipa"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "dzinomhanya"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "uye dzinokurumidza"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "kukanda"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ropa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:41.873105657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nzwa, Isuraeri: iwe uri kudarika ⟨את⟩ Jorodhano nhasi, kupinda kukunda marudzi makuru uye anesimba kupinda iwe, maguta makuru uye akasimbiswa kusvika kudenga.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nzwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uri kudarika"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jorodhano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jorodhano"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "kupinda"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kukunda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "uye anesimba"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kupinda iwe"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "uye akasimbiswa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kusvika kudenga"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:51.122052367Z",
+  "model": "glm-5.3"
+}

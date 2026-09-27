@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Akavatungamirira munzira yakatwasuka, kuti vaende kuguta rekugara.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "akavatungamirira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "yakatwasuka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuti vaende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "rekugara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:00.188511790Z",
+  "model": "glm-5.3"
+}

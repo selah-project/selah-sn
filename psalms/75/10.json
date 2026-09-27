@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Asi ini, ndichazivisa kusingaperi; ndichorira kuna Erohimu waYakobo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndichazivisa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndichorira"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "waYakobo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:19.098355086Z",
+  "model": "glm-5.3"
+}

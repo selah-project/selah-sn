@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Kuonekwa kwavo kunenge kuonekwa kwemabhiza, uye sevachifamba pamabhiza, ndokudaro vanomhanya.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "kunenge kuonekwa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kwemabhiza"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "kuonekwa kwavo"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "sevachifamba pamabhiza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokudaro"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "vanomhanya"
+    }
+  ],
+  "timestamp": "2026-09-27T08:40:42.629028242Z",
+  "model": "glm-5.3"
+}

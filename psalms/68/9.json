@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Nyika yakagwedezeka, zvakare matenga akadonha mvura pachiso cheErohimu; iyi Sinai, pachiso cheErohimu, Erohimu weIsraeri.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Nyika"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "yakagwedezeka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "akadonha mvura"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:37.370007891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "VaFirisitimha vakasanganiswa, vokuzouya, vokugara-muteeri kunaShunemu; Sauro akasanganisa ⟨את⟩ Israeri yose, vokugara-muteeri kuGiribhoa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "vakasanganiswa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "vaFirisitimha"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vokuzouya"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "vokugara-muteeri"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "kunaShunemu"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "akasanganisa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "vokugara-muteeri"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "kuGiribhoa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:56.041967325Z",
+  "model": "glm-5.3"
+}

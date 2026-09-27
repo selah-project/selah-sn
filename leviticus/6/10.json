@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Haizonwi ichibikwa nechimera; chikamu chavo ndakapa ⟨את⟩ ichi kubva muzviapo zvangu zvemoto; chitsvene chitsvene ndicho, sechibeuro chechitadzo uye seashamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Haizonwi"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ichibikwa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "nechimera"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "chikamu chavo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ichi"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "kubva muzviapo zvangu zvemoto"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "sechibeuro chechitadzo"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "uye seashamu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:32.148429768Z",
+  "model": "glm-5.3"
+}

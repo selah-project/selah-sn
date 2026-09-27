@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Magondwe achaita mhindu mudzimba dzaive dzevanhu, uye imbwa dzemusango mudzimba dzorofaro; uye nguva yacho yapedyo kuuya, uye mazuva acho haachatambi.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "achaita mhindu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "magondwe"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "mudzimba dzaive dzevanhu"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "imbwa dzemusango"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "mudzimba"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "dorofaro"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "yapedyo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuuya"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nguva yacho"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "mazuva acho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "-tambi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:58.644743780Z",
+  "model": "glm-5.3"
+}

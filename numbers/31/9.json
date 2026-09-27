@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Vana vaIsiraeri vakatora ⟨את⟩ madzimai vaMidhiani ne⟨את⟩ vana vavo vadiki, ne⟨את⟩ zvipfuwo zvose zvavo, ne⟨את⟩ zviri kupfuwa zvavo zvose, ne⟨את⟩ hupfumi hwavo hwose vakabhizha.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzimai vaMidhiani"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "vaMidhiani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vavo vadiki"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "vana vavo vadiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvipfuwo zvose zvavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "zvipfuwo zvavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zviri kupfuwa zvavo zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "zviri kupfuwa zvavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "hupfumi hwavo hwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hupfumi hwavo"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "vakabhizha"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:10.997416676Z",
+  "model": "glm-5.3"
+}

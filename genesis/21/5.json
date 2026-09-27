@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye Abhurahama aive nemakore zana pakazvarirwa ⟨את⟩ Isaka mwanakomana wake.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Uye Abhurahama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "zana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "pakazvarirwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:53.764916367Z",
+  "model": "glm-5.3"
+}

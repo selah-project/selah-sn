@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uye vanhu vose vakaona ⟨את⟩ muchigwagwa wemhepo wakamira mumba mutende, ndipo vanhu vose vakamuka, vok匯d-zvamira vose, mumwe nomumwe mumba hetende rake.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "vakaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muchigwagwa wemhepo"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "muchigwagwa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wemhepo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "wakamira"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "mutende"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "vokunamata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "hetende rake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:06.682624072Z",
+  "model": "glm-5.3"
+}

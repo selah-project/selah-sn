@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye varume vakatora kubva kuvaviri chokudya chavo, asi ⟨את⟩ muromo waYahwe hava kunzvambira.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "kubava mukati chokudya chavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muromo waYahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "kunzvambira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:45.837981502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye munhu achatora ⟨את⟩ mukadzi womunin'ina wake — ndidhi ndiyo; shure kwomunin'ina wake akaburitsa; vachave vasina vana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "uye munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "acho"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "womunin'ina wake"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "ndidhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "shure"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kwomunin'ina wake"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "akaburitsa"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "vasina vana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachave"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:39.583422758Z",
+  "model": "glm-5.3"
+}

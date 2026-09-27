@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 18:32",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye hamutore chitadzo paaro, mukasimudza ⟨את⟩ kukuru kwazvo kubva mairi; uye ⟨את⟩ zvitsvene zvavana vaIsraeri hamuzvitsanya, uye hamufa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye hamutore"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "hamutore (kutakura)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paaro"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "chitadzo"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "mukasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukuru kwazvo"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "kukuru kwazvo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva mairi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zvitsvene zvavana vaIsraeri"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zvitsvene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vavana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamuzvitsanya"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "hamuzvitsanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hamufa"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "hamufa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:53.374292273Z",
+  "model": "glm-5.3"
+}

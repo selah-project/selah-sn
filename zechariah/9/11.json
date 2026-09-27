@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Iwe zvino, nomudzi weropa resungano yako, ndakatuma vasungwa vako kubva mugomba isina mvura maro.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "אַ֣תְּ",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בְּדַם",
+      "gloss": "nomudzi weropa"
+    },
+    {
+      "surface": "בְּרִיתֵ֗ךְ",
+      "gloss": "resungano yako"
+    },
+    {
+      "surface": "שִׁלַּחְתִּי",
+      "gloss": "ndakatuma"
+    },
+    {
+      "surface": "אֲסִירַ֨יִךְ֙",
+      "gloss": "vasungwa vako"
+    },
+    {
+      "surface": "מִבּ֔וֹר",
+      "gloss": "kubva mugomba"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "isina"
+    },
+    {
+      "surface": "מַ֖יִם",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "maro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:50:15.083740848Z",
+  "model": "glm-5.3"
+}

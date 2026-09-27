@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Mordekai akaziva ⟨את⟩ zvose zvakaitwa; Mordekai akatyora ⟨את⟩ hembe dzake, akaaputa shaki nhuva, akabuda mukati me⟨guta⟩, akadana richemo guru rokuti kurwadza.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akaziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "zakaitwa"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hembe dzake"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "akaaputa"
+    },
+    {
+      "surface": "שק",
+      "gloss": "shaki"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "nhuva"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "akadana richemo"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "richemo"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "rokuti kurwadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:14.813958684Z",
+  "model": "glm-5.3"
+}

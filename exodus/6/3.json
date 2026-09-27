@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndakazoonekera kuna Abhurahama, kuna Isaka, nokuna Yakobo semu Er Shadai; asi zita rangu Yahwe handina kuzivikanwa kwavari.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Ndakazoonekera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nokuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "באל",
+      "gloss": "semu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Er Shadai"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "zita rangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "kuzivikanwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:08.688835134Z",
+  "model": "glm-5.3"
+}

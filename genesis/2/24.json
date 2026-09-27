@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokudaro murume achasiya baba vake ⟨את⟩ naamai vake ⟨את⟩, achasangana nomudzimai wake, uye vachava nyama imwe chete.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kudaro"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "achasiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "amai vake"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amai vake"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "achasangana"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "nomudzimai wake"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:24.379974613Z",
+  "model": "glm-5.3"
+}

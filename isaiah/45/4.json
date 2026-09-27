@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Nokuda kwemuranda wangu Yaakobho, neIsiraeri wandakasarudza, ndakakudaidza nezita rako, ndakakupa zita rokupfuma; uye iwe haunazive ini.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Nokuda kwe-"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "muranda wangu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobho"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "neIsiraeri"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "wandakasarudza"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "ndakakudaidza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-p"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nezita rako"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "ndakakupa zita rokupfuma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "haunazive ini"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:11.078473028Z",
+  "model": "glm-5.3"
+}

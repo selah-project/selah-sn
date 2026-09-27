@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Akadzokera kune vamukoma wake, ndokuti: Mwanakomana haapo; ndimi ini, ndinoenda kupi?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vamukoma wake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "haapo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndimi ini"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ndinoenda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:25.326003920Z",
+  "model": "glm-5.3"
+}

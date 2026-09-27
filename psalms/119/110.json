@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Vakaipa vakaisa muteyo kwandiri; asi kubva pamirairo dzako handina kutapazika.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "פח",
+      "gloss": "muteyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "asi kubva pamirairo dzako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "kutapazika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:18.659707063Z",
+  "model": "glm-5.3"
+}

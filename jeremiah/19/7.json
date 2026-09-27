@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 19:7",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Ndichaita kuti hurongwa hwaYudha neYerusharema hwureme munzvimbo iyi, ndichavadza nomunondo pamberi pevavengi avo, nemawoko evauraya hupenyu hwavo; ndichapa ⟨את⟩ matumbi avo sekudya kwe shiri dzenzira, nedzimwe zvipembenzene zvenyika.",
+  "tokens": [
+    {
+      "surface": "ובקתי",
+      "gloss": "Ndichaita kuti hwureme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hurongwa hwaYudha neYerusharema"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "hurongwa hwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerusharema"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimbo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "והפלתים",
+      "gloss": "ndichavadza"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nomunondo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "vavengi avo"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nemawoko e"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "vauraya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hupenyu hwavo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matumbi avo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "matumbi avo"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "sekudya kwe"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzenzira"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "nedzimwe zvipembenzene"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zvenyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:59:26.562998367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Nokuti ndakadya chifuva ⟨dzviti⟩ seriro, ndokasanganisa hwangu nemisodzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "chifuva ⟨dzviti⟩"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "seriro"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ndakadya"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "hwangu"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "nemisodzi"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ndokasanganisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:51.069709005Z",
+  "model": "glm-5.3"
+}

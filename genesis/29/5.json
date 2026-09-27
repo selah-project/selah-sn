@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Akati kuvachi: Munoziva here ⟨את⟩ Rabhani, mukoma waNahori? Vakati: Tinomuziva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvachi"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "munoziva here"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabhani"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabhani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa-"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "tinomuziva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:45.980217580Z",
+  "model": "glm-5.3"
+}

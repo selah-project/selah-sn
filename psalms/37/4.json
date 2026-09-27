@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye farira munaYahwe, ndipo achakupa zvaunokumbira moyo wako.",
+  "tokens": [
+    {
+      "surface": "והתתענג",
+      "gloss": "farira"
+    },
+    {
+      "surface": "על",
+      "gloss": "muna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "achakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "zvaunokumbira"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:35.193131886Z",
+  "model": "glm-5.3"
+}

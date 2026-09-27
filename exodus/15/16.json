@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 15:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokutya kunoigwa kunowagwadza, nenzwa, nehukuru hwechibereko chako — vanomizga sezvibayiwa; kusvika vanhu vako vapfuura, Yahwe — kusvika vanhu izvi waakatenga vapfuura.",
+  "tokens": [
+    {
+      "surface": "תפל",
+      "gloss": "kunowagwadza"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "אימתה",
+      "gloss": "nokutya kunoigwa"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "nenzwa"
+    },
+    {
+      "surface": "בגדל",
+      "gloss": "nehukuru"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "hwechibereko chako"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "vanomizga"
+    },
+    {
+      "surface": "כאבן",
+      "gloss": "sezvibayiwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "vapfuura"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "vapfuura"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "waakatenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:41.216864684Z",
+  "model": "glm-5.3"
+}

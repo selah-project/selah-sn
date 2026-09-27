@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nevanuna vaviri.Parishandata, nDalifoni, nAsipata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Parishandata"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parishandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dalifoni"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalifoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asipata"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Asipata"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:01.569219739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "ne⟨את⟩ Gathi, ne⟨את⟩ Maresha, ne⟨את⟩ Zifhu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Gathi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Zifhu"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifhu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:47.343711868Z",
+  "model": "glm-5.3"
+}

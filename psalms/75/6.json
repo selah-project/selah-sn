@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Musasimudze kuva pachena nyanga yenyu; musataura nemutsipa wakaomarara.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "musasimudze"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "kuva pachena"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "nyanga yenyu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "musataure"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "nemutsipa"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "wakaomarara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.009283377Z",
+  "model": "glm-5.3"
+}

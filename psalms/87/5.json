@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 87,
+  "translation": "Ndokuti adzaTsiyoni achataurwa: munhumwe nomunhumwe akaberekwa mumariri; ndipo iye Eriyoni achayigadzirira.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "adzaTsiyoni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "achataurwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhumwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomunhumwe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akaberekwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mumariri"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ndipo iye"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "achayigadzirira"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eriyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:17.113861178Z",
+  "model": "glm-5.3"
+}

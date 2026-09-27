@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Kune vakafa ungaita chishamiso? Kana vamwevene vachamuka, vachakutendera iwe? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "kune vakafa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ungaita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "chishamiso"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "vamwevene"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "vachamuka"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "vachakutendera iwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:10.607583868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye wakapa ⟨את⟩ vanhu vako Israeri kuvaka kuve vanhu kusvika kusingaperi; uye iwe, Yahwe, wakava navo semuErohimu wavo.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "wakapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vako Israeri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuvako"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kuve vanhu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "uye iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wakava"
+    },
+    {
+      "surface": "להם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "semuErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:00.947858708Z",
+  "model": "glm-5.3"
+}

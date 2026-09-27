@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "ne⟨את⟩ mweya wose wemhuka inopenyu iri navenyu — shiri, zvipfuwo, nezviwanikwa zose zvenyika zviri navenyu; kubva kune dzose dzakabuda muchitengwa, kune zviwanikwa zose zvenyika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wemhuka inopenyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "navenyu ⟨את⟩"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nezose zve"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zviwanikwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zvenyika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "navenyu ⟨את⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva kune dzose"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "dzakabuda"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "muchitengwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kune zose"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zviwanikwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zvenyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.255183563Z",
+  "model": "glm-5.3"
+}

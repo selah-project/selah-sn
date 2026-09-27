@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "⟨את⟩ altare rezvipiswa, ne⟨את⟩ mukebara webhengi uri pairo, ⟨את⟩ mapango ayo, ne⟨את⟩ midziyo yayo yose, ⟨את⟩ chitubu chekugeza, ne⟨את⟩ chitsigiro chayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare rezvipiswa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "rezvipiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mukebara webhengi"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "mukebara"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "webhengi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pairo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapango ayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mapango ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "midziyo yayo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "midziyo yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitubu chekugeza"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "chitubu chekugeza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chitsigiro chayo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "chitsigiro chayo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:54.304637799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mambo weTiritsa, motsi; mambo ose aive makumi matatu nemotsi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tiritsa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "motsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "nemotsi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:21.727166843Z",
+  "model": "glm-5.3"
+}

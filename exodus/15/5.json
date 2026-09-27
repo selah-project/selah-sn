@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Madzira akavafukidza; akadzika mumadzira kunge ibwe.",
+  "tokens": [
+    {
+      "surface": "תְּהֹמֹ֖ת",
+      "gloss": "madzira"
+    },
+    {
+      "surface": "יְכַסְיֻ֑מוּ",
+      "gloss": "akavafukidza"
+    },
+    {
+      "surface": "יָרְד֥וּ",
+      "gloss": "akadzika"
+    },
+    {
+      "surface": "בִמְצוֹלֹ֖ת",
+      "gloss": "mumadzira"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "kunge"
+    },
+    {
+      "surface": "אָֽבֶן",
+      "gloss": "ibwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:42.699339833Z",
+  "model": "glm-5.3"
+}

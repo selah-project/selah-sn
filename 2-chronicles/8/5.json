@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akavaka ⟨את⟩ Beit-Horona ropakanyika uye ⟨את⟩ Beit-Horona rupasi, maguta okudzivirira, anomadziro, masuo nomitsetse.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Horona ropakanyika"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horona"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ropakanyika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Horona rupasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horona"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "rupasi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "okudzivirira"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "nomadziro"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "masuo"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "nomitsetse"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:50.934115222Z",
+  "model": "glm-5.3"
+}

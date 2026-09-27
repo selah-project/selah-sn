@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Yahwe akati kunaMoshe: Nyora kwazvo ⟨את⟩ mazwi aya, nokuti pashoko pamazwi aya ndakagadzira sungano ⟨את⟩ iwe newe, ne⟨את⟩ Israeri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Nyora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi aya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ndakagadzira"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:18.070287160Z",
+  "model": "glm-5.3"
+}

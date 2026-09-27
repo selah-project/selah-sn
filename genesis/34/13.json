@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Vana vaYakobho vakapindura ⟨את⟩ Shekemu ne⟨את⟩ Chamoru babake nokunyengedza, vakataura, nokuti akasvibisa ⟨את⟩ Dhina hanzvadzi yavo.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "vakapindura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "vaYakobho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Chamoru"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamoru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babake"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "nokunyengedza"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "akasvibisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dhina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "hanzvadzi yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:38.722913505Z",
+  "model": "glm-5.3"
+}

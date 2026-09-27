@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Erohimu, tidzoseredza, uye unyoresedze chiso chako, uye tichaponeswa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tidzoseredza"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "unyoresedze"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "tichaponeswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:42.180369711Z",
+  "model": "glm-5.3"
+}

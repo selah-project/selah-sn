@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Nokuti avo vakaropafadzwa naye vanogara nyika; uye avo vakatukwa naye vachadimbwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "avakaropafadzwa naye"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "vanogara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "avakatukwa naye"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "vachadimbwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:01.853851249Z",
+  "model": "glm-5.3"
+}

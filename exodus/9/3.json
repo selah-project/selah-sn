@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "onai, ruoko rwaYahwe rwave ⟨⟩ pamusoro pezvipfuwo zvizhinji zvako zviri mundove — pamahachi, pangaivha, panganhamira, pazororo, nepanhwai — dheti rakanyanya kusimba.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "onai"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "rwava ⟨⟩"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "pamusoro pezvipfuwo zvako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mundove"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "pamahachi"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "pangaivha"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "panganhamira"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pazororo"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "nepanhwai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dheti"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "rakasimba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kanyanya kusimba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:13.119460887Z",
+  "model": "glm-5.3"
+}

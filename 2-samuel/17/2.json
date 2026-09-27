@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "ndikamuwira apo ari mutetsi netsva uye washayiye simba rwamaoko, ndikamutyisa ⟨את⟩ iye, uye vanhu vose vachatiza vaari ⟨את⟩ naye; ndokurova ⟨את⟩ mambo ega.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ndikamuwira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pawe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "mutetsi netsva"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "washayiye simba"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rwamaoko"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "ndikamutyisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "vachatiza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ndokurova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ega"
+    }
+  ],
+  "timestamp": "2026-09-27T10:59:09.998616264Z",
+  "model": "glm-5.3"
+}

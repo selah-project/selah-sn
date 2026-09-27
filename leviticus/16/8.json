@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye Aroni achaisa makwereti pamusoro pembudzi dzinomwepa idzi: chikwereti chimwe chaYahwe, nechikwereti chimwe chaAzazeri.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "achaisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "mbudzi dzinomwepa"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "makwereti"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "chikwereti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "nechikwereti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "chaAzazeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:17.331090195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Yahwe ane mhosva neYuda, uye achashanya Jakobbo nokufanana nemagetsi ake; nokufanana nemabasa ake achamudzosera.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "ane mhosva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "achashanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobbo"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "nokufanana nemagetsi ake"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "nokufanana nemabasa ake"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "achamudzosera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:53.691495098Z",
+  "model": "glm-5.3"
+}

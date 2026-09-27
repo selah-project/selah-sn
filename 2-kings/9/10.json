@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nachimbwa dzichadya ⟨את⟩ Izhebheru mudunhu raYizhireeri, uye hapana achamuviga. Zvino akavhura ⟨את⟩ gonhi, aka dzokawo atiza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Izhebheru"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izhebheru"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dzichadya"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Nachimbwa"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "mudunhu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "raYizhireeri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "achamuviga"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "akavhura"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "gonhi"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "aka dzokawo atiza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:19.765177693Z",
+  "model": "glm-5.3"
+}

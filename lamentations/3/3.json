@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvirokwazvo kwandiri anodzoka, anofushanira ruoko rwake zuva rose.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anodzoka"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "anofushanira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:50:27.583594572Z",
+  "model": "glm-5.3"
+}

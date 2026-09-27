@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Mambo weIsraeri akati kumaranda ake: Munoziva here kuti Ramoti Giredhi ndeyedu, asi tiri kuzvorwadza kutora ⟨את⟩ iyo kubva muruoko rwamambo weAramu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maranda ake"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Munoziva here"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ndeyedu"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giredhi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "asi tiri"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "kuzvorwadza"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "kutora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (Ramoti Giredhi)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva muruoko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "rwamambo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "weAramu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:01.969062316Z",
+  "model": "glm-5.3"
+}

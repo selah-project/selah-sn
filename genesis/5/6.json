@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Seti akagara ⟨makore⟩ mashanu nazana, ndokuzvara ⟨את⟩ Enoshi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Seti"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:14.733708530Z",
+  "model": "glm-5.3"
+}

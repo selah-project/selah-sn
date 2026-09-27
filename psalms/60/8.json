@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Erohimu akataura mutsvene wake: Ndinofarira; ndichapatsanura ⟨את⟩ Shekemu, ndichayera ⟨את⟩ mboni yeSukoti.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "mutsvene wake"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Ndinofarira"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ndichapatsanura"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "nemboni"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "yeSukoti"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ndichayera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:01.030759590Z",
+  "model": "glm-5.3"
+}

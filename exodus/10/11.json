@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Kwete zvakadaro! Endai iye zvino, imi varume, mubate ⟨את⟩ Yahwe; nokuti ⟨izvo⟩ ndizvo imi munotsvaka. Akavavadzikisa ⟨את⟩ vari pachiso ⟨kubva⟩ paParoh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "endai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iye zvino"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "imi varume"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mubate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "munotsvaka"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "akavavadzikisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ vari"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kubva ⟨pa⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "paParoh"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:59.474793542Z",
+  "model": "glm-5.3"
+}

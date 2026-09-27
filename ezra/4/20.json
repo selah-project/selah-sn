@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 4:20",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Madzimambo anesimba aiva kuYerushalema, uye vaitonga chose kweruzevha kwerwizi; mutero, mutoro nehumbowo kwainzi kwavari.",
+  "tokens": [
+    {
+      "surface": "ומלכין",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "anesimba"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "ושליטין",
+      "gloss": "vaitonga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kweruzevha"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "kwerwizi"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "mutero"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "mutoro"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "nehumbowo"
+    },
+    {
+      "surface": "מתיהב",
+      "gloss": "kwainziwa"
+    },
+    {
+      "surface": "להון",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T10:08:41.626903287Z",
+  "model": "glm-5.3"
+}

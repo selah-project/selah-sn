@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 61,
+  "translation": "Uchawedzera mazuva pamusoro pemazuva omambo, makore ake sokuti chirimo nechirimo.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "omambo"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "uchawedzera"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "makore ake"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sokuti"
+    },
+    {
+      "surface": "דר",
+      "gloss": "chirimo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nechirimo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:48.516439744Z",
+  "model": "glm-5.3"
+}

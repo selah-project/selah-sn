@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "HaVanenyadzi nguva yakaipa; uye mazuva enzara vachaguta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "vanenyadzi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yakaipa"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "uye mazuva"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "enzara"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "vachaguta"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:57.896769156Z",
+  "model": "glm-5.3"
+}

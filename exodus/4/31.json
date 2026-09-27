@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vanhu vakatenda; vakanzwa kuti Yahwe akatarisa ⟨את⟩ vavanhu vaIsraeri, kuti akaona ⟨את⟩ kutambudzika kwavo; vakagwinha, vakafamba nyika.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "vakatenda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akatarisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavanhu vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vavanhu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutambudzika kwavo"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "kutambudzika kwavo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "vakagwinha"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "vakafamba nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:42.589206939Z",
+  "model": "glm-5.3"
+}

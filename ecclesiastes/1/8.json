@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mashoko ose anorema; munhu haagoni kutaudza; ziso harigari kuona, uye nzeve haizadzi ⟨here⟩ kubva pakuteerera.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "anorema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "agoni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kutaudza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "rigari"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "rizadzi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "nzeve"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kubva pakuteerera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:46.121829708Z",
+  "model": "glm-5.3"
+}

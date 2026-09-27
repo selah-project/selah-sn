@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye kubva kune vayimbi: Eriyashivu; uye kubva kune vachengeti vemageto: Sharumu, Tarem, naUri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Uye kubva kune"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "vayimbi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eriyashivu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uye kubva kune"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "vachengeti vemageto"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Sharumu"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "Tarem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "naUri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:10:44.406581395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Akaisa pamuromo wangu, akati: Ona, izvi zabata milomo yako; uye mhosva yako yakabva, mtadzo wako wachatsveneswa.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "zabata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "milomo yako"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "yakabva"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "mhosva yako"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "mtadzo wako"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "wachatsveneswa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:42.280767839Z",
+  "model": "glm-5.3"
+}

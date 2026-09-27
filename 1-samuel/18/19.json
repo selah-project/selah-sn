@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Zvino pakusvikwa kwenguva yekupa ⟨את⟩ Merabhi, mukomana waShauro, kuDhavhidhi, iye akapiwa kuAdhrieri weMuhorati mudzimai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino pakusvikira"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "enguva"
+    },
+    {
+      "surface": "תת",
+      "gloss": "yekupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merabhi"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merabhi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "waShauro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDhavhidhi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "akapiwa"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "kuAdhrieri"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "weMuhorati"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mudzimai"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:44.852393898Z",
+  "model": "glm-5.3"
+}

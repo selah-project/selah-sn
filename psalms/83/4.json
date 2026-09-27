@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Pavanhu vako vari kuronga ⟨chitsidzo⟩ chinyevere, uye vari kupanga pangano pavakavanzwa vako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "vari kuronga chinyevere"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨chitsidzo⟩"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "uye vari kupanga pangano"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "vakavanzwa vako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:14.184350091Z",
+  "model": "glm-5.3"
+}

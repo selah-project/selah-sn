@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Asi hesedhi yaYahwe kubva kpakareko kusvika kpakareko pavaanotya iye, nokururama kwake kuvana vevana.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "asi hesedhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kubva kpakareko"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kpakareko"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "vaanotya iye"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "nokururama kwake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana vevana"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vanã"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:19.237449760Z",
+  "model": "glm-5.3"
+}

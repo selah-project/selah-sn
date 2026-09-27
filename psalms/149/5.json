@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Vatsvene vachafara mokukudzwa, vachomuridza pamubhedha rwavo.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "vachafara"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "Vatsvene"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "mokukudzwa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vachomuridza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "mubhedha rwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:06.886260305Z",
+  "model": "glm-5.3"
+}

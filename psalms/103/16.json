@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Nokuti mhepo inopfema paya riiri, iye zvaaparara; uye nzvimbo yake haizomuzive zvakare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "inopfuura"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "iye zvaaparara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha…"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "zomuzive"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nzvimbo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:17.218467339Z",
+  "model": "glm-5.3"
+}

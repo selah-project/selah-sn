@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "achiti: “Kwauri ndichapa ⟨את⟩ nyika yaKanaani, chikamu chokugara nhaka yenyu.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndichapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yaKanaani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yaKanaani"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "chokugara nhaka yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:19.917690569Z",
+  "model": "glm-5.3"
+}

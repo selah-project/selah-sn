@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mupristi waMidhiani aive nemadzimai nomwe: akanofamba kutora mvura, akanadza, akazadza ⟨את⟩ zvibharo kuti anvise zvipfuyo zmababa avo.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "mupristi wa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midhiani"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "akanofamba"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "kutora mvura"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "akazadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvibharo"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "zvibharo"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "kutinanisa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "zvipfuyo"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "baba avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:32.766848699Z",
+  "model": "glm-5.3"
+}

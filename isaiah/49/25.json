@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Nokuti saizvozvo Yahwe anoti: chakatorwa nechisimba chichatorwa zvekare, uye chakapombadzwa nemutyairi chichaponeswa; uye ⟨את⟩ anokurwira iwe — ini ndinorwira, uye ⟨את⟩ vana vako — ini ndinoponesa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "chakatorwa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "nechisimba"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "chichatorwa zvekare"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "uye chakapombadzwa"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "nemutyairi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "chichaponeswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anokurwira iwe"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "anokurwira iwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ndinorwira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vako"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ndinoponesa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:42.535704719Z",
+  "model": "glm-5.3"
+}

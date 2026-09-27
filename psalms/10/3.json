@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti wakashata anozvikudza nezvido zveupenyu hwake; uye mutsvagi wenjodzi anorumbidzwa, anopfurira Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "anozvikudza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wakashata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "nezido"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "zveupenyu hwake"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "uye mutsvagi wenjodzi"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "anorumbidzwa"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "anopfurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:07.495154182Z",
+  "model": "glm-5.3"
+}

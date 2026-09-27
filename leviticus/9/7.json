@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Moshe akati kuna Aroni: Svikira ku⟨the⟩ altari, uye ita ⟨את⟩ chibairo chechitadzo chako uye ⟨את⟩ chibairo chokupisa chako, uye rungunurwe iwe uye ⟨uye⟩ vanhu; uye ita ⟨את⟩ chibairo chevanhu, uye rungunurwe ⟨iwo⟩, sokuda kwakataurwa naYahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "Svikira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "uye ita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chechitadzo chako"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "chibairo chechitadzo chako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chokupisa chako"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "chibairo chokupisa chako"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uye rungunurwe"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "uye"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "uye ita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chevanhu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "chevanhu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uye rungunurwe"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwakataurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:29.491333368Z",
+  "model": "glm-5.3"
+}

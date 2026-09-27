@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Unovhura ⟨את⟩ ruoko rwako, uye unakidza chido chechimwe nekchimwe chineupenyu.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Unovhura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "unakidza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "chimwe nekchimwe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "chineupenyu"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "chido"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.571446165Z",
+  "model": "glm-5.3"
+}

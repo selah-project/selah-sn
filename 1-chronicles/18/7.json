@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Dhavhidhi akatora ⟨את⟩ nhoo dzendarama dzakanga dziri pavaranda vaHadadhezeri, ndokuzviisa kuYerushalemu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhoo dzendarama"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "nhoo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "dzendarama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dzakanga dziri —"
+    },
+    {
+      "surface": "היו",
+      "gloss": "— dzakanga dziri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "vaHadadhezeri"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ndokuzviisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kuYerushalemu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:20.312592009Z",
+  "model": "glm-5.3"
+}

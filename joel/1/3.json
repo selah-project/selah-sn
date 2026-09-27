@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yayo taurirai kuvana venyu, uye vanhu venyu kuvana vavo, uye vana vavo kudzoro rinotevera.",
+  "tokens": [
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "Yayo"
+    },
+    {
+      "surface": "לִבְנֵיכֶם",
+      "gloss": "kuvana venyu"
+    },
+    {
+      "surface": "סַפֵּרוּ",
+      "gloss": "taurirai"
+    },
+    {
+      "surface": "וּבְנֵיכֶם",
+      "gloss": "uye vanhu venyu"
+    },
+    {
+      "surface": "לִבְנֵיהֶם",
+      "gloss": "kuvana vavo"
+    },
+    {
+      "surface": "וּבְנֵיהֶם",
+      "gloss": "uye vana vavo"
+    },
+    {
+      "surface": "לְדוֹר",
+      "gloss": "kudzoro"
+    },
+    {
+      "surface": "אַחֵר",
+      "gloss": "rinotevera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:35.238374722Z",
+  "model": "glm-5.3"
+}

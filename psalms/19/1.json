@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Kune muchengeti wemumhanzi. Nziyo dzaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune muchengeti wemumhanzi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dhaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:30.638159516Z",
+  "model": "glm-5.3"
+}

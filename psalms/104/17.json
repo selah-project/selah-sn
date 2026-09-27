@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Pamenhapo shiri dzinochina dzvimbo dzadzo; shongolori, mabhurusha ndiro imba yayo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "pamenhapo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "dzinochina"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "dzvimbo dzadzo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "shongolori"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "mabhurusha"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "imba yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.490330110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Masvibiro kuna Ashuru, muti weshure rwangu, uye tsvimbo yacho iri mumaoko avo ndiyo hasha dzangu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Masvibiro"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "muti"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "weshure rwangu"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "uye tsvimbo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yacho"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "iri mumaoko avo"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "hasha dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:14.906086753Z",
+  "model": "glm-5.3"
+}

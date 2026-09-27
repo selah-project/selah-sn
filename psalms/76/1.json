@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Kune mutungamiri, nezviridzwa; chiridzo aAsafu — yimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune mutungamiri"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "nezviridzwa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "chiridzo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "aAsafu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimbo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:00.998876024Z",
+  "model": "glm-5.3"
+}

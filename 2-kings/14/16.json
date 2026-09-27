@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye Yehohashu akazorora navadzibaba vake, akavigwa muShomironi namambo eIsiraeri; uye Yarobheamu mukorwa wake akazotonga pachigaro pake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akazorora"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehohashu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "vadzibaba vake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akavigwa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muShomironi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsiraeri"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akazotonga"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobheamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pachigaro pake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:29.460497096Z",
+  "model": "glm-5.3"
+}

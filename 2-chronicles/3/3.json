@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye idzi ndidzo nhiro dzaSolomoni akagadzira kuvaka ⟨את⟩ imba yaErohimu: kureba, maamha, nemidzo yokutanga — maamha makumi matanhatu; upamhi, maamha makumi maviri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "uye idzi"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "akagadzira nhiro"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomoni"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaErohimu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "nemidzo"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "yokutanga"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "makumi matanhatu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "uye upamhi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:15.745935562Z",
+  "model": "glm-5.3"
+}

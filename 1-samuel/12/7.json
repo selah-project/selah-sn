@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Zvino izvozvo,imirai,ndichakupikisai pachiso chaYahwe ⟨את⟩ zvese zvakanaka zvaYahwe,izvo akaita ⟨את⟩ newe nenedzimadzibaba enyu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino izvozvo"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "imirai"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ndichakupikisai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvese zvakanaka zvaYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zvaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ newe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "nedzimadzibaba enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:06.961041132Z",
+  "model": "glm-5.3"
+}

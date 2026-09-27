@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nzwa, Yahwe, uye nditenderedze tsitsi; Yahwe, va mubatsiri wangu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "uye nditenderedze tsitsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "va"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mubatsiri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:23.189885564Z",
+  "model": "glm-5.3"
+}

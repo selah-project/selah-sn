@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Ndanyura mudhaka rutsvene, uye hapana pekumira; ndapinya mumadziva emvura, uye uyerwe hwemvura hwandikwizira.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ndanyura"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "mudhaka rutsvene"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "rutsvene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "pekumira"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ndapinya"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "mumadziva"
+    },
+    {
+      "surface": "מים",
+      "gloss": "emvura"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "uye uyerwe"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "hwandikwizira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.176142006Z",
+  "model": "glm-5.3"
+}

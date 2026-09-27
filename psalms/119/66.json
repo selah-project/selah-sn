@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Kunzwisisa kwakanaka nokuziva, undidzidzise; nokuti ndakatenda mirairo yako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kwakanaka"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "kunzwisisa"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "nokuziva"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "undidzidzise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ndakatenda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:58.419517209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Eri akadana ⟨את⟩ Shemueri, akati: Shemueri, mwanangu. Iye akati: Ini ndiri pano.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemueri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ini ndiri pano"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:35.861447571Z",
+  "model": "glm-5.3"
+}

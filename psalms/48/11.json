@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Sokuzita kwako, Erohimu, ndokuzvo kurumbidzwa kwako kwousika kusvika panzvimbo dzokupedzisira dzepasi; kururama kwazara ruwoko rwako rwerudyaro.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "sokuzita kwako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokuzvo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "kurumbidzwa kwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "kurusva"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "nzvimbo dzokupedzisira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dzepasi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kwazara"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruwoko rwako rwerudyaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:43.106923458Z",
+  "model": "glm-5.3"
+}

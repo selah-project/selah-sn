@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Abhimeleki akati kuna Abhurahama: Chii wakaona kuti waakuita ⟨את⟩ shoko iri?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimeleki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "wakaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waakuita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:10.846743669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Handifa, asi ndicharamba ndichipona, uye ndichataura mabasa aYah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Handifa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ndichi- (kufa)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ndicharamba ndichipona"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "uye ndichataura"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "aYah"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:57.916797636Z",
+  "model": "glm-5.3"
+}

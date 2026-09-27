@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Nomavara angu ndakataura mitemo yose yomukanwa mako.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "nomavara angu"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ndakataura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "yomukanwa mako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:05.365677863Z",
+  "model": "glm-5.3"
+}

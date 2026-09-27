@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Moto wakabuda pachiso cheYahwe, wakavadya ⟨את⟩, uye vakafa pachiso cheYahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "wakabuda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wakavadya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (Nadhavhi naAvihuu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "vakafa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:42.059307809Z",
+  "model": "glm-5.3"
+}

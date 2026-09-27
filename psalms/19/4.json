@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Hapana shoko, hapana mazwi; ⟨haanzwikwi⟩ izwi ravo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Hapana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨haanzwikwi⟩ pasina"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi ravo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:30.638687140Z",
+  "model": "glm-5.3"
+}

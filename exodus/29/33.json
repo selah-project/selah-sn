@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye vachadya ivo izvo zvinoitirwa kupfurira, kuzadza ⟨את⟩ maoko avo, kutsvenevesa ivo; asi mutorwa haadyi, nokuti mutsvene nduri.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "vachadya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "zvinoitirwa kupfurira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "kuzadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoko avo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "kutsvenevesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "asi mutorwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nduri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:18.512634958Z",
+  "model": "glm-5.3"
+}

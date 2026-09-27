@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye mambo Shoromoni akagadzira mazana maviri enhango zendarama yakurohwa; zana tanhatu zendarama zaindisa panhango imwe chete.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoni"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana maviri"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "enhango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zendarama"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "yakurohwa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tanhatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zendarama"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "zaindisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "nhango"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:01.910192551Z",
+  "model": "glm-5.3"
+}

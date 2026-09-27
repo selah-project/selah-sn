@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Nokuti izvo mwananyana asati kuziva kudanha baba nambuya, achatora ⟨את⟩ upfuma hweDhamasiko ne⟨את⟩ chibharo cheShomeroni, pamberi pemambo weAshuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "asati"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwananyana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kudanha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "nambuya"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upfuma hweDhamasiko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "upfuma"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "hweDhamasiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chibharo cheShomeroni"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chibharo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "cheShomeroni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "pemambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:09.031119587Z",
+  "model": "glm-5.3"
+}

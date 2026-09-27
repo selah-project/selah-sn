@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "uye vakashandra ⟨את⟩ mifananidzo yavo; yakavaiva chirango kwavari.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "uye vakashandra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mifananidzo yavo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "mifananidzo yavo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "yakavaiva"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "chirango"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:44.338274325Z",
+  "model": "glm-5.3"
+}

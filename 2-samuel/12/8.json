@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "ndikupa iwe ⟨את⟩ imba yamwene wako, uye ⟨את⟩ vakadzi vamwene wako pachifuva chako; ndikupa iwe ⟨את⟩ imba yaIsuraeri neYadhudha; uye kana zviri shoma, ndinowedzera iwe zvakawanda nokure.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndikupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yamwene wako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "yamwene wako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vakadzi vamwene wako"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vakadzi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "vamwene wako"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "pachifuva chako"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndikupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaIsuraeri neYadhudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsuraeri"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "neYadhudha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "zviri shoma"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "ndinowedzera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "zvakawanda"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "nokure"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:52.750666909Z",
+  "model": "glm-5.3"
+}

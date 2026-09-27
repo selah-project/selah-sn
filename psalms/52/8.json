@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Uye vatsvene vachaona, vachatya, vachaseka iye.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "vachaona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "vachatya"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "vachaseka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:18.330984234Z",
+  "model": "glm-5.3"
+}

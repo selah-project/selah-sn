@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye aya akazvarirwa muYerushareima: Shimea, naShovhabhi, naNatani, naShoromoni — ina — naBhashua, mukunda waAmieri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "uye aya"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "akazvarirwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "muYerushareima"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "naShovhabhi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "naNatani"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "naShoromoni"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "naBhashua"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "⟨Bhashua⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mukunda"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "waAmieri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:25.856615705Z",
+  "model": "glm-5.3"
+}

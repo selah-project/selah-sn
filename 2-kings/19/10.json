@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 19:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Chizere muchataura kuna Hizikiya, mambo weYudha, muchiti: Erohimu wako, uyo waunovimba naye, arege akunyengedza, achiti: Yerusaremu hachatambanirwa mumaoko emambo weAshuru.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "chizere"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "muchataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYudha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "muchiti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arege"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "akunyengedza"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "waunovimba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "chatambanirwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusaremu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "emambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:03.383174188Z",
+  "model": "glm-5.3"
+}

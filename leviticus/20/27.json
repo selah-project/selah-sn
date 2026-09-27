@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Murume kana mukadzi, kana mukati mavo mugere mudani wemashavi kana muzivi wemashavi, ⟨vano⟩fa chaizvo; achaveiswa matombo; ropa rwavo riripo pava.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mugere"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mukati mavo"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "mudani wemashavi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "muzivi wemashavi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "fa chaizvo"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "nefungai re matombo"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "achaveiswa matombo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vavo ( ropa rwavo )"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ropa rwavo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pava"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:31.563210436Z",
+  "model": "glm-5.3"
+}

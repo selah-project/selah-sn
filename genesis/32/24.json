@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Akavatora, akavapfuuritsa ⟨את⟩ mutsvenze, akapfuuritsa ⟨את⟩ zvaiva zvake.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "akavatora"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "akavapfuuritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutsvenze"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mutsvenze"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akapfuuritsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvaiva zvake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:21.262642271Z",
+  "model": "glm-5.3"
+}

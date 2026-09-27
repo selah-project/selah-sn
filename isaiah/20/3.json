@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Yahwe akati: Sokureba kwaita muranda wangu Yeshaiahu akaenda akashama asina tsanhare, makore matatu, chiratidzo nechishamiso pamusoro peMisiri nepamusoro peKushi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokureba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "muranda wangu"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaiahu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "akashama"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "asina tsanhare"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "אות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "nechishamiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misiri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro pe"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:53.133022966Z",
+  "model": "glm-5.3"
+}

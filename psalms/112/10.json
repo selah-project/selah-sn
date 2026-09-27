@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 112,
+  "translation": "Mukashata achabvunza zvinoonekwa, atukwa; mazino ake anokwevedzera, onamatira; chido chevakashata chinoparara.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Mukashata"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "achabvunza zvinoonekwa"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "atukwa"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "mazino ake"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "anokwevedzera"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "onamatira"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "chido"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "chevakashata"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "chinoparara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:26.927978759Z",
+  "model": "glm-5.3"
+}

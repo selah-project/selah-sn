@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zimri akaparadza ⟨את⟩ mhuri yose yaBaasha, sokutaurwa kwaYahwe iyo akataura naBaasha, neruoko rwaYehu muporofita.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "akaparadza"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhuri yose yaBaasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "yaBaasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sokutaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "neruoko"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "rwaYehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:23.213883029Z",
+  "model": "glm-5.3"
+}

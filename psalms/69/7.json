@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Rega vatariri vako vashinyirirwa neni, Adonai, Yahwe Tsevaoti; rega vavaniko vavo vashungurudzwa neni, Erohimu waIsraeri.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Rega"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "vashinyirirwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "vatariri vako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "vashungurudzwa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "vavaniko vavo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:32.861415584Z",
+  "model": "glm-5.3"
+}

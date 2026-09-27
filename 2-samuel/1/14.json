@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Davhid akati kwaari: Sei waigona kusatya kuwarutsa ruoko rwako kuparadza ⟨את⟩ Mashiach waYahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhid"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kusatya"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "waitya"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kuwarutsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuparadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiach"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:18.340301776Z",
+  "model": "glm-5.3"
+}

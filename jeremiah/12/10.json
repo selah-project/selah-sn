@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Vafudzi vazhinji vakapwanya munda wangu wezvibage, vakatsvaira ⟨את⟩ chikamu changu pasi; vakapa ⟨את⟩ chikamu chandinofarira kuve gunya rakashata.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "vafudzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vazhinji"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "vakapwanya"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "munda wangu wezvibage"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "vakatsvaira pasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikamu changu"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "chikamu changu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikamu chandinofarira"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "chandinofarira"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "kuve gunya"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "rakashata"
+    }
+  ],
+  "timestamp": "2026-09-27T07:56:27.990745857Z",
+  "model": "glm-5.3"
+}

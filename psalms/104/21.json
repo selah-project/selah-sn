@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Mashumba achizamba kutora chavadya chawo, uye kuzotsvaga kubva kuEr chavadya chawo.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "Mashumba"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "achizamba"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "kutora chavadya"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "uye kuzotsvaga"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "kubva kuEr"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chavadya chawo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:10.488553260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 150,
+  "translation": "Rumbidzai-ye mutafu nokutamba, rumbidzai-ye muminimu nugabu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Rumbidzai-ye"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "mutafu"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "nokutamba"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "rumbidzai-ye"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "muminimu"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "nugabu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:45.719446222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndizvo zvinataurwa naYahwe: Nekutemwa kwemotsi kweAza, nokune chechina, handidzokere; nokuda kwekutora kwavo utapwa hwose kuti vhare kudhokerwa kuEdhomu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ndizvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvinataurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kweemotsi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kwemaktemwa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nokune"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "chechina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "dzokere"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "kwekutora kwavo"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "utapwa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "kuti vhare"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "kudhokerwa kuEdhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:33.477805492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 70,
+  "translation": "Ngavadzoke nokuda kwenyadzi dzavo, avachiti: Aha, aha!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ngavadzoke"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "עקב",
+      "gloss": ""
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "nyadzi dzavo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "avachiti"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:13.738029416Z",
+  "model": "glm-5.3"
+}

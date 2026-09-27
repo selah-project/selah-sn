@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Imba yaRevhi, rumbidzai ⟨את⟩ Yahwe; vanotya Yahwe, rumbidzai ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Imba"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "yaRevhi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "vanotya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:43.941475585Z",
+  "model": "glm-5.3"
+}

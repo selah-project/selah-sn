@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye vakagara vari kuyedza navo ⟨את⟩ Israeri, kuziva kuti vangateerera here ⟨את⟩ mirairo yaYahwe yaakaraira ⟨את⟩ madzibaba avo nemaoko maMoshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Uye vakagara vari"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "kuyedza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "vangateerera here"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaakaraira"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yaakaraira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzibaba avo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "madzibaba avo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nemaoko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "maMoshe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:42.485463556Z",
+  "model": "glm-5.3"
+}

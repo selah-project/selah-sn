@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Zvikudzurirei muzita rake mutsvene; moyo wevavanotsvaka Yahwe unofara.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Zvikudzurirei"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "muzita"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "raketsvene"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "unofara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wevavanotsvaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:45.910504377Z",
+  "model": "glm-5.3"
+}

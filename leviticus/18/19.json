@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nomukadzi ari mukutapwa kwevashoma kuchena, haugoni kuwedzerwa, kuzivisa kunyadziswa kwake.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "mukutapwa"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "kwevashoma kuchena kwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugoni"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "kuwedzerwa"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kuzivisa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "kunyadziswa kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:20.143235323Z",
+  "model": "glm-5.3"
+}

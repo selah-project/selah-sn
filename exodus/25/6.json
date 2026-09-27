@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Mafuta okuridzira chiedza, zvinonhuwira okuita mafuta okuzodwa, nefumo rezvinonhuwira.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "mafuuta"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "okuridzira chiedza"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "zvinonhuwira"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "okuita mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "okuzodwa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "nefumo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rezvinonhuwira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:49.478150957Z",
+  "model": "glm-5.3"
+}

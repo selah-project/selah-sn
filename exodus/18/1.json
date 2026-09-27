@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yitiro, mpristi weMidhiani, tezwara waMozhe, akanzwa ⟨את⟩ zvose zvaakaita Erohimu kuna Mozhe nokuna Isiraeri, vanhu vake, nokuti Yahwe akabuditsa ⟨את⟩ Isiraeri muIgibhita.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitiro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpristi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "weMidhiani"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tezwara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "waMozhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuna Mozhe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "nokuna Isiraeri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "akabuditsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muIgibhita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:00.853353733Z",
+  "model": "glm-5.3"
+}

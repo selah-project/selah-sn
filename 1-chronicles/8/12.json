@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Navana vaEripari: Evheri, naMishiami, naShamedi — ndiye akaivaka ⟨את⟩ Ono ne⟨את⟩ Rodhi nemadhoroopo ayo.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "navana va"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Eripari"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evheri"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "naMishiami"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "naShamedi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akaivaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Rodhi"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Rodhi"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "nemadhoroopo ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:23:10.194628403Z",
+  "model": "glm-5.3"
+}

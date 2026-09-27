@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "⟨Tehomu⟩ yaita bhachi; ukavhara ⟨nayo⟩ ⟨את⟩ pasi; mvura yakamira pamusoro pemakomo.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehomu"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "bhachi"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ukavhara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "yakamira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:45.286323744Z",
+  "model": "glm-5.3"
+}

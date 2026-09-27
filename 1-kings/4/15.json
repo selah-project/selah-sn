@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Achiimatzi muNafutari; iye zvakare akatora ⟨את⟩ Bashimati mwanasikana waShoromoh sokadzi.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achiimatzi"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "muNafutari"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashimati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashimati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "waShoromoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sokadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:58.552692653Z",
+  "model": "glm-5.3"
+}

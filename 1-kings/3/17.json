@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Mukadzi mumwe akati: Ndinokumbira, Adonai, ini nemukadzi uyu takagara mumumba mumwe chete, ndokuzvara naye mumumba.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ndinokumbira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "nemukadzi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "takagara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumumba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "ndokuzvara"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "naye"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumumba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:34.935289421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Paroh akati kuna Yosefu achiti: baba vako nehanzvadzi dzako zvakuuya kwauri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "nehanzvadzi dzako"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zvakuuya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:02.226847465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndokutora ⟨את⟩ tsindidzi yenyanga, namira mumeso aParao; Moshe akabvisa ⟨את⟩ iyona akitarisa kudenga, ndokuita chirwere chetunhanda, matunhanda anotapurira, paVanhu nePazvipfuwo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ndokutora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsindidzi yenyanga"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "tsindidzi"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "yenyinga"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "namira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mumeso a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "akitarisa kudenga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ndokuita"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "chirwere chetunhanda"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "matunhanda anotapurira"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "chinobuda"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "paVanhu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nePazvipfuwo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:46.365941414Z",
+  "model": "glm-5.3"
+}

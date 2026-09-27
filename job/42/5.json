@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Nokunzwa kwendebvu ndakanzwa zvauri, asi zvino ziso rangu rakuona.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "nokunzwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "endebvu"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ndakanzwa zvauri"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "asi zvino"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ziso rangu"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "rakuona"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:50.185218608Z",
+  "model": "glm-5.3"
+}

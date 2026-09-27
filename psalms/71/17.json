@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Erohimu, wakandidzidzisa kubva kukutanga kwangu, uye kusvika izvozvi ndinozivisa zvinoshamisa zvako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "wakandidzidzisa"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kubva kukutanga kwangu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "uye kusvika"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "izvozvi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndinozivisa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zvinoshamisa zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:38.280653644Z",
+  "model": "glm-5.3"
+}

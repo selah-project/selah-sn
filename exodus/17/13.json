@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Nokudaro Yehoshua akapfava ⟨את⟩ Amareki ne⟨את⟩ vanhu vake, pamuromo pebanga.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "akapfava"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amareki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amareki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanhu vake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pamuromo pe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "banga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:00.891924747Z",
+  "model": "glm-5.3"
+}

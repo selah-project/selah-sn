@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Kune uyo akatambanudza pasi pamusoro pemvura, nokuti hesedhi yake kusingaperi.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "kune uyo akatambanudza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:23.963584246Z",
+  "model": "glm-5.3"
+}

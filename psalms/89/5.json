@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Kusvika nguva dzose ndichagadzikisa mhodzi yako, uye ndichavaka chigaro chako chenyu chishe chokuti mazana emadzinza, madzinza ose. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ndichagadzikisa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mhodzi yako"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "uye ndichavaka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "emadzinza"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "madzinza ose"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "chigaro chako chenyu chishe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.103873992Z",
+  "model": "glm-5.3"
+}

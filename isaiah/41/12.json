@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Uchavatsvaga, asi hauzowani — vanhu venhaka dzako vachava sevasingapo, vachava sechepa, vanhu vehondo dzako.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "uchavatsvaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hauzowani"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "hauzowani"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "venhaka dzako"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachava"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sevasingapo"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "vachava sechepa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "vehondo dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:06.290783933Z",
+  "model": "glm-5.3"
+}

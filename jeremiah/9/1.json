@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndiani anondipa mudongi, pwanya revenzi, ndikasiye ⟨את⟩ vanhu vangu, ndiende kubva kwavari? Nokuti vose vari vanyengedzi, ungano yavasanduri.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "anondipa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mudongi"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "pwanya"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "revenzi"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "ndikasiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ndiende"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kubva ⟨את⟩ kwavari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vose"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "vanyengedzi"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ungano"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "vasanduri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:44.108168355Z",
+  "model": "glm-5.3"
+}

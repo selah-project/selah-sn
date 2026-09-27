@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Asarudza ⟨את⟩ mudzi weYehudha, ⟨את⟩ gomo reTsiyoni raakada.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "asarudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudzi weYehudha"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mudzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomo reTsiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "reTsiyoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ra"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "akada"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:47.798107692Z",
+  "model": "glm-5.3"
+}

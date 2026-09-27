@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe akataura kunaMozhe: Taurira Aharoni: Tambanudza ⟨את⟩ chimbo chako, uye urave ⟨את⟩ huva yenyika, zvidai zvinova zvonda munyika yose yeMitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Taurira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tambanudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimbo chako"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "chimbo chako"
+    },
+    {
+      "surface": "והך",
+      "gloss": "urave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huva yenyika"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "huva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yenyika"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "zvidai zvinova"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "zvonda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "munyika yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:03.908922764Z",
+  "model": "glm-5.3"
+}

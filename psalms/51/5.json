@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "nokuti zvandapomha ndinodziziva, uye chitadzo changu chiri pamberi pangu nguva dzose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "zvandapomha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ndinodziziva"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "chitadzo changu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pamberi pangu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:01.867749737Z",
+  "model": "glm-5.3"
+}

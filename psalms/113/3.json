@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Kubva pakubuda kwezuva kusvika pakupindira kwaryo, zita raYahwe rine kurumbidzwa.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Kubva pakubuda"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kwezuva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "pakupindira kwaryo"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "rine kurumbidzwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:35.941945676Z",
+  "model": "glm-5.3"
+}

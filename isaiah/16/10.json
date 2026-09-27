@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Mufaro nekufara kwaunganwa kubva munzvimbo yemichero; mumimhanzi hakuna kuridzwa, hakuna kurira; muvini mumatani haanatsuki; ini ndakaita kuti kurira kwemauro kumire.",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "kwaunganwa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "nekufara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "munzvimbo yemichero"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "mumimhanzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "kuridzwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "kurira"
+    },
+    {
+      "surface": "יין",
+      "gloss": "muvini"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "mumatani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "anatsuka"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "mutsuki"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "kurira kwemauro"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "ndakaita kuti kumire"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:21.164211189Z",
+  "model": "glm-5.3"
+}

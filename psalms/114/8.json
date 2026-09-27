@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 114,
+  "translation": "Iye anoshandura dombo kuva dziva remvura, chamhambakari kuva chitsuwa chemvura.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "anoshandura"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "dombo"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "dziva"
+    },
+    {
+      "surface": "מים",
+      "gloss": "remvura"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "chamhambakari"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "chitsuwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "chemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:10.693892260Z",
+  "model": "glm-5.3"
+}

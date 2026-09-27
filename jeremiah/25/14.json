@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 25:14",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "nokuti marudzi mazhinji namadzimambo makuru vachatora ivo zvose zvokushandiswa; ndichavadzorera sokuita kwavo nemaoko avo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "vachashandisa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "namadzimambo"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "ndichavadzorera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "sekuita kwavo"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "nokushanda"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kwemaoko avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:00:51.741653022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 125,
+  "translation": "Ita zvakanaka, iwe Yahwe, kuvakanaka, nevaka chokwadza mumoyo yavo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Ita zvakanaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "iwe Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kuvakanaka"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "nevaka chokwadza"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "mumoyo yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:48.752869643Z",
+  "model": "glm-5.3"
+}

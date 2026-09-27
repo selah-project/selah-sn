@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "uye haana kutevera pana Yahwe, ndokumuuraya, ndokushandura ⟨את⟩ umambo kuna Dhavhidhi mukororo waYishai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kutevera"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pana Yahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ndokumuuraya"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ndokushandura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umambo"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kuna Dhavhidhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukororo"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "waYishai"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:35.762714032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Sokuzvibviswa kweiyo yemhuru yechibairo chenyanzvi dzaShelemu; mhondoro anozvitsvagei pachivara chomutambo wehasha.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sokuzvibviswa"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "kuzvibviswa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kubva kumhuru"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "chenyanzvi dzaShelemu"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "anozvitsvagei"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mhondoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "chivara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "chomutambo wehasha"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:08.231639781Z",
+  "model": "glm-5.3"
+}

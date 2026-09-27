@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti mukuchenjeredza mazhinji, kukava kunenge kutambudzika kunozara; uye anowedzera ruzivo anowedzera ⟨wo⟩ kurwadziwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mu…mazhinji"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kuchenjeredza"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kunozara"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kutambudzika"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "anowedzera"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ruzivo"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "anowedzera"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kurwadziwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:19.271446129Z",
+  "model": "glm-5.3"
+}

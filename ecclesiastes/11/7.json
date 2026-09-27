@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye chiedza chinonaka, uye zvakanaka kune maziso kuona ⟨את⟩ zuva.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "uye chinonaka"
+    },
+    {
+      "surface": "האור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "uye zvakanaka"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "kune maziso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuva"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:45.899669618Z",
+  "model": "glm-5.3"
+}

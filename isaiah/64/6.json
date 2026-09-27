@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Uye hapana anodaidza zita rako, mudzokeredza kubata ⟨iwe⟩; nokuti wakavanza chiso chako kubva kwatiri, wakatiparadza nemwanza mhosva dzedu.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "anodaidza"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "mudzokeredza"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "kubata"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "wakavanza"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwatiri"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "wakatiparadza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nemwanza"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "mhosva dzedu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:15.642954227Z",
+  "model": "glm-5.3"
+}

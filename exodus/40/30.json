@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uye akaisa ⟨את⟩ ndiro pakati petendi yokusangana nachibairo, uye akaisa ikoko mvura yokugeza.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndiro"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nokupakati pa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "yokugeza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:57.795654899Z",
+  "model": "glm-5.3"
+}

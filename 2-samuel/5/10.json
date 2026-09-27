@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Dhavhidhi akaenda, achienderera nekukura, uye Yahwe Erohimu waTsevaoti aiva naye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "achienderera"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "nekukura"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "aiva naye"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:46.876975293Z",
+  "model": "glm-5.3"
+}

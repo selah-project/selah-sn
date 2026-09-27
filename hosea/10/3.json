@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti zvino vachati: Hakuna mambo kwatiri, nokuti hatina kutya ⟨את⟩ Yahwe; uye mambo — achaita chii kwatiri?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vachati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatina"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "uye mambo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:30.050287952Z",
+  "model": "glm-5.3"
+}

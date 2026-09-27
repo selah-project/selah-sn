@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye munhu wechekwaBhinjamini anobva mudungwe rehondo akamhanyira kuShiloh nenguva iyoyo, kanzuru yake yakangopatsanurwa, uye ivhu pachiso chake.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "akamhanyira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "wechekwaBhinjamini"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "anobva mudungwe rehondo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shiloh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "kanzuru yake"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "yakangopatsanurwa"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "chiso chake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:47.210500949Z",
+  "model": "glm-5.3"
+}

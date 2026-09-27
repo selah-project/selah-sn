@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Vakapfuura ⟨את⟩ Yorudhano, vakagara kuAruoera, kurudyi kweguta riri pakati pebani reGadhi, uye kuna Yaeziri,",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "vakapfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudhano"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudhano"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "kuAruoera"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kurudyi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kweguta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "bani"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "reGadhi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kuna"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaeziri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:28.904945089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Iye akati: Iturai. Vakaitura, uye ropa rwake rakadonha pamadziro nepamasvetera, uye akairitsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "Iturai"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "vakaitura"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "rakadonha"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ropa rwake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nepa"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "masvetera"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "akairitsa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:45.345823169Z",
+  "model": "glm-5.3"
+}

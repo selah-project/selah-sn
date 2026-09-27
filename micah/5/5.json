@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye vachavatira ⟨את⟩ nyika yeAshuru netsimbi, uye ⟨את⟩ nyika yeNimurodi pakutsvukwirwa kwayo; uye achaponesa kubva muAshuru, apo achapinda munyika yedu, uye apo achatsvukwira mumiganhu yedu.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "vachavatira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yeAshuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "netsimbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yeNimurodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimurodi"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "pakutsvukwirwa kwayo"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "uchaponesa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "kubva muAshuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "achapinda"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "munyika yedu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "uye apo"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "achatsvukwira"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "mumiganhu yedu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:58.142682409Z",
+  "model": "glm-5.3"
+}

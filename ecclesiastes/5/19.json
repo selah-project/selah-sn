@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti haangarangariri zvakanyanya mazuva ⟨את⟩ ehupenyu hwake, nokuti Erohimu vanopindura mukufara kwemoyo wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ngarangariri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazuva ehupenyu hwake"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ehupenyu hwake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "vanopindura"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "mukufara kwe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:14.303652241Z",
+  "model": "glm-5.3"
+}

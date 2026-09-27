@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Yahwe akati kuna Mhoze: Enda kune vanhu, uye vaiyeuchidzewo kuti vave tsvene nhasi nomangwana, uye vasuke hembe dzavo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "vaiyeuchidze kuti vave tsvene"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "nomangwana"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "vasuke"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "hembe dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:55.909631625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvino yakaziviswa kuYoavhu kuti: Ona, muchinda uri kuchema, uye achirwadziwa nokuda kwaAbusharomu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yakaziviswa"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kuYoavhu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "muchinda"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "uri kuchema"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "achirwadziwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abusharomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:01:40.203352151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Inofamba kuna chamhembe, inotenderera kuna maodzanyemba; inotenderera, inotenderera, mhepo ichifamba, uye pamadenderedziro ayo mhepo inodzokera.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "inofamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "chamhembe"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "inotenderera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "maodzanyemba"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "inotenderera"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "inotenderera"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ichifamba"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pa"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "madenderedziro ayo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "inodzokera"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:46.121428228Z",
+  "model": "glm-5.3"
+}

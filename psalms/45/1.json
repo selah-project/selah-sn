@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Kune mutungamiriri wenzvimbo yemudhidhizha, pamusoro peShoshanimu, kune vana vaKorachi; mashukirwo, shoko rerudo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiriri wemudhidhizha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanimu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kune vana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashukirwo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "rerudo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.887210435Z",
+  "model": "glm-5.3"
+}

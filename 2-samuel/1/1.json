@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino zvikanangana nekurufu kweShauro, Dhavhidhi akadzoka kubva pakuuraya ⟨את⟩ vaAmareki, uye Dhavhidhi akagara muTsikiragi mazuva maviri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino zvikanangana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kurufu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kweShauro"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uye Dhavhidhi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "akadzoka"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "kubva pakuuraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaAmareki"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "vaAmareki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "uye akagara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "muTsikiragi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "maviri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:09.248650234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvakaudzwa Dhavhidhi, akaunganidza ⟨את⟩ Israeri yose, akapfuura ⟨את⟩ Jorodhani, akaenda Kiherama; Aramu yakagadzirira mambure yokurwisa Dhavhidhi, vakarwa naye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "zvakaudzwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akapfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jorodhani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jorodhani"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Kiherama"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "yakagadzirira mambure"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "yokurwisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:49.648183220Z",
+  "model": "glm-5.3"
+}

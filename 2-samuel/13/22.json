@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye Abhusharom haana kutaura naAmoniwo chero zvakaipa kana zvakanaka, nokuti Abhusharom akavenga ⟨את⟩ Amoniwo nezvokuti akapurapura ⟨את⟩ Tamari hanzvadzi yake.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abhusharom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amoniwo"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "akavenga"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abhusharom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amoniwo"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amoniwo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nezvokuti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nezvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvokuti"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "akapurapura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamari"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "hanzvadzi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:49.595363363Z",
+  "model": "glm-5.3"
+}

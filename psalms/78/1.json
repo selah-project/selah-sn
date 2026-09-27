@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Chidzidziso chaAsafu. Teerera, vanhu vangu, tora yangu; tendeza nzeve dzenyu kumashoko emuromo wangu.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Chidzidziso"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "chaAsafu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Teerera"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora yangu"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tendeza"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "nzeve dzenyu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kumashoko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "emuromo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:24.334642602Z",
+  "model": "glm-5.3"
+}

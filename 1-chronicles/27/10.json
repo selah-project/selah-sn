@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Wechinomwe, wechirimwe mwedzi wechinomwe: Cheretsi muparume, wevanakomana vaErfiramu; pamusoro pemutandi wakwe: makumi maviri nezvhuru zvana churu.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "Wechinomwe"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wegore mwedzi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wechinomwe"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Cheretsi"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "muparume"
+    },
+    {
+      "surface": "מן",
+      "gloss": "we"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanakomana"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "vaErfiramu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "mutandi wakwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zvhuru zvana churu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:27:43.206895453Z",
+  "model": "glm-5.3"
+}

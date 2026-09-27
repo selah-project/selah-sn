@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nobhahdadiyake Hamorekethe akazvara ⟨את⟩ Ishodi, ne⟨את⟩ Avhiezeri, ne⟨את⟩ Makhira.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "nobhahdadiyake"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamorekethe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodi"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Avhiezeri"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Avhiezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Makhira"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Makhira"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:09.382256960Z",
+  "model": "glm-5.3"
+}

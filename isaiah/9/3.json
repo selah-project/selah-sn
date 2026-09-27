@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti ⟨את⟩ gomwe remutoro wake, uye ⟨את⟩ tsvimbo yedheya rake — chigaro chomudzvanyiri — wazvinunura sokununuzwa kwezuva reMidhiani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomwe remutoro wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "gomwe"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "remutoro wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "tsvimbo yedheya rake"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "yedheya rake"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chigaro"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "chomudzvanyiri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "—"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "wazvinunura"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sokununuzwa kwezuva"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "reMidhiani"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:47.793066978Z",
+  "model": "glm-5.3"
+}

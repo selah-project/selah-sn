@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 1:18",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvose zvichere zvataurwa zveAhaziya zvose zvaaita — hazvina kunyorwapi pabhuku reMashoko emazuva evamambo veIsraeri?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "zvose zvichere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zvataurwa"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "veAhaziya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zvaaita"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hazvina"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kunyorwapi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bhuku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "reMashoko"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "emazuva"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "evamambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:16:30.875824348Z",
+  "model": "glm-5.3"
+}

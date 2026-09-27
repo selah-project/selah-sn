@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuzotanga kwezvino zvekutanga zvevhu redu, nezvekutanga zvobvumairo hwe muchero wemiti yose, gore negore, kumba kwaYahwe — ⟨את⟩ zvekutanga zvevhu redu.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "nokuzotanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvino zvekutanga zvevhu redu"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "zvino zvekutanga"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "zvevhu redu"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "nezvekutanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hwe muchero"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wemiti yose"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "negore"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:15:48.794205663Z",
+  "model": "glm-5.3"
+}

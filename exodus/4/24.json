@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvakaitika munzira, panzvimbo yekugara usiku, Yahwe akasangana naye, uye akaedza kumuuraya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvakaitika"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "panzvimbo yekugara usiku"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "akasangana naye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "akaedza"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "kumuuraya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:38.413874277Z",
+  "model": "glm-5.3"
+}

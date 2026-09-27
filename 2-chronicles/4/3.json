@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Mufananidzo wengavhu waive pasi paro, kumativi ose, kumativi ose, dzichizinga ⟨את⟩ — gumi muhumbwe rimwe chete, dzichizinga ⟨את⟩ gungwa kumativi ose; mitsara miviri yengavhu, dzakanyungudutswa mukuzhinjwa kwazvo.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "mufananidzo"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "wengavhu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kumativi ose"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kumativi ose"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "dzichizinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "muhumbwe"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "dzichizinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kumativi ose"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "miviri"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "mitsara"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "yengavhu"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "dzakanyungudutswa"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "mukuzhinjwa kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:24:11.347255499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Zvino zvakaitika mashure mazvo, moyo waDhavhidha wakamurova, nokuda kwekuti akadimbura ⟨את⟩ shongwe raShauro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mashure"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mazvo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wakamurova"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "waDhavhidha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidha (pronomino: -murova)"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwekuti"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akadimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shongwe raShauro"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "shongwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ra"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauro"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:02.300444830Z",
+  "model": "glm-5.3"
+}

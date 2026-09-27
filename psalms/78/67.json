@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akaramba dhenda raYosefu, uye mudzi weEfrayimu hausarudzwa.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "akaramba"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dhenda ra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "mudzi we"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "sarudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:47.797941526Z",
+  "model": "glm-5.3"
+}

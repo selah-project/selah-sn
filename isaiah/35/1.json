@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nyika yakaoma nedhizha dzichafara; Aravha ichafara, ichapfura sehabhatso.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "dzichafara"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nyika yakaoma"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "nedhizha"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ichafara"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Aravha"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ichapfura"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "sehabhatso"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:08.694971151Z",
+  "model": "glm-5.3"
+}

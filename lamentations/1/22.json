@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 1:22",
+  "book": "lamentations",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvakaipa zvavo zvose ngazviuye pachiso chako, uye ugadzirire semawakaita kwandiri pamusoro pematadzo angu ose; nokuti dzungu dzangu dzakawanda, uye moyo wangu wakoromoka.",
+  "tokens": [
+    {
+      "surface": "תבא",
+      "gloss": "ngazviuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "zvakaipa zvavo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pachiso chako"
+    },
+    {
+      "surface": "ועולל",
+      "gloss": "uye ugadzirire"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sema"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "matadzo angu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "dzakawanda"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "dzungu dzangu"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "uye moyo wangu"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "wakoromoka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:50:44.083419503Z",
+  "model": "glm-5.3"
+}

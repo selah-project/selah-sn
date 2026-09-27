@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti chii chisina kuchengeta iwe ⟨את⟩ chitsidzo chaYahwe, ne⟨את⟩ murayiro wandaida pakutaura pauri?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "nokuti chii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "kusachengeta iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsidzo chaYahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "chitsidzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murayiro"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "murayiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ndaida"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pakutaura pauri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:59.487606434Z",
+  "model": "glm-5.3"
+}

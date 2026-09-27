@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Imbai shoko rakanaka kunaYahwe, rumbidzai ⟨את⟩ Yahwe, nokuti akadzikinura ⟨את⟩ mweya wemupfuza kubva mumaoko evakaipa.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbai shoko rakanaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "akadzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweya wemupfuza"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wemupfuza"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "evakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:58:12.095199252Z",
+  "model": "glm-5.3"
+}

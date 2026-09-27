@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Masikati zuva harigokurova, nesiku mwedzi haugokurova.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-…-ko"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "-gokurova"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "nesiku mwedzi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nesiku"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:46.657593569Z",
+  "model": "glm-5.3"
+}

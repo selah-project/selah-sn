@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yosefu akazoziva ⟨את⟩ hanzvadzi dzake, asi iwo haana kumuziva.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "akazoziva"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanzvadzi dzake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "והם",
+      "gloss": "asi iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "kumuziva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:03.952436160Z",
+  "model": "glm-5.3"
+}

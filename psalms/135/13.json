@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Yahwe, zita rako rinogara nokusingaperi; Yahwe, yeuchidzo yako kubva muzvarwa kusvika muzvarwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "yeuchidzo yako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kubva muzvarwa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kusvika muzvarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:29.011301802Z",
+  "model": "glm-5.3"
+}

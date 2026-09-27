@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye aya ndiwo mazita evanhu vachamira nane ⟨את⟩: veReubheni, Eritsuru mukoma waShedheioru.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Uye aya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mazita"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vachamira"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "vachamira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nane",
+      "marks": "nane"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "veReubheni"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Eritsuru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "waShedheioru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:40.248975727Z",
+  "model": "glm-5.3"
+}

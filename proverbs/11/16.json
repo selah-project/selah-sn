@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Mukadzi ane kukoshesa anomwazanira mukudzi, asi vapanyi vanomwazanira chete upfumi.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ane kukoshesa"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "anomwazanira"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "mukudzi"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "asi vapanyi"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "vanomwazanira"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "upfumi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:25.311642511Z",
+  "model": "glm-5.3"
+}

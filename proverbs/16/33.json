@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Muchihwaro hurongwa hunorashwa ⟨את⟩, asi kubva kunaYahwe ⟨ndiye⟩ mutemo wacho wose.",
+  "tokens": [
+    {
+      "surface": "בַּחֵיק",
+      "gloss": "muchihwaro"
+    },
+    {
+      "surface": "יוּטַל",
+      "gloss": "hunorashwa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "hurongwa"
+    },
+    {
+      "surface": "הַגּוֹרָל",
+      "gloss": "hurongwa"
+    },
+    {
+      "surface": "וּמֵיהוָה",
+      "gloss": "asi kubva kunaYahwe"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "מִשְׁפָּטוֹ",
+      "gloss": "mutemo wacho"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:53.674023510Z",
+  "model": "glm-5.3"
+}

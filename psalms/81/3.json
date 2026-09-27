@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Simudzai nziyo, batai ngoma; kinori chinonakidza pamwe chete nenavheru.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "simudzai"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "batai"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ngoma"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinori"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "chinonakidza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe chete ne"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "navheru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:14.103933161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti Yahwe ndiye mutsvene, anoda chitsvene; vakatwasuka vachaona chiso chake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "vakatwasuka"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "vachaona"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "chiso chake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:36.571723754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Uye zvino ⟨את⟩ vheji dzayo dzose pamwechete, vanodimbura nemashefu nendemo dzakapfava.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "vheji dzayo dzose"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "vheji dzayo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "nemashefu"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "nendemo dzakapfava"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "vanodimbura"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:07.388964357Z",
+  "model": "glm-5.3"
+}

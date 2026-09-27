@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Manyadzo ebaba vako, nemanyadzo hama yako yaamai, haufumuri; hama yako yaamai ndiye, haafumuri manyadzo ake.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Manyadzo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ebaba vako"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "nemanyadzo"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haamai vako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haufumuri"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "haufumuri"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "haamai vako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fumuri"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "manyadzo ake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:46:45.475318181Z",
+  "model": "glm-5.3"
+}

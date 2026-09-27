@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Moshe akatuma kuteerera ⟨את⟩ Yazehi; vakatora misha yayo, vakadzikinura ⟨את⟩ Emoriti aiva ipapo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "kuteerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazehi"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazehi"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "misha yayo"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "vakadzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emoriti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:02:00.555364210Z",
+  "model": "glm-5.3"
+}

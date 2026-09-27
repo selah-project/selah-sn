@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye muriwo wakazara wemunda wako haufaniri kuuramba, uye maruva arasiwo acho haugoomararwi; siyira ⟨את⟩ pamberi pemushandi nenyamenyi; ndini Yahwe Erohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "wemunda wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haufaniri"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "kuuramba"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "maruva arasiwo acho"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "wemunda wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugoomararwi"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kuoomarara"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "pamberi pemushandi"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "nenyamenyi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "siyira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maruva arasiwo acho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:03.344918394Z",
+  "model": "glm-5.3"
+}

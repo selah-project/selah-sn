@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Yakapiswa nomoto, yakatemwa; nokutsamwira kwachiso chako ⟨vanoparara⟩.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "yakapiswa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "yakatemwa"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "nokutsamwira kwa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vanoparara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:20.688865215Z",
+  "model": "glm-5.3"
+}

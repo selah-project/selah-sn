@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Usazvikudza nezvamangwana, nokuti haunozivi iro zuva richabereka chii.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "-zvikudza"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nezvamangwana"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "nezvamangwana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hauno-"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "-zivi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "richabereka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "iro zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:48.628040072Z",
+  "model": "glm-5.3"
+}

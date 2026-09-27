@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 98,
+  "translation": "Ngezipurira nedya rwehwamanda, ridzai izwi rakanyanya pamberi peMambo, Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Ngezipurira"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nedya rwe"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "hwamanda"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ridzai izwi rakanyanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:58.407888224Z",
+  "model": "glm-5.3"
+}

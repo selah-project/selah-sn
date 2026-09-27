@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Yahwe ndicho chengeti chako; Yahwe ndiye mumiriri wako, kurudyi rwako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "chengeti chako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "mumiriri wako"
+    },
+    {
+      "surface": "על",
+      "gloss": "kurudyi ⟨pa…⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kurudyi rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:46.657286871Z",
+  "model": "glm-5.3"
+}

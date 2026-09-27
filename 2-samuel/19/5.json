@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye mambo akafukidza ⟨את⟩ chiso chake, uye mambo akadana nezwi rakakomba, kuti: Mwanangu, Abhusharomi! Abhusharomi, mwanangu, mwanangu!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "uye mambo"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "akafukidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "nezwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rakakomba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abhusharomi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abhusharomi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:59:14.495008772Z",
+  "model": "glm-5.3"
+}

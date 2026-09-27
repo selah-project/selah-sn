@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mazera nomazera, rutendo rwako; wakavaka ⟨את⟩ pasi, uye pakamira.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "mazera"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nomazera"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "rutendo rwako"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "wakavaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "uye pakamira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:17.750181978Z",
+  "model": "glm-5.3"
+}

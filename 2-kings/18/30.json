@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye rega Chizikiya kukuvimikisa kuna Yahwe, achiti: Yahwe achinunura tinonunurwa, uye guta iri harizopihwa ⟨את⟩ muzan'wa waMutengo waAshuru.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Uye rega"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "kukuvimikisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "Chizikiya"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizikiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "achinunura"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "tinonunurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "rizopihwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta iri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "muzan'wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waMutengo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waAshuru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:25:20.819923855Z",
+  "model": "glm-5.3"
+}

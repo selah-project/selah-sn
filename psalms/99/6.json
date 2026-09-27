@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 99,
+  "translation": "Moshe naAroni vaive muporofita-vene dzake, uye Samueri pakati pavo vakadana zita rake; vakadana kuna Yahwe, uye iye akapvumira.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAroni"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "muporofita-vene dzake"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "uye Samueri"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "pakati pavo vakadana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "vakadana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye iye"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "akapvumira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:39.275162208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Mazuva ose ndicharopafadza iwe, uye ndicharumbidza zita rako nokusingaperi zvachose.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Mazuva ose (muzvose)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ndicharopafadza iwe"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "uye ndicharumbidza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "zvachose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:14.796913786Z",
+  "model": "glm-5.3"
+}

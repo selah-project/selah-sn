@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Erohimu waIsiraeri akati, akanditaura Dombo reIsiraeri: anotonga vanhu mururami, anotonga nokutya Erohimu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsiraeri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akanditaura"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Dombo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "reIsiraeri"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "nokutya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:10.552454166Z",
+  "model": "glm-5.3"
+}

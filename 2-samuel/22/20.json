@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Akaburitsa ⟨את⟩ ini kuwanda kwenzvimbo, akandibatsira nokuti akandida.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akaburitsa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "kuwanda kwenzvimbo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "akandibatsira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "akandida"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:01.769468758Z",
+  "model": "glm-5.3"
+}

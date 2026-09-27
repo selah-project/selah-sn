@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nokuti havatauri runyararo; pamusoro pevagari-runyararo venyika vanoronga mazwi ekunyengera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tauri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "vagari-runyararo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ekunyengera"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "vanoronga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:23.295067475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Kuti vatende kuti Yahwe, Erohimu yemadzibaba avo, Erohimu waAbhurahama, Erohimu waIsaka, neErohimu waJakobo, akazoonekwa kwauri.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "vatende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "akazoonekwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu ye"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "madzibaba avo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "neErohimu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:22.216317142Z",
+  "model": "glm-5.3"
+}

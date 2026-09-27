@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 93,
+  "translation": "Nzizi dzakasimudza, Yahwe; nzizi dzakasimudza inzwi radzo; nzizi dzichasimudza kuputsana kwemafashamuvi avo.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "dzakasimudza"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nzizi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "dzakasimudza"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nzizi"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "inzwi radzo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "dzichasimudza"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "nzizi"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "kuputsana kwemafashamuvi avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:37.276516014Z",
+  "model": "glm-5.3"
+}

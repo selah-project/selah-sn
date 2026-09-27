@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye mugara wavo wakanga uchibva kuMhesha, uchienda kuseri kweSefara, gomo rekkudhani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wakanga uchi"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "mugara wavo"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "uchibva kuMhesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "uchienda kuseri"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "kweSefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "rekkudhani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:37.610594430Z",
+  "model": "glm-5.3"
+}

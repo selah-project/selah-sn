@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Yahwe anotonga marudzi; nditonge ini, Yahwe, sekururama kwangu nokuzvininipisa kwangu kwandiri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "nditonge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sekururama kwangu"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "nokuzvininipisa kwangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:56.668655036Z",
+  "model": "glm-5.3"
+}

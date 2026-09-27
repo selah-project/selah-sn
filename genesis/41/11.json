@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Ndokuti tikaota chiroto usiku hwomotsi, ini naye; munhu nomunhu sokufananidzwa kwechiratidzo chake akaota.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "tikaota"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "chiroto"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hwomotsi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "naye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu nomunhu"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "sokufananidzwa kwechiratidzo"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "akaota"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:28.632437721Z",
+  "model": "glm-5.3"
+}

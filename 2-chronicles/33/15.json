@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Akabvisa ⟨את⟩ mwari venyika vechihwanda uye ⟨את⟩ mufananidzo mumusha waYahwe, nemadzinza ose akavakirwa pachikomo chemusha waYahwe nemuYerushalemu, akadzinga zvose kunze kwedhorha.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwari venyika vechihwanda"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "venyika vechihwanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mufananidzo"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "mufananidzo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mumusha wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nemadzinza ose"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "madzinza ose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akavakirwa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akavakirwa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pachikomo che"
+    },
+    {
+      "surface": "בית",
+      "gloss": "musha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "nemuYerushalemu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "akadzinga"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwedhorha"
+    }
+  ],
+  "timestamp": "2026-09-27T11:24:18.068783198Z",
+  "model": "glm-5.3"
+}

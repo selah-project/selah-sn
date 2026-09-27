@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Akawana ⟨את⟩ ivo, akapindura ndokuti: Aripo; tarira, ari mberi kwako; famba nokukurumidza iyezvino, nokuti nhasi auya muguta, nokuti chibairo chevanhu chiri nhasi padanhika.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (Sauru nomukomana wake)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Aripo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mberi kwako"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "famba nokukurumidza"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "iyezvino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "auya"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "chevanhu"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "padanhika"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:19.202280377Z",
+  "model": "glm-5.3"
+}

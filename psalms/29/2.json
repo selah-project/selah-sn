@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Ipai Yahwe rukudzo rwazita rake; inamatei Yahwe mune runako rweutsvene.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Ipai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rwazita rake"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "inamatei"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "mune runako"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "rweutsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:43.526052122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 41:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Kuti vaone, vazive, vaongorore, vanzwisisise pamwe chete, kuti ruoko rwaYahwe rwaita izvi, uye Mutsvene waIsirairi akasika izvi.",
+  "tokens": [
+    {
+      "surface": "לְמַ֧עַן",
+      "gloss": "Kuti"
+    },
+    {
+      "surface": "יִרְא֣וּ",
+      "gloss": "vaone"
+    },
+    {
+      "surface": "וְיֵדְע֗וּ",
+      "gloss": "vazive"
+    },
+    {
+      "surface": "וְיָשִׂ֤ימוּ",
+      "gloss": "vaongorore"
+    },
+    {
+      "surface": "וְיַשְׂכִּ֨ילוּ֙",
+      "gloss": "vanzwisisise"
+    },
+    {
+      "surface": "יַחְדָּ֔ו",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יָד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "rwaYahwe"
+    },
+    {
+      "surface": "עָשְׂתָ֥ה",
+      "gloss": "rwaita"
+    },
+    {
+      "surface": "זֹּ֖את",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "וּקְד֥וֹשׁ",
+      "gloss": "uye Mutsvene"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "waIsirairi"
+    },
+    {
+      "surface": "בְּרָאָֽהּ",
+      "gloss": "akasika izvi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:26.288238706Z",
+  "model": "glm-5.3"
+}

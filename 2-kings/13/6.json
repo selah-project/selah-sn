@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Asi havasi kudzoka kubva matadziro emba yaYarobheamu, yaakaita ⟨את⟩ Israeri kutadza; vakafamba mazviro; uye mubati waAsheira wakamira muShomironi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havasi"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "kubva matadziro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "emba"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "yaYarobheamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "akaita…kutadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mazviro"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "waAsheira"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "wakamira"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muShomironi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:00.568274489Z",
+  "model": "glm-5.3"
+}

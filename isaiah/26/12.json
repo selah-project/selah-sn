@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Yahwe, iwe unovimbisa runyararo kwatiri; nokuti zvirokwazvo mabasa edu ose waita iwo kwatiri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "unovimbisa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "mabasa edu"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "waita"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:10.241428774Z",
+  "model": "glm-5.3"
+}

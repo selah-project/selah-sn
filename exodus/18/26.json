@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Vakatonga ⟨את⟩ vanhu nguva dzose; nyaya iye yakanyanya kuoma vakaiunza kuna Moshe, asi nyaya diki ndivo vega vakaitonga.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "vakatonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "…dzose"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyaya iye yakanyanya kuoma"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nyaya"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "yakanyanya kuoma"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "vakaiunza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "asi …dzose"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nyaya"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "diki"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "vakaitonga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndivo vega"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:41.784245522Z",
+  "model": "glm-5.3"
+}

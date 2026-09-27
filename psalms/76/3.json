@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Uye muSharemu ndimo mune hutumba hwake, uye dzimba dzake dzekugara muZiyoni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "uye akaita"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "muSharemu"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "hutumba hwake"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "uye dzimba dzake dzekugara"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "muZiyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:00.999271287Z",
+  "model": "glm-5.3"
+}

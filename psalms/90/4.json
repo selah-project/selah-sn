@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Nokuti churu chemakore mazana ariri mumaoko ako semazuva echizuro okapfuura, semurindi weusiku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "chemakore"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mumaoko ako"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "semazuva"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "echizuro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "okapfuura"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "richapfuura"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "semurindi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "weusiku"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:58.152535615Z",
+  "model": "glm-5.3"
+}

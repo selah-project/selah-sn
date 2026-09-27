@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 9:14",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe achazarurika pamusoro pavo, musewe wake uchabuda sobaradzi; uye Adonai Yahwe achadzedza mhombo, uye achafamba nemashangwe ekuChamhembe.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "achazarurika"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "uchabuda"
+    },
+    {
+      "surface": "כברק",
+      "gloss": "sobaradzi"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "musewe wake"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "mhombo"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "achadzedza"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "achafamba"
+    },
+    {
+      "surface": "בסערות",
+      "gloss": "nemashangwe"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ekuChamhembe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:59.493425453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Nokuti semukadzi akasiyirwa uye ane mweya yakarwadziwa, Yahwe wakudana; uye semukadzi wechidiki kana aregeredzwa, ndokudaro Erohimu wako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "semukadzi"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "akasiyirwa"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "uye anorwadziwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "wakudana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "semukadzi"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "wechidiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "aregeredzwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:29.572129568Z",
+  "model": "glm-5.3"
+}

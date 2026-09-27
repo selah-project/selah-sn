@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye woisa ⟨את⟩ ⟨iyo⟩ pasi pekomborerero dzealtari, kumusoro; uye netiwe rikafanana kusvika pakati pealtari.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "woisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (netiwe)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "komborerero"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "dzealtari"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "uye wozoita"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "netiwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pealtari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:52.948971367Z",
+  "model": "glm-5.3"
+}

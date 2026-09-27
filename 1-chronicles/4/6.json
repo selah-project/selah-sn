@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Naara akamubereka ⟨את⟩ Ahuzamu, ne⟨את⟩ Cheferu, ne⟨את⟩ Temeni, ne⟨את⟩ Ahashutari; aya ndiye vakomana vaNaara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akamubereka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzamu"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Cheferu"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Cheferu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Ahashutari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ahashutari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakomana va"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:31.010171932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye kana vachiti, “Yahwe mune upenyu,” zvirokwazvo vanopika nhema.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mune upenyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "nhema"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "vanopika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:53:49.870635969Z",
+  "model": "glm-5.3"
+}

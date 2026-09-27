@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Kune muchengeti wenzvemumhanzi. Nharemboita yaDhavhidhi, chimbo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune muchengeti wenzvemumhanzi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nharemboita"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chimbo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:55.068375609Z",
+  "model": "glm-5.3"
+}

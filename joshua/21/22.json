@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Ne⟨את⟩ Kibtsayimu nemiganhu yayo, ne⟨את⟩ Bheti-Horoni nemiganhu yayo — matauni mana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Kibtsayimu"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "miganhu yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "miganhu yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Bheti-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bheti"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "-Horoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "miganhu yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "miganhu yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "matauni"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:23.675258320Z",
+  "model": "glm-5.3"
+}

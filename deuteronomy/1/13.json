@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 1:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Itirai kwamuri varume vane hungwaru, vane kuziva, vakaizivikanwa mumarudzi enyu, ndikavaisa semisoro pamusoro penyu.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Itirai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "vane hungwaru"
+    },
+    {
+      "surface": "וּנְבֹנִים",
+      "gloss": "vane kuziva"
+    },
+    {
+      "surface": "וִידֻעִים",
+      "gloss": "vakaizivikanwa"
+    },
+    {
+      "surface": "לְשִׁבְטֵיכֶם",
+      "gloss": "mumarudzi enyu"
+    },
+    {
+      "surface": "וַאֲשִׂימֵם",
+      "gloss": "ndikavaisa"
+    },
+    {
+      "surface": "בְּרָאשֵׁיכֶם",
+      "gloss": "semisoro pamusoro penyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:32.307173335Z",
+  "model": "glm-5.3"
+}

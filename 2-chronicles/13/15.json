@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Varume vaYudha vakaridza mhere yehondo; uye zvakaitika, pakuridza mhere varume vaYudha, Erohimu akashatisa ⟨את⟩ Yaravamu ne ⟨את⟩ Israeri yose misozi yaAbhiya neYudha.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "vakaridza mhere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYudha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye zvakaitika"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "pakuridza mhere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYudha"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "akashatisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaravamu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "misozi ya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abhiya"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "neYudha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:35:07.773419598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Nokuti mukomhi uri mumaoko aYahwe, uye wayini yacho yakafashuka, yakazara ⟨musanganwa⟩; akairasa kubva mairi; asi mashava aro, avakaipa ose enyika vachawanza-nwa, vachamwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "mukomhi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "uye wayini"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "yakafashuka"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "musanganwa"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "akairasa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kubva mairi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "asi"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "mashava aro"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "vachawanza-nwa"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "vachamwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "avakaipa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "enyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:19.098078981Z",
+  "model": "glm-5.3"
+}

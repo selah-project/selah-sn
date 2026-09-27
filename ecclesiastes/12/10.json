@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Koheleti akatsvaga kuwana mashoko anofadza, uye akanyorwa zvakananga — mashoko echokwadi.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "akatsvaga"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleti"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "kuwana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anofadza"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "uye akanyorwa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "zvakananga"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "echokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:02.434391616Z",
+  "model": "glm-5.3"
+}

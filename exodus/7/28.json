@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye rwizi rweNairi ruchazara shava, dzichikwira dzikapinda mumusha wako, nemudendere remubhedha wako, nepabhedha rako, mumisha yevashandi vako, nevanhu vako, mune zvitini zvako zvokubheka, nemidziyo yako yokusanganya.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "ruchazara"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rwizi rweNairi"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "shava"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "dzichikwira"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "dzikapinda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mumusha wako"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "nemudendere"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "remubhedha wako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepa"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "bhedha rako"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "mumisha"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yevashandi vako"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "nevashandi vako"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "mune zvitini zvako zvokubheka"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "nemidziyo yako yokusanganya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:44.038106757Z",
+  "model": "glm-5.3"
+}

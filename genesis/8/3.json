@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mvura dzakadzokera kubva pamusoro pepasi, dzichienda-nodzoka, uye mvura dzakashoma kumagumo emazuva makumi mashanu nezana.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "dzakadzokera"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pamusoro pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "dzichienda"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "nodzoka"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "dzakashoma"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kumagumo e"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nezana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:13.225130391Z",
+  "model": "glm-5.3"
+}

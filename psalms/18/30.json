@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti muri iwe ndinomhanyira bato remauto, uye mumaErohimu angu ndinotumika ⟨pamusoro pe⟩ rusvingo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri iwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ndinomhanyira"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "bato remauto"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "mumaErohimu angu"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ndinotumika"
+    },
+    {
+      "surface": "שור",
+      "gloss": "rusvingo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:19.265797961Z",
+  "model": "glm-5.3"
+}

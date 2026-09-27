@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "Ndichapfugamira gokora rako retsvene, ndichavavira ⟨את⟩ zita rako, nokuda kwehesedhi yako nechokwadi chako; nokuti wakaita kuti shoko rako rive guru pamusoro pezita rako rose.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "ndichapfugamira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwadiri"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "gokora"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "retsvene rako"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ndichavavira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne…chako"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "wakaita kuti…rive guru"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "shoko rako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:08.722374182Z",
+  "model": "glm-5.3"
+}

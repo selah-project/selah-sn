@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye nyika irege kurutsa ⟨אתכם⟩ mukuita dambudziko mumariri, sokudaro yaakarutsa ⟨את⟩ ⟨the⟩ rudzi rairoora mumberi kwenyu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye irege"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "kurutsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "mukuita dambudziko mumariri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (nyika)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokudaro"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "yaakarutsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rudzi"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rairoora"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mumberi kwenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:33.510163609Z",
+  "model": "glm-5.3"
+}

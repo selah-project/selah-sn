@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Asi ivo namadzibaba edu vakazvitutumadza, uye vakakaka ⟨את⟩ zvitoku zvavo, uye havanzwe mirairo yako.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "namadzibaba edu"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "vakazvitutumadza"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "vakakaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvitoku zvavo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "zvitoku zvavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "havanzwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mirairo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:14:39.188707868Z",
+  "model": "glm-5.3"
+}

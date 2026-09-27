@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Chitadzo cheYudha chakanyorwa nepeni yesimbi, netsono ye⟨shamiri⟩; chakachekwa pa gwaro remoyo yavo, uye panzwiso dze ma-altari enyu.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "chitadzo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cheYudha"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "chakanyorwa"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "nepeni"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yesimbi"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "netsono"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "⟨shamiri⟩"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "chakachekwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "gwaro"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo yavo"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "panzwiso dze"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ma-altari enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:58:02.386375946Z",
+  "model": "glm-5.3"
+}

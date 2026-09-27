@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Navakatendeka vanofara, vanotizizha pachiso peErohimu, navanozvizha norufaro.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Navakatendeka"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "vanofara"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "vanotizizha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "navanozvizha"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "norufaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:12.019500242Z",
+  "model": "glm-5.3"
+}

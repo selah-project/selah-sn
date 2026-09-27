@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 120,
+  "translation": "Chii chichapihwa iwe, uye chii chichawedzerwa iwe, iwe rurimi rwenyengo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Chii"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "chichapihwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "uye chii"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "chichawedzerwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "rwenyengo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:41.182192635Z",
+  "model": "glm-5.3"
+}

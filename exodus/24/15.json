@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye Moshe akakwira gomo, uye gore rakafukidza ⟨את⟩ gomo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gomo"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "rakafukidza"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "gore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gomo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gomo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:13.935740889Z",
+  "model": "glm-5.3"
+}

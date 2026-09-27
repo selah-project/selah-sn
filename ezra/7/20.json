@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nezvimwe zvose zvichadiwa kumba yaMwari wako, izvo zvichagohwa iwe kuzvipa, zipa kubva munhorongo dzomambo.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "nezvimwe zvose"
+    },
+    {
+      "surface": "חשחות",
+      "gloss": "zvichadiwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "waMwari wako"
+    },
+    {
+      "surface": "די",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "zvichagohwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "למנתן",
+      "gloss": "kuzvipa"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "zipa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "munhorongo"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "dzo"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "omambo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:54.102354659Z",
+  "model": "glm-5.3"
+}

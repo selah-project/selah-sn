@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Asi iwe, Yahwe Adonai, ita ⟨את⟩ pamwe neni zvezita rako, nokuti hesedhi yako yakakanaka; ndinunure.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Asi iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pamwe neni",
+      "marks": "pamwe neni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "zve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yakakanaka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ndinunure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:32.846810273Z",
+  "model": "glm-5.3"
+}

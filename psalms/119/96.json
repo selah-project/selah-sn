@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Kune chero chakanyanya kurongeka, ndaona magumo aro; asi murairo wako unowanda zvakanyanya.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kune chero chakanyanya kurongeka"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "chakanyanya kurongeka"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "magumo aro"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "unowanda"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "murairo wako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:40.202067455Z",
+  "model": "glm-5.3"
+}

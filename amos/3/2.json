@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Imi chete ndakaziva, kubva kumhuri dzose dzedhiva; nokudaro ndichashungurudza pamusoro penyu ⟨את⟩ mhosva dzenyu dzose.",
+  "tokens": [
+    {
+      "surface": "רַ֚ק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "אֶתְכֶ֣ם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "יָדַ֔עְתִּי",
+      "gloss": "ndakaziva"
+    },
+    {
+      "surface": "מִכֹּ֖ל",
+      "gloss": "kubva kudzose"
+    },
+    {
+      "surface": "מִשְׁפְּח֣וֹת",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "הָאֲדָמָ֑ה",
+      "gloss": "dzedhiva"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "nokudaro-"
+    },
+    {
+      "surface": "כֵּן֙",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "אֶפְקֹ֣ד",
+      "gloss": "ndichashungurudza"
+    },
+    {
+      "surface": "עֲלֵיכֶ֔ם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "mhosva dzenyu dzose"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "עֲוֺנֹֽתֵיכֶֽם",
+      "gloss": "mhosva dzenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:49.756406509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye kubva muzvishoma zviviri zvetribhi yaManase: ⟨את⟩ Aneri nemigarho yayo, uye ⟨את⟩ Biramu nemigarho yayo, kune mhuri yevana vaKehati avo vasara.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "uye kubva muzvishoma zviviri"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribhi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "yaManase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aneri"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aneri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "migarho yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemigarho yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Biramu"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Biramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "migarho yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemigarho yayo"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "kune mhuri"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yevana va"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "avo vasara"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:03.621948460Z",
+  "model": "glm-5.3"
+}

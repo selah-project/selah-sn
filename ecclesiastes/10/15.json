@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Basa revapenzi rinovavadza; nokuti haazivi kuenda kuguta.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Basa"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "revapenzi"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "rinovavadza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "-zivi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:17.128420082Z",
+  "model": "glm-5.3"
+}

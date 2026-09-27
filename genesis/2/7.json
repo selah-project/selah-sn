@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Yahwe Erohimu akavaka ⟨את⟩ munhu nevhu kubva muivhu, uye akafema muno mhino dzake mhepo yehupenyu; uye munhu wakava mweya mupenyu.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nevhu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "muivhu"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "uye akafema"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "muno mhino dzake"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yehupenyu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wakava"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:58.732810574Z",
+  "model": "glm-5.3"
+}

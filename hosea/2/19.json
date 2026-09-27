@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti ndichabvisa ⟨את⟩ mazita eBaari kumuromo wake, uye haachazoyeuchidzwa zvakare nemazita avo.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ndichabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazita eBaari"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mazita"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "eBaari"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "kumuromo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "achazoyeuchidzwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "nemazita avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:49.394999898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "kuti tigove isuwo semamwe marudzi ose, kuti mambo wedu atitonge, abude tiri mushure make, ochorwa ⟨את⟩ hondo dzedu.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "tigove"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "isu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "se-ose"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "atitonge"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mambo wedu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "abude"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "tiri mushure make"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ochorwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hondo dzedu"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "hondo dzedu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:28.587729578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uku ndiko bhuku rezvidzwa zvaAdhamu. Nenguva yaakasikira Adhamu, Erohimu, mumufananidzo waErohimu akamuita.",
+  "tokens": [
+    {
+      "surface": "זֶ֣ה",
+      "gloss": "Uku"
+    },
+    {
+      "surface": "סֵ֔פֶר",
+      "gloss": "bhuku"
+    },
+    {
+      "surface": "תּוֹלְדֹ֖ת",
+      "gloss": "rezvidzwa"
+    },
+    {
+      "surface": "אָדָ֑ם",
+      "gloss": "zvaAdhamu"
+    },
+    {
+      "surface": "בְּי֗וֹם",
+      "gloss": "Nenguva"
+    },
+    {
+      "surface": "בְּרֹ֤א",
+      "gloss": "yaakasikira"
+    },
+    {
+      "surface": "אֱלֹהִים֙",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אָדָ֔ם",
+      "gloss": "Adhamu"
+    },
+    {
+      "surface": "בִּדְמ֥וּת",
+      "gloss": "mumufananidzo"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "akamuita"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "Adhamu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:58.499098165Z",
+  "model": "glm-5.3"
+}

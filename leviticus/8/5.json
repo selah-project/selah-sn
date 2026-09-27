@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye Moshe akataura kune ⟨את⟩ gungano, achiti: Izvi ndiro shoko raYahwe rakarayira kuti riitwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gungano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Izvi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ra-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "rakarayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuti riitwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:20.641794270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ini ⟨ndinokurayira⟩: chengeta muromo wamambo, nokuda kwechitsidzo chaErohimu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wamambo"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "chengeta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "chitsidzo"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "chokwadi chechitsidzo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:39.017021308Z",
+  "model": "glm-5.3"
+}

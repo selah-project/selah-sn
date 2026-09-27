@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Akagadzira ⟨את⟩ matanda eMishikani: matanda makumi maviri kune rutivi rwekuchamhembe, kuenda kuchamhembe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanda"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "eMishikani"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kune rutivi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "rwekuchamhembe"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kuenda kuchamhembe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:18.172070265Z",
+  "model": "glm-5.3"
+}

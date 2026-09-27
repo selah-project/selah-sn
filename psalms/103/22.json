@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Rukudzai Yahwe, mabasa ake ose, panzvimbo dzose dzhinoro rake; mweya wangu, rukudza ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Rukudzai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mabasa ake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "panzvimbo dzose"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "nzvimbo dzose"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "dzhinoro rake"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "rukudza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:46.551515269Z",
+  "model": "glm-5.3"
+}

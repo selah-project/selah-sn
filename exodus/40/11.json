@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uchazodza ⟨את⟩ chitoro chemvura ne⟨את⟩ chigaro charo, uchatsvenesa ⟨את⟩ iro.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uchazodza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitoro chemvura"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "chitoro chemvura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chigaro charo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "chigaro charo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uchatsvenesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:48.926059535Z",
+  "model": "glm-5.3"
+}

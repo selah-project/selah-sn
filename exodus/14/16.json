@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Iwe, simudza ⟨את⟩ chimuti chako, uye tenda ⟨את⟩ ruoko rwako pamusoro pegungwa, uye urigurante; uye vana vaYisiraeri vachapinda mukati megungwa panzvimbo yomaka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "simudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimuti chako"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "chimuti chako"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "tende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "urigurante"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vachapinda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaYisiraeri"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "panzvimbo yomaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:56.004992610Z",
+  "model": "glm-5.3"
+}

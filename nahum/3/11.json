@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Iwe zvino ungotaNwa uchizvininipisa; iwe zvino ungotsvaga ruchengo kune wavengi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "ungotaNwa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "uchazvininipisa"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "uchizvininipisa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "ungotsvaga"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ruchengo"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "kune wavengi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:44:43.497557927Z",
+  "model": "glm-5.3"
+}

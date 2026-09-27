@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Rumbidzai Yah; nokuti zvakanaka kuimba rwiyo rwedu kuna Erohimu wedu; nokuti rwiyo runonakidza, runorurama kurumbidza.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kuimba rwiyo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "runonakidza"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "runorurama"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kurumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:55.118252556Z",
+  "model": "glm-5.3"
+}

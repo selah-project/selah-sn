@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 4:3",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye varayirei vachiti: Torai kwamuri kubva pano, mukati meJoridhani, panzvimbo yakamira kwamakombo amaprisita, matombo gumi navaviri; uye mufambisei ⟨את⟩ aya nemi, uye muisirei ⟨את⟩ aya panzvimbo yekugara usiku uno.",
+  "tokens": [
+    {
+      "surface": "וצוו",
+      "gloss": "varayirei"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "varume gumi navaviri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Torai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kubva pano"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Joridhani"
+    },
+    {
+      "surface": "ממצב",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kwamakombo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "amaprisita"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yakamira"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "navaviri"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "mufambisei"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "matombo"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "והנחתם",
+      "gloss": "muisirei"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "matombo"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "panzvimbo yekugara usiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "munogara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku uno"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:29.635802021Z",
+  "model": "glm-5.3"
+}

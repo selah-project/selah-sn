@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akati: Adonai, kana ndikawana nyasha maziso enyu, musapfuure, ndapota, kubva kumushandi wenyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ndikawana"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nyasha"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "maziso enyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "wapfuura"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kumushandi wenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:17.342366648Z",
+  "model": "glm-5.3"
+}

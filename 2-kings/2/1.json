@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvino yakaitika, paYahwe aichitora ⟨את⟩ Eriyahu nemhepo inopoterera yadenga, Eriyahu akaenda naErisha kubva kuGirigari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yakaitika"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "pa...aichitora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eriyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "nemhepo inopoterera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yadenga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "naErisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "kuGirigari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:52.348975100Z",
+  "model": "glm-5.3"
+}

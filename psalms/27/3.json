@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Kana mauto agara pandiri, moyo wangu haungatyi; kana hondo yachimuka pandiri, ndirasaka ndinovimba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "agara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "mauto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "-ngatyi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "yachimuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ndirasaka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "-nvimba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:16.956315175Z",
+  "model": "glm-5.3"
+}

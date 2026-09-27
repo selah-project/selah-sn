@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Abhurahama akati kwaari: Chenjerera ⟨⟨usadaro⟩⟩, kuti usadzose ⟨את⟩ mwanakomana wangu kudzoko ipapo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Chenjerera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "usadaro"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usadzose"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanakomana wangu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kudzoko ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:21.390475594Z",
+  "model": "glm-5.3"
+}

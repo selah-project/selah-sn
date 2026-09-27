@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "akamuraira kwaari pamusoro pechinhu ichi, kuti asafambe mushure mevamwari vamwe; asi haana kuchengeta ⟨את⟩ izvo Yahwe akaraira.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "akamuraira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti asa"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "fambe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vamwari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "vamwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:36.995447437Z",
+  "model": "glm-5.3"
+}

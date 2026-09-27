@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye Moshe akasoonedza ⟨את⟩ Aharoni ne⟨את⟩ vana vake, akazvichambura mvura.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "akasoonedza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "akachambura"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:20.642203294Z",
+  "model": "glm-5.3"
+}

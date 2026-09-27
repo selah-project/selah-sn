@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mwanangu, ukatora mashoko angu, netsarudzo dzangu uka dzichengeta ⟨⟨את⟩⟩ newe —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwanangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukatora"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ukatora"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mashoko angu"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "tsarudzo dzangu"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "uka dzichengeta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe",
+      "marks": "iwe (pamusoro pevanhu)"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:38.855658402Z",
+  "model": "glm-5.3"
+}

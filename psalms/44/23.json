@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Nokuti chako chokuti tinosungirwa kuurawwa zuva rose, tinoverengwa sehove dzekudhirowa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "chako chokuti"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "tinosungirira kuurawwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "tinoverengwa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sehove"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "dzekudhirowa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:11.257583673Z",
+  "model": "glm-5.3"
+}

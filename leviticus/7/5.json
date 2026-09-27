@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye koheni achapisa ⟨אתם⟩ pamizubea, sechipo chinopiswa chaYahwe; ndicho chibairo cheshamu.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "achapisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "izvi (matumbu nemafuta)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheni"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pamizubea"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sechipo chinopiswa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "cheshamu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:35.487765269Z",
+  "model": "glm-5.3"
+}

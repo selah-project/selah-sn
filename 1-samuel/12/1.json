@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Samueri akataura kune Israeru rose: Ona, ndanzwa izwi renyu, pazvinhu zvose zvamataura kundiri, ndikaisa mambo pamusoro penyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeru"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndanzwa"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "izwi renyu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pazvinhu zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "mataura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "ndikaisa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:37.389960742Z",
+  "model": "glm-5.3"
+}

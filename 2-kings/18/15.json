@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Hizikiya akapa ⟨את⟩ sirivha yose yakawanikwa mumba yaYahwe, uye mumaokeri emba yamambo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirivha yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yakawanikwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "uye mumaokeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "emba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yamambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:58.119941946Z",
+  "model": "glm-5.3"
+}

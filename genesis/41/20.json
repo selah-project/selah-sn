@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Mombe dzakaomeka uye dzakaipa dzikadya ⟨את⟩ mombe dzinomwe dzekutanga dzakazara nyama.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "dzikadya"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "dzakaomeka"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "uye dzakaipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mombe dzinomwe dzekutanga dzakazara nyama"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "dzinomwe"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "dzekutanga"
+    },
+    {
+      "surface": "הבריאאת",
+      "gloss": "dzakazara nyama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:32.758610418Z",
+  "model": "glm-5.3"
+}

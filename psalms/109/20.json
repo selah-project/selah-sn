@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Iyi ndiyo mubairo wevapoti vangu kubva ⟨את⟩ kuna Yahwe, nevatauri vezvakaipa pamusoro pemweya wangu.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mubairo"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "wevapoti vangu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kubva kuna Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "nevatauri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zezvakaipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:17.752570577Z",
+  "model": "glm-5.3"
+}

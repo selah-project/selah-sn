@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Pai zvibairo zvechitsvene, uye vivisevere muna Yahwe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Pai"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "zvibairo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "zvechitsvene"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "uye vivisevere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "muna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:15.402950984Z",
+  "model": "glm-5.3"
+}

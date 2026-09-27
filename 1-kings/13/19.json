@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Iye akadzoka ⟨את⟩ ⟨naye⟩, akatidza chikafu mumusha wake, akanwa mvura. ",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzoka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨naye⟩",
+      "marks": "muporofita wechiJudha"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "akatidza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mumusha wake"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "akanwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:11.622885615Z",
+  "model": "glm-5.3"
+}

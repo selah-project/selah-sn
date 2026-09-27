@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Vanokutya ngavadzoke kundiri, navo vazive zvihwiro zvako.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ngavadzoke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "vanokutya"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "navo vazive"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "zvihwiro zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:31.500497510Z",
+  "model": "glm-5.3"
+}

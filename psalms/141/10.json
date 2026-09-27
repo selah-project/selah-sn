@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 141,
+  "translation": "Vakaipa vagohwe muzvirusero zvavo; ndiri ndoga kusvikira ndapfuura.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "vagohwe"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "muzvirusero zvavo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri ndoga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvikira"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ndapfuura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:17.761169919Z",
+  "model": "glm-5.3"
+}

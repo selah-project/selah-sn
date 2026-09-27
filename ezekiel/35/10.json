@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nokuti waingoti: ⟨את⟩ matunhu maviri neĝ⟨את⟩ nyika mbiri dzave ndedzangu, tichadzikinura ⟨את⟩ dzi; asi Yahwe aive ipapo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Nokuti waingoti"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "waingoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matunhu maviri"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "matunhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "nyika mbiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndedzangu"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "dzave"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "tichadzikinura dzi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "asi Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aive"
+    }
+  ],
+  "timestamp": "2026-09-27T08:29:09.338312425Z",
+  "model": "glm-5.3"
+}

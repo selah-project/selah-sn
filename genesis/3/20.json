@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye munhu akadana zita remukadzi wake Havha, nokuti iye aive amai wevose vapenyu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "remukadzi wake"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "aive"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wevose"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vapenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:13.952471693Z",
+  "model": "glm-5.3"
+}

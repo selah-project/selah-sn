@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Yahwe ⟨uri⟩ mukuru, anodarwa zvakanyanya; uye kukuru kwake hakuna muganhu.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "andarwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "uye kukuru kwake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "muganhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:14.797166212Z",
+  "model": "glm-5.3"
+}

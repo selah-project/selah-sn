@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Bvisa kubva pandiri nyadzo nekusaremara, nokuti zvitizvo zvako ndakachengeta.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Bvisa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kubva pandiri"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyadzo"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "nekusaremara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "zvitizvo zvako"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ndakachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:24.790377869Z",
+  "model": "glm-5.3"
+}

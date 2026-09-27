@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uchaita kwairi mhete dzina dzendarama, uye uchaisa ⟨את⟩ mhete dzacho pamakona mana ayo, ari kutsoka dzayo dzina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwairi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "dzina"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dzendarama"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhete dzacho"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "mhete dzacho"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "makona ayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "kuna dzina"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsoka dzayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:04.072107839Z",
+  "model": "glm-5.3"
+}

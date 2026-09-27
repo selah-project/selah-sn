@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Iwe waandidhinda-dhinda kuti ndiwe, asi Yahwe akandibatsira.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "waandidhinda-dhinda"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "kutiundiwe"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "kuti ndiwe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "asi Yahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "akandibatsira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:41.287046799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Mweya waErohimu wakasimba pamusoro paShauro paaanzwa ⟨את⟩ mazwi aya; uye hasha dzake dzakatsvira zvakanyanya.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "wakasimba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "paaanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi aya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dzakatsvira"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hasha dzake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:01.149233995Z",
+  "model": "glm-5.3"
+}

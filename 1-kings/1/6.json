@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Baba wake havana kumushungurudza kubva mazuva ose ake, achiti: “Nei waita saizvozvo?” Uye iye akanga ari wakanaka chiso chaizvo, uye amai vake vakamubereka ⟨את⟩ mushure meAbusharomu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "kumushungurudza"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba wake"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "mazuva ose ake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nei"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waita"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "wakanaka"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "chaizvo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩(iye)",
+      "marks": "Adhoniyah — chinhu chekuita chekuzvarwa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "vakamubereka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abusharomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:56.947927915Z",
+  "model": "glm-5.3"
+}

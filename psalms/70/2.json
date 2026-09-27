@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 70,
+  "translation": "Erohimu, kundiununure; Yahwe, kurumidza kuuya kundibatsira!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "kundiununure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kundibatsira"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kurumidza!"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:13.737776989Z",
+  "model": "glm-5.3"
+}

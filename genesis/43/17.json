@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Munhu akaita sokutaurwa naYosefu, uye munhu akaunza varume ⟨את⟩ mumba kwaYosefu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaurwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "na- (akataura)"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varume"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kwaYosefu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:07.517781385Z",
+  "model": "glm-5.3"
+}

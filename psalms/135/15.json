@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Mhumbi dzenyika ⟨ndi⟩ risipa nedhora, mabasa emaoko emunhu.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "mhumbi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dzenyika"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "risipa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "nedhora"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "emaoko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "emunhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:29.011870006Z",
+  "model": "glm-5.3"
+}

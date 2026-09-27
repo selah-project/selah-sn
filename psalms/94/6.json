@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Mushendi nomuenzi vanouraya, uye nharwa dzinouraya zveutsinye.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mushendi"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "nomuenzi"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "vanouraya"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "uye nharwa"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "dinouraya zveutsinye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:41.851585483Z",
+  "model": "glm-5.3"
+}

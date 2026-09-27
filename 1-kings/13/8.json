@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye munhu waErohimu akati kumambo: Kana ukanipa ⟨את⟩ chikamu cheimba yako, handisi kuyenda newe, handisi kudya chikafu, handisi kunwa mvura munzvimbo ino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ukanipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikamu cheimba yako"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "chikamu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "cheimba yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handisi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kuyenda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "handisi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "handisi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "kunwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimbo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:35.730632077Z",
+  "model": "glm-5.3"
+}

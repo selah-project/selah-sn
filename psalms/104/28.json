@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Ukapa, vanounganidza; ukavhura ruoko rwako, vanadzikwa nezvakanaka.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ukapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kuvavo⟩"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "vanounganidza"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ukavhura"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "vanadzikwa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "nezvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:52.411004751Z",
+  "model": "glm-5.3"
+}

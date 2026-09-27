@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mukai, mukaende; nokuti iyi haisi nzvimbo yezororo; nekuda kwekusvibiswa kwacho kuchaparadza, uye kuparadzwa kunorema.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "mukai"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mukaende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haisi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "nzvimbo yezororo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nekuda kwe"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "kusvibiswa"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "kuchaparadza"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "kuparadzwa"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "kunorema"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:50.611655965Z",
+  "model": "glm-5.3"
+}

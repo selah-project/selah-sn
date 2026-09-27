@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Usatore kubva ⟨את⟩ iye mubereko kana kuwedzera; otya Erohimu wako, kuti mukoma wako agare newe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tore"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kubva ⟨את⟩ iye",
+      "marks": "iye (mukoma wako)"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mubereko"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "kana kuwedzera"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "otya"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "agare"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mukoma wako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:10.346311387Z",
+  "model": "glm-5.3"
+}

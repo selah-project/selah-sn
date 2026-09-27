@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Pashoma ndingaisapotsa vavengi vavo, uye ndingadzosera ruwoko rwangu pamusoro pevasingade vavo.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Pashoma"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "vavengi vavo"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ndingaisapotsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "vasingade vavo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndingadzosera"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruwoko rwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:08.192817584Z",
+  "model": "glm-5.3"
+}

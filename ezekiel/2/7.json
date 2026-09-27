@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye unotaura ⟨את⟩ mazwi anga kwavari, kana vachinzwa kana vachiramba, nokuti vanhu vakamirira ndeavo.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "uye unotaura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi anga"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi anga"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "vachinzwa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "vachiramba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "vakamirira"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndeavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:14:54.720086358Z",
+  "model": "glm-5.3"
+}

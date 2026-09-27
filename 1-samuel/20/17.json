@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Yonathani akawedzera kuisa Dhavhidhi chitsidzo muchida wake ⟨אתו⟩, nokuti aka ⟨את⟩ mweya wake akamuda.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "kuisa chitsidzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "muchida wake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mweya wake (chinhu chaakamuda)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "aka…da"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "akamuda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:57.661554178Z",
+  "model": "glm-5.3"
+}

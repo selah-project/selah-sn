@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Asi chibereko chemhuka, chokutanga chinoberekwa kuna Yahwe, hapana munhu anogona kutsveneisa ⟨אתו⟩; kana mombe kana hwayi, ndechavo chaYahwe ⟨iyo⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "chibereko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cho"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "chinoberekwaokutanga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mumhuka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "anogona kutsveneisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (chibereko)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שה",
+      "gloss": "hwayi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndechavo ⟨iyo⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:16.211657593Z",
+  "model": "glm-5.3"
+}

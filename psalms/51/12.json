@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Moyo mutsvene undisikire, iwe Erohimu, uye Mweya wakagadzikana uiitazve itsva mukati mangu.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "undisikire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨iwe⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "uye Mweya"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "wakagadzikana"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uiitazve itsva"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "mukati mangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:01.692183881Z",
+  "model": "glm-5.3"
+}

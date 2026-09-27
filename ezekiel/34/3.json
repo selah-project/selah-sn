@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "⟨את⟩ mafuta munodya, uye ⟨את⟩ udzi munopfeka; iyo yakaguta munouraya; ⟨את⟩ makwai hamuridzi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "munodya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "udzi"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "udzi"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "munopfeka"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "iyo yakaguta"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "munouraya"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "makwai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamu-"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "-ridzi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:28:50.116171031Z",
+  "model": "glm-5.3"
+}

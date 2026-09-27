@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nokune avo vaiva muCharama, nokune avo vaiva muBori-Ashani, nokune avo vaiva muAtsaki.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "nokune avo"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "muCharama"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "nokune avo"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "muBori-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashani"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "nokune avo"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "muAtsaki"
+    }
+  ],
+  "timestamp": "2026-09-27T06:51:19.186240847Z",
+  "model": "glm-5.3"
+}

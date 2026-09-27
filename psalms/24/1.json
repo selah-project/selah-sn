@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "YaDhavhidhi, chiridzo. KunaYahwe ⟨ndiro⟩ ivhu nezvizara zvayo; nyika, nevagari varimo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "chiridzo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "nezvizara zvayo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "nevagari"
+    },
+    {
+      "surface": "בה",
+      "gloss": "varimo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:56.721365393Z",
+  "model": "glm-5.3"
+}

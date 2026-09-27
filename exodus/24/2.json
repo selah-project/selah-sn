@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye Moshe ngaave ane chokwadi achisvika ega kuna Yahwe; asi iwo havachasviki, uye vanhu havachakwira naye.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "achasvika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havachasviki-kwete"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "havachasviki"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "havachakwira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:24.532321890Z",
+  "model": "glm-5.3"
+}

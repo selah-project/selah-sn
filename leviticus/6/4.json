@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "obvisa ⟨את⟩ hembe dzake, opfeka dzimwe hembe, oburitsa ⟨את⟩ udoyi kure nenharaunda, kunzvimbo yakachena.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "obvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzake"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "hembe dzake"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "opfeka"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "dzimwe"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "oburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udoyi"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "udoyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kure"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "nenharaunda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yakachena"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:27.277832383Z",
+  "model": "glm-5.3"
+}

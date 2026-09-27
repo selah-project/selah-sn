@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Naizvozvo Hanuna akatora ⟨את⟩ varanda vaDhavhidhi, akaora ⟨את⟩ chikamu chepiri chebhere rawo, akadimbura ⟨את⟩ hembe dzavo pakati, kusvika kumagaro avo, akavatumawo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vaDhavhidhi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "vaDhavhidhi"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "akaora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikamu chebhere"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "chikamu chepiri"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "chebhere rawo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "akadimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzavo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "hembe dzavo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "kumagaro avo"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "akavatumawo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:05.950674640Z",
+  "model": "glm-5.3"
+}

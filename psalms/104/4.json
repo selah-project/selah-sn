@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Anoita ⟨את⟩ vatumwa vache mhepo; ⟨את⟩ vaporofita vache moto unopisa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Anoita"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "vatumwa vache"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "vaporofita vache"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להט",
+      "gloss": "unopisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:50.381352325Z",
+  "model": "glm-5.3"
+}

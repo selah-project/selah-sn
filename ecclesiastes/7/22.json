@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti moyo wako unoziva kuti panguwa dzakawanda iwe ⟨את⟩ wo wakatukira vamwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "panguwa"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "dzakawanda"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakatukira"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "wakatukira"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "vamwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:23.597152468Z",
+  "model": "glm-5.3"
+}

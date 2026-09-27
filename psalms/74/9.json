@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Zviratidzo zvedu hatina kuona; hapana achiri muporofita, uye hapana ⟨את⟩ isu anoziva kusvika rinhi.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "zviratidzo zvedu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatina"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "achiri"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ isu",
+      "marks": "isu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מה",
+      "gloss": "rinhi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:15.331431669Z",
+  "model": "glm-5.3"
+}

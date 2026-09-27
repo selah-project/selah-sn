@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye ⟨את⟩ Aroni ne⟨את⟩ vana vake unoita kuti vagariswe mubasa; vachachengeta ↑bumabasa↑ avo ↑bwe↑vanoperera; uye munhu wose asiri we↑mhuri↑ iyoyo anopedza anofa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "unovatarisa"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "vachachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa rekupfugamira"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "basa rekupfugamira"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "mutorwa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "anowedzera"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:32.921107255Z",
+  "model": "glm-5.3"
+}

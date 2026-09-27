@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 130,
+  "translation": "Kana iwe uka chengeta zvakaipa, Yah, Adonai, ndiani angamire?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "uka chengeta"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "angamire"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:01.669020659Z",
+  "model": "glm-5.3"
+}

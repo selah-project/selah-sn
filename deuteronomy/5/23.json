@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvino zvakaitika, pakamboinzwa ⟨את⟩ izwi mukati merima, pagomo richipisa nemoto, makaenda mose makasvika kwandiri, misoro yose yemadzinza enyu nevakuru venyu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvakaitika"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "pakamboinzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "pagomo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "richipisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nemoto"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "makasvika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "misoro ye"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "madzinza enyu"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "nevatakuru venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:33.104454689Z",
+  "model": "glm-5.3"
+}

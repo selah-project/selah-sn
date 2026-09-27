@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Yehoshua akazviitira mabanga emabwe, akatema ⟨את⟩ vana vaIsraeri paChikomo cheZvibande.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "emabwe"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "akatema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Chikomo"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "cheZvibande"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:32.740094909Z",
+  "model": "glm-5.3"
+}

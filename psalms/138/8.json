@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "Yahwe achazadzisa zvinondiitira; Yahwe, hesedhi yako icharamba ichingorerera; mabasa emaoko ako usarege!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "achazadzisa"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "zvinondiitira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "icharamba ichingorerera"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mabasa e"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "maoko ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "rege"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:02.815805823Z",
+  "model": "glm-5.3"
+}

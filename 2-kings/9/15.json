@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 9:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yehoramu mambo akadzoka kunorapwa muYizreeri kubva pamatumbu ndiro raakamurova vaAramu paainorwa ⟨את⟩ Hazayeru mambo waAramu. Yehu akati: Kana upenyu hwenuhri hwuri muri, mutizi ngaasabude kubva muguta kuenda kuudza muYizreeri.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzoka"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoramu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "להתרפא",
+      "gloss": "kunorapwa"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "muYizreeri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "pamatumbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "יכהו",
+      "gloss": "raakamurova"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "vaAramu"
+    },
+    {
+      "surface": "בהלחמו",
+      "gloss": "paainorwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazayeru"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazayeru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "zviripo"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "upenyu hwenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abude"
+    },
+    {
+      "surface": "פליט",
+      "gloss": "mutizi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "לגיד",
+      "gloss": "kuudza"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "muYizreeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:03:29.627689425Z",
+  "model": "glm-5.3"
+}

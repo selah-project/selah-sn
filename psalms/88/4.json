@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Nokuti mweya wangu wazara nematambudziko, upenyu hwangu hwwasvika kuna Sheori.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wazara"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "nematambudziko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuna Sheori"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "hwasvika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:03.531714959Z",
+  "model": "glm-5.3"
+}

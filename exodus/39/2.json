@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Uye akagadzira ⟨את⟩ efodhi: ndarama, tukireti, arugamani, tolaati yeShani, nesheshu rakazvuvarwa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "uye akagadzira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodhi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodhi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tukireti"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "arugamani"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaati"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sheshu"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "rakazvuvarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:37.030666671Z",
+  "model": "glm-5.3"
+}

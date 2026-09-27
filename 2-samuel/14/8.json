@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye mambo akati kumukadzi: Enda kumba kwako, uye ini ndichataurira zvichitemba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "enda"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kumba kwako"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "uye ini"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ndichataurira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "zvichitemba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:56.009867840Z",
+  "model": "glm-5.3"
+}

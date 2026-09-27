@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye Farao haanzwe nekuteerera kwamuri, ndichiisa ⟨את⟩ ruoko rwangu paMitsirayi, ndichabuditsa ⟨את⟩ matonga angu, ⟨את⟩ vanhu vangu, vana vaIsiraeri, kunze kwenyika yeMitsirayi nezvipetero zvikuru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Uye...haanzwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "haanzwe nekuteerera"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwangu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "paMitsirayi"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ndichabuditsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matonga angu"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "matonga angu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunze kwenyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsirayi"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "nezvipetero"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:15.839036470Z",
+  "model": "glm-5.3"
+}

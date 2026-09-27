@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Yudha akati kunaOnani: Enda kune mukadzi womukoma wako, uye muite ⟨yibema⟩, uye usimudzire mbeu yomukoma wako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "kunaOnani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "enda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "womukoma wako"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "muite ⟨yibema⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyeye (mukadzi uyu)"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "usimudzire"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "yomukoma wako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:31.955417466Z",
+  "model": "glm-5.3"
+}

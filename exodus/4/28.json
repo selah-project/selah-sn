@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Mhoze akaudza Aroni ⟨את⟩ mashoko ose aYahwe aakatumwa nawo, ne⟨את⟩ zviratidzo zose aakaraira.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko ose aYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakatumwa nawo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "aakatumwa nawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zviratidzo zose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "zviratidzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakaraira"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "aakaraira iye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:41.130229474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Akataura navo sezvakatungamirirwa ndevana vadiki, achiti: BABA vangu vakaita kuti gare reimwe rinyore rwenyu rureme, asi ini ndichawedzera; baba vangu vakaranga ⟨את⟩ neni nemihasha, asi ini ndicharanga ⟨את⟩ neni nengozi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "sezvakatungamirirwa ndevana vadiki"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vana vadiki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "vakaita rureme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rure rwenyu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "rure rwenyu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ndichawedzera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "rure rwenyu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "vakaranga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ neni",
+      "marks": "neni"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "nemihasha"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ndicharanga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ neni",
+      "marks": "neni"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "nengozi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:16.343892679Z",
+  "model": "glm-5.3"
+}

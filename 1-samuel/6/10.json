@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Varume vakaita saizvozzo; vakatora mombe dziviri dzinopa mukaka, vakadzisunga mugari, uye ⟨את⟩ vana dzawo vakazvivhara mumba.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozzo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dziviri"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dzinopa mukaka"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "vakadzisunga"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "mugari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana dzawo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "vana dzawo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "vakazvivhara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:41.323429918Z",
+  "model": "glm-5.3"
+}

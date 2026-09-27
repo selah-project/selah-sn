@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "ndiri newe panzvimbo dzose waenda, ndinidzinga ⟨את⟩ vavengi vako vose pachiso chako, ndichaita zita rako guru sokureva kwemazita makuru ari munyika.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "panzvimbo dzose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waenda"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "waenda"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "ndinidzinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vako vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pachiso chako"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "sokureva kwezita"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "remakuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:55.468109993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Zvifananidzo zvavo zvini negoridhe, mabasa emaanza evanhu.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Zvifananidzo zvavo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zvini"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negoridhe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "emaanza"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "evanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.560737887Z",
+  "model": "glm-5.3"
+}

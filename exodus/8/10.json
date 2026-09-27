@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Dzakagadzirwa matumbu, matumbu; uye nyika yakashata kunhuwa.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "dzakaunganidzwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "matumbu (tsapira)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "matumbu"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "matumbu"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "yakashata kunhuwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:03.908280241Z",
+  "model": "glm-5.3"
+}

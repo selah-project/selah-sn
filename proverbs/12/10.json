@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mururami anoziva mweya wemhuka yake; asi tsitsi dzevanoshata idzi dzakaipa.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "wemhuka yake"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "tsitsi dze"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vanoshata"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "dzakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:50.577623663Z",
+  "model": "glm-5.3"
+}

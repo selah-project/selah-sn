@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Ndichavadzvanya pachiso chevavengi vake; novanomuvenga ndichavashungurudza.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Ndichavadzvanya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "vavengi vake"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "novanomuvenga"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ndichavashungurudza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:14.993168075Z",
+  "model": "glm-5.3"
+}

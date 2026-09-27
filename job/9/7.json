@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Anorayira ⟨את⟩ zuva, riro rege kubuda; uye anozvinamira ⟨את⟩ nyeredzi.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Anorayira"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "ku zuva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "riro"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "rege kubuda"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "uye"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "nyeredzi"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "anozvinamira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:35:05.724652113Z",
+  "model": "glm-5.3"
+}

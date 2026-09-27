@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Bvisa kubva pandiri murove wako; nehokodo yeruoko rwako ini ndapererwa.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "bvisa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kubva pandiri"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "murove wako"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "nehokodo ye"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ndapererwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:29.742120022Z",
+  "model": "glm-5.3"
+}

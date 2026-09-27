@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Vakauya vose vadzikuru vaIsraeri, uye vaRevi vakasimudza ⟨את⟩ Aroni.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vadzikuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "uye vakasimudza"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vaRevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aroni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Aroni"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:29.838050180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye maprista neporofita nevose vanhu vakanzwa ⟨את⟩ Yeremia ari kutaura ⟨את⟩ mashoko aya mumba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "maprista"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "neporofita"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeremia"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ari kutaura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko aya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:01:07.073699917Z",
+  "model": "glm-5.3"
+}

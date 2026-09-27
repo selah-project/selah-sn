@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye chipotsa rake, zita rake rairo Rehuma; iye zvake akabereka ⟨את⟩ Tebhakha, uye ⟨את⟩ Gahamu, uye ⟨את⟩ Tahhashi, uye ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "uye chipotsa rake"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "zita rake rairo"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Rehuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebhakha"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebhakha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Gahamu"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gahamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Tahhashi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahhashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:23.410900425Z",
+  "model": "glm-5.3"
+}

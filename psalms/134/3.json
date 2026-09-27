@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 134,
+  "translation": "Yahwe agokurukudza kubva muTsiiyoni, iye wakasika ⟨את⟩ matenga noupasi.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "agokurukudza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kubva muTsiiyoni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakasika"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "noupasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:05.028271967Z",
+  "model": "glm-5.3"
+}

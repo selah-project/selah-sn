@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye varume veIsraeri vakazviona kuti vaoma nedambudziko, nokuti vanhu vaisungirwa; uye vanhu vakavanzira mumapoka, mumitsimo, mumatombo, muzvivakwa zvakakwirira, nemumitsime.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Uye varume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vakazviona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vaoma nedambudziko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vowo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "vaisungirwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "vakavanzira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "mumapoka"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "mumitsimo"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "mumatombo"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "muzvivakwa zvakakwirira"
+    },
+    {
+      "surface": "ובבורות",
+      "gloss": "mumitsime"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:11.056809194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye muganhu wakapoteredza ⟨את⟩ uchibva kumaodzanyemba kuHanatoni; uye magumo aro ari mughawi reYifutahi-Eri.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "uye wakapoteredza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uye (muganhu)"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kumaodzanyemba"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "kuHanatoni"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "uye ari"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "magumu aro"
+    },
+    {
+      "surface": "גי",
+      "gloss": "mughawi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifutahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:28:39.804310670Z",
+  "model": "glm-5.3"
+}

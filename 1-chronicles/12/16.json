@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ava ndivo vakazambuka ⟨את⟩ Yorodhani mumwedzi wekutanga, uye wakange wazadza ⟨is⟩ panzvimbo yemabharawo ose awo; vakatiza ⟨את⟩ vese vainzvimbo dzakadzika, kuMabvazuva nekuMadokero.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ava"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vakazambuka"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "vakazambuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorodhani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorodhani"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mumwedzi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wekutanga"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye wakange"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "wazadza"
+    },
+    {
+      "surface": "על",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "mabharawo awo"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vese"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "vainzvimbo dzakadzika"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "kuMabvazuva"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "nekuMadokero"
+    }
+  ],
+  "timestamp": "2026-09-27T10:22:43.527847102Z",
+  "model": "glm-5.3"
+}

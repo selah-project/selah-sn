@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Maziso angu ari nguva dzose kuna Yahwe, nokuti ndivo anoita kuti tsoka dzangu zvinobuda mumambure.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "anoita kuti...zvinobuda"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "mumambure"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "tsoka dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:26.508582378Z",
+  "model": "glm-5.3"
+}

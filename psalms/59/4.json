@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Nokuti tarisa, vakavata kumweya wangu; vanotyisa vakasangana ⟨kurwisa⟩ ini — kwete kupanduka kwangu, uye kwete chitadzo changu, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "vakavata mundima"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumweya wangu"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨kurwisa⟩ ini"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "vanotyisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kupanduka kwangu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye kwete"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "chitadzo changu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:08.736846551Z",
+  "model": "glm-5.3"
+}

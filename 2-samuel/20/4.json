@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Mambo wakati kuna Amasha: “Danidzira kwandiri ⟨את⟩ vanaJudha mumazuva matatu; iwe wo, mira pano.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasha"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "Danidzira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanaJudha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judha"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mumazuva"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe wo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "mira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:00.961355903Z",
+  "model": "glm-5.3"
+}

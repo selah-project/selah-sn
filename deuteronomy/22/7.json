@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Unofanira kusunungura ⟨את⟩ amai, uye vana ⟨את⟩ uzvitore kwauri; kuti zvive zvakanaka kwauri, uye kuti uwanetre mazuva.",
+  "tokens": [
+    {
+      "surface": "שַׁלֵּחַ",
+      "gloss": "kusunungura"
+    },
+    {
+      "surface": "תְּשַׁלַּח",
+      "gloss": "unosunungura"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "amai"
+    },
+    {
+      "surface": "הָאֵם",
+      "gloss": "amai"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "vana"
+    },
+    {
+      "surface": "הַבָּנִים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "תִּקַּח",
+      "gloss": "uzvitore"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יִיטַב",
+      "gloss": "zvive zvakanaka"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "וְהַאֲרַכְתָּ",
+      "gloss": "uwanetre"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:02.124136333Z",
+  "model": "glm-5.3"
+}

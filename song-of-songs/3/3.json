@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Varindi vakufamba-famba muguta vakandiwana: ⟨את⟩ wakada mweya wangu — maona here?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "vakandiwana"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "varindi"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "vakufamba-famba"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakada mweya wangu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "wakada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "maona here?"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:16.655702668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Imba yose yaAhabu ichapera; ndichadzinga kunaAhabu wose anomhanyisa dululu pachuma, wose akavharirwa, newose akasiyirwa, munaIsuraeri.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ichapera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "yaAhabu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndichadzinga"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kunaAhabu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "anomhanyisa dululu"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "pachuma"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "akavharirwa"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "akasiyirwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "munaIsuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:48.012996875Z",
+  "model": "glm-5.3"
+}

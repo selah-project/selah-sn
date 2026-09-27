@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye uchaita nyanga dzacho pamakona mana ake; dzichibva mairi pachayo ndidzo nyanga dzacho; uye uchazadzisa ⟨את⟩ nengorosi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "nyanga dzacho"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "makona ake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dzichibva mairi pachayo"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ndidzo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "nyanga dzacho"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uchazadzisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nengorosi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ngorosi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:01.457062555Z",
+  "model": "glm-5.3"
+}

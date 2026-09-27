@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nomukadzi kana apedza nedsiri kunaYahwe, akasunga chisungo mumba mababa ake, uri umhoka.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "nomukadzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "apedza"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nedsiri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "akasunga"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "chisungo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "mababa ake"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "uri umhoka"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:21.543260549Z",
+  "model": "glm-5.3"
+}

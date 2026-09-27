@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Asi nokuti waomerera ⟨את⟩ vavengi vaYahwe neshoko iri, nomwana wakazvarirwa nawo achafa zvirokwazvo.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "waomerera"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "waomerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vaYahwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vavengi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "neshoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "no"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "wakazvarirwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "afa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "achafa zvirokwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:46.376613828Z",
+  "model": "glm-5.3"
+}

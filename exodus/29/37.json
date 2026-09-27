@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Mazuva nomwe unochengetedza ⟨את⟩ altare, uye unoitsveneza; zvino altare richava chitsvene chetsvenenso; chero chinoshangwa nacho altare chichatsveneka.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "uchengetedza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "unoitsveneza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "chetsvenenso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chero chinhu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chinoshangwa nacho"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "יקדדש",
+      "gloss": "chichatsveneka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:03.188124403Z",
+  "model": "glm-5.3"
+}

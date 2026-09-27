@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Meonotai akazvara ⟨את⟩ Ofora; Sheria akazvara ⟨את⟩ Joabu, baba waGeya-Harashimu; nokuti ⟨ivo⟩ vaive nyanzvi.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofora"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofora"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Sheria"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Geya"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Harashimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "nyanzvi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vaive"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:17.082774227Z",
+  "model": "glm-5.3"
+}

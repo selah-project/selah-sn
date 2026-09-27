@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye muchekeresa ⟨את⟩ nyama yechekero yenu; uye ichava chiratidzo chesungano pakati pangu newe pakati penu.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "uchekeresa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yechekero yenu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "yechekero yenu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uye ichava"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "chesungano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pangu"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "nepakati penu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:26.267983834Z",
+  "model": "glm-5.3"
+}

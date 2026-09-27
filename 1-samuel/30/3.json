@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Dhavhidhi nevarume vake vakasvika kuguta, uye taona — rakapiswa nomoto; madzimai avo, vanakomana avo, nevadziti avo vakatorwa nhapwa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "nevarume vake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "rakapiswa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "madzimai avo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "vanakomana avo"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "nevadziti avo"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "vakatorwa nhapwa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:50.763850059Z",
+  "model": "glm-5.3"
+}

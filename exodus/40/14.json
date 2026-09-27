@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uye ⟨את⟩ vanakomana vake unofanira kuvaswedza pedyo, uye unofanira kuvafukidza ⟨את⟩ vane mahembe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanakomana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vanakomana vake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "unofanira kuvaswedza pedyo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "unofanira kuvafukidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vanakomana vake"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mahembe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:17.560525336Z",
+  "model": "glm-5.3"
+}

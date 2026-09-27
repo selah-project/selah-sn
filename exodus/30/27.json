@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Na⟨את⟩ tafura nenhumbi dzayo dzose, na⟨את⟩ mwenje nenhumbi dzaro, na⟨את⟩ nhandare yezvinhwi;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "tafura"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nhumbi dzayo dzose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nhumbi dzayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "mwenje"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nhumbi dzaro"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "nhumbi dzaro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "nhandare yezvinhwi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nhandare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "yezvinhwi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:17.369425971Z",
+  "model": "glm-5.3"
+}

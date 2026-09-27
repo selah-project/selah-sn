@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Esteri haana kuzivisa ⟨את⟩ ubaba hwake ne⟨את⟩ vanhu vake, sokuda kwaakamurayira Morodhekai; uye ⟨את⟩ murayiro waMorodhekai Esteri akaita, saakanga ari mukoma naye.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "haana"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "kuzivisa"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ubaba hwake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vake"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "waakamurayira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨paari⟩"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodhekai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "murayiro waMorodhekai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "murayiro"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "waMorodhekai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saakanga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ari"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:41.364592497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 20:16",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "nokuti vakaramba mitemo yangu, uye ⟨את⟩ miskongo yangu havanaifamba mairi, uye ⟨את⟩ Shabhata dangu vakazvidzvanyirira, nokuti moyo wavo waitofamba nomashiripiti avo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "vakaramba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "miskongo yangu"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "miskongo yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vaifamba"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mairi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Shabhata dangu"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Shabhata dangu"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "vakazvidzvanyirira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "no"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "mashiripiti avo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wavo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "waitofamba"
+    }
+  ],
+  "timestamp": "2026-09-27T11:11:32.077734387Z",
+  "model": "glm-5.3"
+}

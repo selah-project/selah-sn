@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mhosva yaEfuremu yakasungwa; hutadzi hwake hwakavanzwa.",
+  "tokens": [
+    {
+      "surface": "צָרוּר֙",
+      "gloss": "yakasungwa"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "אֶפְרָ֔יִם",
+      "gloss": "yaEfuremu"
+    },
+    {
+      "surface": "צְפוּנָ֖ה",
+      "gloss": "hwakavanzwa"
+    },
+    {
+      "surface": "חַטָּאתֽוֹ",
+      "gloss": "hutadzi hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:28.965961597Z",
+  "model": "glm-5.3"
+}

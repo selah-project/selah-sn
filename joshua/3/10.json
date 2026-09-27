@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahoshua akati: Ndezino muchaziva kuti Er mupenyu ari mukati meny uye ⟨א⟩ achaputsa-chaputsa pamberi penyu ⟨את⟩ Mukanani, ⟨את⟩ Muhiti, ⟨את⟩ Muhivi, ⟨את⟩ Mupirizi, ⟨את⟩ Mugirigashi, uye Muamori neMuyevusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Ndezino"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "muchaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ari mukati meny"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "uye ⟨א⟩"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "achaputsa-chaputsa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mukanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mukanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Muhiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Muhiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Muhivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Muhivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mupirizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Mupirizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mugirigashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Mugirigashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "uye Muamori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "neMuyevusi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:22:59.666706563Z",
+  "model": "glm-5.3"
+}

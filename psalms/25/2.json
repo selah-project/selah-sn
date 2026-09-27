@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Erohimu wangu, mune wandinovimba; rega ndinyarare; rega vavengi vangu vafarire ⟨pandinhu⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mune"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndinovimba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ndinyarare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "vafarire"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pandinhu⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:25.717516009Z",
+  "model": "glm-5.3"
+}

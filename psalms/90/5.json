@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Wakadonhesa mvura paivo; vakava hope; mambakwerere, sekusununguka kwazvinonoka, uswa hunopfuura.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Wakadonhesa mvura paivo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hope"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vakava"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mambakwerere"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sekusununguka kwazvinonoka"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "hunopfuura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:05.243024577Z",
+  "model": "glm-5.3"
+}

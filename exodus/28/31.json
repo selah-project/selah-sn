@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye unochaita ⟨את⟩ hembe yaefodi yose yakapenywa nechihwihwi tekeleti.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "unochaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe yaefodi"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "yaefodi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekeleti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:01.745125803Z",
+  "model": "glm-5.3"
+}

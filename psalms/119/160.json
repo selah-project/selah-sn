@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Hova yeizwi rako ⟨i⟩ chokwadi; uye nokusingaperi mutemo wose wokururama kwako.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hova"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "yeizwi rako"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "uye nokusingaperi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "wokururama kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:19.703373097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Rumbidzai ⟨את⟩ Yahwe kubva pasi; zvikara zvemugungwa nehudzimu hwose hwemvura.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "zvikara zvemugungwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "hudzimu hwose hwemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:22.774861163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Nokuti Yahwe achatonga ⟨את⟩ vanhu vake, uye achazvidzikinura pamusoro pevaranda vake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pamusoro pe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "achazvidzikinura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:29.011634692Z",
+  "model": "glm-5.3"
+}

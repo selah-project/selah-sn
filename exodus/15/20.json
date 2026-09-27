@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye Miriyamu muporofita, munin'ina waAroni, akatora ⟨את⟩ daro mumusoro wake, uye madzimai ose akabuda mushure make madaro nokutamba.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriwamu"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "muporofita wechikadzi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "munin'una waAroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "waAroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daro"
+    },
+    {
+      "surface": "התף",
+      "gloss": "daro"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "mumusoro wake"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "akaburuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "pashure make"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "nemidaro"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "nekutamba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:12.345948195Z",
+  "model": "glm-5.3"
+}

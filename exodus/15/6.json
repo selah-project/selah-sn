@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Ruoko rwako rwerudyi, Yahwe, rine rukuru nesimba; ruoko rwako rwerudyi, Yahwe, runopwanya muvengi.",
+  "tokens": [
+    {
+      "surface": "יְמִֽינְךָ֣",
+      "gloss": "ruoko rwako rwerudyi"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נֶאְדָּרִ֖י",
+      "gloss": "rine rukuru"
+    },
+    {
+      "surface": "בַּכֹּ֑חַ",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "יְמִֽינְךָ֥",
+      "gloss": "ruoko rwako rwerudyi"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תִּרְעַ֥ץ",
+      "gloss": "runopwanya"
+    },
+    {
+      "surface": "אוֹיֵֽב",
+      "gloss": "muvengi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:42.699631864Z",
+  "model": "glm-5.3"
+}

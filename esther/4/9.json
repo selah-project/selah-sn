@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Hataki akauya, akaudza Estere ⟨את⟩ mashoko aMordhekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataki"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "aMordhekai"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:05.498679577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Nokuti upenyu hwangu hwaperera mune chinema, makore angu mune kudungairira; simba rangu rarwadza nokuipa kwangu, mapfupa angu aramba ose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hwaperera"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "mune chinema"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "makore angu"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "mune kudungairira"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "rarwadza"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "nokuipa kwangu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "mapfupa angu"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "aramba ose"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:54.925238668Z",
+  "model": "glm-5.3"
+}

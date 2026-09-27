@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye vavaki vakayisa masimati e⟨את⟩ dendere raYahwe; uye vakamisa mapristi vakapfekwa, nedzimbeva; uye vaRavhi, vana vaAsafu, nehokoyo dziridzo, kurumbidza ⟨את⟩ Yahwe, nemaoko aDhavhidhi, mambo weIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "vakayisa masimati"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "vavaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dendere raYahwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "dendere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "vakamisa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "vakapfekwa"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "nedzimbeva"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "uye vaRavhi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "vaAsafu"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "nehokoyo dziridzo"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "kurumbidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maoko"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "aDhavhidhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:09:16.523443532Z",
+  "model": "glm-5.3"
+}

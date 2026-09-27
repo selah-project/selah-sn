@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Zvino Paroh apo akapfuresa ⟨את⟩ vanhu, Erohimu haakavatungamirira nenzira yenyika yePelistimha, nokuti yakanga iri pedyo; nokuti Erohimu akati: Kana vanhu vazogumbuka vachiona hondo, ndokudzokera kuMitsriyimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "apo akapfuresa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "-vatungamirira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nenzira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yenyika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "yePelistimha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "iri pedyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yakanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "vazogumbuka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "vachiona"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ndokudzokera"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "kuMitsriyimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:15.682975278Z",
+  "model": "glm-5.3"
+}

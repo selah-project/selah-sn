@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye iye anoseka madzimambo, uye madzishe chinosekwa kwaari; iye anoseka chitremuko chimwe nachimwe, anokumbanidza guruva, uye nadzo anoidzora.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Uye iye"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "anoseka"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "uye madzishe"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "chinosekwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "chimwe nachimwe"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "chitremuko"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "anoseka"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "anokumbanidza"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "guruva"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "uye nadzo anoidzora"
+    }
+  ],
+  "timestamp": "2026-09-27T08:44:45.451297453Z",
+  "model": "glm-5.3"
+}

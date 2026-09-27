@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "ne⟨את⟩ vechiArivadhi, ne⟨את⟩ vechiTsemarri, ne⟨את⟩ vechiChamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vechiArivadhi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "vechiArivadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vechiTsemarri"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "vechiTsemarri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vechiChamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "vechiChamati"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:27.162585579Z",
+  "model": "glm-5.3"
+}

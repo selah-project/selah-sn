@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Muzviitwa zvose izvi vakatadza zvakare, uye havana kutenda kune zvinoshamisa zvake.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Muzviitwa zvose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vakatadza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "kutenda"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "kune zvinoshamisa zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:48.129669764Z",
+  "model": "glm-5.3"
+}

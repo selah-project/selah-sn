@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Ivhu rapa mbesa yaro; Erohimu, Erohimu wedu, atitikomborera.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Ivhu"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "rapa"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "mbesa yaro"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "atitikomborera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:42.609956429Z",
+  "model": "glm-5.3"
+}

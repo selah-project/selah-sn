@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Nerutivi rwechipiri rweMishikani, kune maodzanyemba, mapango makumi maviri.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "nerutivi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "rweMishikani"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "rwechipiri"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kune"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "maodzanyemba"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "mapango"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:46.004276454Z",
+  "model": "glm-5.3"
+}

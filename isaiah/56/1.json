@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Ndokudai kwataurwa naYahwe: Chengetai mutemo, chiitai kutendeka, nokuti kuponeswa kwangu kuri pedyo kwekuuya, nekutendeka kwangu kuzivikanwa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ndokudai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwataurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "Chengetai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "chiitai"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kutendeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "kuri pedyo"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kuponeswa kwangu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kwekuuya"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "nekutendeka kwangu"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "kuzivikanwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:31.864843782Z",
+  "model": "glm-5.3"
+}

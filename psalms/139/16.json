@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Maziso ako akaona chisina maumbirwo changu; uye mabhuku rako ose akanyorwa — mazuva awaumbwa, uye pasina chiri chimwe chavo.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "chisina maumbirwo changu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "Maziso ako"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pa"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "Gwaro rako"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ose"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "akanyorwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "awaumbwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye pasina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chiri chimwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:37.934004706Z",
+  "model": "glm-5.3"
+}

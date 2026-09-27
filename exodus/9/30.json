@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "As for iwe nevashandi vako — ndaziva kuti musingachatyi pachiso paYahwe Erohimu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "nevashandi vako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "musingachatyi"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "musingachatyi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:56.639174192Z",
+  "model": "glm-5.3"
+}

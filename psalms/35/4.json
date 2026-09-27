@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Vanonetswa novanoshangwa vachitsvaka upenyu hwangu; vhadzoke shure, vashungurudzwe vachifunga zvakaipa kwandiri.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "vanonetswa"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "novanoshangwa"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "vachitsvaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "vhadzoke"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "vashungurudzwe"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "vachifunga"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "zvakaipa kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:12.409775737Z",
+  "model": "glm-5.3"
+}

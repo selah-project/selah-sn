@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Vakapfimbwa vane moyo wousimba; vakarara dzoro ravo, uye vose vane masimba havawani maoko avo.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "Vakapfimbwa"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "vane"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo wousimba"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "vakarara"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "dzoro ravo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havawani"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "havawani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vane"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masimba"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.694713560Z",
+  "model": "glm-5.3"
+}

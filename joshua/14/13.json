@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahoshua akamurairira, akapa ⟨את⟩ Chebhuroni kuKaribhi mukorwa waYefunne semugashiro.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "akamurairira"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebhuroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebhuroni"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kuKaribhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "waYefunne"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "semugashiro"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:21.609369147Z",
+  "model": "glm-5.3"
+}

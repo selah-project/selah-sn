@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "ne⟨את⟩ zviratidzo zvake ne⟨את⟩ mabasa ake aakaita mukati meMitsrayimu, kunaFarao mambo weMitsrayimu, negatimu rose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zviratidzo zvake"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "zviratidzo zvake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mabasa ake"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mabasa ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aakaita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kunaFarao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayimu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "negatimu rose"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:41.369813418Z",
+  "model": "glm-5.3"
+}

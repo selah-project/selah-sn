@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Avo vakati: Nerurimi rwedu tichasimba; miromo yedu iri ⟨את⟩ kwatiri; ndiani Adonai paari isu?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "nerurimi rwedu"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "tichasimba"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "miromo yedu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kwatiri",
+      "marks": "miromo yedu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "paari isu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:03.130148280Z",
+  "model": "glm-5.3"
+}

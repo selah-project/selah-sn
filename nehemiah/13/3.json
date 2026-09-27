@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Zvino zvakaitika pavakainzwa ⟨את⟩ tora, vakaparadzanisa vanhu vose vakasanganiswa kubva kuIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvakaitika"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "pavakainzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "vakaparadzanisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vanhu vakasanganiswa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kubva kuIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:16:55.802295615Z",
+  "model": "glm-5.3"
+}

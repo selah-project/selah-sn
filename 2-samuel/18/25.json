@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Muchenjeti akadana, akazivisa kumambo. Mambo akati: Kana ari ega, mashoko akanaka ari mukoma rake. Iye akaendera mberi, achifamba, oswedzera.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "Muchenjeti"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kumambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ari ega"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "mashoko akanaka"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mukoma rake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaendera mberi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "achifamba"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "oswedzera"
+    }
+  ],
+  "timestamp": "2026-09-27T07:01:58.721182826Z",
+  "model": "glm-5.3"
+}

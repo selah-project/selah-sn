@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Sokuda kwezvinhu zvose zvairayira Yahwe ⟨את⟩ Mhoze, ndizvozvo vakaita vana vaIsiraeri ⟨את⟩ basa rose.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sokuda kwezvinhu zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvairayira"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zvairayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndizvozvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "basa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:35.237717248Z",
+  "model": "glm-5.3"
+}

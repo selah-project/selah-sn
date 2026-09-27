@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ndipo vakakanganwa ⟨את⟩ Yahwe Erohimu wavo, ndokuvatengesa mumaoko eSisera, muchinda weuto weHatsori, nemumaoko eVafirishiti, nemumaoko emambo wemuMowabhu; ndipo vakarwa navo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "vakakanganwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wavo"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ndokuvatengesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko e"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "muchinda"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "weuto"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "weHatsori"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nemumaoko e"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafirishiti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nemumaoko e"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wemuMowabhu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:42.098278492Z",
+  "model": "glm-5.3"
+}

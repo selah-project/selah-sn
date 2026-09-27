@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Anonzviziva ani kuti mweya wevana vanhu unokwira kumusoro, uye mweya wemhuka unodzika pasi kuenda ivhu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anzviziva"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "unokwira"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "uye mweya"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "wemhuka"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "unodzika"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kuenda ivhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:35.779331357Z",
+  "model": "glm-5.3"
+}

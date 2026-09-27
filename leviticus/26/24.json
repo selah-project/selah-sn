@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "ndichafambawo ini nokukanirana newe-nyu, uye ndichakurovesai ⟨אתכם⟩ ini pachangu nomwe pamusoro pezvatadzo dzenyu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ndichafambawo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nokukanirana newe-nyu"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "mukukanirana"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ndichakurovesai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "muri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pachanguwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "zvatadzo dzenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:50.218331258Z",
+  "model": "glm-5.3"
+}

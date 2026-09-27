@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ngatiti Er anokonyeza ⟨mutongo⟩, kana kuti Shadai anokonyeza kururama?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "anokonyeza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨mutongo⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana kuti"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "anokonyeza"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:34:42.972281913Z",
+  "model": "glm-5.3"
+}

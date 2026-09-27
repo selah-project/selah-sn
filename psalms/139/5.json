@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Shure nedumberanwa wakandikomberedza, wakaisa ruoko rwako pamusoro pangu.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "nedumberanwa"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "wakandikomberedza"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "wakaisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ruoko rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:49.971071576Z",
+  "model": "glm-5.3"
+}

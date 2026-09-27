@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Sokudzikinura kwaita Yahwe ⟨את⟩ Mhoze, ndokudaro vakaita vana vaIsiraeri, vakapatsanura ⟨את⟩ nyika.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sokudaro"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akadzikinura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokudaro"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "vakapatsanura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T06:27:28.832539643Z",
+  "model": "glm-5.3"
+}

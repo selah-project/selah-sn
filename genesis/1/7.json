@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akaita ⟨את⟩ muviri wemvura, akapatsanura pakati pe⟨the⟩ mvura iri pasi pemuviri wemvura nemvura iri pamusoro pemuviri wemvura; zvakaita saizvozvo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muviri wemvura"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "⟨the⟩ muviri wemvura"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "akapatsanura"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ mvura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "muviri wemvura"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ mvura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "muviri wemvura"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:28.993368398Z",
+  "model": "glm-5.3"
+}

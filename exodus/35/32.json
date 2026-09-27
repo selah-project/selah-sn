@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nekufungira mafungiro ekuita nendarama, nesirivha, nemhangura.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "nekufungira"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mafungiro"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ekuita"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "nendarama"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "nesirivha"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "nemhangura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:24.366395709Z",
+  "model": "glm-5.3"
+}

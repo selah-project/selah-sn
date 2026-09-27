@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye ita nokungwaru kwako, uye usaregedze ukuru hwake hutsike kuna Sheori muchirunwa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uye ita"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "nokungwaru kwako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye usaregedze"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "hutsike"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ukuru hwake"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "muchirunwa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kuna Sheori"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:05.621855244Z",
+  "model": "glm-5.3"
+}

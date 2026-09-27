@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye izvozvi ndichaburitsa ⟨את⟩ nyadzi yake pameso evadiwa vake, uye hapana murume achamununura mumaoko angu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Uye izvozvi"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ndichaburitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyadzi yake"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "nyadzi yake"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pameso"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "evadiwa vake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "achamununura"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mumaoko angu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:06.189221357Z",
+  "model": "glm-5.3"
+}

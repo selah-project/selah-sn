@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 59:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Uye kutonga kwasundwa shure, uye utsvene hwakamira kure; nokuti chokwadi chakatetembera muruwa, uye kururama hakugoni kupinda.",
+  "tokens": [
+    {
+      "surface": "והוסג",
+      "gloss": "uye kwasundwa shure"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kutonga"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "uye utsvene"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "hwakamira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "chakatetembera"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "muruwa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "ונכחה",
+      "gloss": "uye kururama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "kunogoni"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kupinda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:55.977803334Z",
+  "model": "glm-5.3"
+}

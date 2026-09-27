@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nguva yekuzvarwa, uye nguva yekufa; nguva yekudyara, uye nguva yekudzura zvakadyarwa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "yekuzvarwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "למות",
+      "gloss": "yekufa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "yekudyara"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "yekudzura"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "zvakadyarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:01.728174416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yahwe akati kuna Moshe: Ndaona ⟨את⟩ vanhu ava, uye tariza, vanhu vakakakataura (vanhu vane dzora yakakukuta ndiro ⟨ari⟩).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu ava"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye tariza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "vakakakataura"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "dzora yakakukuta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro ⟨ari⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:55.411046169Z",
+  "model": "glm-5.3"
+}

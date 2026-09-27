@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Ndanzwa ⟨את⟩ kunyemerera kwevana vaIsirayeri; taura kwavari, uchiti: Pakati pemadokero muchadya nyama, nemangwana muchazadzikwa nechikafu; uye muchaziva kuti ndini Yahwe Erohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ndanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunyemerera kwevana vaIsirayeri"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "kunyemerera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirayeri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taura"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uchiti"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "madokero"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "nemangwana"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "muchazadzikwa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nechikafu"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "uye muchaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:47.308193587Z",
+  "model": "glm-5.3"
+}

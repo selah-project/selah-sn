@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokuda kwezvitadzo zvaYarobhoamu izvo akatadza, uye izvo akaita kuti ⟨את⟩ Izraere itadze, netsamwiso yake iyo yaakatsamwisa ⟨את⟩ Yahwe, Erohimu waIzraere.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "kwezvitadzo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "zvaYarobhoamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "akatadza"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye izvo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "akaita kuti...itadze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraere"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "netsamwiso yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "yaakatsamwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIzraere"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:36.376593585Z",
+  "model": "glm-5.3"
+}

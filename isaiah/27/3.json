@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Ndimini Yahwe ndinochengeta iye; nguva imwe neimwe ndinoiridzira mvura; kana oda kuwira iyo, usiku nemasikati ndinoichengeta.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndimini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ndinochengeta"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "nguva imwe neimwe"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "ndinoiridzira mvura"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "oda kuwira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "nemasikati"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "ndinoichengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:54.455169895Z",
+  "model": "glm-5.3"
+}

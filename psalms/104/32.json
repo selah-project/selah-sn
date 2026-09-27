@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Anopenya ⟨kuna⟩ ivhu, richigedezema; anokumbamidza makomo, uye anoputa.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "anopenya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "richigedezema"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "anokumbamidza"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "uye anoputa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:16.513591603Z",
+  "model": "glm-5.3"
+}

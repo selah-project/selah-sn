@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "nor for the deadly disease that walks in dark places, nor for the destruction that lays waste at midday.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "urwere inokonzeresa rufu"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "nzvimbo dzine chidima"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "inofamba"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "kunhwina"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "inoparadza"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "nhamba yemasikati"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:09.426529576Z",
+  "model": "glm-5.3"
+}

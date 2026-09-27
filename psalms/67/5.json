@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Marudzi angafarire, angatambe; nokuti iwe unotonga ⟨את⟩ marudzi nokururama, uye marudzi pasi pano unowatungamira. Sela",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "angafarire"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "angatambe"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "unotonga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "nokururama"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "uye marudzi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi pano"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "unowatungamira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:42.609522052Z",
+  "model": "glm-5.3"
+}

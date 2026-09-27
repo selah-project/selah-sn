@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Nokuti iye akataura, zvikanova zvipo; iye akarayira, zvikanmirira zvichiitika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvikanova zvipo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akarayira"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "zvikanmirira zvichiitika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:35.583742618Z",
+  "model": "glm-5.3"
+}

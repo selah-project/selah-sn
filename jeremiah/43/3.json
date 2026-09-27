@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "nokuti Barukhi mukoma waNeriya akukonzeresa ⟨את⟩-iwe pachedu, kuti utipe ⟨את⟩ isedu mumaoko echiiKashidi, kuti vatishe, nokuti kuti vatitumudze ⟨את⟩ isedu kuBhabhironi.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neriya"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "akukonzeresa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pachedu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תת",
+      "gloss": "utipe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "isedu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "echiiKashidi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "kuti vatishe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "isedu"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "nokuti kuti vatitumudze"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "isedu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "kuBhabhironi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:09:45.089011458Z",
+  "model": "glm-5.3"
+}

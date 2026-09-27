@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Simba rangu rakoma sedziro remba; rurimi rwangu rwakamanikidzwa kumaxakanyika; uye wakandisa mumhuronya yorufu.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "rakoma"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sedziro remba"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Simba rangu"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "rurimi rwangu"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "rwakamanikidzwa"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "kumaxakanyika"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "mumhuronya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "yorufu"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "wakandisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:15.599572377Z",
+  "model": "glm-5.3"
+}

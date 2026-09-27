@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti kudzoka kwevasinganzwisi kunovauraya, uye kugara zvakanaka kwevasina chivo kunovaparadza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "kwevasinganzwisi"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "kunovauraya"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "kugara zvakanaka"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kwevasina chivo"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "kunovaparadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:56.749869688Z",
+  "model": "glm-5.3"
+}

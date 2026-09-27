@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 127,
+  "translation": "Sokumiseve muumaoko omurwi, ndokutadzwa vana vechidiki.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Sokumiseve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "muumaoko"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "omurwi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokutadzwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "vechidiki"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:52.068778575Z",
+  "model": "glm-5.3"
+}

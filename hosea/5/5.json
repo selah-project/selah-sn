@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ukudzi kweIsraeri kunozviratidza pachiso chavo; uye Israeri neEfureimu vanotsetungudika muchitadzo chavo; Yahudha wototsetungudika navo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "kunozviratidza"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ukudzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "pachiso chavo"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "uye Israeri"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "neEfureimu"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "vanotsetungudika"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "muchitadzo chavo"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "wototsetungudika"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudha"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:04.030175643Z",
+  "model": "glm-5.3"
+}

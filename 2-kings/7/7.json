@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Saka vakamuka, vakatiza mambakwedza, vakasiya ⟨את⟩ matendi avo, ne⟨את⟩ mahachi avo, ne⟨את⟩ madhongi avo — ⟨את⟩ musasa wose saungaive — vakatiza kupunza mweya wavo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "mambakwedza"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matendi avo"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "matendi avo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mahachi avo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "mahachi avo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madhongi avo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "madhongi avo"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "musasa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "saungaive"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wose"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mweya wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:18.050544676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 61:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 61,
+  "translation": "Nokuti ndini Yahwe, ndinoda chitongwa; ndinovenga kutora zvemvamvu sezvipo zvinopiswa; ndichapa mubairo wavo muchokwadi, uye sungano isingaperi ndichacheka navo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ndinoda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chitongwa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ndinovenga"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "kutora zvemvamvu"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "sezvipo zvinopiswa"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichapa"
+    },
+    {
+      "surface": "פעלתם",
+      "gloss": "mubairo wavo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "muchokwadi"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "isingaperi"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "ndichacheka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:40.875010912Z",
+  "model": "glm-5.3"
+}

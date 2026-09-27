@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Nomunhu mumwe nomumwe wevana vaIsiraeri, nemugari anogara mavari navo, anohwiza zuva rimwe chete remhuka shiri inodyiwa, anocheka ⟨את⟩ damo rayo, achirovera nedhaga.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Nomunhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "mugari"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mavari navo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "hwiza"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "zuva rimwe chete"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "remhuka"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ino"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dyiwa"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "anocheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damo rayo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "damo rayo"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "achirovera"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "nedhaga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:38.349604333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 6:32",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye miuso miviri yaive yemiti yeolivi; iye akacheka pairi mizvokwara — makirubhi, mapamu, neruva ravhurika — akafukidza ndende, nadzikisa ⟨את⟩ ndende pamusoro pemakirubhi napamusoro pemapamu.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "miviri"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "miuso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yemiti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yeolivi"
+    },
+    {
+      "surface": "וקלע",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "mizvokwara"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "makirubhi"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "namapamu"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "neruva"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "ravhurika"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "akafukidza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndende"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nadzikisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "makirubhi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "napamusoro pe"
+    },
+    {
+      "surface": "התמרות",
+      "gloss": "mapamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndende"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndende"
+    }
+  ],
+  "timestamp": "2026-09-27T07:08:12.626468675Z",
+  "model": "glm-5.3"
+}

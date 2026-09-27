@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Handina kugara navanhu vezvenhema, uye navakavanzira ndihandi pinda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "navanhu ve"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "zvenhema"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "uye na"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "vakavanzira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "pinda"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:46.640181972Z",
+  "model": "glm-5.3"
+}

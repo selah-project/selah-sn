@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Waisa mufaro mumoyo wangu, kupfuura nguva yokuti chibage chavo newayini yavo itsva zvaikura.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Waisa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "mumoyo wangu"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "kupfuura nguva yo-"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "chibage chavo"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "newayini yavo itsva"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zvaikura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:15.403314328Z",
+  "model": "glm-5.3"
+}

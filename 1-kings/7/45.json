@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nenzvimbo yemabhangi, pombi dzokucherera mvura, ndiro zvinhu zvose zvaakaita Hhiramu ⟨את⟩ zvive mubhazi, zvose zviito zvaakaita Hhiramu, zvive muchitendero chaYahwe, mushandiri wechiridzwa chaShehoromu, mabhhangi emhando dzose, akatwasuka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ndiro mabhangi"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "ndiro mabhangi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pombi dzokucherera mvura"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "pombi dzokucherera mvura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bidha dzokunwisa"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "bidha dzokunwisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "zvinhu zvose"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "muhhoromo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hhiramu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "shehe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shehoromu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mubhazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mabhhangi"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "akatwasuka"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:12.650323356Z",
+  "model": "glm-5.3"
+}

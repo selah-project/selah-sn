@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ne⟨את⟩ madzimambo ose eTsora, ne⟨את⟩ madzimambo ose eTsidhoni, ne⟨את⟩ madzimambo echitsuwa chino ⟨iri⟩ kunze kwegungwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzimambo ose eTsora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "eTsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzimambo ose eTsidhoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "eTsidhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzimambo echitsuwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "האי",
+      "gloss": "echitsuwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chino"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "kunze kwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:00:04.095145132Z",
+  "model": "glm-5.3"
+}

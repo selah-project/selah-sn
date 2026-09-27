@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Ropafadza, mweya wangu, ⟨את⟩ Yahwe, uye usa kanganwa mabairo ake ose.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ropafadza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usa"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "kanganwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "mabairo ake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:46.608427010Z",
+  "model": "glm-5.3"
+}

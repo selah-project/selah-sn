@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye muranda womunhu mumwe nomwe, wakatengwa nendarama — ukanomutembisa, ipapo anodya mazvo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "womunhu"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "wakatengwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nendarama"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ukanomutembisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (muranda)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "anodya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:25.605711868Z",
+  "model": "glm-5.3"
+}

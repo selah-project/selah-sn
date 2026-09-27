@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Munhu akadya chingwa chevasimba; akatumira kwavari chikafu chokuzadza.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "chevasimba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "akadya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "chokuzadza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:24.177882712Z",
+  "model": "glm-5.3"
+}

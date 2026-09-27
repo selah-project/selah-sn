@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Kune mudzidzirisi, paArumu Rabhen; muzimoro aDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mudzidzirisi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "paArumu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabhen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "muzimoro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:16.188768096Z",
+  "model": "glm-5.3"
+}

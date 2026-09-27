@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ro-Ruhamaha apedza kuyamwa, akazvipinda akabereka mwanakomana.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "apedza kuyamwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ro-Ruhamaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ro-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamaha"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "akazvipinda"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:31.623553665Z",
+  "model": "glm-5.3"
+}

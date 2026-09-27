@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nevasikana vose vainecherechedzo chemoyo, vakasonza nemazvorongo avo, vakazounza izvo vakasonza: ⟨את⟩ utsvubhu, ne⟨את⟩ huruva, ⟨את⟩ tsvuku, ne⟨את⟩ shishi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nevasikana vose"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vasikana"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "vainecherechedzo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "chemoyo"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "nemazvorongo avo"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "vakasonza"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "vakazounza"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "izvo vakasonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utsvubhu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "utsvubhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "huruva"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "huruva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsvuku"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tsvuku"
+    },
+    {
+      "surface": "השני",
+      "gloss": "tsvuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "shishi"
+    },
+    {
+      "surface": "השש",
+      "gloss": "shishi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:34.404885268Z",
+  "model": "glm-5.3"
+}

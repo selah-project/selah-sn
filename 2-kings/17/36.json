@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Asi ⟨את⟩ Yahwe — uyo akasimudza ⟨את⟩ muri kubva munyika yeIjipita nesimba guru noruoko rwakatambanuka — ⟨את⟩ iye muchamutya, iye muchamudzvenegerera, iye muchamupira chibairo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ muri",
+      "marks": "muri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ijipita"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "noruoko"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "rwakatambanuka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muchamutya"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "muchamudzvenegerera"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "muchamupira chibairo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:03:13.805956919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Iye haarwiri nokusingaperi, uye haachengeti hasha dzake zororo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haa- (kwete)"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "-rwiri (kurwisa nhaka)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haa-"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zororo"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "-chengeti (hasha)"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:06.357718868Z",
+  "model": "glm-5.3"
+}

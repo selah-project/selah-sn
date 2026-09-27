@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye ⟨את⟩ yechipiri achaita sechipiro chokupisa sokufanira; uye mupristi achamudzikinura pachitadzo chake awatadza, uye vachamuregererwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yechipiri"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yechipiri"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chipiro chokupisa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sokufanira"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "uye achamudzikinura"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "pachitadzo chake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "awatadza"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "uye vachamuregererwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:02.154543098Z",
+  "model": "glm-5.3"
+}

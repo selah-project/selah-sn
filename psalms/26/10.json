@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "vanhu vanemasango akaipa mumawoko avo, uye ruoko rwavo rurudyi rwazadzwa nehovah;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "vanhu va-"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "mumawoko avo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "masango akaipa"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ruoko rwavo rurudyi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "rwazadzwa"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "nehovah"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:05.094449338Z",
+  "model": "glm-5.3"
+}

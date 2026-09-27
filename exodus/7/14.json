@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Yahwe akataura kuna Moshe: Mwoyo waFarao wakarema, anoramba kuregasa vanhu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "wakarema"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mwoyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "anoramba"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kuregasa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:03.446061822Z",
+  "model": "glm-5.3"
+}

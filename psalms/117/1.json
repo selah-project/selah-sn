@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 117,
+  "translation": "Rumbidzai ⟨את⟩ Yahwe, dzimwe nzvimbo dzose; murumbidzei, marudzi ose.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dzimwe nzvimbo"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "murumbidzei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "marudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:25.312448142Z",
+  "model": "glm-5.3"
+}

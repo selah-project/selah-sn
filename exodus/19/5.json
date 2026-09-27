@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvino naizvozvo, kana muchanzwa kwazvo izwi rangu, uye muchachengeta ⟨את⟩ sungano yangu, muchava seguḻa yangu kubva kuvanhu vose, nokuti pasi rose ndirirangu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino naizvozvo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kukanzwa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "muchanzwa"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "muchachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "muchava"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "seguḻa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva kuvanhu vose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kuvanhu vose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndirirangu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasirose"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:11.000717949Z",
+  "model": "glm-5.3"
+}

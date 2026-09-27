@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Naizvozvo vanhu vangu vachaziva zita rangu; naizvozvo vachaziva munzuva iro kuti ndini ndiri unotaura. Tarisa, ini ndiri pano.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vachaziva"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "zita rangu"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "munzuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kutiri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tarisa, ini ndiri pano"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:37.034260643Z",
+  "model": "glm-5.3"
+}

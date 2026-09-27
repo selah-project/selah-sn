@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye vanhu vatsvene muchava Ine; nyama yakaparadzirwa munzira hamuigoni kuidya — kuimbwa muchaishaura ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "muchava"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ine"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "yakaparadzirwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muchaidya"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kuimbwa"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "muchaishaura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nyama yakaparadzirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:18.872007537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndikati ndiri: huchenjeri hwakanaka kupfuura simba; asi huchenjeri hwomunhu mupenyu hunoremara, uye mashoko ake haanzwi.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hwakanaka kupfuura"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "huchenjeri"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "simba"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "asi huchenjeri hwo"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "munhu mupenyu"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "hunoremara"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "uye mashoko ake"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "haanzwi"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "anzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:39.050584990Z",
+  "model": "glm-5.3"
+}

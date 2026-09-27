@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye ⟨את⟩ vanasikana venyu achatora, kuita vanogadzira zvinonhuhwira, vabiki, nevacheka nyama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanasikana venyu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "vanasikana venyu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "vanogadzira zvinonhuhwira"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "vacheka nyama"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "vabiki"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:36.901206684Z",
+  "model": "glm-5.3"
+}

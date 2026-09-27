@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Rega ave naye anopa hesedhi, rega ave naye anopa nyasha kune nherera dzake.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ave naye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "משך",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ave naye"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "anopa nyasha"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "kune nherera dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:46.344429587Z",
+  "model": "glm-5.3"
+}

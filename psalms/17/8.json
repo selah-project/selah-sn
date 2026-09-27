@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Chengetedza ndiri semunhu mudiki womwanasikana weziso; mumumvuri wevapapiro vako unondiviga.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Chengetedza ndiri"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "semunhu mudiki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "womwanasikana"
+    },
+    {
+      "surface": "עין",
+      "gloss": "weziso"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mumumvuri"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wevapapiro vako"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "unondiviga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:59.646232148Z",
+  "model": "glm-5.3"
+}

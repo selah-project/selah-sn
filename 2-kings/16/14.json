@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 16:14",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Iye ⟨את⟩ altari yenchoma iyi yaive pamberi paYahwe, akaisa kure uye kubva pachiso cheimba, pakati pealtari nepakati peimba yaYahwe, akaiisa pa ⟨its⟩ ruvavi re⟨the⟩ altari, kumaodzanyemba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altari yenchoma"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yenchoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "akaisa kure"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨kubva⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaiisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨iyo⟩",
+      "marks": "ruvavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ruvavi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "kumaodzanyemba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:28.447635402Z",
+  "model": "glm-5.3"
+}

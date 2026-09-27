@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mugariri ndiri munyika; usavande mirairo yako kubva kwandiri.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Mugariri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "vande"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva kwandiri"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mirairo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:11.338718789Z",
+  "model": "glm-5.3"
+}

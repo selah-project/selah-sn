@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Yahwe akateerera izwi raEriya, mweya wemwana udzokera mukati wake, akaaramba aripenyu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akateerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi ra"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriya"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "udzokera"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wemwana"
+    },
+    {
+      "surface": "על",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "akaaramba aripenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:13.465962499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Teerai, makomo, ⟨את⟩ dandaro raYahwe, nedhura dzomadzivamazuva emhuri; nokuti dandaro nderaYahwe navanhu vake, uye neIsraeri achataurirana.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Teerai"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dandaro"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "dandaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "nedhura dzomadzivamazuva"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "dzomadzivamazuva"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "emhuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "dandaro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nderaYahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "uye na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "achataurirana"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:06.869966153Z",
+  "model": "glm-5.3"
+}

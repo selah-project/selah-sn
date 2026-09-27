@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Mozhe naAharon ndokupinda kuna Farao, ndokuita saizvozvo sokutaurwa kwaYahwe; Aharon akaita pasi ⟨את⟩ tsvimbo yake kumusoro pechiso chaFarao nekumusoro pechiso chevaranda vake, ichiva shato.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ndokupinda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ndokuita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaurwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "akaita pasi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsvimbo yake"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tsvimbo yake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kumusoro pechiso cha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "nekumusoro pechiso che"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ichiva"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "shato"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:14.398008259Z",
+  "model": "glm-5.3"
+}

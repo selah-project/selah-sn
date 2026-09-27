@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Akati: Haugoni kuona ⟨את⟩ chiso changu, nokuti munhu haangoni kundiiona nokurarama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ugoni"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso changu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "angoni kundiiona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "nokurarama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:27.874052063Z",
+  "model": "glm-5.3"
+}

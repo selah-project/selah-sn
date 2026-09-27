@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Pamusoro pawo shiri dzedenga dzinogara; pakati pemasisi dzinopa ruzha.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pawo"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dedenga"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "dzinogara"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "masisi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "dzinopa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ruzha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:08.618773526Z",
+  "model": "glm-5.3"
+}

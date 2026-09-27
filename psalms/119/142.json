@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Kururama kwako ⟨⟨ndiko⟩⟩ kururama kwenguva dzose, uye tora yako ⟨⟨ndi⟩⟩ chokwadi.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Kururama kwako"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwenguva dzose"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "uye tora yako"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:05.301256953Z",
+  "model": "glm-5.3"
+}

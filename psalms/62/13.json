@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Uye kwauri, Adonai, ⟨rudzi⟩ rwehesedhi runopiwa; nokuti iwe unodzorera ⟨kune⟩ munhu mumwe nomumwe sezvaakaita.",
+  "tokens": [
+    {
+      "surface": "וּלְךָֽ",
+      "gloss": "uye kwauri"
+    },
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חָ֑סֶד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אַתָּ֨ה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תְשַׁלֵּ֖ם",
+      "gloss": "unodzorera"
+    },
+    {
+      "surface": "לְאִ֣ישׁ",
+      "gloss": "kune munhu"
+    },
+    {
+      "surface": "כְּֽמַעֲשֵֽׂהוּ",
+      "gloss": "sezvaakaita"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:00.985740222Z",
+  "model": "glm-5.3"
+}

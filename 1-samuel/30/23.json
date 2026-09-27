@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Dhavhidhi akati: Musamate izvi, hanzvadzi dzangu; ⟨את⟩ izvo Yahwe akapa kwedu, ndokuchengeta ⟨את⟩ isu, ndokupa ⟨את⟩ bato rakauya kwadiri mumaboko edu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mite"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hanzvadzi dzangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwedu"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ndokuchengeta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ isu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ndokupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "rakauya"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kwadiri"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "mumaboko edu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:53.582705721Z",
+  "model": "glm-5.3"
+}

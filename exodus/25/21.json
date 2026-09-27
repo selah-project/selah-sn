@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uchacha isa ⟨את⟩ chivharo chetsitsi pamusoro petangi, kumusoro; uye mutangi mucho isa ⟨את⟩ chirevo chandichapa kwamuri.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uchacha isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivharo chetsitsi"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "chivharo chetsitsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye mutangi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "mutangi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mucha isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chirevo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "chirevo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ch"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndichapa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:34.755200533Z",
+  "model": "glm-5.3"
+}

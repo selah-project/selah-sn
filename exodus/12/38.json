@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye kunyange boka rakasiyana-siyana revanhu rakakwira ⟨navo⟩, nefuchi nomombe, zvemombe zvinorema zvakanyanya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "uye kunyange"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "boka rakasiyana-siyana revanhu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rakakura"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "rakakwira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "navo (ivo pachavo)"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nefuchi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "nomombe"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "zvemombe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "zvinorema"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:16.535914173Z",
+  "model": "glm-5.3"
+}

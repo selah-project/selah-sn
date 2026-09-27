@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vatende kuna Yahwe nokuda kwahesedhi yake, nezvinoshamisa zvake kuvana vanhu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "vatende"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezvinoshamisa zvake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:00.188680260Z",
+  "model": "glm-5.3"
+}

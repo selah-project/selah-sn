@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye miti yakati kumuti wemhanzi: Uuye iwe, utonge isu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yakati"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "miti"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "kumuti wemhanzi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "uuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe",
+      "marks": "utonge"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "utonge"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:10.193195277Z",
+  "model": "glm-5.3"
+}

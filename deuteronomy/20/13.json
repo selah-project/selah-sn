@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye Yahwe Erohimu wako achapa iyi muguoko rwako, uye unorova ⟨את⟩ varume vose vayo nekumuromo wepanga.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "achapa iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "muguoko rwako"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "uye unorova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varume vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "varume vayo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "panga"
+    }
+  ],
+  "timestamp": "2026-09-27T06:16:27.779818574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Izvi ⟨את⟩ mambo Dhavhidhi akatsveneza kuna Yahwe, pamwe chete nesirivha nendarama aive atora kubva kumadhimbudzvu ose; muEdhomu, muMwoabhu, muvana vaAmoni, muVafiristia, nokuAmareki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Izvi (zvinhu zvose)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "akatsveneza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe chete ne"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "nendarama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aive atora"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atora"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva kwose"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kumadhimbudzvu"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "muEdhomu"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "muMwoabhu"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "muvana va"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "muVafiristia"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "nokuAmareki"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:01.314394927Z",
+  "model": "glm-5.3"
+}

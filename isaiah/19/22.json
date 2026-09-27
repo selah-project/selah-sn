@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye Yahwe acharohwa ⟨את⟩ Muitspama, kurohwa nekuporesa; vachadzoka kuna Yahwe, iye achavaninutsa, achavaporesa.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "acharohwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muitspama"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Muitspama"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kurohwa"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "nekuporesa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "vachadzoka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "achavaninutsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vane"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "achavaporesa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:26.293187892Z",
+  "model": "glm-5.3"
+}

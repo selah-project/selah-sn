@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Nokuti ona, Yahwe achauya nemoto, nemadhongi make sokuputika kwechisveru, kudzorera muridzo wake nokutsamwa, uye mhirizhonga yake nemilenga yemoto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nemoto"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "achauya"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "sokuputika kwechisveru"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "nemadhongi make"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kudzorera"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "nokutsamwa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "muridzo wake"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "uye mhirizhonga yake"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "nemilenga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yemoto"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:55.173031939Z",
+  "model": "glm-5.3"
+}

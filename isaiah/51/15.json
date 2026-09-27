@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Asi ndini Yahwe Erohimu wako, anorwisa gungwa kuti mafashamu ake arire; Yahwe Tsevaoti ndiro zita rake.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Asi ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "anorwisa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "kuti ... arire"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "mafashamu ake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:40.648990647Z",
+  "model": "glm-5.3"
+}

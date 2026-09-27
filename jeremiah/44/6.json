@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 44:6",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Naizvozvo hasha dangu netsamwangu dzakatsitswa, dzikapisa maguta eYudha nemadzinza eYerushalema; ndozvaka dzisara matenga nemarasa, sezvinazarira nhasi.",
+  "tokens": [
+    {
+      "surface": "ותתך",
+      "gloss": "dzakaitswa"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "hasha dangu"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "tsamwangu"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "dzikapisa"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "eYudha"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalema"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "dzakasara"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "nemarasa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sezuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "rino nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:10:09.399952681Z",
+  "model": "glm-5.3"
+}

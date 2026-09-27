@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Aminadhabu akazvara ⟨את⟩ Nahashoni, uye Nahashoni akazvara ⟨את⟩ Sharama.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "uye Aminadhabu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahashoni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahashoni"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "uye Nahashoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sharama"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sharama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:49:13.390465031Z",
+  "model": "glm-5.3"
+}

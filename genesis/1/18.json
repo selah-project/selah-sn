@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokutonga muzuva nousiku, nokupatsanura pakati pechiedza napakati parima; Erohimu akaona kuti zvakanaka.",
+  "tokens": [
+    {
+      "surface": "וְלִמְשֹׁל",
+      "gloss": "nokutonga"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "וּבַלַּיְלָה",
+      "gloss": "nousiku"
+    },
+    {
+      "surface": "וּלֲהַבְדִּיל",
+      "gloss": "nokupatsanura"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הָאוֹר",
+      "gloss": "pechiedza"
+    },
+    {
+      "surface": "וּבֵין",
+      "gloss": "napakati"
+    },
+    {
+      "surface": "הַחֹשֶׁךְ",
+      "gloss": "parima"
+    },
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:19.890944102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yowabhu naAbhishai mukoma wake vakauraya Abhineru, nokuti akauraya ⟨את⟩ Asaheru munin'ina wavo, kuGhibhona, munhondo.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "naAbhishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abhineru"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "המית",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asaheru"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asaheru"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "munin'ina wavo"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "kuGhibhona"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "munhondo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:58.628999278Z",
+  "model": "glm-5.3"
+}

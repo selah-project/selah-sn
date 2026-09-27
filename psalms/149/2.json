@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Israeri anofadzwa nomuene akasika iye; vana vaZioni vanofara nomambo wavo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "anofadzwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "nomuene akasika iye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "vaZioni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "vanofara"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "nomambo wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:13.445241442Z",
+  "model": "glm-5.3"
+}

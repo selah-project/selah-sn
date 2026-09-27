@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Shoromoh akavaka ⟨את⟩ Geezara ne⟨את⟩ Bhethi-Horoni yepasi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geezara"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Geezara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Bhethi-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bhethi"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "yepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:13.756374989Z",
+  "model": "glm-5.3"
+}

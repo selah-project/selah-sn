@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Asi iwe ndiwe iyeye, uye makore ako haaperi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Asi iwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iyeye"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "uye makore ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "aperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:29.588373823Z",
+  "model": "glm-5.3"
+}

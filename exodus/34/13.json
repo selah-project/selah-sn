@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "nokuti ⟨את⟩ mizbecha yavo muchadzikisa, uye ⟨את⟩ matombo avo emachiratidzo muchatsvaura, uye ⟨את⟩ Ashera dzake muchadimbura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbecha yavo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mizbecha yavo"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "muchadzikisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matombo avo emachiratidzo"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "matombo avo emachiratidzo"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "muchatsvaura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera dzake"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Ashera dzake"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "muchadimbura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:31.004821408Z",
+  "model": "glm-5.3"
+}

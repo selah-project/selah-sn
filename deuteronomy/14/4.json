@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Idzi ndidzo mhuka dzamunodya: nhoo, mwana wenhoo, nomwana wembudzi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Idzi"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mhuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dza-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "munodya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nhoo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "wenhoo"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "nomwana"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "wembudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:36.644709340Z",
+  "model": "glm-5.3"
+}

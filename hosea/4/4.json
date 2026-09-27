@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Asi munhu ngaarege kupikisana, uye ngaarege kutsoropodza munhu; nokuti vanhu vavo vakafanana navanopikisana nemupristi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngaarege"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "kupikisana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye ngaarege"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "kutsoropodza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "vakafanana navanopikisana"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "nemupristi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:36.568376373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Musanoputa moto mumisho yenyu yose, muzuva weShabhata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Musano"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "puta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "mumisho yenyu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "weShabhata"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:30.050606977Z",
+  "model": "glm-5.3"
+}

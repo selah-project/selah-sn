@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Maronda angu anhuvara, anyoka, nokuda kweupusikana hwangu.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "anhuvara"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "anyoka"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "maronda angu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "upusikana hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:54.189533223Z",
+  "model": "glm-5.3"
+}

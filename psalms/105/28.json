@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Akatumira rima, nokuita dzima; uye havana kumukana ⟨את⟩ shoko rake.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "nokuita dzima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "kumukana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko rake"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "shoko rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:58.028602263Z",
+  "model": "glm-5.3"
+}

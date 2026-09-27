@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Akatumira munhu rambari pave ⟨נמכר יוסף⟩ — Yosefu akatengeswa seuranda.",
+  "tokens": [
+    {
+      "surface": "שָׁלַח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "לִפְנֵיהֶם",
+      "gloss": "pave"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "munhu rambari"
+    },
+    {
+      "surface": "לְעֶבֶד",
+      "gloss": "seuranda"
+    },
+    {
+      "surface": "נִמְכַּר",
+      "gloss": "akatengeswa"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "Yosefu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:40.571931991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Moyo wangu wakarohwa, wakomaara seuswa, nokuti ndakakanganwa kudya chingwa changu.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "wakarohwa"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "seuswa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "wakomaara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ndakakanganwa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "chingwa changu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:02.946221223Z",
+  "model": "glm-5.3"
+}

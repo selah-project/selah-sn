@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Mitii yaYahwe yakagutsa, kedhari dzaRebanoni iyo yaadzikisa.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "yakagutsa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "Mitii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "kedhari"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "dzaRebanoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "yaadzikisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.181968681Z",
+  "model": "glm-5.3"
+}

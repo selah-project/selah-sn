@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Haticha kuvanza kuvana vavo, kune zuva rinotevera tichataura kurumbidzwa kwaYahwe, nesimba rake, nezvishamiso zvake, izvo akaita.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Haticha"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kuvanza"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "kuvana vavo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kune zuva"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "rinotevera"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "tichataura"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "kurumbidzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "nesimba rake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezvishamiso zvake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:24.335472801Z",
+  "model": "glm-5.3"
+}

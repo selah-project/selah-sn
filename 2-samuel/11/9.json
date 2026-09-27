@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uriya akakotsira mumberi mwegumbo reimba yamambo, ⟨pamwe⟩ ne⟨את⟩ varanda vose vatenzi vake; asi haana kudzika kuenda kumba kwake.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akakotsira"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mumberi mwegumbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yamambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vose vatenzi vake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "vatenzi vake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kudzika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kumba kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:10.151703231Z",
+  "model": "glm-5.3"
+}

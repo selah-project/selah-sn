@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 2:11",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndikamutsa kubva mukomana venyu vave maporofita, uye kubva kuvachena venyu vave vanaziri. Zvino hazvizvozvo here, vana vaIsraeri? ndidzo shoko dzaYahwe.",
+  "tokens": [
+    {
+      "surface": "ואקים",
+      "gloss": "ndikamutsa"
+    },
+    {
+      "surface": "מבניכם",
+      "gloss": "kubva mukomana venyu"
+    },
+    {
+      "surface": "לנביאים",
+      "gloss": "vave maporofita"
+    },
+    {
+      "surface": "ומבחוריכם",
+      "gloss": "uye kubva kuvachena venyu"
+    },
+    {
+      "surface": "לנזרים",
+      "gloss": "vave vanaziri"
+    },
+    {
+      "surface": "האף",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hazvi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "zvozvo here"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndidzo shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "dzaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:09.876682694Z",
+  "model": "glm-5.3"
+}

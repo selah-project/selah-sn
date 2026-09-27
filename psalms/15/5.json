@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Ndarama yake haagoni kupa chinjari, uye mubairo uri pane musungo haatori; anoita izvi haazokambaira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "כַּסְפּוֹ",
+      "gloss": "ndarama yake"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "בְּנֶשֶׁךְ",
+      "gloss": "chinjari"
+    },
+    {
+      "surface": "וְשֹׁחַד",
+      "gloss": "uye mubairo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pane musungo"
+    },
+    {
+      "surface": "נָקִי",
+      "gloss": "mupori"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "לָקַח",
+      "gloss": "tori"
+    },
+    {
+      "surface": "עֹשֵׂה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יִמּוֹט",
+      "gloss": "zokambaira"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:11.871819171Z",
+  "model": "glm-5.3"
+}

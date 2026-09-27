@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Terahi akagara mupenyu makumi manomwe makore, akazvara ⟨את⟩ Avhuramu, ⟨את⟩ Nachori, ne⟨את⟩ Harani.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara mupenyu"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avhuramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avhuramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:58.846015808Z",
+  "model": "glm-5.3"
+}

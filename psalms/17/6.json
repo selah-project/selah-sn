@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Ndiri, ndinokukundidzira iwe, nokuti unondipindura, Er; goroza nzeve dako kandiri, teerera mashoko angu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndiri"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndinokukundidzira iwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "unondipindura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "הט",
+      "gloss": "goroza"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nzeve dako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mashoko angu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:59.645918745Z",
+  "model": "glm-5.3"
+}

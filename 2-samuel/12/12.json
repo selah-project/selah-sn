@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Nokuti iwe wakaita muchivande, asi ini ndichaita ⟨את⟩ chinhu ichi pamberi peIsraeri yose nepamberi pezuva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "muchivande"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinhu ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu ichi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "nepamberi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:15.229963009Z",
+  "model": "glm-5.3"
+}

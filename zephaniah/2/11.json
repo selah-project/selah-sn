@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Yahwe achava anotyisa pamusoro pavo, nokuti achapunza ⟨את⟩ vamwari vose venyika; uye vagari vezviso zvose zvemadzinza vachatambira kwavari, mumwe nomumwe panzvimbo yake.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "anotyisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "achapunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vamwari vose venyika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "vamwari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "vachatambira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "panzvimbo yake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "איי",
+      "gloss": "vagari vezviso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "vemadzinza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:46:50.365534383Z",
+  "model": "glm-5.3"
+}

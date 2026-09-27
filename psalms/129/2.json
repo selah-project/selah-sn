@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 129,
+  "translation": "Zvakanyanya vanditambudza kubva poudiki, asiwo havagone kundikunda.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Zvakanyanya"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "vanditambudza"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kubva poudiki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "asiwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "-vagone"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundikunda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:01.841093854Z",
+  "model": "glm-5.3"
+}

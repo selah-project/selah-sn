@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Yahwe akapisira Dhavhidhi chokwadi; haazodzoka kubva mariri: 'Kubva muchibereko chako ndichaisa pachigaro choushe chako.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "akapisira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "zodzoka"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kubva mariri"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "chibereko chako"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndichaisa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "pachigaro choushe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:06.417757269Z",
+  "model": "glm-5.3"
+}

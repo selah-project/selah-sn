@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Muzuwa iro Adonai achabvisa ⟨את⟩ ruremekedzo rwezvishongedzo zvezutsoka, nezvikwata zvechiso, nezviedza zvemwedzi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Muzuwa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "achabvisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruremekedzo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "zvishongedzo zvezutsoka"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "nezvikwata zvechiso"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "nezviedza zvemwedzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:27.987569747Z",
+  "model": "glm-5.3"
+}

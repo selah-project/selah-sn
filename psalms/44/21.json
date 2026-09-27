@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Kana takakanganwa zita reErohimu wedu, uye tikashambadza ruoko rwedu kune er mutorwa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "takakanganwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "reErohimu wedu"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "uye tikashambadza"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "ruoko rwedu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kune er"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mutorwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:11.256590732Z",
+  "model": "glm-5.3"
+}

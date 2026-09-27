@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Nokuti Yahwe wasarudza ⟨את⟩ Tsiyoni, akaida kuti ive nzvimbo yekugara kwake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wasarudza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "akaida"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "nzvimbo yekugara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:10.253428581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Mweya wake wakanamira Dhinah mwanasikana waYaakobu; akada ⟨את⟩ musikana uye akataura nepamwoyo wemusikana.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "wakanamira"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mweya wake"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Dhinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobu"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "akada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musikana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "musikana"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pamwoyo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wemusikana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:34.130362214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Matenga anonyorera rupfumo rwaEr, uye rakuo rwechiso chinoratidza mabasa emaoko ake.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Matenga"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "anonyorera"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rupfumo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rwaEr"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "uye mabasa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "emaoko ake"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "anoratidza"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakuo rwechiso"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:30.638402304Z",
+  "model": "glm-5.3"
+}

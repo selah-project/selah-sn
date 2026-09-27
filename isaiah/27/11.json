@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Panhowa zviyo zvacho, dzichapwanywa; madzimai vachauya, vachipisa ⟨את⟩⟨iyo⟩; nokuti haasi vanhu vane kuziva, naizvozvo avo vakamusiya haazomuregerera nyadzo, uye Musiki wake haazomutenderera nyasha.",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "Panhowa"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "zviyo zvacho"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "dzichapwanywa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "באות",
+      "gloss": "vachauya"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "vachipisa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩⟨iyo⟩",
+      "marks": "iyo (masango ayo)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "vane kuziva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uri"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazo-"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "-muregerera nyadzo"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "avo vakamusiya"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "uye Musiki wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazo-"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "-mutenderera nyasha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:23.778464691Z",
+  "model": "glm-5.3"
+}

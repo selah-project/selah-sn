@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Yahwe anopa simba kuvanhu vake; Yahwe anoropafadza ⟨את⟩ vanhu vake nerunyararo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kuvanhu vake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "anoropafadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "nerunyararo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:21.978012194Z",
+  "model": "glm-5.3"
+}

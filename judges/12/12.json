@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Eroni weZevuruni akafa, akavigwa muAiyaroni, munyika yeZevuruni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Eroni"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "weZevuruni"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akavigwa"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "muAiyaroni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "yeZevuruni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:36.569357498Z",
+  "model": "glm-5.3"
+}

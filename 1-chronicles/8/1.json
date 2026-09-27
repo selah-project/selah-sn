@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye Binjaminga akabereka ⟨את⟩ Berega, chimotsi chake; Ashuberi, chechipiri; uye Aharahi, chechitatu.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Uye Binjaminga"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Berega"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Berega"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "chimotsi chake"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashuberi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "chechipiri"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "uye Aharahi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "chechitatu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:55.892695228Z",
+  "model": "glm-5.3"
+}

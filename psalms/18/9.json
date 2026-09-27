@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Utsi hwekwaita mukunhu kwake, nomoto kubva mumukanwa wake unodya; marasvadzi oiswa moto nayo.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "hwekwaita"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "utsi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "mukunhu kwake"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "kubva mumukanwa wake"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "unodya"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "marasvadzi"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "oiswa moto"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:51.162617246Z",
+  "model": "glm-5.3"
+}

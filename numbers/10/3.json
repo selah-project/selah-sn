@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye kana vaka dzinza nazi, hurumende yose ichaunganidzirwa kwazviri kumusuo wechihema chokutangirwa.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "vaka dzinza nazi"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "ichaunganidzirwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwazviri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hurumende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "musuo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wechihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "chokutangirirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:00.040458392Z",
+  "model": "glm-5.3"
+}

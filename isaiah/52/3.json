@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Nokuti ndokuti kudai Yahwe: munotengeswa pasina muripo, uye munodzikinurwa pasina ndarama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kudai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pasina muripo"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "munotengeswa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye pasina"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "munodzikinurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:25.409720328Z",
+  "model": "glm-5.3"
+}

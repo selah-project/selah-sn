@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Unodzorera dombo remunondo wake, uye wakamusatsimbaradza muhondo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "uyye"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "unodzorera"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dombo"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "remunondo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hau"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "wakamusatsimbaradza"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "muhondo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:18.425891229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Nokuti Yahwe akavhara zvakananga matumbu ose emumba yaAbhimeleki, nokuda kweSara, mukadzi waAbhurahama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "zvakananga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨pamusoro pe⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "matumbu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "emumba ya"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimeleki"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨chiitwa⟩"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:40.852767046Z",
+  "model": "glm-5.3"
+}

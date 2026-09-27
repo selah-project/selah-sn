@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye nyika yaisingagoni kuwavatakura vachigara pamwe chete, nokuti upfumi hwavo hwaiva hwakawanda, uye havana kukwanisa kugara pamwe chete.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye kwete"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kutakura"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo",
+      "marks": "Avhuramu naLoti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hwaiva"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "upfumi hwavo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hwakawanda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kukwanisa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:42.224596129Z",
+  "model": "glm-5.3"
+}

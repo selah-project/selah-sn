@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Yahwe akati: Anonzwa kunyengedza ⟨את⟩ Ahabhu, kuti aanwe azofonera kudonha kuna Ramoti Giriadhi? Uye umwe akati zvakadai, umwe akati zvakadai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anonza"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "kunyengedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabhu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "aanwe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "azofonera kudonha"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "kuna Ramoti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giriadhi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "זה",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "zvakadai"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "zvakadai"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:37.330567313Z",
+  "model": "glm-5.3"
+}

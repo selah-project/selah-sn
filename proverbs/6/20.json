@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mwanangu, chengetedza mirairo yababa wako, uye usarega tora yaamai wako —",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "chengetedza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "yababa wako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usa"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "rega"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yaamai wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:23.658774014Z",
+  "model": "glm-5.3"
+}

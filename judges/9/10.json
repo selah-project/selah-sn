@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye miti yakati kumuti wefiki: Uuye iwe, utonge isu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yakati"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "miti"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "kumuti wefiki"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "uuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "iwe",
+      "marks": "utonge"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "utonge"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:10.192787720Z",
+  "model": "glm-5.3"
+}

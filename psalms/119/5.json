@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mangwanani ndinoshuvira kuti nzira dzangu dzigadziriswe dzichengete mirairo yako.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ndinoshuvira"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "dzigadziriswe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira dzangu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "dzichengete"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mirairo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:50.188513892Z",
+  "model": "glm-5.3"
+}

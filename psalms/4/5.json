@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvimbatukai, uye musatadze; taurai mumoyo menyu pamubhedha menyu, uye nyararai. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Zvimbatukai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye musa-"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "tatadze"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "taurai"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "mumoyo menyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "mubhedha menyu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "uye nyararai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:15.402671806Z",
+  "model": "glm-5.3"
+}

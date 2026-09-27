@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye hondo yakange ilipo pakati peAsa nepakati peBaasha, mambo weIsuraeri, mazuzuva oke avo.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Uye hondo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yakange ilipo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mazuzuva oke"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "avo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:22.457889004Z",
+  "model": "glm-5.3"
+}

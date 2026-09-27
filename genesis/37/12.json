@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Vavanuna vake vakaenda kurisha ⟨את⟩ mbudzi dzababa vavo muShikemu.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "vakaenda"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vavanuna vake"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kurisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbudzi dzababa vavo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "dzababa vavo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "muShikemu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:10.564647108Z",
+  "model": "glm-5.3"
+}

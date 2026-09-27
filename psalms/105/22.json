@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Kusunga madzimambo ake pafungwa yake, uye vakuru vake akavadzidzisa ungwaru.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kusunga"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "madzimambo ake"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "pafungwa yake"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "uye vakuru vake"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "akavadzidzisa ungwaru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:16.797374854Z",
+  "model": "glm-5.3"
+}

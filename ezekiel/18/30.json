@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 18:30",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Naizvozvo, mumwe nomumwe sezviri munzira dzake ndichatonga ⟨את⟩ imi, mbumba yeIsraeri, ndizvo raAdonai Yahwe. Dzokai, uye dzokai kure nematadzo enyu ose; kuti mhosva yenyu isave kukudonhedzai.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "sezviri munzira dzake"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ndichatonga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi, mbumba yeIsraeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mbumba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yeIsraeri"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndizvo ra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Dzokai"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "uye dzokai kure"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ne… ose"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "matadzo enyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti… isa-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "-ve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-nyu"
+    },
+    {
+      "surface": "למכשול",
+      "gloss": "kukudonhedzai"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    }
+  ],
+  "timestamp": "2026-09-27T08:22:22.806040195Z",
+  "model": "glm-5.3"
+}

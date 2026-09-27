@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Ngehungwaru hwako nokuonzanisa kwako wakazviwanira hupfumi, uye wakawana ndarama nesirivha muzvitoro zvako.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "ngehungwaru hwako"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "nokuonzanisa kwako"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwaziri"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hupfumi"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "uye wakaita"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "nesirivha"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "muzvitoro zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:26:48.986621094Z",
+  "model": "glm-5.3"
+}

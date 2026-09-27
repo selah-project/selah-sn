@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Kubva mumuromo mwevana vadiki nevayamwisa, wakasimbisa simba, nokuda kwevavengi vako, kuti udzikise muvengi nemupinduki.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "kubva mumuromo"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "mwevana vadiki"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "nevayamwisa"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "wakasimbisa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "kuti udzikise"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "nemupinduki"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.032797941Z",
+  "model": "glm-5.3"
+}

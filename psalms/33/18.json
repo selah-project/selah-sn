@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Taona! Ziso raYahwe riri kuvanotyaira, kuvachindirira hesedhi yake.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taona!"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "riri kuna"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kuvanotyaira"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kuvachindirira"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.282147272Z",
+  "model": "glm-5.3"
+}

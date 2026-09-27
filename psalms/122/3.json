@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 122,
+  "translation": "Yerushalema, iyi yakavakwa seguta rakabatana parayo pamwe chete.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "yakavakwa"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "seguta"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "rakabatana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "parayo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:08.560227197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Mupristi anotora ⟨את⟩ mkwai mumwe chete, oipi ⟨את⟩ iye seashamu, n⟨את⟩ logi rimwe mafuta; akazunza ⟨את⟩ ivo — kuzunzwa — pachiso peYahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "anotora"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkwai mumwe chete"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mkwai"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "mumwe chete"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "oipi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "iye (mkwai)"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "seashamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "rimwe mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "akazunza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo",
+      "marks": "ivo (mkwai nelogi)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "kuzunzwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:59.756897622Z",
+  "model": "glm-5.3"
+}

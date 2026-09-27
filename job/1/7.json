@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akati kuna Satani: Wabva kupi? Satani akapindura ⟨את⟩ Yahwe, akati: Kubva kutenderera munyika, nokufamba-famba mukati mayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kubva kupi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "wauya"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "kutenderera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "nokufamba-famba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mukati mayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:33:35.290659763Z",
+  "model": "glm-5.3"
+}

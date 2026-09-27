@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Unomuita kuti atunge mabasa emawoko ako; zvose wakaisa pasi petsitsa dzake.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "unomuita kuti atunge"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "mabasa e"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mawoko ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "wakaisa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsitsa dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:23.908250583Z",
+  "model": "glm-5.3"
+}

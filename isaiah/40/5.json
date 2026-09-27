@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uye kukudzwa kwaYahwe kuchaonekwa, uye nyama yose ichaona pamwe chete, nokuti muromo waYahwe wataura.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "kuchaonekwa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kukudzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "uchaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wataura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:53.050155295Z",
+  "model": "glm-5.3"
+}

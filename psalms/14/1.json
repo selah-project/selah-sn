@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Kune muteedzeri; ndima yaDhavhidhi. Ipwa rakati mumoyo rwavo: Hakuna Erohimu. Vanoparadza, vanoita mabasa anoita kunyadzisa; hakuna anoita zvakanaka.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune muteedzeri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rakati"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Ipwa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mumoyo rwavo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Vanoparadza"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "vanoita kunyadzisa"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "mabasa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:55.561020633Z",
+  "model": "glm-5.3"
+}

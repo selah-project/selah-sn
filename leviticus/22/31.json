@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye muchengete mirairo yangu, muite ⟨את⟩; ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Uye muchengete"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mirairo yangu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "muite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yangu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:02.712747744Z",
+  "model": "glm-5.3"
+}

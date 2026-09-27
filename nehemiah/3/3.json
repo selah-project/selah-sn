@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye ⟨את⟩ gota rehove vakarivaka vavanakomana vaHasenaa; iwo vakaisa ⟨madarira⟩ aro, vakamisa matauro aro, mishumo yaro nemihasha yaro.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gota rehove"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gota"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "rehove"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "vakarivaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vavanakomana"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "vaHasenaa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "vakaisa madarira aro"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "vakamisa"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "matauro aro"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "mishumo yaro"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "nemihasha yaro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:13:19.736824802Z",
+  "model": "glm-5.3"
+}

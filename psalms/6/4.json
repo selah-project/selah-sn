@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye mweya wangu wakagwamba zvakanyanya; asi iwe, Yahwe ⟨את⟩ — kusvika rinhi?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "uye mweya wangu"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "wakagwamba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rini"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:13.908558657Z",
+  "model": "glm-5.3"
+}

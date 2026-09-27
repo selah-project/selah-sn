@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye ⟨את⟩ varanda venyu, ⟨את⟩ vanhandzana venyu, ⟨את⟩ vakomana venyu vakanyanya kunaka, ⟨את⟩ madhongi enyu achatora, uye achavaita mabasa ake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "varanda venyu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "varanda venyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhandzana venyu"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "vanhandzana venyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vakomana venyu"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "vakomana venyu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "vakanyanya kunaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madhongi enyu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "madhongi enyu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "achavaita"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "mabasa ake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:36.901798219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Vakafara munhu ane simba rake muri iwe; nzira dziri mumoyo yavo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Vakafara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rake"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri iwe"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "mumoyo yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:54.461200084Z",
+  "model": "glm-5.3"
+}

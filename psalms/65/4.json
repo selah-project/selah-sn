@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Mashoko etadzo akakunda iini; mhandu dzedu ndiwe unozvigadzirira.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "etadzo"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "akakunda"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iini"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mhandu dzedu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "unozvigadzirira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:55.068984184Z",
+  "model": "glm-5.3"
+}

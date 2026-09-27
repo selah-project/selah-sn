@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Mweya wangu wane nyota yaErohimu, yaEr mupenyu; ndichapota rinhi ndikauva ndikaona chiso chaErohimu?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "wane nyota"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "yaEr"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ndikauva"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndikaona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "chaErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:08.066334911Z",
+  "model": "glm-5.3"
+}

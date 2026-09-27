@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Teerai, zvitsuwa, kundiri; uye nzwisai, marudzi, kure: Yahwe akandidana mudumbu; mudumbu maamai vangu akayeuchidza zita rangu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Teerai"
+    },
+    {
+      "surface": "איים",
+      "gloss": "zvitsuwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "nzwisai"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mudumbu"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "akandidana"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "mudumbu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amai vangu"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "akayeuchidza"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "zita rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:24.932267563Z",
+  "model": "glm-5.3"
+}

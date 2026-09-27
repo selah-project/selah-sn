@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mirairo yako ⟨ndinogadzira⟩; ⟩⟨ndinokupa⟩ ⟨zvakanyanya⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ndinogadzira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usinga"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ndisiye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:50.189148520Z",
+  "model": "glm-5.3"
+}

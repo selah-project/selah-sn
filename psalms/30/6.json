@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nokuti mukanwa makashama hasha dzake; upenyu mune mufaro wake; kuchema kunogara manheru, asi mambakwedza rinouya nerinogaro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "mukanwa makashama"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "hasha dzake"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "upenyu"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "mufaro wake"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "manheru"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "kunogara"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "kuchema"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "mambakwedza rinouya"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rinogaro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:43.616607832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mwari evanhu venyika, avo madzibaba vangu akaparadza — ⟨את⟩ Gozana, ⟨את⟩ ne⟨את⟩ Harana, neRetsefu, nevana veEdhena vari muTerase — ndeapi here avo akatapukidza?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "ndeapi here avo akatapukidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "avo (vanhu venyika)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Mwari"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "evanhu venyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "akaparadza"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "madzibaba vangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozana"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozana"
+    },
+    {
+      "surface": "ו",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harana"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "neRetsefu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nevana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "veEdhena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vari"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "muTerase"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:03.383573223Z",
+  "model": "glm-5.3"
+}

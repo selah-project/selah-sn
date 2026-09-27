@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Rehavamu akaenda kuShekemu, nokuti kuShekemu kwaita Israeri yose kumugadza ⟨את⟩ mambo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamu"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "kuShekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kwaita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kumugadza mambo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (mambo)"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:20.266213168Z",
+  "model": "glm-5.3"
+}

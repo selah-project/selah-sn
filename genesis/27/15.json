@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye Ribka akatora ⟨את⟩ hembe dzake Esavu mukuru wake, dzakaropafadzwa, ⟨את⟩ dzaiiri pamusha, ndokuvhotsa ⟨את⟩ Jakobo mukomanana wake.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzake Esavu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "wake"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "dzakaropafadzwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dzaiiri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "pamusha"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "ndokuvhotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobo mukomanana wake"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mukomanana"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:47.672941994Z",
+  "model": "glm-5.3"
+}

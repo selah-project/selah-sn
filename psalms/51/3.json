@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Ndichenere, iwe Erohimu, sezvaunoda ⟨hesedhi⟩ yako, sezvakawanda tsitsi dzako, dzima zvitadzo zvangu.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndichenere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sezvaunoda ⟨hesedhi⟩ yako"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sezvakawanda"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tsitsi dzako"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "dzima"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "zvitadzo zvangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.720670789Z",
+  "model": "glm-5.3"
+}

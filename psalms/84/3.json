@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Mweya wangu woshayika, zvakare wapedza simba, nokuda pemadzimba emukati aYahwe; moyo wangu nomuumbwa wangu zvinoimba nokufadza kuna Er mupenyu.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "woshayika"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "wapedza simba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "nokuda pemadzimba emukati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "nomuumbwa wangu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zvinoimba nokufadza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:59.886040095Z",
+  "model": "glm-5.3"
+}

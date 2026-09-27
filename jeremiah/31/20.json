@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 31:20",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Kana mwanakomana wakakosha kwandiri ⟨ndi⟩Aferimi, mwana wofadza? Nokuti nguva dzose ndandimuṋa, ndinorangarira ⟨את⟩ zve; naizvozvo matumbu angu anodambuka kwake; ndinonyaradzira, ndichamunyaradzirazve, chivande chaYahwe.",
+  "tokens": [
+    {
+      "surface": "הבן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "יקיר",
+      "gloss": "wakakosha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Aferimi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שעשעים",
+      "gloss": "wofadza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ndandimuṋa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ndinorangarira",
+      "marks": "⟨את⟩ zve (Aferimi)"
+    },
+    {
+      "surface": "אזכרנו",
+      "gloss": "ndichamurangarira"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zve"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "המו",
+      "gloss": "anodambuka"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "matumbu angu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ndinonyaradzira"
+    },
+    {
+      "surface": "ארחמנו",
+      "gloss": "ndichamunyaradzirazve"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "chivande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:20.658789987Z",
+  "model": "glm-5.3"
+}

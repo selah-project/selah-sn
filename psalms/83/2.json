@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Erohimu, usatsungirira zvokwadi, usanyarara, uye usazorora, iwe Er.",
+  "tokens": [
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "דֳּמִ֥י",
+      "gloss": "tsungirira"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "zvokwadi"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תֶּחֱרַ֖שׁ",
+      "gloss": "nyarara"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "uye usa"
+    },
+    {
+      "surface": "תִּשְׁקֹ֣ט",
+      "gloss": "zorora"
+    },
+    {
+      "surface": "אֵֽל",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:15.646806866Z",
+  "model": "glm-5.3"
+}

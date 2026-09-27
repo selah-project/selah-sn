@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Munhu mune rukudzo, uye haanzwisise — akafanana nezvipfuwo, zvaparadzwa.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "mune rukudzo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haanzwisise"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "haanzwisise"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "akafanana"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "nezvipfuwo"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zvaparadzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:15.855512162Z",
+  "model": "glm-5.3"
+}

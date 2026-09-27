@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Israeri rakanda zvakanaka; muvengi achamuteverera.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "rakanda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "achamuteverera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:43.113763348Z",
+  "model": "glm-5.3"
+}

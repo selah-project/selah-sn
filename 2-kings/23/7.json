@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Akaputsa ⟨את⟩ mba dzemakedishimu ari mumba maYahwe, apo madzimai aisorera ikoko matente eAshera.",
+  "tokens": [
+    {
+      "surface": "וַיִּתֹּץ֙",
+      "gloss": "akaputsa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mba dzemakedishimu"
+    },
+    {
+      "surface": "בָּתֵּ֣י",
+      "gloss": "mba"
+    },
+    {
+      "surface": "הַקְּדֵשִׁ֔ים",
+      "gloss": "dzemakedishimu"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "maYahwe"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "הַנָּשִׁ֗ים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "אֹרְג֥וֹת",
+      "gloss": "aisorera"
+    },
+    {
+      "surface": "שָׁ֛ם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "בָּתִ֖ים",
+      "gloss": "matente"
+    },
+    {
+      "surface": "לָאֲשֵׁרָֽה",
+      "gloss": "eAshera"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:30.159854281Z",
+  "model": "glm-5.3"
+}

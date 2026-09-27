@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Sokudzikinurwa kwaErohimu ⟨את⟩ Sodhoma ne⟨את⟩ Gomora ne⟨את⟩ vakidzani vayo, ndizvo zvinotaurwa naYahwe: hapana murume achagara ipapo, kana mwanakomana womunhu achagaramo.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "sokudzikinurwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kwaErohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodhoma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodhoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Gomora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vakidzani vayo"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "vakidzani vayo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndizvo zvinotaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "achagaramo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mukati make"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana wo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:12:38.425264039Z",
+  "model": "glm-5.3"
+}

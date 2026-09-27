@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti tsamba gumi dzembindamiti dzichaita bhathi imwe chete, uye mbeu yechomeru ichaita ipha imwe chete.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "tsamba"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "dzembindamiti"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "dzichaita"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bhathi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imwe chete"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "uye mbeu"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "yechomeru"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ichaita"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ipha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:03.904262195Z",
+  "model": "glm-5.3"
+}

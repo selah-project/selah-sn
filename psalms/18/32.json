@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti ndiani Eroha kunze kwaYahwe? Uye ndiani ibwe kunze kwaErohimu vedu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eroha"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "kunze kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "uye ndiani"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ibwe"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kunze kwa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu vedu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:19.266131061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Usatya kana munhu apfuma, kana mbiri yemba yake yawedzera;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "apfuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "yawedzera"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "yemba yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:01.846459588Z",
+  "model": "glm-5.3"
+}

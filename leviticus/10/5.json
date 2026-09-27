@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Vakaendera mberi, vakashatura ⟨את⟩ vakafa mumarishi avo, kusvika kunze kwenharaunda, sokutaura kwaakataura Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "vakaendera mberi"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "vakashatura"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "mamarishi avo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwenharaunda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:22.441986174Z",
+  "model": "glm-5.3"
+}

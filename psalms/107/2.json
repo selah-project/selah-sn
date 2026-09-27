@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vanodzikinurwa naYahwe vaudze izvi, avo akadzikinura ⟨את⟩ kubva ruoko remunhu ane shungu.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "vauudze"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "vanodzikinurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "akadzikinura ⟨את⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva ruoko"
+    },
+    {
+      "surface": "צר",
+      "gloss": "remunhu ane shungu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:05.562430984Z",
+  "model": "glm-5.3"
+}

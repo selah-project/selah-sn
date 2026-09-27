@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Anorevera zvitadzo zvako zvose, anorapa zvirwere zvako zvose.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "anorevera"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "zvitadzo zvako"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "anorapa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "zvirwere zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:46.608613152Z",
+  "model": "glm-5.3"
+}

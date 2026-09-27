@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Muromo rwavari, asi havatauri; maziso avo, asi haona.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "rwavari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "havatauri"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "avo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "haona"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.721885524Z",
+  "model": "glm-5.3"
+}

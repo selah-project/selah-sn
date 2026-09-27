@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 84,
+  "translation": "Chinodzivirira chedu, tarira, Erohimu, uye ona ⟨chiso⟩ chaMashiach wako.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "chinodzivirira chedu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "uye ona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "chaMashiach wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:18.864651643Z",
+  "model": "glm-5.3"
+}

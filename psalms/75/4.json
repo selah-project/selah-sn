@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Pasi nemhuri yose dziri pairi dzinonyunguduka; ndini ndakamisikidza mativi aro.» Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "dzinonyunguduka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Pasi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevagari vose"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "vari pairi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ndakamisikidza"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "mativi aro"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:00.846080931Z",
+  "model": "glm-5.3"
+}

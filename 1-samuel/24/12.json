@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 24:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Baba vangu, ona, toona ⟨את⟩ mapendekete erobe yako mumaoko angu; nokuti ndakadimbura ⟨את⟩ mapendekete erobe yako, asi handina kukuuraya. Ziva uye wona kuti hapana kuipa kana mhosva mumaoko angu, uye handina kutadza kwauri; asi iwe unorwisa ⟨את⟩ mweya wangu kuutora.",
+  "tokens": [
+    {
+      "surface": "ואבי",
+      "gloss": "Baba vangu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "toona"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapendekete erobe yako"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "mapendekete"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "erobe yako"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mumaoko angu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בכרתי",
+      "gloss": "ndakadimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapendekete erobe yako"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "mapendekete"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "erobe yako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi handina"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "kukuuraya"
+    },
+    {
+      "surface": "דע",
+      "gloss": "Ziva"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uye wona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mumaoko angu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "kana mhosva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handina"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "kutadza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "unorwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweya wangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "kuutora"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:25.750965117Z",
+  "model": "glm-5.3"
+}

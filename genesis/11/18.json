@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti Pherégi akagara makumi matatu emakore, akabvara ⟨את⟩ Rehu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pherégi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akavara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rehu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rehu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:54.051520357Z",
+  "model": "glm-5.3"
+}

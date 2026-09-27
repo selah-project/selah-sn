@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Shimeyi akamuka, akaedza ⟨את⟩ mbongoro yake, akaenda Gathi kuna Akishi kutsvaga ⟨את⟩ muzviri vake; Shimeyi akaenda, akadzosera ⟨את⟩ muzviri vake kubva muGathi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimeyi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "akaedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbongoro yake"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "mbongoro yake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kutsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muzviri vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "muzviri vake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimeyi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akadzosera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muzviri vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "muzviri vake"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "kubva muGathi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:28.041862820Z",
+  "model": "glm-5.3"
+}

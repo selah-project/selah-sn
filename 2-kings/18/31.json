@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 18:31",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Musateerera Chizikiya; nokuti saizvozvo akati Mutengo waAshuru: Itai neni ⟨את⟩ chibvumirano, uye budai kundiri, uye mudye mumwe nomumwe mubhero wake, mumwe nomumwe muchibage chake, uye mwe mumwe nomumwe anwa mvura yechitsime chake.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musateerera"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "-teerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizikiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mutengo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waAshuru"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "chibvumirano (neni)"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "chibvumirano"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "uye budai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "uye mudye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mubhero wake"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "muchibage chake"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "uye mwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "yechitsime chake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:25:20.820138146Z",
+  "model": "glm-5.3"
+}

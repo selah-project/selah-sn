@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akati: “Ugare muviri wemvura, nokupatsanura mvura nemvura.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Ugare"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "muviri wemvura"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ mvura"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nokupatsanura"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "chinopatsanura"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "למים",
+      "gloss": "nemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:28.993144538Z",
+  "model": "glm-5.3"
+}

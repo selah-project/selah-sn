@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "nemauto ake, nevarongwa vake, churu makumi mashanu neina, nemazana mana.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "nemauto ake"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "nevarongwa vake"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neina"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "nemazana"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:16.244863275Z",
+  "model": "glm-5.3"
+}

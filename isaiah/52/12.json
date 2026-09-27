@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Nokuti hamusi kubuda nokukasira, uye nokutiza hamusi kuenda; nokuti anofamba mamberi enyu ndiYahwe, uye anokuunganidza ndiye Erohimu waIsraeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamusi"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "nokukasira"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "kubuda"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "nokutiza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamisi"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mamberi enyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "anokuunganidza"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:13.042925715Z",
+  "model": "glm-5.3"
+}

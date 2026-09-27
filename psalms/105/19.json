@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Kusvika nguva shoko rake rakauya; shoko raYahwe rakamuchenesa.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עֵת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "rakauya"
+    },
+    {
+      "surface": "דְּבָרוֹ",
+      "gloss": "shoko rake"
+    },
+    {
+      "surface": "אִמְרַת",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "צְרָפָתְהוּ",
+      "gloss": "rakamuchenesa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:40.572333820Z",
+  "model": "glm-5.3"
+}

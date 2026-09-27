@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Madzishe ose nevahuwo ose vakafara, vakazounza, vakazokanda muarona, kusvika pachapera.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "vakafara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "noose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nevahuwo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "vakazounza"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "vakazokanda"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "muarona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "pachapera"
+    }
+  ],
+  "timestamp": "2026-09-27T10:38:17.280863074Z",
+  "model": "glm-5.3"
+}

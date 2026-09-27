@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Vakasvika ipapo paGibeata, uye tarisa, boka remaporofita rakamukwidza; Mweya waErohimu wakasimba paari, ndokutora achorofita pakati pavo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Vakasvika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "paGibeata"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye tarisa"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "boka"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "remaporofita"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "rakamukwidza"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "wakasimba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "achorofita"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "pakati pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:56.530890654Z",
+  "model": "glm-5.3"
+}

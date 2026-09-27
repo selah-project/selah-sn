@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nenguva iyoyo ndichaita kune Erii ⟨את⟩ zvose zvandataura pamusoro peimba yake; ndichitanga, ndichiguma.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nenguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Erii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ndichitanga"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ndichiguma"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:23.064154439Z",
+  "model": "glm-5.3"
+}

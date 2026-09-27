@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Asi kana yafaratira zvakanyanya muganda, mukuru wemaprista achamutumira ⟨את⟩ achisara — bvunzo; ndiyo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Asi kana"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yafaratira"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "muganda"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "achamutumira achisara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mukuru wemaprista"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bvunzo iyoyo"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "bvunzo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:46.162529575Z",
+  "model": "glm-5.3"
+}

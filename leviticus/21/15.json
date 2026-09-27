@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Asi arege kutsvetukira mhuri yake muvanhu vake; nokuti ndini Yahwe, anomutsveneza.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Asi arege"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "kutsvetukira"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mhuri yake"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "muvanhu vake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "animutsveneza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:22.036132430Z",
+  "model": "glm-5.3"
+}

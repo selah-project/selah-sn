@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvino tsamba iyi ichapo svika kwamuri, kwamuri mune ⟨את⟩ vana vatenzi venyu, kwamuri mune ⟨את⟩ mabhasa nehovi, neguta rakasimbiswa, neruzha,",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ichapo svika"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "tsamba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vana vatenzi venyu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "vatenzi venyu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mabhasa nehovi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "mabhasa"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "nehovi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "neguta"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "rakasimbiswa"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "neruzha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:20:39.514355481Z",
+  "model": "glm-5.3"
+}

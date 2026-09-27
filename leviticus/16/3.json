@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nemhando iyiii Aroni achapinda muchitsvene: nomombe yenguruve ⟨?⟩ — nomhuru yehwai yechitadzo, nomukono wemhuka yemiti yepasi, chiratidzo chokupisa. (kana: nenhumba yezvipfuyo zvitatu — vhejesi: naivo nyati yemwana womombe yechitadzo, nomukoma wembudzi yomwe yechibayiro chokupisa.)",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Nemhando iyi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "achapinda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "nonyati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "womombe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "yechitadzo"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "nomukoma wembudzi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yechibayiro chokupisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:01.613365324Z",
+  "model": "glm-5.3"
+}

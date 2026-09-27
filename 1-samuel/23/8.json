@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Shauro akashevedza ⟨את⟩ vanhu vose hondo, kudzika Kirhiya, kuvharira Dhavhidhi nevarume vake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akashevedza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "kudzika"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kirhiya"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kuvharira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nevarume"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "vake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:41.305158770Z",
+  "model": "glm-5.3"
+}

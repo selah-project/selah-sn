@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Vakapa kuvanhu ivava ⟨את⟩ Cheburoni munyika yaYehudha, ne⟨את⟩ matunzwiro aro akakomberedza.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Vakapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvanhu ivava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheburoni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Cheburoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaYehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matunzwiro aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "matunzwiro aro"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "akakomberedza"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:54.554450388Z",
+  "model": "glm-5.3"
+}

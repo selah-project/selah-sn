@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 32:36",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Nokuti Yahwe achatonga ⟨את⟩ vanhu vake, achanyaradzirwa pavari kunevaranda vake; nokuti achawona kuti ruoko rwakashomeka, uye hapuna akavharwa kana kusiwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vake"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye kune"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "achanyaradzirwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "achawona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אזלת",
+      "gloss": "rwakashomeka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "uye hapuna"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "akavharwa"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "kana kusiwa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:06.430871008Z",
+  "model": "glm-5.3"
+}

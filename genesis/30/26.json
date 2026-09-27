@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Ndipa ⟨את⟩ vakadzi vangu ne⟨את⟩ vana vangu, avo ndinoshandira iwe navo, ndichienda; nokuti iwe unoziva ⟨את⟩ basa rangu avo ndakaita iwe.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ndipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakadzi vangu"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vakadzi vangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vangu"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "vana vangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ndinoshandira"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "navo"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ndichienda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa rangu"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "basa rangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ndakaita iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:49.662812035Z",
+  "model": "glm-5.3"
+}

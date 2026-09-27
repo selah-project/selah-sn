@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Yahwe wakasanganisa mukati meyo Mweya wekujairira; vakaita kuti ⟨את⟩ Ejipita yarasike mubasa ravo rose, sokurasika kweadhaki murutsa rwake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "wakasanganisa"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mukati meyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "wekujairira"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "vakaita kuti... yarasike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ejipita"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ejipita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ro"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "mubasa ravo rose"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "sokurasika kwe"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "adhaki"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "murutsa rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:52.785422625Z",
+  "model": "glm-5.3"
+}

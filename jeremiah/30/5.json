@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nokuti ndokuti zvakadaro Yahwe: tonzwe izwi rokutetembera, kutyityira, uye hapana runyararo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndokuti zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "rokutetembera"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tonzwe"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kutyityira"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:30.154403827Z",
+  "model": "glm-5.3"
+}

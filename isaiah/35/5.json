@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Ndokubva maziso evapofu achazovhurwa, uye nzeve dzevarema dzichavhurwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ndokubva"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "achazovhurwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "evapofu"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "uye nzeve"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "dzevarema"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "dzichavhurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:35.891393031Z",
+  "model": "glm-5.3"
+}

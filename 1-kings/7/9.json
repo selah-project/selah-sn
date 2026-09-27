@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 7:9",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zviyose izvi zvaive mabwe anehukoshi, sezvayeterwa mabwe anochekwa, akachekwa neseke, mukati nekunze, kubva pahwaro kusvika pamatetezera, uye kunze kusvika padanga guru.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zviyose"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "anehukoshi"
+    },
+    {
+      "surface": "כמדת",
+      "gloss": "sezvayeterwa"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "anochekwa"
+    },
+    {
+      "surface": "מגררות",
+      "gloss": "akachekwa"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "neseke"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "nekunze"
+    },
+    {
+      "surface": "וממסד",
+      "gloss": "kubva pahwaro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הטפחות",
+      "gloss": "pamatetezera"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "uye kunze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "padanga"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:15.100280661Z",
+  "model": "glm-5.3"
+}

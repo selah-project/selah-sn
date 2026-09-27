@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Taukira Zerubhabheri, mutungamiri weYudha, uchiti: Ndini chirikutyisa ⟨את⟩ matenga ne⟨את⟩ ⟨the⟩ pasi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Taukira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubhabheri"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYudha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uchiti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "chirikutyisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matenga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "⟨the⟩ pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:47:21.664051345Z",
+  "model": "glm-5.3"
+}

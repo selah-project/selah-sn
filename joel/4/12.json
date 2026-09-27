@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 4:12",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nyika dzikamuka, dzikakwira ku mupata waYehoshafati; nokuti ndichagara ndapotonga ⟨את⟩ nyika dzose dziri kupoteredza.",
+  "tokens": [
+    {
+      "surface": "יֵע֣וֹרוּ",
+      "gloss": "dzikamuka"
+    },
+    {
+      "surface": "וְיַֽעֲלוּ",
+      "gloss": "dzikakwira"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עֵ֖מֶק",
+      "gloss": "mupata"
+    },
+    {
+      "surface": "יְהֽוֹשָׁפָ֘ט",
+      "gloss": "waYehoshafati"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שָׁ֗ם",
+      "gloss": "iko"
+    },
+    {
+      "surface": "אֵשֵׁ֛ב",
+      "gloss": "ndichagara ndapo"
+    },
+    {
+      "surface": "לִשְׁפֹּ֥ט",
+      "gloss": "kutonga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nyika dzose"
+    },
+    {
+      "surface": "כָּּל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "הַגּוֹיִם",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מִסָּֽבִיב",
+      "gloss": "dziri kupoteredza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:01.911497351Z",
+  "model": "glm-5.3"
+}

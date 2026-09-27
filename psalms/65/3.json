@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Muteereri weminamato, kusvika kwauri nyama yose ichauya.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "muteereri"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "weminamato"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kusvika kwauri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ichauya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:55.068842395Z",
+  "model": "glm-5.3"
+}

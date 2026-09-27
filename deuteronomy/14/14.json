@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Nepasi ⟨את⟩ gunguwo rose nemhuri yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nepasi ⟨את⟩",
+      "marks": "gunguwo rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gunguwo"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "nemhuri yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:32.387951309Z",
+  "model": "glm-5.3"
+}

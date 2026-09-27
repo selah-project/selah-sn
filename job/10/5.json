@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mazuva emunhu here ako, kana makore ako semakore egebheru?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "mazuva semazuva"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "emunhu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "makore ako"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "semakore"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "egebheru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:35:59.376379581Z",
+  "model": "glm-5.3"
+}

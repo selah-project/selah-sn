@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ukachenjera, wachenjera iwe pachako; ukanyemvera, unoga ⟨woga⟩ unogamuchira mhosva.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "U"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kachenjera"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wachenjera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe pachako"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ukanyemvera"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "unoga woga"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "unogamuchira mhosva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:07.363991521Z",
+  "model": "glm-5.3"
+}

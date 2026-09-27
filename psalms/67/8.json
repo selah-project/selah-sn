@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 67,
+  "translation": "Erohimu atitikomborera; uye vose vemagumu epasi vachamutya ⟨את⟩ iyena.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "atitikomborera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "vachamutya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vose vemagumu epasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "vemagumu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "epasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:42.610090046Z",
+  "model": "glm-5.3"
+}

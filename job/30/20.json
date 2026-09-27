@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Ndokuchema ndichienda kwauri, asi haundiudziri; ndakamira, iwe unongotarisa pandiri.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Ndokuchema"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ndichienda kwauri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi ha-"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ndiudziri"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ndakamira"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "iwe unongotarisa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:42:17.358392078Z",
+  "model": "glm-5.3"
+}

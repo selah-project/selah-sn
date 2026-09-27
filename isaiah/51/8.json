@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Nokuti sehembwe gonye richavadya, uye semadeya ⟨סס⟩ richavadya; asi kururama kwangu kuchave nokusingaperi, uye chipunwa changu kumazera emazera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "sehembwe"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "richavadya"
+    },
+    {
+      "surface": "עש",
+      "gloss": "gonye"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "uye semadeya"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "richavadya"
+    },
+    {
+      "surface": "סס",
+      "gloss": "⟨סס⟩"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "kururama kwangu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kuchave"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "uye chipunwa changu"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kumazera"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "emazera"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:55.432427318Z",
+  "model": "glm-5.3"
+}

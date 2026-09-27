@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Ukaita ⟨את⟩ chinhu ichi, uye Erohimu achakuraira zvakadaro, ungowagona kumira; uye vanhu vose vaya vachadzoka panzvimbo yavo zvakanaka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinhu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukaita"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "achakuraira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "ungowana simba"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "kumira"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "nzvimbo yavo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vachadzoka"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:27.421849071Z",
+  "model": "glm-5.3"
+}

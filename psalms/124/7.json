@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 124,
+  "translation": "Mweya wedu wapunyuka seshiri kubva mune cheka revaoyidza shiri; cheka ravhurwa, uye isu takapunyuka.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Mweya wedu"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "seshiri"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "wapunyuka"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "kubva mune cheka"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "revavohidza shiri"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "cheka"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ravhurwa"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "uye isu"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "takapunyuka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:04.877931073Z",
+  "model": "glm-5.3"
+}

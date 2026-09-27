@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "nokuti ⟨את⟩ avo vako pano nesu, akamira nhasi pachiso chaYahwe Erohimu wedu, uye ⟨את⟩ avo vasiri pano nesu nhasi;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avo vako pano nesu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "vako"
+    },
+    {
+      "surface": "פה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "avo vasiri pano nesu nhasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "vasiri"
+    },
+    {
+      "surface": "פה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:27.855442627Z",
+  "model": "glm-5.3"
+}

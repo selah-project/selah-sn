@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uye unofanira kuvaomaradza ⟨את⟩ ivo, sokuda waomaradza ⟨את⟩ baba vavo, kuti vapfugamire iwe; uye kuomaradza kwavo kuchava nokuvapo kwavo sokupfugamira kwusingaperi kwevizvarwa zvavo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "unofanira kuvaomaradza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "waomaradza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vavo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba vavo"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "vapfugamire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kuchava"
+    },
+    {
+      "surface": "להית",
+      "gloss": "nokuvapo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavo"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "kuomaradza kwavo"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "sokupfugamira"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kwusingaperi"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "wevizvarwa zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:17.560719510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Ipo akatyora mharadzano ebangi; nhoo, mupanga, nehondo. Sera.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "akatyora"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "mharadzano"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ebangi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "nhoo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "nemupanga"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "nehondo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:00.999406650Z",
+  "model": "glm-5.3"
+}

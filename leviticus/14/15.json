@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Mupristi achatora chidimbu cherogi reshamba, achachiicherera mukanwa wechanza chake, chechashoma chechipiri.",
+  "tokens": [
+    {
+      "surface": "וְלָקַח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "Mupristi"
+    },
+    {
+      "surface": "מִלֹּג",
+      "gloss": "chidimbu cherogi"
+    },
+    {
+      "surface": "הַשָּׁמֶן",
+      "gloss": "reshamba"
+    },
+    {
+      "surface": "וְיָצַק",
+      "gloss": "achachiicherera"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "mukanwa"
+    },
+    {
+      "surface": "כַּף",
+      "gloss": "wechanza"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "chake chemupristi"
+    },
+    {
+      "surface": "הַשְּׂמָאלִית",
+      "gloss": "cheruboshwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:58.932350814Z",
+  "model": "glm-5.3"
+}

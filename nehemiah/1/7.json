@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Takaura zvikuru kwauri, uye tasisina kuchengeta ⟨את⟩ mirairo, ⟨את⟩ zvirairo, ne⟨את⟩ matongerwo amawataurira ⟨את⟩ Moshe muranda wako.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "kuipa zvikuru"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "takaura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye tisisina"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvirairo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "zvirairo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matongerwo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "matongerwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amawo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wataurira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:11:58.166896234Z",
+  "model": "glm-5.3"
+}

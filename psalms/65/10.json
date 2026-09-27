@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Unoshanyira ⟨את⟩ ivhu, riinwa nerunyararo; unari pfuma zvakawanda; mukana waErohimu wazara mvura; unogadzira chibereko chavo, nokuti ndizvozvo unoigadzira.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "unoshanyira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "riinwa nerunyararo"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "zvakawanda"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "unari pfuma"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "mukana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wazara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "unogadzira"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "chibereko chavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndizvozvo"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "unoigadzira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:25.393593770Z",
+  "model": "glm-5.3"
+}

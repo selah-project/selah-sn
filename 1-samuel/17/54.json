@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye Dhavhidhi akatora ⟨את⟩ musoro womuFirisitii, akaunisa ⟨unosiya⟩ Jerusharema; uye ⟨את⟩ zvombo zvakaro akaisa mutende wake.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro womuFirisitii"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "womuFirisitii"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "akaunisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusharema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvombo zvakaro"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvombo zvakaro"
+    },
+    {
+      "surface": "שם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "mutende wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:51.838952501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akauya akaudza murume waErohimu; iye akati: Enda, utengese ⟨את⟩ mafuta, uye ubhadhare ⟨את⟩ zvikwereti zvako; iwe nevana vako mugare nezvasara.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Akauya"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumurume"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "utengese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "uye ubhadhare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvikwereti zvako"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "zvikwereti zvako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "nevana vako"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "mugare"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "nezvasara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:14.864734712Z",
+  "model": "glm-5.3"
+}

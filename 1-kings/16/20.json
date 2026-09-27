@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 16:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvino zvichere zvatakazara zvaZimuri, nendondo yake yaakaita, hazvina here kunyorerwa muchitabu chezvidyo zvemazuva emadzimambo eIsraeri?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "zvichere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zvidyo"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimuri"
+    },
+    {
+      "surface": "וקשרו",
+      "gloss": "nendondo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izwi⟩"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "daakaita"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hazvina here"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kunyorerwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "chitabu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "chezvidyo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zemazuva"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "emadzimambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:09.270340521Z",
+  "model": "glm-5.3"
+}

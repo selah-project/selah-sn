@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Vana vaIsraeri vachachengeta ⟨את⟩ Shabhata, kuchichengeta ⟨את⟩ Shabhata kune mazera avo, sungano isingaperi.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "vachachengeta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuchichengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kune mazera avo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "isingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:38.586063857Z",
+  "model": "glm-5.3"
+}

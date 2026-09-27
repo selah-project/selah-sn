@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Ndingatye nei mune mazuva echakaipa, mhosva yechitsi dzangu ichindipoteredza?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ndingatye nei"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mune mazuva"
+    },
+    {
+      "surface": "רע",
+      "gloss": "echakaipa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "yechitsi dzangu"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ichindipoteredza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:35.000471416Z",
+  "model": "glm-5.3"
+}

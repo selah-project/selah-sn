@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Akishi akati: Hamuna kurova here nhasi? Dhavhidhi akati: Paira divi rechamhembe cheYudha, nepaira divi rechamhembe chevaYerachimeri, nedivi rechamhembe chevaKeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "here…Hamuna"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "kurova"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "paira"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "divi rechamhembe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cheYudha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepaira"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "divi rechamhembe"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "chevaYerachimeri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nedivi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "rechamhembe"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "chevaKeni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:17.358553304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kubva mutwanza waAsheri: ⟨את⟩ Mishari ne⟨את⟩ migararo yayo, ⟨את⟩ Abhdoni ne⟨את⟩ migararo yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kubva mutwanza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waAsheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishari"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "migararo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migararo yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhdoni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abhdoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "migararo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migararo yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:47.876116933Z",
+  "model": "glm-5.3"
+}

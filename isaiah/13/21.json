@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 13:21",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Zvipukanana zvedhaka zvichazorora ipapo, uye misha yavo ichazadzwa nezvinokamba; zvihomberi zvichagara ipapo, uye mbudzi dzemusango dzichadana ipapo.",
+  "tokens": [
+    {
+      "surface": "ורבצו",
+      "gloss": "zvichazorora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "zvipukanana zvedhaka"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ichazadzwa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "misha yavo"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "nezvinokamba"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "zvichagara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zvihomberi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "zvebhuri"
+    },
+    {
+      "surface": "ושעירים",
+      "gloss": "mbudzi dzemusango"
+    },
+    {
+      "surface": "ירקדו",
+      "gloss": "dzichadana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:58.643604647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Kana keshewa ndiyo ari kuunza sechibairo chake, achachiunza ⟨אתו⟩ pamberi peYahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "keshewa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ari kuunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chake"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "chibairo chake"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "achachiunza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "keshewa iyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:55.472372787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Saka Paroh akaraira zuva iro ⟨את⟩ madzvinyirwo evanhu nezvinotevera zvake ŵakuru ŵaizoita kuti vanhu vashande zvakanaka, achiti:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zuva iro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzvinyirwo evanhu nezvavo ŵakuru ŵemushando"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "madzvinyirwo evanhu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madzvinyiriro awo ŵakuru ŵemushando"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "nezvinotevera zvake ŵakuru ŵemushando"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:07.418030360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Mweya wangu wakamiririra pamusoro penyaya dzako; ruoko rwako rwerudyi runonditsigira.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "wakamiririra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pamusoro penyaya dzako"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "runonditsigira"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruoko rwako rwerudyi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:24.344105171Z",
+  "model": "glm-5.3"
+}

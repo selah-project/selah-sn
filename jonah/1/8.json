@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 1:8",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Vakati kwaari: Ndiudza zvino, ndeani akonzera chakaipa ichi chiri pachinhu chedu? Basa rako nderei? Unobva kupi? Nyika yako ndeipi? Uye uri vanhu vapi?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ndiudza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨nedu⟩"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ndeani"
+    },
+    {
+      "surface": "למי",
+      "gloss": "akonzera"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "chiri pachinhu chedu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nde-"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "re basa rako"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "unobva kupi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "unobva"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nde-"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ipi nyika yako"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "uye"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "vapi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:44:10.583697678Z",
+  "model": "glm-5.3"
+}

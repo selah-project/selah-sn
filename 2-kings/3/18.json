@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye izvi zviri nyore <את> mumaoni aYahwe, uye achapa ⟨את⟩ Moabhu mumaoko enu.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "zviri nyore"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumaoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "achapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabhu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mumaoko enu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:27.964451745Z",
+  "model": "glm-5.3"
+}

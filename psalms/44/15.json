@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Watisa kuve tsumo muvanhu venyika, nokudedemadza kwemusoro muvanhu voshe.",
+  "tokens": [
+    {
+      "surface": "תְּשִׂימֵ֣נוּ",
+      "gloss": "Watisa (kuve)"
+    },
+    {
+      "surface": "מָ֭שָׁל",
+      "gloss": "tsumo"
+    },
+    {
+      "surface": "בַּגּוֹיִ֑ם",
+      "gloss": "muvanhu venyika"
+    },
+    {
+      "surface": "מְנֽוֹד",
+      "gloss": "nokudedemadza"
+    },
+    {
+      "surface": "רֹ֝א֗שׁ",
+      "gloss": "kwemusoro"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "mune"
+    },
+    {
+      "surface": "אֻמִּֽים",
+      "gloss": "vanhu voshe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:28.673346823Z",
+  "model": "glm-5.3"
+}

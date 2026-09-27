@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Muchachengeta ⟨את⟩ mitemo yangu yakatarwa uye ⟨את⟩ makurongwa angu; munhu anoita ⟨את⟩ izvi anorarama mazvawo. Ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Muchachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yangu yakatarwa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mitemo yangu yakatarwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "makurongwa angu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "makurongwa angu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izvi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "anorarama"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mazvawo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:46:45.474978934Z",
+  "model": "glm-5.3"
+}

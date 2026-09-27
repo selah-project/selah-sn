@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Vanhu vaAharon, mupristi, vachaisa moto pamusoro pemizbeachi, uye vacharongedza huni pamusoro pemoto.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "vachaisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "vaAharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeachi"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "vacharongedza"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "huni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "האש",
+      "gloss": "pemoto"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:26.313728712Z",
+  "model": "glm-5.3"
+}

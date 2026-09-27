@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 5:8",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndakawanawo tsitsi maziso emambo, uye kana zvakanaka kumambo kupa chikumbiro changu ⟨את⟩ uye kuita chokumbira changu ⟨את⟩ — mambo naHamani ngavauye kabapiro kandandari iyo ndichaita kwavari; uye mangwana ndichaita sezvataurwa namambo.\"",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ndakawanawo"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ndakawana"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tsitsi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "emambo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikumbiro changu"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "chikumbiro changu"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "uye kuita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chokumbira changu"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "chokumbira changu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ngavauye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "naHamani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "bapiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "uye mangwana"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sezvataurwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "namambo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:50.457695939Z",
+  "model": "glm-5.3"
+}

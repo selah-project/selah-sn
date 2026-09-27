@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye kune vakororo vaIsuraeri unotaura ungochiti: Munhu nomunhu, kana achemeza Erohimu wake, anozvitakura ⟨את⟩ mhosva yake.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakororo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsuraeri"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ungochiti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "achemeza"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "anozitakura"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mhosva yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:41.580544009Z",
+  "model": "glm-5.3"
+}

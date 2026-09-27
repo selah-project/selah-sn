@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Haman wakati kumambo: “⟨Zvinofanira kuitwa⟩ nomurume amambo achida kumukudza —”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "achida"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "kumukudza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:09.826732890Z",
+  "model": "glm-5.3"
+}

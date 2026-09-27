@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Rabishake akadzokera, akaona ⟨את⟩ mambo weAshuru achirwa neLibna, nokuti akanzwa kuti abva kuRakishi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "wechikocha"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo weAshuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "achirwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "abva"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "kuRakishi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:11.088459449Z",
+  "model": "glm-5.3"
+}

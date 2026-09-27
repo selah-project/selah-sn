@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye Yudha akaitsa zvakaipa mumaoni aYahwe, uye vakamuitsa shuvho nezvivi zvavo zvavakaita, kupfuura zvose zvavakaita madzibaba avo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaitsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumaoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "vakamuitsa shuvho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kupfuura zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "madzibaba avo"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "nezvivi zvavo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vakaita"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:27.503112534Z",
+  "model": "glm-5.3"
+}

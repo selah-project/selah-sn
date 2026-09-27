@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Usatsvagire runyararo rwavo kana zvakanombo zvavo mazuzu ose ehupenyu hwako, nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "tsvagire"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "runyararo rwavo"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "kana zvakanombo zvavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mazuzu ehupenyu hwako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:53.830884973Z",
+  "model": "glm-5.3"
+}

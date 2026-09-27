@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Minda ichafara, nezvose zvirimo; azive, miti yose yesango icharidza mufaro.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ichafara"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "minda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvi-"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-rimo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "azive"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "icharidza mufaro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "miti"
+    },
+    {
+      "surface": "יער",
+      "gloss": "yesango"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:00.430754169Z",
+  "model": "glm-5.3"
+}

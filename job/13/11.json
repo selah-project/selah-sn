@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Haazvikaniki here — kukudzwa kwake kunokutyayai, uye kutya kwake kunogwa pamusoro penyu?",
+  "tokens": [
+    {
+      "surface": "הֲלֹא",
+      "gloss": "haazvikaniki here"
+    },
+    {
+      "surface": "שְׂאֵתוֹ",
+      "gloss": "kukudzwa kwake"
+    },
+    {
+      "surface": "תְּבַעֵת",
+      "gloss": "kunokutyayai"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "וּפַחְדּוֹ",
+      "gloss": "kutya kwake"
+    },
+    {
+      "surface": "יִפֹּל",
+      "gloss": "kunogwa"
+    },
+    {
+      "surface": "עֲלֵיכֶם",
+      "gloss": "pamusoro penyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:09.977315758Z",
+  "model": "glm-5.3"
+}

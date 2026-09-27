@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Akati: Ndinokwira nenzira ipi? Iye akati: Nzira yehwamanda yaEdhomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nzira i"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "tinokwira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Nzira ye"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hwamanda"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "yaEdhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:31.759309943Z",
+  "model": "glm-5.3"
+}

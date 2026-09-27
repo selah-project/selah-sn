@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Idzai, tive rwere ⟨⟨kuna⟩⟩ Yahwe; tibvume zvikuru kuna Mucheto weruponeso rwedu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Idzai"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "tive rwere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "tibvume zvikuru"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kuna Mucheto"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "weruponeso rwedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:01.721696722Z",
+  "model": "glm-5.3"
+}

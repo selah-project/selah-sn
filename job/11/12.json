@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Munhu akatemwa moyo achawana unzwisisi, uye mhuru yebhongoro yesango ichazvarwa munhu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "akatemwa"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "achawana unzwisisi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "yebhongoro yesango"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ichazvarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:35:45.278204177Z",
+  "model": "glm-5.3"
+}

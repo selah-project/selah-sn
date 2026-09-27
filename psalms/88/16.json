@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Ndine tambudziko, ndiri kufa kubva kubudikidzwa; ndakatakura zvinokutyisa zvako, ndaputsikirwa mupfungwa.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Ndine tambudziko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ndiri kufa"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "kubva kubudikidzwa"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ndakatakura"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "zvinokutyisa zvako"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ndaputsikirwa mupfungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.741886710Z",
+  "model": "glm-5.3"
+}

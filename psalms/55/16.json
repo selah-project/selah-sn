@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Ngave nekuparadzwa pamusoro pavo; ngavadzikire vari mupenyu kuSheori; nokuti zvakaipa zvirimo mumisha yavo, mukati mavo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "kuparadzwa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "pamusoro pavo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ngavadzikire"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheori"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vari mupenyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "mumisha yavo"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "mukati mavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:30.014807402Z",
+  "model": "glm-5.3"
+}

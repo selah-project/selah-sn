@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 97,
+  "translation": "Dhongi nedzima dzinomutevedza, kururama nekutonga ndiwo tsigiri yechigaro chake choumutiri.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Dhongi"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "nedzima"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "dzinomutevedza"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nekutonga"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tsigiri"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chechigaro chake choumutiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:17.931866968Z",
+  "model": "glm-5.3"
+}

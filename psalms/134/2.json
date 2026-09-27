@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 134,
+  "translation": "Simudzai maoko enu mutsvene, uye rukudzai ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "simudzai"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "maoko enu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ruhudzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:05.028068922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Uye mambo weBavhere akabayisa ⟨את⟩ vakomana vaZidekiya pamberi pemaziso ake; uye ⟨את⟩ madare ose eYudha akaabayisa kuRibheri.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "akabayisa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBavhere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakomana vaZidekiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "vaZidekiya"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pamberi pemaziso ake"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madare ose eYudha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madare"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "eYudha"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "akaabayisa"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "kuRibheri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:13:52.310644955Z",
+  "model": "glm-5.3"
+}

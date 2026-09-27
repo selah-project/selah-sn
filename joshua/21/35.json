@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dhimuna nematunza aro, ⟨את⟩ Naharari nematunza aro — maguta mana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhimuna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dhimuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunza aro (eDhimuna)"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunza aro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naharari"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Naharari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunza aro (eNaharari)"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunza aro"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:34.543170528Z",
+  "model": "glm-5.3"
+}

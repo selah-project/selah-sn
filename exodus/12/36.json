@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye Yahwe akapa ⟨את⟩ makomborero evanhu maziso evaMisri, uye vakazvipa kwavari; vakachengeta nhumbi dzaMisri.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Uye Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makomborero evanhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "makomberero"
+    },
+    {
+      "surface": "העם",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maziso e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vaMisri"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "vakazvipa kwavari"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "vakachengeta-nhumbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhumbi dzaMisri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:28.251475630Z",
+  "model": "glm-5.3"
+}

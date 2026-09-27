@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Asi shoko ramambo rakasimba pamusoro peYoabhu, ndokubuda Yoabhu, akafamba-famba munze dzose dzeIsraeri, akasvika muYerushalemu.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ramambo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "rakasimba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabhu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabhu"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "akafamba-famba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "munze dzose dze-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "muYerushalemu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:28.843822531Z",
+  "model": "glm-5.3"
+}

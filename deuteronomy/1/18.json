@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndikakurayirai panguva iyo ⟨את⟩ mazwi ose amange muchiita.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ndikakurayirai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "muchiita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:39.809962032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "nokuti kana ukarama kusiy ⟨את⟩ iwo, uye uchiri kuchengeta chisungo pamusoro pavo,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ukarama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kusiy ⟨את⟩ iwo"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "uye uchiri"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "kuchengeta chisungo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pamusoro pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:13.119261963Z",
+  "model": "glm-5.3"
+}

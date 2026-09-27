@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Abhiyathari akazivisa Dhavhidhi kuti Shauro akauraya ⟨את⟩ mapristi aYahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akazivisa"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abhiyathari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapristi aYahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:33.396351328Z",
+  "model": "glm-5.3"
+}

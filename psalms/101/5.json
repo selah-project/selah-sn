@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 101,
+  "translation": "Anotuka muchitsiko waanaye, ⟨את⟩ wacho ndinoparadza; wakakwidza maziso uye wakakura moyo, ⟨את⟩ wacho handigoni ⟨kumugamuchira⟩.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "anotuka"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "muchitsiko"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "waanaye"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "wacho (waanotuka muchitsiko)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ndinoparadza"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "wakakwidza"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "uye wakakura"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wacho (wakakwidza maziso, wakakura moyo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kugamuchira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:44.800971058Z",
+  "model": "glm-5.3"
+}

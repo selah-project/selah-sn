@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "nomutsungi wezvikwambo, anobvunza penyere nomuzivi wemweya, anotsvaga kunevakafa.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "nomutsungi"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "wezvikwambo"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "anobvunza"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "penyere"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "nomuzivi wemweya"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "anotsvaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "vakafa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:15:53.582742055Z",
+  "model": "glm-5.3"
+}

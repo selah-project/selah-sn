@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Akabuda akarwa neFiristia, akadimbura ⟨את⟩ rusvingo rweGathi, ⟨את⟩ rusvingo rweYabhene, ⟨את⟩ rusvingo rweAshidhodi; akavaka matare muAshidhodi nokupakati peFiristia.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "akarwa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "neFiristia"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "akadimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rusvingo rweGathi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "rusvingo rwe"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rusvingo rweYabhene"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "rusvingo rwe"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabhene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rusvingo rweAshidhodi"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "rusvingo rwe"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashidhodi"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "matare"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "muAshidhodi"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "nokupakati peFiristia"
+    }
+  ],
+  "timestamp": "2026-09-27T10:39:24.021832023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Nebazuva rose raYosefu, nehanzvadzi dzake, nebazuva rababa vake; chikwata chavo chidiki, nhete dzavo, mombe dzavo chete ndizvo zvakasiya nyika yeGosheni.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Nebazuva rose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bazuva"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "raYosefu"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "nehanzvadzi dzake"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nebazuva"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rababa vake"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "chikwata chavo chidiki"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "nhete dzavo"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "mombe dzavo"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ndizvo zvakasiya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nyika ye"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Gosheni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:17.124272225Z",
+  "model": "glm-5.3"
+}

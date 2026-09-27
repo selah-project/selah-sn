@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye mombe nebhero dzichafura zvose, vana vavo vachazorora zvachose; uye shumba ichadya bhusva somombe.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "bhero"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "dzichafura"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "vachazorora"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "vana vavo"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "somombe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ichadya"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bhusva"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:06.228605553Z",
+  "model": "glm-5.3"
+}

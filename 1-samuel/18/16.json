@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Asi Isuraeri yose neYhudha vakada ⟨את⟩ Dhavhidhu, nokuti iye aibuda aandogara pachiso chavo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "neYhudha"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "vakada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "aibuda"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "aanodzoka"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pachiso chavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:03.519379334Z",
+  "model": "glm-5.3"
+}

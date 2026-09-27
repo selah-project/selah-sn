@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 142,
+  "translation": "Teerera mhanza yangu, nokuti ndadzikiswa zvikuru; nondunhurira kune vanonditsvaga, nokuti vakasimba kupfuura iini.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Teerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mhanza yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ndadzikiswa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "nondunhurira"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "kune vanonditsvaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "vakasimba"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kupfuura iini"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:15.923028744Z",
+  "model": "glm-5.3"
+}

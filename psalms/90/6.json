@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Mambakwerere hunabviridza, hunapfuura; madekwe hunachekwa, hunowoma.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Mambakwerere"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "hunabviridza"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "hunapfuura"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "madekwe"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "hunachekwa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "hunowoma"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:05.243685258Z",
+  "model": "glm-5.3"
+}

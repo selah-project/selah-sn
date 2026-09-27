@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Naizvozvo Bhati-Sheba akapinda kuna mambo mumukamuri; mambo wange wachembera zvakanyanya; uye Abhishaghi muShunamuite aigadzirira ⟨את⟩ mambo.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bhati-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "mumukamuri"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wachembera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "Abhishaghi"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "muShunamuite"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "aigadzirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:43.455391012Z",
+  "model": "glm-5.3"
+}

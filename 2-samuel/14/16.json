@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "nokuti mambo achateerera, kununura ⟨את⟩ mhanda yake kubva mumaoko omurume wouridza kuaparadza ⟨את⟩ ini ne⟨את⟩ mwanangu pamwechete, kubva munhaka yaElohimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "achateerera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "kununura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhanda yake"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "mhanda yake"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kubva mumaoko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omurume"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "wouridza kuaparadza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mwanangu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "kubva munhaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaElohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:58:55.319796153Z",
+  "model": "glm-5.3"
+}

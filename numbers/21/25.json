@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye Isiraeri akatora ⟨את⟩ maguta ose aya, uye Isiraeri akagara mumaguta ose evaEmori, muCheshiboni nemumwo wake ose.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta ose aya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mumaguta ose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "matauta eva"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "muCheshiboni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nemumwo ose"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:28.654268403Z",
+  "model": "glm-5.3"
+}

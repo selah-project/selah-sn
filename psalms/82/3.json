@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 82,
+  "translation": "Mutongai ⟨את⟩ murefu nenyina; mururamise ⟨את⟩ mutorwa nomusha-madiro.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Mutongai"
+    },
+    {
+      "surface": "דל",
+      "gloss": "murefu"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "nenyina"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mutorwa"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "nomusha-madiro"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "mururamise"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:47.384471512Z",
+  "model": "glm-5.3"
+}

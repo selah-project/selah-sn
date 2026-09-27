@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Avo kwatiri! Ani chatiponesa muruoko mwaErohimu makuru aya? Aya ndiwo Erohimu akarova ⟨את⟩ Egipita namarwadzo ose, mumushongwe.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Avo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "chatiponesa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "muruoko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "mwaErohimu"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egipita"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egipita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "marwadzo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mumushongwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:06.392968322Z",
+  "model": "glm-5.3"
+}

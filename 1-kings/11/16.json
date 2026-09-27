@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "nokuti mwedzi ⟨mitanhatu⟩ Yowabhu naisraeri yose vakagara ipapo, kusvika vadzimatsa varume ose muAdhomu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "mitanhatu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na… yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "vadzimatsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "varume"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "muAdhomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:34.907712547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Chete ndiye ibwe rangu, ruponeso rwangu; nhare yangu yakakwirira — handizunziki zvikuru.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ibwe rangu"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ruponeso rwangu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "nhare yangu yakakwirira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zunziki"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:46.782983490Z",
+  "model": "glm-5.3"
+}

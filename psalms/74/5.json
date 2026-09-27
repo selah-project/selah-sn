@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Vaizivikanwa sokunyunyuta kwemashefu pamusoro pechisikwa chemiti, nendemo.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "vaizivikanwa"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "sokunyunyuta"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "chisikwa chemiti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "emiti"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "nendemo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:07.388737215Z",
+  "model": "glm-5.3"
+}

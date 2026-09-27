@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Vanhuwo vose, varumewo vose, pamwe chete mupfumi nomurombo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "vanhuwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "varumewo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mupfumi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomurombo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.684122797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye kubva mumuteve waAsheri ⟨את⟩ Mashari nomatunze aro, ne⟨את⟩ Abhidhoni nomatunze aro.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kubva mumuteve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waAsheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashari"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Mashari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abhidhoni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abhidhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunze aro"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nomatunze aro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:45.939507200Z",
+  "model": "glm-5.3"
+}

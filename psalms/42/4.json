@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Misodzi yangu yave chikafu changu masikati nusiku, pavanozvitaura kwandiri mazuva ose kuti: Erohimu wako ari kupi?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yave"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "misodzi yangu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nusiku"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "pavanozvitaura"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ari kupi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:08.066671851Z",
+  "model": "glm-5.3"
+}

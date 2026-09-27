@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino kana vanhu vose vapedza kupfuura ⟨את⟩ Joridhani, Yahwe akataura kuna Yehoshua achiti:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "vapedza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "vanhu vose"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "kupfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joridhani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Joridhani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:29.635291509Z",
+  "model": "glm-5.3"
+}

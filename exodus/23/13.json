@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye mune zvose zvandakataura kwamuri chengetai; uye zita remwari achn ri-sataurwe, ri-saverengwe pamusoro pemuromo wenyu.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "uye mune zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakataura"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "chengetai"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye zita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "remwari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "achn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ri-sa"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "taurwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ri-sa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "verengwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "muromo wenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:17.102311733Z",
+  "model": "glm-5.3"
+}

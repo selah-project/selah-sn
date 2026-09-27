@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Akaita chirangaridzo chezvinoshamisa zvake; Yahwe ndiye murefu-nyasha anoregerera ⟨vazhinji⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "chirangaridzo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Akaita"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "chezvinoshamisa zvake"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "murefu-nyasha"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "anoregerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:09.510825863Z",
+  "model": "glm-5.3"
+}

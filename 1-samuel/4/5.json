@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino painopinda ariki yesungano yaYahwe mumusasa, Israeri yose yakatumba terua huru, uye pasi rakazunzunguka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "painopinda"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ariki"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "musasa"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "yakatumba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "terua"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "huru"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "rakazunzunguka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:06.392162985Z",
+  "model": "glm-5.3"
+}

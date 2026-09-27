@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "⟨את⟩ Zvangu zvokuzorora — Shabhata dzangu — dzichengete, uye chitsvene changu chitye; ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabhata dzangu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabhata dzangu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "dzichengete"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "uye chitsvene changu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "chitye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:35.665831379Z",
+  "model": "glm-5.3"
+}

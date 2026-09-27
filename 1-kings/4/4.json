@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Veneyahu mukoma waYehoyadha aive mutungamiri weauto; uye Tsadhoki neAvhiyatara vaive vaprista.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Veneyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "waYehoyadha"
+    },
+    {
+      "surface": "על",
+      "gloss": "mutungamiri we"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "auto"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Tsadhoki"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "neAvhiyatara"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "vaprista"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:41.622888245Z",
+  "model": "glm-5.3"
+}

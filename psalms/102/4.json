@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Nokuti mazuva angu apedza semutsi, uye mapfupa angu akatsva sechitorwa chemoto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "apedza"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "semutsi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva angu"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "uye mapfupa angu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "קד",
+      "gloss": "chitorwa chemoto"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "akatsva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.178464324Z",
+  "model": "glm-5.3"
+}

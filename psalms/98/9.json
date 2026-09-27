@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 98,
+  "translation": "Pamberi paYahwe, nokuti auya kuita kutongwa kwenyika; achatonga ⟨את⟩ nyika yose netsveno, uye vanhu nouchenjeri hwakatwasuka.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pamberi pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "auya"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kuita kutongwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kwenyika"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nyika yose"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "netsveno"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "uye vanhu"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "nouchenjeri hwakatwasuka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:41.828835502Z",
+  "model": "glm-5.3"
+}

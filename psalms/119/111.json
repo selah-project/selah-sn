@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Njeredzi dzako ndinogara nadzi nokusingaperi; nokuti mufaro wemoyo wangu ndiwo.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ndinogara nadzi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "njeredzi dzako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wemoyo wangu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ndiwo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:18.660102256Z",
+  "model": "glm-5.3"
+}

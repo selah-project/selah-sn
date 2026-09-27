@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Sokunge ruoko rwangu rwakawana ⟨את⟩ ushe hwezvipfambo, nezvifananidzo zvavo zviri kupfuura izvo zveYerushalema neizvo zveShomeroni.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sokunge"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "rwakawana"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "ushe hwe"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "zvipfambo"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "nezvifananidzo zvavo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "zveYerushalema"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "nezveShomeroni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:08.805931266Z",
+  "model": "glm-5.3"
+}

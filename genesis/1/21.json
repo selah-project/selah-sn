@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti Erohimu akasika ⟨את⟩ zvikara zvihombe, ne⟨את⟩ mweya woupenyu wose wakambaira, uyo mvura yawabereka uwandu, nomhando yavo, ne⟨את⟩ shiri dzinemapapiro ose, nomhando yadzo; uye Erohimu akaona kuti zvakanaka.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "akasika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvikara zvihombe"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "zvikara"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "zvihombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mweya woupenyu wose wakambaira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya woupenyu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "woupenyu"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "wakambaira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "yawabereka uwandu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "nomhando yavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "shiri dzinemapapiro ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "dinemapapiro"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "nomhando yadzo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:45.695456008Z",
+  "model": "glm-5.3"
+}

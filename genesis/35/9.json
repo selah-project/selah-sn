@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Erohimu akazoratidzika kuJakobh zvakare, paaive achibva kuPaddani-Aramu; aka⟨את⟩mufadza.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akazoratidzika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "paaive achibva"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "kuPaddani"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akamufadza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Jakobh"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:28.598101447Z",
+  "model": "glm-5.3"
+}

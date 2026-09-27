@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Asi ini ndakati: Ndatambudzika zvisina basa; simba rangu ndakarishandisa zvisina chinhu zvemhepo; asi zvechokwadi mutongo wangu uri na⟨את⟩ Yahwe, uye mubairo wangu na⟨את⟩ Erohimu wangu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakati"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "zvisina basa"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ndatambudzika"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "zvisina chinhu"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "zvemhepo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ndakarishandisa"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "asi zvechokwadi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mutongo wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "mubairo wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu wangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:44:24.932842264Z",
+  "model": "glm-5.3"
+}

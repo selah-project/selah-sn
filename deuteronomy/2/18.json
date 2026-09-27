@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Iwe unopfuura nhasi ⟨את⟩ muganhu waMowabhu, ⟨את⟩ Aara.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "unopfuura"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muganhu waMowabhu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMowabhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aara"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Aara"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:57.156412514Z",
+  "model": "glm-5.3"
+}

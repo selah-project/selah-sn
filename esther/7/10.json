@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Ndokuvakamuira ⟨את⟩ Hamani pamusoro pomuti waakagadzirira Morodhikai; godo hwehumambo rwo mambo rakanaya.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ndokuvakamuira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro po"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa-"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "waakagadzirira"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Morodhikai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "godo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hwehumambo"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "rakanaya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:13.366100977Z",
+  "model": "glm-5.3"
+}

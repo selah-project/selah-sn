@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Moshe naizvozvo akanyora ⟨את⟩ ndimi iyi nenguva iyoyo, akanodzidzisa ⟨את⟩ vana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akanyora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndimi iyi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ndimi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "akanodzidzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:57.455880240Z",
+  "model": "glm-5.3"
+}

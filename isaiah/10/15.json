@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Demo rinogona here kuzvitutumadza pamusoro peanotema naro? Muhando unogona here kuzvikudza pamusoro peanachiembera naro? Sokufembera kwachimbo ⟨את⟩ avo vari kucherura, uye setsvimbo yokureba chinhu chisiri muti!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "kuzvitutumadza"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "demo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "anotema"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naro"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "kuzvikudza"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "muhando"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "anachiembera naro"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "sekufembera"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chimbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "avo vari kucherura"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "avo vari kucherura"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "sokureba"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muti"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:16.230208228Z",
+  "model": "glm-5.3"
+}

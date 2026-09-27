@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Mazuva ose vavengi vandituka; avo vanopfurikidza nhasi vakatsvaga ⟨ndiri⟩ chirairo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "vandituka"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vavengi"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "avanopfurikidza"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "vakatsvaga chirairo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:51.069448406Z",
+  "model": "glm-5.3"
+}

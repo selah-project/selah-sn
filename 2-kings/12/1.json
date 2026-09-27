@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mwana wanomwe makore aiva Yehuashi pakutonga kwake.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehuashi"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pakutonga kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:57.143432798Z",
+  "model": "glm-5.3"
+}

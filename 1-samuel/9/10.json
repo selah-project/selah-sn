@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Sauru akati kamukomana wake: Shoko rako rakanaka; ndauye, tiende. Ndokutsamuka vakaenda kuguta kwaive munhu waErohimu ipapo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauru"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "kamukomana wake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "rakanaka"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Shoko rako"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ndauye"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "tiende"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwaive"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:19.201945810Z",
+  "model": "glm-5.3"
+}

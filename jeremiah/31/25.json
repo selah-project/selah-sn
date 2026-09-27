@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Nokuti ndakagutisa mweya uneta, uye mweya wose wakashungurudzwa ndakauzadza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "ndakagutisa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "uneta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye wose"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wakashungurudzwa (mweya)"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "wakashungurudzwa"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ndakauzadza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:02:55.182470744Z",
+  "model": "glm-5.3"
+}

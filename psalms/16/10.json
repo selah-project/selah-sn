@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nokuti hausi kusiya mweya wangu kuSheori; hausi kupa mutsvene wako kuona kuora.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hausi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuSheori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hausi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "mutsvene wako"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "kuora"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:30.282168251Z",
+  "model": "glm-5.3"
+}

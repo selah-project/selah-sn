@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Muviri wangu hauna kubviswa kubva kwauri, pandakagadzirwa muchivande, pandakavo nekudzika kwePasí.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kubviswa (kuvanzwa)"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "Muviri wangu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kubva kwauri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pandaka-"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gadzirwa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "muchivande"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "pandakavo"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "nekudzika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kwePasí"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:37.933847550Z",
+  "model": "glm-5.3"
+}

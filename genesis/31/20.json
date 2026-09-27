@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Yaakobh akaba ⟨את⟩ moyo waRabhaani muAramu, nokuti haana kumudavirira kuti ari kutiza.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "akaba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Rabhaani"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "muAramu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "haana"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "kudavirira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kumudavirira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kutiza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:42.472861766Z",
+  "model": "glm-5.3"
+}

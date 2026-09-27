@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vana veIsraeri vakashandira ⟨את⟩ Egironi, mambo weMoabu, makore gumi neresere.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "vakashandira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egironi"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Egironi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "weMoabu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "gumi ne"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "resere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    }
+  ],
+  "timestamp": "2026-09-27T06:34:22.447920356Z",
+  "model": "glm-5.3"
+}

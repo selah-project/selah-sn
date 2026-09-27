@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Yahwe Erohimu akurayira munhu, achiti: Umwe nomumwe wemiti yegadheni unokwanisa kudya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "akurayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kwaa⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "umwe nomumwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wemiti"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "yegadheni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "unokwanisa kudya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kudya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:59.399160118Z",
+  "model": "glm-5.3"
+}

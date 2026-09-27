@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Iye akarwisa ⟨את⟩ Vafilisitia kusvika Gaza, ne⟨את⟩ muganhu wayo, kubva danda revarindi kusvika guta rakavakwa chiteshe.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vafilisitia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafilisitia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muganhu wayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "muganhu wayo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kubva danda"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "revarindi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "rakavakwa chiteshe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:32.386933156Z",
+  "model": "glm-5.3"
+}

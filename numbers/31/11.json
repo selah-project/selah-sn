@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Vakatora ⟨את⟩ chibhizha chose ne⟨את⟩ chinangwa chosvedza chise munhu nechishiri.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibhizha chose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "chibhizha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chinangwa chosvedza chise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "chinangwa chosvedza"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nechishiri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:10.998191629Z",
+  "model": "glm-5.3"
+}

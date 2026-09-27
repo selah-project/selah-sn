@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akauraya nezvigunwe zvemvura inotonhora matavi emazororo avo, namiti yemunanasi navo nechando chine mabara emvura.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "nezvigunwe zvemvura inotonhora"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "matavi emazororo avo"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "namiti yemunanasi navo"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "nechando chine mabara emvura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:39.159060666Z",
+  "model": "glm-5.3"
+}

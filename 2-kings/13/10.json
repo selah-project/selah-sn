@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mugore rimwe nezvina makumi matatu emakore eYoashu, mambo weYudha, Yehoashu mukorume waYehoachaz akatonga Isuraeri muShomironi, makumi matanhatu nematanhatu emakore.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Mugore"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "nezvina"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "eYoashu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYudha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoashu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorume wa"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muShomironi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "makumi matanhatu nematanhatu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    }
+  ],
+  "timestamp": "2026-09-27T07:21:57.947829499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Yahwe anovaka Yerusharema; anowunganidza vakaparadzirwa veIsraeri.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "anovaka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "vakaparadzirwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "anowunganidza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:55.118506798Z",
+  "model": "glm-5.3"
+}

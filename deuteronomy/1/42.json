@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akati kwandiri: Taurira vovo: Simukai kana kurwa, iwe handisiri pakati penyu, kuti musanetswe pachiso chevavengi venyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "taurira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vovo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Simukai"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "kukwira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "handisiri"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "pakati penyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti musanetswe"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "musanetswe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vavengi venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:08:35.434167047Z",
+  "model": "glm-5.3"
+}

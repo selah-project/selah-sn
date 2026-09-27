@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "kubva mwana wemakumi maviri emakore nokuenda mudenga, sokuda kwaYahwe ⟨את⟩ Mose; ivo vana vevaIsirayeri vakabuda muvivo yevaMitsiraimu.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "kubva mwana we"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "nokuenda mudenga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ivo vana veva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeri"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "vakabuda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "muvivo ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vaMitsiraimu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:03:55.562260362Z",
+  "model": "glm-5.3"
+}

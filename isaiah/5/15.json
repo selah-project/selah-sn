@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Munhu wakaomesherwa, murume wakadzikiswa, uye maziso evakakwidza achadzikiswa.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "wakaomesherwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "wakadzikiswa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "evakakwidza"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "achadzikiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:27.793692596Z",
+  "model": "glm-5.3"
+}

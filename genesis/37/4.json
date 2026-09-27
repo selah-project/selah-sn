@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Bachete vake vakachiona kuti baba vavo vakada ⟨iye⟩ kupfuura dzimwe hanzvadzi dzake dzose, navo vakamuvenga, uyeivo vaisa kugona kumutaura runyararo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "vakachiona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Bachete vake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "vakada iye"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "vakada"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba vavo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kupfuura"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake dzose"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "vakamuvenga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vakamuvenga (muvengi: Yosefu)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uyeivo vaisa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kugona"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kumutaura"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "runyararo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:08.540537496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mabharabharwa eguta achazadzwa nevana vakomana nevasikana, vachitamba mumabharabharwa awo.",
+  "tokens": [
+    {
+      "surface": "ורחובות",
+      "gloss": "mabharabharwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "eguta"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "achazadzwa"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "vana vakomana"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "nevasikana"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "vachitamba"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "mumabharabharwa awo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:13.925995348Z",
+  "model": "glm-5.3"
+}

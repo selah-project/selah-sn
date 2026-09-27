@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Akapedza kutaura ⟨naye⟩, uye Erohimu akakwira kubva paAbhurahama.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "akapedza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:55.375430188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvose zvinoteerana sevose: chiitiko chimwe chete — kumutsvene nokumuipi, kwawakakanaka, nowakachena nowatsvina, kune anopira chibairo nokune asina kupira; sewakakanaka, semutadzi; iye anopika, seuyo anotya chitsidzo.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "chiitiko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimwe chete"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kumutsvene"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "nokumuipi"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kwawakakanaka"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "nowakachena"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "nowatsvina"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "nokune anopira chibairo"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "nokune uyo"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "asina"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kupira"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "sewakakanaka"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "semutadzi"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "iye anopika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "chitsidzo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:42.125301354Z",
+  "model": "glm-5.3"
+}

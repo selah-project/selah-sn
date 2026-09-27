@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Nzombe dzakawanda dzakandikomberedza; dzesimba reBhashani dzakandizingidza.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "dzakandikomberedza"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "nzombe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dzakawanda"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "dzesimba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "reBhashani"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "dzakandizingidza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:15.598963451Z",
+  "model": "glm-5.3"
+}

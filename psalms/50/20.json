@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Unogara uchitsoropodza hanzvadzi yako yechirume; mukomana waamai vako womupa nyadzo.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Unogara"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "hanzvadzi yako yechirume"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uchitsoropodza"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mukomana wa-"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "amai vako"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "womupa"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "nyadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:07.802400062Z",
+  "model": "glm-5.3"
+}

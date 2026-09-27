@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti idzo dzichava chishongo chetsvene ⟨pa⟩musoro pako, nesvondere pamhanyira dzako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "chishongo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chetsvene"
+    },
+    {
+      "surface": "הם",
+      "gloss": "idzo"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "nesvondere"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "pamhanyira dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:49.091653999Z",
+  "model": "glm-5.3"
+}

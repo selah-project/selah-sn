@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Ndikati: Er wangu, usandikwidzise pakati pemazuva angu; mudzoro remadzoro makore ako.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ndikwidzise"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva angu"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mudzoro re"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "madzoro"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "makore ako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:29.587786900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uchaita mapango emiti yeshitima, uye uchazvitsvhinyira ndarama.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "emiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeshitima"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uchazvitsvhinyira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mapango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:06.022980465Z",
+  "model": "glm-5.3"
+}

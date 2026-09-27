@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 43:34",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Akapfumbatira zvikwata zvekudya zvichibva ⟨את⟩ pachiso chake, zvichienda kwavari; asi chikwata chaBinjamina chakawanda nekupfuura zvikwata zvose zvavo, nezvikwata shanu. Ndipo vakamwa, vakamwa vakzorodzwa navo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "akapfumbatira"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "zvikwata zvekudya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "zvikwata zvekudya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pachiso chake"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "zvichienda kwavari"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "chakawanda"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "chikwata"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "chaBinjamina"
+    },
+    {
+      "surface": "ממשאת",
+      "gloss": "nekupfuura zvikwata"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zvose zvavo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "shanu"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "zvikwata"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "vakamwa"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "vakamwa vakzorodzwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:20:22.190059677Z",
+  "model": "glm-5.3"
+}

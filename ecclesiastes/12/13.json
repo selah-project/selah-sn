@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Magumu ezvinhu zvose, zvose zvanzwikwa: itya ⟨את⟩ Erohimu, uye chengeta ⟨את⟩ miteowo yake; nokuti izvi ndizo zvose ⟨zve⟩ munhu.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "magumu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ezvinhu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "zvanzwikwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "itya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miteowo yake"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "miteowo yake"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "chengeta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yomunhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:00.585764626Z",
+  "model": "glm-5.3"
+}

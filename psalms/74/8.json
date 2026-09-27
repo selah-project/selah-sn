@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Vakati mumoyo yawo: Tigarasire zvose pamwe. Vakapisa dzose nzvimbo dzeusangano zvaEr munyika.",
+  "tokens": [
+    {
+      "surface": "אָמְר֣וּ",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "בְ֭לִבָּם",
+      "gloss": "mumoyo yawo"
+    },
+    {
+      "surface": "נִינָ֣ם",
+      "gloss": "tigarasire"
+    },
+    {
+      "surface": "יָ֑חַד",
+      "gloss": "zvose pamwe"
+    },
+    {
+      "surface": "שָׂרְפ֖וּ",
+      "gloss": "vakapisa"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "מוֹעֲדֵי",
+      "gloss": "nzvimbo dzeusangano"
+    },
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "zvaEr"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:22.590210587Z",
+  "model": "glm-5.3"
+}

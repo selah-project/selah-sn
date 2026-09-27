@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Uye vakaita ⟨את⟩ mabwe eShohamu, akavharwa munezvimiro zvezarandi, vakachekwa muchekero wechirevo, nezita revanhu vaIsiraeri.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "uye vakaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabwe eShohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "eShohamu"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "akavharwa"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "munezvimiro"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zezarandi"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "vakachekwa"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "muchekero"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "wechirevo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "zita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:23.889395454Z",
+  "model": "glm-5.3"
+}

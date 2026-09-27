@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Nekudyarerwa kwavapfava, nekuchema kwutema, zvino ndichamuka, Yahwe achiti; ndichaisa ⟨uye⟩ mubetsero, ⟨uye anofembera⟩ iye.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "nekudyarerwa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "kwavapfava"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "nekuchema"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "kwutema"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ndichamuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndichaisa"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "mubetsero"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "anofembera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:03.130418448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Izwi raYahwe riri pamusoro pemvura; Er wekurukudzo anorira zororo; Yahwe riri pamusoro pemvura yakawanda.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "riri pamusoro pe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wekurukudzo"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "anorira zororo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "riri pamusoro pe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yakawanda"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:43.526185809Z",
+  "model": "glm-5.3"
+}

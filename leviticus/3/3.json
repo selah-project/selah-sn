@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye achapisa chikamu chechibairo cheShelamimu, chinopiswa mota kuYahwe: mafuta anofukidza mukati, nesvose mafuta ari pamusoro pemukati.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "achapisa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "chikamu chechibairo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "cheShelamimu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "chinopiswa mota"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta anofukidza mukati"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "anofukidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukati"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svose mafuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "svose"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mukati"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:05.867626715Z",
+  "model": "glm-5.3"
+}

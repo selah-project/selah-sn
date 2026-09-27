@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye ⟨את⟩ Keshedhi, uye ⟨את⟩ Hazvo, uye ⟨את⟩ Piredhashi, uye ⟨את⟩ Jidhirafhi, uye ⟨את⟩ Bhetueri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Keshedhi"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Keshedhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Hazvo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Piredhashi"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Piredhashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Jidhirafhi"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Jidhirafhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Bhetueri"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Bhetueri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:23.410547139Z",
+  "model": "glm-5.3"
+}

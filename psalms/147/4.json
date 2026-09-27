@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anoverenga huwandu hwenyeredzi; kwavose anovadaidza nomazita avo.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "anoverenga"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "huwandu"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "hwenyeredzi"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kwavose"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mazita"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "anovadaidza"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:06.822313232Z",
+  "model": "glm-5.3"
+}

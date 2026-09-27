@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Asi ⟨את⟩ ropa rarwo haudyi; panopasi upoure semvura.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "asi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ropa rarwo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ropa rarwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haudyi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nopasi"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "upoure"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "semvura"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:19.368277752Z",
+  "model": "glm-5.3"
+}

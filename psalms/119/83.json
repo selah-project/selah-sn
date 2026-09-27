@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Nokuti ndave senheke iri mutsinga; mitemo yako handina kanganva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndave"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "senheke"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "iri mutsinga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mitemo yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handa-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kanganva"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:07.597420580Z",
+  "model": "glm-5.3"
+}

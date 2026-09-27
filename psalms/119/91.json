@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Nokutonga kwako zvacho zvakamira nhasi; nokuti izvo zvese varanda vako.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "nokutonga kwako"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "zvakamira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "izvo zvese"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda vako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:17.750432100Z",
+  "model": "glm-5.3"
+}

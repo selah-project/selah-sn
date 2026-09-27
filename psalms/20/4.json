@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Arangarire minhadzo yako dzose, uye chipiro chako chokupisa achizviita mafuta. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Arangarire"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "minhadzo yako"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "uye chipiro chako chokupisa"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "achizviita mafuta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:27.227193096Z",
+  "model": "glm-5.3"
+}

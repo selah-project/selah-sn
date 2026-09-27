@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Nokuti kune chinguva nemutongo chechinhu chose choshuvirwa; nokuti kuipa kwomunhu hwahuru pamusoro pairi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "chechinhu chose"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "choshuvirwa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kane"
+    },
+    {
+      "surface": "עת",
+      "gloss": "chinguva"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nemutongo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kwomunhu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hwahuru"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pairi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:20.585498323Z",
+  "model": "glm-5.3"
+}

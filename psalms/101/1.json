@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 101,
+  "translation": "Nzvimbo yaDhavhidhi. Hesedhi nemutemo ndinorumbidza ndichiimba; kwamuri, Yahwe, ndinoridza rwuyo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzvimbo yerwiyo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nemutemo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndinorumbidza ndichiimba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndinoridza rwuyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:48.201247194Z",
+  "model": "glm-5.3"
+}

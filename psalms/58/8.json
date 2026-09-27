@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Vanyungudike semvura ichidzika; vafambe zvavo nokufamba; arawuya ⟨את⟩ museve wavo, vave seakadimburwa.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "vanyungudike"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura ichidzika"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "vafambe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zvavo nokufamba"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "arawuya"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "museve wavo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "akadimburwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:33.067034946Z",
+  "model": "glm-5.3"
+}

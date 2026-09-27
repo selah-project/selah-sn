@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Yosefu akakwira kuviga ⟨את⟩ baba vake; navo vakakwira ⟨את⟩ naye servants ese aParao, vakuru vebazuva rake, neshe vakuru venyika yeMitsirayi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "kuviga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vakakwira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ese"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "aParao"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru ve"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bazuva rake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "neshe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru ve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsirayi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:17.124089645Z",
+  "model": "glm-5.3"
+}

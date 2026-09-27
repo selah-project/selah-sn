@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Kushu akabarira ⟨את⟩ Nimurodh; ndiye akatanga kuva simba <<>> <<>> <<>> <<>> <<>>",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kushu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akabarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimurodh"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimurodh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "החל",
+      "gloss": "akatanga"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "simba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:02.102329088Z",
+  "model": "glm-5.3"
+}

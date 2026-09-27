@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Yahwe akati kwaari: Enda, dzokera panzira yako kuwanda kwakatenderera kweDhamasiko, uye unozoenda, uye unozodza ⟨את⟩ Hazaeli ave mambo pamusoro peAramu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "dzokera"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "panzira yako"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "kuwanda kwakatenderera"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "kweDhamasiko"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "unozoenda"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "unozodza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaeli"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ave mambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:17.062785108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 143,
+  "translation": "Ndakatambanura maoko anga kwauri; mweya wangu senyika yakaoma zvachose ndinonzwa nzara yako. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Ndakatambanura"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maoko anga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "senyika"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "yakaoma zvachose"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:16.235200517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Zvakaipa zvinotevera vatadzi, uye ⟨את⟩ vatsvene anodzosa zvakanaka.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "vatadzi"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "zvinotevera"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "vatsvene"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "anodzosa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:58.309704152Z",
+  "model": "glm-5.3"
+}

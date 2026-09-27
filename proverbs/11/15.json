@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Anorwadziwa ane chitsigiro chaanopa mutoro, asi anovenga vachibata ruoko anovimba.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "anorwadziwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekuda"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chitsigiro chaanopa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mutoro"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "asi anovenga"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "vachibata ruoko"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "anovimba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:25.311454203Z",
+  "model": "glm-5.3"
+}

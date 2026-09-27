@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti nguva dzose ndaiva nechokwadi, handingapindure; ndinonamata kune ⟨muchweri⟩ wangu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ndaiva nechokwadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handinga-"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "pindure"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "kune muchweri wangu"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ndinonamata"
+    }
+  ],
+  "timestamp": "2026-09-27T09:35:03.148997240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mupenzi anowedzera mazwi: munhu haazivi chichaitwa; uye izvo zchichaitwa mushure make, ndiani achamudavirira?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "Mupenzi"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "anowedzera"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "-zivi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "chichaitwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye izvo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zchichaitwa"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "mushure make"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "achamudavirira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "−kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:17.128233102Z",
+  "model": "glm-5.3"
+}

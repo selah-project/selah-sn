@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Erohimu akagadzira shongoloro pakubuda kwemambakwedza mangwanana unotevera; iro rakarova ⟨את⟩ kikayoni, uye rakanyora.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "shongololo"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "pakubuda"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "kwemambakwedza"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "mangwanana unotevera"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "rakarova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayoni"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayoni"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "rakanyora"
+    }
+  ],
+  "timestamp": "2026-09-27T08:44:00.425737794Z",
+  "model": "glm-5.3"
+}

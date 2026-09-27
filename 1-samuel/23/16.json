@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Yonatani mwana waSaulu akamuka akaenda kunaDhavhidhi muHoresha, akasimbisa ⟨את⟩ ruoko rwake muErohimu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "waSaulu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "muHoresha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "akasimbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "muErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:49.760199319Z",
+  "model": "glm-5.3"
+}

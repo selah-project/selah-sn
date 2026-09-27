@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Asi ⟨את⟩ imba yaYehudha ndichaitira nyasha, uye ndichaponesa neYahwe Erohimu wavo, uye handichaponesa neuta, kana nemupanga, kana nehondo, kana nemabhiza, kana nevatakura mabhiza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Asi ⟨את⟩",
+      "marks": "imba yaYehudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaYehudha"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ndichaitira nyasha"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "uye ndichaponesa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "neYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handi-"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "-chaponesa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "neuta"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "kana nemupanga"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "kana nehondo"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kana nemabhiza"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "kana nevatakura mabhiza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:31.623383728Z",
+  "model": "glm-5.3"
+}

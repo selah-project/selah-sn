@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 39:2",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Ndichakudzoserera, ndichakutungamira, ndichakutora kubva kumagumo emaodzanyemba, ndichakuisa pamusoro pemakomo eIsraeri.",
+  "tokens": [
+    {
+      "surface": "ושבבתיך",
+      "gloss": "Ndichakudzoserera"
+    },
+    {
+      "surface": "וששאתיך",
+      "gloss": "ndichakutungamira"
+    },
+    {
+      "surface": "והעליתיך",
+      "gloss": "ndichakutora kubva"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "kumagumu kwe"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "emaodzanyemba"
+    },
+    {
+      "surface": "והבאותך",
+      "gloss": "ndichakuisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:30:47.749376875Z",
+  "model": "glm-5.3"
+}

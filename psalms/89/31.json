@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Kana vana vake vakasiya tora yangu, uye muzviverengwo zangu vasingafambe—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora yangu"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "muzviverengwo zangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "visi-"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "vingafambe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:50.154939850Z",
+  "model": "glm-5.3"
+}

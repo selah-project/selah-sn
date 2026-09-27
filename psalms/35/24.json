@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nditongere nomutsvene wako, Yahwe Erohimu wangu; uye rega vafare neni.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Nditongere"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "nomutsvene wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "vafare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "neni"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:38.092223216Z",
+  "model": "glm-5.3"
+}

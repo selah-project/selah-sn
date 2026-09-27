@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "iwe unozviudzwa, iwe unonzwa; iwe unotsvaka chokwadi nemazvo; tarira — chokwadi chokadi, nyaya yakadzorwa: chakanyadzisa ichi chakaitwa mukati meIsuraeri;",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "unozviudzwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "unonzwa"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "unotsvaka"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "nemazvo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "chakadzorwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nyaya"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "chakaitwa"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "chakanyadzisa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mukati meIsuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:16:26.737094283Z",
+  "model": "glm-5.3"
+}

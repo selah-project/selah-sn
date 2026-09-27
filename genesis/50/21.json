@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Zvino musatye; ini ndichakuchengetai, nesekuru vana venyu vadiki. Akavaverengera zvakanaka, ndokutaura kwakafadza pamusoro pemoyo yavo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mutye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ndichakuchengetai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "venu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana venyu vadiki"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vana venyu vadiki"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "akavaverengera zvakanaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ avo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ndokutaura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:47.117958392Z",
+  "model": "glm-5.3"
+}

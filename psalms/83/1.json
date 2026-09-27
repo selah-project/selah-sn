@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Nziyo — mazimudzo — ea Asafu.",
+  "tokens": [
+    {
+      "surface": "שִׁ֖יר",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "מִזְמ֣וֹר",
+      "gloss": "mazimudzo"
+    },
+    {
+      "surface": "לְאָסָֽף",
+      "gloss": "ea Asafu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:15.646553112Z",
+  "model": "glm-5.3"
+}

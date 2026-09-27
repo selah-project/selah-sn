@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Ndichapinda masimba aAdonai Yahwe; ndichorangarira kururama kwako — kwauri chete.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Ndichapinda"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "masimba a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ndichorangarira"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kururama kwako"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kwauri chete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:12.298192853Z",
+  "model": "glm-5.3"
+}

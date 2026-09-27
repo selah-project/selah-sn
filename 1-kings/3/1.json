@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Shoromohu akatora mukadzi mubatanidzwa nerumwe rudzi rwakaita ⟨את⟩ Farao, umambo weMitsiri, akatora ⟨את⟩ mukomana-wanasikana waFarao, ndokuunza kuGuta raDhavhidhi kusvikira apedza kuvaka ⟨את⟩ imba yake, ne⟨את⟩ imba yaYahwe, ne⟨את⟩ rusvingo rweYerusharema rounda-dzose.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "akatora mukadzi mubatanidzwa nerumwe rudzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsiri"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukomana-wanasikana waFarao"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mukomana-wanasikana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "ndokuunza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Guta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "raDhavhidhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvikira"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "apedza"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "rusvingo rweYerusharema"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "rusvingo rwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharema"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rounda-dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:03.958645335Z",
+  "model": "glm-5.3"
+}

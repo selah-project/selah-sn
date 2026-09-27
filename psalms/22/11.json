@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Pauri ndakagovekwa kubva mudumbu; kubva mudumbu amai vangu iwe uri Er wangu.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Pauri"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ndakagovekwa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kubva mudumbu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kubva mudumbu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "amai vangu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe uri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:11.491816612Z",
+  "model": "glm-5.3"
+}

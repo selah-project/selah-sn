@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndichitambira munyika yake inogarwa, uye mafaro angu ari ⟨את⟩ vana vanhu.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "ndichitambira"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "munyika inogarwa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "uye mafaro angu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vanhu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:32.915767363Z",
+  "model": "glm-5.3"
+}

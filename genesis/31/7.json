@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Asi baba venyu vakandinenga, vakachinja ⟨את⟩ mubairo wangu kanhi gumi; asi Erohimu haakamupa mukana wekundirwadzisa.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "asi baba venyu"
+    },
+    {
+      "surface": "התל",
+      "gloss": "vakandinenga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "vakachinja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mubairo wangu"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "mubairo wangu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "kanhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi... ha"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "haakamupa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "wekundirwadzisa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:53.078444222Z",
+  "model": "glm-5.3"
+}

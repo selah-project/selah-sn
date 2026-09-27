@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Uchafesa zvose, mhepo ichazvitengeredza, chisveru chinodzungaira nacho ⟨את⟩; iwe uchafara munaYahwe, mumutsvene weIsiraeri uchazvitumba.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Uchafesa zvose"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "ichazvitengeredza"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "chisveru"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "chinodzungaira nacho"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ivo",
+      "marks": "ivo (izvozvo zvapfuura)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "uchafara"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "mumutsvene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsiraeri"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "uchazvitumba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:48.802092959Z",
+  "model": "glm-5.3"
+}

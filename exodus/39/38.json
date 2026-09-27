@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "uye ⟨את⟩ arutari yendarama, uye ⟨את⟩ mafuta ekuzodza, uye ⟨את⟩ fumo rezvinhunga, uye ⟨את⟩ chivharo chemusuwo weteende;",
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "arutari"
+    },
+    {
+      "surface": "מִזְבַּח",
+      "gloss": "arutari"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "הַמִּשְׁחָה",
+      "gloss": "ekuzodza"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "fumo"
+    },
+    {
+      "surface": "קְטֹרֶת",
+      "gloss": "fumo"
+    },
+    {
+      "surface": "הַסַּמִּים",
+      "gloss": "rezvinhunga"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "chivharo"
+    },
+    {
+      "surface": "מָסַךְ",
+      "gloss": "chivharo"
+    },
+    {
+      "surface": "פֶּתַח",
+      "gloss": "chemusuwo"
+    },
+    {
+      "surface": "הָאֹהֶל",
+      "gloss": "weteende"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:25.279337865Z",
+  "model": "glm-5.3"
+}

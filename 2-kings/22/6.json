@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kune zvokuita nemhizha, nevavaki, nevagadziri madziro; uye kutenga miti nematombo akatepuka, kusimbisa ⟨את⟩ mumba.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "nemhizha"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "nevavaki"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "nevagadziri madziro"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "kutenga"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "miti"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "nematombo"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "akatepuka"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "kusimbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mumba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "mumba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:33.955160074Z",
+  "model": "glm-5.3"
+}

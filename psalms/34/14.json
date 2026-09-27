@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Chengeta rurimi rwako kubva kune zvakaipa, nomilomo yako kubva pekutaura kunyengera.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "chengeta"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "rurimi rwako"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kubva kune zvakaipa"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "nomilomo yako"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kubva pekutaura"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "kunyengera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:58.348493891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Farao akanzwa ⟨את⟩ chinhu ichi, akaedza kuuraya ⟨את⟩ Moshe; Moshe akatiza kubva pachiso chaFarao, akagara munyika yaMidhiani, akagara padhamhu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinhu ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "akaedza"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "kuuraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubva pachiso cha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ya"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midhiani"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "dhamhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:32.766690286Z",
+  "model": "glm-5.3"
+}

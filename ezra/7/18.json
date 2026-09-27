@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 7:18",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye chero chinhu chichizvioneka chakanaka kwauri nevanun'una vako kuita nendera rasara idzi — ⟨kesepha⟩ nendarama — nokuda hwaEr yenyu muchaita.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "uye chero chinhu"
+    },
+    {
+      "surface": "די",
+      "gloss": "chii"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vanun'una vako"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "chichizvioneka chakanaka"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "nendera rasara idzi"
+    },
+    {
+      "surface": "כספא",
+      "gloss": "⟨kesepha⟩"
+    },
+    {
+      "surface": "ודהבה",
+      "gloss": "nendarama"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "אלהכם",
+      "gloss": "hwaEr yenyu"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "muchaita"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:31.084438382Z",
+  "model": "glm-5.3"
+}

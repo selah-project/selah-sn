@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Ramba akamuka mangwanani, akatsvaka ⟨את⟩ vanakomana vake nevanasikana vake, akavafadza; akabva aenda, Ramba akadzokera kunzvimbo yake.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akamuka mangwanani"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ramba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "akatsvaka"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "vanakomana vake"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "nevanasikana vake"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "akavafadza"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (vanakomana nenvanasikana)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akabva aenda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akadzokera"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ramba"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kunzvimbo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:18.440238908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Kuna Davhidhi. Kwazivo, Yahwe, mweya wangu ndinomutsa kukwachamuri.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kuna Davhidhi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwazivo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ndinomutsa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:25.717256388Z",
+  "model": "glm-5.3"
+}

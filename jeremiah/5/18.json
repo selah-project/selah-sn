@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Asi zvirokwazvo mazuva iwayo, naizvozvo ndokuti Yahwe, handigokuita ⟨את⟩ imi paradzo yakazara.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Asi zvirokwazvo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "iwayo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "naizvozvo ndokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "gokuita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "paradzo yakazara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:53:38.786341870Z",
+  "model": "glm-5.3"
+}

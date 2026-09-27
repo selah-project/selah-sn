@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Havana kuchengeta sungano yaYahwe kana kutora yake vakaramba kufamba mairi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Havana"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "kana mutora yake"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "vakaramba"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kufamba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:18.634442229Z",
+  "model": "glm-5.3"
+}

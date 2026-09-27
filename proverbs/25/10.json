@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nedza iye anonzwa akunyadzise, uye ruzha rwako rwakaipa harudzoki.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "nedza"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "akunyadzise"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "iye anonzwa"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "uye ruzha rwako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haru-"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "dzoki"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:35.449673594Z",
+  "model": "glm-5.3"
+}

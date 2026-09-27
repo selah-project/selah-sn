@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti anoti: Handiti vatungamiri vangu vose ndivo madzishe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Handiti"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vatungamiri vangu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "vose"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "madzishe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:14.906635122Z",
+  "model": "glm-5.3"
+}

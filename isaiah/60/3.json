@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Uye marudzi achafamba muchiedza chako, uye madzimambo pachena pezvakanangwa chako.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "achafamba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "muchiedza chako"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "uye madzimambo"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "pachena"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "pezvakanangwa chako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:03.838358290Z",
+  "model": "glm-5.3"
+}

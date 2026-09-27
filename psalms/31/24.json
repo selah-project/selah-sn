@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Idai Yahwe, vatsvene vake ose; Yahwe anochengeta vatendi, anobhadhara zvakanyanya uyo anoshanda nekudzikuza.",
+  "tokens": [
+    {
+      "surface": "אֶֽהֱב֥וּ",
+      "gloss": "Idai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "חֲסִ֫ידָ֥יו",
+      "gloss": "vatsvene vake"
+    },
+    {
+      "surface": "אֱ֭מוּנִים",
+      "gloss": "vatendi"
+    },
+    {
+      "surface": "נֹצֵ֣ר",
+      "gloss": "anochengeta"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וּמְשַׁלֵּ֥ם",
+      "gloss": "anobhadhara"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "יֶ֝֗תֶר",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "עֹשֵׂ֥ה",
+      "gloss": "anoshanda"
+    },
+    {
+      "surface": "גַאֲוָֽה",
+      "gloss": "nekudzikuza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.326344095Z",
+  "model": "glm-5.3"
+}

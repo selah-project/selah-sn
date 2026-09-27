@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "akaunganidza ⟨את⟩ mutumbi wake muguva rake; vakachema pamusoro pake achiti: Howa, munin'ina wangu!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutumbi wake"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "mutumbi wake"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "muguva rake"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "vakachema"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pake"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Howa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "munin'ina wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:44.549075041Z",
+  "model": "glm-5.3"
+}

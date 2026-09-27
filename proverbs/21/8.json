@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Nzira yomunhu mukori inopererekedza uye inocheneka; asi wemutsvene, kururama ⟨ndiyo⟩ basa rake.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "inopererekedza"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Nzira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomunhu"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "mukori uye inocheneka"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "asi wemutsvene"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "basa rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:27:34.034824631Z",
+  "model": "glm-5.3"
+}

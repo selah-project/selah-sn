@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ava ndevana vaChamu, nemadzinza avo, nendimi dzavo, munyika dzavo, mumarudzi avo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ava"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "חם",
+      "gloss": "vaChamu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemadzinza avo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "nendimi dzavo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "munyika dzavo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "mumarudzi avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.848977617Z",
+  "model": "glm-5.3"
+}

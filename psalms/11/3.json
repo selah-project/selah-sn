@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti tsigiri dzava kukanganiswa; murungamarari achaita chii?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "tsigiri"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "dzava kukanganiswa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "murungamarari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "achaita"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:17.104712978Z",
+  "model": "glm-5.3"
+}

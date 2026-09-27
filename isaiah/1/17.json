@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Dzidzai kuita zvakanaka, tsvagai mishumo, simbarutsai ane chisvinu, tendai nhedzi, tivirai mushendi.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "Dzidzai"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "tsvagai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishumo"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "simbarutsai"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "ane chisvinu"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "tendai nyaya"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "nhedzi"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "tivirai"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mushendi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:45.855672408Z",
+  "model": "glm-5.3"
+}

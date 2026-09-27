@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Chinonyadzisa chadya shanda dzavadzikoro vedu kubva kutenderera kwedu; ⟨את⟩ nwai dzenhamba nedzerombe, ⟨את⟩ vana vavo nevanasikana vavo.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "Chinonyadzisa"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "chadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanda dzavadzikoro vedu"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "shanda"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "dzavadzikoro vedu"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "kubva kutenderera kwedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nwai dzenhamba"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "nwai dzenhamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dzerombe"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "dzerombe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vavo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "vana vavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanasikana vavo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "vanasikana vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:51:32.209978637Z",
+  "model": "glm-5.3"
+}

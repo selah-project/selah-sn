@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Papo vakatyiswa kutya kukuru; nokuti Erohimu ari mudzinza revatsvene.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Papo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "vakatyiswa"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kutya kukuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mudzinza"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "revatsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:38.218609732Z",
+  "model": "glm-5.3"
+}

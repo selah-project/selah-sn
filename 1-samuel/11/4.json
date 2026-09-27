@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Vatumwa vakasvika paGiviya raShaure, vakataura mashoko maziso evanhu; uye vanhu vose vakasimudza ⟨את⟩ izwi ravo, vakachema.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakasvika"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "Vatumwa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "paGiviya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "raShaure"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "vakasimudza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi ravo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi ravo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "vakachema"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:17.403900157Z",
+  "model": "glm-5.3"
+}

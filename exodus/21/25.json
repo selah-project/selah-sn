@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "kuvhara pachinvadza pamusoro pekuvhara, jodzi pamusoro pejodzi, tsvimbo pamusoro petsvimbo.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "kuvhara pachinvadza"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "kuvhara pachinvadza"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "jodzi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "jodzi"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tsvimbo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:28.818721058Z",
+  "model": "glm-5.3"
+}

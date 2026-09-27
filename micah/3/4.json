@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino iwo vachachemedza kuna Yahwe, asi haazovapinduri; achavanzidza chiso chake kuburi kwavari panguva iyoyo, sokuita kwavakaipa mabasa avo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Zvino iwo"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "vachachemedza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haazovi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "achapindura"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "achavapinduri (vavo)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "achavanzidza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuburi kwavari"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "kuita kwavakaipa"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "mabasa avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:37.692378098Z",
+  "model": "glm-5.3"
+}

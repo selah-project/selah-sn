@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Mweya weMitsrayimu uchaperera mukati maro, ndichamedzira hurumendo yayo; vachakumbira kune zvifananidzo, kune vanyeredzi, kune mashave, nevanyanzvi vezivo.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "uchaperera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayimu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "mukati maro"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "hurumendo yayo"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ndichamedzira"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "vachakumbira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "zvifananidzo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "vanyeredzi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "mashave"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nevanyanzvi"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "vezivo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:33.302551648Z",
+  "model": "glm-5.3"
+}

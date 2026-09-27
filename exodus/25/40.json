@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye pona, uye ita, nemufananidzo wawo waunoratidzwa kukwira.",
+  "tokens": [
+    {
+      "surface": "וּרְאֵ֗ה",
+      "gloss": "pona"
+    },
+    {
+      "surface": "וַעֲשֵׂ֛ה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "בְּתַבְנִיתָ֥ם",
+      "gloss": "nemufananidzo wawo"
+    },
+    {
+      "surface": "אֲשֶׁר־",
+      "gloss": "wa"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "מָרְאֶ֖ה",
+      "gloss": "unoratidzwa"
+    },
+    {
+      "surface": "בָּהָֽר",
+      "gloss": "kukwira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:52.979702850Z",
+  "model": "glm-5.3"
+}

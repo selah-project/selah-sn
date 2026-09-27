@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Nokuti Yahwe anonzwa vanoshayi zvose, uye ⟨את⟩ vakasungirwa vake haazvitadzire.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anonzwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "vanoshayi zvose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vakasungirwa vake"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "vakasungirwa vake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazvitadzire"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kuzvitadzira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:57.089634949Z",
+  "model": "glm-5.3"
+}

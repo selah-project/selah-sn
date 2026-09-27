@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Akati kwavati: Endai nokwe mazuva matatu, wobva mudzoke kundiri; uye ⟨vanhu⟩ vakafamba enda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "endai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nokwe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "mudzoke"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:50.152455809Z",
+  "model": "glm-5.3"
+}

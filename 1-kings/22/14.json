@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Mikayahu akati: Yahwe mohhenyu, chinhu chokwadi icho Yahwe achataura kwandiri, ndicho chandinotaure ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mohhenyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinhu icho Yahwe achataura kwandiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icho"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "achataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chinhu icho chandinotaure"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndinotaure"
+    }
+  ],
+  "timestamp": "2026-09-27T07:16:46.506222952Z",
+  "model": "glm-5.3"
+}

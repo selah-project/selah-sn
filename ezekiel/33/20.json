@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Zvimwe muchati: “Nzira yaAdonai haina kuyerwa.” Mumwe nomumwe anenzira dzake ndinokutongai ⟨את⟩ imi, mhuri yaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "muchati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "kuyerwa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "anenzira dzake"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ndinotonga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi, mhuri yaIsraeri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mhuri ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:12:41.480735116Z",
+  "model": "glm-5.3"
+}

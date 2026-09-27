@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Nokuti Dhavhidhi akati: Yahwe, Erohimu weIsraeri, akazorora ⟨את⟩ vanhu vake, uye vagara muYerushalemi kusvika nokusvika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "akazorora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "vagara"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerushalemi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusvika"
+    }
+  ],
+  "timestamp": "2026-09-27T10:26:33.678186653Z",
+  "model": "glm-5.3"
+}

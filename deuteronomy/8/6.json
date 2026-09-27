@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye uchachengeta ⟨את⟩ mirairo yaYahwe Erohimu wako, yokufamba munzira dzake, nokumutya ⟨iye⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "uchachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yaYahwe Erohimu wako"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yokufamba"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "munzira dzake"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "nokumutya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Yahwe)"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:42.899565735Z",
+  "model": "glm-5.3"
+}

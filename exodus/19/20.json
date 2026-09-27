@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Yahwe akatsika pahomo yaSinai, kumusoro kwehomo; uye Yahwe akadana Moshe kumusoro kwehomo, uye Moshe akakwira.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akatsika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "homo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yaSinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kwehomo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kwehomo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:04.362012195Z",
+  "model": "glm-5.3"
+}

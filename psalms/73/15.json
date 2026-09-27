@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Kana ndaimuti ndichataura nazvo, taona, ndaitadzira marudzi evana vako.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndaimuti"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nazvo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "evana vako"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ndaitadzira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:08.384117931Z",
+  "model": "glm-5.3"
+}

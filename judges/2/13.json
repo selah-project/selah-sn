@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye vakasiya ⟨את⟩ Yahwe, uye vakashumira Bhari neAshtaroti.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "vakashumira"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Bhari"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "neAshtaroti"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:50.918008666Z",
+  "model": "glm-5.3"
+}

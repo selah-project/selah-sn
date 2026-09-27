@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Dhavhidhi akataura kunaYahwe mazwi erwiyo urwu, muzuva Yahwe pakamununura ⟨אתו⟩ kubva mumanja emhavha yavavengi vake, nokubva mumanja eShaure.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi erwiyo urwu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "erwiyo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uru"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "pakamununura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kubva mumanja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "emhavha ya"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vavengi vake"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "nokubva mumanja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "eShaure"
+    }
+  ],
+  "timestamp": "2026-09-27T07:02:53.273930508Z",
+  "model": "glm-5.3"
+}

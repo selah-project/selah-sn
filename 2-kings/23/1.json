@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye mambo akatuma, vakavakaunganidzwa kwavari vose vakuru veYuhudha neveYerusharema.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "vakavakaunganidzwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "veYuhudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neveYerusharema"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:28.430618838Z",
+  "model": "glm-5.3"
+}

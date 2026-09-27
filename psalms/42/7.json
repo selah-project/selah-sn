@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Erohimu wangu, mweya wangu unodzikwa pamusoro pangu; naizvozvo ndinokurangarira iwe kubva munyika yaYorodhani, neCheremoni, kubva kundavara yaMitsari.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "unodzikwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ndinokurangarira iwe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "yaYorodhani"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "neCheremoni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "kubva kundavara"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "yaMitsari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:09.352832076Z",
+  "model": "glm-5.3"
+}

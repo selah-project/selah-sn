@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akati: Waita sei? Ruzha rweropa rwehanzvadzi yako runodanidzira kwandiri kubva muivhu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waita"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rwehanzvadzi yako"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "runodanidzira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "muivhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:17.396999988Z",
+  "model": "glm-5.3"
+}

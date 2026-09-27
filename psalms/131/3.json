@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 131,
+  "translation": "Israeri, gara unomirira kuna Yahwe, kubvira izvozvi kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "gara unomirira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kubvira izvozvi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:50.372904440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye kana umutuma asununguka, achibva pauri, haumutume wakaenzera;",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "umutuma"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "asununguka"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "achibva pauri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "-mutume"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "wakaenzera"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:53.144855871Z",
+  "model": "glm-5.3"
+}

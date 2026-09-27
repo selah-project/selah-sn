@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Panzira yezvumbowo zvako ndakafara, sekufanana neupfumi hwose.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "panzira"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "yezvumbowo zvako"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "ndakafara"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "sekufanana ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "הון",
+      "gloss": "upfumi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:05.365914155Z",
+  "model": "glm-5.3"
+}

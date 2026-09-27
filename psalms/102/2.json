@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Yahwe, nzweni ndembedzo yangu, uye kuchema kwangu ngakuuye kwamuri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nzweni"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ndembedzo yangu"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "uye kuchema kwangu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ngakuuye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.178144216Z",
+  "model": "glm-5.3"
+}

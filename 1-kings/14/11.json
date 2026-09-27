@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Anofa waYarobhoamu muguta adyiwa nembwa; anofa mundevha adyiwa neshiri dzomhepo; nokuti Yahwe wataura.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "anofa"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "waYarobhoamu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adyiwa"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "nembwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "anofa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mundevha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "adyiwa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "neshiri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dzomhepo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wataura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:54.854011403Z",
+  "model": "glm-5.3"
+}

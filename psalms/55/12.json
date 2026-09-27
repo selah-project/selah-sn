@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Kuparadzwa kuri mukati meiyo; kuremerwa nekunyengera hakuna kusiya nzira yakakura yayo.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "kuparadzwa"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mukati meiyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kuna kusiya"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "nzira yakakura yayo"
+    },
+    {
+      "surface": "תך",
+      "gloss": "kuremerwa"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "nekunyengera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:02.184714534Z",
+  "model": "glm-5.3"
+}

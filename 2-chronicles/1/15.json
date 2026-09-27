@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mambo akapa ⟨את⟩ sirivha ne⟨את⟩ goridhe muYerushalema semabwe, uye ⟨את⟩ masedhare akapa semichero yesikimori iri muShafela, zvakawanda.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirivha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goridhe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "goridhe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerushalema"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "semabwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masedhare"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "masedhare"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "semichero yesikimori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "muShafela"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "zvakawanda"
+    }
+  ],
+  "timestamp": "2026-09-27T10:29:08.078617928Z",
+  "model": "glm-5.3"
+}

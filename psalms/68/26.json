@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Vayimbi vakatungamira, vavhinyi vadzokutsiva; pakati pennge dzirikurova matebvu.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "vakatungamira"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "vayimbi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "vadzokutsiva"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "vavhinyi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "nnge"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "dzirikurova matebvu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:21.279083987Z",
+  "model": "glm-5.3"
+}

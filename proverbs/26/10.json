@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Sedzinokuvadza zvose, ndizvozvo uyo anoshanda mupfava, neuyo anoshanda avhuruka.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "museyi (sedzi)"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "anokuvadza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ndizvozvo uyo anoshanda"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mupfava"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "neuyo anoshanda"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "avhuruka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:24.234910215Z",
+  "model": "glm-5.3"
+}

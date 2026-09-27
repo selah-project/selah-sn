@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Madzishe emadzinza akaunganidzwa ⟨se⟩vanhu vaMwari waAbhurahama; nokuti ndeaErohimu ⟨ndiwo⟩ nhoo dzepasi; akakudzwa zvakanyanya.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "emadzinza"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "akaunganidzwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "vaMwari wa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ndeaErohimu"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "nhoo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dzepasi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "akakudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:22.426508115Z",
+  "model": "glm-5.3"
+}

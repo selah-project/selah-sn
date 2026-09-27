@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Wakashatirwa muwake maziso ndiyani akarambwa; uye ⟨את⟩ vanotya Yahwe anoremekedza; anopika kuita chakaipa, uye haashanduri.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "wakashatirwa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "muwake maziso"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "akarambwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanotya Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "vanotya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "anoremekedza"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "anopika"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kuita chakaipa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "shanduri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:22.624516782Z",
+  "model": "glm-5.3"
+}

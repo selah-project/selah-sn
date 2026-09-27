@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Nokuti haudi chibairo — dai waitoda, ndaipikiswa; chibairo chinopiswa haudifaro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "udi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dai waitoda, ndaipikiswa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "chibairo chinopiswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "difaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:11.426388374Z",
+  "model": "glm-5.3"
+}

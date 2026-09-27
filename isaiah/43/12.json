@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Ndini ndakazivisa, ndakanunura, ndakaita kuti munzwe; uye mukati menyu hakuna muhari — imi ndimi mabhizimendi andu, ndokuti Yahwe, uye ndini Er.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndakazivisa"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ndakanunura"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ndakaita kuti munzwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "mukati menyu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "muhari"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "imi ndimi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mabhizimendi andu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "uye ndini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:56.611423087Z",
+  "model": "glm-5.3"
+}

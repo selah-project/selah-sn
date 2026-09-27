@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Wakunga shure kutsamwako kwose; wakadzoka kubva pakupisa kwekushusha kwako.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "wakunga shure"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwose"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "kutsamwako"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "wakadzoka"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "pakupisa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kwekushusha kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:27.425968116Z",
+  "model": "glm-5.3"
+}

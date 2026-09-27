@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe Erohimu wenyu, wakafamba mumberi kwenyu, ndiye acharwa hondo yenyu, sezvaakaita ⟨את⟩ muri muIjipita pamberi me_maso enyu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wenyu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "wakafamba"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mumberi kwenyu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "acharwa hondo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenyu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvaakaita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sezvaakaita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ muri",
+      "marks": "muri (imi pachenyu)"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muIjipita"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "pamberi meso enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:02.179388784Z",
+  "model": "glm-5.3"
+}

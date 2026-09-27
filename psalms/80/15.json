@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Erohimu Tsevaoti, dzokai newu! Tarirai kubva kudenga, uye ona, uye shanyira mbanje ino —",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "dzokai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "newu"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "Tarirai"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kubva kudenga"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uye ona"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "uye shanyira"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "mbanje"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ino"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:11.096982811Z",
+  "model": "glm-5.3"
+}

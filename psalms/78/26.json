@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akafambisa mhepo yekumabvazuva mumatenga, ndokutungamira nesimba rake mhepo yechamhembe.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "akafambisa"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "yekumabvazuva"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mumatenga"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ndokutungamira"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "nesimba rake"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "yechamhembe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:24.178356343Z",
+  "model": "glm-5.3"
+}

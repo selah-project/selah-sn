@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Simuka, simudza ⟨את⟩ mukomana, uye utsigire ⟨את⟩ ruoko rwako paari; nokuti mutaunda mukuru ndichamuisa.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "simuka"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "simudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukomana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "utsigire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "mutaunda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ndichamuisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:36.326792905Z",
+  "model": "glm-5.3"
+}

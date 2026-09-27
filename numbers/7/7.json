@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "⟨את⟩ zvigorosi zviviri ne⟨את⟩ mombe ina akapa vana vaGerishoni, zvinoenderana nebasa ravo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvigorosi zviviri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "zviviri"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "zvigorosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mombe ina"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ina"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "vaGerishoni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "zvinoenderana"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "nebasa ravo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:46.973378212Z",
+  "model": "glm-5.3"
+}

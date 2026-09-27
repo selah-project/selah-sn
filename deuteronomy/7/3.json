@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Wokuti hauuroorane navo: mwanasikana wako hauumupi mukomana wake, uye mwanasikana wake hauutori nomukomana wako.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Wokuti hau"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "uroorane"
+    },
+    {
+      "surface": "בם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "mwanasikana wako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hau"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "umupi"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "mukomana wake"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "nemwanasikana wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hau"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "utori"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "nomukomana wako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:34.371548174Z",
+  "model": "glm-5.3"
+}

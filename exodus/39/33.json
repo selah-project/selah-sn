@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Uye vakazununguka neMishikani kuna Mose, ⟨את⟩ dhenda, uye ⟨את⟩ zvinhu zvose zvavo — zviumbwamabvi zvavo, mapanga avo, mabhari avo, matsi avo, nezvitsigiro zvavo.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "vakazununguka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishikani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishikani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhenda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "dhenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zvinhu zvose zvavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinhu zvavo"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "zviumbwamabvi zvavo"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "mapanga avo"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "mabhari avo"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "matsi avo"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "nezvitsigiro zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:34.077789281Z",
+  "model": "glm-5.3"
+}

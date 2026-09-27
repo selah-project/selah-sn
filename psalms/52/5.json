@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Unoda zvakaipa pane zvakanaka, uye nhema pane kutaura chokwadi. Sera.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "unoda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "pane zvakanaka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nhema"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pane kutaura"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:18.330514794Z",
+  "model": "glm-5.3"
+}

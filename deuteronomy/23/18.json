@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Kwete kuva nedhedhesha mavanakomana evaIsraeri, uye kwete kuva nedhedheshi mavakomana evaIsraeri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "nedhedhesha"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mavanakomana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "evaIsraeri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye kwete"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nedhedheshi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "mavakomana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "evaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:18:12.763145136Z",
+  "model": "glm-5.3"
+}

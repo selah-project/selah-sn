@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Asi vakadzoka shure kweizvi, vakadzorera ⟨את⟩ varanda nomapfumo ⟨את⟩ varanda vechikadzi avo vakatumira vasununguka, vakavadzvanyirira kuita varanda navaranda vechikadzi.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "vakadzoka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "vakadzorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "varanda vechikadzi"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "varanda vechikadzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "vakatumira"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "vasununguka"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "vakavadzvanyirira"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "kuita varanda"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "nekuita varanda vechikadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:05:26.824441536Z",
+  "model": "glm-5.3"
+}

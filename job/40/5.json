@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Kamwe ndataura, asi handidi kupindura; kaviri, asi handisi kuwedzera.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ndataura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi handidi"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "kupindura"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kaviri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi handisi"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "kuwedzera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:44:24.114847402Z",
+  "model": "glm-5.3"
+}

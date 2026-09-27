@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Iye achandivakira imba, ndichagadzirira ⟨את⟩ chigaro chake choushe kusvika nguva isingaperi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "achavaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ndichagadzirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chigaro chake choushe"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chigaro chake choushe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nguva isingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:53.591566214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ngo Hamani akatora ⟨את⟩ vhumbiro ne⟨את⟩ bvudzi, akapfeka ⟨את⟩ Morodhakai, akamureka parwizi rweguta, achidana pamberi pake kuti: Kudaro ndiko kunoitirwa mukoma anomuda mambo kumukudza.",
+  "tokens": [
+    {
+      "surface": "וַיִּקַּ֤ח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "הָמָן֙",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vhumbiro"
+    },
+    {
+      "surface": "הַלְּב֣וּשׁ",
+      "gloss": "vhumbiro"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "bvudzi"
+    },
+    {
+      "surface": "הַסּ֔וּס",
+      "gloss": "bvudzi"
+    },
+    {
+      "surface": "וַיַּלְבֵּ֖שׁ",
+      "gloss": "akapfeka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Morodhakai"
+    },
+    {
+      "surface": "מָרְדֳּכָ֑י",
+      "gloss": "Morodhakai"
+    },
+    {
+      "surface": "וַיַּרְכִּיבֵ֨הוּ֙",
+      "gloss": "akamureka"
+    },
+    {
+      "surface": "בִּרְחֹ֣ב",
+      "gloss": "parwizi"
+    },
+    {
+      "surface": "הָעִ֔יר",
+      "gloss": "weguta"
+    },
+    {
+      "surface": "וַיִּקְרָ֣א",
+      "gloss": "achidana"
+    },
+    {
+      "surface": "לְפָנָ֔יו",
+      "gloss": "pamberi pake"
+    },
+    {
+      "surface": "כָּךָ",
+      "gloss": "kudaro"
+    },
+    {
+      "surface": "יֵעָשֶׂ֣ה",
+      "gloss": "ndiko kunoitirwa"
+    },
+    {
+      "surface": "לָאִ֔ישׁ",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "wa-"
+    },
+    {
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חָפֵץ",
+      "gloss": "anomuda"
+    },
+    {
+      "surface": "בִּיקָרֽוֹ",
+      "gloss": "kumukudza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:52.275635836Z",
+  "model": "glm-5.3"
+}

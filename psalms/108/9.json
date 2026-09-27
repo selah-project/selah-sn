@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 108,
+  "translation": "Giladh ndeyangu, Menashe ndeyangu, uye Efraimu ndiye husimba hwemusoro wangu; Yudhah ndiye mutungamiri wangu.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ndeyangu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndeyangu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "uye Efraimu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "husimba"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hwemusoro wangu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudhah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mutungamiri wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:33.219912479Z",
+  "model": "glm-5.3"
+}

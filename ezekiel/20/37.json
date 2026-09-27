@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Ndichaita kuti mupfuure pasi petsvimbo, uye ndichakuisai mukusungwa kwenhumbiri yesungano.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "Ndichaita kuti mupfuure"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi (mupfuure)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ndichakuisai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi (mukusungwa)"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "mukusungwa kwenhumbiri"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "yesungano"
+    }
+  ],
+  "timestamp": "2026-09-27T08:23:29.884917091Z",
+  "model": "glm-5.3"
+}

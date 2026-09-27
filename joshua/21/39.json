@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Hheshibhoni nomatunhu ayo, ⟨את⟩ Yhaziiri nomatunhu ayo — maguta ose ina.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hheshibhoni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hheshibhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunhu ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "matunhu ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yhaziiri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yhaziiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunhu ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "matunhu ayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:25.501289541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 3:2",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe akati kuna Satani: “Yahwe akutuka iwe, Satani; uye Yahwe wasarudza Yerushalema akutuka iwe. Here uyu haasi danda rinobuda mumoto?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "יגער",
+      "gloss": "akatuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "ויגער",
+      "gloss": "uye … akatuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הבחר",
+      "gloss": "wasarudza"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Here"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אוד",
+      "gloss": "danda"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "rinobuda"
+    },
+    {
+      "surface": "מאש",
+      "gloss": "mumoto"
+    }
+  ],
+  "timestamp": "2026-09-27T08:48:54.249378818Z",
+  "model": "glm-5.3"
+}

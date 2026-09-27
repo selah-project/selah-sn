@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Unogadzira tafura pamberi panguva, pachiso chevavengi vangu; unodzora musoro wangu nemafuta; kombe yangu yakazara kusvika kupfuurira.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "unogadzira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi panguva, pachiso che"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "unodzora"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nemafuta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "musoro wangu"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kombe yangu"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "yakazara kusvika kupfuurira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:06.668905751Z",
+  "model": "glm-5.3"
+}

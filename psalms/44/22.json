@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Haagoni here Erohimu kuedza izvi? Nokuti ndiye anoziva zvakavanzika zvemoyo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "haagoni here"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "kuedza"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "zvakavanzika"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zemoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:11.256983760Z",
+  "model": "glm-5.3"
+}

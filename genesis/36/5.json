@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Nokuti Ahoribhama akazvara ⟨את⟩ Yeyishi ne⟨את⟩ Yealamu ne⟨את⟩ Koraki. Ava ndivo vana vaEsavu vakazvarwa kwaari munyika yeKanaani.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Nokuti Ahoribhama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeyishi"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeyishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yealamu"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yealamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Koraki"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ava"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vaEsavu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vano"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "vakazvarwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yeKanaani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:07.615554945Z",
+  "model": "glm-5.3"
+}

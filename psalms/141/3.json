@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 141,
+  "translation": "Isa, Yahwe, muchengeti pakanwa angu; chengeta musuo wemilomo yangu.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "muchengeti"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pakanwa angu"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "chengeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pa⟩"
+    },
+    {
+      "surface": "דל",
+      "gloss": "musuo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wemilomo yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:01.169310697Z",
+  "model": "glm-5.3"
+}

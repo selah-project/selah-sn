@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "akaitaridza ⟨את⟩ pamberi pangu; uye iri rakanyorwa mberi neshure, uye kunyorwa kwairi kuri: nziyo dzorera, nokuchema, nedambudziko.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "akaitaridza"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "pamberi pangu (gwaro)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "uye iri"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "rakanyorwa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mberi (chiso)"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "neshure"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "uye kunyorwa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwairi"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "nziyo dzorera"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "nokuchema"
+    },
+    {
+      "surface": "והי",
+      "gloss": "nedambudziko"
+    }
+  ],
+  "timestamp": "2026-09-27T08:15:54.250016187Z",
+  "model": "glm-5.3"
+}

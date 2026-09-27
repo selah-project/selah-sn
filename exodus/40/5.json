@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uchogadzikisa ⟨את⟩ mizbeka yendarama yemkunzi pamberi peArki yechitupa, uchoisa ⟨את⟩ chivharo chemukova waMishikani.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uchogadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeka yendarama yemkunzi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "yemkunzi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "yechitupa"
+    },
+    {
+      "surface": "ו שמת",
+      "gloss": "uchoisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivharo chemukova"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chivharo"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "chemukova"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "waMishikani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:10.107296089Z",
+  "model": "glm-5.3"
+}

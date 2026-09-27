@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Zvinogumuchwa here zvishamiso zvako murima, neruramisiro rwako munyika yekukanganwa?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "zvinogumuchwa here"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "murima"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "zvishamiso zvako"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "neruramisiro rwako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "kukanganwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.741301184Z",
+  "model": "glm-5.3"
+}

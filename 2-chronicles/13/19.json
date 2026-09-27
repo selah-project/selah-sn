@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 13:19",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye Abhuya akatevera Yarobhoamu, akatora kubva kwaari maguta: ⟨את⟩ Beti-eri nemadzinza aro, ne⟨את⟩ Yeshana nemadzinza aro, ne⟨את⟩ Efroni nemadzinza aro.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "akatevera"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abhuya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kwa- (mashure a-)"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobhoamu"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwaari"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-eri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti- (imba)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-eri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzinza aro aYeshana"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "madzinza aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Yeshana"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "Yeshana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzinza aro aEfroni"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "madzinza aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Efroni"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efroni"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "nemadzinza aro"
+    }
+  ],
+  "timestamp": "2026-09-27T10:34:57.443825251Z",
+  "model": "glm-5.3"
+}

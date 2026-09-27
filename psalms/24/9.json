@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Simukai nenzira dzemusuvo, masuwo, uye simukai nenzira dzemusuvo, masuvo enhoroondo dzakareba; kuti umbe weRukudzo auye. Mutu wenyu -- -- -- -- Rukudzo",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Simukai nenzira dzemusuvo -- vataure"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "masuwo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mutu wenyu"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "uye simukai nenzira dzemusuvo -- vataure"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "masuwo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "enhoroondo dzakareba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "auye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umbe"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "weRukudzo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:02.438014137Z",
+  "model": "glm-5.3"
+}

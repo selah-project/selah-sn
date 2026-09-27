@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Asi pa mhuri dzenhoro dzaive nehoromwe, haana kubvisa matanda; saka dzakashaikwa dzakava dzaRabhani, asi dzakasimbaka dzakava dzaYaakobhwa.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "asi pavakange nehoromwe"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mhuri dzenhoro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "kubvisa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "saka dzakava"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "dzakashaikwa"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "dzaRabhani"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "asi dzakasimbaka"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "dzaYaakobhwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:06.117906282Z",
+  "model": "glm-5.3"
+}

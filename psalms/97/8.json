@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 97,
+  "translation": "Ziyoni yakanzwa yakafara, uye madzimadzi aYudha akadzidzira nokuda kwemitumbo yako, iwe Yahwe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "yakanzwa"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "yakafara"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "akadzidzira"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "madzimadzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "aYudha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mitumbo yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:36.869329924Z",
+  "model": "glm-5.3"
+}

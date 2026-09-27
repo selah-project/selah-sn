@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye kugara kwako, nekubuda kwako, nekuuya kwako, ndinoziva; uye ⟨את⟩ hasha dzako dziri pandiri.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "kugara kwako"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "kubuda kwako"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "kuuya kwako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinoziva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hasha dzako"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "hasha dzako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dziri pandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:39.420996709Z",
+  "model": "glm-5.3"
+}

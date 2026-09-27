@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye vachapamhadza pamusoro pavo begede retukurwazi tsvuku, uye vacharifukidza nechifukidzo chiganda retakashi, uye vachaisa ⟨את⟩ tsvimbo dzaro.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "vachapamhadza"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "begede"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "retukurwazi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tsvuku"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "vacharifukidza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nechifukidzo"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "nechifukidzo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "cheganda"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "retakashi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "vachaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsvimbo dzaro"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tsvimbo dzaro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:55.859156997Z",
+  "model": "glm-5.3"
+}

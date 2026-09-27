@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 23:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Nokuti nyika yazara vanopombadzira; nokuti pachiso pemambure nyika yochema, mafuro esango akoma; uye rwendo rwavo rwakaipa, nesimba ravo harisi kudaro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "vanopombadzira"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yazara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mambure"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "yochema"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "akoma"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mafuro"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "esango"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "uye rwouve"
+    },
+    {
+      "surface": "מרוצתם",
+      "gloss": "rwendo rwavo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rakaipa"
+    },
+    {
+      "surface": "וגבורתם",
+      "gloss": "nesimba ravo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "harisi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kudaro"
+    }
+  ],
+  "timestamp": "2026-09-27T08:00:18.712460469Z",
+  "model": "glm-5.3"
+}

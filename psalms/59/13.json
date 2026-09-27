@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Chitadzo chemuromo wavo, izwi remidoro yavo — ndokutorwa mukuzvikudza kwavo; nokuti kutuka nekunyepa kwavanotaura.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "chitadzo"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "chemuromo wavo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "remidoro yavo"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ndokutorwa"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "mukuzvikudza kwavo"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "nokuti kutuka"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "nekunyepa"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "kwavanotaura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:21.264426086Z",
+  "model": "glm-5.3"
+}

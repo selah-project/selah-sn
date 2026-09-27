@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uunoita vanhu sehove dzegungwa, sekukambaira kune pasina mutongi pazviri?",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲשֶׂה",
+      "gloss": "uunoita"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כִּדְגֵי",
+      "gloss": "sehove"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "dzegungwa"
+    },
+    {
+      "surface": "כְּרֶמֶשׂ",
+      "gloss": "sekukambaira"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "מֹשֵׁל",
+      "gloss": "mutongi"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "pazviri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:45:34.759475909Z",
+  "model": "glm-5.3"
+}

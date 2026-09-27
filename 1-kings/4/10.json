@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Beni-Chesedhi muArubhoti; wake aiva naSokohi nenyika yose yaHefperi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Beni-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesedhi"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "muArubhoti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wake"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokohi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nyika yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "yaHefperi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:02.317895304Z",
+  "model": "glm-5.3"
+}

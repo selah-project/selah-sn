@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Kune mutungamiri wemabheki, mabheki eaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri wemabheki"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mabheki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "eaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:42.592023296Z",
+  "model": "glm-5.3"
+}

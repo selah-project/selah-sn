@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Asi havana kuteerera, uye havana kutsveya ⟨את⟩ nzeve dzavo; vakaita ⟨את⟩ ruzha rwavo gota, kuti varege kuteerera, uye kuti varege kutora dzidziso.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "havana kuteerera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "kutsveya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzeve dzavo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "nzeve dzavo"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "vakaita gota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruzha rwavo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ruzha rwavo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti varege"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "kuteerera"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "uye kuti varege"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kutora"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "dzidziso"
+    }
+  ],
+  "timestamp": "2026-09-27T11:07:14.749977707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Rukudzo rwaErohimu ndiro kuvanza chinhu, uye rukudzo rwavamambo ndiro kutsoredza chinhu.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "kuvanza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "uyerukudzo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "vamambo"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kutsoredza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:07.183871825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Nemhepo yekumabvazuva unoputsa ngarava dzeTarishishi.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "nemhepo"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "yekumabvazuva"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "unoputsa"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ngarava"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "dzeTarishishi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:02.900166965Z",
+  "model": "glm-5.3"
+}

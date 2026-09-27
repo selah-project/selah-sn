@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Samueri akadaidza ⟨את⟩ vanhu kuna Yahwe kuMitsipa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "akadaidza"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "kuMitsipa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:17.642275573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye mudumbu wayo netsvitso dzayo achachiwasha nemvura; uye muprista achapfusha ⟨את⟩ zvose paaltari — chibairo chokupiswa, chibairo chemoto, munwha unonaka kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "mudumbu wayo"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "tsvitso dzayo"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "achawasha"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "achapfusha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "muprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "paaltari"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chibairo chokupiswa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "chibairo chemoto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "munwha"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "unonaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:40.357501877Z",
+  "model": "glm-5.3"
+}

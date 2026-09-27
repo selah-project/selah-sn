@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Munzwe ⟨את⟩ shoko iro Yahwe akataura kwamuri, imba yaIsraeri.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Munzwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:55:35.985523163Z",
+  "model": "glm-5.3"
+}

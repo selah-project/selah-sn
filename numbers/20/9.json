@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Moshe akatora ⟨את⟩ tsvimbo kubva pachiso chaYahwe, sokuda kwaakamurayira.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsvimbo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "kubva pachiso cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "akamurayira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:01:45.610122782Z",
+  "model": "glm-5.3"
+}

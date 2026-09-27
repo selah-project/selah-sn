@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uzi akabereka ⟨את⟩ Zerachia; Zerachia akabereka ⟨את⟩ Merayothi.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachia"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachia"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Zerachia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayothi"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayothi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:42.716658954Z",
+  "model": "glm-5.3"
+}

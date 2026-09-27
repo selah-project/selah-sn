@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Asi Erohimu wedu ari matenga; zvose izvo aanoda akazviita.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Asi Erohimu wedu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ari matenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "aanoda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akazviita"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.560606575Z",
+  "model": "glm-5.3"
+}

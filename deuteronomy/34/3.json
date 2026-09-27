@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "nev⟨את⟩ Negeribhu, nev⟨את⟩ chadhhambo — mbonzva yeYeriho, guta remarula — kusvika Tsoara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nev⟨את⟩",
+      "marks": "Negeribhu"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negeribhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nev⟨את⟩",
+      "marks": "chadhhambo"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "chadhhambo"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "mbonzva"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "yeYeriho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "remarula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoara"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:48.017138690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Arupakashadhi akazvara ⟨את⟩ Shuraku, uye Shuraku akazvara ⟨את⟩ Ebheru.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arupakashadhi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shuraku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shuraku"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "uye Shuraku"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebheru"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebheru"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:36.626325849Z",
+  "model": "glm-5.3"
+}

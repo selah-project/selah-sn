@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Pamberi pechiso rake vanopfugama vagari vematema, navavengi vake vanonanzva ivhu.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "pamberi pechiso rake"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "vanopfugama"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "vagari vematema"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "navavengi vake"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "vanonanzva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:54.173501038Z",
+  "model": "glm-5.3"
+}

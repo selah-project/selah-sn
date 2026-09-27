@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Hana akanyengetedza, akati: Moyo wangu unofara zvikuru munaYahwe, nyanga yangu yakasimudzwa munaYahwe, muromo wangu wakazara ⟨pamusoro pe⟩ vavengi vangu, nokuti ndafara muchiponeso chako.",
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "akanyengetedza"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "unofara zvikuru"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "yakasimudzwa"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "nyanga yangu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "wakazara-wakawandisa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ndafara"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "muchiponeso chako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:39.117725371Z",
+  "model": "glm-5.3"
+}

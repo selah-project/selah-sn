@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Nokuti vakapotsedza zvakaipa kwauri; vakaronga chirongwa chakaipa, asi havagone kuchiita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "vakapotsedza"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "vakaronga"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "chirongwa chakaipa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "havagone"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:54.114896054Z",
+  "model": "glm-5.3"
+}

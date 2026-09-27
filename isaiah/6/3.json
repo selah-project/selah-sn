@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Umwe akadana mumwe wawo, akati: Mutsvene, mutsvene, mutsvene, Yahwe Tsevaoti; nyika yose yakazara ⟨nerukudzo⟩ rwake.",
+  "tokens": [
+    {
+      "surface": "וְקָרָא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "Umwe"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "mumwe wawo"
+    },
+    {
+      "surface": "וְאָמַר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "קָדוֹשׁ",
+      "gloss": "Mutsvene"
+    },
+    {
+      "surface": "קָדוֹשׁ",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "קָדוֹשׁ",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צְבָאוֹת",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מְלֹא",
+      "gloss": "kuzara"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "כְּבוֹדוֹ",
+      "gloss": "rukudzo rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:49.923837867Z",
+  "model": "glm-5.3"
+}

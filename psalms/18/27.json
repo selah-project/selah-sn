@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nevakachena unoratidza kuchena, uye nevakaperepeta unovapinza muperepeto.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "vakachena"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "unoratidza kuchena"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "uye ne"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "vakaperepeta"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "unovapinza muperepeto"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:27.756499429Z",
+  "model": "glm-5.3"
+}

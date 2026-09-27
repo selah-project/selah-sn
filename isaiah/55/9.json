@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Nokuti sokureba kwematenga kupfuura ⟨⟨pasiri⟩⟩ pasi, saizvozvo nzira dzangu dzakareba kupfuura nzira dzenyu, nefungwa dzangu kupfuura fungwa dzenyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "zvakareba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kupfuura pasi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "dzakareba"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira dzangu"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "kupfuura nzira dzenyu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "nefungwa dzangu"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "kupfuura fungwa dzenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:33.840043759Z",
+  "model": "glm-5.3"
+}

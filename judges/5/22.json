@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 5:22",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvino mapadzi emabhiza akarohwa <את> nokudyadzira kwevasimba vavo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "akarohwa"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mapadzi"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "emabhiza"
+    },
+    {
+      "surface": "מדהרות",
+      "gloss": "nokudyadzira"
+    },
+    {
+      "surface": "דהרות",
+      "gloss": "kudyadzira"
+    },
+    {
+      "surface": "אביריו",
+      "gloss": "kwevasimba vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:33:12.919461406Z",
+  "model": "glm-5.3"
+}

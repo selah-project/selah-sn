@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvichaitika, kana vasatenda iwe, uye vasingateerere izwi rechiratidzo chekutanga, vachatenda izwi rechiratidzo chechipiri.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvichaitika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vasa"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye vasa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "teerere"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "izwi re"
+    },
+    {
+      "surface": "האת",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "chekutanga"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "vachatenda"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "izwi re"
+    },
+    {
+      "surface": "האת",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "chechipiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:22.217022317Z",
+  "model": "glm-5.3"
+}

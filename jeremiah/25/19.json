@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "⟨את⟩ Farao mambo weIjipita, ne⟨את⟩ varanda vake, ne⟨את⟩ madzitare vake, ne⟨את⟩ vanhu vake vose.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weIjipita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzitare vake"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "madzitare vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanhu vake vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:01:33.118885628Z",
+  "model": "glm-5.3"
+}

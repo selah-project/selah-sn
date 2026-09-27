@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "kuchengeta mirairo yaYahwe ⟨את⟩ nemitemo yake, iyo ndinokurayirai nhasi, kuti zvive zvakanaka kwamuri.",
+  "tokens": [
+    {
+      "surface": "לִשְׁמֹר",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yaYahwe"
+    },
+    {
+      "surface": "מִצְוֺת",
+      "gloss": "mirairo"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yake"
+    },
+    {
+      "surface": "חֻקֹּתָיו",
+      "gloss": "mitemo yake"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אָנֹכִי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "מְצַוְּךָ",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "לְטוֹב",
+      "gloss": "kuti zvive zvakanaka"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:49.344187150Z",
+  "model": "glm-5.3"
+}

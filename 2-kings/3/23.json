@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vakati: Mutsipa uyu; madzimambo mazhinji vakaiparadzwa, uye mumwe nomumwe akarwa ⟨את⟩ nemwenzi wake; zvino naizvozvo, Muoabhu, kune chibharo!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "דם",
+      "gloss": "mutsipa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "vakaiparadzwa"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "vakaiparadzwa mazhinji"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "akarwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwenzi wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "nemwenzi wake"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zvino naizvozvo"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kune chibharo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muoabhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:07.994447985Z",
+  "model": "glm-5.3"
+}

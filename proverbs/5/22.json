@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvakaipa zvake zvinomubata ⟨את⟩ mupfambi, uye netambo dzechitadzo chake achibatirwa.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "zvakaipa zvake"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "zinomubata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mupfambi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mupfambi"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "netambo dza"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "chitadzo chake"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "achibatirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:03.723460702Z",
+  "model": "glm-5.3"
+}

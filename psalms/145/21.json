@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Rumbidzo rwaYahwe mutsara wanguucharitaura, nyama yose icharopafadza zita rake chitsvene nokusingaperi nokusingangoperwi.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "rumbidzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ucharitaura"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mutsara wangu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "icharopafadza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "chitsvene chake"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokusingangoperwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:29.544051792Z",
+  "model": "glm-5.3"
+}

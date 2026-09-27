@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Madzimambo epasi vakamira chimiriro, uye madzishe akasangana pamwe chete, pana Yahwe napamwo waMashiach wake.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "vakamira chimiriro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Madzimambo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "uye madzishe"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "akasangana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "על",
+      "gloss": "pana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "napamwo wa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiach wake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:07.985821219Z",
+  "model": "glm-5.3"
+}

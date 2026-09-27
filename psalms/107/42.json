@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vakanaka vachazviona vofara, uye mhosva yose ichavhara muromo wayo.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "vachazviona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "vakanaka"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "vofara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye yose"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ichavhara"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muromo wayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:10.424615204Z",
+  "model": "glm-5.3"
+}

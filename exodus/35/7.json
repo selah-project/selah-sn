@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "matewe emadzamba tsvuku, nematewe etechashi, nemiti yeshitim —",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "matewe"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "emadzamba"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "tsvuku"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "matewe"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "etechashi"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "emiti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeshitim"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:33.228083590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye mupristi achakwidza ⟨את⟩ chibairo chinopiswa ne⟨את⟩ minha paarutari; uye mupristi achabvisa mhosva yake, ndokutsveneka.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Uye achakwidza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chinopiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "chibairo chinopiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "paarutari"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "achabvisa mhosva"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ndokutsveneka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:40.114301721Z",
+  "model": "glm-5.3"
+}

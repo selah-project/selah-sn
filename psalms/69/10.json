@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Nokuti shungu yechimbo chako yandidya, uye kutuka kwevakakushinga kwakadzikira pandiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "shungu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "yechimbo chako"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "yandidya"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "kutuka"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "kwevakakushinga"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "kwakadzikira"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:35.653564734Z",
+  "model": "glm-5.3"
+}

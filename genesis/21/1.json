@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye Yahwe akashanyira ⟨את⟩ Sara sokuda kwakataurwa naye, uye Yahwe akaita kuna Sara sokuda kwaakataura.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Uye Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akashanyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwakataurwa naye"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "uye akaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kuna Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwaakataura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:31.217001489Z",
+  "model": "glm-5.3"
+}

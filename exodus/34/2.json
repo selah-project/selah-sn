@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Uye ita kuti ugadzirire mangwanani, uye uchakwira mangwanani kuenda kunondo yeSinai; uye yemira ⟨kwandiri⟩ ipapo pamusoro pemusoro wenondo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "uye ita kuti"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ugadzirire"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "uchakwira"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kunondo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yeSinai"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "uye yemira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kwandiri⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "wenondo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:49.739774362Z",
+  "model": "glm-5.3"
+}

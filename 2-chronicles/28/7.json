@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Ndiye Zikiri, mukomana wokucheka-simba weEfuraimu, akauraya ⟨את⟩ Maaseya mukoma wamambo, na⟨את⟩ Azrikamu mutungamiri wemba, na⟨את⟩ Erkanaha wechipiri kuna mambo.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikiri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mukomana wokucheka-simba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efuraimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseya"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Azrikamu"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikamu"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wemba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Erkanaha"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Erkanaha"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wechipiri kuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:39:52.377585812Z",
+  "model": "glm-5.3"
+}

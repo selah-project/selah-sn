@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Yakatuma matavi ayo kusvika gungwa, nekusvika rwizi madzinde mazana ayo.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "yakatuma"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "matavi ayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nekusvika"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "rwizi"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "madzinde mazana ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:19.909428040Z",
+  "model": "glm-5.3"
+}

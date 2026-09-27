@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Zvive pamberi paYahwe nguva dzose, kuti averse zviveryengwe zvavo pasi pano.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "zvive"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "paYahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kuti averse"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "pasi pano"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "zviveryengwe zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:17.247401809Z",
+  "model": "glm-5.3"
+}

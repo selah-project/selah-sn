@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Akauraya marudzi mazhinji, nekukanda madzimambo masimba.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "nekukanda"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "masimba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:02.279584184Z",
+  "model": "glm-5.3"
+}

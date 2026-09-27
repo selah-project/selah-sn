@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nzombe inoziva muridzi wayo, uye mbongoro inoziva danga ra⟨muridzi⟩ wayo; Israeri haizivi, vanhu vangu havanzwisisi.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "inoziva"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Nzombe"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "muridzi wayo"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "uye mbongoro"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "danga"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ra⟨muridzi⟩ wayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zivi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "vanzwisisi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:54.584545792Z",
+  "model": "glm-5.3"
+}

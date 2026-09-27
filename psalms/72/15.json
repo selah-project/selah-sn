@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Achararama, uye achapihwa ndarama yeShebha, uye vachanamata kwaari nguva dzose; zuva rose vachamukorora.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "achararama"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "achapa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ndarama ye"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebha"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "vachanamata"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva rose"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "vachamukorora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.205318752Z",
+  "model": "glm-5.3"
+}

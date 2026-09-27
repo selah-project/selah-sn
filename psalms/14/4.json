@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Havana kuziva here vose vanoita zvakaipa, vadya vanhu vangu semudyo wechingwa, havadana Yahwe here?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Havana…here"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kuziva here"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "vadya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "semudyo we"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana here (havadana)"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dana here"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:55.561703946Z",
+  "model": "glm-5.3"
+}

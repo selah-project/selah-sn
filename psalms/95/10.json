@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Makore makumi mana ndakazunzwa nuchizvarwa uyu, ndikati: Vanhu vanozvifambira miozo — ihwo, vangasi kuziva nzira dzangu.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ndakazunzwa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nuchizvarwa uyu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndikati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "vanozvifambira"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "miozo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ihwo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haasi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:37.777790439Z",
+  "model": "glm-5.3"
+}

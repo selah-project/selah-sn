@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ndichaisa Mishikani yangu pakati penyu, uye mweya wangu hauzotsvinyi ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichaisa"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishikani yangu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "pakati penyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hauzo-"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "tsvinyi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "muri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:16.216304873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Teererai, imi matenga, uye nziwe, iwe pasi, nokuti Yahwe ataura: vana vandakurerawo vandakakwidzirawo, asi vaka⟨dzopandukira⟩ ini.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Teererai"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "uye nziwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ataura"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "vandakakura"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "vandakakwidzira"
+    },
+    {
+      "surface": "והם",
+      "gloss": "asi vaka"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "pandukira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:54.584131320Z",
+  "model": "glm-5.3"
+}

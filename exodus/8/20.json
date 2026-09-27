@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe akadaro, zvino maarobhi akanyanya akapinda mumba yaFarao nomumba yevashumi wake; munyika yose yeMitsriyimu nyika yakaparadzwa nokuda kwemaarobhi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akadaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvacho"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "maarobhi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "akanyanya"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mumba ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nomumba ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "vashumi wake"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "muyose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsriyimu"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "yakaparadzwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "maarobhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:11.903110776Z",
+  "model": "glm-5.3"
+}

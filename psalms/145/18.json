@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Yahwe ⟨ari⟩ pedyo navose vakamudana, navose vakamudana muchokwadi.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "pedyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "navose"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "vakamudana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "navose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vakanzi"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "vakamudana"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "muchokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:05.865157216Z",
+  "model": "glm-5.3"
+}

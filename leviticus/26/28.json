@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "ndichafamba newe nhasha dzokusaradzika, uye ndicharwadzisa ⟨את⟩ imi; iniwo ndichashupa nomwe pamusoro pezvitadzo zvenyu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ndichafamba"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "nhasha"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "dzokusaradzika"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "ndicharwadzisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "zvitadzo zvenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:13.982044105Z",
+  "model": "glm-5.3"
+}

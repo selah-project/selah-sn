@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Nokudaro ndinobhaizwa nechiso chake; ndinongofunga, ndinotya iye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Nokudaro (pa)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nechiso chake"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "ndinobhaizwa"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ndinongofunga"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "ndinotya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:40:16.673635745Z",
+  "model": "glm-5.3"
+}

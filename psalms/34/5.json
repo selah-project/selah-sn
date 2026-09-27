@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Ndakaedza kutsvaga ⟨את⟩ Yahwe, ndokundipindura, akandinunura kubva kuzvinotyisa zvose zvandanga ndinotya.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ndakaedza kutsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ndokundipindura"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kubva kuzvinotyisa zvose"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "zvandanga ndinotya"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "akandinunura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:37.094561750Z",
+  "model": "glm-5.3"
+}

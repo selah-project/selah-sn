@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Nokuti ⟨hasa⟩ dzevanhu dzichakurumbidza; zvichasarira zvehasa dzichazvipinga ⟨dzoga⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hasa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "dzevanhu"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "dzichakurumbidza"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "zvichasarira"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zvehasa"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "dzichazvipinga"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:41.047053271Z",
+  "model": "glm-5.3"
+}

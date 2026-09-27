@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Mutsvinyi anoziva ⟨את⟩ mutemo wevarombo; rasha haanzwisi izivo.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvinyi"
+    },
+    {
+      "surface": "דין",
+      "gloss": "⟨את⟩ mutemo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "wevarombo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "anzwisi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "izivo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:15.446829506Z",
+  "model": "glm-5.3"
+}

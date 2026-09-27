@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Zvino rimwe payari kudonhedza danda, ⟨את⟩ simbi chakadonha mumvura; akadanhira achiti: Ahh, tenzi wangu! Zvino ⟨iri⟩ rakatorwa ngudinyanga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "kudonhedza"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "danda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "simbi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "simbi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "chakadonha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "akadanhira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ahh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tenzi wangu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "rakatorwa ngudinyanga"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:21.442678626Z",
+  "model": "glm-5.3"
+}

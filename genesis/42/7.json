@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yosefu akazovona ⟨את⟩ hanzvadzi dzake, akazoziva, asi akazviita semumweni kwavari, akataura ⟨את⟩ navo zvakakaoma; akati kwavari: Muno bva kupi? Vakati: Tinobva munyika yeKanani, kutenga chokudya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akazovona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanzvadzi dzake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "akazoziva"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "akazviita semumweni"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ navo",
+      "marks": "navo"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "zvakakaoma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "muno bva"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yeKanani"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kutenga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chokudya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:03.952283824Z",
+  "model": "glm-5.3"
+}

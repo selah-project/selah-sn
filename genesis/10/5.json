@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Kubva muneaya vakaparadzana zwitivu zvemadhanga munyika dzavo, mumwe nomumwe mutauro wake, mudzinza rwavo, mumadhanga avo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Kubva muneaya"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "vakaparadzana"
+    },
+    {
+      "surface": "איי",
+      "gloss": "zwitivu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zemadhanga"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "munyika dzavo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "mutauro wake"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mudzinza rwavo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "mumadhanga avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:04.091261368Z",
+  "model": "glm-5.3"
+}

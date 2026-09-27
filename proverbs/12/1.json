@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Anoda kurairwa anoda ruzivo, asi anodziya tumiriro ⟨uri⟩ mupenzi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kurairwa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ruzivo"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "asi anodziya"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tumiriro"
+    },
+    {
+      "surface": "בער",
+      "gloss": "uri mupenzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:22.780337833Z",
+  "model": "glm-5.3"
+}

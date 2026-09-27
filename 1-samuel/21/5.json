@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Mupristi akapindura ⟨את⟩ Dhavhidhi, akati: Hapana chingwa chisina kutsvenyeka pansi pezuwa rwangu, asi chingwa chitsvene chiripo; kana vakomana vechidiki vakazvichengeta kamwe chete kubva kuvakadzi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "חל",
+      "gloss": "chisina kutsvenyeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pansi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "pezuwa rwangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "יש",
+      "gloss": "chiripo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "vakazvichengeta"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "vakomana vechidiki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kamwe chete"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "kubva kuvakadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:51:05.700864018Z",
+  "model": "glm-5.3"
+}

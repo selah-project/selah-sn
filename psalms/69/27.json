@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Nokuti iwo vanoteveresa ⟨iye⟩ waurova, uye vanorevedza kurwadziwa kwevarwadziwa vako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨iye⟩ uyo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "waurova"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "vanoteveresa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kurwadziwa"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "kwevarwadziwa vako"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "vanorevedza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.284230317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Eli aive nomotsi wemakumi mapfumbamwe nerusere emakore, uye maziso ake akamira, uye haagoni kuona.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nomotsi we"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "makumi mapfumbamwe"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "nerusere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "uye maziso ake"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haagoni"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "agona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:45.065525913Z",
+  "model": "glm-5.3"
+}

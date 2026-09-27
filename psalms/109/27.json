@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Vazive kuti ruoko rwako ndirwo urwo; iwe, Yahwe, ndiwe wakaita ⟨izvi⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "vazive"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ndirwo urwo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wakaita"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:26.149473727Z",
+  "model": "glm-5.3"
+}

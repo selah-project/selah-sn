@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Akavanunura kubva ruoko rwaanovenga, akavadzikinura kubva ruoko rwomuvengi.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Akavanunura"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva ruoko"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "rwaanovenga"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "akavadzikinura"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva ruoko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "rwomuvengi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:32.928339102Z",
+  "model": "glm-5.3"
+}

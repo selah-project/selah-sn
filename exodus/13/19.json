@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mozhe akatora ⟨את⟩ matsimba eYosefa naa; nokuti akapapa zvikuru kupapa ⟨את⟩ vana vaIsiraeri, achiti: Erohimu achakutarisa chaizvo ⟨את⟩ imi, imi muchikwidza ⟨את⟩ matsimba angu kubva pano ⟨את⟩ nesu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsimba eYosefa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "matsimba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "eYosefa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "akapapa"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "kupapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "achakutarisa"
+    },
+    {
+      "surface": "יפפקד",
+      "gloss": "chaizvo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "muchikwidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsimba angu"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "matsimba angu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kubva pano"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nesu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:15.683531609Z",
+  "model": "glm-5.3"
+}

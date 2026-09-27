@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Wakatendeuka kuↄmapembero emushayachinyai, wakasadzikisa ⟨את⟩ mapembero avo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Wakatendeuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "mapembero"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "emushayachinyai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wakasa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "dzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapembero avo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "mapembero avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:13.752720827Z",
+  "model": "glm-5.3"
+}

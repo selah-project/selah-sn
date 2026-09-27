@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Yehoramu akamuka pautongamendi hwaBaba vake, uye akazvisimbisa, uye akauraya ⟨את⟩ vamwe vese vahanzvadzi dzake netsimba; zvakanangawo namadzishe amwe eIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoramu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "pautongamendi hwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "Baba vake"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "akazvisimbisa"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vamwe vese vahanzvadzi dzake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vese"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vahanzvadzi dzake"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "netsimba"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "zvakanangawo na"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:36:50.915675902Z",
+  "model": "glm-5.3"
+}

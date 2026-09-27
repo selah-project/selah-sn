@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mashoko evachengeta vzou anenge minzwa yokutiya, uye senhinga dzakadzika dzinoyedzwa navanomutsa mabhini; dzakapiwa nomufudzi mumwe chete.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mashoko"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "evachengeta vzou"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "anenge minzwa yokutiya"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "senhinga"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "dzakadzika"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "navanomutsa"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "mabhini"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dzakapiwa"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "nomufudzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:02.434541787Z",
+  "model": "glm-5.3"
+}

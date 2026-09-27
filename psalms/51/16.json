@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Ndisunungure kubva pamitsuva yemiridzi, Erohimu; Erohimu wekusunungura kwangu, rurimi rwangu rucharidzira kutenderera kwako.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ndisunungure"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "kubva pamitsuva yemiridzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu we"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "wekusunungura kwangu"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "rucharidzira"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "rurimi rwangu"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kutenderera kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:09.677847730Z",
+  "model": "glm-5.3"
+}

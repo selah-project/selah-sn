@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Simbai, uye moyo wenyu ucharuramika ⟨uye⟩ chitenderedzo, imi mese muchindirira Yahwe.",
+  "tokens": [
+    {
+      "surface": "חזְ֭קוּ",
+      "gloss": "Simbai"
+    },
+    {
+      "surface": "ויאממץ",
+      "gloss": "uye ucharuramika"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "moyo wenyu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mese"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "muchindirira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:22.854449355Z",
+  "model": "glm-5.3"
+}

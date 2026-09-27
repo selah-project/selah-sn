@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Yakobho akatuma, nokudanidzira Racheri naRea kunze ⟨kuminda⟩ kumafuyo ake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobho"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nokudanidzira"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Racheri"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "naRea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kunze ⟨kuminda⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "mafuyo ake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:10.646785480Z",
+  "model": "glm-5.3"
+}

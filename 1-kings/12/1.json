@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Rehaboamu akaenda kuShekemu, nokuti kuShekemu kwaunganwa neIsiraeri yose kumuita ⟨את⟩ iye mambo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehaboamu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "kuShekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "kuShekemu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwaunganwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kumuita mambo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:24.884834174Z",
+  "model": "glm-5.3"
+}

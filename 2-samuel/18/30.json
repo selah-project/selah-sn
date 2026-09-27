@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye mambo akati: Tswanyidza, mira pano. Uye akatswanyidza, akamira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "סב",
+      "gloss": "tswanyidza"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "mira"
+    },
+    {
+      "surface": "כה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "akatswanyidza"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akamira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:02:16.991766982Z",
+  "model": "glm-5.3"
+}

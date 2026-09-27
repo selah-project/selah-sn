@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye Yahwe achave nhare yevakakoserwa, nhare nguva dzenjodzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Uye achave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "nhare"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "yevakakoserwa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "nhare"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "nguva dze"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "njodzi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:28.057474827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Faraowo akadana vakachenjera nemásvikiro; zvino varume ve zvinyimo veMisrahi, ivo wo, vakaita saizvozvo nemitambo yavo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "vakachenjera"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "némasvikiro"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "varume vezvinyimo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "veMisrahi"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "nemitambo yavo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:14.398180153Z",
+  "model": "glm-5.3"
+}

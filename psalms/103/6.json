@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Yahwe anoita kururama nematongero kune ose vanodzvanyirwa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "nematongero"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kune ose"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "vanodzvanyirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:09.130907050Z",
+  "model": "glm-5.3"
+}

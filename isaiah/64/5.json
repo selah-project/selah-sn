@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Takava svinoyevedza tese, netsveno dzedu dzose sadziro rechambiro remwedzi; tese takaparara serishwa, uye mhosva dzedu, semhepo, dzakativhimuma.",
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "takava"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "svinoyevedza"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tese"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "sadziro"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "rechambiro remwedzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "tsveno dzedu"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "takaparara"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "serishwa"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tese"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "mhosva dzedu"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "semhepo"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "dzakativhimuma"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:15.642716957Z",
+  "model": "glm-5.3"
+}

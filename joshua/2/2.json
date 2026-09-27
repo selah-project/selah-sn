@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvakataurwa kumambo weYeriho, achiti: Ona, varume vakauya pano usiku, vechibva kune vana vaIsirayeri, kuongorora ⟨את⟩ nyika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Zvakataurwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kumambo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "weYeriho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "vechibva kune vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirayeri"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kuongorora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:53.007343160Z",
+  "model": "glm-5.3"
+}

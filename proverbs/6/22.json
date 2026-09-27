@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Pauri kufamba ichokutungamirira; pauri kurara ichokuchengeta; uye pauka, ichokutaurira.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "pauri kufamba"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ichokutungamirira"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "pauri kurara"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ichokuchengeta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "uye pauka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨iyo⟩"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "ichokutaurira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:07.551396706Z",
+  "model": "glm-5.3"
+}

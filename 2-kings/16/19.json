@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 16:19",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye zvachipiri zvezvinangwa zvaAhazi zvaakaita — hazvina kunyorwa here pagwaro rezvinangwa zvemazuva evamambo veYehudha?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "zvachipiri"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zvezvinangwa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "zvaAhazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "here"
+    },
+    {
+      "surface": "הם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kunyorwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pagwaro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rezvinangwa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zemazuva"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "evamambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "veYehudha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:06.463289437Z",
+  "model": "glm-5.3"
+}

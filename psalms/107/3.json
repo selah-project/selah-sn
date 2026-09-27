@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Uye akavaunganidza kubva kunyika dzakawanda, kubva kumabvazuva nekusvika kumadokero, kubva kumaodzanyemba nekusvika kugungwa.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "uye kubva kunyika dzakawanda"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "akavaunganidza"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kubva kumabvazuva"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "nekusvika kumadokero"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kubva kumaodzanyemba"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nekusvika kugungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:05.562618383Z",
+  "model": "glm-5.3"
+}

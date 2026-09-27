@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vochengete ⟨את⟩ zvinhu zvose zvetende yekusangana, nechengeto yevana vaIsiraeri, kuchaita ⟨את⟩ basa reMishikani.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Vochengete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvose zvetende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "zvetende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yekusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chengeto yevana vaIsiraeri"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chengeto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuchaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa reMishikani"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "basa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "reMishikani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:47.515624187Z",
+  "model": "glm-5.3"
+}

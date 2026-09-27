@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Hanzvadzi yake akati kumwanasikana waFarao: Ndiende ndidane iwe mukadzi anoyamwisa kubva kuvanhu veEbheriya, kuti ayamwise iwe ⟨את⟩ mwana?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "hanzvadzi yake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "ndiende"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ndidane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "anoyamwisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "kuvanhu veEbheriya"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "ayamwise"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:17.388626129Z",
+  "model": "glm-5.3"
+}

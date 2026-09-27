@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akasika ⟨את⟩ zvipembenyi zvepasi sezvizvarwa zvazvo, ne⟨את⟩ zvipfuyo sezvizvarwa zvazvo, ne⟨את⟩ zvose zvinonzambaira pasi rezvhino sezvizvarwa zvazvo; Erohimu akaona kuti zvakanaka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akasika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipembenyi zvepasi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvipembenyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zepasi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sezvizvarwa zvazvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvipfuyo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvipfuyo"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sezvizvarwa zvazvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose zvinonzambaira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvinonzambaira"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pasi rezvhino"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sezvizvarwa zvazvo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:22.057926361Z",
+  "model": "glm-5.3"
+}

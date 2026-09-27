@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akagadzira rima sezvakavanzika kwake, kupoteredza kwake humbowo hwake; rima remvura, mitambo yepasi pedenga.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "rima"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "sezvakavanzika kwake"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "kupoteredza kwake"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "humbowo hwake"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "rima re"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "mitambo ye"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pasi pedenga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:51.174737095Z",
+  "model": "glm-5.3"
+}

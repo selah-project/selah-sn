@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Mvura dzacho dzinorira, dzinofashukira, makoma anodzengesa mukuzimbara kwadzo. Sera.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "dzinorira"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "dzinofashukira"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "Mvura dzacho"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "anodzengesa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makoma"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "mukuzimbara kwadzo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:00.776017022Z",
+  "model": "glm-5.3"
+}

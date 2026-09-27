@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Haasi here iye Yechizkiyahu akabvisa ⟨את⟩ nzvimbo dzake dzakakwirira ne⟨את⟩ mabwi ake, akati kuYehudha nokuYerusharemu achiti: Pamberi pemubwi mumwe muchanamata, napo muchapisa muchimo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Haasi here"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzake dzakakwirira"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "nzvimbo dzakakwirira dzake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mabwi ake"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "mabwi ake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kuYehudha"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "nokuYerusharemu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Pamberi pe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mubwi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "muchanamata"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "napo"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "muchapisa muchimo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:42:39.381789320Z",
+  "model": "glm-5.3"
+}

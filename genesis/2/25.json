@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Vaviri vacho vakange vasina mbatya, munhu nomukadzi wake, uye havatyi kunyadza.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽהְי֤וּ",
+      "gloss": "vakange vara"
+    },
+    {
+      "surface": "שְׁנֵיהֶם֙",
+      "gloss": "vaviri vacho"
+    },
+    {
+      "surface": "עֲרוּמִּ֔ים",
+      "gloss": "vasina mbatya"
+    },
+    {
+      "surface": "הָֽאָדָ֖ם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "וְאִשְׁתּ֑וֹ",
+      "gloss": "nomukadzi wake"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "uye havatyi"
+    },
+    {
+      "surface": "יִתְבֹּשָֽׁשׁוּ",
+      "gloss": "kunyadza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:30.335731662Z",
+  "model": "glm-5.3"
+}

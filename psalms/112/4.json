@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 112,
+  "translation": "Wakapenya munyima mwenje kune vakatwasuka; mutsvene wetsitsi, ane ruregerero, akarurama.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Wakapenya"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "munyima"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kune vakatwasuka"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mutsvene wetsitsi"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ane ruregerero"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "akarurama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:48.014786894Z",
+  "model": "glm-5.3"
+}

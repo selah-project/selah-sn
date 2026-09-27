@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Akabatanidza ⟨את⟩ matandi mashanu echega, uye ⟨את⟩ matandi matanhatu echega.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "akabatanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matandi mashanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "matandi"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "echega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matandi matanhatu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "matanhatu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "matandi"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "echega"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:45.414120186Z",
+  "model": "glm-5.3"
+}

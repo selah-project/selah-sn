@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti chinobva kumunhu chii muchishanda zvake zvose, nokuongororwa kwomoyo wake, iyo anoishanda pasi pezuva?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "chinobva"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kumunhu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…zvose"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "chishanda zvake"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "nokuongororwa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kwomoyo wake"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "anoishanda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:27.361137780Z",
+  "model": "glm-5.3"
+}

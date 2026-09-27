@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahwe akati kuna Moshe: Bararisa ⟨את⟩ ruwoko rwako pamusoro pegungwa, kuti mvura dzidzoke pamusoro peMisri, pamusoro pengava dzake, napamusoro pevaridzi vebhiza vake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Bararisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwoko rwako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruwoko rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kuti dzidzoke"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ngava dzake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "napamusoro pe"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "varidzi vebhiza vake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:59.788498588Z",
+  "model": "glm-5.3"
+}

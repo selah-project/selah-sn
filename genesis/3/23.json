@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe Erohimu akamutuma Adhamu kubva mumbINDA weEdheni, kuti ashandise ⟨את⟩ ivhu raive rabva pairoro.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "akamutuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kubva mumbINDA"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "weEdheni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kuti ashandise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivhu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raive"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "rabva"
+    },
+    {
+      "surface": "משם",
+      "gloss": "pairoro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:42.646565350Z",
+  "model": "glm-5.3"
+}

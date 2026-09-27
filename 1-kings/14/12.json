@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Iwe zve, simuka enda kumba kwako; nokusvika kwekufamba kutsoka kwako muguta, mwana achafa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Iwe zve"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "simuka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "enda"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kumba kwako"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "nokusvika kwe"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "kufamba kutsoka kwako"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "achafa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:54.854145510Z",
+  "model": "glm-5.3"
+}

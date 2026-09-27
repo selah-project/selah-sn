@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndakati pa⟨⟩usekere: hupengo; uye pamufaro: chii chinoitwa?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "pa⟨⟩usekere"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Ndakati"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "hupengo"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "pamufaro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "זה",
+      "gloss": "chinoitwa ⟨izvi⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chinoitwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:33.421523536Z",
+  "model": "glm-5.3"
+}

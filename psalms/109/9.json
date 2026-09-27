@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Vana vake vave nherera, umwe wadzi wake ave shirikadzi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "vave"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "nherera"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "umwe wadzi wake"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "shirikadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:46.343943523Z",
+  "model": "glm-5.3"
+}

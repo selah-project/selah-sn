@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvirokwazvo, Yahwe, madzimambo eAshuru akaparadza ⟨את⟩ marudzi ne⟨את⟩ nyika dzavo.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "akaparadza"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "eAshuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marudzi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nyika dzavo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nyika dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:03.682312986Z",
+  "model": "glm-5.3"
+}

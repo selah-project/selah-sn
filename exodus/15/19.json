@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 15:19",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokuti mbongolo dzaFarao dzakapinda nemigwagwa yadzo nenevaridzi vemabharemu mumvura, uye Yahwe akadzorera ⟨את⟩ mvura yegungwa pavari; asi vana vaIsuraeri vakafamba pane yakoma mukati megungwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dzakapinda"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "mbongolo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "dzaFarao"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "nemigwagwa yadzo"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "nenevaridzi vemabharemu"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akadzorera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "pavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvura yegungwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yegungwa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "pane yakoma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:12.345771133Z",
+  "model": "glm-5.3"
+}

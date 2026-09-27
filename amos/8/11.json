@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 8:11",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ona, mazuva anouya, chirevo chaAdonai Yahwe, ndichatuma nzara pasi — kwete nzara yechingwa, kwete nyota yemvura, asi nzara yokunzwa ⟨את⟩ mazwi aYahwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "באים",
+      "gloss": "anouya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "chirevo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "ndichatuma"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "yechingwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "nyota"
+    },
+    {
+      "surface": "למים",
+      "gloss": "yemvura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi (kubatanidza)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "yokunzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi aYahwe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:41:57.681400178Z",
+  "model": "glm-5.3"
+}

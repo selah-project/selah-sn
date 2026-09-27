@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Kubva muna Er wababa vako, uye achakubatsira, uye na⟨את⟩ Shadai, uye achakutendera — madzitendero ematenga kubva pamusoro, madzitendero etehomi inogara pasi, madzitendero ezamu nechibereko.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "Kubva muna Er"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wababa vako"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "uye achakubatsira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shadai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "uye achakutendera"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "madzitendero"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ematenga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pamusoro"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "madzitendero"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "etehomi"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "inogara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "madzitendero"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ezamu"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "nechibereko"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:04.486187473Z",
+  "model": "glm-5.3"
+}

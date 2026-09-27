@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Akati mumwoyo wake: Er wakakanganwa; wakavanza chiso chake; haazombouona ⟨zvinhu⟩ nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mumwoyo wake"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "wakakanganwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "wakavanza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haazombi-"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "uona"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:34.698168798Z",
+  "model": "glm-5.3"
+}

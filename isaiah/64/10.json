@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Imba yedu tsvene nomumbiri wedu, umwo baba vedu vakarumbidza iwe mairi, yave kutsvetwa nomoto; uye zvinodikanwa zvedu zvose zvave shongwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "yedu tsvene"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "nomumbiri wedu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "umwo"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "vakarumbidza iwe"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baba vedu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yave"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "kutsvetwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye zvose"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "zvinodikanwa zvedu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvave"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "shongwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:19.185262560Z",
+  "model": "glm-5.3"
+}

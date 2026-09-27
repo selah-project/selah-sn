@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Mukati memumba mutsvene chiri mutsvene akaita makherubhi maviri, basa rechivezwa; uye akawafukidza ⟨אתם⟩ nendarama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mukati memumba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "chiri mutsvene"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "makherubhi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "rechivezwa"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "uye akawafukidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "makherubhi maviri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nendarama"
+    }
+  ],
+  "timestamp": "2026-09-27T10:29:59.355082029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Varashaka vachadzokera kuSheori, marudza ose anokanganwa Erohimu.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "vachadzokera"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "varashaka"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "kuSheori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudza"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "anokanganwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:52.056746551Z",
+  "model": "glm-5.3"
+}

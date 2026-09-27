@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye muti wefiki wakati kwaviri: Ndingarega here kutapira kwangu ⟨את⟩ uye ⟨את⟩ muchero wangu wakanaka, ndiende kunzunzika pamusoro pemiti?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwaviri"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "muti wefiki"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "ndingarega here"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutapira kwangu"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "kutapira kwangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muchero wangu wakanaka"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "muchero wangu"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "wakanaka"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ndiende"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "kunzunzika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "pemiti"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:10.193025200Z",
+  "model": "glm-5.3"
+}

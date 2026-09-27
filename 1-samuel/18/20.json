@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Mikari, mukomana waShauro, akada ⟨את⟩ Dhavhidhi; zvino vakazivisa Shauro, uye mashoko aiyambuka mumeso ake.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "akada"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikari"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "waShauro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "vakazivisa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "aiyambuka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mumeso ake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:44.852582205Z",
+  "model": "glm-5.3"
+}

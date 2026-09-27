@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Vanhu vose vakaona ⟨את⟩ ruzha, ⟨את⟩ mwenje, ⟨את⟩ izwi reShofari, ⟨את⟩ goro rakapfuta utsi; uye vanhu pavakaona izvozvo, vakatetema vakamira kure.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "uye vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "vakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruzha"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mwenje"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izwi reShofari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "reShofari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goro rakapfuta utsi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "goro"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rakapfuta utsi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "uye pavakaona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "vakatetema"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "vakamira"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kure"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:06.578099388Z",
+  "model": "glm-5.3"
+}

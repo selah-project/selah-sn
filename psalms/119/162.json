@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndinofara neshoko rako, seanowanidza muhumbi muzhinji.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ndinofara"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "shoko rako"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "seanowanidza"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "muhumbi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "muzhinji"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:51.905156114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye ndakasimikisa ⟨את⟩ sungano yangu ⟨את⟩ navo, kuti ndipawardze ⟨את⟩ nyika yeKanaani, ⟨את⟩ nyika yemugara wavo, iyo vaigara mairi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Uye"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ndakasimikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano yangu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sungano yangu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ navo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti ndipe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yeKanaani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yeKanaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yemugara wavo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "yemugara wavo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "vaigara"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mairi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:08.689110401Z",
+  "model": "glm-5.3"
+}

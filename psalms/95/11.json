@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Nokuti ndakatsivunga murutsambo rwangu: Vangapinda here muzororodzo yangu!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndakatsivunga"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "murutsambo rwangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Vanga... here"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "vapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "zororodzo yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:37.777915116Z",
+  "model": "glm-5.3"
+}

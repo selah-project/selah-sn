@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Kune mutungamiri wenzvembo, paShaminithi, nzvembo yaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri wenzvembo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Shaminithi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzvembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:32.688711866Z",
+  "model": "glm-5.3"
+}

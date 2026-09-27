@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Asika Erohimu akanzwa; akateerera izwi reminamato yangu.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "asika"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "akateerera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi re"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "minamato yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:23.812660790Z",
+  "model": "glm-5.3"
+}

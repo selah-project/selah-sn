@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Ndichakuyeuchidza zita rako zvizvarwa zose nezvizvarwa; naizvozvo marudzi achakurumbidza nokusingaperi kwamiri.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "Ndichakuyeuchidza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zose"
+    },
+    {
+      "surface": "דר",
+      "gloss": "zvizvarwa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nezvizvarwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "achakurumbidza"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kwamiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:22.596440234Z",
+  "model": "glm-5.3"
+}

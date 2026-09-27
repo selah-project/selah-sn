@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Akabhata ⟨את⟩ Agagi mambo weAmareki mupenyu, uye ⟨את⟩ vanhu vose akavaparadza nokumhanya kwegwa.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Akabhata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagi"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "weAmareki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "akavaparadza nokutsvenwa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nomuromo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "wegwa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:40.711174950Z",
+  "model": "glm-5.3"
+}

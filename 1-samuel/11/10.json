@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye vanhu veYabheshu vakati: Mangwana tichabuda kwamuri, uye muchaita kwedu zvose zvazvioneka zvakanaka mumeso enyu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "veYabheshu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "mangwana"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "tichabuda"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "muchaita"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwedu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "mumeso enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:27.568520656Z",
+  "model": "glm-5.3"
+}

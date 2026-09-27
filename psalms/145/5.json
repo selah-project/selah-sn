@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Rukudzo rwekuremekedzwa kweukuru hwako, uye mashoko ezvishamiso zvako — ndinotaura nezvazvo.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kuremekedzwa"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ukuru hwako"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "uye mashoko"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ezvishamiso zvako"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndinotaura nezvazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:58.848917858Z",
+  "model": "glm-5.3"
+}

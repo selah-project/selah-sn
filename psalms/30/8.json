@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Yahwe, mune mufaro wakaita kuti gomo rangu raramire nesimba; wakavanzira chiso chako, ndakava nenokutya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "mune mufaro wako"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "wakaita kuti…raramire"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "gomo rangu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "wakavanzira"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakava"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "nenokutya"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:43.616939955Z",
+  "model": "glm-5.3"
+}

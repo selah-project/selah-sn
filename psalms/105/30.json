@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Nyika yavo yakazara nedsamazana, mumitumbi yamadzimambo avo.",
+  "tokens": [
+    {
+      "surface": "שָׁרַץ",
+      "gloss": "yakazara ne"
+    },
+    {
+      "surface": "אַרְצָם",
+      "gloss": "Nyika yavo"
+    },
+    {
+      "surface": "צְפַרְדְּעִים",
+      "gloss": "dsamazana"
+    },
+    {
+      "surface": "בְּחַדְרֵי",
+      "gloss": "mumitumbi ya"
+    },
+    {
+      "surface": "מַלְכֵיהֶם",
+      "gloss": "madzimambo avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:53.514882820Z",
+  "model": "glm-5.3"
+}

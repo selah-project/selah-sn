@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Nzevu dzinazo, asi hadzinzwi; zvichokwadi, hapana kufema muromo yadzo.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "nzevu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dzinazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hadzinzwi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvichokwadi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨pane⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kufema"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "muromo yadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:43.940564921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Zvino pamweya iro nguva, Yhudha akazhinzika kubva kune ⟨את⟩ mabhiripo ake, uye akamutsauka kune munhu weAdhuramu, uye zita rake ⟨ראַק⟩ Chira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino pamweya iro"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akazhinzika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yhudha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva kune ⟨את⟩",
+      "marks": "mabhiripo ake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mabhiripo ake"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "akamutsauka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kune"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "weAdhuramu"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "uye zita rake"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Chira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:37.468584022Z",
+  "model": "glm-5.3"
+}

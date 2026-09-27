@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Ndpomoresa ndini kubva mukanwa shumba; uye kubva muminzwa yengombe yerushanga wakapindura iwe.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Ndpomoresa ndini"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "kubva mukanwa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "uye kubva muminzwa"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "yengombe yerushanga"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "wakapindura iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:09.130072980Z",
+  "model": "glm-5.3"
+}

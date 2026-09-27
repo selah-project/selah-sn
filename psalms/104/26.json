@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Ipo ngarava dzinofamba; Livhatani iyi, iyo waigadzira kuti itambe mairi.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ngarava"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "dzinofamba"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livhatani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "waigadzira"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "kuti itambe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mairi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:52.410737866Z",
+  "model": "glm-5.3"
+}

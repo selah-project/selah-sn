@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Yahwe akati kuna Mozhe: Kusvika rinhi muchida kusateerera miringo yangu nemi tora yangu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "rini"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "muchida kusateerera"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kusateerera"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "miringo yangu"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "mi tora yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:41.747234855Z",
+  "model": "glm-5.3"
+}

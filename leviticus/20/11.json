@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Nomunhu anogara ⟨את⟩ mukadzi wobaba vake — manyararo ababa vake akaburitsa; vose vaviri kufa vanofa; ropa ravo riri pavari.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi wobaba vake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wobaba vake"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "manyararo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ababa vake"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "akaburitsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "vanofa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "vose vaviri"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ropa ravo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "riri pavari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:48.965616116Z",
+  "model": "glm-5.3"
+}

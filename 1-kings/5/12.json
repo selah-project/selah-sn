@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Akataura zviuru zvitatu zvezvirevo; nzvimbo yake yezviyimbo yaiva chiuru neshanu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "zvitatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "משל",
+      "gloss": "zvezvirevo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaiva"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "yake yezviyimbo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "chiuru"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "neshanu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:16.564858845Z",
+  "model": "glm-5.3"
+}

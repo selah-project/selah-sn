@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Varumbidze zita rake muchidzo; negumba nekinora vave nomurairo kwaari.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "varumbidze"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "muchidzo"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "negumba"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "nekinora"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "vave nomurairo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:13.445453986Z",
+  "model": "glm-5.3"
+}

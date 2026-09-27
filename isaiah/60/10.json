@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Uye vana venharaunda dzose vachavaka madziro ako, uye madzimambo avo achakushumira; nokuti mukutsamwa kwangu ndakakurova, asi mokuda kwangu ndakaratidza tsitsi kwauri.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "vachavaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "venharaunda dzose"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "madziro ako"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "uye madzimambo avo"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "achakushumira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "mukutsamwa kwangu"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "ndakakurova"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "asi mokuda kwangu"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "ndakaratidza tsitsi kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:39.554298078Z",
+  "model": "glm-5.3"
+}

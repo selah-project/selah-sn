@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "akatonga mhosva yemurombo nomushaiwa; ipapo zvaiva zvakanaka. Hazvina kudaro here kuti ndiko kuziva ⟨את⟩ ini? ndoko kureva kwaYahwe.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "דין",
+      "gloss": "mhosva ye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yemurombo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomushaiwa"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvaiva zvakanaka"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hazvina kudaro here"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndiko"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ini",
+      "marks": "kuziva ini"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndoko kureva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:58:58.127658526Z",
+  "model": "glm-5.3"
+}

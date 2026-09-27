@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ndicharopafadza avo vanoropafadza iwe, uye uyo anokutuka ndichamutuka; uye mhuri dzose dzevhu dzicharopafadzwa muri iwe.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Ndicharopafadza"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "avo vanoropafadza iwe"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "uye uyo anokutuka"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ndichamutuka"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "uye dzicharopafadzwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri iwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dzevhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:48.594016960Z",
+  "model": "glm-5.3"
+}

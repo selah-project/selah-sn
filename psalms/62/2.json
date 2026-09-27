@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Chete kuna Erohimu mweya wangu unozorora; kubva kwaari ruponeso rwangu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "unozorora"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwaari"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ruponeso rwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:46.782845962Z",
+  "model": "glm-5.3"
+}

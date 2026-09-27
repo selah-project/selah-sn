@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye mushure make akatonga ⟨את⟩ Israeri Ibhizani weBhethirehema.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mushure make"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibhizani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "we"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bhethirehema"
+    }
+  ],
+  "timestamp": "2026-09-27T06:37:07.449702817Z",
+  "model": "glm-5.3"
+}

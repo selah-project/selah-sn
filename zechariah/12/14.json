@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mhuri dzose dzinenge dzichisara, mhuri nomhuri dzichazvega, uye madzimai adzo achazvega.",
+  "tokens": [
+    {
+      "surface": "כֹּ֗ל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "הַמִּשְׁפָּחֹ֥ת",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "הַנִּשְׁאָר֔וֹת",
+      "gloss": "dzinenge dzichisara"
+    },
+    {
+      "surface": "מִשְׁפָּחֹ֥ת",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "מִשְׁפָּחֹ֖ת",
+      "gloss": "nomhuri"
+    },
+    {
+      "surface": "לְבָ֑ד",
+      "gloss": "dzichazvega"
+    },
+    {
+      "surface": "וּנְשֵׁיהֶ֖ם",
+      "gloss": "uye madzimai adzo"
+    },
+    {
+      "surface": "לְבָֽד",
+      "gloss": "achazvega"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:34.026294300Z",
+  "model": "glm-5.3"
+}

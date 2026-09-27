@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 140,
+  "translation": "Usapa, Yahwe, zvido zvemubi; usaitire ⟨kubudirira⟩ chirongwa chake, kuti vabi vagaridzwe. Sera.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "zvido"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mubi"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "chirongwa chake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rega"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "usaitire kubudirira"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "vagaridzwe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:34.666342118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Erohimu wakakwira nendembo, Yahwe nenzwi dzerwizi reshofara.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "wakakwira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "nendembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nenzwi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:22.191562553Z",
+  "model": "glm-5.3"
+}

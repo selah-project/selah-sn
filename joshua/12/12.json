@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Umambo hweEgeroni, motsi; umambo hweGezeri, motsi;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "hweEgeroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "motsi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "hweGezeri"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "motsi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:20.726984805Z",
+  "model": "glm-5.3"
+}

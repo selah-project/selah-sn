@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uriya wakauya kwaari; Dhavhidhi wakabvunza nezve rugwano rwaYowabhu, nerugwano rwevanhu, nerugwano rwehondo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wakauya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "wakabvunza nezve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rugwano"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "rwaYowabhu"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "nerugwano"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rwevanhu"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "nerugwano"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "rwehondo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:22.918986123Z",
+  "model": "glm-5.3"
+}

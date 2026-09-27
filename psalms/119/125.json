@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndiri mushandi wako; ndipa kuzvinzvisa, kuti ndizive mabhulukiro ako.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ndipa kuzvinzvisa"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "kuti ndizive"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "mabhulukiro ako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:09.286683986Z",
+  "model": "glm-5.3"
+}

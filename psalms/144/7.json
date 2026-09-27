@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Tuma ruoko rwako kubva mudenga; ndisunungure uye ndinunure kubva mumvura dzakawanda, kubva muruoko rwevana vevasiri veko.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Tuma"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kubva mudenga"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ndisunungure"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "uye ndinunure"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "kubva mumvura"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dzakawanda"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva muruoko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "rwevana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vevasiri veko"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:47.880884435Z",
+  "model": "glm-5.3"
+}

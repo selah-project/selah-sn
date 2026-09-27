@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Farai ⟨את⟩ Yerusharema, mufare nayo vose vanoimuda; farai ⟨את⟩ naye nokufara, vose vanoichema.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Farai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusharema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharema"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mufare nayo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "vanoimuda"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "farai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "nokufara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "vanoichema"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "paari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:34.907305540Z",
+  "model": "glm-5.3"
+}

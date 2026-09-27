@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Tafura yavo ive musungo pachiso pavo, uye zvakanaka kwavo zive muteyo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ive"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "tafura yavo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pachiso pavo"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "musungo"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "uyezvakanaka kwavo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "muteyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:42.345599611Z",
+  "model": "glm-5.3"
+}

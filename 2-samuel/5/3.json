@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 5:3",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndipo vakuru ose veIsrael vakauya kuna mambo, kuHevrona; mambo Davhid akacheka navo sungano kuHevrona pachiso paYahwe; ndokuzodza ⟨את⟩ Davhid kuva mambo pamusoro peIsrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "kuHevrona"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "kuHevrona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "ndokuzodza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davhid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhid"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuva mambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-27T06:56:55.702284495Z",
+  "model": "glm-5.3"
+}

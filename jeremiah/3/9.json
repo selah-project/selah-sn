@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvakaitika nokuda kwekuremekedza kwehure rwake, kuti akadzvanyira ⟨את⟩ nyika, uye akaita upombwe ne⟨את⟩ ibwe ne⟨את⟩ muti.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Zvakaitika"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "nokuda kwekuremekedza"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "kwehure rwake"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "akadzvanyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "akaita upombwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibwe"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ibwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muti"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "muti"
+    }
+  ],
+  "timestamp": "2026-09-27T11:06:39.739238501Z",
+  "model": "glm-5.3"
+}

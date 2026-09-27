@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Rumbidzai Yahwe, mutumwa wake, simba rebhuravu, vanoita shoko rake, kunzira mune izwi reshoko rake.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mutumwa wake"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "rebhuravu simba"
+    },
+    {
+      "surface": "כח",
+      "gloss": "simba"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "shoko rake"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kunzira mune"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi reshoko"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "reshoko rake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:19.237990794Z",
+  "model": "glm-5.3"
+}

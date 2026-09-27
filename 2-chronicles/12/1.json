@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Zvino zvakaitika,痛pashure pokugadzikana kwoushe waRehabhuamu, nepokuzvitsimisa kwake, akasiya ⟨את⟩ tora yaYahwe, uye Israeri yose pamwe chete naye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "pashure pokugadzikana"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "oushe"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabhuamu"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "nepokuzvitsimisa kwake"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tora yaYahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pamwe chete naye"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:16.358171150Z",
+  "model": "glm-5.3"
+}

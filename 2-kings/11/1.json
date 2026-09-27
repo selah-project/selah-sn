@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti Ataríya, amai waAhazíya, akaona kuti mwana wake afa, akamuka, akaparadza ⟨את⟩ mbeu yose yehumambo.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Nokuti Ataríya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amai"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "waAhazíya"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מת",
+      "gloss": "afa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "akaparadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeu yose yehumambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "yehumambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:21:33.521126416Z",
+  "model": "glm-5.3"
+}

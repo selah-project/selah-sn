@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": " Nokumashure kwake Abhidhoni mukoma waHireri, muchidhidhi chePirehatoni, akatungamirira ⟨את⟩ Isuraeri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akatungamirira"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nokumashure kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isuraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abhidhoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hireri"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "muchidhidhi chePirehatoni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:32.014065685Z",
+  "model": "glm-5.3"
+}

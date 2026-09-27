@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Farao akati kwaari: Asi chii chausina kwandiri, kuti tarira, iwe unotsvaga kuenda kunyika yako? Iye akati: Hapana; asi zvirokwazvo nditume.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "chausina"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "uye tarira"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "unotsvaga"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "nyika yako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "zvirokwazvo nditume"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "nditume"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:50.568410739Z",
+  "model": "glm-5.3"
+}

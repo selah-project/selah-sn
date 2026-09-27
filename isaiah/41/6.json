@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Mumwe nomumwe anobatsira ⟨את⟩ mnzake wake, uye anoti kumukoma wake: “Chenjerera.”",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mnzake wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mnzake wake"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "anobatsira"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "kumukoma wake"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Chenjerera"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:57.100815367Z",
+  "model": "glm-5.3"
+}

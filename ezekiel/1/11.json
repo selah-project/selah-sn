@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 1:11",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye zviso zvavo — uye masikati avo akapatsanuka kumusoro; kune mumwe wega mbiri dzakabatana, uye mbiri dzakafukidza ⟨את⟩ miviri yavo.",
+  "tokens": [
+    {
+      "surface": "ופניהם",
+      "gloss": "uye zviso zvavo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "uye masikati avo"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "akapatsanuka"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumumwe wega"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "חברות",
+      "gloss": "dzakabatana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumbe wega"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "uye mbiri"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "dzakafukidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miviri yavo"
+    },
+    {
+      "surface": "גויתיהנה",
+      "gloss": "miviri yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:13:59.081523774Z",
+  "model": "glm-5.3"
+}

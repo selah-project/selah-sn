@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 150,
+  "translation": "Rumbidzai-ye muzviito zvesimba zake, rumbidzai-ye sokukura kwake kukuru.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Rumbidzai-ye"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "muzviito zvesimba zake"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "rumbidzai-ye"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "so"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kukura kwake kukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:45.719047745Z",
+  "model": "glm-5.3"
+}

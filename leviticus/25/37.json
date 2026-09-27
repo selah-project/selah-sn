@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "⟨את⟩ ndarama yako usatipa iye inesheke, uye nokuwedzera usatipa chokudya chako.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndarama yako"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ndarama yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ipa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "inesheke"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "nokuwedzera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ipa"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "chokudya chako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:21.859214981Z",
+  "model": "glm-5.3"
+}

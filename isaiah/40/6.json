@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Izwi rinoti: Ita unzwikise. Uye iye akati: Ndinotaurira chii? Nyama yose ndiwo uswa, uye hesedhi hwose hwacho sokufavara kwemaruva emunda.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rinoti"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ita unzwikise"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "Ndinotaurira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye hwose"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi hwacho"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "sokufavara kwemaruva"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "emunda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:53.050459828Z",
+  "model": "glm-5.3"
+}

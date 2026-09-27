@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Wakarasira vose vakadzingwa kubva mitemo yako, nokuti manyepo ndiro unyengeri hwavo.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Wakarasira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "vakadzingwa"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "kubva mitemo yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manyepo"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "unyengeri hwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:53.340123865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "ndichakununura iwe n⟨את⟩ guta iri kubva mukanza waMambo waAshuru; ndichachengeta guta iri.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "kubva mukanza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waMambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waAshuru"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ndichakununura iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guta iri"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ndichachengeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:18.077221174Z",
+  "model": "glm-5.3"
+}

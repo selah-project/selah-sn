@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Vakakasika, vakadzikisa mumwe nomumwe ⟨את⟩ hafu yake pasi; uye mumwe nomumwe akavhura hafu yake.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "vakakasika"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "vakadzikisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hafu yake"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "hafu yake"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "vakavhura"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "hafu yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:39.821754254Z",
+  "model": "glm-5.3"
+}

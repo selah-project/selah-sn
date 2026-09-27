@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mutumwa waYahwe akataura kuna Eriyahu: Dzika ⟨את⟩ naye; usatye kwaari. Akamuka akadzika ⟨את⟩ naye kuna mambo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eriyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Dzika"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tye"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akadzika"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:31.419403706Z",
+  "model": "glm-5.3"
+}

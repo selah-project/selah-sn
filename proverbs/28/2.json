@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Nekutadza kwenyika, madzishe awo mazhinji; asi nomunhu anonzwisisa, anoona zvakarurama, ipapo nguva yerugwero inowedzerwa.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "nekutadza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mazhinji"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "madzishe awo"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "asi nomunhu"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "anonzwisisa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anoona zvakarurama"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "inowedzerwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:42.140842101Z",
+  "model": "glm-5.3"
+}

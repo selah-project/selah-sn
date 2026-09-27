@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Mazuva angu serumweni runorehwa, ndokuti ini ndakoma seruswa.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Mazuva angu"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "serumweni"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "runorehwa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ndokuti ini"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "seruswa"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ndakoma"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:51.069994259Z",
+  "model": "glm-5.3"
+}

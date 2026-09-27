@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 126,
+  "translation": "Vari kurima vodyara muchishunguudza, vachakohwa muchiridza.",
+  "tokens": [
+    {
+      "surface": "הַזֹּרְעִים",
+      "gloss": "vadyari"
+    },
+    {
+      "surface": "בְּדִמְעָה",
+      "gloss": "muchishunguudza"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "muchiridza"
+    },
+    {
+      "surface": "יִקְצֹֽרוּ",
+      "gloss": "vachakohwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:52.540646618Z",
+  "model": "glm-5.3"
+}

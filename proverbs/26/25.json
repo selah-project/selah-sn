@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Kunyange anoninipisa izwi rake, usatendi muna⟨iye⟩; nokuti zvinonyadzisa nomwe zvine mumoyo wake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kunyange"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "anoninipisa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "izwi rake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "-tendi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muna⟨iye⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "zvinonyadzisa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mumoyo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:17.435065398Z",
+  "model": "glm-5.3"
+}

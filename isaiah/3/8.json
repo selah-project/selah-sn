@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti Yerushalema yakatambudzika, uye Yehudha yawa; nokuti rurimi rwavo nemabasa avo <rinopesana> naYahwe, kubvinyisa maonero obeukano hwake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "yakatambudzika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "uye Yehudha"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rurimi rwavo"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "nemabasa avo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naYahwe ⟨rinopesana⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "kubvinyisa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "maonero"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "obeukano hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:59.621309153Z",
+  "model": "glm-5.3"
+}

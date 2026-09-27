@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Vakaona ⟨את⟩ Erohimu weIsirairi; pasi petsoka rake ⟨zvaive⟩ sekuita kwebhiriyesa rechena resapire, uye somhando yematenga pachena kwazvo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Vakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu weIsirairi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsirairi"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tsoka rake"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sekuita kwe"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "bhiriyesa rechena"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "resapire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "uye somhando ye"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "pachena kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:36.780583014Z",
+  "model": "glm-5.3"
+}

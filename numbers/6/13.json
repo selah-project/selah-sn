@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye iyi ndiyo tora yenaziriri: munzuva yokuzadzikwa kwemazuva echitsidzo chake, achauya ⟨naye⟩ kumberi kwemharadzano yedaro rokusangana.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "uye-iyi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "yenaziriri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "munzuva"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "yokuzadzikwa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwemazuva"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "echitsidzo chake"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "achauya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "yokuzadzikwa kwemazuva echitsidzo chake — mutsvene oyedzwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumberi kwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mharadzano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "daro"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "rokusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:55:09.931317250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye ⟨את⟩ nyama ne⟨את⟩ dehwa rakapiswa nomoto kunze kwematanga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dehwa"
+    },
+    {
+      "surface": "העור",
+      "gloss": "dehwa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "rakapiswa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwematanga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:25.291357397Z",
+  "model": "glm-5.3"
+}

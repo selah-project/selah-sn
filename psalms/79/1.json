@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Nziyo yaAsafu. Erohimu, marudzi akapinda munhaka yako, vakatsvinyira ⟨את⟩ chikoro chako chitsvene, vakaisa ⟨את⟩ Yerusharemu kuva matumbwi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "yaAsafu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "munhaka yako"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "vakatsvinyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chikoro chako chitsvene"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "chikoro"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "chako chitsvene"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusharemu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharemu"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "kuva matumbwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:52.431935553Z",
+  "model": "glm-5.3"
+}

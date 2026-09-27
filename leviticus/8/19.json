@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akauraya; uye Mozhe akaturika ⟨את⟩ ropa pamberi pealtari kuyera kwese.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Akauraya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "akaturika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ropa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuyera kwese"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:37.372101952Z",
+  "model": "glm-5.3"
+}

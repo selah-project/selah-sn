@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 32:1",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Shure kwezvinhu izvi nokutendeka kwazvino, Sancherib, mambo weAshuru, akauya, akapinda muJudha, akaanza pamusoro pemaguta akakomberedzwa, zvakati kuti azvibvise iye.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "והאמת",
+      "gloss": "nokutendeka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "muJudha"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "akaanza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "pemaguta"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "akakomberedzwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "zvakati"
+    },
+    {
+      "surface": "לבקעם",
+      "gloss": "kuzvibvisa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-27T10:42:40.232713174Z",
+  "model": "glm-5.3"
+}

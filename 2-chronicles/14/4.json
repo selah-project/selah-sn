@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "akabvisa mune dzimwe dzose dzeYudha ⟨את⟩ mabhamoti ne⟨את⟩ zvitaurwa zvezuva, ufumu hwerugare pakuumbari kwake.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mune dzose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dzimbe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "dzeYudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhamoti"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mabhamoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvitaurwa zvezuva"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "zvitaurwa zvezuva"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "hwerugare"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ufumu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pakuumbari kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:34:36.484913307Z",
+  "model": "glm-5.3"
+}

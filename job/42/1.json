@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Iyobhu akapindura ⟨את⟩ Yahwe, ndokuti:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokuti"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:26.792081567Z",
+  "model": "glm-5.3"
+}

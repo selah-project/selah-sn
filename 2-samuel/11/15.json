@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Akanyora mutsamba kuti: Isai ⟨את⟩ Uriya kumusoro pechiso chehondo yakaoma, musadzoka kumashure make, kuti aurawe, afe.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akanyora"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mutsamba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "isai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kumusoro pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "yakaoma"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "musadzoka"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "kumashure make"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "kuti aurawe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:12.788799684Z",
+  "model": "glm-5.3"
+}

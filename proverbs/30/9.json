@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 30:9",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "kuti ndikaguta, ndikanyengera, ndikati: Yahwe ndiani? uye kuti ndishayiwe, ndikaba, ndikabata zita raErohimu zviviruso.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ndikaguta"
+    },
+    {
+      "surface": "וכחשתי",
+      "gloss": "ndikanyengera"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ndikati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "uye kuti"
+    },
+    {
+      "surface": "אורש",
+      "gloss": "ndishayiwe"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "ndikaba"
+    },
+    {
+      "surface": "ותפשתי",
+      "gloss": "ndikabata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "raErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:43.906339013Z",
+  "model": "glm-5.3"
+}

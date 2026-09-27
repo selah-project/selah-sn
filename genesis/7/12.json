@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvino kunaya kwakaita pasi makumi mana emazuva nemakumi mana eusiku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaita"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "kunaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kwepasi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "emazuva"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "nemakumi mana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "eusiku"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:23.967094092Z",
+  "model": "glm-5.3"
+}

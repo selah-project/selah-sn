@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 63,
+  "translation": "Nziyo yaDhavhidhi, paari ari mugwenga reYudha.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "paari ari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "reYudha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:07.937917595Z",
+  "model": "glm-5.3"
+}

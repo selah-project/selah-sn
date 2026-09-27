@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Sokudzera kwababa pavana dzake, ndokudaro Yahwe akadzera avo vanomutya.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "sokudzera"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana dzake"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "akadzera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "avo vanomutya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:17.217749034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Asiri uyu here Dhavhidhi, wavakaimbirira mumhanzi wokutamba vachiti, ‘Shauru akaurura nezviuru zvake, uye Dhavhidhi nezviuru gumi zvake’?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Asiri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vakaimbirira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "mumhanzi wokutamba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akaurura"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "nezviuru zvake"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uye Dhavhidhi"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "nezviuru gumi zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:53:03.984448558Z",
+  "model": "glm-5.3"
+}

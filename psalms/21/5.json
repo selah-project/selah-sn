@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Upenyu akakumbira kwamuri, munamupa; kureba kwemazuva, nokusingaperi nekusingangopere.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "upenyu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "akakumbira"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "munamupa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwemazuva"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nekusingangopere"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:39.547875717Z",
+  "model": "glm-5.3"
+}

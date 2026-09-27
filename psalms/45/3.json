@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Wakanaka kupinda vanhu, uye here (chen) chakadururwa pamilomo yako; naizvozvo Erohimu akakupa rokudzikombora nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "wakanaka kupinda"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "chakadururwa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chen (unakanaka)"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "pamilomo yako"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "akakudzikombora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.888350403Z",
+  "model": "glm-5.3"
+}

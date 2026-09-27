@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "murume anetsetsara iye, mutsvina iye; mutsvina mupristi achamutsvindirwa, chirwere chake chiri pamusoro wake.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "anetsetsara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mutsvina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mutsvina"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "achamutsvindirwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pamusoro wake"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "chirwere chake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:22.761336879Z",
+  "model": "glm-5.3"
+}

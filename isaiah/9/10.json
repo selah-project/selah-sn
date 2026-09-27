@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uyu Yahwe akakwidza ⟨את⟩ vavengi vaRetsini pamusoro pake, uye ⟨את⟩ vavengi vake akabatanidza pamwe.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "akakwidza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vaRetsini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vavengi"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "vaRetsini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vake"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vavengi vake"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "akabatanidza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:18.667493758Z",
+  "model": "glm-5.3"
+}

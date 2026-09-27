@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uyai kuBheti-Eri, muita kutadzira; kuGiligari, wedzerai kutadzira; uye uise mangwanani zvibairo zvenyu, emazuva matatu zvikumi zvenyu.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Uyai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bheti-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "muita kutadzira"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "kuGiligari"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "wedzerai"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "kutadzira"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "uise"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "zvibairo zvenyu"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "emazuva"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "zvikumi zvenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:40:12.987210092Z",
+  "model": "glm-5.3"
+}

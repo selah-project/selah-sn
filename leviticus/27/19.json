@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye kana achida chokwadi kudzikinura ⟨את⟩ ndima, uyo akatsvenisa ⟨את⟩ iyo, achawedzera chikamu chechishanu chesirivha chekukosha kwako pairi, ndipo ichamira kwake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "uye kana"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "kudzikinura"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "chokwadi kudzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndima"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ndima"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "uyo akatsvenisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ndima (iyo)"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "achawedzera"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "chikamu chechishanu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "chesirivha"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "chekukosha kwako"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ichamira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:00.806946255Z",
+  "model": "glm-5.3"
+}

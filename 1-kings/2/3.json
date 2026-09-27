@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 2:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye uchengete ⟨את⟩ chengetedzo yaYahwe Erohimu wako, yokufamba munzira dzake, yokuchengeta mitemo yake, mirairo yake, maitiro ake ehutongi, nehumbowo hwake, sezvanyorwa mutora waMoshe, kuti ubudirire muzvinhu ⟨את⟩ zvose iyo unazviita, nepanzvimbo ⟨את⟩ yose iyo unotendeukira.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "uyeni uchengete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chengetedzo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chengetedzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yokufamba"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "munzira dzake"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "yokuchengeta"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "mitemo yake"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mirairo yake"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "maitiro ake ehutongi"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "nehumbowo hwake"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sezvanyorwa"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "mutora wa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "ubudirire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvose iyo unazviita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unazviita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "panzvimbo yose iyo unotendeukira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "unotendeukira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:43.800354892Z",
+  "model": "glm-5.3"
+}

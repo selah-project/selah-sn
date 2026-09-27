@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndikagwadzira pachiso paYahwe ⟨את⟩ makumi mana emasiku ne⟨את⟩ makumi mana eusiku pandakagwadzira, nokuti Yahwe akati kuzoparadza ⟨את⟩ imi.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "ndikagwadzira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makumi mana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "emasiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "makumi mana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "eusiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pandaka"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "ndakagwadzira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "kuzoparadza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:58.323379884Z",
+  "model": "glm-5.3"
+}

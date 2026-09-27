@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti ndinoziva mhosva dzenyu dzakawanda, uye matadzo enyu makuru: vanodzvanyirira mutsvene, vanotora rupe, uye vashayiwa mudare vanovatsauza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinoziva"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dzakawanda"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "mhosva dzenyu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "uye makuru"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "matadzo enyu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "vanodzvanyirira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "vanotora"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "rupe"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "uye vashayiwa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "mudare"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "vanovatsauza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:41:32.303773351Z",
+  "model": "glm-5.3"
+}

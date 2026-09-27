@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Erohimu akarangarira ⟨את⟩ Noa, ne⟨את⟩ zvese zvine hupenyu, ne⟨את⟩ zvipfuyo zvese zvaiva naye mune ⟨את⟩ arki; uye Erohimu akafambisa mhepo pamusoro penyika, uye mvura yakadzikira.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "akarangarira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvese zvine hupenyu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zvine hupenyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfuyo zvese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvipfuyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "mune arki"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akafambisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "yakadzikira"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:11.604718550Z",
+  "model": "glm-5.3"
+}

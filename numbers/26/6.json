@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "kwaChezironi, mhuri yeChezironi; kwaKarmi, mhuri yevaKarmi.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "kwaChezironi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mhuri ye"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "Chezironi"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kwaKarmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mhuri ye"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "vaKarmi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:03:22.456471840Z",
+  "model": "glm-5.3"
+}

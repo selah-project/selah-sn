@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvino Zimiri akaona kuti guta rabatwa, akaenda kuchitorwa cheimba yamambo, akaibvisa nokudziya pamusoro pa⟨את⟩ imba yamambo nomoto, akafa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "rabatwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "chitorwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yamambo"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "akaibvisa nokudziya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro paiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yamambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yamambo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:38.449883676Z",
+  "model": "glm-5.3"
+}

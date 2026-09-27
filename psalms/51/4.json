@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Svibisa zvakanaka ⟨את⟩ zvandakapfava, uye we zvandatakura — zvitesvene.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "svibisa zvandakapfava"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "⟨את⟩ zvandakapfava"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "uye zvandatakura"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "zvitesvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.720826547Z",
+  "model": "glm-5.3"
+}

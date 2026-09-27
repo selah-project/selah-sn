@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Vose vakadzoka, vose vari pamwechete vakaora; hapana anochaita zvakanaka, hapana, kana mumwe chete.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Vose"
+    },
+    {
+      "surface": "סג",
+      "gloss": "vakadzoka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "vakaora"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anochaita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:30.998630348Z",
+  "model": "glm-5.3"
+}

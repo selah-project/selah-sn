@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Ndembedzo yemunhu anotambudzikana, apo achava omhara, uye pachiso chaYahwe achadurukira kunyorwadza kwake.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ndembedzo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "yemunhu anotambudzikana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "achava omhara"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "uye pachiso cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "achadurukira"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "kunyorwadza kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.177904222Z",
+  "model": "glm-5.3"
+}

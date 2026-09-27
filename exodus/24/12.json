@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Yahwe akati kuna Mose: Kwira kundira pagomo, ugare ipapo; ndichakupa ⟨את⟩ mabhawa emabwe, tora nemirairo yaandanyora, kuti uvadzidzise.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kwira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundira"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "pagomo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ugare"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndichakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhawa emabwe"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mabhawa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "emabwe"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "nemurairo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "andanyora"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "kuti uvadzidzise"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:36.780905567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Haangaregedza tsoka dzako kutsvedza; haangazorori iye anokuchengeta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Haanga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "regedza"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "kutsvedza"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tsoka dzako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haanga"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zorori"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "iye anokuchengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:44.947395120Z",
+  "model": "glm-5.3"
+}

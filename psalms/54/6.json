@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 54,
+  "translation": "Taona: Erohimu ⟨ndivo⟩ mubatsiri wangu; Adonai ⟨ari⟩ navanotsigira upenyu hwangu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Taona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mubatsiri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "navanotsigira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:34.843018631Z",
+  "model": "glm-5.3"
+}

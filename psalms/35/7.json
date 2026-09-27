@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nokuti pasina chikonzero vakavanza buri nomambure yavo pandiri; pasina chikonzero vakatsvoka buri rokunzwisa mweya wangu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pasina chikonzero"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "vakavanza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "buri"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "nomambure yavo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pasina chikonzero"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "vakatsvoka"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:18.064266088Z",
+  "model": "glm-5.3"
+}

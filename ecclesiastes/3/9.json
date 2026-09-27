@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Purofiti iri kupi yeanoshanda, muzva ano shungurudzira?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "purofiti"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "anoshanda"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "muzva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "anoshungurudzira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:04.809943868Z",
+  "model": "glm-5.3"
+}

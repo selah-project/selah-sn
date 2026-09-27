@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Wakazunza ⟨את⟩ nyika, wakaputsa; pora mabhureki ayo, nokuti yatundukira!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Wakazunza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "wakaputsa"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "pora"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "mabhureki ayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "yatundukira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.503621229Z",
+  "model": "glm-5.3"
+}

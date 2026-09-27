@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Ndinofamba pachiso chaYahwe, munyika yevapenyu.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Ndinofamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yevapenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:31.100168879Z",
+  "model": "glm-5.3"
+}

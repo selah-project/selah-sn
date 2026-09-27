@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ndikanzwa ⟨את⟩ izwi remashoko ake; pandakanzwa ⟨את⟩ izwi remashoko ake, ndakagadzikara pachiso changu, uye chiso changu chakadzongonera kwadzi pasi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ndikanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "remashoko ake"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "pandakanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "remashoko ake"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndakava"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ndakagadzikara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "uye chiso changu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "kwadzi pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:04:57.621710596Z",
+  "model": "glm-5.3"
+}

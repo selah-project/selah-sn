@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Itendai Yahwe, nokuti ane chakanaka, nokuti hesedhi yake ←huri nokusingaperi→.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Itendai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ane chakanaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:52.408882280Z",
+  "model": "glm-5.3"
+}

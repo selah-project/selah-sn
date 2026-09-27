@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Ndokudzoka kwavavengi vangu kumashure muzuva randinodana; izvi ndinazviziva, kuti Erohimu ndiri wawo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ndokudzoka"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "dzokai"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kumashure"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "randinodana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinazviziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri wawo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:06.618999305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Zvinyarare Tsidhoni; nokuti gungwa rataura, simba regungwa, richiti: Handina kutambudzika, handina kuzvara, handina kurera vakomana, handina kukudzisa nhasi.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "zvinyarare"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidhoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rataura"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "regungwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "richiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "kutambudzika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "kuzvara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "kurera"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "kukudzisa"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:56.813082424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Kudzinga ⟨את⟩ vavengi venyu vose kubva pamberi penyu, sokunge Yahwe wataurira.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "kudzinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi venyu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vavengi venyu"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kubva pamberi penyu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokunge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wataurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:25.814279143Z",
+  "model": "glm-5.3"
+}

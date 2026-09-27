@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Tarirai, zvekutanga zvino zvasvika, uye zvatsva ndinodzikisa izvozvo; musati matumurwa ndinokuitai kunzwa ⟨את⟩venyu.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "zvekutanga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tarirai"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zvino zvasvika"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "uye zvatsva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ndinodzikisa izvozwo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "musati"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "matumurwa"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ndinokuitai kunzwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩venyu",
+      "marks": "venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:00.396627440Z",
+  "model": "glm-5.3"
+}

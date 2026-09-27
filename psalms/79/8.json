@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Usatitendeuka kuyeuka mhosva dzechekutanga; Ita kukurumidza kuti tsitsi dzako dzititangira, nokuti takadzikirira kwazvo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "-tendeuka kuyeuka"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "mhosva dze"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "chekutanga"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Ita kukurumidza"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "dzititangira"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tsitsi dzako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "takadzikirira"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:43.106385929Z",
+  "model": "glm-5.3"
+}

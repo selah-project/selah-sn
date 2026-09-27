@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Kwamuri, imi varume, ndinodaidza, uye izwi rangu ndere vana vanhu.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "imi varume"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndinodaidza"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:47.351201864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 93,
+  "translation": "Zvitupa zvako dzakatendeka zvikuru; kudzimba rwako kunoenderana utsvene, Yahwe, kwekunoreruka kwemazuva.",
+  "tokens": [
+    {
+      "surface": "עֵֽדֹתֶ֨יךָ",
+      "gloss": "zvitupa zvako"
+    },
+    {
+      "surface": "נֶאֶמְנ֬וּ",
+      "gloss": "dzakatendeka"
+    },
+    {
+      "surface": "מְאֹ֗ד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "לְבֵיתְךָ֥",
+      "gloss": "kudzimba rwako"
+    },
+    {
+      "surface": "נַאֲוָה",
+      "gloss": "kunoenderana"
+    },
+    {
+      "surface": "קֹ֑דֶשׁ",
+      "gloss": "utsvene"
+    },
+    {
+      "surface": "יְ֝הוָ֗ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לְאֹ֣רֶךְ",
+      "gloss": "kwekunoreruka"
+    },
+    {
+      "surface": "יָמִֽים",
+      "gloss": "kwemazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:23.276111760Z",
+  "model": "glm-5.3"
+}

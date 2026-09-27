@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Rumbidzai Yah, nokuti Yahweakanaka; rumbidzai-ro zita rake nokuti rakanaka.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe ⟨akanaka⟩"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "rumbidzai-ro"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "rakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:40.104215214Z",
+  "model": "glm-5.3"
+}

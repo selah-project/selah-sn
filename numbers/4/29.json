@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vana vaMerari, nemhuri dzavo, netsimba dzamadzibaba avo, unoverengera ⟨את⟩ avo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "vaMerari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemhuri dzavo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "netsimba"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "dzamadzibaba avo"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "unoverengera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ avo",
+      "marks": "vana vaMerari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:32.054044679Z",
+  "model": "glm-5.3"
+}

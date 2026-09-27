@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "Uye vachaimbo kuva nziyo dzenzira dzaYahwe, nokuti kukudzwa kwaYahwe ndiko kukuru.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "vachaimbo"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "kuva nziyo dzenzira dza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kuru"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kukudzwa kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:02.814323881Z",
+  "model": "glm-5.3"
+}

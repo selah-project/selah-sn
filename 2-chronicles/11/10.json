@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "ne⟨את⟩ Tsora, ne⟨את⟩ Aiyaroni, ne⟨את⟩ Chebhironi, ari muYhudha nemuBhiniamini, maguta anosimbiswa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Tsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Aiyaroni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aiyaroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Chebhironi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebhironi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "muYhudha"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "nemuBhiniamini"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "anosimbiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:32:04.038893123Z",
+  "model": "glm-5.3"
+}

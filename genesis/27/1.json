@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Zvino zvakaitika kuti Yitschaka akachembera, maziso ake akaputika okuona, akadana ⟨את⟩ Esavu mukoma wake, akati kwaari: Mwanangu. Iye akati kwaari: Ndipo pano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akachembera"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaka"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "akaputika"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "okuona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Mwanangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndipo pano"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:00.435702254Z",
+  "model": "glm-5.3"
+}

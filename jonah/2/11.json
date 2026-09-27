@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Yahwe akataura ⟨את⟩ shoko kurugare, uye rakashoropodza ⟨את⟩ Yona panzvimbo yakaoma.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לַדָּ֑ג",
+      "gloss": "kurugare"
+    },
+    {
+      "surface": "וַיָּקֵ֥א",
+      "gloss": "rakashoropodza"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יוֹנָ֖ה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הַיַּבָּשָֽׁה",
+      "gloss": "panzvimbo yakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:27.224619544Z",
+  "model": "glm-5.3"
+}

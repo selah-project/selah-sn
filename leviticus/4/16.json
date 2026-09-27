@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye mupristi wakazodzwa anouunza shedzi reropa romombe yechirume kuhema yokusangana.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Uye anouunza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "wakazodzwa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "shedzi reropa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "romombe yechirume"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:09.364686130Z",
+  "model": "glm-5.3"
+}

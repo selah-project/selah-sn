@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Vanondizadzirira zvakaipa panzvimbo pezvakanaka, kurasikirwa kumweya wangu.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "vanondizadzirira"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pe"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "kurasikirwa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumweya wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.853698231Z",
+  "model": "glm-5.3"
+}

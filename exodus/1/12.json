@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Asi sevaiomesa ⟨את⟩ ivo, naizvozvo vaiwedzera, uye naizvozvo vapararira; vakazunywa nokuda kwevana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "sevaiomesa"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vaiomesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "vaiwedzera"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "uye naizvozvo"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "vapararira"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "vakazunywa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:19.633946353Z",
+  "model": "glm-5.3"
+}

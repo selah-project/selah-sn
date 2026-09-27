@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Akati: Enda Daniyeri, nokuti mazwi akavharwa uye akatemwa nedhindo kusvika panguva yemugumo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "enda"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "akavharwa"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "uyewo akatemwa nedhindo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "yemugumo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:05:59.042190500Z",
+  "model": "glm-5.3"
+}

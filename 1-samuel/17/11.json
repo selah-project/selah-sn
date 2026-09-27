@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye Sauro neIsuraeri yose vakanzwa ⟨את⟩ mashoko aya emuPirisiti, vakazvara moyo, uye vakatya zvikuru.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko aMuPirisiti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "emuPirisiti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "vakazvara moyo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "vakatya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:53.894582304Z",
+  "model": "glm-5.3"
+}

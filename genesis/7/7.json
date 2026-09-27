@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokea akaenda, navanakomana vake, nomukadzi wake, nevadzimai vavanakomana vake ⟨naye⟩, mune chikepe, nokuda kwemvura yemabhandito.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nokea"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "navanakomana vake"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nomukadzi wake"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nevadzimai"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vavanakomana vake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mune"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "chikepe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "emvura"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "yemabhandito"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:38.306862906Z",
+  "model": "glm-5.3"
+}

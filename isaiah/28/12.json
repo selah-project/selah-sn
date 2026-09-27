@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Amo vakataurirwa navo kuti: “Iri ndiro rugare — itai kuti anete apedzwa basa; uye iri ndiro runyararo”; asi havana kuda kuteerera.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "vakataurirwa navo kuti"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ndiro rugare"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "itai kuti…apedzwa basa"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "anete"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "uye iri"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "ndiro runyararo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi havana…"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kuteerera"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:43.680868151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvose zvinoenda kunzvimbo imwe chete; zvose zvakabva mumavhu, uye zvose zvichadzokera kumavhu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "zvinoenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe chete"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvakabva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mavhu"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "uye zvose"
+    },
+    {
+      "surface": "שב",
+      "gloss": "zvichadzokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mavhu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:20:54.876471204Z",
+  "model": "glm-5.3"
+}

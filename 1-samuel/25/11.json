@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ndingatorudzika here ⟨את⟩ chingwa changu ne⟨את⟩ mvura yangu ne⟨את⟩ nyama yandinouraya kune vakapesvedza vangu, ndizvipira kune vanhu vandinogara ndisina kuziva kuti vanobva kupi?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ndingatorudzika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chingwa changu"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "chingwa changu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mvura yangu"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mvura yangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nyama yandinouraya"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "nyama yandinouraya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kune"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ndinouraya"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "kune vakapesvedza vangu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndizvipira"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "kune vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vasina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndinaziva"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "vanobva kupi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:00.119249744Z",
+  "model": "glm-5.3"
+}

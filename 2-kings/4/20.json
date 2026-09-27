@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akatwara, akamutora kuna amai vake, ndokugara pamabvi avo kusvika masikati, ndokufa.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "akatwara"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "akamutora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "amai vake"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ndokugara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "mabvi avo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ndokufa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:29.070372759Z",
+  "model": "glm-5.3"
+}

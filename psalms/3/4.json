@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Asi iwe, Yahwe, ⟨uri⟩ nhare yangu, kukudza kwangu, nemuchikwidza musoro wangu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Asi iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "nhare"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kukudza kwangu"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "nemuchikwidza"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "musoro wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:27.460431854Z",
+  "model": "glm-5.3"
+}

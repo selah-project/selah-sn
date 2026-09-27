@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Akavaunganidza varume kwaari, akava mukuru webato musi Dhavhidhi achivauraya ⟨את⟩ vari; vakafamba kuDhamasiko, vakagara imomo, nokutonga muDhamasiko.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "akavaunganidza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akava"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "webato"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "musi pakuuraywa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vari (varume iwayo)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dhamasiko"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "בה",
+      "gloss": "imomo"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "nokutonga"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "muDhamasiko"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:50.568797552Z",
+  "model": "glm-5.3"
+}

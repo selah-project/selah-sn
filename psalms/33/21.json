@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Nokuti mwoyo wedu unofara muna iye, nokuti tichivimba nezita chitsvene chake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "muna iye"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "unofara"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "mwoyo wedu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nezita"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "chitsvene chake"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "tichivimba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:26.798762008Z",
+  "model": "glm-5.3"
+}

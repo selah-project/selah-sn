@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Mutsvenero anofunga zvakanaka ⟨ngochani⟩umba yevakaipa; vakaipi vanoputswa nekwezvakaipa.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "anofunga zvakanaka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Mutsvenero"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "umba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yevakaipa"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "vanoputswa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "nekwezvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:27:33.910028733Z",
+  "model": "glm-5.3"
+}

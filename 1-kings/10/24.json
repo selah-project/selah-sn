@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye pasi rose paise svoko ⟨את⟩ chiso chaSheromoha, kunzwa ⟨את⟩ huchanza hwake yaErohimu akanga apa mwoyo yake.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "paise svoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chaSheromoha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheromoha"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huchanza hwake"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "huchanza hwake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akanga apa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mwoyo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:49.572914071Z",
+  "model": "glm-5.3"
+}

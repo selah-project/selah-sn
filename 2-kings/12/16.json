@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye kwete, vaiverengera ⟨את⟩ varume izvo vaiwanisa ⟨את⟩ mari mumaoko avo, kuipa vekuita basa, nokuti vaishanda mukutend chokwadi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Uye kwete"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "vaiverengera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varume"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "vaiwanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mari"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mari"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuipa"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "veku"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "mukutend"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "vaishanda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:29.175639816Z",
+  "model": "glm-5.3"
+}

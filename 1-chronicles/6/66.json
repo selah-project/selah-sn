@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ne⟨את⟩ Cheshbhoni ne⟨את⟩ mafuro ayo, uye ⟨את⟩ Yazeri ne⟨את⟩ mafuro ayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Cheshbhoni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuro ayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuro ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Yazeri"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yazeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuro ayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafuro ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:26.305704798Z",
+  "model": "glm-5.3"
+}

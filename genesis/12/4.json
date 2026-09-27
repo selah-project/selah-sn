@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Abhurahama akaenda sokutaura kwaYahwe kwakaitwa naye; uye Rhoti akaenda ⟨את⟩ naye; uye Abhurahama aive nemakore makumi manomwe nehashanu pachiation chake chekubva muHharani.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaura"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwakaitwa naye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "uye …akaenda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "Rhoti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Rhoti"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "uye Abhurahama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "aive nemakore"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "nehashanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "pachiation chake chekubva"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "muHharani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:48.594251995Z",
+  "model": "glm-5.3"
+}

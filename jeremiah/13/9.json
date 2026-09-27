@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Kudaro kwawanda Yahwe: Saka ndinoparadza ⟨את⟩ kudada kwaYudha, ne⟨את⟩ kudada kukuru kwaYerusharemu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kudaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kwawanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Saka"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ndinoparadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudada"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kudada"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kudada kukuru"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kudada"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharemu"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "kukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:57:04.332101101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino tikaita ⟨kudzikinura-kwavakafa⟩ ⟨את⟩ ⟨אותם⟩, sokuita kwatakaita kuna Sihoni mambo weCheshbhoni: takavadzikinura zvachose, matauta ose, varume, madzimai, nevana vachiri vadiki.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "tikaita kudzikinura-kwavakafa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "matauta ose"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuita"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "kwatakaita"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "kuna Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "weCheshbhoni"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "takavadzikinura zvachose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "matauta"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "varume"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "nevana vachiri vadiki"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:08.498875306Z",
+  "model": "glm-5.3"
+}

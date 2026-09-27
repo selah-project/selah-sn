@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Kubva kurava yako dzinotiza; kubva kune izwi redzondo rako dzinomhanyira kure.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kubva ku"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "rava yako"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "dzinotiza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva kune"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi re"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "dzondo rako"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "dzinomhanyira kure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:45.286575891Z",
+  "model": "glm-5.3"
+}

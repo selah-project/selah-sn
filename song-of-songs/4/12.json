@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Munda wakavharwa ndihanu hanzvadzi yangu, muroora wangu; chitsime chakavharwa, panosvika mvura pakavharwa.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "wakavharwa"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "hanzvadzi yangu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "muroora wangu"
+    },
+    {
+      "surface": "גל",
+      "gloss": "chitsime"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "chakavharwa"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "panosvika mvura"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "pakavharwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:01.703040862Z",
+  "model": "glm-5.3"
+}

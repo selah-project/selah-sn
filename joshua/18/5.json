@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Ivo vazoparadza ⟨את⟩ iyi kuva zvikamu zvomwe: Yehudha achamira pachigumaro chake kuchamhembe, uye bawa raYosefu richamira pachigumaro chavo kumaodzanyemba.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "vazoparadza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyi"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "kuva zvikamu zvomwe"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "zvikamu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "achamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "chigumaro chake"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "kuchamhembe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "uye bawa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "raYosefu"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "richamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "chigumaro chavo"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "kumaodzanyemba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:05.935049969Z",
+  "model": "glm-5.3"
+}

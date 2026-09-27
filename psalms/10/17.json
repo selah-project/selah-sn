@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Yahwe, wanzwa chido chevanyorei; wagadzikamisa moyo wavo; unoteerera nzeve dzako ⟨kuti uvere⟩.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "chido"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "chevanyorei"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wanzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "wagadzikamisa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo wavo"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "unoteerera"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nzeve dzako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:12.809668414Z",
+  "model": "glm-5.3"
+}

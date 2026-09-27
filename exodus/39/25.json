@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Uye vakagadzira mabherero ezhande tsvene, uye vakaisa ⟨את⟩ mabherero mumativi emarimanasi, pamuganhu wero robo, panzvimbo dzose, mumativi emarimanasi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakagadzira"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "mabherero"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zhande"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabherero"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "mabherero"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mumativi"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "emarimanasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "wero robo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "panzvimbo dzose"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mumativi"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "emarimanasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:56.235260098Z",
+  "model": "glm-5.3"
+}

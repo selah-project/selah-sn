@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Akati: “Ndakanzwa ⟨את⟩ izwi rako munivhani, ndikatya, nokuti ndiri mushishi, ndikavanda.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi rako"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "izwi rako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndakanzwa"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "munivhani"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ndikatya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "mushishi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ndikavanda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:38.843394560Z",
+  "model": "glm-5.3"
+}

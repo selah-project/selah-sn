@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Mazwi aDhavhidhi. Ipai Yahwe, imi vana vaEr; ipai Yahwe rukudzo nesimba.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazwi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aDhavhidhi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Ipai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "vaEr"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ipai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "nesimba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:43.525838250Z",
+  "model": "glm-5.3"
+}

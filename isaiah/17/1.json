@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Mutwa waDhamasiko. Ona, Dhamasiko richabviswa kuva guta, richava dongo rematombo rakadonha.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Mutwa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "waDhamasiko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dhamasiko"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "richabviswa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kuva guta"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "richava"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "dongo"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "matombo akadonha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:26.527070683Z",
+  "model": "glm-5.3"
+}

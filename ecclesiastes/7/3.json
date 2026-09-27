@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvakanaka kunetseka kupinda useka, nokuti kushata kwechiso kunobudiriritsa moyo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kunetseka"
+    },
+    {
+      "surface": "משחוק",
+      "gloss": "kupinda useka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kushata"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "kwechiso"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "kunobudiriritsa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:49.038600276Z",
+  "model": "glm-5.3"
+}

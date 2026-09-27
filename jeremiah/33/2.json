@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Zvakadaro anoti Yahwe, anogadzira ⟨את⟩ iyo, Yahwe anovumba ⟨את⟩ iyo kuigadzirira — Yahwe ndiro zita rake.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anogadzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "anovumba"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "iyo (chinhu chisina kutaurwa nezvaro)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "kuigadzirira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:07:59.540964183Z",
+  "model": "glm-5.3"
+}

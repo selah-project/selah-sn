@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Mhotero yose yavana vaIsraeri yakabuda pamberi paMoshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "yakabuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "mhotero"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:47.085578420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye pakaonekwa kune makerubhi chifananidzo cherwoko remunhu pasi penhengo dzavo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pakaonekwa"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "kune makerubhi"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "chifananidzo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "cherwoko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "remunhu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "nhengo dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:18:19.548361515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Mozhe akati: Idyai ⟨izvozvo⟩ nhasi, nokuti Shabhata yaYahwe ndiro nhasi; nhasi hamuchazviwana muchivanze.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "Idyai izvozvo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ndiro nhasi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "muchazviwana"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "muchivanze"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:41.746461718Z",
+  "model": "glm-5.3"
+}

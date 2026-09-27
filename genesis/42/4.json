@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Asi ⟨את⟩ Binjamina mubalekwa waYosefu Yaakobha haamutumiri navaabalekwa vake; nokuti akati: Kana chinhu chakaipa chingaigumira iye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamina"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mubalekwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "waYosefu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha...vi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tumira"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaabalekwa vake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vaabalekwa vake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "chinjaigumira iye"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "chinhu chakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:08.528949234Z",
+  "model": "glm-5.3"
+}

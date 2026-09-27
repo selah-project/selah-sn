@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Vana vachazvarirwa navo, chizvarwa chechitatu, vachapinda mune mbutanhumba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vachazvarirwa navo"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "vachazvarirwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "chizvarwa"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "chechitatu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vachapinda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mune"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mbutanhumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:28.657950674Z",
+  "model": "glm-5.3"
+}

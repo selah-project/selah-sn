@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye mapristi havagoni kuimirira kucherechedza nokuda kwegore, nokuti kukudzwa kwaYahwe kwakazadza ⟨את⟩ imba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Uye havagoni"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "kuimirira"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "kucherechedza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kwakazadza"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kukudzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:49.499978772Z",
+  "model": "glm-5.3"
+}

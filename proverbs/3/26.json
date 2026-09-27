@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "nokuti Yahwe achava chivimbiso chako, uye achachengeta tsoka yako kubva muchiteyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "chivimbiso chako"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "achachengeta"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tsoka yako"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "kubva muchiteyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:48.032991649Z",
+  "model": "glm-5.3"
+}

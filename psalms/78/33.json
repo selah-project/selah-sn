@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akapedza mazuva avo ⟨nezvemahara⟩, uye makore avo ⟨nokutya⟩ kwakanyanya.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Akapedza"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "nezvemahara"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "mazuva avo"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "makore avo"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "nokutya kwakanyanya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:49.002497969Z",
+  "model": "glm-5.3"
+}

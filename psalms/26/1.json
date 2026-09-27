@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Nzira yaDhavhidhi. Ita mutongo wangu, Yahwe, nokuti ini ndakafamba muchitsvene changu, uye muna Yahwe ndakatendeka, handitsauki.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nzira yaDhavhidhi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ita mutongo wangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "muchitsvene changu"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ndakafamba"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "uye muna Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndakatendeka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "-tsauki"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:20.164408039Z",
+  "model": "glm-5.3"
+}

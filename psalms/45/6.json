@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Miseve yako yakapinza; vanhu vanochira pasi pako; yakapinza mumwoyo mavo vavengi vomambo.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "Miseve yako"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "yakapinza"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pasi pako"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "vanochira"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mumwoyo mavo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vavengi vo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:38.305688096Z",
+  "model": "glm-5.3"
+}

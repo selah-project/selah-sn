@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye mushure meizvozvo akabereka mwanasikana, akadaidza ⟨את⟩ zita rake Dinha.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "mushure meizvozvo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akadaidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinha"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:05.075193882Z",
+  "model": "glm-5.3"
+}

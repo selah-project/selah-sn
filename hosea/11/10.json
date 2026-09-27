@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Vachatevera Yahwe; vachamhara serishanga — nokuti iye achamhara, uye vana vachatetema kubva kumadokero.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "vatevera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vachafamba"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "serishanga"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "vachamhara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "achamhara"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "vachatetema"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kubva kumadokero"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:00.881078007Z",
+  "model": "glm-5.3"
+}

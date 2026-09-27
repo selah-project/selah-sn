@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti paavanawo nyaya inouva kwandiri, ndinotonga pakati pemunhu nomwenzake, uye ndinozivisa ⟨את⟩ mitemo yaErohimu ne⟨את⟩ tora yake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "paavanawo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kwavari⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nyaya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "inouva"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "ndinotonga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mwenzake"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "uye ndinozivisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yaErohimu"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "tora yake"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "tora yake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:30.437640394Z",
+  "model": "glm-5.3"
+}

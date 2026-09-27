@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye vakatora ⟨את⟩ madzimai ari mume, kubva mudiki kusvika mukuru; havana kuuraya munhu, asi vakatungamidza vachienda munzira yavo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzimai"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mume"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kubva mudiki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha…na"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "…vakauraya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "vakatungamidza"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vachienda"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "munzira yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:50.763652182Z",
+  "model": "glm-5.3"
+}

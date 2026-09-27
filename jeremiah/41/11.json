@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 41:11",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Yohanan mukoma waKareha, nevatungamiri vemauto vose vaiva naye, vaanzwa ⟨את⟩ zvakaipa zvaakaita Ishimaeri mukoma waNetania.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "vaanzwa"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne…vose"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "vemauto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvakaipa zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishimaeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netania"
+    }
+  ],
+  "timestamp": "2026-09-27T08:08:00.770294805Z",
+  "model": "glm-5.3"
+}

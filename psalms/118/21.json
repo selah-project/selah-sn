@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Ndinokutenda, nokuti wandidhindura, uye wava ruponeso rwangu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndinokutenda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "wandidhindura"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "wava"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rwangu"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ruponeso"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:47.862236125Z",
+  "model": "glm-5.3"
+}

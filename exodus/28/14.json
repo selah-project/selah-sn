@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uchaita micheni miviri yendarama yakachena; pamuganhu muchaita ⟨את⟩ make, basa rokusanganidza; uchaisa ⟨את⟩ micheni yakasanganidza pamusoro pezvivateva.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "miviri"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "micheni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yakachena"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "pamuganhu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "muchaita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "micheni iyo yose"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "rokusanganidza"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uchaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micheni yakasanganidza"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "micheni"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "yakasanganidza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "zvivateva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:31.260777741Z",
+  "model": "glm-5.3"
+}

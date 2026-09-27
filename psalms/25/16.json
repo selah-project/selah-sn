@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Taridza chiso chako kwandiri, uye ndichenereedze, nokuti ndiri ⟨ega⟩ nemurombo, ini.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "taridza chiso chako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "uye ndichenereedze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "nemurombo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:26.508729406Z",
+  "model": "glm-5.3"
+}

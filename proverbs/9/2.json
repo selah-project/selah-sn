@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Akapurira zvipurwa zvake, akasanganisa wayini yake; zvino akakaonga tafura yake.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "akapurira"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "zvipurwa zvake"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "akasanganisa"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "wayini yake"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "akakaonga"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "tafura yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:24:18.195930498Z",
+  "model": "glm-5.3"
+}

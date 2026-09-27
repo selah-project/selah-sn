@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Munhu anofa ndiani, kuti unomurangarira? Uye mwanakomana womunhu, kuti unamushanyira?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "munhu anofa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "unomurangarira"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "uye mwanakomana wo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "unamushanyira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:23.907847356Z",
+  "model": "glm-5.3"
+}

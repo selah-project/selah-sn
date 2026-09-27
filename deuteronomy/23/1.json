@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Murume haatore ⟨את⟩ mukadzi waibaba vake, uye haazobvise mukwava wachafu yaibaba vake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi waibaba vake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "waibaba vake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haazo-"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "bvise"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "mukwava wachafu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yaibaba vake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:18:00.011892293Z",
+  "model": "glm-5.3"
+}

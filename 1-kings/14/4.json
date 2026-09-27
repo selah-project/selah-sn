@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 14:4",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Mukadzi waYarobhoamu akaita izvozvo, akasimuka, akaenda Shiroho, akapinda mumba waArija. Arija haana kukwanisa kuona, nokuti maziso ake akamira nokuda kweukuru hwake.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "Mukadzi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "waYarobhoamu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "akasimuka"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shiroho"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "waArija"
+    },
+    {
+      "surface": "ואחיהו",
+      "gloss": "Arija"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "kukwanisa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    },
+    {
+      "surface": "משיבו",
+      "gloss": "nokuda kweukuru hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:59.764786009Z",
+  "model": "glm-5.3"
+}

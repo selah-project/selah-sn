@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Nebhuzaradani, mukuru wevaurai, akatora ⟨את⟩avo, akaendesa ⟨את⟩avo kuna mambo weBhabhiloni kuRibirata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩avo",
+      "marks": "avo — vanhu vechishanu vechiduku vakatorwa (v25)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebhuzaradani"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wevaurai"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaendesa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩avo",
+      "marks": "avo — kuna mambo weBhabhiloni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabhiloni"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "kuRibirata"
+    }
+  ],
+  "timestamp": "2026-09-27T08:14:21.432988655Z",
+  "model": "glm-5.3"
+}

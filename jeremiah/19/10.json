@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uchazvarura ⟨את⟩ chiridzo pamberi pemaso evanhu vari kufamba newe.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "Uchazvarura"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "chiridzo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamberi pemaso pa-"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "vari kufamba"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe (newe)"
+    }
+  ],
+  "timestamp": "2026-09-27T07:58:46.212362046Z",
+  "model": "glm-5.3"
+}

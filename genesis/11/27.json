@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye idzi ndidzo tzinza zaTerahi: Terahi akazvara ⟨את⟩ Avhuramu, ⟨את⟩ Nachori, ne⟨את⟩ Harani; Harani akazvara ⟨את⟩ Roti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Uye idzi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "tzinza"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "zaTerahi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avhuramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avhuramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Roti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Roti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:58.846423016Z",
+  "model": "glm-5.3"
+}

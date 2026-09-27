@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvino achataura navo mukutsamwa kwake, uye mukuvara kwake kwekufadza nokudzivirira achavaitambudza.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "achataura"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "navo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "mukutsamwa kwake"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "uye mukuvara kwake kwekufadza nokudzivirira"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "achavaitambudza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:14.252600742Z",
+  "model": "glm-5.3"
+}

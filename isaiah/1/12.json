@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Pamunouya kundionera pachiso changa, ndiani akatsvaga izvi kubva mumaoko enyu — kutsika nenzira yakaipa mativi angu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "munouya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kundiona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso change"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "akatsvaga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "kubva mumaoko enyu"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "kutsika nenzira yakaipa"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "mativi angu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:00.658018407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 130,
+  "translation": "Mweya wangu ⟨unomirira⟩ Adonai, kupfuura vachengeti vachimirira mangwanani, vachengeti vachimirira mangwanani.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨unomirira⟩ Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "kupfuura vachengeti"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "vachimirira mangwanani"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "vachengeti"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "vachimirira mangwanani"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:29.585879664Z",
+  "model": "glm-5.3"
+}

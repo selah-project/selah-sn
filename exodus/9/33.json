@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Moshe akabuda kuna Paroh, akabuda ⟨את⟩ muguta, uye akawarura mapadza ake kuna Yahwe; mameko nerechando ndokuramba, uye mvura haina kunwirwa pasi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muguta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "akawarura"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mapadza ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ndokuramba"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "mameko"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "nerechando"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "nemvura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haina"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "kunwirwa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:49.194779359Z",
+  "model": "glm-5.3"
+}

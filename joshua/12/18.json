@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Umambo weApheki, mumwe; umambo weRasharoni, mumwe;",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "אֲפֵק֙",
+      "gloss": "Apheki"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "לַשָּׁר֖וֹן",
+      "gloss": "Rasharoni"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "mumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:26.128114480Z",
+  "model": "glm-5.3"
+}

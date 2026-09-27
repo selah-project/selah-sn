@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Yahwe ⟨ndiye⟩ mambo, nokusingaperi nokusingaperiwo; marudzi aparara akabva munyika yake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokusingaperiwo"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "aparara"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "munyika yake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:52.923327912Z",
+  "model": "glm-5.3"
+}

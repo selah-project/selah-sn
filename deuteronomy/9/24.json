@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Makanga muri vanominya naYahwe kubva musi ndakaziva ⟨את⟩ imi.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "vanominya"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "makanga muri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kubva musi"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ndakaziva"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:11.457652066Z",
+  "model": "glm-5.3"
+}

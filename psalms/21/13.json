@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Nokuti unovaisa kuti vave shure, unogadzirira netsinga dzechita chako, pamusoro pechiso chavo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "unovaisa kuti vave"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "shure"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "netsinga dzechita chako"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "unogadzirira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "chiso chavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:50.664575532Z",
+  "model": "glm-5.3"
+}

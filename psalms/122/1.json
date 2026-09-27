@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 122,
+  "translation": "Nziyo yekukwira, kwaDhavhidhi. Ndaifarira pavakati kunditi: Kumba kwaYahwe ngatiende.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yekukwira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwaDhavhidhi"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Ndaifarira"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "pavakati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kunditi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ngatiende"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:08.559877474Z",
+  "model": "glm-5.3"
+}

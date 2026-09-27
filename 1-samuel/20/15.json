@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "kuti usadzi kucheke ⟨את⟩ ⟨hesedhi⟩ yako kubva pamumba angu kusvika nokusvika, ndokunge pakuche kwaYahwe ⟨את⟩ vavengi vaDhavidhi, mumwe nomumwe kubva pachiso chapel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kuti usadzi"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kucheke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨hesedhi⟩ yako"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨hesedhi⟩ yako"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mumba angu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusvika (nekusingaperi)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "pakuche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavengi vaDhavidhi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vavengi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "vaDhavidhi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso cha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "chapel"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:13.908884453Z",
+  "model": "glm-5.3"
+}

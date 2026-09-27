@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino zuva ravapo, Erikanaha akapira chibairo, akapa Peninah mkadzi wake, nevana vake vose vakomana nevaskana, zvikamu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zuva ravapo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "akapira chibairo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Erikanaha"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mkadzi wake"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nevana vake vose"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "nevaskana"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "zvikamu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:31.538230258Z",
+  "model": "glm-5.3"
+}

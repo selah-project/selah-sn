@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye ⟨את⟩ muHivhi, ne⟨את⟩ muArki, ne⟨את⟩ muSini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "muHivhi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "muHivhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muArki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "muArki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muSini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "muSini"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.848235144Z",
+  "model": "glm-5.3"
+}

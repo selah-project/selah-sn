@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Ndichashanya ⟨את⟩ kupfurugudza kwavo nemutimuti, uye uvatadzwa hwavo nemarwadzo.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Ndichashanya"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "nemutimuti"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "kupfurugudza kwavo"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "uye nemarwadzo"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "uvatadzwa hwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:37.321719502Z",
+  "model": "glm-5.3"
+}

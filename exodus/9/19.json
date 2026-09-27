@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvino tumira, simbisa ⟨את⟩ zvipfuyo zvako ne⟨את⟩ zvose zvaunazve mumunda: munhu nomupfu wose aunowanikwa mumunda asunganwa mumba, mabharadhi achagumhucha pamusoro pavo, novafi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tumira"
+    },
+    {
+      "surface": "העז",
+      "gloss": "simbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfuyo zvako"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "zvipfuyo zvako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvose zvaunazve mumunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaunazve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zvako"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mumunda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "nomupfu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aunowanikwa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mumunda"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "aunowanikwa mumunda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asunganwa"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "achagumhucha"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "pamusoro pavo"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "mabharadhi"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "novafi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:18.372469421Z",
+  "model": "glm-5.3"
+}

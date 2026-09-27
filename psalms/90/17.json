@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Uye runako rwaAdonai Erohimu wedu rugarire pamusoro pedu, uye basa remaoko edu ⟨iwe⟩ usimbise kwatiri; uye basa remaoko edu ⟨iwe⟩ usimbise ⟨pachinzvimbo⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "rugarire"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "runako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pamusoro pedu"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "uye basa"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "remaoko edu"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "usimbise"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "uye basa"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "remaoko edu"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "usimbise ⟨pachinzvimbo⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:31.043691997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uye vaMitsirayimu vakaviga ⟨את⟩ avo Yahwe akarova pakati pavo, vose vachangoberekwa; uye pamwari yavo Yahwe akaita mitongo.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "vaMitsirayimu"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "vakaviga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avo Yahwe akarova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "vachangoberekwa"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "pamwari yavo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mitongo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:07:52.969184192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Ona, iwe wanzwa ⟨את⟩ izvo madzimambo eAshuru akaita dzose nyika, kuadzinazira; iwe woga ungasunungurwa here?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo (madzimambo eAshuru akaita)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "eAshuru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "kuadzinazira"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "iwe woga"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "ungasunungurwa here"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:03.383329597Z",
+  "model": "glm-5.3"
+}

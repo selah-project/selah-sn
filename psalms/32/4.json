@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Nokuti masikati nenusiku ruoko rwako rwakarema pamusoro pangu; simba rangu rakashanduka kuita shuwa, semunyoro wezhizha. Sera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nenusiku"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "rwakarema"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "rakashanduka"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "simba rangu (kuita shuwa)"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "semunyoro we"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "zhizha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:41.192198450Z",
+  "model": "glm-5.3"
+}

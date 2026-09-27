@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Uye matenga achazivisa ⟨zviziviso⟩ zvishamisa zvako, Yahwe, nezve rutendo rwako zvakanangana mune dunganeko revatsvene.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "uye achazivisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "zviziviso zvishamisa zvako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nezve"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "rutendo rwako"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "mune dunganeko"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "revatsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.104171540Z",
+  "model": "glm-5.3"
+}

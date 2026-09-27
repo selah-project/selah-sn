@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Akafamba nzira dzemadzimambo eIsraeri, uye akapfuurisa ⟨את⟩ mukorwa wake mumoto, sezvaiitwa zvinonyadzisa zvinhu zvedzimwe ndudzi izvo Yahwe akabvisa ⟨אתם⟩ pamberi pevana veIsraeri.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akafamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dzemadzimambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsraeri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukorwa wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mukorwa wake"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "akapfuurisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mumoto"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "sezvaiitwa zvinonyadzisa zvinhu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zvedzimwe ndudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "zvedzimwe ndudzi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pamberi pa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:58.554436248Z",
+  "model": "glm-5.3"
+}

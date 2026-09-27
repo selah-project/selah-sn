@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Imi maona izvo ndakaita kuMitsiriyi, ndakakwanira kukwarira imi ⟨אתכם⟩ pamapendekedzi engonga dzinyengare, ndikakurai kune ini.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Imi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "maona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kuMitsiriyi"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ndakakwanira kukwarira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mamo mapendekedzi"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "engonga dzinyengare"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ndikakurai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kune ini"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:12.719790599Z",
+  "model": "glm-5.3"
+}

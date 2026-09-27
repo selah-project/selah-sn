@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Mapfupa angu ose anoti: Yahwe, ndiani saiywe, unobuditsira ⟨⟨את⟩⟩ mutambudziki kubva kune ane simba pachake, uye ⟨unobuditsira⟩ mutambudziki nemushayi kubva kune anoba iye?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mapfupa angu"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "saiywe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "unobuditsira"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mutambudziki"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ane simba pachake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kune iye"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "uye mutambudziki"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nemushayi"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "kubva kune anoba iye"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.853354027Z",
+  "model": "glm-5.3"
+}

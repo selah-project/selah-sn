@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Pamitemo yako ndichazvifarira, handichakanganwa shoko rako.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "pamitemo yako"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ndichazvifarira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handicha-"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "kanganwa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "shoko rako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:05.366192215Z",
+  "model": "glm-5.3"
+}

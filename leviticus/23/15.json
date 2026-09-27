@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye muchaverenga nokudzikama, kubva mangwana eShabhata, kubva pazuva ramukasvitsa ⟨את⟩ omer yekutambanudza; Shabhata nomwe dzakazara dzichange dziri.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "muchaverenga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nokudzikama"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "kubva mangwana"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "eShabhata"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kubva pazuva"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "ramukasvitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "yekutambanudza"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "dzakazara"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "dzichange dziri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:15.077290160Z",
+  "model": "glm-5.3"
+}

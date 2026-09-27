@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Wakaropafadzwa iwe Yahwe; undidzise mitemo yako.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "wakaropafadzwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "undidzise"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mitemo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:30.799374005Z",
+  "model": "glm-5.3"
+}

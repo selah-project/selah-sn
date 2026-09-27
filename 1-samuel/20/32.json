@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye Yonathani akaenda kuna ⟨את⟩ Shauro baba vake, akavati: Ndeiyi here icho anofanira kuurayiwa? Zvaakaita ndezvei?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akaenda kuna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauro baba vake"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akavati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuna iye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ndeiyi here"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofanira kuurayiwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvaakaita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:13.602680644Z",
+  "model": "glm-5.3"
+}

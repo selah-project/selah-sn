@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye utoko mugari wayo mashoma okuverengwa, uye ukasunga madziro acho mudziko rezvuwo rako.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uye utoko"
+    },
+    {
+      "surface": "משם",
+      "gloss": "mugari wayo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mashoma"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "okuverengwa"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ukasunga"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "madziro acho"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "mudziko rezvuwo rako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:17:26.202588689Z",
+  "model": "glm-5.3"
+}

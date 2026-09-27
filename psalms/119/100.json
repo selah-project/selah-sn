@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndonzwisisa kupfuura vakuru, nokuti zvisungo zvizoita zvandakachengeta.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kupfuura vakuru"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "Ndonzwisisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "zvisungo zvizoita zvako"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ndakachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:55.916996854Z",
+  "model": "glm-5.3"
+}

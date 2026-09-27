@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Hauna kubviswa kuchinjikwa hwevhurwi masikati, uye kuchinjikwa hwomoto husiku, pamberi pevanhu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hauna"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kubviswa"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "kuchinjikwa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "hwevhurwi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "uye kuchinjikwa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "hwomoto"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "husiku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "pevanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:56.625642317Z",
+  "model": "glm-5.3"
+}

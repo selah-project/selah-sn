@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Asi mhosva dzenyu ndidzo dzakaparadzanisa pakati penyu neErohimu yenyu, uye zvitadzo zvenyu dzakavanza chiso chake kubva kwenyu, kuti asanzwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kwazvo⟩"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "mhosva dzenyu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dzi-"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "-paradzanisa"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "pakati penyu"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "uye zvitadzo zvenyu"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "dzakavanya"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kubva kwenyu"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "kuti asanzwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:12.801458575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Iwe — ndiwe wanoitwa kuti vatyise; iwe, uye ani angamire pachiso pako kubva ipapo paunoshatirwa?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ndiwe wanoitwa kuti vatyise"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "uye ani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "angamire"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pachiso pako"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kubva ipapo"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "paunoshatirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.694996579Z",
+  "model": "glm-5.3"
+}

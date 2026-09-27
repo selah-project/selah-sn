@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Nemusi iwoyo Yahwe achashanya, nebanga rake rakaoma neguru rasimba, paLivhatani nyoka inotiza, uye paLivhatani nyoka yakazvaravara; uye achauraya ⟨את⟩ tanini iri mugungwa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nemusi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iwoyo"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "achashanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "nebanga rake"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "rakaoma"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "neguru"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "rasimba"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livhatani"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "inotiza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pa"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livhatani"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "yakazvaravara"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "achauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanini"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "tanini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mugungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:54.454757938Z",
+  "model": "glm-5.3"
+}

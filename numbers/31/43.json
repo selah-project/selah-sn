@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ndokunge chidimbu cheungano, chezvipfuyo, chakanga chiri mazana matatu ezviuru, makumi matatu ezviuru, zviuru nomwe, nemazana mashanu;",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ndokunge ... chiri"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "chidimbu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "cheungano"
+    },
+    {
+      "surface": "מן",
+      "gloss": "che-"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "chezvipfuyo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezviuru"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezviuru"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezviuru"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "nemashanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:05:45.913825395Z",
+  "model": "glm-5.3"
+}

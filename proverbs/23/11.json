@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Nokuti mudzikinuri wavo wakasimba, ndiye acharwira ⟨את⟩ mhosva yavo ⟨את⟩ newe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mudzikinuri wavo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wakasimba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "acharwira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhosva yavo"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "mhosva yavo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ newe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:28:51.064162087Z",
+  "model": "glm-5.3"
+}

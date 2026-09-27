@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Ngavashate nokuda kwenyara yavo avo vanoti kunditi: ⟨Aha, aha⟩.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Ngavashate"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "nyara yavo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "vanoti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kunditi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:08.867038921Z",
+  "model": "glm-5.3"
+}

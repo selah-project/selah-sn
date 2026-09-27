@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Erohimu, mutsvene ⟨ndiyo⟩ nzira yako; ndiani Er mukuru saErohimu?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzira yako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "saErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:05.589379333Z",
+  "model": "glm-5.3"
+}

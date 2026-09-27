@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 35:9",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Ndinokuita matare achengeteka anogara nokusingaperi, uye maguta ako haazogarwi; uye muchaziva kuti ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "שממות",
+      "gloss": "matare achengeteka anogara"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "Ndinokuita"
+    },
+    {
+      "surface": "ועריך",
+      "gloss": "uye maguta ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazogarwi (kwete)"
+    },
+    {
+      "surface": "תישבנה",
+      "gloss": "hazogarwi"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "muchaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:29:09.338037717Z",
+  "model": "glm-5.3"
+}

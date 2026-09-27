@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Vakadana rubatsiro, asi hapana anununura; kuna Yahwe, asi haana kuwapindura.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "vakadana rubatsiro"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "asi hapana"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "anununura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haana"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "kuwapindura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:59.365273989Z",
+  "model": "glm-5.3"
+}

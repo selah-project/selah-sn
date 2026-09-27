@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Kurwisa kwawakarwisa ⟨את⟩ Edhomu, uye moyo wako wakakusimudza; itire rukudzo, uye gara mumba mwako; uye nei wachikavanira muzvakaipa, kuti ugone kuwa iwe uye Yehudha newe?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "kurwisa"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "kwawakarwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edhomu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "wakakusimudza"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "itire rukudzo"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "uye gara"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mumba mwako"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "uye nei"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "wachikavanira"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "muzvakaipa"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "kuti ugone kuwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "uye Yehudha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:13.144434211Z",
+  "model": "glm-5.3"
+}

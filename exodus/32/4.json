@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Iye akazvitora kubva mumaoko avo, akazviumba nchetso ⟨yekupenda⟩, akachiita mhuru yakanyungudutswa; vakati: Idzi ndizo vamwari venyu, Isirayeri, vakakufamura kubva munyika yeMiziraimi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akazvitora"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kubva mumaoko avo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "akazviumba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nchetso yekupenda"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "nchetso"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "akachiita"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "yakanyungudutswa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Idzi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ndizo vamwari venyu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isirayeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vakakufamura"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "vakakufamura"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMiziraimi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:11.864197307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Zvino zvakaitika, mushure memazuva, nzizi yakoma; nokuti kununa kwaiwa kunanga nyika.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino zvakaitika"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "mushure memazuva"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "yakoma"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "nzizi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwaiwa"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "kununa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:54.459781316Z",
+  "model": "glm-5.3"
+}

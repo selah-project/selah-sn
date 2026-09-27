@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Akhazi akati: Handina kumbira, uye handina kuedza ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Handina"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "kumbira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handina"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "kuedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:13.848905771Z",
+  "model": "glm-5.3"
+}

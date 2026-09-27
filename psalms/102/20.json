@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Nokuti wakadzikisa tarisa kubva pamusoro petsvene yake; Yahwe kubva matenga akatarisa pasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "wakadzikisa tarisa"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kubva pamusoro"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "petsvene yake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kubva matenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "akatarisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:13.753015372Z",
+  "model": "glm-5.3"
+}

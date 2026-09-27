@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Umambo weShimironi-Meroni, mumwe; umambo weAkishafu, mumwe;",
+  "tokens": [
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "שִׁמְר֤וֹן",
+      "gloss": "Shimironi"
+    },
+    {
+      "surface": "מְראוֹן֙",
+      "gloss": "Meroni"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "אַכְשָׁ֖ף",
+      "gloss": "Akishafu"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "mumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:26.129811691Z",
+  "model": "glm-5.3"
+}

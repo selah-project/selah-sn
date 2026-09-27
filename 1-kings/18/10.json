@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Pahupenyu hwaYahwe Erohimu wako, kana paine rudzi nomambo, humwe husina kutumirwa naadoni wangu ⟨kuno⟩ vachitsvaga iwe; pavakati Hakuna, akavimbisa ⟨את⟩ umambo no⟨את⟩ rudzi kuti haungawaniwi.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Pahupenyu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "paine"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "nomambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "humwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "husina"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kutumirwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "naadoni wangu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨kuno⟩"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "vachitsvaga iwe"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "pavakati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Hakuna"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "akavimbisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umambo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "rudzi"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "ungawaniwi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:29.011294477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Anorumbidzwa, ndinodana Yahwe, ndinonunurwa kubura ⟨kubva⟩ mavavengi angu.",
+  "tokens": [
+    {
+      "surface": "מהולל",
+      "gloss": "anorumbidzwa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndinodana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kubura kubva"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mavavengi angu"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ndinonunurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:32.194928935Z",
+  "model": "glm-5.3"
+}

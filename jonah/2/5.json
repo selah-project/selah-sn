@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 2:5",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndikati: Ndakadzingwa kubva pamberi pemaso ako; asi ndichawedzera kuona nyumba yetsvene yako.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ndipo ini"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndikati"
+    },
+    {
+      "surface": "נגרשתי",
+      "gloss": "ndakadzingwa"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kubva pamberi pe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maso ako"
+    },
+    {
+      "surface": "אך",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ndichawedzera"
+    },
+    {
+      "surface": "להביט",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "nyumba"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "yetsvene yako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:08.820797462Z",
+  "model": "glm-5.3"
+}

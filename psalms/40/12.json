@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Iwe, Yahwe, usavhare tsitsi dzako kubva pandiri; hesedhi yako nechokwadi chako ngazvinchengete nguva dzose.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usavhare"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "kuvhara"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tsitsi dzako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva pandiri"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nechokwadi chako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ngazvinchengete"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:32.605283440Z",
+  "model": "glm-5.3"
+}

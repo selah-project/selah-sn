@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Kururama kwangu kwiri pedyo, chipunwa changu chabuda, uye ruoko rwangu rwatonga vanhu; matitsuwa achatarisira kwandiri, uye pa-ruoko rwangu achazvirindirira.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "kwiri pedyo"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "kururama kwangu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chabuda"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "chipunwa changu"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "uye ruoko rwangu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "rwatonga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "איים",
+      "gloss": "matitsuwa"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "achatarisira"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kuna"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "achazvirindirira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:55.431746589Z",
+  "model": "glm-5.3"
+}

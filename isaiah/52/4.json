@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Nokuti kudai ndakataurwa neAdonai Yahwe: Misraimu vanhu vangu vakazvara kudzika munyika iyoyo vachiitagari; Asi, vaimwenga pasina chikonzero.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kudai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ndakataurwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraimu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "vakazvara kudzika"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "pakutanga"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "vachiitagari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "munyika iyoyo"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "pasina chikonzero"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "vaimwenga"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:25.409896133Z",
+  "model": "glm-5.3"
+}

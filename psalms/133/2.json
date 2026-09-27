@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 133,
+  "translation": "Sokudonha kwemafuta akanaka pamusoro pemusoro, kunoderera pagotsi, gotsi raAroni, rinoderera kumuganhu wehembe dzake.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Sokudonha kwemafuta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kunoderera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "gotsi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gotsi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "rinoderera"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muganhu we"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "hembe dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:28.157925039Z",
+  "model": "glm-5.3"
+}

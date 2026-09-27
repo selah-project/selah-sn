@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Hapana here kuti munenge vana vaKushi kwandiri, imi vana vaIsraeri? ndiro shoko raYahwe. Handina here kukwidza ⟨את⟩ Israeri kubva munyika yeMisraimu, uye vaFirisitii kubva kuKafutori, neAramu kubva kuKiri?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Hapana here"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "munenge vana"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "vaKushi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndiro shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Handina here"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "kukwidza"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMisraimu"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "vaFirisitii"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "kuKafutori"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "neAramu"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "kuKiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:21.445926462Z",
+  "model": "glm-5.3"
+}

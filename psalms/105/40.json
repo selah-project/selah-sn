@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Vakakumbira, akaunza ⟨selavu⟩, akazvigutsa nepingwa dzezulu.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Vakakumbira"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "⟨selavu⟩"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "nepingwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dzezulu"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "akazvigutsa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:23.143109064Z",
+  "model": "glm-5.3"
+}

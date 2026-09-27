@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye Yeriiko yakavharwa, yakavharirwa zvikuru nokuda kwevana vaIsraeri; hapana anobuda, uye hapana anopinda.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Uye Yeriiko"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "yakavharwa"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "yakavharirwa zvikuru"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "anobuda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "anopinda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:24:10.479413640Z",
+  "model": "glm-5.3"
+}

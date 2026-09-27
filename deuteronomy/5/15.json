@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 5:15",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye ucharangarira kuti waiva muranda munyika yeMitsrayimu, uye Yahwe Erohimu wako akakuburitsa ikoko nruoko rwesimba, nruoko rwakatambanudzwa; naizvozvo Yahwe Erohimu waku takuraira kuita ⟨את⟩ zuva reShabhata.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Uye ucharangarira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "היית",
+      "gloss": "waiva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "ויצאך",
+      "gloss": "akakuburitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nruoko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "rwesimba"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "nruoko"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "rwakatambanudzwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "naizvozvo — nokuda? — pachikonzero"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "akakuraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zuva reShabhata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "reShabhata"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:56.700369625Z",
+  "model": "glm-5.3"
+}

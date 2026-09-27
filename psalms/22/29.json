@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Nokuti humambo ndehwaYahwe, ndipo anotonga vanhu venyika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "hwaYahwe"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "humambo"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "vanhu venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:41.371779143Z",
+  "model": "glm-5.3"
+}

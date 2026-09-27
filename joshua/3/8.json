@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Iwe ungvareve ⟨את⟩ maprista anatakura chivande chesungano, uchiti: sokunge masvika kumagumo emvura yeYorudhani, mumaYorudhani imi migarathe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ungvareve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maprista"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "maprista"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "anatakura"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "chivande"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "chesungano"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uchiti"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "sokunge masvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kumagumo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "emvura"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "yeYorudhani"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "mumaYorudhani"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "imi mugarathe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:20.957226235Z",
+  "model": "glm-5.3"
+}

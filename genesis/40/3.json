@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Akavaisa ⟨את⟩ vari mukuchengetedzwa mumba yamutungamiri wevaurai, mumba yendenda, panzvimbo iyo Yosefu aiva mutorwa ikoko.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Akaisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vari mukuchengetedzwa"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "mukuchengetedzwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yamutungamiri"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wevaurai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "yendenda"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "aiva mutorwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:26.937202143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Kukuvadzwa kwavaripo avo vanonyora mirayiro yakaipa, neavo vanonyora mashoko anorwadza ava kunyora;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kukuvadzwa kwavaripo"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "avo vanonyora mirayiro"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "mirayiro"
+    },
+    {
+      "surface": "און",
+      "gloss": "yakaipa"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "neavo vanonyora"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "anorwadza"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ava kunyora"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:13.460002028Z",
+  "model": "glm-5.3"
+}

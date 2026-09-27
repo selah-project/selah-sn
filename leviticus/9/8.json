@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Aroni akasvikira ku⟨the⟩ altari, akaucheka ⟨את⟩ mhuru yechitadzo yaiva ⟨ya⟩ yake.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "akasvikira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "akaucheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhuru yechitadzo"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yechitadzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:29.493774245Z",
+  "model": "glm-5.3"
+}

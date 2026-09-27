@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Erohimu wangu, ndinodana masikati, asi hauna kupindura; nesikati, asi hapana runyararo kwandiri.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndinodana"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masikati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hauna"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kupindura"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nesikati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hapana"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:24.940074262Z",
+  "model": "glm-5.3"
+}

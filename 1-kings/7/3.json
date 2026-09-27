@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Yakafugurwa nensedhari kumusoro, pamusoro pemativi ari pamusoro pemitsigiri, makumi mana nemashanu, gumi neshanu mutsi mumwe ne mumwe.",
+  "tokens": [
+    {
+      "surface": "וספון",
+      "gloss": "yakafugurwa"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "nensedhari"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "pemativi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pemitsigiri"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "nemashanu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "neshanu"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "mutsi mumwe ne mumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:43.367640357Z",
+  "model": "glm-5.3"
+}

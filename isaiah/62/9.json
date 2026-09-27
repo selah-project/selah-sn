@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Nokuti vaya vanounganidza ndivo vachadya ⟨את⟩ zvavo, uye vorumbidza ⟨את⟩ Yahwe; uye vaya vanounganidza vachamwa zvavo mamaro etsvene angu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "vaya vanounganidza"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "vachadya zvavo"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "uye vorumbidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "uye vaya vanounganidza"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "vachamwa zvavo"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "mamaro"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "etsvene angu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:47:47.205087683Z",
+  "model": "glm-5.3"
+}

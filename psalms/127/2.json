@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 127,
+  "translation": "Zvisina basa kwamuri, kuvuka mangwanani, kugara manheru, kudya chingwa chekushanda zvakaoma: saizvozvo ⟨anopa⟩ yaanoda hope.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Zvisina basa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "kuvuka mangwanani"
+    },
+    {
+      "surface": "קום",
+      "gloss": "⟨kuvuka⟩"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "manheru"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kugara"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "chekushanda zvakaoma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "yaanoda"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "hope"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:52.068298377Z",
+  "model": "glm-5.3"
+}

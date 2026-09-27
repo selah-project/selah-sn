@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti tarira, Adonai, Yahwe Tsevaoti, anobvisa kuYerushalema nokubva kuYudha tsigiro nemutsigiro, tsigiro yose yechikafu, netsigiro yose yemvura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "anobvisa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kuYerushalema"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "nokubva kuYudha"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tsigiro"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "nemutsigiro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tsigiro"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yechikafu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "netsigiro yose"
+    },
+    {
+      "surface": "משען",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": "yemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:05.119442761Z",
+  "model": "glm-5.3"
+}

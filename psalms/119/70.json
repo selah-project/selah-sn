@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Moyo yavo yakafamba sezvafuta; asi ini tora yako ndinofarira.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "yakafamba"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "sezvafuta"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "moyo yavo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tora yako"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "ndinofarira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:43.885802469Z",
+  "model": "glm-5.3"
+}

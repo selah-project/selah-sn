@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "nokuti Dhavhidhi akaita ⟨את⟩ chakanaka maziso aYahwe, uye haana kudzikatira kubva pamirau yose yaakamurayira mazuva ose ehupenyu hwake, kwete chete muchitokomhe chaUriya Muhiti.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakanaka"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "סר",
+      "gloss": "kudzikatira"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva pamirau yose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaakamurayira"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yaakamurayira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ehupenyu hwake"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kwete chete"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "muchitokomhe"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "chaUriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Muhiti"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:39.538827928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Nedzenzara ⟨dzinorurama⟩ — vanopona here? Nemhashu dzako, dzinisa ⟨את⟩ vanhu, Erohimu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kune"
+    },
+    {
+      "surface": "און",
+      "gloss": "akaipa (dzenzara)"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "vanopona"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "באף",
+      "gloss": "nemhashu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "dzinisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:52.761928085Z",
+  "model": "glm-5.3"
+}

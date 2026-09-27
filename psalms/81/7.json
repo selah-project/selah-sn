@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Ndakabvisa mutoro parubendeko rwake; maoko ake akaputswa ⟨kubva⟩ mudhari.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Ndakabvisa"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "mutoro"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "parubendeko rwake"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "maoko ake"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "mudhari"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "akaputswa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:33.039536388Z",
+  "model": "glm-5.3"
+}

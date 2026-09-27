@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mushandi wemunhu waErohimu akamuka mangwanan'anga okubuda, uye tarisa — gungano rakatungamidza ⟨את⟩ guta, nemabhiza nemandoro. Mwanakomana wake akamuti: Aita, Tenzi wangu! Tingaite sei?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "akamuka mangwanan'anga"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "Mushandi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemunhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "okumuka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "okubuda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye tarisa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gungano"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "rakatungamidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "nemabhiza"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "nemandoro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akamuti"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "Mwanakomana wake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aita"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Tenzi wangu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Tingaite sei"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tingaite"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:04.904992076Z",
+  "model": "glm-5.3"
+}

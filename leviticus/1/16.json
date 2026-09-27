@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Anobvisa ⟨את⟩ chimwanza chacho netsvuu dzayo, anoitasvika padivi pealtari, kumabvazuva, panzvimbo yedhotra.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "Anobvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chimwanza chacho"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "chimwanza chacho"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "netsvuu dzayo"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "anoitasvika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "padivi pealtari"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "padivi pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kumabvazuva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "dhotra"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:59.784124415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Akaita mashizha emuti weshitima, akaancerera ⟨את⟩ aya nendarama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mashizha"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "emuti"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weshitima"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "akafukidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aya (mashizha)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nendarama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:42.547883350Z",
+  "model": "glm-5.3"
+}

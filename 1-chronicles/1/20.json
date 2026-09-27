@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yokutani akazvara ⟨את⟩ Arumodhadhi, na⟨את⟩ Shurefu, na⟨את⟩ Hatsaramavethi, na⟨את⟩ Yarachi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yokutani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arumodhadhi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Arumodhadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Shurefu"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shurefu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Hatsaramavethi"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsaramavethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Yarachi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarachi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:36.626823579Z",
+  "model": "glm-5.3"
+}

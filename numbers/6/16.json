@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye mupristi achazvedza zvose pachiso chaYahwe, uye achaita ⟨את⟩ chibairo chake chechitadzo ne⟨את⟩ chibairo chake chekupfugamira.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "achazvedza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chake chechitadzo"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "chibairo chake chechitadzo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chibairo chake chekupfugamira"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "chibairo chake chekupfugamira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:55:09.931998119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Ndinotevera ⟨את⟩ vavengi vangu, ndinovawana, uye handidzoka kusvika pavapedza.",
+  "tokens": [
+    {
+      "surface": "אֶרְדּוֹף",
+      "gloss": "ndinotevera"
+    },
+    {
+      "surface": "אוֹיְבַי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "וְאַשִּׂיגֵם",
+      "gloss": "ndinovawana"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "uye handidi"
+    },
+    {
+      "surface": "אָשׁוּב",
+      "gloss": "kudzoka"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "כַּלּוֹתָם",
+      "gloss": "pavapedza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:39.641110117Z",
+  "model": "glm-5.3"
+}

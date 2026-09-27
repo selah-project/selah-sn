@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye maoko emunhu аri pasi penhando dzavo, kudivi kwavo kune kuna; uye chiso dzavo nenhando dzavo dzakaenzana navo vana.",
+  "tokens": [
+    {
+      "surface": "וְיָדֵיהֶם",
+      "gloss": "uye maoko"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "emunhu"
+    },
+    {
+      "surface": "מִתַּחַת",
+      "gloss": "аri pasi pe"
+    },
+    {
+      "surface": "כַּנְפֵיהֶם",
+      "gloss": "nhando dzavo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "kudivi"
+    },
+    {
+      "surface": "אַרְבַּעַת",
+      "gloss": "kune kuna"
+    },
+    {
+      "surface": "רִבְעֵיהֶם",
+      "gloss": "kwavo"
+    },
+    {
+      "surface": "וּפְנֵיהֶם",
+      "gloss": "uye chiso dzavo"
+    },
+    {
+      "surface": "וְכַנְפֵיהֶם",
+      "gloss": "nenhando dzavo"
+    },
+    {
+      "surface": "לְאַרְבַּעְתָּם",
+      "gloss": "dzakaenzana navo vana"
+    }
+  ],
+  "timestamp": "2026-09-27T08:14:09.284113280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Mumba yaAroni, ivimbei neYahwe; ndiye rubatsiro rwavo nehova yavo.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Mumba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "yaAroni"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ivimbei"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "neYahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "rubatsiro rwavo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "nehova yavo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:28.588269171Z",
+  "model": "glm-5.3"
+}

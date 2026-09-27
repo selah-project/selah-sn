@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Murugare ndichogara ndakataurira, ndichorara uye ndozorota; nokuti iwe, Yahwe, ⟨wega⟩, mune chokwadi munondigadza.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "murugare"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chete"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ndichorara"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ndozorota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "wega"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mune chokwadi"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "munondigadza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:31.601961691Z",
+  "model": "glm-5.3"
+}

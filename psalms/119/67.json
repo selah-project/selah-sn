@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Isati yandin'ura, ini ndakarasika; asi zvino shoko rako ndakachengeta.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "isati"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "yandin'ura"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ndakarasika"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "asi zvino"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "shoko rako"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ndakachengeta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:58.419697903Z",
+  "model": "glm-5.3"
+}

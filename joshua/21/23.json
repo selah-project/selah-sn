@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Kubva mumutumba waDhani: ⟨את⟩ Erutekei nemiganhu yayo, ⟨את⟩ Ghibhithoni nemiganhu yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kubva mumutumba wa"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erutekei"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Erutekei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "miganhu yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "miganhu yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghibhithoni"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Ghibhithoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "miganhu yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "miganhu yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:23.676227517Z",
+  "model": "glm-5.3"
+}

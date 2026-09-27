@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uyo vana vaIsiraeri vakaita saizvozvo, uvo vakawunza mune akawanda nemuneakashoma.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "vakawunza"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "ane akawanda"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "neaneakashoma"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:39.867715622Z",
+  "model": "glm-5.3"
+}

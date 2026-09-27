@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Gara nane; usatya; nokuti uyo anotsvaga ⟨את⟩ upenyu hwangu anotsvaga ⟨את⟩ upenyu hwako; nokuti uri mune chengetero nane.”",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Gara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "nane ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "anotsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "anotsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwako"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "upenyu hwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mune chengetero"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nane"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:33.396935669Z",
+  "model": "glm-5.3"
+}

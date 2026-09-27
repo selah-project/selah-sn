@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Uye zvakaverengwa kwaari setsvene, kuzvarwa nokuzvarwa, kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "zvakaverengwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "setsvene"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzvarwa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nokuzvarwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:56.653987468Z",
+  "model": "glm-5.3"
+}

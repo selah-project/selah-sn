@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Kune mukuru wezviridzo; evana vaKorha; mizvamo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mukuru wezviridzo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "evana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "vaKorha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizvamo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.683492501Z",
+  "model": "glm-5.3"
+}

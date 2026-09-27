@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "⟨את⟩ makwai avo na⟨את⟩ mombe dzavo na⟨את⟩ mbavha dzavo, na⟨את⟩ zvose zvaive muguta, na⟨את⟩ zvose zvaive munda, vakatora.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makwai avo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "makwai avo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mombe dzavo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "mombe dzavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbavha dzavo"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "mbavha dzavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvaive muguta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvose zvaive"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvaive munda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvose zvaive"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vakatora"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:16.493370014Z",
+  "model": "glm-5.3"
+}

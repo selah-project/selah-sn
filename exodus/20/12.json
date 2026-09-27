@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Rumbidza ⟨את⟩ baba vako ne⟨את⟩ amai vako, kuti mazuva ako awedzere paivhu raYahwe Erohimu wako anokupa iwe.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Rumbidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "amai vako"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "amai vako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "awedzere"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mazuva ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anokupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:40.447439133Z",
+  "model": "glm-5.3"
+}

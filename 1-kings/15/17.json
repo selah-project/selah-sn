@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Bhasha, mambo weIsiraeri, akakwira kurwisa Judha, uye akavaka ⟨את⟩ Ramaha, kuti arege kupa kuburitsa nekupinza kune Asa mambo weJudha.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira kurwisa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bhasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsiraeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "kurwisa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramaha"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramaha"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti arege"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kuburitsa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "nekupinza"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "kune Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weJudha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:05.564955605Z",
+  "model": "glm-5.3"
+}

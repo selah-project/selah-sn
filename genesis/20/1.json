@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Abhurahama akabva ipapo akafamba achinenda nyika yeNeghevhu, akagara pakati peKadeshi nokati peShuru, akagara mugari muchipanzvimbo cheGerari.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akabva akafamba"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "yeNeghevhu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati peKadeshi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pakati peKadeshi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nokati peShuru"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nokati peShuru"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "akagara mugari"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "muchipanzvimbo cheGerari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:47.348707943Z",
+  "model": "glm-5.3"
+}

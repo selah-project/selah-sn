@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "zvinoshamisa munyika yaChamu, zvinokatyamadza pagungwa reSufu.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "zvinoshamisa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "חם",
+      "gloss": "yaChamu"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "zvinokatyamadza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "reSufu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:36.694175975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Usaite hasi nevanhu vakaipa, uye usazvidavira kuve ⟨את⟩ navo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usaite"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "nevanhu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "zvidavira"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:48.409278742Z",
+  "model": "glm-5.3"
+}

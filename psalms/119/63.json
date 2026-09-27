@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Munhambo ndiri kune vose vanokutya, nevanochengeta mirairo yako.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "munhambo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kune vose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vano"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "kutya iwe"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nevanochengeta"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mirairo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:32.939460485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Mwari wedu achauya, asingazvitse; moto pamusoro pechiso chakeuchadya, uye nzvimbo dzose around yake dzichazunza nokushata.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "achauya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Mwari wedu"
+    },
+    {
+      "surface": "ויחרש",
+      "gloss": "asingazvitse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamusoro pechiso chake"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uchadya"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "nzvimbo dzose around yake"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "dzichazunza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nokushata"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:21.374602438Z",
+  "model": "glm-5.3"
+}

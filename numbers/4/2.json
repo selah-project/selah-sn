@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Isa ⟨את⟩ musoro wevana vaKehati, pakati pevana vaRevhi, nemhuri dzavo, nemisha yemadzibaba avo.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "vaKehati"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "vaRevhi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemhuri dzavo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nemisha"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yemadzibaba avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:58.749879667Z",
+  "model": "glm-5.3"
+}

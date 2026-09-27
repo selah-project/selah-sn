@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndakayaridza zita rako, Yahwe, husiku, ndokuchengeta tora yako.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ndakayaridza"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "husiku"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ndokuchengeta"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tora yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:16.841659075Z",
+  "model": "glm-5.3"
+}

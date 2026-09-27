@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Dhavhidhi akarara navababa vake, akaletwa muchiguta chaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akarara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "vababa vake"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "akaletwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muchiguta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "chaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:11.481139781Z",
+  "model": "glm-5.3"
+}

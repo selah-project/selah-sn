@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye Kenaani akabereka ⟨את⟩ Tsaidoni mhindu yake yokutanga, ne⟨את⟩ Chiti,",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Uye Kenaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsaidoni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsaidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mhindu yake yokutanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Chiti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chiti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:27.161597242Z",
+  "model": "glm-5.3"
+}

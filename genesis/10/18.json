@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye ⟨את⟩ muArivadhi, ne⟨את⟩ muZemari, ne⟨את⟩ muHamati; uye mushure mezvo madzinza echiKenaani akapararira.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "muArivadhi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "muArivadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muZemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "muZemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muHamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "muHamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mushure mezvo"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "akapararira"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "echiKenaani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.848548338Z",
+  "model": "glm-5.3"
+}

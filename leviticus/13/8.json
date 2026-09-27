@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye koheni achaona, uye tarira, mispatshati yapararira muganda; koheni achamuitsvina: tsaraati ndiyo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "achaona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye tarira"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "yapararira"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "mispatshati"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "muganda"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "achamuitsvina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheni"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:24.018087979Z",
+  "model": "glm-5.3"
+}

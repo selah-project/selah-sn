@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Makaoma kuramba kubatsirwa kwako, iyo wakavanza kune avo vanokutya, uye wakaita kune avo vanodzoka kwazvi mukati mevanhu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "makaoma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kuramba"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kubatsirwa kwako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "wakavanza"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "kune avo vanokutya"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "kune avo vanodzoka kwazvi mukati mevanhu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kwazvi mukati mevanhu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "avana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:16.169920986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nzira dzako, Yahwe, ndizivise; magwiro ako ndidzidzise.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "nzira dzako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ndizivise"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "magwiro ako"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ndidzidzise"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:25.717835699Z",
+  "model": "glm-5.3"
+}

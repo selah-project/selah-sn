@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Chenjerera kwazvo ⟨kwauri⟩ kuti usasiye ⟨את⟩ Murevi mazuva ako ose panhaka yako.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "chenjerera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwazvo ⟨kwauri⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usasiye"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "usasiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Murevi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Murevi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mazuva ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "nhaka yako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:56.855373990Z",
+  "model": "glm-5.3"
+}

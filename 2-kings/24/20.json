@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Nokuti hasha dzaYahwe dzakaita kuwanda muYerushalema nemuYudha, kusvika apo akadzinga ⟨את⟩ vari kure nenhau dzake, uye Tsitsikiya akamiririra mambo weBhabhironi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne…"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "dzaYahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dzakaita kuwanda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerushalema"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "nemuYudha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika apo"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "akadzinga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vari kure nenhau dzake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kure ne…"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "akamiririra"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsitsikiya"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabhironi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:46.897371748Z",
+  "model": "glm-5.3"
+}

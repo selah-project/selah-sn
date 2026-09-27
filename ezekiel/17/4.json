@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Yakabvata ⟨את⟩ musoro wemidziyo mihomere, yachiunza kunyika yeKanana, muguta revatengesi yakaiisa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wemidziyo mihomere"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "wemidziyo mihomere"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "yakabvata"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "yachiunza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika ye"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta re"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "vatengesi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yakaiisa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:21:11.184380204Z",
+  "model": "glm-5.3"
+}

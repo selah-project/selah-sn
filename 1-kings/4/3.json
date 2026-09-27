@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Erihorefu naAhiya, vakoma vaShisha, vanyori; Yehoshafati mukoma waAhirodi, muyeuchidzi.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Erihorefu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "naAhiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vakoma"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "vaShisha"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "vanyori"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "waAhirodi"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "muyeuchidzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:41.622607110Z",
+  "model": "glm-5.3"
+}

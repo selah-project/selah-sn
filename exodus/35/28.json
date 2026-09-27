@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Ne⟨את⟩ zvinhuhwa ne⟨את⟩ mafuta ezokuridzira mwenje, nomafuta ekuzodza, nechedhakaito reZvinhuhwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhuhwa"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "zvinhuhwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ezokuridzira mwenje"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "nomafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ekuzodza"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "nechedhakaito"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "reZvinhuhwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:34.405583598Z",
+  "model": "glm-5.3"
+}

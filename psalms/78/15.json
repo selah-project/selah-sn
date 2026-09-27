@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Akagura matombo makuru mugwenga, akavanwisa somadziva makuru acho.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "akagura"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "matombo makuru"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "akavanwisa"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "somadziva"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "makuru acho"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:19.932299620Z",
+  "model": "glm-5.3"
+}

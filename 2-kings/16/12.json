@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye mambo akasvika kubva muDhamasheki, mambo akaona ⟨את⟩ altare; mambo akaswedera panaaltare, akapurira pamusoro paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "kubva muDhamasheki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "akaswedera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akapurira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro paro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:52.631168211Z",
+  "model": "glm-5.3"
+}

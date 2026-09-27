@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Sefanavozve vachaita avo vazvinoita; novose vanovimba navo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "sefanavozve"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "vachaita"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "avo vazvinoita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨vano⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vanovimba"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.722443810Z",
+  "model": "glm-5.3"
+}

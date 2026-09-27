@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye varandi vake vakamurodza muchari vakaenda kuYerusarema, vakamuviga mugova wake, navadzikuru vake, muguta rwaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "vakamurodza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Aharazia)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varandi vake"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "kuYerusarema"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "vakamuviga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Aharazia)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "mugova wake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "vadzikuru vake"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "rwaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:21:33.337632050Z",
+  "model": "glm-5.3"
+}

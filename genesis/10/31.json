@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ava ndevana vaShemu, nemadzitexecutive zvavo, nendimi dzavo, munyika dzavo, munyika dzavo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ava"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vaShemu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemadzitexecutive zvavo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "nendimi dzavo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "munyika dzavo"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "mushe dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:37.610753820Z",
+  "model": "glm-5.3"
+}

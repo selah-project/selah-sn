@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye vakakwira, vakatarisa ⟨את⟩ ⟨the⟩ nyika, kubva mugungwa reTsin kusvika Rehobhu, kupinda kwakaenda kuHamati.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "vakakwira"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "vakatarisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kubva mugungwa"
+    },
+    {
+      "surface": "צן",
+      "gloss": "reTsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobhu"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "kupinda"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    }
+  ],
+  "timestamp": "2026-09-27T05:58:02.555450358Z",
+  "model": "glm-5.3"
+}

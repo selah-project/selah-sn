@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Akashandura ⟨את⟩ gungwa kuva nyika yoma; munzizi vakapfuura netsoka; ikoko tinafarira mune iye.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Akashandura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gungwa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kuva nyika yoma"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "munzizi"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "vakapfuura"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "netsoka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "נשמחה בו",
+      "gloss": "tinafarira mune iye"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:35.385838900Z",
+  "model": "glm-5.3"
+}

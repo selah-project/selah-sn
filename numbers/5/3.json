@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Kubva murume kusvika mukadzi mutume; kunze kwetanga mutume, kuti vare tsindika ⟨את⟩ matanga avo, andiri ndinogara mumukati mawo.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "murume"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "mutume"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwetanga"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "mutume"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti vare"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "tsindika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanga avo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "matanga avo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amwo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ndinogara"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "mumukati mawo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:55:22.523641364Z",
+  "model": "glm-5.3"
+}

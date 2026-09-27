@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mazuva ake, Edhomu akasumuka kubva pasi peruoko rwaYudha, vakamambo pamusoro pavo.",
+  "tokens": [
+    {
+      "surface": "בְּיָמָיו֙",
+      "gloss": "Mazuva ake"
+    },
+    {
+      "surface": "פָּשַׁ֣ע",
+      "gloss": "akasumuka"
+    },
+    {
+      "surface": "אֱד֔וֹם",
+      "gloss": "Edhomu"
+    },
+    {
+      "surface": "מִתַּ֖חַת",
+      "gloss": "kubva pasi pe"
+    },
+    {
+      "surface": "יַד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "וַיַּמְלִ֥יכוּ",
+      "gloss": "vakamisa kuti atonge"
+    },
+    {
+      "surface": "עֲלֵיהֶ֖ם",
+      "gloss": "pamusoro pavo"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:03:01.088947453Z",
+  "model": "glm-5.3"
+}

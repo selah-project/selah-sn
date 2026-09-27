@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Zvirairo zvako zvandinyaradzisa kupfuura vavengi vangu, nokuti zviri kwenguva dzose kvangu.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "kupfuura vavengi vangu"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "zvandinyaradzisa"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "zvirairo zvako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kwenguva dzose"
+    },
+    {
+      "surface": "היא",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kvangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:55.916755742Z",
+  "model": "glm-5.3"
+}

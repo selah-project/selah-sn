@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nokuti ndakakusimudza iwe kubva mumavhu, ndiwo ndakakuisa wonge mutungamiri wevanhu vangu vokuIsraeri; asi iwe wakaenda munzira yaYarobhoamu, wokaita ⟨את⟩ vanhu vangu vokuIsraeri vave nutadzo, kukuitisa kuti ndivhinywe nezvitadzo zvavo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ichi⟩"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "ndakakusimudza iwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mumavhu"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ndaka kuisa iwe"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "we"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vokuIsraeri"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "wakaenda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "yaYarobhoamu"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "wokaita vave nutadzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu vokuIsraeri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vokuIsraeri"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "kukuitisa kuti ndivhinywe"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "nezvitadzo zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:51.703022094Z",
+  "model": "glm-5.3"
+}

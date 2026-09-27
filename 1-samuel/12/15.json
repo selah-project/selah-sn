@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Asi kana mosanzwa izwi raYahwe, moita mhosva ⟨את⟩ mulomo waYahwe, ruwoko rwaYahwe ruchave pamusoro penyu nepamusoro pemadzitateguru enyu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Asi kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mosa-"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "-sanzwa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "moita mhosva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulomo waYahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ruchave"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "rwaYahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "nepamusoro pemadzitateguru enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:48.061896363Z",
+  "model": "glm-5.3"
+}

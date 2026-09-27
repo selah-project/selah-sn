@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndidzidzise, Yahwe, nzira yemitemo yako, ndichachengeta kusvika mugumoverengwa.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ndidzidzise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "yemitemo yako"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "ndichachengeta"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kusvika mugumoverengwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:08.566167996Z",
+  "model": "glm-5.3"
+}

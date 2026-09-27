@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Zvino shure kweizvi, Dhavhidhi akarwisa ⟨את⟩ VaFiristia, uye akavadzikisa; akatora ⟨את⟩ Gathi nemisha yayo mumawoko eVaFiristia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kweizvi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "VaFiristia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "VaFiristia"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "akavadzikisa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gathi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathi"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "nemisha yayo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mumawoko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "eVaFiristia"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:49.972708278Z",
+  "model": "glm-5.3"
+}

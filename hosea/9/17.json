@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Mwari wangu achavaramba, nokuti havana kumuteerera; uye vachave vanodzingoka-koka pakati penations ⟨muhwandu hwenyika⟩.",
+  "tokens": [
+    {
+      "surface": "יִמְאָסֵ֣ם",
+      "gloss": "achavaramba"
+    },
+    {
+      "surface": "אֱלֹהַ֔י",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "שָׁמְע֖וּ",
+      "gloss": "vana kuteerera"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "וְיִהְי֥וּ",
+      "gloss": "uye vachave"
+    },
+    {
+      "surface": "נֹדְדִ֖ים",
+      "gloss": "vanodzingoka-koka"
+    },
+    {
+      "surface": "בַּגּוֹיִֽם",
+      "gloss": "pakati pevanhu venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:49.614957583Z",
+  "model": "glm-5.3"
+}

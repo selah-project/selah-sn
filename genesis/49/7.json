@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Kuvaravirwa kwekushusha kwavo, nokuti kwakasimba; nekutsamwa kwavo, nokuti kwakanyanya; ndinovapatsanura muYakobo, uye ndinovaparadzira muIsiraeri.",
+  "tokens": [
+    {
+      "surface": "אָר֤וּר",
+      "gloss": "kuvaravirirwa"
+    },
+    {
+      "surface": "אַפָּם֙",
+      "gloss": "kwekushusha kwavo"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עָ֔ז",
+      "gloss": "kwakasimba"
+    },
+    {
+      "surface": "וְעֶבְרָתָ֖ם",
+      "gloss": "nekutsamwa kwavo"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קָשָׁ֑תָה",
+      "gloss": "kwakanyanya"
+    },
+    {
+      "surface": "אֲחַלְּקֵ֣ם",
+      "gloss": "ndinovapatsanura"
+    },
+    {
+      "surface": "בְּיַעֲקֹ֔ב",
+      "gloss": "muYakobo"
+    },
+    {
+      "surface": "וַאֲפִיצֵ֖ם",
+      "gloss": "uye ndinovaparadzira"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵֽל",
+      "gloss": "muIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:04.587967885Z",
+  "model": "glm-5.3"
+}

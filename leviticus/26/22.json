@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ndichatuma pakati penyu ⟨את⟩ zvipembenve zveminda, uye zvinokuyangaridzai, uye zchinodzima ⟨את⟩ zvipfuwo zvenyu, uye zchinokudzikisa, uye nzira dzenyu dzichashayirwa.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Ndichatuma"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pakati penyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipembenve zveminda"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvipembenve"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zeminda"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "zvinokuyangaridzai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mukuyangaridzwa"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "zchinodzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfuwo zvenyu"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "zvipfuwo zvenyu"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "zchinokudzikisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mokudzikiswa"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "dzichashayirwa"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "nzira dzenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:50.218063325Z",
+  "model": "glm-5.3"
+}

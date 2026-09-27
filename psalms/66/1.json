@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Kune muchengeti wenzwi: rwiyo, nziyo. Ita nzwi guru kuna Erohimu, nyika yose.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune muchengeti wenzwi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ita nzwi guru"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:11.662059871Z",
+  "model": "glm-5.3"
+}

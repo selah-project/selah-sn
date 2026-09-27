@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndikayera kwavari ⟨את⟩ sirivha, ne⟨את⟩ ndarama, ne⟨את⟩ zvombo — chipo chinopihwa imba yeErohimu wedu, izvo mambe namadzikoni ake namadzishe ake, neIsraeri yose avo vakawana pachipo vakatakura.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "Ndikayera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirivha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ndarama"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvombo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "zvombo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "chipo chinopihwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yeErohimu wedu"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "vakatakura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "namadzikoni ake"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "namadzishe ake"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "neyose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "avo vakawana pachipo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:10:24.503502437Z",
+  "model": "glm-5.3"
+}

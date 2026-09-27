@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 114,
+  "translation": "Pakubuda kweIsraeri kubva kuEjipita, imba yaJakobho kubva kurvanhu rwakasiyana mutauro,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "pakubuda kwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kubva kuEjipita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva kurvanhu"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "rwakasiyana mutauro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:14.390650033Z",
+  "model": "glm-5.3"
+}

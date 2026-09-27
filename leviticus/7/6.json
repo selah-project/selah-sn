@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Chero chirume chiri mukati makoheni chinogona kudya; munzvimbo tsvene chinodyiwa; ndicho chitsvene cheutsvene.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chero"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chirume"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "mukati makoheni"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "chinogona kudya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "munzvimbo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "chinodyiwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "cheutsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:35.488000863Z",
+  "model": "glm-5.3"
+}

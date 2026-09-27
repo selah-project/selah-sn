@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nokuti waisa ⟨את⟩ guta kuva marara, ⟨את⟩ guta rakasimbiswa kuva chitsvetu; dzimba dzevatorwa dzave dusingagumi neguta — zvachose hazuchavakwi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "waisa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "kuva marara"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "guta"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "rakasimbiswa"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "kuva chitsvetu"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "dzevatorwa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "hazuchavakwi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:12.040619192Z",
+  "model": "glm-5.3"
+}

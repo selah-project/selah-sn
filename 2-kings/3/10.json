@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Bhingumambo gweIsiraeri akati: Ha-a! Nokuti ndiYahwe akadana mai mamwe oga bhumambo matatu aya, kuvanopa mumazamu maMowabhu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "bhingumambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ha-a!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "mai mamwe oga"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "bhumambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuvanopa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "avo (mamwe oga bhumambo aya)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumazamu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:20.957512450Z",
+  "model": "glm-5.3"
+}

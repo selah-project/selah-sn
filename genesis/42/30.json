@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Murume, mutenzi wenyika, akataura ⟨את⟩ nesi zvakakomba, akatiita ⟨את⟩ isu semavaongorori ⟨את⟩ enyika.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mutenzi we"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "nesi ⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "zvakakomba"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akatiita"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ isu"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "semavaongorori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "enyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:31.144590077Z",
+  "model": "glm-5.3"
+}

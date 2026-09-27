@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Unochengetedza nzira yokuuya kwemupanga: ⟨את⟩ Rabha yevana vaAmoni, uye ⟨את⟩ Yudha muYerusalema wakavharwa.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "unochengetedza"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yokuuya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kwemupanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabha yevana vaAmoni"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusalema"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "wakavharwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:21:58.086773583Z",
+  "model": "glm-5.3"
+}

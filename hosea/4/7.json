@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Sokukurumidza kwavo kudaro, ndokutadza kwandiri; kukudzwa kwavo kuita nyadzi ndinakushandura.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "sokukurumidza kwavo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kudaro"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ndokutadza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kukudzwa kwavo"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "kuita nyadzi"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ndinakushandura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:10.022405856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Akapa nhaka nyika yavo, nhaka yaIsraeri vanhu vake.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nyika yavo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "nhaka"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "nhaka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:02.280005780Z",
+  "model": "glm-5.3"
+}

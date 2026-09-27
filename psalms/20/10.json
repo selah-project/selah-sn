@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Yahwe, ita poniso! Mambo ngaatipindure muzuva ratinodana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ita poniso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ngaatipindure"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "ratinodana"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:36.048835388Z",
+  "model": "glm-5.3"
+}

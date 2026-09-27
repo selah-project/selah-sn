@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Vachauya, vachazivisa ⟨את⟩ kururamisira kwake kuvanhu vachangobereka, nokuti iye akazviita.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Vachauya"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "vachazivisa"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kururamisira kwake"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "vachangobereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akazviita"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:05.915727631Z",
+  "model": "glm-5.3"
+}

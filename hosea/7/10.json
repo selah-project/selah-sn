@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye kudada kweIsraeri kwakaputira pachiso pacho, uye havadzokera kuna Yahwe Erohimu yavo, havamutsvage zvekare mumashoko ose aya.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "kwakaputira"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kudada"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "pachiso pacho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hava-"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dzokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu yavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "mutsvage"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mumashoko ose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aya"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:03.970995127Z",
+  "model": "glm-5.3"
+}

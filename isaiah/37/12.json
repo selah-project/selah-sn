@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Ndiwo here mwari dzemarudzi, ⟨את⟩ avo madzimambo okutanga andipa kuti aparadze — ⟨את⟩ Gozani, ne⟨את⟩ Harani, neRetsefu, nevana vaEdhini, ari kuTerashari?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Ndiwo here"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩avo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dzemarudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "aparadza"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "madzimambo okutanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozani"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "neRetsefu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nevana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "vaEdhini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "kuTerashari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:58.883459780Z",
+  "model": "glm-5.3"
+}

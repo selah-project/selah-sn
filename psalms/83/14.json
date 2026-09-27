@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Erohimu wangu, muite sechiro chinosvetuka-dhinduka, semashanga pamberi pemhepo.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "muite"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "sechiro chinosvetuka-dhinduka"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "semashanga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:17.445995329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nekuti chidzidzo chakanaka ndakakupai; tora yangu musare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nekuti"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "chidzidzo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakakupai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨kumi⟩"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora yangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "musare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:59.840224158Z",
+  "model": "glm-5.3"
+}

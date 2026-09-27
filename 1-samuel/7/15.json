@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Samueri akatonga ⟨את⟩ Isiraeri mazuva ose ehupenyu hwake.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ehupenyu hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:47.654056964Z",
+  "model": "glm-5.3"
+}

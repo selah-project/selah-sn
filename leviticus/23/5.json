@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Mumwedzi wekutanga, mugumi nenna wedzi yamwedzi, pakati pemadokero, ⟨ndi⟩ Pesaha yaYahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Mumwedzi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wekutanga"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "mu-ina"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi nenna"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wedzi yamwedzi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "madokero"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:29.328027222Z",
+  "model": "glm-5.3"
+}

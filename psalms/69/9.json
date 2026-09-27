@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Ndave mupara kuvachemberi ⟨vangu⟩, uye munhu mueni kuvana vamai vangu.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "mupara"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndave"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kuvachemberi ⟨vangu⟩"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "munhu mueni"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvana"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "vamai vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:35.653300014Z",
+  "model": "glm-5.3"
+}

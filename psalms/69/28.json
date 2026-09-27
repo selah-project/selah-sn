@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 69,
+  "translation": "Isa mhosva pamhosva yavo, uye rega vapinde mururami wako.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mhosva yavo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye rega"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vapinde"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "mururami wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.284394038Z",
+  "model": "glm-5.3"
+}

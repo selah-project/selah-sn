@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye iwe, unowedzera pedyo newewe ⟨את⟩ Aroni hanzvadzi yako, ne⟨את⟩ vana vake ⟨את⟩ pamwe naye, kubva pakati pevana vaIsiraeri, kuti abate ukoheni hwandiri: Aroni, Nadhabhi naAbhihu, Erezara naIthamari, vana vaAroni.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "uye iwe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "unowedzera pedyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "hanzvadzi yako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "pamwe naye ⟨את⟩"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kubva pakati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "kuti abate ukoheni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadhabhi"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "naAbhihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Erezara"
+    },
+    {
+      "surface": "ויתמר",
+      "gloss": "naIthamari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "vaAroni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:14.457475784Z",
+  "model": "glm-5.3"
+}

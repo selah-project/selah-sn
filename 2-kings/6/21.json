@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mutongi weIsraeri akati kuna Erisha, paakaona ⟨את⟩ ivo: “Baba, ndiuraye here, ndiuraye here?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mutongi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Erisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "paakaona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ndiuraye here"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ndiuraye here"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:38.811177990Z",
+  "model": "glm-5.3"
+}

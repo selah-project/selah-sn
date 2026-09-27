@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Ndingaita sei kurengerutsa — Er haana kurengerutsa; ndingaita sei kutsamwa — Yahwe haana kutsamwa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ndingaita sei"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "kurengerutsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "kurengerutsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ndingaita sei"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:03:33.015252046Z",
+  "model": "glm-5.3"
+}

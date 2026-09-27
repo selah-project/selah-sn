@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "⟨את⟩ Areka n⟨את⟩ matanda aro, ⟨את⟩ Kaporeta, n⟨את⟩ Paroketi yechivharo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Areka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Areka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "matanda aro"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "matanda aro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaporeta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "Paroketi yechivharo"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "Paroketi"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "yechivharo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:28.817569837Z",
+  "model": "glm-5.3"
+}

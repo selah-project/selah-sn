@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Hama dzavo, mumisha yavo, dzaiuya nomwe yemazuva, kubva nguva kusvika nguva, navaya ava.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Hama dzavo"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "mumisha yavo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "dzaiuya"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "yemazuva"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "kubva nguva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "vaya ava"
+    }
+  ],
+  "timestamp": "2026-09-27T10:21:21.305960452Z",
+  "model": "glm-5.3"
+}

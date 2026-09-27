@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erimeireki, murume waNaomi, akafa; iye navanakomana vake vaviri vakasarudzwa zvichangopfuura.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Erimeireki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "waNaomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "vakasarudzwa zvichangopfuura"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "navanakomana vake vaviri"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "vanakomana vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:49:32.437371962Z",
+  "model": "glm-5.3"
+}

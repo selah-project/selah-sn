@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nevatsvene unozviita zvetsveno, nemunhu wakazara unozviita sezvakafanira.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "unozviita zvetsveno"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wakazara"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "unozviita sezvakafanira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:27.756337174Z",
+  "model": "glm-5.3"
+}

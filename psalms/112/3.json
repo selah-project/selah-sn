@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 112,
+  "translation": "Chuma nepfuma zvichava mumba make; kururama kwake kuchimirira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Chuma"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "nepfuma"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mumba make"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "kururama kwake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "kuchimirira"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:48.014600682Z",
+  "model": "glm-5.3"
+}

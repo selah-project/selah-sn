@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Kamaka mangani vakamukakavadza mudziva; vakamunetesa mugwenga reruwa?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "kamaka mangani"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "vakamukakavadza"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mudziva"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "vakamunetesa"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mugwenga reruwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:37.359417909Z",
+  "model": "glm-5.3"
+}

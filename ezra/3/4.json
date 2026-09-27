@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vanoita ⟨את⟩ biko reSwukoti sezvakanyorwa, uye mabairo emuzuva nezuva, nehuwandu, semutemo, basa remuzuva muzuva wake.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biko reSwukoti"
+    },
+    {
+      "surface": "חג",
+      "gloss": "biko"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "reSwukoti"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sezakanyorwa"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "uye mabairo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "emuzuva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nezuva"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "nehuwandu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "semutemo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "basa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "remuzuva"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "muzuva wake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:08:09.544136173Z",
+  "model": "glm-5.3"
+}

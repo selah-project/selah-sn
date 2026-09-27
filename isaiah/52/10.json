@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 52,
+  "translation": "Yahwe akapfumbura ⟨את⟩ ruoko rwake rutsvene pameso emarudzi ose; uye magumo ose epasi achaona ⟨את⟩ ruponeso rwaErohimu wedu.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "akapfumbura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake rutsvene"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "rwake rutsvene"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pameso e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "emarudzi"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "uchaona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "magumo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruponeso rwaErohimu wedu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ruponeso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "rwaErohimu wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:13.042639552Z",
+  "model": "glm-5.3"
+}

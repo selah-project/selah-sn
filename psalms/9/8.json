@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye Yahwe anogara nokusingaperi; akagadzira chigaro chake chomutongo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Uye Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "chomutongo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "chigaro chake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:31.759157092Z",
+  "model": "glm-5.3"
+}

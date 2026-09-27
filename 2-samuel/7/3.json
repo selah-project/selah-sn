@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Natani wakati kumambo: Enda, ita zvose zviri mumoyo wako, nokuti Yahwe ane iwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zviri"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mumoyo wako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ane iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:56:28.144730640Z",
+  "model": "glm-5.3"
+}

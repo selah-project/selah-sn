@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "nokuti munhu nomunhu akaita pasi tsvimbo yake, dzikava shato; tsvimbo yaAharon yakamedza ⟨את⟩ matsvimbo avo.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "akaita pasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu nomunhu"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tsvimbo yake"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dzikava"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "shato"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "yakamedza"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "yaAharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsvimbo avo"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "matsvimbo avo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:14.398345271Z",
+  "model": "glm-5.3"
+}

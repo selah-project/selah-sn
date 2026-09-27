@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Mazuva tanhatu uchashanda, uye uchaita basa rako rose;",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "tanhatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uchashanda"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uye uchaita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "basa rako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:40.446737031Z",
+  "model": "glm-5.3"
+}

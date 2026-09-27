@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Nokuti sokureba kwematenga pamusoro pepasi, hesedhi yake yakasimba pamusoro pevanoitya iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "sokureba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ pasi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yakasimba"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "vanoitya iye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:06.358349306Z",
+  "model": "glm-5.3"
+}

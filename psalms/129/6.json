@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 129,
+  "translation": "Ngave sesora dzechivara, rinobva rarasha kwazvo risati ramera.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ngave"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sesora"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "dechivara"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "risati ramera"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "rarasha kwazvo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "rarasha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:21.902765905Z",
+  "model": "glm-5.3"
+}

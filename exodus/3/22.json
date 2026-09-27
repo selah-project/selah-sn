@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Mukadzi nomukadzi achakumbira kubva kumuenzi wake nemugari weimba yake, zvombo zvesirivha nezvombo zvendarama nezvipunu; uye muchaisa kwavakomana nevavanakomana venyu, muchabvisa ⟨את⟩ zvemisiri.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "achakumbira"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Mukadzi nomukadzi"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "kumuenzi wake"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "nemugari"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "weimba yake"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvombo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zvesirivha"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezvombo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zendarama"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "nezvipunu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "muchaisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "neva-"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "vanakomana"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "muchabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misiri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:51.063736422Z",
+  "model": "glm-5.3"
+}

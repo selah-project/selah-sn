@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Imi moziva kuti ndakashanda ⟨את⟩ baba venyu nesimba rangu rose.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "moziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nesimba rangu rose"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ndakashanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba venyu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "baba venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:53.078256543Z",
+  "model": "glm-5.3"
+}

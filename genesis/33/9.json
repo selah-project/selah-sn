@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Esav akati: Ndinazvo zvakawanda, mukoma wangu; zvinhu zviri zvako ngazvigare zvazviri zvako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ndinazvo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "רב",
+      "gloss": "zvakawanda"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mukoma wangu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ngazvigare"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zvako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvinhu zviri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:21.506841501Z",
+  "model": "glm-5.3"
+}

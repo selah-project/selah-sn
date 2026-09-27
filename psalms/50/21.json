@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Izvi wakazviita, uye ndakazvinyarira; wakafungidzira kuti ndingave senge iwe — ndichakudimbudzira, uye ndichazviurongedza pamaso ako.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Izvi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakazviita"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "uye ndakazvinyarira"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "wakafungidzira"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kuti...ave"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ndingave"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "senge iwe"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ndichakudimbudzira"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "uye ndichazviurongedza"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "pamaso ako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:56.094577900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Aroni akasimudza ⟨את⟩ ruoko rwake kune ⟨את⟩ vanhu, akavaropafadza; oka dzika kubva pakuita chibairo chetadzo, chibairo chopisa, nezvibairo zvorugare.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "akavaropafadza"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "oka dzika"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "kubva pakuita"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chibairo chetadzo"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "chibairo chopisa"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "zvibairo zvorugare"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:21.804218884Z",
+  "model": "glm-5.3"
+}

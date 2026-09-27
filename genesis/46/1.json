@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Israeri akatura rwendo rwake newzvinhu zvose zvaiva nezvake, akasvika paBhera-Shebhaa, akapereka zvipiro kuna Erohimu waibaba wake Isaka.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "akatura rwendo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "newzvinhu zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nezvake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "paBhera-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebhaa"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "akapereka"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "zvipiro"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kuna Erohimu wa-"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ibaba wake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:21.923163814Z",
+  "model": "glm-5.3"
+}

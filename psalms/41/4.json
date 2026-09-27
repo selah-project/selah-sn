@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Yahwe achamutsigira pauta hweurwere; mauta oke ake waushandura muurwere hwake.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "achamutsigira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "uta"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "hweurwere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "mauta ake"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "waushandura"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "muurwere hwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:43.984145194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Kune mutungamiri — paJonati-elemu-rehokimu — nhwiya raDhavhidhi, mukhatamu, apo Vapereshiti vakabata ⟨את⟩ iye muGhata.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa—"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Jonati"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elemu"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rehokimu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "raDhavhidhi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mukhatamu"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "apo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Dhavhidhi (iye) — chinhu chakabatwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vapereshiti"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "muGhata"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:40.024214952Z",
+  "model": "glm-5.3"
+}

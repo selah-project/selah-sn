@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Kubva matenga vakarwa; nyeredzi dzakazviita nzira dzadzo dzikarwa naSisera.",
+  "tokens": [
+    {
+      "surface": "מִן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "שָׁמַ֖יִם",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "נִלְחָ֑מוּ",
+      "gloss": "vakarwa"
+    },
+    {
+      "surface": "הַכּֽוֹכָבִים֙",
+      "gloss": "nyeredzi"
+    },
+    {
+      "surface": "מִמְּסִלֹּותָ֔ם",
+      "gloss": "munzira dzadzo"
+    },
+    {
+      "surface": "נִלְחֲמ֖וּ",
+      "gloss": "dzikarwa"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "na"
+    },
+    {
+      "surface": "סִיסְרָֽא",
+      "gloss": "Sisera"
+    }
+  ],
+  "timestamp": "2026-09-27T06:33:17.015463981Z",
+  "model": "glm-5.3"
+}

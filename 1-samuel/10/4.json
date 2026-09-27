@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Vachakubvunza rugwadero rwako, vachakupa maronda maviri echingwa; iwe uchatora kubva mumaoko avo.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "vachakubvunza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rugwadero rwako"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rwakanaka"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "vachakupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maronda echingwa"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "uchatora"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kubva mumaoko avo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:42.800465415Z",
+  "model": "glm-5.3"
+}

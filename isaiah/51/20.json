@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Vana vako vatorwa masimba, vanogara vakarara panzvimbo yekutanga yemitambo yose, semhuka yesango yakaputswa mune; vakazadzwa nehasha yaYahwe, nemutETSUriro waErohimu wako.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "vatorwa masimba"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "vanogara vakarara"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "panzvimbo yekutanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "mitambo"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "semhuka yesango"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "yakaputswa mune"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "vakazadzwa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "mutETSUriro"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:45:28.992375077Z",
+  "model": "glm-5.3"
+}

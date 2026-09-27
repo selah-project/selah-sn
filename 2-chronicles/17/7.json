@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 17:7",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye mugore rechitatu poumambo hwake, akatuma madunhumambo ake — Beni-hairo, neObhadhiya, neZekariya, neNetanieri, neMikhaia — kunodzidzisa muguta dzaYudha.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "mugore re"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "rechitatu"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "poumambo hwake"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "לשריו",
+      "gloss": "madunhumambo ake"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Beni-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hairo"
+    },
+    {
+      "surface": "וילעבדיהו",
+      "gloss": "neObhadhiya",
+      "surface_actual": "ולעבדיה"
+    },
+    {
+      "surface": "ולזכריה",
+      "gloss": "neZekariya"
+    },
+    {
+      "surface": "ולנתנאל",
+      "gloss": "neNetanieri"
+    },
+    {
+      "surface": "ולמיכיהו",
+      "gloss": "neMikhaia"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "kunodzidzisa"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "muguta dza"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:35:30.456264622Z",
+  "model": "glm-5.3"
+}

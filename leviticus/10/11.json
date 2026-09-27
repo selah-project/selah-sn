@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "nokudzidzisa ⟨את⟩ vana vaIsraeri ⟨את⟩ mitemo yose yaYahwe akataura kuvavo nemaoko aMoshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "nokudzidzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuvavo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "nemaoko a"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:44.312993623Z",
+  "model": "glm-5.3"
+}

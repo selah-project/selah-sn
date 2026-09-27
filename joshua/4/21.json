@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 4:21",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akataura kuvana vaIsraeri, achiti: Panguva inotevera, pavana venyu vachabvunza ⟨את⟩ madzitatega avo, vachiti: Matombo awa anoita chii?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "vachabvunza"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vana venyu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "inotevera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzitatega avo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "madzitatega avo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "awa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:15.459255355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye ⟨את⟩ vanopfugamira pamasango emba kuTsevaoti yematenga, uye ⟨את⟩ vanopfugamira vanopika ⟨na⟩Yahwe, nevose vanopika mazita kuMalkamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanopfugamira"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "vanopfugamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "masango emba"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kuTsevaoti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yematenga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanopfugamira"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "vanopfugamira"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "vanopika mazita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "nevose vanopika mazita"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kuMalkamu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:47:13.346657018Z",
+  "model": "glm-5.3"
+}

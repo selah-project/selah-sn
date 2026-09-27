@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Ini, nokururama, ndichaona chiso chako; ndichazadzikiswa, pandimuka, nefanidziro yako.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "nokururama"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ndichaona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ndichazadzikiswa"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "pandimuka"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "nefanidziro yako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:36.434873043Z",
+  "model": "glm-5.3"
+}

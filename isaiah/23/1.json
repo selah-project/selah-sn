@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Mutsa weTsuru. Rwadzarwai, ngarava dzeTarshishi; nokuti yakaparadzwa, pasina imba, pasina kupinda; kubva kunyika yeKhitimu zvinoziviswa kwavari.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "mutsa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "weTsuru"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "rwadzarwai"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ngarava"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "dzeTarshishi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yakaparadzwa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kupinda"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "yeKhitimu"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "zvinoziviswa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:56.812512333Z",
+  "model": "glm-5.3"
+}

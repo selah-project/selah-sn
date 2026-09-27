@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Uye vamukidze muchiungano chevanhu, muchigaro chevakuru vamurumbidze.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Uye vamukidze"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "muchiungano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "chevanhu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "muchigaro"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "chevakuru"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "vamurumbidze"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:18.991594137Z",
+  "model": "glm-5.3"
+}

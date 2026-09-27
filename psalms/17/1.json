@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Nomuoko waDhavhidhi. Teerera, Yahwe, kururamiswa; nyaradzira nzeve dzako kuchema kwangu; teerera munamato wangu — pasi pemazvara asina hunyengeri.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Nomuoko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "waDhavhidhi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Teerera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururamiswa"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "nyaradzira nzeve dzako"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "kuchema kwangu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "munamato wangu"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mazvara"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "asina hunyengeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:18.050865285Z",
+  "model": "glm-5.3"
+}

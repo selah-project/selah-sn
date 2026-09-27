@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndakati ini mumoyo wangu: Erohimu achatonga ⟨את⟩ mutsvene nomupombi, nokuti nguva ipi neipi yiri ⟨ipo⟩ pachinhu chine chido chose, negweso rose.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ndakati"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "mumoyo wangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutsvene"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nomupombi ⟨את⟩",
+      "marks": "mupombi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mupombi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pachinhu chine chido chose"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chido"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "negweso rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gweso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:30.035635342Z",
+  "model": "glm-5.3"
+}

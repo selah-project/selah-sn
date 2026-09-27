@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Ndakacheka sungano newakasarudzwa wangu; ndakupika kunaDhavhidhi mushandi wangu:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Ndakacheka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "newakasarudzwa wangu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndakupika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kunaDhavhidhi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mushandi wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:53.158402435Z",
+  "model": "glm-5.3"
+}

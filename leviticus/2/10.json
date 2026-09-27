@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvosara zveminha ndezvaAroni nevana vake: chitsvene chokutsvena zvachose, kubva muzvibairo zvemoto zvaYahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "zvosara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "muminha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ndezvaAroni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "nevana vake"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "chokutsvena zvachose"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "kubva muzvibairo zvemoto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zvaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:55.489091712Z",
+  "model": "glm-5.3"
+}

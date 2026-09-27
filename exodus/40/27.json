@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Akautsa pahwaro hwayo fwafwa yeunhu hwakanaka, sokutaura kwaYahwe kuna ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "akautsa fwafwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pahwaro hwayo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fwafwa"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "yeunhu hwakanaka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaura kwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:31.831789026Z",
+  "model": "glm-5.3"
+}

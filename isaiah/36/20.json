@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Ndiani wo muwo mwari wose adzinyika idzi, vakaponesa ⟨את⟩ nyika yavo mumaoko angu, kuti Yahwe agoponesa ⟨את⟩ Yerusharemu mumaoko angu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ndiani wo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muwo... wose"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "adzinyika"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "vakaponesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yavo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nyika yavo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mumaoko angu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "agoponesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusharemu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharemu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "mumaoko angu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:18.227519887Z",
+  "model": "glm-5.3"
+}

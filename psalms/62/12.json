@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Kamwe Erohimu akataura, kaviri ndanzwa izvi: kuti simba riri kwaErohimu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaviri"
+    },
+    {
+      "surface": "זו",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndanzwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עז",
+      "gloss": "simba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kwaErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:49.952248198Z",
+  "model": "glm-5.3"
+}

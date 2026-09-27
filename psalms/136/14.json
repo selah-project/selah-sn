@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Uye akaita Israeri kupfuura mukati maro, nokuti hesedhi yake ichiiko nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Uye akaita...kupfuura"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "mukati maro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake ichiiko"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:21.255938667Z",
+  "model": "glm-5.3"
+}

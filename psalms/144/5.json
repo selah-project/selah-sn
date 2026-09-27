@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Yahwe, temedza matenga ako uye udzike; svinirira ⟨את⟩ makomo, uye achafutsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "temedza"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "matenga ako"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "uye udzike"
+    },
+    {
+      "surface": "גע",
+      "gloss": "svinirira"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "uye achafutsa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:03.259650661Z",
+  "model": "glm-5.3"
+}

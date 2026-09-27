@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Naizvozvo Bhati-Sheba akadzvanyirira, akagwadamira mambo; mambo akati: Chii chinoda iwe?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "akadzvanyirira"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bhati-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "akagwadamira"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii chinoda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:43.455545374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Matenga nokukwirira, napasi nokudzika, uye mwoyo wevamambo — hapana kuuchochotsoredza.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "nokukwirira"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "napasi"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "nokudzika"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "uyemwoyo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "vamambo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kutsoredza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:30:07.184037152Z",
+  "model": "glm-5.3"
+}

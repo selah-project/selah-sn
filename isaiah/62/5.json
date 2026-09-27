@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 62,
+  "translation": "Nokuti sejaya anotoraa rohwandu, naizvozvo vana vako vachatora ⟨iwe⟩; uye semufaro wemukwasha pamusoro pemuroora, naizvozvo Erohimu wako achafara pamusoro pako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "anotoraa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "jaya"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "rohwandu"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "vachatora ⟨iwe⟩"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "uye semufaro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "wemukwasha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "muroora"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "achafara"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:06:28.569106993Z",
+  "model": "glm-5.3"
+}

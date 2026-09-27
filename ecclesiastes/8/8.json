@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Hapana munhu anotonga mhepo kudzivirira ⟨את⟩ mhepo; uye hapana hushe musi wekufa; uye hapana kuregedzwa muhondo; uye uipi haaponesi ⟨את⟩ mwene waro.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "anotonga"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "kudzivirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhepo"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "hushe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "המות",
+      "gloss": "wekufa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "kuregedzwa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "muhondo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haa-"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ponesi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "uipi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwene waro"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mwene waro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:20.585841970Z",
+  "model": "glm-5.3"
+}

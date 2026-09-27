@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Apo madzibaba enyu vakandiyezera, vakandiongora, vakazovona basa rangu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Apo"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "vakandiyezera"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "madzibaba enyu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "vakandiongora"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vakavona"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basa rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:37.777488980Z",
+  "model": "glm-5.3"
+}

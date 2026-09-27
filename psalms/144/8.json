@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Vanhu avo muromo wavo unotaura shava, uye rudyi rwavo ruri rudyi rwenhema.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "muromo wavo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "shava"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "rudyi rwavo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ruri rudyi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "rwenhema"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:43.069800700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Vakavadana, asi vakabva vadzikamira kuburikidza navo; vakapira mibairo kuvaBharu, vakapisa fumo kuvafananidzo.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "vakavadana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vakadzikamira"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kubva pachiso pavo"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "kuvaBharu"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "vakapira mibairo"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "nevafananidzo"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "vakapisa fumo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:43.590223781Z",
+  "model": "glm-5.3"
+}

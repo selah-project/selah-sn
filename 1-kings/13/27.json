@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Ndokutaura navanakomana vake achiti: Bandirai ⟨את⟩ mbongoro yangu; ndokuyibanda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ndokutaura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vanakomana vake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Bandirai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbongoro"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "mbongoro"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ndokuyibanda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:21.721129560Z",
+  "model": "glm-5.3"
+}

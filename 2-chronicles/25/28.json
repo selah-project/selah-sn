@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye vakamutakura pahovhi, vakamuviga ⟨את⟩ pamwe nemadzibaba awo muguta reYudha.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "vakamutakura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hovhi"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "vakamuviga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pamwe ne- (kubata pachena)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "madzibaba awo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:38:36.655267939Z",
+  "model": "glm-5.3"
+}

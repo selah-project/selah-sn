@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Uye unoita mhirizhonga maviri endarama, uye unoisa ⟨את⟩ iwo pamagumu maviri ehosheni, pamuganhu wayo wuri kudivi refodi, mukati.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mhirizhonga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "unoisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mhirizhonga maviri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "magumu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ehosheni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "muganhu wayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "divi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "refodi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mukati"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:17.249563856Z",
+  "model": "glm-5.3"
+}

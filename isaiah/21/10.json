@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Chibage chandinopfimbwa rangu, nechibage chenchambarago rangu: izvo ndanzwa kubva ⟨את⟩ kuna Yahwe Tsevaoti, Erohimu weIsuraeri, ndakazvitaurira imi.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Chibage chandinopfimbwa rangu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "chibage chenchambarago rangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndanzwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva ⟨את⟩",
+      "marks": "kuna Yahwe Tsevaoti, Erohimu weIsuraeri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ndakazvitaurira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:18.503019406Z",
+  "model": "glm-5.3"
+}

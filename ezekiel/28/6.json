@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Naizvozvo ndizvozvo Adonai Yahwe anoti: Nokuti waisa ⟨את⟩ moyo wako semoyo waErohimu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndizvozvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "anoti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "waisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wako"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "semoyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "waErohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:11:45.684240479Z",
+  "model": "glm-5.3"
+}

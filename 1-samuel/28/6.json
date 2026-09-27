@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Shauro akabvunza Yahwe, asi Yahwe haana kumudavira — zve muchiroto, zve muUrimu, zve nvavaporofita.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akabvunza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "haana kumudavira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zve"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "muchiroto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zve"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "muUrimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zve"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "nvavaporofita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:52:49.156977786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Asi angawa, haadonherwi; nokuti Yahwe anotsigira ⟨ruoko⟩ rwake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "angawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "donherwi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "anotsigira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruko rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:01.854116177Z",
+  "model": "glm-5.3"
+}

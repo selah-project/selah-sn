@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Anotumira magwero munzizi; pakati pemakomo anofamba.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "anotumira"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "magwero"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "munzizi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "anofamba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:08.618403757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Ndichofungisisa zvose mabasa ako, uye nezviitiko zvako ndichotaurirana.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ndichofungisisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "nezviitiko zvako"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ndichotaurirana"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:05.589135637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye unonyora pamusoro pematombo ⟨את⟩ mashoko ose eta iyi, uchitsanangura zvakanaka.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "uye unonyora"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "eta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "uchitsanangura"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T06:18:22.980493134Z",
+  "model": "glm-5.3"
+}

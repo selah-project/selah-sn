@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Erohimu akataura kuna Nowa, nevavana vake ⟨את⟩ pamwe naye, achiti:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nowa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nevana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "nevavana vake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ pamwe naye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:28.591275474Z",
+  "model": "glm-5.3"
+}

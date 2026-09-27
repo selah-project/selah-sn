@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yahwe andipa zvandinomereka nomutsvene wangu; sokuchenjecha kwemaoko angu ndinodzosera kwandiri.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "andipa zvandinomereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "nomutsvene wangu"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "so"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kwemaoko angu"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ndinodzosera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:40.228383510Z",
+  "model": "glm-5.3"
+}

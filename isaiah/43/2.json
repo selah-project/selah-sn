@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Nokuti kana wakupinda mumvura, ⟨את⟩ ndiri newe; uye munzizi, havakuzadzikise; kana wakufamba mumoto, haukwapari; uye murazvo hauatseiri mukati mewo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "kana wakupinda"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndiri newe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "uye munzizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "vakuzadzikise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wakufamba"
+    },
+    {
+      "surface": "במו",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "ukwapari"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "uye murazvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "uatseiri"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mukati mewo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:03.018243744Z",
+  "model": "glm-5.3"
+}

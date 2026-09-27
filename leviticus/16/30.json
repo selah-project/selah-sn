@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nokuti nenguva ino achakupererai pamuri kuti atsvenyesa ⟨את⟩ imi kubva pazvitadzo zvenyu zose; pachiso paYahwe muchatsvenyeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nenguva ino"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ino"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "achakupererai"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamuri"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "kutsvenyesa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva pazvi"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "zvitadzo zvenyu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "muchatsvenyeka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:11.233138376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Munhu anodya zvakanaka kubva mumuchero womuromo wake, asi upenyu hwevanyengedzi ⟨hune⟩ ruvhinyo.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "kubva mumuchero"
+    },
+    {
+      "surface": "פי",
+      "gloss": "womuromo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "anodya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "asi upenyu"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "hwevanyengedzi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ruvhinyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:43.683973218Z",
+  "model": "glm-5.3"
+}

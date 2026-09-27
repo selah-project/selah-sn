@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Gumbo richairidza, mapapiro emagumbo evapfiri, netsvimbo dzokufamba dzevasina chipo.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "richairidza"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "gumbo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "emagumbo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "evapfiri"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "tsvimbo dzokufamba"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "dzevasina chipo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:08.032633553Z",
+  "model": "glm-5.3"
+}

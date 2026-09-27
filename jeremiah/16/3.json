@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 16:3",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nokuti zvakadaro zvaita Yahwe: pamusoro pevanakomana nevadasi vanoberekwa muchirimwa ichi, napamusoro peamai avo vanavarera ⟨את⟩, napamusoro pebaba avo vanavazvara ⟨את⟩ munyika iyoyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "⟨⟩ vanakomana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nevadasi — napamusoro pe-"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "nevadasi"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "vanoberekwa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "muchirimwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "napamusoro pe-"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "amai avo"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "vanavarera"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (vanakomana nevadasi)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "napamusoro pe-"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baba avo"
+    },
+    {
+      "surface": "המולדים",
+      "gloss": "vanavazvara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo (vanakomana nevadasi)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:56:57.716544731Z",
+  "model": "glm-5.3"
+}

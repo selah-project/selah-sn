@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Ndichakunzviridzisa, ndichakutungamirira munzira yaunofanira kuenda; ndichakurairira, iso yangu ichiri pauri.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "ndichakunzviridzisa"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ndichakutungamirira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "unofanira kuenda"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ndichakurairira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pauri"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iso yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:27.845553360Z",
+  "model": "glm-5.3"
+}

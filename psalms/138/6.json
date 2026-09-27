@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "Nokuti Yahwe murefu, asi anoona vanopfava; wakadzikama kubva kure anoziva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "רם",
+      "gloss": "murefu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "vanopfava"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "anoona"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "wakadzikama"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kubva kure"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "anoziva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:02.814975483Z",
+  "model": "glm-5.3"
+}

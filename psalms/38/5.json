@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Nokuti mhosva dzangu dzapfuura musoro wangu; somureza worembera, dzakarema kwazviri kupfuura iwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mhosva dzangu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dzapfuura"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "musoro wangu"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "somureza"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "worembera"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "dzakarema"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kupfuura iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:54.189251670Z",
+  "model": "glm-5.3"
+}

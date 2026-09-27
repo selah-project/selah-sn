@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Usatvendere Muhedomu, nokuti ndiye mukoma wako; usatvendere Mumitsiri, nokuti wakange uri mutorwa munyika yake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "tvendere"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Muhedomu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mukoma wako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "tvendere"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mumitsiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mutorwa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wakange uri"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "munyika yake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:53.831244615Z",
+  "model": "glm-5.3"
+}

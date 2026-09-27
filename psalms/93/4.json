@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 93,
+  "translation": "Kupfuura mazwi emvura zhinji, kupfuura matundu makuru egungwa — Yahwe, ari pamusoro, ane simba.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "kupfuura mazwi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "emvura"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "zhinji"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "makuru"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "matundu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "egungwa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ane simba"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:37.276746788Z",
+  "model": "glm-5.3"
+}

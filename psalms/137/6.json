@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Rurimi rwangu rutige dumba remukanwa rwangu, kana ndisina kukuyeuka; kana ndisina kukusimudza Yerushalema ⟨את⟩ pamusoro pefariro yangu.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "rutige"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "rurimi rwangu"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "dumba remukanwa rwangu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuramba"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ndisina kukuyeuka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuramba"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ndisina kukusimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "fariro yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:21.346855206Z",
+  "model": "glm-5.3"
+}

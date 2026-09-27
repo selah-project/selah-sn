@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Uye oga oga ane hungavariri-hwoyo muri iyeye ngaauye, ngaate ⟨את⟩ zvese zvakarayirwa naYahwe:",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "oga oga"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hungavariri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "-hwoyo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "muri iyeye"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ngaauye"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ngaate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zvakarayirwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:28.816949735Z",
+  "model": "glm-5.3"
+}

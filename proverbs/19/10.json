@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvinofadza hazvikodzere ipwere; zvekutaurisa kuti muranda atonge madzishe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haazvi"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kodzere"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "kune ipwere"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "zvinofadza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvekutaurisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "משל",
+      "gloss": "atonge"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "madzishe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:28:06.514613092Z",
+  "model": "glm-5.3"
+}

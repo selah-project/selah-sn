@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Izwi romunhu anodaidza muhwahwa: Gurira nzira yaYahwe; naipwadzisa mubvumbi gwanja reErohimu wedu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "romunhu anodaidza"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "muhwahwa"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "Gurira"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "naipwadzisa"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "mubvumbi"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "gwanja"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "reErohimu wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:54.903326524Z",
+  "model": "glm-5.3"
+}

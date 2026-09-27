@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nekuzvarwa kwako, pazuva iro rokuzvarwa kwako, chibereko chako hachina kuchekwa, uye haukashambadzwi mumvura ⟨kuzinatsa⟩, haukapswinyirwa nemunyu, uye haukaputirwa mumbatya.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Nekuzvarwa kwako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "iro rokuzvarwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hachina"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kuchekwa"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "chibereko chako"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haukashambadzwi"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "kushambadzwa"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "kuzinatsa"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "uye kupswinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haukapswinyirwa"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "nemunyu"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "uye kuputira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haukaputirwa"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "mumbatya"
+    }
+  ],
+  "timestamp": "2026-09-27T11:10:04.830552668Z",
+  "model": "glm-5.3"
+}

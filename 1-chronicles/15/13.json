@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "nokuti pakutanga haisu imi (vari pedyo), Yahwe Erohimu wedu akaputika pakati pedu, nokuti taisatsvaga pamutemo wakanaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "למ",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "pakutanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "akaputika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pakati pedu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "taisa"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kumutsvaga"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "pamutemo wakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:23:50.505874532Z",
+  "model": "glm-5.3"
+}

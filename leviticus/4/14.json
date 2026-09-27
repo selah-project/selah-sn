@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "uye chitadzo vakatadza nacho chikazivikanwa, uye musangano wakapinza mombe yechirume, mwana wechitere, sechibairo chetadzo, uye vakauunza ⟨את⟩ iyo pamberi pehema yokusangana;",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "uye chikazivikanwa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chitadzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cho"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vakatadza"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nacho"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "uye wakapinza"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "musangano"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mombe yechirume"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wechitere"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sechibairo chetadzo"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "uye vakauunza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo mombe yechirume"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "pehema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:09.364380200Z",
+  "model": "glm-5.3"
+}

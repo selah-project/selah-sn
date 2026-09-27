@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "NaBakabakari, Chereshi naGarari, naMatania mukorwa waMika, mukorwa waZikiri, mukorwa waAsafi.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "naBakabakari"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Chereshi"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "naGarari"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "naMatania"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa wa"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa wa"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikiri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa wa"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:21:09.589025895Z",
+  "model": "glm-5.3"
+}

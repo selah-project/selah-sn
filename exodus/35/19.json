@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "⟨את⟩ mbatya dzokushandira mune dzitsvene, ⟨את⟩ mbatya dzetsvene dzaAroni mupristi, nezve⟨את⟩ mbatya dzavana vake, dzokushandira kuchibata basa repisti.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbatya dzokushandira"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mbatya"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "dzokushandira"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "dzokushandira mune"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "dzitsvene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbatya dzetsvene"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mbatya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dzetsvene"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "dzaAroni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nezve⟨את⟩",
+      "marks": "mbatya dzavana vake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mbatya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "avana vake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "dzokushandira kuchibata basa repisti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:47.083343173Z",
+  "model": "glm-5.3"
+}

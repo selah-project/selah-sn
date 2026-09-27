@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Iye akaunza ⟨את⟩ zvinhu tsvene zvaibaba vake nezvake tsvene mumba yaErohimu — sirivha negore nezvinhu zvose.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu tsvene zvaibaba vake"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zvinhu tsvene"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zvaibaba vake"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "nezvake tsvene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negore"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "nezvinhu zvose"
+    }
+  ],
+  "timestamp": "2026-09-27T11:24:03.326866052Z",
+  "model": "glm-5.3"
+}

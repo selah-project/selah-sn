@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Asi iye naiye ticharumbidza Yah, kubvira zvino kusvika nokusingaperi. Rumbidzai Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Asi iye naiye\/asi isu"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "ticharumbidza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kubvira zvino"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:26.299771502Z",
+  "model": "glm-5.3"
+}

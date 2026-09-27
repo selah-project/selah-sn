@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Chinechigumi rimwe kuna Eriyashivu, chinechigumi nepiri kuna Yakimu.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "kuna Eriyashivu"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "chigumi rimwe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(chigumi) rimwe"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "kuna Yakimu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "piri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chigumi ne-"
+    }
+  ],
+  "timestamp": "2026-09-27T11:23:23.909448557Z",
+  "model": "glm-5.3"
+}

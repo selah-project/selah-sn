@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Ejipita yakafara pakubuda kwavo, nokuti kutya kwavo kwakawira pamusoro pavo.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "yakafara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ejipita"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "pakubuda kwavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kwakawira"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "kutya kwavo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:23.142754871Z",
+  "model": "glm-5.3"
+}

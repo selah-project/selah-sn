@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Nokuti waedza, iwe Erohimu; watsvurudza ⟨se⟩ tsvurudzwa kwerendarama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "waedza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "watsvurudza"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "setsvurudzwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kwerendarama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:20.533264593Z",
+  "model": "glm-5.3"
+}

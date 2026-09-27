@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Ndikavasiira kuda kweyo yavo, uye vakafamba mazano avo.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Ndikavasiira"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "kweyo yavo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "mazano avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:08.192389703Z",
+  "model": "glm-5.3"
+}

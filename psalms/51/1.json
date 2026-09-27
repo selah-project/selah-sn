@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Kune muchengeti wezvidyo. Nziyo dzaDhavhidhi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune muchengeti wezvidyo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "dzaDhavhidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.720168451Z",
+  "model": "glm-5.3"
+}

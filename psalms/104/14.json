@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Anobuditsa uswa hwemhuka, nomiti yezvinonhuhwirira yebasa remunhu, kuti abuditse chikafu kubva pasi.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Anobuditsa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "hwemhuka"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "nomiti yezvinonhuhwirira"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "yebasa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "remunhu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuti abuditse"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:34.181674556Z",
+  "model": "glm-5.3"
+}

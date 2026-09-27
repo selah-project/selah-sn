@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti Rehu akagara makumi maviri nematatu emakore, akavara ⟨את⟩ Serrugi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Rehu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "nemakumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akavara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serrugi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serrugi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:54.051844028Z",
+  "model": "glm-5.3"
+}

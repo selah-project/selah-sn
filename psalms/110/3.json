@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 110,
+  "translation": "Vanhu vako vanopihwa zvemahara pazuva roushingo rwako, munharedzi yeutsvene; kubva muchibereko chemambakwedza, kwauri kune mvura yemadonhwe eusasa wako.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "vanopihwa zvemahara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pazuva"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "roushingo rwako"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "munharedzi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yeutsvene"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kubva muchibereko"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "chemambakwedza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "טל",
+      "gloss": "mvura yemadonhwe"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "eusasa wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:11.034546982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "nokuti aka⟨taura na⟩⟩ Erohimu yababa wake, akanzvenga mazano wake, kwete sokuita kweIsraeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "⟨kuna⟩ Erohimu ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba wake"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "akatsvaga"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "akanzvenga mazano wake"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akafamba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "sokuita kwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:34:39.231218139Z",
+  "model": "glm-5.3"
+}

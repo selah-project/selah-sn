@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Vakutya Yahwe vachandiona vofara, nokuti ndakatarira ⟨shoko⟩ rako.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "Vakutya Yahwe"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "vachandiona"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "vofara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "shoko rako"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ndakatarira"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:53.881466476Z",
+  "model": "glm-5.3"
+}

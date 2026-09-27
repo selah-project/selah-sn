@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Gungano rose rakasimudza ⟨את⟩ izwi raro, uye vanhu vakachema usiku iwoyo.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "rakasimudza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gungano"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi raro"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi raro"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "vakachema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iwoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:58:26.341776113Z",
+  "model": "glm-5.3"
+}

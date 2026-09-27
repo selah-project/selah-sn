@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Akatumidza ⟨את⟩ hwai yechibairo chokupisa; uye Aharon nevana vake vakaisa ⟨את⟩ maoko avo pamusoro pemusoro wehwai.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Akatumidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hwai yechibairo chokupisa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "hwai"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yechibairo chokupisa"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nevana vake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoko avo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wehwai"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:37.371970710Z",
+  "model": "glm-5.3"
+}

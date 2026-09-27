@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Kusive rinenge rwashata, handingakanganwi mirairo yako; nokuti nayo wandinopedzvitya upenyu.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "kusiripo rinenge rwashata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handinga-"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "kanganwi"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "wandinopedzvitya upenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:40.201540880Z",
+  "model": "glm-5.3"
+}

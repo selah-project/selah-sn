@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "⟨את⟩ tafura, ⟨את⟩ zvinhu zvose zvayo, uye ⟨את⟩ chingwa chechiso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafura"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvose zvayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinhu zvayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "chingwa chechiso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "chechiso"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:34.078800037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Ndaramba ndisina kutsveka, ndave seshiri yokamosha pamusoro pedenga.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Ndaramba ndisina kutsveka"
+    },
+    {
+      "surface": "ויהיה",
+      "gloss": "ndave"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ndave"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "seshiri"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yokamosha"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "גג",
+      "gloss": "denga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:02.946759044Z",
+  "model": "glm-5.3"
+}

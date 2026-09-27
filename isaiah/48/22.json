@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Hapana runyararo, Yahwe akati, kune vakaipa.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "kune vakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:40.536651487Z",
+  "model": "glm-5.3"
+}

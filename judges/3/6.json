@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vakatora ⟨את⟩ vanasikana vavo sevadzimai vavo, uye ⟨את⟩ vanasikana vavo vakapa kuvanakomana vavo, uye vakashumira ⟨את⟩ vamwari vavo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanasikana vavo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "vanasikana vavo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sevadzimai vavo"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "sevadzimai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "vanasikana vavo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "vanasikana vavo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "vakapa"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kuvanakomana vavo"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "uye vakashumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vamwari vavo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "vamwari vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:29.506211603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti izvi zvose ndaka isa kumoyo wangu, nokuedza kuongorora ⟨את⟩ izvi zvose: kuti vatsvene, nevanochenjerera, nemabasa avo, ari mumaoko aErohimu; kana rudo, kana ruvengo — hapana anoziva munhu; zvose zviri pachiso pavo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvi zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndaka isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumoyo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wangu"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "nokuedza kuongorora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvi zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "nevanochenjerera"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "nemabasa avo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "aErohimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "rudo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ruvengo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pachiso pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:42.124959104Z",
+  "model": "glm-5.3"
+}

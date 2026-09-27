@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye mambo weBhabhironi akaita kuti ⟨את⟩ Mhataniya, dzama yake, atore chigaro choushe mukwake, akashandura ⟨את⟩ zita rake rava Tsitsikiya.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "akaita kuti atore chigaro choushe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabhironi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhataniya"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mhataniya"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "dzama yake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mukwake"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "akashandura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsitsikiya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:46.896757863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Moyo wangu wakagadzikana, Erohimu, moyo wangu wakagadzikana; ndinoyimba, ndinorumbidza.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "wakagadzikana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "wakagadzikana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndinoyimba"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndinorumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:03.987195740Z",
+  "model": "glm-5.3"
+}

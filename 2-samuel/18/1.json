@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Dhavhidhi akaongorora ⟨את⟩ vanhu vaiva ⟨את⟩ naye, akagadza pamusoro pawo vatungamiri vezviuru nevatungamiri vezana.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "akaongorora"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akagadza"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro pawo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "vezviuru"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "nevatungamiri"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "vezana"
+    }
+  ],
+  "timestamp": "2026-09-27T07:01:27.578769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uchatsvenesa ⟨את⟩ izvi, uye zvichava utsvene hweutsvene hwepamusoro; chero chinobata nazvo chichatsveneka.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "uchatsvenesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izvi (altare nezvinhu zvazvo)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "uye zvichava"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "utsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "hweutsvene hwepamusoro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chero chinhu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chinobata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nazvo"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "chichatsveneka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:28.028318813Z",
+  "model": "glm-5.3"
+}

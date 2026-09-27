@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye mhuri yaIsraeri yakadaidza zita rayo ⟨את⟩ Manhu; uye iyo yakafanana sembeu yekorianda, chena; uye kunaka kwacho kwaiva sekate nemuchi.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "yakadaidza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rayo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Manhu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "uye iyo"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "sembeu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "yekorianda"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "chena"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "kunaka kwacho"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "sekate"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "nemuchi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:21.047129898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye vakatora iye, vakamukanda ⟨את⟩ iye mugomba; uye iro gomba raiita chena, hapana mvura imwe chete iri mukati maro.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "vakatora iye"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "vakamukanda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "mugomba"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "uye iro gomba"
+    },
+    {
+      "surface": "רק",
+      "gloss": "raiita chena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iri mukati maro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:54.354941739Z",
+  "model": "glm-5.3"
+}

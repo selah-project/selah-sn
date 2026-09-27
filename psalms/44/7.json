@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Nokuti handivimbe netauta rangu, uye banga rangu hariponesi ini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "netauta rangu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "-vimbe"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "uye banga rangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "-ponesi ini"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:56.922711578Z",
+  "model": "glm-5.3"
+}

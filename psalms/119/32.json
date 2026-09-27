@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Nzira yezvirairo zvako ndichamhanya, nokuti iwe unovhurira mtima wangu.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "yezvirairo zvako"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ndichamhanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "unovhurira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mtima wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:17.915971549Z",
+  "model": "glm-5.3"
+}

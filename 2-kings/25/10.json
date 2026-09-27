@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ne⟨את⟩ makomo eYerusharemu mose guta rose revaChikashadi raiva mukuru wemabhutcha rakawutsa pasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "makomo eYerusharemu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerusharemu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mose"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "rakawutsa pasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "guta"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "revaChikashadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raiva"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wemabhutcha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:48.675018353Z",
+  "model": "glm-5.3"
+}

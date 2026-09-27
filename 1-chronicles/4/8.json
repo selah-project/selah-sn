@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Kotsi akazvara ⟨את⟩ Anubhu, ne⟨את⟩ Hzobhebha, nemhuri dzaAharuheli mukomana waHarumu.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Uye Kotsi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anubhu"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anubhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Hzobhebha"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hzobhebha"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "nemhuri dza"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharuheli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana wa"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harumu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:31.010581725Z",
+  "model": "glm-5.3"
+}

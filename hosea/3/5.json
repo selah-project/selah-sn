@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Shure kwazvo, vana vaIsraeri vachadzoka, vachatsvaga ⟨את⟩ Yahwe Erohimu yavo, ne⟨את⟩ Dhavhidhi mambo wavo; vachatyezya kumitteri kwaYahwe nokukwana kwake zvakanaka, mokupedzisira kwemazuva.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Shure kwazvo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vachadzoka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "vachatsvaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu yavo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu yavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Dhavhidhi mambo wavo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mambo wavo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "vachatyezya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kumitteri kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nokumitteri kwa"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "zvakanaka zvake"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mokupedzisira kwa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:06.857798720Z",
+  "model": "glm-5.3"
+}

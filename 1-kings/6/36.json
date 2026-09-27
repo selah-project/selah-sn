@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Akavaka ⟨את⟩ chirema chamukati: mitsara mitatu yematombo akamacheka, nemitsara imwe yemadanda emaredhi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chirema chamukati"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "chirema"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "chamukati"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "mitatu"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "mitsara"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "yematombo akamacheka"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "nemitsara"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "imwe yemadanda"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "emaredhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:53.102290534Z",
+  "model": "glm-5.3"
+}

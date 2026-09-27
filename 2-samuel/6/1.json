@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Dhavhidhi akazopedzawo kuunganidza ⟨את⟩ vose vakasarudzwa muIsraeri, makumi matatu ezviuru.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "akazopedzawo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vose vakasarudzwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "vakasarudzwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "muIsraeri"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezviuru"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:20.922855725Z",
+  "model": "glm-5.3"
+}

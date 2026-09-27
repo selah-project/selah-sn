@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Erohimu wehesedhi wangu achanditangira; Erohimu achanditaridza vavengi vangu.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wehesedhi wangu"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "achanditangira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "achanditaridza"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "vavengi vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:10.563188718Z",
+  "model": "glm-5.3"
+}

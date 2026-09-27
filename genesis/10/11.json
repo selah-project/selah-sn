@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Kubva munyika iyoyo Ashuri akabuda, akaunga, akavaka ⟨את⟩ Ninive, ⟨את⟩ Rehoboth-iri ne⟨את⟩ Karaha.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kubva mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rehoboth-iri"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehoboth-iri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Karaha"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Karaha"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:43.286730775Z",
+  "model": "glm-5.3"
+}

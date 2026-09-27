@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye koheni achayeresa ⟨אתה⟩ pakati pechakanaka nechakaipa; sokuyerwa kwako, iwe koheni, sautswawo chichava.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "achayeresa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yayo (chikara icho)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רע",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "sokuyerwa kwako"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sautswawo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichava"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:02.441494996Z",
+  "model": "glm-5.3"
+}

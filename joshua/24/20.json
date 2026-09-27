@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Kana mukasiya ⟨את⟩ Yahwe mokapfuya mwari vokunze, achadzoka oita zvakaipa kwamuri, oparadza ⟨את⟩ imi, mushure mekuita kwake kwakanaka kwamuri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "mukasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mokapfuya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vokunze"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "achadzoka"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "oita zvakaipa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "oparadza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "me…"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "kuita kwakanaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:47.686981843Z",
+  "model": "glm-5.3"
+}

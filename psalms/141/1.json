@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 141,
+  "translation": "Nzvimbo yenzwi yaDhavhidhi. Yahwe, ndakakudana iwe; kurumidza kundira; teerera izwi rangu pandinokudana iwe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nzvimbo yenzwi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndakakudana iwe"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kurumidza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kundira"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "pandinokudana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:01.168372164Z",
+  "model": "glm-5.3"
+}

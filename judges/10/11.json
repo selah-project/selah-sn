@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Yahwe akati kuvana veIsraeri: Handiti ndakakununurai kubva kuMisiri, kubva kumaEmori, kubva kuvana vaAmoni, nekubva kumaFirisitia —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Handiti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kubva kuMisiri"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "kumaEmori"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nekubva"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "kumaFirisitia"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:01.541726325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 65:18",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Asi imwi farai, itai mufaro kusvika nokusvika, izvo ndiri kusika; nokuti tarisai, ndiri kusika ⟨את⟩ Yerusharema kuva mufaro, nevayo vanhu vavo kuva faro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti ⟨asi⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨imwi⟩"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "farai"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "itai mufaro"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nokusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "kusika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tarisai"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ndiri kusika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusharema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharema"
+    },
+    {
+      "surface": "גילה",
+      "gloss": "kuva mufaro"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "nevayo vanhu vavo"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kuva faro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:54.790201215Z",
+  "model": "glm-5.3"
+}

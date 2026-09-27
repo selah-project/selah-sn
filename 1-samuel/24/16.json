@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye Yahwe vave mutongi, atonge pakati panguva newe, aone, ave mutongi wenyaya yangu ⟨את⟩, andzikinure kubva muruoko rwako.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "uye ... vave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mutongi"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "atonge"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati panguva"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "aone"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ave mutongi wenyaya yangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyaya yangu"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "nyaya yangu"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "andzikinure"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kubva muruoko rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:52.854399683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ndichadzoka ndichifara, ndichimufadza muhesedhi yako, iyo yaunazvo waona ⟨את⟩ kutambudzika kwangu; waziva mashungiro eupenyu hwangu.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Ndichadzoka ndichifara"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ndichimufadza"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "muhesedhi yako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "waonazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutambudzika kwangu"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kutambudzika kwangu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waziva"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mashungiro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "eupenyu hwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:10.217356192Z",
+  "model": "glm-5.3"
+}

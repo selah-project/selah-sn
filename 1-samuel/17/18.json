@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye ⟨את⟩ gumi remadhishi emukaka mavhiyadhwa utaunze kumuteveri wechiuru, uye ⟨את⟩ vachemwako vaonedze rugaro, uye ⟨את⟩ chipahwa chavoatore.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gumi remadhishi emukaka"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "remadhishi"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "emukaka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "mavhiyadhwa"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "utaunze"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "kumuteveri"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "wechiuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vachemwako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "vachemwako"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "vaonedze"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ugaro hwerugare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chipahwa chavo"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "chipahwa chavo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "atore"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:20.198176977Z",
+  "model": "glm-5.3"
+}

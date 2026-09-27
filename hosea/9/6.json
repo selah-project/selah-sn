@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 9:6",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti tarisa, vakaenda kunoita tumbwidziro; Egipita ichavaunganidza, Mofi ichaviga; zvinodiwa zvesilivha yavo, mashomwe achazvitora, minzwa ichave matendi avo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vakaenda"
+    },
+    {
+      "surface": "משד",
+      "gloss": "kunoita tumbwidziro"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egipita"
+    },
+    {
+      "surface": "תקבצם",
+      "gloss": "ichavaunganidza"
+    },
+    {
+      "surface": "מף",
+      "gloss": "Mofi"
+    },
+    {
+      "surface": "תקברם",
+      "gloss": "ichaviga"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "zvinodiwa"
+    },
+    {
+      "surface": "לכספם",
+      "gloss": "zvesilivha yavo"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "mashomwe"
+    },
+    {
+      "surface": "יירשם",
+      "gloss": "achazvitora"
+    },
+    {
+      "surface": "חוח",
+      "gloss": "minzwa"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "matendi avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:33.151823741Z",
+  "model": "glm-5.3"
+}

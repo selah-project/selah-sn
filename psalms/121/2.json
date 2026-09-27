@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 121,
+  "translation": "Rubetsero rwangu runobva kuna Yahwe, musiki wedenga nepasi.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Rubetsero rwangu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "runobva kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "musiki"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wedenga"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:44.947255846Z",
+  "model": "glm-5.3"
+}

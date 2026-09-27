@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Adonai, mangani uchaenderera uchiona? Dzosa mweya wangu kubva kumashwe avo, kubva kushumba, mume wangu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "mangani"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uchaenderera uchiona"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "dzosa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "kubva kumashwe avo"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "kushumba"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "mume wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:23.294467773Z",
+  "model": "glm-5.3"
+}

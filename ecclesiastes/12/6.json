@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Kusvika panguva tambo yesirivha isati yakanamwa, uye dhanha regoridhe risati rakamhamhadzika, uye hari isati yapwanywa pamutsime, uye chidhina chisati chadhonzerwa mugwiwa —",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isati"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "yakanamwa (kubva pakureba)"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tambo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "yesirivha"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "risati rakamhamhadzika"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "dhanha"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "regoridhe"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "isati yapwanywa"
+    },
+    {
+      "surface": "כד",
+      "gloss": "hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "mutsime"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "chisati chadhonzerwa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "chidhina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "gwiwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:32.296310267Z",
+  "model": "glm-5.3"
+}

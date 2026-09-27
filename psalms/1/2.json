@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Asi zvido wake zvirimutora waYahwe, uye mutora wake anodavira usana nemanheru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kunze>"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "mutora wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "zvido wake"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "mutora wake"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "anodavira"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usana"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nemanheru"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.950982950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Yeshua akazvara ⟨את⟩ Yoyakimu; Yoyakimu akazvara ⟨את⟩ Eriyashibu; uye Eriyashibu ⟨akazvara⟩ ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakimu"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakimu"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "Yoyakimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eriyashibu"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eriyashibu"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "Eriyashibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-27T10:15:54.650868286Z",
+  "model": "glm-5.3"
+}

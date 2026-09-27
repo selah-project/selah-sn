@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Anogona kuti, Ndakachenura mwoyo yangu, ndakachena kubva muchitadzo changu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anogona kuti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "Ndakachenura"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mwoyo yangu"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "ndakachena"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "kubva muchitadzo changu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:27:39.276782785Z",
+  "model": "glm-5.3"
+}

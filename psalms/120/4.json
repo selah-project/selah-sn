@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 120,
+  "translation": "Miseve yakapinza yemurwi, pamwe nemarasha eretama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Miseve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yemurwi"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "yakapinza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "marasha"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "eretama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:41.182330792Z",
+  "model": "glm-5.3"
+}

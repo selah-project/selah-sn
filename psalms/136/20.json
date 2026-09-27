@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "NaOgu mambo waBashani: nokuti hesedhi yake rinogara nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "NaOgu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "waBashani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake rinogara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:21.470789465Z",
+  "model": "glm-5.3"
+}

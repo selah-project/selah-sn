@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "nokuti wakabvisa mweya wangu kufa, ⟨את⟩ ziso rangu kubva mokusvinura, ⟨את⟩ tsitsi dzangu kubva mukudonha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "wakabvisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziso rangu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ziso rangu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "mokusvinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsitsi dzangu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "tsitsi dzangu"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "mukudonha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:53.534296937Z",
+  "model": "glm-5.3"
+}

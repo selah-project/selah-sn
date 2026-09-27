@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Zvino zvikanangana nenguva yechipiri yokuuraya ⟨את⟩ Gedhariahu, hapana munhu ainaziva.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikanangana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yechipiri"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "yokuuraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedhariahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedhariahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "hapana munhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ainaziva"
+    }
+  ],
+  "timestamp": "2026-09-27T08:08:30.354053479Z",
+  "model": "glm-5.3"
+}

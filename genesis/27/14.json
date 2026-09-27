@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Ndiye akaenda, akatora, akaunza kuna amai wake; uye amai wake akaita zvinonakidza, sokuda kwaaita baba vake.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kuna amai wake"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "aka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "aita"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "zvinonakidza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kwaaita"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:47.672534576Z",
+  "model": "glm-5.3"
+}

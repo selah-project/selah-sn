@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye vana vaIsiraeri vakafamba nokufamba kwavo kubva mugwenga reSinai; uye bepu rakagara mugwenga reParani.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "nokufamba kwavo"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kubva mugwenga"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "reSinai"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "rakagara"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bepu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "reParani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:00.209432693Z",
+  "model": "glm-5.3"
+}

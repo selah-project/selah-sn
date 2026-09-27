@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "MunaErohimu ndinovimbika; handityi; munhu angaite chii kwandiri?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "MunaErohimu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ndinovimbika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tyi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "angaite"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:06.619236016Z",
+  "model": "glm-5.3"
+}

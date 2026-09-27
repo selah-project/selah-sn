@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Makomo, nemapako ose; miti yemichero, nemadari ose;",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Makomo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne…ose"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mapako"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yemichero"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne…ose"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "madari"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:53.355875671Z",
+  "model": "glm-5.3"
+}

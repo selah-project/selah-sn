@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Kikari chendhendhe tsvene akagadzira ⟨את⟩ iyoyo, uye ⟨את⟩ zvese zvinoshandiswa zwayo.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kikari"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "chendhendhe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tsvene"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyoyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "zvese zvinoshandiswa zwayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zvinoshandiswa zwayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:10.861061178Z",
+  "model": "glm-5.3"
+}

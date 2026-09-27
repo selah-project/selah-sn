@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Rumbidzai Yah! Ndinorumbidza Yahwe nemoyo wangu wose, mudare revaishira ⟨nevatarisirwi⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Ndinorumbidza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne…wose"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "mudare"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "revairira"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "nevatarisirwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:09.510236007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe akatambanudza ⟨את⟩ ruoko rwake, akaibata pamuromo wangu; uye Yahwe akati kundiri: Ona, ndaisa ⟨את⟩ mashoko angu mumuromo wako.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatambanudza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "akaibata"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndaisa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko angu"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "mumuromo wako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:31.665283883Z",
+  "model": "glm-5.3"
+}

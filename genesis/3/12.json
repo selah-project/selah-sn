@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Munhu akati: “Mukadzi waunapa kugara neni, ndivo vakandipa muchero womuti, ndikadya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa-"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "waunapa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kugara neni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "vakandipa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kune ndiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "muchero wo-"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "muti"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ndikadya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:38.843941043Z",
+  "model": "glm-5.3"
+}

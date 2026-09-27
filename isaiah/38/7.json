@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Uye izvi ndizo chiratidzo kwauri kubva kuna⟨את⟩ Yahwe, kuti Yahwe achaita ⟨את⟩ shoko iri raakataura;",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Uye izvi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "האות",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva kuna⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raakataurwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akariuraya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:18.077395373Z",
+  "model": "glm-5.3"
+}

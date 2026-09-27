@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Shizha rinodhonzwa nemhepo ndiro unotambudza here? Uye unotevera ⟨את⟩ huswa hwaoma?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "shizha"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "rinodhonzwa nemhepo"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "unotambudza here"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huswa hwaoma"
+    },
+    {
+      "surface": "קש",
+      "gloss": "huswa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "hwaoma"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "unotevera"
+    }
+  ],
+  "timestamp": "2026-09-27T11:19:47.460129514Z",
+  "model": "glm-5.3"
+}

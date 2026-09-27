@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Ndichatenda Yahwe sokururama kwake, uye ndichoridza rwiyo zita raYahwe ⟨Eriyoni⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ndichatenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "sokururama kwake"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "uye ndichoridza rwiyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨Eriyoni⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:34.042600742Z",
+  "model": "glm-5.3"
+}

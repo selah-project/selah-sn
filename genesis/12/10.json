@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Ndipo nzara yakaitika munyika, uye Abhurahama akadzika kuMitsirayi kugara ⟨ipo⟩ somugariri, nokuti nzara yakanyanya munyika.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndipo ... yakaitika"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akadzika"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "kuMitsirayi"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "kugara ⟨ipo⟩ somugariri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ipo⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yakanyanya"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:23.783738903Z",
+  "model": "glm-5.3"
+}

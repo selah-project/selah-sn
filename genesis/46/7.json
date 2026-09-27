@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Vana vavo nevana vevana vavo ⟨את⟩ ⟨naye⟩, vanasikana vavo nevanasikana vevana vavo, nese mbeu yake — vakapinda nayo Egipita.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "vana vavo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nevana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vevana vavo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨naye⟩"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "vanasikana vavo"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "nevanasikana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vevana vavo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nese … yose"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbeu yake"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "vakapinda nayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨naye⟩"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Egipita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:49.346402781Z",
+  "model": "glm-5.3"
+}

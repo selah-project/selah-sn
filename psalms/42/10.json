@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Ndinoti kuna Er sukuru yangu: Sei wakandikanganwa? Sei ndinofamba ndichirwadza mukutambudzwa kwomuvengi?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ndinoti"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kuna Er"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "sukuru yangu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "wakandikanganwa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndichirwadza"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndinofamba"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "mukutambudzwa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kwomuvengi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:43.950498529Z",
+  "model": "glm-5.3"
+}

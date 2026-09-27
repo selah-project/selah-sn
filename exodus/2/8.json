@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mwanasikana waFarao akati kwairi: Enda. Mhandara yakavhura kuenda, akadana ⟨את⟩ amai vemwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwairi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "enda"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "yakavhura kuenda"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "mhandara"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amai vemwana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amai"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vemwana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:17.388779164Z",
+  "model": "glm-5.3"
+}

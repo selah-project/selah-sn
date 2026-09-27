@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Nzembero, chipendamoto, yenzvuva yeShabhata.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nzembero"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chipendamoto"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "yenzvuva"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "yeShabhata"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:27.335638337Z",
+  "model": "glm-5.3"
+}

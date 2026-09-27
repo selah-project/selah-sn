@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Matopfodzi — wakabvisa vakaipa vose venyika; naizvozvo ndinoda zvitizwa zvako.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Matopfodzi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wakabvisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndinoda"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "zvitizwa zvako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:53.340262302Z",
+  "model": "glm-5.3"
+}

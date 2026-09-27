@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nei mapendi akandigamuchira? nei mazamu, kuti ndikayamwa?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "akandigamuchira"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "mapendi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "mazamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "ndikayamwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:32:42.643169407Z",
+  "model": "glm-5.3"
+}

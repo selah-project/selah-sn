@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye aya ndiwo madzishe aive navo: Azariyahu mukoma waTsadhoki, muprista.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azariyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadhoki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "muprista"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:41.622269959Z",
+  "model": "glm-5.3"
+}

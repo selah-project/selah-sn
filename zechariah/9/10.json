@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 9:10",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndichadimbura rekevu kubva kuEfuremu, hasi kubva kuYerushalema; mutsedze wehondo uchadimbwa; iye achataura runyararo kumadzinza; hutongi hwake<hwega?> kuchange<hweiri?> — hutongi hwake kubva pagungwa kusvika pagungwa, nokubva murwizi kusvika kumagumu enyika.",
+  "tokens": [
+    {
+      "surface": "וְהִכְרַתִּי",
+      "gloss": "Ndichadimbura"
+    },
+    {
+      "surface": "רֶ֣כֶב",
+      "gloss": "rekevu"
+    },
+    {
+      "surface": "מֵאֶפְרַ֗יִם",
+      "gloss": "kubva kuEfuremu"
+    },
+    {
+      "surface": "וְסוּס֙",
+      "gloss": "hasi"
+    },
+    {
+      "surface": "מִיר֣וּשָׁלִַ֔ם",
+      "gloss": "kubva kuYerushalema"
+    },
+    {
+      "surface": "וְנִכְרְתָה֙",
+      "gloss": "uchadimbwa"
+    },
+    {
+      "surface": "קֶ֣שֶׁת",
+      "gloss": "mutsedze"
+    },
+    {
+      "surface": "מִלְחָמָ֔ה",
+      "gloss": "wehondo"
+    },
+    {
+      "surface": "וְדִבֶּ֥ר",
+      "gloss": "achataura"
+    },
+    {
+      "surface": "שָׁל֖וֹם",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "לַגּוֹיִ֑ם",
+      "gloss": "kumadzinza"
+    },
+    {
+      "surface": "וּמָשְׁלוֹ֙",
+      "gloss": "hutongi hwake"
+    },
+    {
+      "surface": "מִיָּ֣ם",
+      "gloss": "kubva pagungwa"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "יָ֔ם",
+      "gloss": "pagungwa"
+    },
+    {
+      "surface": "וּמִנָּהָ֖ר",
+      "gloss": "nokubva murwizi"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "kumagumu"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "enyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:50:15.083577685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "nokuti Yahwe wakadzikinura ⟨את⟩ Yakobo, akamudzikinura kubva muruoko une simba kupfuura iye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wakadzikinura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "akamudzikinura"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva muruoko"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "une simba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kupfuura iye"
+    }
+  ],
+  "timestamp": "2026-09-27T08:02:27.922231236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Yahwe akati: Ona, panzvimbo ⟨את⟩ pandiri, iwe uchamira pamusoro pechwibhi;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ pandiri"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "uchamira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "chwibhi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:15.946712416Z",
+  "model": "glm-5.3"
+}

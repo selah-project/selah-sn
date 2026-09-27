@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye unoisira ⟨את⟩ mukotokoto pamusoro pemusoro wake; uye unoisira ⟨את⟩ nezhe reutsvene pamusoro pemukotokoto.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "unoisira"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mukotokoto"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wake"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "unoisira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezhe reutsvene"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezhe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "reutsvene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mukotokoto"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:32.393155517Z",
+  "model": "glm-5.3"
+}

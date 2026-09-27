@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Hanzvadzi yake sikana akamira kure, kuziva kuti chii change chaitiwa kwari.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "hanzvadzi yake sikana"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "kuziva kuti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "change chaitiwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:57.357529125Z",
+  "model": "glm-5.3"
+}

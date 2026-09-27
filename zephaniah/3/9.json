@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 3:9",
+  "book": "zephaniah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti panguva iyoyo ndichashandura kune vanhu mutauro wakachena, kuti vose vadane muzita raYahwe, vamushandire nachibereko chimwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "panguva iyoyo"
+    },
+    {
+      "surface": "אהפך",
+      "gloss": "ndichashandura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "mutauro"
+    },
+    {
+      "surface": "ברורה",
+      "gloss": "wakachena"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kuti vadane"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "muzita ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבדו",
+      "gloss": "vamushandire"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "nachibereko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:46:40.686912838Z",
+  "model": "glm-5.3"
+}

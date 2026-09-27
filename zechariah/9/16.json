@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 9:16",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe, Erohimu wavo, achaponesa vavo zuva iro sevawayi wevanhu vake; nokuti vachange semabwe echuma, akazarurika pamusoro peivhu rake.",
+  "tokens": [
+    {
+      "surface": "והושיעם",
+      "gloss": "achaponesa vavo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wavo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sevawayi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wevanhu vake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "semabwe"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "echuma"
+    },
+    {
+      "surface": "מתנוססות",
+      "gloss": "akazarurika"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ivhu rake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:59.493767494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndichasimudza ruoko rwangu ⟨kuna⟩ mitsiro yako, iyo ndinoda, ndichozvidavirira mitemo yako.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ndichasimudza"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kuna⟩"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitsiro yako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndinoda"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "ndichozvidavirira"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "mitemo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:13.448496218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Zvino musoro wanguuchazvimisikidza pamusoro pevanondivengira vachindinga; ndichapira ⟨mu⟩denda rake zvibayiro zveridandara; ndichaimba, ndichoridza rwiyo kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "uchazvimisikidza"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "musoro wangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vanondivengira"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "vachindinga"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "ndichapira"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "mudenda rake"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "zvibayiro"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "zveridandara"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndichaimba"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ndichoridza rwiyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:59.071110373Z",
+  "model": "glm-5.3"
+}

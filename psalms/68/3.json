@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Sekunziidzwa kweutsi, ndokunziidzwa; sokunyungudika kwe⟨donagi⟩ pachiso pemoto, ndokuparara kwevasina kururama pachiso peErohimu.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Sekunziidzwa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "kweutsi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ndokunziidzwa"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "sokunyungudika"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "kwe⟨donagi⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ndokuparara"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwevasina kururama"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:12.019340852Z",
+  "model": "glm-5.3"
+}

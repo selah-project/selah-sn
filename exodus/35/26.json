@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Nevasikana vose moyo yavo yakazvikurudzira muhunganyi, vakasonza ⟨את⟩ bvudzi rembudzi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "nevasikana vose"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "vasikana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vose"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yakazvikurudzira"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "moyo yavo"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ ⟨zvavo⟩"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "muhunganyi"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "vakasonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bvudzi rembudzi"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bvudzi rembudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:34.405248123Z",
+  "model": "glm-5.3"
+}

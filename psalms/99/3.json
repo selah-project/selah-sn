@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 99,
+  "translation": "Ngavayemukidze zita rako — guru, norinotyisa — iye mutsvene.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ngavayemukidze"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "norinotyisa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:28.067557489Z",
+  "model": "glm-5.3"
+}

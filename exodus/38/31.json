@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Ne⟨את⟩ matsi echidimbu chakakomberedza, ne⟨את⟩ matsi egiati rechidimbu, ne⟨את⟩ mitsoro yose yeMishikani, ne⟨את⟩ mitsoro yose yechidimbu chakakomberedza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matsi echidimbu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "matsi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "echidimbu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chakakomberedza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matsi egiati"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "matsi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "egiati"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "rechidimbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mitsoro yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mitsoro"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "yeMishikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mitsoro yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "mitsoro"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "yechidimbu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chakakomberedza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:56.440569914Z",
+  "model": "glm-5.3"
+}

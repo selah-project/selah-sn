@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Yahwe vachirumbidzwa kubva muZiyoni, anogara muYerusharemu. Rumbidzai Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "vakarumbidzwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kubva muZiyoni"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "anogara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "muYerusharemu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:06.352026372Z",
+  "model": "glm-5.3"
+}

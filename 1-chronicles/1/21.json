@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "ne⟨את⟩ Hadhoramu, ne⟨את⟩ Uzaru, ne⟨את⟩ Dikiraha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Hadhoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadhoramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Uzaru"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Dikiraha"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikiraha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:00.965272651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 27:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Zvikaitika Isaka apedza kurorera ⟨את⟩ Jakobho, uye Jakobho changopfuura chairo abuda pachiso paIsaka baba vake, Esawu mukoma wake apinda kubva kuvhimagariro rake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikaitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "apedza"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "kurorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אך",
+      "gloss": "changopfuura"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chairo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abuda"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "pachiso paIsaka baba vake"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "Esawu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "בא",
+      "gloss": "apinda"
+    },
+    {
+      "surface": "מצידו",
+      "gloss": "kubva kuvhimagariro rake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:37.277187705Z",
+  "model": "glm-5.3"
+}

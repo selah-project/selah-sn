@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Kune mutungamiri; nzvimbo yaDhavhidhi. Yahwe, wandidudzira, uye waziva.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "wandidudzira"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "uye waziva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:52.275268543Z",
+  "model": "glm-5.3"
+}

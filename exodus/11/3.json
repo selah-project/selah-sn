@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akapa ⟨את⟩ rudo rwevanhu mumaeso evaMuitire. Zvekare munhu uyu Moshe aiva mukuru zvikuru munyika yeMuitire, mumaeso zevaranda vaParao namumaeso evanhu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rudo rwevanhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "rudo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rwevanhu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumaeso"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "evaMuitire"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Zvekare"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu uyu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zikuru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Muitire"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumaeso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "zevaranda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "vaParao"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "namumaeso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "evanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:57.284926590Z",
+  "model": "glm-5.3"
+}

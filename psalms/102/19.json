@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Izvi zvinyorwe chinangwa chechizvarwa chinozouya, uye ⟨⟨vanhu⟩⟩ vachasikwa vorumbidza Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "zvinyorwe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Izvi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "chinangwa chechizvarwa"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "chinozouya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "uye vanhu"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "vachasikwa"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "vorumbidza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:13.752865899Z",
+  "model": "glm-5.3"
+}

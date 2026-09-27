@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndichatenda Yahwe nemoyo wangu wose; ndichataura zvinoshamisa zvose zvawaîtа.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ndichatenda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne…wose"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zvinoshamisa zvawaîtа"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:16.189009767Z",
+  "model": "glm-5.3"
+}

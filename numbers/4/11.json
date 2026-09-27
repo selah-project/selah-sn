@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye pamusoro pealtari yendarama vachapfura chishusho cheutsva hwetekere, uye vachafukidza ⟨את⟩ iyo neganda retakashi, uye vachaisa ⟨את⟩ mapfumo ayo.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "vachapfura"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "chishusho"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "cheutsva hwetekere"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "vachafukidza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iyo",
+      "marks": "altari yendarama"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "neganda"
+    },
+    {
+      "surface": "עור",
+      "gloss": "reganda"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "retakashi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "vachaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapfumo ayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mapfumo ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:19.603924769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nokudaro Shauri akatuma vatumwa kuna Yishai, akati: Tumira kwandiri ⟨את⟩ Dhavhidhi mwanakomana wako, ari nedzimwai.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauri"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "vatumwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Tumira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanakomana wako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "nedzimwai"
+    }
+  ],
+  "timestamp": "2026-09-27T06:46:59.716518145Z",
+  "model": "glm-5.3"
+}

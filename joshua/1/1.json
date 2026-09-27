@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino zvikananga shure nokufa kwaMoshe, mushandi waYahwe, Yahwe akataura neYehoshua mukorona waNhuni, mutumiriri waMoshe, achiti:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikananga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nokufa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kwaMoshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mushandi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorona"
+    },
+    {
+      "surface": "נון",
+      "gloss": "waNhuni"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "mutumiriri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "waMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:50.118672667Z",
+  "model": "glm-5.3"
+}

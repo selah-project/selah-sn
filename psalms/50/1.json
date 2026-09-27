@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Nzvimbo yemudeyo yaAsafu. Er, Erohimu, Yahwe, akataura, akadana ⟨את⟩ pasi, kubva pakubuda kwazuva kusvika pakunodzoka kwaro.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzvimbo yemudeyo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "yaAsafu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kubva pakubuda kwazuva"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "pakunodzoka kwaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:21.373886091Z",
+  "model": "glm-5.3"
+}

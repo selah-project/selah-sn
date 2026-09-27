@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Sodhi yaYahwe iri ndeye avo vanomutyia, uye sungano yake ⟨ndeyokuzivisa⟩ ⟨ivo⟩.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sodhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ndeye avo vanomutyia"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "uye sungano yake"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "kuzivisa ivo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:26.508409786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye kana mutengesa chitengeso kumudikani wako, kana kutenga kubva mumaoko emudikani wako, musatambudzisi munhu ⟨את⟩ hanzvadzi yake.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "mutengesa"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "chitengeso"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "kumudikani wako"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kutenga"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "emudikani wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "-tambudzisi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanzvadzi yake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:46.243218535Z",
+  "model": "glm-5.3"
+}

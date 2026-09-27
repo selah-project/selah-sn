@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Tinokumbira, Yahwe, ponisa isu ndapata; tinokumbira, Yahwe, ita kuti tibudirire ndapata.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "tinokumbira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ponisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapata"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "tinokumbira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "ita kuti tibudirire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapata"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:58.393008794Z",
+  "model": "glm-5.3"
+}

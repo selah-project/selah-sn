@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Ndokandikwidza mubhawa reruzha, mudhaka renhaka, ndokamisa tsitsi dzangu pamwero, ndokugadzira nhanho dzangu.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Ndokandikwidza"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "mubhawa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "reruzha"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "mudhaka"
+    },
+    {
+      "surface": "היון",
+      "gloss": "renhaka"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ndokamisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "mwero"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "tsitsi dzangu"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ndokugadzira"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "nhanho dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:32.615716432Z",
+  "model": "glm-5.3"
+}

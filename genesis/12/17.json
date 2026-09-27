@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye Yahwe akarwadzisa ⟨את⟩ Paroho nezvirwere zvikuru, uye ⟨את⟩ imba yake, nokuda kwechikonzero chaSarai, mukadzi waAbhurahama.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "akarwadzisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroho"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "nezvirwere"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "imba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwechikonzero"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chaSarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "waAbhurahama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:26.568975128Z",
+  "model": "glm-5.3"
+}

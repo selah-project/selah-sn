@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 58,
+  "translation": "Zveva yavo ingofanana nchezveva yenjoka, se-shato isina kuzvinzwa inovhara nzeve yaro.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "zveva"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yavo"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "ingofanana"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zveva"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "shato"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "isina kuzvinzwa"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "inovhara"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "nzeve yaro"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:53.835756419Z",
+  "model": "glm-5.3"
+}

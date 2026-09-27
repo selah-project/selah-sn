@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vakamuka mangwanani, zuva rakashaisa pamusoro pemvura, uye Muoabhu akatarisa kune ⟨את⟩ mvura iri kure, akaiona svibga semutsipa.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "vakamuka mangwanani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "rakashaisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "akaiona"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muoabhu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kune…iri kure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvura"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "svibga"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "semutsipa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:07.994086458Z",
+  "model": "glm-5.3"
+}

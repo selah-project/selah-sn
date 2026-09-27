@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Nokuti Yahwe mukuru, anorumbidzwa zvakaipa; nde anotyiswa, ari pamusoro pemwari vose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "anorumbidzwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nde anotyiswa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mwari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:22.910858910Z",
+  "model": "glm-5.3"
+}

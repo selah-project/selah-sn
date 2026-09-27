@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nzira dzake dzakasimba ⟨nguva⟩ dzose; matongerwo ako ari kumusoro kure naye; vavengi vake vose anovafuwira ⟨mhepo⟩.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "dzakasimba"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nzira dzake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨nguva⟩"
+    },
+    {
+      "surface": "עת",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kumusoro"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "matongerwo ako"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "kure naye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "vavengi vake"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "anovafuwira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨mhepo⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:24.233652215Z",
+  "model": "glm-5.3"
+}

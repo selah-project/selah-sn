@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Mazuva tanhatu muchaunganidza ⟨izvozvo⟩, asi nomusi wechinomwe Shabhata, hapana chichazove mumariri.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "tanhatu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "muchaunganidza izvozvo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "nomusi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wechinomwe"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichazove"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mumariri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:41.746891347Z",
+  "model": "glm-5.3"
+}

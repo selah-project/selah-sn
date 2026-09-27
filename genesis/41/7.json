@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Mashanga akanete akameza ⟨את⟩ mashanga manomwe akatapinuka aizara, naizvozvo Farao akazvumburuka, uye taona: chiroto.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "akameza"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mashanga"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "akanete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashanga manomwe akatapinuka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "manomwe"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "mashanga"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "akatapinuka"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "aizara"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "akazvumburuka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "chiroto"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:12.080774181Z",
+  "model": "glm-5.3"
+}

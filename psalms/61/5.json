@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 61,
+  "translation": "Ndichagara mutende rwako nokusingaperi, ndichozvitiza mukuvanda kwehapiro rwako. Sera.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Ndichagara"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "mutende rwako"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ndichozvitiza"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mukuvanda"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kwehapiro rwako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:48.514850032Z",
+  "model": "glm-5.3"
+}

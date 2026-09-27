@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "YaDhavhidhi. Yahwe ndiro chiedza changu nouponeso hwangu — ndinotya ani? Yahwe ndiwo rutsigiro rwehupenyu hwangu — ndinovimbiswa nei?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "chiedza changu"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "nouponeso hwangu"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ani? \/ nei?"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ndinotya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "rutsigiro"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "rehupenyu hwangu"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ani? \/ nei?"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ndinovimbiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:16.955846991Z",
+  "model": "glm-5.3"
+}

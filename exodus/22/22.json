@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana mu⟨את⟩ mushusha mushusha-zvirokwazvo — chero achachema kwandiri, ndinonzwa ndinozvizvinzwa kuchema kwake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "mushusha"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mu-shushe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (mukasha kana musara)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chero"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "chema"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "achachema"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nzwa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ndinonzwa"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "kuchema kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:50.259655115Z",
+  "model": "glm-5.3"
+}

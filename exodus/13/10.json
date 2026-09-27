@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye uchachengeta ⟨את⟩ murairo uyu panguva yacho, kubva mumazuva kusvika mumazuva.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Uye uchachengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murairo uyu"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "murairo uyu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "panguva yacho"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "kubva mumazuva"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "kusvika mumazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:37.685329790Z",
+  "model": "glm-5.3"
+}

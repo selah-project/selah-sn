@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Dhavhidhi akazorovera muzuva, akanhongedza mazuva; akamuita ⟨את⟩ Shoromo mwanakomana wake muchigaro chehushe pamusoro peIsraeri.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akazorovera muzuva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "akanhongedza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akamuita muchigaro chehushe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shoromo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:26:36.445124282Z",
+  "model": "glm-5.3"
+}

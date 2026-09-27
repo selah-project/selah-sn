@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yahwe akadzorera ⟨את⟩ utapwa hwaAyiyobhu paaipembedza nezve shamwari dzake; uye Yahwe akawedzera ⟨את⟩ zvose zvaive zvaAyiyobhu kaviri.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "akadzorera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utapwa hwaAyiyobhu"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "utapwa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "hwaAyiyobhu"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "paaipembedza"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nezve"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shamwari dzake"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "akawedzera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvaive zvaAyiyobhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "zvaAyiyobhu"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "kaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:46:53.861821678Z",
+  "model": "glm-5.3"
+}

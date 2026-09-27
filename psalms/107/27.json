@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Vanodenderedza uye vanozhambaira senyore, uye ucheni hwavo hwose hunomepedzwa.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "vanodenderedza"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "vanozhambaira"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "senyore"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye ... hwose"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "ucheni hwavo"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "hunomepedzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:18.935232046Z",
+  "model": "glm-5.3"
+}

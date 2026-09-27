@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Mukanwa wake akawaridza kune murombo, uye maoko ake akatuma kune mushayiwa.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "mukanwa wake"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "akawaridza"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kune murombo"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "uye maoko ake"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "kune mushayiwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:32:29.694589921Z",
+  "model": "glm-5.3"
+}

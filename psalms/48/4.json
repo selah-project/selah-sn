@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Erohimu anozivikanwa mudzimba huru dzaaro sokusimba kwepamusoro.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "mudzimba huru dzaaro"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "anozivikanwa"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sokusimba kwepamusoro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:32.628806367Z",
+  "model": "glm-5.3"
+}

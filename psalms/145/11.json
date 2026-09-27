@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Vanoratidza ruremekedzo rwehushe hwako, novasimba hwako vanodudzira.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "hushe hwako"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vanoratidza"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "novasimba hwako"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vanodudzira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:45.488633858Z",
+  "model": "glm-5.3"
+}

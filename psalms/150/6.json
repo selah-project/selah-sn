@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 150,
+  "translation": "Zvose zvine mweya zvigorumbidza Yah; murumbidza Yah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Zvose"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "zvine mweya"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "zvigorumbidza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "murumbidza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:37.806438281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvekare muchengeti wako anochenjererwa nazvo; muchichengeta kwazvo mubairo mukuru.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Zvekare"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muchengeti wako"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "anochenjererwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nazvo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "muchichengeta kwazvo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "mubairo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:52.098032536Z",
+  "model": "glm-5.3"
+}

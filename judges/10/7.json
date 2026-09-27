@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Mutsamwa waYahwe wakatsamwira pavana vaIsraeri, akavatengesa mumaoko maPherisitimu nemumaoko mavana vaAmoni.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "wakatsamwira"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mutsamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "pavana vaIsraeri"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "akavatengesa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "maPherisitimu"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nemumaoko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mavana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:31.226695901Z",
+  "model": "glm-5.3"
+}

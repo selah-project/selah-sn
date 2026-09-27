@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmutu ne⟨את⟩ migararo yayo, ⟨את⟩ Eni-Ganimu ne⟨את⟩ migararo yayo — madhora ina.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmutu"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmutu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "migararo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migararo yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eni-Ganimu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eni-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "migararo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migararo yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "madhora"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:47.875594826Z",
+  "model": "glm-5.3"
+}

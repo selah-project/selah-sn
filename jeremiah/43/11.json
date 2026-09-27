@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "uye anouya, anorwisa ⟨את⟩ nyika yeIjipita: avakarongerwa rufu, kufa rufu; uye avakarongerwa kusungwa, kusungwa; uye avakarongerwa mupanga, mupanga.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "uye anouya"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "anorwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yeIjipita"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeIjipita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avakarongerwa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "rufu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa rufu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye avakarongerwa"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "kusungwa"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "kusungwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye avakarongerwa"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "mupanga"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "mupanga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:10:00.609674586Z",
+  "model": "glm-5.3"
+}

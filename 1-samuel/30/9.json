@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Dhavhidhi akaenda, iye nemazana matanhatu emarume aiva ⟨את⟩ iye, vakaenda kusvikira parwizi reBhesoru; uye vasara vakamira.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nemat…tanhatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "marume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "marume aiva iye"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vakaenda kusvikira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pa…kusvikira"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rwizi"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "reBhesoru"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "vasara"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "vakamira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:51:50.471778404Z",
+  "model": "glm-5.3"
+}

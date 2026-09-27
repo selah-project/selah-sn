@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Mukoma wake namai wake vakati: Regai mhandara agare ⟨את⟩-nedu mazuva, kana gumi; mushure mezvo achaenda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "namai wake"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "agare"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mhandara"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-nedu",
+      "marks": "nedu (netsu)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mushure mezvo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "achaenda"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:51.837042349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ipapo akanyora pamatombo ⟨את⟩ mishine tora raMoshe, iyo yaakanyora pachiso pevana veIsuraeri.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akanyora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matombo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishine tora raMoshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mishine"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "raMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "yaakanyora"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pe-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:09.374094872Z",
+  "model": "glm-5.3"
+}

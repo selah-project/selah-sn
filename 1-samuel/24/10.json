@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Dhavhidhi akati kunaShaure: Nei unoteerera ⟨את⟩ mazwi evanhu achiti: Tarisa, Dhavhidhi anotsvaga kuipa kwako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kunaShaure"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "unoteerera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi evanhu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "evanhu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "anotsvaga"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "kuipa kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:25.750237590Z",
+  "model": "glm-5.3"
+}

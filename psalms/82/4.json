@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 82,
+  "translation": "Buritsai kune chengetedzo murefu nomupenyu-manjemanje; mudzikinurai kubva mumaoko evakaipa.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Buritsai kune chengetedzo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "murefu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomupenyu-manjemanje"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vakaipa"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "mudzikinurai"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:47.384720307Z",
+  "model": "glm-5.3"
+}

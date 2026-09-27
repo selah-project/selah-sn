@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ndokuvaka vana vaYehudha vakava nomhuri dzavo: kwaShehira, mhuri yavaShehirani; kwaPheretse, mhuri yavaPheretsi; kwaZerahi, mhuri yavaZerahiri.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ndokuvaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYehudha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nomhuri dzavo"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "kwaShehira"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "vaShehirani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "kwaPheretse"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "vaPheretsi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "kwaZerahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mhuri"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "vaZerahiri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:03:41.177886745Z",
+  "model": "glm-5.3"
+}

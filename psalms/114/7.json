@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 114,
+  "translation": "Pamberi peAdonai, pasi, bvavama; pamberi peEroha waYakobo.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Pamberi pe"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "bvavama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eroha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "waYakobo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:10.693765627Z",
+  "model": "glm-5.3"
+}

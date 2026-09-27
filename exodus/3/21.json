@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndichapa ⟨את⟩ chipo chevanhu ava pachiso cheMisiri; uye zvichaitika, kana muchifamba, hamufambi muchitora chero chinhu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndichapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chipo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "chevanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misiri"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uye zvichaitika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "muchifamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mufambi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "muchitora chero chinhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:51.063204747Z",
+  "model": "glm-5.3"
+}

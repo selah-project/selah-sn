@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye unochaita ⟨את⟩ altari yoku dzvinisa kutsva; huni dze shittim unodziita ⟨את⟩ iyo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "unochaita"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "yoku"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dzvinisa kutsva"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "huni dze"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unodziita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iyo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:04.968242291Z",
+  "model": "glm-5.3"
+}

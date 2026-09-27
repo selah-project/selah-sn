@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 108,
+  "translation": "Simuka, neveheru nengoma; ndichamutsa ⟨mangwanan≫.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "neveheru"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "nengoma"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ndichamutsa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "mangwanan"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:48.092837783Z",
+  "model": "glm-5.3"
+}

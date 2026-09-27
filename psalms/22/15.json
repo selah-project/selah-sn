@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Ndakadururwa semvura, uye mapfupa angu ose akaparadzana; moyo wangu wava sedonje, wanyungudika mukati memukana wangu.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "semvura"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "Ndakadururwa"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "akaparadzana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mapfupa angu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wava"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "sedonje"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "wanyungudika"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mukana wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:15.599392731Z",
+  "model": "glm-5.3"
+}

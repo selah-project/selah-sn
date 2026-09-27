@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 141,
+  "translation": "Nomutsvagiro wangu ungava sevutsi pachiso chako; simuko remaoko angu seminha yemanheru.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "ungava"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "nomutsvagiro wangu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "sevutsi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pachiso chako"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "simuko"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "remaoko angu"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "seminha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yemanheru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:01.168917529Z",
+  "model": "glm-5.3"
+}

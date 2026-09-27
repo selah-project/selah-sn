@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "naNaamani, naAhiya, naGera — iye ndiye akavatora vanoenda — uye akabereka ⟨את⟩ Uza na⟨את⟩ Ahihudi.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "naNaamani"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "naAhiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "naGera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ndiye akavatora vanoenda"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "uye akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Ahihudi"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahihudi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:56.695813563Z",
+  "model": "glm-5.3"
+}

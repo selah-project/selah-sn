@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye unoisa ⟨את⟩ chiri izvo pamusoro pemadziro mana emuti weshitima wakafushanirwa nedhahabhu, nhare dzawo nedhahabhu, pamusoro pezvitsigiro zvina zvesirivha.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "unoisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chiri izvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "emadziro"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "emuti weshitima"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "wakafushanirwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nedhahabhu"
+    },
+    {
+      "surface": "וזיהם",
+      "gloss": "nhare dzawo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nedhahabhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "zvina"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "zvitsigiro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesirivha"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:50.178471517Z",
+  "model": "glm-5.3"
+}

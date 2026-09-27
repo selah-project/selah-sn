@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Baba vedu vakati: Dzokai, tengesai kwatiri chikafu chishoma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "Baba vedu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Dzokai"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tengesai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chishoma"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chikafu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:14.836833686Z",
+  "model": "glm-5.3"
+}

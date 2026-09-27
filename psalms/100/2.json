@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 100,
+  "translation": "Shandirai ⟨את⟩ Yahwe nemufaro; uyai pamberi pake nerumbidzo yokuyimba.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Shandirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "nemufaro"
+    },
+    {
+      "surface": "באו",
+      "gloss": "uyai"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamberi pake"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "nerumbidzo yokuyimba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:38.117647276Z",
+  "model": "glm-5.3"
+}

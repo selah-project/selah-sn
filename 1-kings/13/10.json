@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Akafamba nezvimwe nzira, wousadzokeri munzira yaakauya nayo kuBheti-Eri.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Akafamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nezvimwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wousa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "dzokere"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bheti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:18.776151735Z",
+  "model": "glm-5.3"
+}

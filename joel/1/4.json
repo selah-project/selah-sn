@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Chakasiyirwa negazamu arave akadya; uye chakasiyirwa naarave yereki yakadya; uye chakasiyirwa nayeriki hasiri rakadya.",
+  "tokens": [
+    {
+      "surface": "יֶתֶר",
+      "gloss": "Chakasiyirwa"
+    },
+    {
+      "surface": "הַגָּזָם",
+      "gloss": "negazamu"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "akadya"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "arave"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "uye chakasiyirwa"
+    },
+    {
+      "surface": "הָאַרְבֶּה",
+      "gloss": "naarave"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "yakadya"
+    },
+    {
+      "surface": "הַיָּלֶק",
+      "gloss": "yereki"
+    },
+    {
+      "surface": "וְיֶתֶר",
+      "gloss": "uye chakasiyirwa"
+    },
+    {
+      "surface": "הַיֶּלֶק",
+      "gloss": "nayeriki"
+    },
+    {
+      "surface": "אָכַל",
+      "gloss": "rakadya"
+    },
+    {
+      "surface": "הֶחָסִיל",
+      "gloss": "hasiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:35.238629454Z",
+  "model": "glm-5.3"
+}

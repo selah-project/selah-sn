@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Uye takati kuna tenzi wangu: Mukomana haagoni kusiya ⟨את⟩ baba vake; asi akasiya ⟨את⟩ baba vake, ⟨vachafa⟩.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "takati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tenzi wangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haagoni"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kugona"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kusiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "vachafa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:05.793018808Z",
+  "model": "glm-5.3"
+}

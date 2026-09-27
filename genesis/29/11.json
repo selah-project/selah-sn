@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Yakobo akatumba Rakheli, akasimudza ⟨את⟩ izwi rake, okuchema.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "akatumba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakheli"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi rake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "izwi rake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "okuchema"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:30.283633088Z",
+  "model": "glm-5.3"
+}

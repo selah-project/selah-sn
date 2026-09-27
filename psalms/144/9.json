@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Erohimu, ndinoverenga rwiyo rutsva kwauri; nenevhare dzemisoro gumi ndinodavira kwauri.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "rutsva"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndinoverenga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nenevhare"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "dzemisoro gumi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndinodavira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:49.257618823Z",
+  "model": "glm-5.3"
+}

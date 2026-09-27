@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Vacheche vavo vachakandwa-donha pamberi meziso avo; dzimba dzavo dzichapambwa, vakadzi vavo vachange vachibatwa zvemubhaya.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "vacheche vavo"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "vachakandwa-donha"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pamberi meziso avo"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "dzichapambwa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "dzimba dzavo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "vakadzi vavo"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "vachange vachibatwa zvemubhaya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:19.139768482Z",
+  "model": "glm-5.3"
+}

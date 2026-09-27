@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Kana ndakwira matenga, iwe unoripo; kana ndakagadzira nzvimbo yokutama muna Sheori, tarisa, iwe uripo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ndakwira"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe unoripo"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "kana ndakagadzira nzvimbo yokutama"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "muna Sheori"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "tarisa, iwe uripo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:49.971666113Z",
+  "model": "glm-5.3"
+}

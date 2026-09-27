@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Ndipo akadzikinura ⟨את⟩ maguta aya, ne⟨את⟩ pasi rose reχikwata, uye ⟨את⟩ vagari vose vemaguta, nesicheme svibhu yehuwa.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "akadzikinura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta aya"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "האל",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "pasi rose rechikwata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "pasi rechikwata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vagari vose vemaguta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "vemaguta"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "nesicheme"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "svibhu yehuwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:25.609041478Z",
+  "model": "glm-5.3"
+}

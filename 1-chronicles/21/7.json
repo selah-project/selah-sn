@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Zvino chiitwa ichi chakashata mumaso aErohimu, uye akarova ⟨את⟩ Israeri.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "chakashata"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumaso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "aErohimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chiitwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:49.367923975Z",
+  "model": "glm-5.3"
+}

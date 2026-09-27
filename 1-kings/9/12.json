@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Hiramu akabuda kuTsuru kuenda kuona ⟨את⟩ maguta aakapa Soromoni, asi zvaaiona hazvina kufadza mumeso ake.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kuTsuru"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuenda kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aakapa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Soromoni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hazvina"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "kufadza"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mumeso ake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:41.251449727Z",
+  "model": "glm-5.3"
+}

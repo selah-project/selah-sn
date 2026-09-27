@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Nemusi wedambudziko rangu ndichakudana, nokuti iwe une hungwaru dzokundipindura.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nemusi we"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "dambudziko rangu"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ndichakudana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "une hungwaru dzokundipindura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:37.901106884Z",
+  "model": "glm-5.3"
+}

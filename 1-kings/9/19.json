@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 9:19",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "ne⟨את⟩ matauta ose ekuchengeta zvinhu aive nao Shoromoh, ne⟨את⟩ matauta ezvitima zvebhiza, ne⟨את⟩ matauta evapfambi vebhiza, ne⟨את⟩ zvaishuvira Shoromoh, aishuvira ⟨את⟩ kuvaka muYerusharimu, muRebanoni, nemunyika yose yaaitonga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matauta ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "matauta"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ekuchengeta zvinhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aive"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nao"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shoromoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matauta ezvitima zvebhiza"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "matauta"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ezvitima zvebhiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matauta evapfambi vebhiza"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "matauta"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "evapfambi vebhiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvaishuvira Shoromoh"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "zvaishuvira"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aishuvira"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "-shuvira"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "muYerusharimu"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "muRebanoni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nemunyika yose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "yaaitonga"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:13.757002146Z",
+  "model": "glm-5.3"
+}

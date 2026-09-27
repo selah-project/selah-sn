@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mushure meYahwe Erohimu yenyu muchafamba, uye iye muchamutyaira, uye ⟨את⟩ mirairo yake muchaichengeta, uye nerufumo rwake muchateerera, uye iye muchamushandira, uye mune iye muchanamata.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "muchafamba"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "muchamutyaira"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "muchamutyaira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yake"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mirairo yake"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "muchachengeta"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "nerufumo rwake"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "muchateerera"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "muchamushandira"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "muchamushandira"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "mune iye"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "muchanamata"
+    }
+  ],
+  "timestamp": "2026-09-27T06:15:13.407608278Z",
+  "model": "glm-5.3"
+}

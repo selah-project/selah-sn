@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Havana kudzikisa ⟨את⟩ marudzi, ayo Yahwe akataurira kuvo;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Havana"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "kudzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marudzi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:44.337852380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye ndichavedza ⟨את⟩ Tendi yeKusangana ne⟨את⟩ altare, uye ⟨את⟩ Aaroni ne⟨את⟩ vana vake ndichavedza kuve mapristi ⟨kwandiri⟩.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "ndichavedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tendi yeKusangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tendi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yeKusangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aaroni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "ndichavedza"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kuve mapristi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:06.830325668Z",
+  "model": "glm-5.3"
+}

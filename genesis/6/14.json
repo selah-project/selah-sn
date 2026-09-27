@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ita zvako tebha remiti yeghofara; dzimba dzaunoita mukati me⟨את⟩ tebha, uye unotsapura ⟨את⟩ tebha mukati nekunze netsapura.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zvako"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "tebha"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "remiti"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "ghofara"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tebha"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tebha"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "uye unotsapura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tebha"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "nekunze"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "netsapura"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:55.889292190Z",
+  "model": "glm-5.3"
+}

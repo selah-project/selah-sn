@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Ita chikumi, zvirokwazvo ita chikumi chehuwandu ⟨את⟩ hwose hunobuditsa mbeu yako, hunobuda munda, gore negore.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ita chikumi"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "zvirokwazvo ita chikumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huwandu hwose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "huwandu hunobuditsa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbeu yako"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "hunobuda"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "negore"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:59.329193676Z",
+  "model": "glm-5.3"
+}

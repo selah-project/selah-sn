@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 100,
+  "translation": "Nokuti Yahwe ⟨uri⟩ makanaka; hesedhi yake rinoshanda kusingaperi, neruzhinji nechizvarua, zvizvarua zvose, rutendo rwake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "makanaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "neruzhinji"
+    },
+    {
+      "surface": "דר",
+      "gloss": "chizvarua"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "zvizvarua zvose"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "rutendo rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:42.675175055Z",
+  "model": "glm-5.3"
+}

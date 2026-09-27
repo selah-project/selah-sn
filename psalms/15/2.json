@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Anofamba asina zvakaipa, uye anoshanda kururama, uye anotaura chokwadi mumoyo wake.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "asina zvakaipa"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "uye anoshanda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "uye anotaura"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "mumoyo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:22.624151832Z",
+  "model": "glm-5.3"
+}

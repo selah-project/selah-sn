@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 9:13",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti ndakagonya kwandiri Yudha sauta, ndakazadza nefu yaErohimu, ndokumutsa vana vako, iwe Zioni, pamusoro pevana vako, iwe Yavani, ndokuisa iwe serupanga romurwi anesimba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "דרכתי",
+      "gloss": "ndakagonya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sauta"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ndakazadza"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Erohimu",
+      "marks": "Erohimu (fu yauta)"
+    },
+    {
+      "surface": "ועוררתי",
+      "gloss": "ndokumutsa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zioni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavani"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "ndokuisa iwe"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "serupanga"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "romurwi anesimba"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:59.493164644Z",
+  "model": "glm-5.3"
+}

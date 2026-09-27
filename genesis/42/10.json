@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Vakati kwaari: Kwete, Adonai; asi varanda vako vakauya kutenga chikafu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "varanda vako"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kutenga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chikafu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:20:33.603280509Z",
+  "model": "glm-5.3"
+}

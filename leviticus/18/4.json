@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "⟨את⟩ mazviroko angu itai, uye ⟨את⟩ mitemo yangu chengetai, kufamba mazvo; ndini Yahwe Erohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazviroko angu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mazviroko angu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "itai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mitemo yangu"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "chengetai"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kufamba"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mazvo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:19.273325920Z",
+  "model": "glm-5.3"
+}

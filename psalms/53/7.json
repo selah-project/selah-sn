@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Ani angapa rubatsiro rweIsraeri ruchibva muTsiyoni? Pakadzoka kudzikinurwa kwevanhu vake naErohimu, Jakobho achafara, Israeri achafara!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "angapa"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "muTsiyoni"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "rubatsiro rwe…"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "pakadzoka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kudzikinurwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "achafara"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "achafara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:34.682281867Z",
+  "model": "glm-5.3"
+}

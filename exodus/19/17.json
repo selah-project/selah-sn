@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Moshe akaburitsa ⟨את⟩ vanhu kusangana naErohimu, kubva mumusasa; uye vakamira kuzasi kwehomo.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "akaburitsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kusangana na"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "musasa"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "vakamira"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "kuzasi kwe"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "homo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:04.361509017Z",
+  "model": "glm-5.3"
+}

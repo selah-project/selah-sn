@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Uye ⟨את⟩ mafuta echibairo chetadziro achazvipfungudza pamusoro pealtari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta echibairo chetadziro"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chibairo chetadziro"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "achazvipfungudza"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "pamusoro pealtari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:47.677892290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Ndakaomerwa, ndakagonyeka kusvika zvakanyanya; mazuva ose ndakafamba ndiri kuchema.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ndakaomerwa"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ndakagonyeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanyanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndiri kuchema"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ndakafamba"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:50.098010738Z",
+  "model": "glm-5.3"
+}

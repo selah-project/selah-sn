@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Ruzha rweruzhanagondo rwako rwakanga ruri mumhepo inopoterera; mhenepo dzakapenya nyika; nyika yakazunza, yakagwidza-pasi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "rweruzhanagondo rwako"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "mumhepo inopoterera"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "dzakapenya"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mhenepo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "yakazunza"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "yakagwidza-pasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:05.118430835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Vana veIsraeri vakachema kuna Yahwe vachiti: Tatadza kwazuri, nokuti tasiya ⟨את⟩ Erohimu vedu, toshanda ⟨את⟩ mabhari.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "vakachema"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "tatadza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwazuri"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "tasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu vedu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu vedu"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "toshanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhari"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "mabhari"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:01.541564699Z",
+  "model": "glm-5.3"
+}

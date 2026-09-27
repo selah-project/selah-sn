@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Yahwe wakavhura ⟨את⟩ chivara chake, akabuditsa ⟨את⟩ zvombo gomhoro ravo; nokuti basa ndiro rake Adonai Yahwe Tsevaoti munyika yeKashdi.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "wakavhura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivara chake"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "chivara chake"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "akabuditsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvombo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvombo"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "gomhoro ravo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kashdi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:11:41.762712319Z",
+  "model": "glm-5.3"
+}

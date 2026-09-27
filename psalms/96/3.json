@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Zivisanai kukudzwa kwake pakati penyika; zvinoshamisa zvake pakati pevanhu vose.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Zivisanai"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pakati penyika"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kukudzwa kwake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pakati pevanhu vose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "zvinoshamisa zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:22.910649929Z",
+  "model": "glm-5.3"
+}

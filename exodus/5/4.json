@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Mambo weMisiri akati kwavari: “Mhoze naAroni, nei munobvisa ⟨את⟩ vanhu kubva mabasa avo? Endai kunamatirwo zvenyu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mambo we"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misiri"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAroni"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "munobvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "kubva mabasa avo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "endai"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "kunamatirwo zvenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:05.735462386Z",
+  "model": "glm-5.3"
+}

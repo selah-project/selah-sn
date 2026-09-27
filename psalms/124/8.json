@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 124,
+  "translation": "Rubetsero rwedu ruri muzita raYahwe, wakasika ⟨את⟩ matenga ne⟨את⟩ pasi.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Rubetsero rwedu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "muzita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakasika"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:04.878121546Z",
+  "model": "glm-5.3"
+}

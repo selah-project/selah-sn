@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvino Shoromohu apedza kuvaka ⟨את⟩ imba yaYahwe ne⟨את⟩ imba yomambo, ne⟨את⟩ zvese zvaishuvira Shoromohu, izvo zhaaida kuita.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "apedza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba yomambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yomambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvese zvaishuvira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvese"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "zvaishuvira"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromohu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "zhaaida"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:29.011627866Z",
+  "model": "glm-5.3"
+}

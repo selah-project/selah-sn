@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Nokuti ndiani mumhepo dzokumatenga angafaniranwa naYahwe? Ndiani angafanana naYahwe pakati pevana veErimu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "mumhepo dzokumatenga"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "angafaniranwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "angafanana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "naYahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "pakati pevana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "veErimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.104334423Z",
+  "model": "glm-5.3"
+}

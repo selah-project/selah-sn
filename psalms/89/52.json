@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Izvo vavengi vako vakanyadzisa, Yahwe; izvo vakanyadzisa tsoka dzaMashiach ako.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izvo"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "vakanyadzisa"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "vakanyadzisa"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "tsoka dza"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiach ako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:40.717085169Z",
+  "model": "glm-5.3"
+}

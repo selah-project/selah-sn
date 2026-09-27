@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Yahwe achachema nokusingaperi, nokusingazivikanwi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יימלך",
+      "gloss": "achachema"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokusingazivikanwi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:12.345573536Z",
+  "model": "glm-5.3"
+}

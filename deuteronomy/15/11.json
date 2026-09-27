@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokuti muchenjeri haangaperi ave pakati penthembo; naizvozvo ndinokurayira ndichiti: Vhura ruoko rwako ⟨את⟩ kumunin'ina wako, kuMukomboreri wako nermucheneri wako munthembo yako.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יֶחְדַּ֥ל",
+      "gloss": "ngaperi"
+    },
+    {
+      "surface": "אֶבְי֖וֹן",
+      "gloss": "muchenjeri"
+    },
+    {
+      "surface": "מִקֶּ֣רֶב",
+      "gloss": "ave pakati pe"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "nthembo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כֵּ֞ן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "אָנֹכִ֤י",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מְצַוְּךָ֙",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "ndichiti"
+    },
+    {
+      "surface": "פָּתֹ֨חַ",
+      "gloss": "chaizvo"
+    },
+    {
+      "surface": "תִּפְתַּ֤חַ",
+      "gloss": "Vhura"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako"
+    },
+    {
+      "surface": "יָדְךָ֜",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "לְאָחִ֧יךָ",
+      "gloss": "kumunin'ina wako"
+    },
+    {
+      "surface": "לַעֲנִיֶּ֛ךָ",
+      "gloss": "kuMukomboreri wako"
+    },
+    {
+      "surface": "וּלְאֶבְיֹנְךָ֖",
+      "gloss": "nermucheneri wako"
+    },
+    {
+      "surface": "בְּאַרְצֶֽךָ",
+      "gloss": "munthembo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:14:27.805871722Z",
+  "model": "glm-5.3"
+}

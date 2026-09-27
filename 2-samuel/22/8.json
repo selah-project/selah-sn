@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Nyika yakagwedezeka yakanzvenga; hwaro hematenga yakazunzunguka okugwedezeka, nokuti wakapisa mwoyo wake.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "yakagwedezeka"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "yakanzvenga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "hwaro"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hematenga"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "yakazunzunguka"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "okugwedezeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "wakapisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mwoyo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:02:28.599643230Z",
+  "model": "glm-5.3"
+}

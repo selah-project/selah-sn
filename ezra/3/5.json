@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 3:5",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye mushure meizvi, zvipiriso zvokupisa zvega nezvega, nezvemwedzi mitsva, uye nemibunganwi yose yaYahwe yakatsvenezwa, uye neyeaanopira mupiro wakanangana kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "uye mushure me"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "zvipiriso zvokupisa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zvega nezvega"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "nezvemwedzi mitsva"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "uye ne"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mibunganwi yose ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "yakatsvenezwa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "uye neye"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "aanopira"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mupiro wakanangana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:09:06.187383502Z",
+  "model": "glm-5.3"
+}

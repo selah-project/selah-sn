@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "⟨את⟩ machira echivanze, ⟨את⟩ matanda aro, ne⟨את⟩ mazano aro, ne⟨את⟩ jira rembanje yechivanze.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "machira echivanze"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "machira"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "echivanze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanda aro"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "matanda aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mazano aro"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "mazano aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "jira rembanje"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "jira"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rembanje"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "yechivanze"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:56.275414894Z",
+  "model": "glm-5.3"
+}

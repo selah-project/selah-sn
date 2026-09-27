@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Tumira chikafu chako pamusoro pechiso chemvura, nokuti muwanda wemazuva uchachiwana.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Tumira"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "chikafu chako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "muwanda wo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "uchachiwana"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:07.193054179Z",
+  "model": "glm-5.3"
+}

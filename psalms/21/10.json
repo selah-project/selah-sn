@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uchavaisa setanuru yemoto panguva yechiso chako, Yahwe; mukutsamva kwake uchameza, moto uchavadya.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "uchavaisa"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "setanuru"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yemoto"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "panguva"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yechiso chako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "mukutsamva kwake"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "uchameza"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "uchavadya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:54.114596410Z",
+  "model": "glm-5.3"
+}

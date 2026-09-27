@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Akasimudza chiso chake kuwondo-windo, akati: Ndivanani nandini? Ndivanani? Vaviri kana vatatu vevadhidhizha vakatarira kwaari.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "chiso chake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "windo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndivanani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨nandini⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ndivanani"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "vakatarira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Vaviri"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "vatatu"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "vevadhidhizha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:55.743066829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Iye Parao akati: Kwira, uye viga ⟨את⟩ baba vako, sokuvumbwa kwavakakuita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kwira"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "viga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuvumbwa kwavakakuita"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "sokuvumbwa kwavakakuita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:17.123835332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Mbudzi dzinokama mazana maviri, nemadhongi makumi maviri; hadzve mazana maviri, nemapfeni makumi maviri.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "Mbudzi dzinokama"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana maviri"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "nemadhongi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "hadzve"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mazana maviri"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "nemapfeni"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:37.290456166Z",
+  "model": "glm-5.3"
+}

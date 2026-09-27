@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mwanasikana waParho akati kwaari: Enda ne⟨את⟩ mwana uyu, umuyamwira iwe kwandiri, uye ini ndichakupa ⟨את⟩ mubairo wako. Mukadzi wakatora ⟨את⟩ mwana, akamuyamwira.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwanasikana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waParho"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "enda ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana uyu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "umuyamwira iwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "uye ini"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndichakupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mubairo wako"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "mubairo wako"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "akamuyamwira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:55.983510023Z",
+  "model": "glm-5.3"
+}

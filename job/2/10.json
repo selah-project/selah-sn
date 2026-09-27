@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 2:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Iye akati kwaari: “Unotaura sokutaura kwemukadzi mpfipi chete. Zvirokwazvo ⟨את⟩ chakanaka tinogamuchira kubva kuna ⟨את⟩ Erohimu, uye ⟨את⟩ chakaipa kwete tinogamuchira.” Muzvinhu zvose izvi Jobhu haana kutadza nemilomo yake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sokutaura"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "הנבלות",
+      "gloss": "dzemadzimpfipi"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakanaka"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "tinogamuchira"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kubva kuna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "chakaipa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "נקבל",
+      "gloss": "tinogamuchira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muzvinhu zvose"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "kutadza"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobhu"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "nemilomo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:33:28.672363848Z",
+  "model": "glm-5.3"
+}

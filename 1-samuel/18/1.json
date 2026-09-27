@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Zvino pakupera kwekutaura kwake kuShauro, mweya waYehonatani wakasungirika mumweya waDhavhidhi, uye Yehonatani akamuda somweya wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "pakupera"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kekutaura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mweya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "waYehonatani"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "wakasungirika"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mumweya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "waDhavhidhi"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "akamuda"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "somweya wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:48.962208687Z",
+  "model": "glm-5.3"
+}

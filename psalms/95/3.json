@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Nokuti Yahwe ndiEr hombarume, uye Mambo mukuru pamusoro pevamwari ose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hombarume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "uye Mambo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vamwari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:01.722259758Z",
+  "model": "glm-5.3"
+}

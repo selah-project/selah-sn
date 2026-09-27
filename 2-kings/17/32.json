@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye vakanga vachatya ⟨את⟩ Yahwe; uye vakazviitira zvavo, kubva pakati pevavo, mapristi emadzinza epakakwirira; uye vaive vanoita zavo mumba dzemadzinza epakakwirira.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "vakanga vari"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "vachatya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "vakazviitira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zvavo"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "kubva pakati pevavo"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "emadzinza epakakwirira"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vaive"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zvavo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "dzemadzinza epakakwirira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:16.857044534Z",
+  "model": "glm-5.3"
+}

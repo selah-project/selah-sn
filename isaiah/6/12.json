@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Yahwe achava ari kure nemonhu ⟨את⟩, uye chasara chichava chakawandisa pakati penyika.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "achava ari kure"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monhu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "monhu"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "chichava chakawandisa"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "chasara"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "penyika"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:39.342803022Z",
+  "model": "glm-5.3"
+}

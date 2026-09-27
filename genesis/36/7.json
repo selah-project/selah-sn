@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "nokuti pfuma yavo yaiva yakawandisa kuti vagare pamwechete; uye nyika yaiva yokutandarara kwavo haikwanisi kuvasunga nekuda kwezvipfuyo zvavo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaiva"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "pfuma yavo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yakawandisa"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "kutivagara"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haikwanisi"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "haikwanisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "yokutandarara kwavo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kuvasunga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nekuda kwe"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "zvipfuyo zvavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:17:07.616196629Z",
+  "model": "glm-5.3"
+}

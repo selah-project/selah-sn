@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nokuti chinoshatirisa kunaYahwe Erohimu wako ndechechiyo chese chinoita izvi, chese chinoita mabasa akaipa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "chinoshatirisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chechiyo chese"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chinoita"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chese"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "chinoita"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mabasa akaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:19.169768324Z",
+  "model": "glm-5.3"
+}

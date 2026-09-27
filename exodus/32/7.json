@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yahwe akataura naMozzi, achiti: Enda, dzika, nokuti vanhu vako vavanhu vakavandira, avo wakakwidza kubva munyika yeMuitire.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Enda"
+    },
+    {
+      "surface": "רד",
+      "gloss": "dzika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "vakavandira"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "wakakwidza"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva mu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nyika yeMuitire"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:50.969503701Z",
+  "model": "glm-5.3"
+}

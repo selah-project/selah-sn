@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye dzvatsvatsva dzichakwira muri iwe, muvanhu vako, nevaranda vako vose.",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "muri iwe"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "muvanhu vako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nevaranda vako vose"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "varanda vako"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "dzichakwira"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dzvatsvatsva"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:29.376473318Z",
+  "model": "glm-5.3"
+}

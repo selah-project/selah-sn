@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 16:11",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Ndakakushongedza ⟨את⟩ zvishongedzwa, ndikakupa ⟦zvibatanidza⟧ zvezvibhure pamawoko ako, netambo huremu pamhiri yawo.",
+  "tokens": [
+    {
+      "surface": "ואעדך",
+      "gloss": "ndakakushongedza"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "zvishongedzwa"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndikakupa"
+    },
+    {
+      "surface": "צמידים",
+      "gloss": "zvibatanidza zvezvibhure"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "mawoko ako"
+    },
+    {
+      "surface": "ורביד",
+      "gloss": "netambo huremu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamhiri ya"
+    },
+    {
+      "surface": "גרונך",
+      "gloss": "huro yawo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:19:39.679819905Z",
+  "model": "glm-5.3"
+}

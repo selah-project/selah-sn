@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti murombo haakanganwe nekusingaperi; tariro yevanyaradzi haingaporwi nekusingaperi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nekusingaperi"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "akanganwe"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "murombo"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "tariro"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "yevanyaradzi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "haingaporwi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nekusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:52.056908805Z",
+  "model": "glm-5.3"
+}

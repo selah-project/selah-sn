@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Wakanokoromoka munhu abva afa — nomufa achafa zvirokwazvo.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Wakanokoromoka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "abva afa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nomufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "achafa zvirokwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:20.678318820Z",
+  "model": "glm-5.3"
+}

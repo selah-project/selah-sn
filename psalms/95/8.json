@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 95,
+  "translation": "Musagwinha mwoyo yenyu sevazhinji paMeriba, sezuva reMasa mugwenga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "musagwinha"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "mwoyo yenyu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "sevazhinji paMeriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sezuva re"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugwenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:23.072139604Z",
+  "model": "glm-5.3"
+}

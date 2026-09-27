@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvakanaka kuti ubate ichi, uye wo kubva ichi urege ruoko rwako ⟨את⟩; nokuti anotya Erohimu achabuda ⟨את⟩ navo ose.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Zvakanaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ubate"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye wo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kubva ichi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "urege"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "kurega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "achabuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navo ose"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "navo ose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:48.296149765Z",
+  "model": "glm-5.3"
+}

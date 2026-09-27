@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "MunaErohimu ndinorumbidza izwi; munaYahwe ndinorumbidza izwi.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "MunaErohimu"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ndinorumbidza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ndinorumbidza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:06.619126496Z",
+  "model": "glm-5.3"
+}

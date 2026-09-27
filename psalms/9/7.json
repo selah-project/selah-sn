@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Muvengi wapera; matombo akachekwa kusingaperi; uye ⟨iwe⟩ wakadzikisa ⟨את⟩ maguta avo; kurangarira kwavo kwakapera pachavo.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "wapera"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "matombo akachekwa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kusingaperi"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "wakadzikisa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kwakapera"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "kurangarira kwavo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "pachavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:31.759005733Z",
+  "model": "glm-5.3"
+}

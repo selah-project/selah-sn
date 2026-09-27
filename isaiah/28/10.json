@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Nokuti mutemo pamusoro pomutemo, mutemo pamusoro pomutemo; mutsetse pamusoro pomutsetse, mutsetse pamusoro pomutsetse; pashoma pano, pashoma pano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "צו",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "pamusoro pomutemo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "pamusoro pomutemo"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mutsetse"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "pamusoro pomutsetse"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mutsetse"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "pamusoro pomutsetse"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pashoma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pano"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pashoma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pano"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:43.680561592Z",
+  "model": "glm-5.3"
+}

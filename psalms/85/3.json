@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Wakatora chitadzo chewako ruvanhu, wakavanzira zvitadzo zvavo zvose. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "wakatora"
+    },
+    {
+      "surface": "עון",
+      "gloss": "chitadzo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wako ruvanhu"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "wakavanzira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "zvitadzo zvavo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:27.425801112Z",
+  "model": "glm-5.3"
+}

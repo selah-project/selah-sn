@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uye ropa revasina mhosva raakadurura; akazadza ⟨את⟩ Yerusharema nomupa wavasina mhosva; uye Yahwe haana kuda kukurevera.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Uye"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "revasina mhosva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaakadurura"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "raakadurura"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "akazadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusharema"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharema"
+    },
+    {
+      "surface": "דם",
+      "gloss": "nomupa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wavasina mhosva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haana kuda"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "kukurevera"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:16.517163530Z",
+  "model": "glm-5.3"
+}

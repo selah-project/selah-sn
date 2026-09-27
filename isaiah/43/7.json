@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Uyo wose anodanwa nezita rangu, uye nokururama kwangu ndakamusika, ndakamuumba, zvirokwazvo ndakamuita.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "anodanwa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nezita rangu"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "uye nokururama kwangu"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ndakamusika"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ndakamuumba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ndakamuita"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:04.384999220Z",
+  "model": "glm-5.3"
+}

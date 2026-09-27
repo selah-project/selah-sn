@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 24:17",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Nokuti Yahwe Erohimu wedu ndivo vakatikwidza ⟨את⟩ isu ne⟨את⟩ madzibaba edu muEgypti, mumba memapeto, uye vakaita pamaso edu ⟨את⟩ zviziviso izvozvi zvikuru, uye vakatichengeta munzira dzose yaenda mairi, nevanhu vose takapurukira mukati mavo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndivo"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "vakatikwidza"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "isu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "madzibaba edu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "madzibaba edu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mu…"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypti"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "memapeto"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "uye izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "pamaso edu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zviziviso izvozvi zvikuru"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "zviziviso"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvozvi"
+    },
+    {
+      "surface": "וישמרנו",
+      "gloss": "uye vakatichengeta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mu…dzose"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "y…"
+    },
+    {
+      "surface": "הלכנו",
+      "gloss": "takaenda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mairi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne…vose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avanhu"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "takapurukira"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "mukati mavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:31:47.686172316Z",
+  "model": "glm-5.3"
+}

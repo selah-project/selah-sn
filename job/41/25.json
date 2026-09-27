@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Hapana mutungamiri pa⟨nhumbi⟩ sokwake; akagadzirwa asingatyi ⟨chero zvose zviri pamberi pake⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nhumbi"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "mutungamiri wake"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "akagadzirwa"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "asinga-"
+    },
+    {
+      "surface": "חת",
+      "gloss": "-tyi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:45:59.378057834Z",
+  "model": "glm-5.3"
+}

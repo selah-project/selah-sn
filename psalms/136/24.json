@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "akatibatsira kudzimumura kubva kuvasinga vedu, nokuti hesedhi yake yakusingaperi.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "akatidzimumura"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "kubva kuvasinga vedu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yakusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:10.527221470Z",
+  "model": "glm-5.3"
+}

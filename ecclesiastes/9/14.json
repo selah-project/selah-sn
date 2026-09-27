@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "guta diki, uye varume vashoma mukati maro; uye mambo mukuru akauya kwaro, akazvitenderera, akaakovira mahomba makuru.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "diki"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "uye varume"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mukati maro"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vashoma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwaro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "akazvitenderera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kwaro (guta)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "akaakovira"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "mahomba"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "makuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:39.050109123Z",
+  "model": "glm-5.3"
+}

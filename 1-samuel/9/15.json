@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Yahwe akavhurira ⟨את⟩ dhokwa raSamueri, zuva rimwe chete musati kuuya kwaShauru, achiti:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "akavhurira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhokwa raSamueri"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dhokwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "raSamueri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "musati"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kuuya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kwaShauru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T10:56:47.805366357Z",
+  "model": "glm-5.3"
+}

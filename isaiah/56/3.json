@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 56:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Uye mwanawomunhu wokunze, akabatanidzwa naYahwe, ngaasati ati: 'Yahwe andipatsanurazve kubva pavanhu vake'; ngaasati atiwowo sarisi: 'Tarisa, ini ndiri muti wakoma.'",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ngaasati ati"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanawomunhu"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "wokunze"
+    },
+    {
+      "surface": "הנלוה",
+      "gloss": "akabatanidzwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הבדל",
+      "gloss": "zve"
+    },
+    {
+      "surface": "יבדילני",
+      "gloss": "andipatsanura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ngaasati atiwowo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הסריס",
+      "gloss": "sarisi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muti"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "wakoma"
+    }
+  ],
+  "timestamp": "2026-09-27T07:46:31.865438250Z",
+  "model": "glm-5.3"
+}

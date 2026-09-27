@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Iri Er anoita ⟨zve⟩tsiva kwandiri, uye anodzinga madzinza pasi pangu.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Iri Er"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "matsivo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "uye anodzinga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pasi pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:18.910272817Z",
+  "model": "glm-5.3"
+}

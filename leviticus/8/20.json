@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndipo ⟨את⟩ hwai akadimburha zvidimbu zvayo; uye Mozhe akapisa nomoto ⟨את⟩ musaro ne⟨את⟩ zvidimbu ne⟨את⟩ mafuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hwai"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "hwai"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "akadimburha"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "zvidimbu zvayo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "akapisa nomoto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musaro"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "musaro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvidimbu"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "zvidimbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:37.372246885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Madzimambo ose awakasika achauya, ochinjikira pamberi penyu, Adonai, okudza Zita renyu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wakasika"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "achauya"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ochinjikira"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "okudza"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Zita renyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:09.838421392Z",
+  "model": "glm-5.3"
+}

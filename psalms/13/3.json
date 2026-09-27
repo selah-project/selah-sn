@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Kusvika rinhi ndichiisa mazano muhupenyu hwangu, shungu mumwoyo wangu mazuva ese? Kusvika rinhi muvengi wangu achikwirira pamusoro pangu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ndichiisa"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "mazano"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "muhupenyu hwangu"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "shungu"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "mumwoyo wangu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mazuva ese"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "achikwirira"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "muvengi wangu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:21.138209091Z",
+  "model": "glm-5.3"
+}

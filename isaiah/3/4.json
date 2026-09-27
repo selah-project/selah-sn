@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndichapa vakomana vadiki kuve madzishe avo, uye vacheche vachave vanotonga pavari.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ndichapa"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "vakomana vadiki"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "madzishe avo"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "vacheche"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "vachave vanotonga"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pavari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:05.120335195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "Ndakafamba pakati pedambudziko, unondiporesa; pamusoro pekutsamwa kwavavengi vangu unotumira ruoko rwako, uye ruoko rwako rwerudyi rwunonunura.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ndakafamba (kana)"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndakafamba"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "unondiporesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kutsamwa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kwavavengi vangu"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "unotumira"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "rwunonunura"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ruoko rwako rwerudyi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:02.815385694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Uye vavengi vangu vane hupenyu, vakasimba; uye vanovenga vangu vakawanda nezvechinyepa.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vane hupenyu"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "vakasimba"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "vakawanda"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "vanovenga vangu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nezvechinyepa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:20.293055796Z",
+  "model": "glm-5.3"
+}

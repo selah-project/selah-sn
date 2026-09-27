@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Asi ini ndakavaka imba yokugara iwe, uye nzvimbo yokugara kwako ⟨kwokusingaperi⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndakavaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "yokugara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "yokugara kwako"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kwokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:02.111822373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Nokuti tarira, vane kure newe vanoparara; waparadza vose vanonhinga vachibva kwauri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "vane kure newe"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vanoparara"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "waparadza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "vanonhinga"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "vachibva kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:27.023187415Z",
+  "model": "glm-5.3"
+}

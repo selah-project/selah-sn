@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Vakaisa pakati pavo mashoko ezvitaridzo zvake, nezvishamiso munyika yaChamu.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ezvitaridzo zvake"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "nezvishamiso"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "חם",
+      "gloss": "yaChamu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:58.028405854Z",
+  "model": "glm-5.3"
+}

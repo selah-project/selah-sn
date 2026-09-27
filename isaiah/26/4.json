@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Vimbai munaYahwe nokusingaperi, nokuti munaYah Yahwe ndiye Rabwe rokusingaperi.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Vimbai"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nokusingaperi (okutanga)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "munaYah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Rabwe"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "rokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:34.758633396Z",
+  "model": "glm-5.3"
+}

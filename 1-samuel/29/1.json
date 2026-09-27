@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Nokuti Vafirisithi vakasanganisa ⟨את⟩ miseve yavo yose kuAfeke, uye Israeri vakagara dziva iri muYizreheri.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "vakasanganisa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafirisithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miseve yavo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "miseve yavo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "kuAfeke"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "uye Israeri"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "dziva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "muYizreheri"
+    }
+  ],
+  "timestamp": "2026-09-27T10:57:41.637192248Z",
+  "model": "glm-5.3"
+}

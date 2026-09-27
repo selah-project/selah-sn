@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 126,
+  "translation": "Anofamba achifamba achichema, akitakura mbeu yekudyara, achadzoka zvichokwadi muchiridza, akitakura chigumbe chake.",
+  "tokens": [
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "anofamba"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "achifamba"
+    },
+    {
+      "surface": "וּבָכֹה",
+      "gloss": "achichema"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "akitakura"
+    },
+    {
+      "surface": "מֶשֶׁךְ",
+      "gloss": "mbeu yekudyara"
+    },
+    {
+      "surface": "הַזָּרַע",
+      "gloss": "yekudyara"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "achadzoka"
+    },
+    {
+      "surface": "יָבוֹא",
+      "gloss": "zvichokwadi"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "muchiridza"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "akitakura"
+    },
+    {
+      "surface": "אֲלֻמֹּתָיו",
+      "gloss": "chigumbe chake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:52.541090146Z",
+  "model": "glm-5.3"
+}

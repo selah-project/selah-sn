@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yahwe akaponesa ⟨את⟩ Hizikiya ne⟨את⟩ vagari veYerusharemu, kubva muruoko rwaSanheribhu, mambo waAshuru, nokubva muruoko rwevose; akavatungamira kwese kumativi ose.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "akaponesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hizikiya"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vagari veYerusharemu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "veYerusharemu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva muruoko"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "rwaSanheribhu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waAshuru"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nokubva muruoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwevose"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "akavatungamira"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "kwese kumativi ose"
+    }
+  ],
+  "timestamp": "2026-09-27T10:42:18.981096889Z",
+  "model": "glm-5.3"
+}

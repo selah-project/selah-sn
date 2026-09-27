@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Dhavhidhi akati: Yahwe, Erohimu yeIsraeri, muranda wako anonzwa kwazvo kuti Shauno ari kutsvaga kuuya kuKeira, kuparadza guta nenzira yangu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "anzwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ari kutsvaga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauno"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kuuya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keira"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuparadza"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "nenzira yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:40.180311948Z",
+  "model": "glm-5.3"
+}

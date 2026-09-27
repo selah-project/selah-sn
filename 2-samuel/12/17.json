@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Nokudaro vakuru vebhava rake vakamuka vodzika pamusoro pave, vokumudzikisa kubva pavhu; asi haana kuda, uye haana kudya ⟨את⟩ chingwa navo.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vakuru"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "vebhava rake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pave"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "vokumudzikisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pavhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haana"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chingwa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:57:47.416698401Z",
+  "model": "glm-5.3"
+}

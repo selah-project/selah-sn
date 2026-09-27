@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Ukagara kudya ⟨את⟩ muridzi woushe, ziva chose zvizvo ⟨את⟩ izvozvo zvakatariswa mumberi kwako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ukagara"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muridzi woushe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "muridzi woushe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ziva chose"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "zvizvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvozvo zvakatariswa mumberi kwako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mumberi kwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:29:19.284925709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Zvino shure kwezvinhu izvi, Erohimu akaedza ⟨את⟩ Abhurahama, akati kwaari: Abhurahama. Iye akati: Ndinapo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino zvakaitika"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "shure kwe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "akaedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhurahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndinapo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:07.950682668Z",
+  "model": "glm-5.3"
+}

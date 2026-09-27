@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ivo ndivo vakataurira Farao, mambo weMitsiriyamu, kuchibvisa ⟨את⟩ vana vaIsiraeri muMitsiriyamu; ndiye Mozisi naAharoni.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "ivo ndivo"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "vakataurira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo we"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsiriyamu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuchibvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muMitsiriyamu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozisi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAharoni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:19.929894939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Moshe akati: Ndatendeuka ndione ⟨את⟩ chiratidzo ichi chikuru — chii chinosaka chihwande chisingatsvanyi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Ndatendeuka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nditendero ⟨iyo⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ndione"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiratidzo ichi chikuru"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "chiratidzo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "chikuru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "chii chinosaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "chisingatsvanyi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "chihwande"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:51.722688135Z",
+  "model": "glm-5.3"
+}

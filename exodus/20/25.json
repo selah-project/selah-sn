@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye kano wakaita kwandiri mizibhecha wematombo, haugoni kuivaka nedombo rakachekwa; nokuti kano wakasimudza ⟨את⟩ bhanga rako pamusoro paro, watenembera.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "uye kano"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizibhecha"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "wematombo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wakaita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugoni"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kuivaka"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "dombo rakachekwa"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "rakachekwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "bhanga rako"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "wakasimudza"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pamusoro paro"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "watenembera"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:26.654880447Z",
+  "model": "glm-5.3"
+}

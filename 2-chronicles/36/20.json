@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Vashari vehwaswa vakatapirwa kuBhabhironi, vakava varanda vake nevaberekwa vake, kusvika chaita umambo hweParisi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "vakatapirwa"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "vashari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ve"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "hwaswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bhabhironi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "vakava"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "nevaberekwa vake"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "chaita"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "hweParisi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:44:48.339715853Z",
+  "model": "glm-5.3"
+}

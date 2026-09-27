@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye mambo akataura navo, ati: Chinorota ndakarota, uye mweya wangu wakatyora — kuti ndizive ⟨את⟩ chinorota.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Uye mambo akataura"
+    },
+    {
+      "surface": "להם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Chinorota"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ndakarota"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "uye wakatyora"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuti ndizive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinorota"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "chinorota"
+    }
+  ],
+  "timestamp": "2026-09-27T09:59:50.793620654Z",
+  "model": "glm-5.3"
+}

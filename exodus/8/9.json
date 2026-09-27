@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Yahwe akaita sokutaura kwaMozhe, uye tsapira dzakafa kubva mudzimba, kubva mumaraini, nokubva mumashanga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sokutaura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kwaMozhe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "dzakafa"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "tsapira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mudzimba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "mumaraini"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nokubva"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "mumashanga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:03.907948258Z",
+  "model": "glm-5.3"
+}

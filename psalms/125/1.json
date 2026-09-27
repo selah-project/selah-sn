@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 125,
+  "translation": "Nziyo yokukwidza. Avo vanovimbira muna Yahwe vanofanana nogomo reZvioni: harizogwinha, rinogara nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yokukwidza"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Avo vanovimbira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muna Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "vanofanana nogomo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "reZvioni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "-zogwinha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "rinogara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:48.751879912Z",
+  "model": "glm-5.3"
+}

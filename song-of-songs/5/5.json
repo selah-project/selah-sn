@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndakamuka ini kuvhura kune mudikanwi wangu; uye maoko angu akatapa mora, uye tsvigoko tsanga dzangu mora unoyerera, pamusoro pemadziro ehoko.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "Ndakamuka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "kuvhura"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "kune mudikanwi wangu"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "uye maoko angu"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "akatapa"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "uye tsvigoko tsanga dzangu"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mora"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "unoyerera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "ehoko"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:39.653064165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Moyo wevanohurumidza uchaziva kuziva, uye rurimi rwokakama rwuchahurumidza kutaura pachena.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Moyo"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "wevanohurumidza"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "uchaziva"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "rurimi"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "rwokakama"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "rwachahurumidza"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "pachena"
+    }
+  ],
+  "timestamp": "2026-09-27T07:37:03.728358839Z",
+  "model": "glm-5.3"
+}

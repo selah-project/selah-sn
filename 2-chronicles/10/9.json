@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Akati kwavari: Imi muri kuronga chii, kuti tipindure ⟨את⟩ vanhu idzi, ava vataura kwandiri vachiti: Ita nyore mutoro wo, wauno, akaisa baba vako pamusoro penyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "muri-kuronga"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "kuti-tipindure"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pinduro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu idzi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ava"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "vataura"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ita-nyore"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "העל",
+      "gloss": "mutoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wauno"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba-vako"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pamusoro-penyu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:33:37.987111197Z",
+  "model": "glm-5.3"
+}

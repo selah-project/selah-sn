@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Yahwe ngaakupai, uye mugone kuwana zororo, imwe neimwe mumba yomurume wake. Akatsidzira idzo, uye dzakasimudza mazwi adzo, uye dzakachema.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ngaakupai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "uye mugone kuwana"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "zororo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "imwe neimwe ⟨mukadzi⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "yomurume wake"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "akatsidzira"
+    },
+    {
+      "surface": "להן",
+      "gloss": "idzo"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "dzakasimudza"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "mazwi adzo"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "dzakachema"
+    }
+  ],
+  "timestamp": "2026-09-27T09:48:37.569765720Z",
+  "model": "glm-5.3"
+}

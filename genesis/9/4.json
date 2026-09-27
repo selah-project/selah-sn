@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Asi nyama ine mweya wayo — ropa rayo — hamuidyi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ine mweya wayo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ropa rayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muidyi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:01.805638860Z",
+  "model": "glm-5.3"
+}

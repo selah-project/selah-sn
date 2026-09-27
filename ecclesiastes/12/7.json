@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye huruva dzichadzokera pasi sokudzanga dziri, uye Mweya uchadzokera kuna Erohimu wakapa ⟨uye⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "uchadzokera"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "huruva"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasii"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "sokudzanga dziri"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "uye Mweya"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "uchadzokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "akapa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:32.296585185Z",
+  "model": "glm-5.3"
+}

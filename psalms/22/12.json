@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Usave kure neni, nokuti dambudziko riri pedyo, nokuti hapana anobatsira.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ve kure"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "neni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "riri pedyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "anobatsira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:11.491976213Z",
+  "model": "glm-5.3"
+}

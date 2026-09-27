@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 22:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana munhu anobata chero sheretsi rinomuitsvina, kana munhu anomuitsvina, — tsvina yake yose;",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨anobata⟩"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "anobata"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "chero"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sheretsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨rinomuitsvina⟩"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "rinomuitsvina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨anomuitsvina⟩"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "anomuitsvina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "tsvina yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:49.298736279Z",
+  "model": "glm-5.3"
+}

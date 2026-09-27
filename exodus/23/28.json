@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye ndichatuma ⟨את⟩ nyenze pamberi penyu, ndokudzinga ⟨את⟩ vaHivi, ⟨את⟩ vaKanani ne⟨את⟩ vaHiti pamberi penyu.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ndichatuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyenze"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nyenze"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ndokudzinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaHivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "vaHivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaKanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "vaKanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vaHiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "vaHiti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "pamberi penyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:30.624802894Z",
+  "model": "glm-5.3"
+}

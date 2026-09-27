@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana uchitora ⟨את⟩ hembe yomubetiwako ⟨semuchato⟩, umudzose kusvika kuenda kwezuva.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kutora"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "uchitora"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "yomubetiwako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwezuva"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "umudzose"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:41.362975960Z",
+  "model": "glm-5.3"
+}

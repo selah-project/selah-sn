@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ndipo vana vegolerwa vakaita ⟨את⟩ Paseka, ringe rechina gumi neshanu remwedzi wekutanga.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "vegolerwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "rechina"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi neshanu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "remwedzi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "wekutanga"
+    }
+  ],
+  "timestamp": "2026-09-27T10:07:52.854883099Z",
+  "model": "glm-5.3"
+}

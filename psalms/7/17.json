@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Rwendo rwake rwekushanda zvakaipa ruchadzoka pamusoro pemusoro wake, uye chiito chake cheshungu richigumira pamusoro pegongwa rake.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ruchadzoka"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "rwendo rwekushanda zvakaipa rake"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pamusoro pemusoro wake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pamusoro pe"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "gongwa rake"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "chiito chake cheshungu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "richigumira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:34.042256815Z",
+  "model": "glm-5.3"
+}

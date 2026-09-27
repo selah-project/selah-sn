@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Vanhu vakanzwa ⟨את⟩ shoko roipa iri, vakarwadziwa, uye hapana munhu akaisa zvishongedzwa zvake paari.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "vakanzwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko roipa iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "roipa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "vakarwadziwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "zvishongedzwa zvake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:39.664005984Z",
+  "model": "glm-5.3"
+}

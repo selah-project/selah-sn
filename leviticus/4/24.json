@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Oisa ruoko rwake pamusoro pemusoro wembudzi yechipembenene, ichapfura ⟨את⟩ paimo panopfurwa ⟨את⟩ chinopisa pachiso paYahwe; chibairo chechivi ndicho.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "oisa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "wembudzi yechipembenene"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ichapfura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mbudzi yechipembenene"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "panopfurwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinopisa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "chinopisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "chibairo chechivi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:29.289673040Z",
+  "model": "glm-5.3"
+}

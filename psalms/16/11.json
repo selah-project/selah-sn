@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Unondizivisa ⟨את⟩ nzira yehupenyu: kuguta kwemafaro ⟨pamusoro pechiso⟩ chako, zvinonaka ⟨ku⟩ruboshwe rwako, nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Unondizivisa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yehupenyu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kuguta"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "kwemafaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "zvinonaka"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ruboshwe rwako"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:30.282321635Z",
+  "model": "glm-5.3"
+}

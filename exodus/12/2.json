@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mwedzi uno ndewenyu ⟨mutwi⟩ wemwedzi: ndiwo mwedzi wekutanga wenyu wemwedzi yegore.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Mwedzi uno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ndewenyu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨mutwi⟩"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "wemwedzi"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "wekutanga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiwo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wenyu"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "wemwedzi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yegore"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:33.845471206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Pamenora yakachena anogadza ⟨את⟩ mazambiri pachiso paYahwe zvichisingaperi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Pa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "yakachena"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "anogadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazambiri"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "mazambiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zvichisingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:00.023658880Z",
+  "model": "glm-5.3"
+}

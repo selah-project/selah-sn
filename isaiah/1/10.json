@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Teererai shoko raYahwe, imi vatungamiri veSodhoma; pindai nzeve tora yaErohimu wedu, imi vanhu veGamora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Teererai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "vatungamiri"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "veSodhoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "pindai nzeve"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "yaErohimu wedu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "veGamora"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:00.657692152Z",
+  "model": "glm-5.3"
+}

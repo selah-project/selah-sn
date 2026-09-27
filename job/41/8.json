@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Chimwe chinopedzana nechimwe, uye mhepo haipindi pakati pavo.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "nechimwe"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "chinopedzana"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "uye mhepo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "pindi"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "pakati pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:45:28.409464673Z",
+  "model": "glm-5.3"
+}

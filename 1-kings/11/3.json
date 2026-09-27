@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Akanga ari nomadzimai, madzishe, Mazana nomwe, nemapirigishi mazana matatu; uye madzimai ake vakatsausa ⟨את⟩ moyo wake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akanga ari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨nae⟩"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "nomadzimai"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "Mazana"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "nemapirigishi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "vakatsausa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "madzimai ake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:27.650734021Z",
+  "model": "glm-5.3"
+}

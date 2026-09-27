@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Yahwe akataurira Moshe, achiti:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataurira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:40.820120962Z",
+  "model": "glm-5.3"
+}

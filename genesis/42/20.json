@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Uye ⟨את⟩ mukoma wenyu muduku muzvunure kundiri, kuti mashoko enyu avimbiswe, uye musafe. Uye vakaita saizvozvo.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wenyu muduku"
+    },
+    {
+      "surface": "אֲחִיכֶ֤ם",
+      "gloss": "mukoma wenyu"
+    },
+    {
+      "surface": "הַקָּטֹן֙",
+      "gloss": "muduku"
+    },
+    {
+      "surface": "תָּבִ֣יאוּ",
+      "gloss": "muzvunure-muise"
+    },
+    {
+      "surface": "אֵלַ֔י",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "וְיֵאָמְנ֥וּ",
+      "gloss": "avimbiswe"
+    },
+    {
+      "surface": "דִּבְרֵיכֶ֖ם",
+      "gloss": "mashoko enyu"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "uye musa-"
+    },
+    {
+      "surface": "תָמֻ֑תוּ",
+      "gloss": "fe"
+    },
+    {
+      "surface": "וַיַּעֲשׂ֖וּ",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "כֵֽן",
+      "gloss": "saizvozvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:20:38.590401934Z",
+  "model": "glm-5.3"
+}

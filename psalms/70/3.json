@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 70,
+  "translation": "Ngavave nenyadzi navanyaradzwe avo vari kutsvaga upenyu hwangu; ngavadzoke shure navatapukirwe avo vanofarira zvakaipa zvangu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ngavave nenyadzi"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "navanyaradzwe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "avo vari kutsvaga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "upenyu hwangu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ngavadzoke"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "shure"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "navatapukirwe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "avo vanofarira"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "zvakaipa zvangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:13.737910676Z",
+  "model": "glm-5.3"
+}

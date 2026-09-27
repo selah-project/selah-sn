@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Yahwe akarwisa ⟨את⟩ vanhu nokuda kwezvo vakaita ⟨את⟩ mhuru yaakaita Aaroni.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "akarwisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kwezvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhuru"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mhuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:35.085412232Z",
+  "model": "glm-5.3"
+}

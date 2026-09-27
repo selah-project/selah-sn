@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Ndokuratenda mashoko ake, ndokuyimba rumbidzo rwake.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Ndokuratenda"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "mashoko ake"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ndokuyimba"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rumbidzo rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:32.928594462Z",
+  "model": "glm-5.3"
+}

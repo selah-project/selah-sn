@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uchomisa ⟨את⟩ bindu rokutenderedza, uchogadzikisa ⟨את⟩ chivharo chemukova webindu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uchomisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bindu rokutenderedza"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bindu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rokutenderedza"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uchogadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivharo chemukova webindu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chivharo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "chemukova"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "webindu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:10.108029622Z",
+  "model": "glm-5.3"
+}

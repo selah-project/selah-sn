@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Hausi here, kubva zvino, wakandidana: Baba wangu, woye, shamwari yangu yechidiki, ndiwe?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "hausi here"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kubva zvino"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "wakandidana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba wangu"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "shamwari"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "yechidiki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ndiwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:51:15.686348732Z",
+  "model": "glm-5.3"
+}

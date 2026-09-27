@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Zuva rinobuda, zvino dzokera, uye kumisha yavo dzinogara dzakagomara.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "rinobuda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Zuva"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "zvino dzokera"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye ku"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "misha yavo"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "dzinogara dzakagomara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:10.488844242Z",
+  "model": "glm-5.3"
+}

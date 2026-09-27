@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Madzishe ⟨את⟩ enyika, nomativi ose enyika; madzinda, navatongi ose venyika —",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "enyika"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nomativi ose"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "amativi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "madzinda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "navatongi ose"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "avatongi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "venyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:05.632160422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Ndiani anoumba eri, kana mufananidzo wakanyungudutswa — kuti ubatsirwe ⟨nazvo⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndiani"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "anoumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eri"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "kana mufananidzo"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wakanyungudutswa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti u-"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "-batsirwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:56.455632265Z",
+  "model": "glm-5.3"
+}

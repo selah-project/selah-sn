@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Hesedhi yaYahwe ndichaimba nokusingaperi; kunharaunda nenharaunda ndichazivisa rutendo rwako nomuromo ⟨wangu⟩.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hesedhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ndichaimba"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kunharaunda"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nenharaunda"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ndichazivisa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "rutendo rwako"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "nomuromo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:53.158146656Z",
+  "model": "glm-5.3"
+}

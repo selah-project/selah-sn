@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Mhepo yakazara kubva mune izvi ichauya kwandiri; zvino nguva iyoyo ndichataura mitongo yangu ⟨את⟩ kwavari.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Mhepo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kubva mune izvi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ichauya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino nguva iyoyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndichataura"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "mitongo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T11:07:29.303689974Z",
+  "model": "glm-5.3"
+}

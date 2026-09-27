@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Tarisa! Ini ndiri kumutsa ⟨את⟩ Madhai pamaso pavo, avo nyungu havayifungi, kana ndarama havayishuviri.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Tarisa! Ini"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ndiri kumutsa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamaso pavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madhai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madhai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nyungu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "-yifungi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kana ndarama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havayi-"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "-shuviri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:49.082832059Z",
+  "model": "glm-5.3"
+}

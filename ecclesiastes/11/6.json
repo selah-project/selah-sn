@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Mangwanani dyara ⟨את⟩ mbeu yako, uye manheru usaregere ruoko rwako; nokuti hauna kuziva ipi ichabudirira, iyi kana iyo, kana zviri zviviri zvakaenzana zvakanaka.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dyara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeu yako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbeu yako"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "uye manheru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "regere"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ichabudirira"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zviri zviviri"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "zvakaenzana"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:45.899440101Z",
+  "model": "glm-5.3"
+}

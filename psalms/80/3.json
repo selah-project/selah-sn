@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Pachiso cheEfraimu neBeniyamini neManase, dzidzira ⟨את⟩ simba rako, uuye kutinunura.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pachiso che"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimu"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "neBeniyamini"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "neManase"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "dzidzira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simba rako"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "simba rako"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "uuye"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "kutinunura"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨tinunurwe⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:42.180137680Z",
+  "model": "glm-5.3"
+}

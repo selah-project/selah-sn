@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Idzi ndidzo mazuva akatarwa aYahwe, misse dzeutsvene, iyo muchazvidanidza ⟨את⟩ nguva dzadzo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Idzi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mazuva akatarwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "misse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dzeutsvene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "muchazvidanidza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nguva dzadzo"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "nguva dzadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:49.966939699Z",
+  "model": "glm-5.3"
+}

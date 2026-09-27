@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 35:2",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Munofunga here kuti izvi zviri tsarwano? Munoti: kururama kwangu kunopfuura kururama kwaEr.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "חשבת",
+      "gloss": "munofunga"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "tsarwano"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "munoti"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "kururama kwangu"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "kupfuura kwaEr"
+    }
+  ],
+  "timestamp": "2026-09-27T09:43:20.135520495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 65,
+  "translation": "Kwauri runyararo rune rumburumbwe, Erohimu, muZiyoni; uye kwauri chitsidzo chichazadzikiswa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "rumburumbwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "muZiyoni"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uye kwauri"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "chichazadzikiswa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "chitsidzo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:55.068691177Z",
+  "model": "glm-5.3"
+}

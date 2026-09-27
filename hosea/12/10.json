@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Asi ndini Yahwe, Erohimu wako, kubva kunyika yeMitserai; zvino ndichaita kuti ugare mutendere zvekare, semazuva ebiko rakatarwa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "asi ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva kunyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitserai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvekare"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ndichaita kuti ugare"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "mutendere"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "semazuva e"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "biko rakatarwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:34.086009884Z",
+  "model": "glm-5.3"
+}

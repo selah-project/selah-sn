@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Ndanyoroka nokuchema kwangu, muromo wangu wakaoma, maziso angu apera andirimirira Erohimu wangu.",
+  "tokens": [
+    {
+      "surface": "געתי",
+      "gloss": "Ndanyoroka"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nokuchema kwangu"
+    },
+    {
+      "surface": "נחרתי",
+      "gloss": "wakaoma"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "muromo wangu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "apera"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "מיוחלים",
+      "gloss": "andirimirira"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Erohimu wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:57.473185853Z",
+  "model": "glm-5.3"
+}

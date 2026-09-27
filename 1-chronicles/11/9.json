@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Dhavhidhi akaenda akaenderera uye kukura, uye Yahwe Tsevaoti aiva naye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "akaenderera"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "kukura"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uye Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "aiva naye"
+    }
+  ],
+  "timestamp": "2026-09-27T10:20:58.029250451Z",
+  "model": "glm-5.3"
+}

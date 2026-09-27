@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye moyo wake wakasimukira munzira dzaYahwe; uyezve akabvisa ⟨את⟩ nzvimbo dzakakwirira ne⟨את⟩ zvidhindo zvemwari veimwemuchina kubva muYudha.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "wakasimukira"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "munzira dza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "uyezezve"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzakakwirira"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "nzvimbo dzakakwirira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvidhindo zvemwari veimwe"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "zvidhindo zvemwari veimwe"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "kubva muYudha"
+    }
+  ],
+  "timestamp": "2026-09-27T10:35:30.455993056Z",
+  "model": "glm-5.3"
+}

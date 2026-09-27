@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Yahwe akagara chigaro choushe panguva yemvura dzinodarika; uye Yahwe anogara ari mambo nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "panguva yemvura dzinodarika"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akagara chigaro choushe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "uye anogara ari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:21.977862372Z",
+  "model": "glm-5.3"
+}

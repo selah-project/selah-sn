@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Chokwadi chinomera kubva munyika, uye kururama kunotarira kubva matenga.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Chokwadi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "chinomera"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "uye kururama"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kubva matenga"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "kunotarira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:19.249405308Z",
+  "model": "glm-5.3"
+}

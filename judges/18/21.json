@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Vakatendeuka vakaenda, uye vakaissa ⟨את⟩ vana vadiki ne⟨את⟩ zvipfuwo ne⟨את⟩ zvinhu zvavo pamberi pwavo.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "vakatendeuka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vakaenda"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "vakaissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vadiki"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "vana vadiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfuwo"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvavo"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "zvinhu zvavo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pamberi pwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:39:22.797429668Z",
+  "model": "glm-5.3"
+}

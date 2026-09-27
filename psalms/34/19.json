@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Yahwe ari pedyo nevanopfipanywa nemoyo, uye ⟨את⟩ vatsvetukirwa mwoya anoponesa.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "iri pedyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "nevano…"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pfipanywa nemoyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vatsvetukirwa mwoya"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "vatsvetukirwa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mwoya"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "anoponesa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:53.716476995Z",
+  "model": "glm-5.3"
+}

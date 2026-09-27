@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Pasi richapindura ⟨את⟩ chibage, ne⟨את⟩ wayini itsva, ne⟨את⟩ mafuta; pamwe naya achapindura ⟨את⟩ Jizreeri.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Pasi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "richapindura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibage"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "chibage"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "wayini itsva"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "wayini itsva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "והם",
+      "gloss": "pamwe naya"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "achapindura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreeri"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:47.109087748Z",
+  "model": "glm-5.3"
+}

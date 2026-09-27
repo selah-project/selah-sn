@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Yosefu akati kune hanzvadzi dzake: Ndiri Yosefu; baba vangu varipo here? Hanzvadzi dzake haina kugona kumupindura ⟨את⟩ iye, nokuti vakateterezvara pamberi pave.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndiri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "here"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "varipo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haina"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kugona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "kumupindura"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "vakateterezvara"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pamberi pave"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:06.184451976Z",
+  "model": "glm-5.3"
+}

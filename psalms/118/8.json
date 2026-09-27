@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Kune zvakanaka kutizira kuna Yahwe kupfuura kuvimba nomunhu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "kutizira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kupfuura kuvimba"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nomunhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:32.700397919Z",
+  "model": "glm-5.3"
+}

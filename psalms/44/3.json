@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Iwe, neruoko rwako warasha marudzi, uwakadzikisa ⟨ivo⟩; wakaparadza marudzi, uwakavatuma kure.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "neruoko rwako"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "warasha"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "uwakadzikisa ⟨ivo⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "wakaparadza"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "uwakavatuma kure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:06.024143506Z",
+  "model": "glm-5.3"
+}

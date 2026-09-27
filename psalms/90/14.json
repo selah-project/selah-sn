@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 90,
+  "translation": "Nyadzisisa nelokudya ⟨chisi〕 mangwanani hesedhi yako, kuti tifare nokuchengetedza mufaro mazuva edu ose.",
+  "tokens": [
+    {
+      "surface": "שַׂבְּעֵ֣נוּ",
+      "gloss": "Nyadzisisa nelokudya"
+    },
+    {
+      "surface": "בַבֹּ֣קֶר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "חַסְדֶּ֑ךָ",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "וּֽנְרַנְּנָ֥ה",
+      "gloss": "kuti tifare (nokufarira kwokurumbidza)"
+    },
+    {
+      "surface": "וְ֝נִשְׂמְחָ֗ה",
+      "gloss": "nokuchengetedza mufaro"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "mu… ose"
+    },
+    {
+      "surface": "יָמֵֽינוּ",
+      "gloss": "mazuva edu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:56.999211044Z",
+  "model": "glm-5.3"
+}

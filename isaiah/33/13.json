@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Nzvenzei, imi muri kure, zvandakaita; uzive, imi muri pedyo, simba rangu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nzvenzei"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "imi muri kure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "uzive"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "imi muri pedyo"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "simba rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:44.105515366Z",
+  "model": "glm-5.3"
+}

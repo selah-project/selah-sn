@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti munhu achabata mukoma wake, mumba mwaibaba wavo, achiti: Hapwa riinani, ive mutungamiri wedu; uye matambudziko aya agare pasi peruoko rwako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "achabata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "mwaibaba wavo"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "hapwa"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "riinani"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "mutungamiri"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ive"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wedU"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "uye matambudziko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:59.620796686Z",
+  "model": "glm-5.3"
+}

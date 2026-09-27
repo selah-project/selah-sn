@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Samuere aishanda ⟨את⟩ pachiso peYahwe, mukomana akageya nefodo yejira.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Uye Samuere"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "aishanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachiso peYahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "akageya"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "nefodo"
+    },
+    {
+      "surface": "בד",
+      "gloss": "yejira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:50.780820943Z",
+  "model": "glm-5.3"
+}

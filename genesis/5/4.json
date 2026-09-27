@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Mazuva aAdhamu, mashure okubereka ⟨את⟩ Sheti, aiva mazana masere emakore, uye akabereka vakomana nemadzisikana.",
+  "tokens": [
+    {
+      "surface": "וַיִּֽהְי֣וּ",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "יְמֵי",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "אָדָ֗ם",
+      "gloss": "aAdhamu"
+    },
+    {
+      "surface": "אַחֲרֵי֙",
+      "gloss": "mashure"
+    },
+    {
+      "surface": "הוֹלִיד֣וֹ",
+      "gloss": "okubereka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Sheti"
+    },
+    {
+      "surface": "שֵֽׁת",
+      "gloss": "Sheti"
+    },
+    {
+      "surface": "שְׁמֹנֶ֥ה",
+      "gloss": "masere"
+    },
+    {
+      "surface": "מֵאֹ֖ת",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "וַיּ֥וֹלֶד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "וּבָנֽוֹת",
+      "gloss": "nemadzisikana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:58.500692980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Zvakaudzwa Dhavhidhi, akaunganidza ⟨את⟩ Israeri yose, akapfuura Yorudhani, akasvika kwavari, akamiririra kurwisana navo; Dhavhidhi akagadzirira hondo yokusangana neAramu, vokarwa navo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "zvakaudzwa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akaunganidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akapfuura"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudhani"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "akamiririra"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kurwisana navo"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "akagadzirira"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "yokusangana ne"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "vokarwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:24:22.565193166Z",
+  "model": "glm-5.3"
+}

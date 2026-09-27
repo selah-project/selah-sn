@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye vakabvisa ⟨את⟩ vimwari venharava pakati pavo, vakashandira ⟨את⟩ Yahwe; moyo wake wakadzikwa nokushungurudzwa kwaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "vakabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vimwari venharava"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "vimwari"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "venharava"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "vakashandira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "wakadzikwa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "nokushungurudzwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:03.508194943Z",
+  "model": "glm-5.3"
+}

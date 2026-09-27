@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Mozhe akaita sokutaurirwa ⟨את⟩ kwakaita Yahwe; misangano yakasangana pamberi pemumaro wechihema chokusangana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaurirwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwakaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "yakasangana"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "misangano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mumaro"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chihema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "chokusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:28.809836663Z",
+  "model": "glm-5.3"
+}

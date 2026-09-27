@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Chinhu chose chinofamba chinopenyuka chichave chokudyiwa nemi; sesora rechibage ndakakupai ⟨את⟩ zvose.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Chinhu chos"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "chinofamba chinopenyuka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvino-"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chiri"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichave"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "chokudyiwa"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "sesora"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rechibage"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakakupai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:01.805462147Z",
+  "model": "glm-5.3"
+}

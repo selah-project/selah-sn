@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 138,
+  "translation": "Vamambo vose venyika vachakuvavira, iwe Yahwe, nokuti vanzwa mashoko emuromo wako.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "vachakuvavira iwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "vamambo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "vanzwa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "emuromo wako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:08.722892796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ndichatengesa ⟨את⟩ vakomana venyu ne⟨את⟩ vasikana venyu mumaoko evana vaYhudha, iwouchazvitengesa kuvaSheba, kunyika yakasiyana; nokuti Yahwe wataura.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Ndichatengesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakomana venyu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vakomana venyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vasikana venyu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "vasikana venyu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "evana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYhudha"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "iwouchazvitengesa"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "kuvaSheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "yakasiyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wataura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:04.168922624Z",
+  "model": "glm-5.3"
+}

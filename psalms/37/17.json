@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Nokuti maoko evakaipa achapwarwa; uye Yahwe anotsigira ⟨את⟩ vatendiwo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "maoko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "evakaipa"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "achapwarwa"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "anotsigira"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vatendiwo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:57.896369493Z",
+  "model": "glm-5.3"
+}

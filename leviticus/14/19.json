@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye mupristi achaita ⟨את⟩ chibairo chechitadzo, uye achaita kubvisa mhosva yaari kucheneswa kubva mautsvina ake; uye mushure mezvo achacheka ⟨את⟩ chibairo chinopiswa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Uye achaita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chechitadzo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chibairo chechitadzo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "achaita kubvisa mhosva"
+    },
+    {
+      "surface": "על",
+      "gloss": "yaari kucheneswa"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yaari kucheneswa"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "kubva mautsvina ake"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "uyye mushure mezvo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "achacheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chinopiswa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "chibairo chinopiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:40.114130177Z",
+  "model": "glm-5.3"
+}

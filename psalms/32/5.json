@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Chitadzo changu ndakazivisa kwauri, nomhaka yangu handina kuvanzira. Ndakati: Ndichazivisa zvandakapurukira kuna Yahwe, uye iwe wakatora ⟨את⟩ mhaka yechitadzo changu. Selaha.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "chitadzo changu"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ndakazivisa kwauri"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "nomhaka yangu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "kuvanzira"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakati"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndichazivisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "zvandakapurukira"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kupurukira kwangu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "uye iwe"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "wakatora"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhaka"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "yechitadzo changu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:27.844896034Z",
+  "model": "glm-5.3"
+}

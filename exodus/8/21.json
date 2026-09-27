@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Paro akadana Mozesi neAroni, akati: Endai, bayirai kuna Erohimu venyu munyika.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozesi"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "neAroni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Endai"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "bayirai"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "kuna Erohimu venyu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:55.927919289Z",
+  "model": "glm-5.3"
+}

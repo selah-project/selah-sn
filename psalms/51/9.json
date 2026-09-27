@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Undichenese nenezvo, uye ndichachena; undigeze, uye ndichachena kupfuura chando.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "undichenese"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "nenezvo"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "uye ndichachena"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "undigeze"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "uye kupfuura chando"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ndichachena"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:01.691676654Z",
+  "model": "glm-5.3"
+}

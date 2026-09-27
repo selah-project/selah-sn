@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "KwaYahwe ⟨ndiko⟩ kubudikidza; upfumi hwekutioko hwako huripo pamusoro pevanhu vako. Sehla.",
+  "tokens": [
+    {
+      "surface": "לַיהוָ֥ה",
+      "gloss": "KwaYahwe"
+    },
+    {
+      "surface": "הַיְשׁוּעָ֑ה",
+      "gloss": "kubudikidza"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "עַמְּךָ֖",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "בִרְכָתֶ֣ךָ",
+      "gloss": "kutioko hwako"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "Sehla"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:33.446346850Z",
+  "model": "glm-5.3"
+}

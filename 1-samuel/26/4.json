@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Dhavhidhi akatuma vanonharinga, akaziva kuti Shauro auya chaizvo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vanonharinga"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "akaziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "auya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chaizvo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "chaizvo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:51:45.434498489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Yahwe akati kuna Moshe: Nyora izvi chirangariro mugwaro, uye uiise mukati mezeve raYehoshua, nokuti ndichapumha — ndichapumha ⟨את⟩ chirangariro chaAmareki pasi pedenga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Nyora"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "chirangariro"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "mugwaro"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "uye uiise"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mukati mezeve ra"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ndichapumha"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "ndichapumha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chirangariro chaAmareki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chirangariro"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "chaAmareki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "denga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:00.892304505Z",
+  "model": "glm-5.3"
+}

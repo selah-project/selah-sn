@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 98,
+  "translation": "Akayarutsa hesedhi yake nechitendero chake kumba yaIsraeri; mapeto ose epasi aona ⟨את⟩ ruponeso rwaErohimu wedu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Akayarutsa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "nechitendero chake"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kumba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "aona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mapeto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruponeso rwaErohimu wedu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ruponeso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "rwaErohimu wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:21.069024422Z",
+  "model": "glm-5.3"
+}

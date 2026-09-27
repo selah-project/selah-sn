@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mambo weIsraeri akatuma ⟨vanhu⟩ ku ⟨the⟩ nzvimbo yaakataura nayo munhu waErohimu, ndokumwayira, iye akachengetedza ⟨zvakanaka⟩ ipapo — kwete kamwe, kwete kaviri.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "ndokumwayira"
+    },
+    {
+      "surface": "וינשמר",
+      "gloss": "akachengetedza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kamwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaviri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:23.535920621Z",
+  "model": "glm-5.3"
+}

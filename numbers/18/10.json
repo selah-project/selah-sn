@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Mutsvene pezvitsvene muchazvidya; chirume chese chichadya ⟨את⟩; chitsvene chichava kwamuri.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Mutsvene"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pezvitsvene"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "muchazvidya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chese"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chirume"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "chichadya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chiri kudyiwa (chitsvene)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichava"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:00:47.144716368Z",
+  "model": "glm-5.3"
+}

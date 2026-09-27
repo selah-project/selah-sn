@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Vachataura: Nokuti vakasiya ⟨את⟩ sungano yaYahwe, Erohimu yamazvara avo, yaakacheka navo paakabuditsa ⟨את⟩ ⟨ivo⟩ kubva nyika yeMitsrayimu.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "vachataura"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "vakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yamazvara avo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaakacheka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akacheka"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "paakabuditsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ivo⟩",
+      "marks": "ivo (vanhu)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:20:14.429594624Z",
+  "model": "glm-5.3"
+}

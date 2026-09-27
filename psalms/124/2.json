@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 124,
+  "translation": "dai Yahwe asina kuva nati, pavakuru vanhu votimuka pati:",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "dai... asina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nati"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "pavakuru... votimuka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pati"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:25.089651277Z",
+  "model": "glm-5.3"
+}

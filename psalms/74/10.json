@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Kusvika rinhi, Erohimu, muvengi achatuka? Muvenganwa achashora Zita rako nokusingaperi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "achatuka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "achashora"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "muvenganwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Zita rako"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:15.331674177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Munyika yose mutsei ⟨wavo⟩ wakabuda, uye mazwi avo kumagumo epasi; kuzuva yakaisa tende mumatenga.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "munyika yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "wakabuda"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mutsei wavo"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "uye kumagumo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "epasi"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "mazwi avo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "kuzuva"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yakaisa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mumatenga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:50.278517744Z",
+  "model": "glm-5.3"
+}

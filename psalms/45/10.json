@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Vanasikana vamadzimambo vari pakati pevakakodzerwa vako; mambokadzi akamira kurudyi rwako, akapfekedza ndarama yeOfiri.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Vanasikana"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "vamadzimambo"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "pakati pevakakodzerwa vako"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "mambokadzi"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "kurudyi rwako"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "akapfekedza ndarama"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "yeOfiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:46.030905263Z",
+  "model": "glm-5.3"
+}

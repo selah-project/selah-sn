@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndiimbe ndapota nomudikanwi wangu, ndziyo yomudikanwi wangu nezvemunda wake wemazambiringa: munda wemazambiringa waiva womudikanwi wangu, panzvimbo yakakwirira inodavira mafuta.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ndiimbe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "nomudikanwi wangu"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "ndziyo"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "yomudikanwi wangu"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "nezvemunda wake wemazambiringa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "munda wemazambiringa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waiva"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "womudikanwi wangu"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "panzvimbo yakakwirira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ine"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:43.202584167Z",
+  "model": "glm-5.3"
+}

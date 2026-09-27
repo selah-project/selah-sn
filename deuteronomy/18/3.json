@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye ichi chichava mutemo wemakambere wakubva kuvanhu: kubva ku⟨את⟩ vanodyara zviito — ngavave mombe kana hwayi — uye achapa makambere ndevhe yeruwoko, matama maviri, neduvha.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "uye ichi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichava"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wemakambere"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva ku⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva ku⟨את⟩",
+      "marks": "vanodyara zviito"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "vanodyara"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "zviito"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngavave"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שה",
+      "gloss": "hwayi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "achapa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "makambere"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ndevhe yeruwoko"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "matama maviri"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "neduvha"
+    }
+  ],
+  "timestamp": "2026-09-27T06:16:58.858816967Z",
+  "model": "glm-5.3"
+}

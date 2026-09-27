@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ndave nyadzi pohwe yavavengi vangu vose, uye kuvanotengera navo zvikuru, kutya kuvabatsiri vangu; vandinoverenga mune guva vakatiza kuburikidza neni.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "po vangu vose"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "vavengi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ndave"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyadzi"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "uye kuvanotengera navo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "uye kutya"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "kuvabatsiri vangu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "vandinoverenga"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "mune guva"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuburikidza neni"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:54.925430957Z",
+  "model": "glm-5.3"
+}

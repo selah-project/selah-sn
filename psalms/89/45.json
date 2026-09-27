@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Wakadzima ubwinyi hwake, uye wakadzikisa chigaro chake kuma⟨nha⟩ pasi.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "wakadzima"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ubwinyi hwake"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "chigaro chake"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "wakadzikisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:50.460903671Z",
+  "model": "glm-5.3"
+}

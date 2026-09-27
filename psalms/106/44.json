@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Asi akaona dambudziko rwavo, pakunzwa kwake ⟨את⟩ rino rwavo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Asi akaona"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "rwavo"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "pakunzwa kwake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rino rwavo"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "rino rwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:43.006548648Z",
+  "model": "glm-5.3"
+}

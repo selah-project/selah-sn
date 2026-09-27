@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 140,
+  "translation": "Ndibudise Yahwe mumunhu akaipa, ndichengete mumunhu wehutsinyi.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Ndibudise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "mumunhu ⟨weakaipa⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "akaipa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mumunhu ⟨wehutsinyi⟩"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "hutsinyi"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ndichengete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:40.935287441Z",
+  "model": "glm-5.3"
+}

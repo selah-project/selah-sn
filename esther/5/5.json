@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Uye mambo akati: Itizvizve kuti ⟨את⟩ Hamani auye kuita ⟨את⟩ izwi raEster. Saka mambo naHamani vakapinda mubapiro raunonzi mishete, iro Ester aita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "itizvizve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "raEster"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vakapinda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "naHamani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "bapiro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "aita"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:50.457011928Z",
+  "model": "glm-5.3"
+}

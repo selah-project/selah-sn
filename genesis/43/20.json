@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Vakati: Ndinokumbira, Adonai wangu, zvirokwazvo takanyarira pamwenzvano kuti tigoke chokudya.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ndinokumbira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai wangu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "zvirokwazvo (takanyarira)"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "takanyarira"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "pamwenzvano"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kutigoka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "chokudya"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:07.518553683Z",
+  "model": "glm-5.3"
+}

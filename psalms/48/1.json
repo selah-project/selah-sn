@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Rwiyo, nziyo, yevana vaKorachi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Rwiyo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yevana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:32.627878524Z",
+  "model": "glm-5.3"
+}

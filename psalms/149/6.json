@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Kukudza kwaEr kuriri mughomarwa rwavo, netsvimbo yenjodzi-maviri muushe rwawo.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "Kukudza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwaEr"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "mughomarwa rwavo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "netsvimbo yenjodzi-maviri"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "nenjodzi-maviri"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "muushe rwawo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:06.886612054Z",
+  "model": "glm-5.3"
+}

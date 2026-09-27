@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Ndipo ⟨את⟩ imba yake yaakavaka Shoromoh, makore gumi nemotsi, ndokupedza ⟨את⟩ imba yake yose.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba yake"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yaakavaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "nemotsi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ndokupedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yake yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:07:43.367036529Z",
+  "model": "glm-5.3"
+}

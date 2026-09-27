@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Akaibata akazvara kwaari ⟨את⟩ Zimurani, na⟨את⟩ Yokishani, na⟨את⟩ Medhani, na⟨את⟩ Midiyani, na⟨את⟩ Yishibhaki, na⟨את⟩ Shuwahi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akaibata akazvara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimurani"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimurani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Yokishani"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokishani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Medhani"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medhani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Midiyani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Yishibhaki"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishibhaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Shuwahi"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuwahi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:36.168420191Z",
+  "model": "glm-5.3"
+}

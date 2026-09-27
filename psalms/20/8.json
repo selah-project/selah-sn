@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Aya ⟨ari⟩ muchovha, uye aya ⟨ari⟩ mahachi; asi iwe ticharangarira muzita raYahwe Erohimu wedu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "muchovha"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "uye aya"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "mahachi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "muzita ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ticharangarira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:35.404028122Z",
+  "model": "glm-5.3"
+}

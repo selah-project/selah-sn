@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Tyai Yahwe ⟨את⟩, vatsvene vake; nokuti havashome chero chinhu avo vanomutya.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Tyai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "vatsvene vake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kushomeka"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "avo vanomutya"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:47.410895324Z",
+  "model": "glm-5.3"
+}

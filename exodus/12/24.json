@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye muchengeta ⟨את⟩ shoko iri chizvarirwo chokutendeuka kwamuri naveneko vazukuru venyu kusvika nguva dzose.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Uye muchengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoko iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "shoko iri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "chizvarirwo chokutendeuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "noveneko vazukuru venyu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:42.903409292Z",
+  "model": "glm-5.3"
+}

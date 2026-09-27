@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye zita raAharoni ⟨את⟩ unorunyora patsvimbo yaRevhi; nekuti tsvimbo imwe chete ndeyomusoro wemba yamadzibaba avo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zita raAharoni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "raAharoni"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "unorunyora"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "patsvimbo"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "yaRevhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe chete"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ndeyomusoro"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wemba"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "yamadzibaba avo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:00:42.227562772Z",
+  "model": "glm-5.3"
+}

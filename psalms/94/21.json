@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 94,
+  "translation": "Vanongedzerana pahupenyu hwevatsvene, uye ropa rwisina mhosva vanorutadzisa.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "vanongedzerana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hupenyu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hwevatsvene"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "uye ropa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "rwisina mhosva"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "vanorutadzisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:29.428443629Z",
+  "model": "glm-5.3"
+}

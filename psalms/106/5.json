@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Kuti ndione zvakanaka zvavasarudzwa vako, ndifarire mufaro weguta rako, nditambudzikire pamwe nerugwaro rwenhaka yako.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "kuti ndione"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "zvakanaka zva"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "vasarudzwa vako"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "ndifarire"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "mufaro we"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "guta rako"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "nditambudzikire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "nhaka yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:35.906692346Z",
+  "model": "glm-5.3"
+}

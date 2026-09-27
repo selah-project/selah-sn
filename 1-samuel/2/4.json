@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mauta evarwi akaputsika, uye vasina simba vakazvinga simba.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "Mauta"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "evarwi"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "akaputsika"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "uyye vasina simba"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "vakazvinga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "simba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:39.118590148Z",
+  "model": "glm-5.3"
+}

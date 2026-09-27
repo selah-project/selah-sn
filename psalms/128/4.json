@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 128,
+  "translation": "Tarisa, zvirokwazvo, ndokudaro munhu anotya Yahwe achapfuuridzwa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokudaro"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "achapfuuridzwa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "anotya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:23.819961124Z",
+  "model": "glm-5.3"
+}

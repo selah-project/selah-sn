@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye ⟨את⟩ dehwe rembudzi duku akarivhiringaruzheya pamaoko aro, nepane dunhu rakatetepara mutsipa wake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "dehwe rembudzi duku"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "dehwe"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "rembudzi"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dukuduku"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "akavhotsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maoko aro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepane"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "dunhu rakatetepara"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "mutsipa wake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:47.673236608Z",
+  "model": "glm-5.3"
+}

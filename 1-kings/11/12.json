@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Asi mazuva ako handizviiti, nokuda kwaDhavidhi baba vako; kubva muruoko rwomwanakomana wako ndichapatsanura.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "mazuva ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "kuzviita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavidhi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva muruoko"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "womwanakomana"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ndichapatsanura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:36.995832643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Akaita ⟨את⟩ zvinhu zvose zvemizbechi: ⟨את⟩ mbiya, ne⟨את⟩ nhembe dzokuchera, ne⟨את⟩ ndiro dzokutekededza, ⟨את⟩ maziraki, ne⟨את⟩ machata emoto; zvinhu zvose zvacho akaita nemhangura.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvose zvemizbechi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "zvemizbechi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbiya"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "mbiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "nhembe dzokuchera"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "nhembe dzokuchera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ndiro dzokutekededza"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "ndiro dzokutekededza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maziraki"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "maziraki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "machata emoto"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "machata emoto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinhu zvacho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mhangura"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:57.080279640Z",
+  "model": "glm-5.3"
+}

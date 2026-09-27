@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Chinhu chose chine nguva yacho, uye nguva yechida chose chiri pasi pedenga.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "chinhu chose"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "nguva yacho"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "chida chose"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chinodiwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "denga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:01.727894889Z",
+  "model": "glm-5.3"
+}

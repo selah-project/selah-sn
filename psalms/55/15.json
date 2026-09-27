@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Uvo vakambonzvininira pamwe chetse zano mumba yaErohimu, taitambanidzira zvakanaka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "uvo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "pamwe chetse"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "kambonzvininira"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "zano"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yaErohimu"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "taitambanidzira zvakanaka"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "⟨nehurwi⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:30.014648710Z",
+  "model": "glm-5.3"
+}

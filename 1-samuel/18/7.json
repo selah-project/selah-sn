@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Madzimai aive kuchembera ndokudavira umwe nomwe, vachiti: “Shauri akauraya ⟨את⟩ zviuru zvake, Dhavhidhi zviuru zvizere gumi zvake.”",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "ndokudavira"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "madzimai"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "aive kuchembera"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauri"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "zviuru zvake"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "zviuru zvizere gumi zvake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:51.364963318Z",
+  "model": "glm-5.3"
+}

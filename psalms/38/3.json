@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Nokuti miseve yako yakandimirira, ruoko rwako rwakagadzikira pandiri.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "חִצֶּיךָ",
+      "gloss": "miseve yako"
+    },
+    {
+      "surface": "נָחֲתוּ",
+      "gloss": "yakandimirira"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "וַתִּנְחַת",
+      "gloss": "rwakagadzikira"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יָדֶךָ",
+      "gloss": "ruoko rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:17.862684602Z",
+  "model": "glm-5.3"
+}

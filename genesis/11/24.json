@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye Nahori akagara makore mapfumbamwe nemakumi maviri, akazvara ⟨את⟩ Terahi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahori"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "mapfumbamwe"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "nemakumi maviri"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terahi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:35.443973889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye unofanira kuchengeta ⟨את⟩ murairo, uye ⟨את⟩ mitemo yechitema, uye ⟨את⟩ mitemo yekutonga, iyo ndinokuurayira nhasi kuzviita.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "unofanira kuchengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murairo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "murairo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yechitema"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mitemo yechitema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yekutonga"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mitemo yekutonga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kuurayira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kuzviita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:43.082409043Z",
+  "model": "glm-5.3"
+}

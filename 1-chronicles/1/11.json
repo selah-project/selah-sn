@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye Mitsraimu akabereka ⟨את⟩ Ludi, ne⟨את⟩ Anami, ne⟨את⟩ Lehavi, ne⟨את⟩ Naftuhi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Uye Mitsraimu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Anami"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Lehavi"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehavi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Naftuhi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuhi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:33.211835290Z",
+  "model": "glm-5.3"
+}

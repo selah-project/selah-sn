@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Uyu ndiwo razvarwa runomutsvaga, runotsvaka chiso chako — Jakobo. Seraha.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "razvarwa"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "runomutsvaga"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "runotsvaka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Seraha"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:50.156008099Z",
+  "model": "glm-5.3"
+}

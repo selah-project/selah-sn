@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Ndima yepfuma yechidenguru chehuori: mune kati kwevana zvangu ⟨ndinoti⟩ hapana kutya kwaErohimu pamberi pemeso ake.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Ndima yepfuma yechidenguru"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "huori"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "chehuori"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mune kati kwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "vana zvangu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kwaErohimu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamberi pe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "meso ake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:09.911298151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 15:16",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Panguva iyoyo Menahemu akauraya ⟨את⟩ Tifisaki nezvinhu zvose zvairimo, uye miparadzi yayo yose kubva muTiritisa, nokuti haina kuzaruka; akauraya ⟨את⟩ vane vane vouchiri vomudhidhizha zvose, akabvadza.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "panguva iyoyo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tifisaki"
+    },
+    {
+      "surface": "תפסח",
+      "gloss": "Tifisaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu zvose zvairimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvairimo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨zvairimo⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miparadzi yayo yose"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "miparadzi yayo"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "kubva muTiritisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haina"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kuzaruka"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vouchiri zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ההרותיה",
+      "gloss": "vane vouchiri vomudhidhizha"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "akabvadza"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:13.870908261Z",
+  "model": "glm-5.3"
+}

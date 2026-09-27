@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Nokuti Yahwe ndiwe davi redu, uye Mutsvene weIsraeri ndiye mambo wedu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "davi redu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "uye kunaMutsvene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mambo wedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:06.633645477Z",
+  "model": "glm-5.3"
+}

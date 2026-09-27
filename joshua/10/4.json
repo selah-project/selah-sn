@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "“Kwira kundinobatsira, kuti tikunde ⟨את⟩ Gibhoni, nokuti rakaita runyararo na⟨את⟩ Yehoshua ne⟨את⟩ vana veYisiraeri.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Kwira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundi"
+    },
+    {
+      "surface": "כעזרני",
+      "gloss": "nobatsira"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "kuti tikunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibhoni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibhoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "rakaita runyararo"
+    },
+    {
+      "surface": "את",
+      "gloss": "na⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veYisiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:15.545221447Z",
+  "model": "glm-5.3"
+}

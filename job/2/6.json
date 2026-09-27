@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Yahwe akati kuna Satani: Ona, ari mumaoko ako; asi ⟨את⟩ upenyu hwake uchengete.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satani"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mumaoko ako"
+    },
+    {
+      "surface": "אך",
+      "gloss": "asi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upenyu hwake"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "upenyu hwake"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "uchengete"
+    }
+  ],
+  "timestamp": "2026-09-27T09:33:17.472634382Z",
+  "model": "glm-5.3"
+}

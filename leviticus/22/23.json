@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye mombe kana hwayi ine chinhu chiri kupfuura kana kushoma, unogona kuita ⟨את⟩ iro sechipiro chokuda, asi echinhu chitsidzo hachigamuchirwi.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Uye mombe"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "kana hwayi"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "chinhu chiri kupfuura"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "kana chinhu chiri kushoma"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "sechipiro chokuda"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "unogona kuita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iro (mombe kana hwayi)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "asi echinhu chitsidzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "chigamuchirwi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:11.516890902Z",
+  "model": "glm-5.3"
+}

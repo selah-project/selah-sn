@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Erohimu, nenzvu dzedu takanzwa; madzibaba edu atiriudza basa raawaita mazuva avo, mazuva ekare.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "nenzvu dzedu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "takanzwa"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "madzibaba edu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "atiriudza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "basa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "raawaita"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "mazuva avo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mazuva e"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kare"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:06.023891500Z",
+  "model": "glm-5.3"
+}

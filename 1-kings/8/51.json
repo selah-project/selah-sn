@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "nokuti vanhu vako nenhengetedzo yako ndevo, avo wakaburitsa muIjipita, mukati mechoto chehesi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "nenhengetedzo yako"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ndevo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "wakaburitsa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muIjipita"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "כור",
+      "gloss": "choto"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "chehesi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:26.782760341Z",
+  "model": "glm-5.3"
+}

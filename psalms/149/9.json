@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Kuita kwavari mutongo wakanyorwa; ndiro rukudzo ⟨iri⟩ kuvatsvene vose vake. Rumbidzai Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutongo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "wakanyorwa"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuvose"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "vatsvene vake"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:30.715635182Z",
+  "model": "glm-5.3"
+}

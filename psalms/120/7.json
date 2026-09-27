@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 120,
+  "translation": "Ndiri runyararo; asi pandinotaura, ivo varikutenda hondo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndiri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "asi apo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ndinotaura"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "varikutenda hondo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:20.947119804Z",
+  "model": "glm-5.3"
+}

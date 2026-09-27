@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vanovenga chakanaka, vanoda zvakaipa; vanobvisa ganda ravo pavari, nyama yavo kubva pamapfupa avo.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "Vanovenga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "vanoda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "vanobvisa"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ganda ravo"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "pavari"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "nyama yavo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "mamapfupa avo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:37.692025301Z",
+  "model": "glm-5.3"
+}

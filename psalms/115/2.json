@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Nei marudzi achataura kuti: Erohimu wavo ari kupi na?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "achataura kuti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ari kupi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Erohimu wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.560469256Z",
+  "model": "glm-5.3"
+}

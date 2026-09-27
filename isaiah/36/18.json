@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "ndisava Hizikiya akakufimbai, achiti: Yahwe achatiponesa. Ndi mwari wedzinyika here vakaponesa munhu-wega nyika yake mumaoko emambo weAshuru?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ndisava"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "akakufimbai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizikiya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "achatiponesa"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "ndi... here vakaponesa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mwari we"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dzinyika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu-wega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yake"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nyika yake"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "emambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:39:18.227161014Z",
+  "model": "glm-5.3"
+}

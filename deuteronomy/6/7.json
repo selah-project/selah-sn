@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye unovadzidzisa mwana wako zvokutsvenyesa, uye unotaura nezvazvo paunogara mumba mako, uye paunofamba munzira, uye paunorara uye paunomuka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "unovadzidzisa zvokutsvenyesa"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "mwana wako"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "unotaura"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nezvazvo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "paunogara"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "mumba mako"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "paunofamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "paunorara"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "paunomuka"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:00.267735114Z",
+  "model": "glm-5.3"
+}

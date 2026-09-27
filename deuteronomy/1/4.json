@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Shure pokunge arova ⟨את⟩ Sihoni mambo wevaEmori aigara muHeshibhoni, nomwero ⟨את⟩ Ogi mambo weBhashani, aigara muAshtaroti, muEdherei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Shure pokunge"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "arova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wevaEmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aunogara"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "aigara"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "muHeshibhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ogi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "weBhashani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aunogara"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "aigara"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "muAshtaroti"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "muEdherei"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:46.177496586Z",
+  "model": "glm-5.3"
+}

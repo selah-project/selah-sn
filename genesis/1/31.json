@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Erohimu akaona ⟨את⟩ zvaakaita zvose, uye onai — zvakanaka zvikuru. Zvakaiva manheru, zvakaiva mangwanani: zuva rechitanhatu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvaakaita zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aakaita"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye onai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaiva"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manheru"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaiva"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "rechitanhatu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:43.916448370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Hasha dzaDhavhidhi dzakatsamwa zvakaoma pamurume iyehu, ndokuti kuna Nathani: Yahwe muri raramo, nokuti mwanakufa ndiwo murume anoita izvi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dzakatsamwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "pamurume"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakaoma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokuti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathani"
+    },
+    {
+      "surface": "חי",
+      "gloss": "muri raramo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:52.750023758Z",
+  "model": "glm-5.3"
+}

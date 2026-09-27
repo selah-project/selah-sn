@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvanga zviripo ndizvo zvichazove zviri, uye zvanga zvaitwa ndizvo zvichaitwa; uye hapana chinhu chitsva pasi pezuwa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "zvanga"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "zviripo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndizvo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "zvichazove zviri"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "uye zvanga"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "zvaitwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndizvo"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "zvichaitwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "chinhu chil"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "chitsva chil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:42.449156936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Yahwe akati kuna Mozhe: Tema nokuda kwako mativi maviri ematombo sokumwe kweokutanga, ndichanyorera pamativi aya ⟨את⟩ mashoko aive pamativi okutanga iwo waunaputsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "tema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nokuda kwako"
+    },
+    {
+      "surface": "שני",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mativi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ematombo"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "sokumwe kweokutanga"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "ndichanyorera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mativi aya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aivo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aive"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mativi"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "okutanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "waunaputsa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:49.739516626Z",
+  "model": "glm-5.3"
+}

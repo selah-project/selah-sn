@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Yahwe akataura kuMozhe nokuAroni, uye akavaturira vana vaIsiraeri nokuFara, mambo weMuitiro, kuti vanobudise vana vaIsiraeri munyika yeMuitiro.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "noku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "akavaturira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "noku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMuitiro"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuti vanobudise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Muitiro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:29.088857617Z",
+  "model": "glm-5.3"
+}

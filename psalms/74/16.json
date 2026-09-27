@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Musi ndiwako, usiku wo ndihwako; iwe wakagadzirira chiedza nezuva.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ndiwako"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Musi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ndihwako"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "wakagadzirira"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "nezuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:08.814459622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Mhembwe yemwanasikana womukomana wako, kana yemwanasikana womukomana wako wechikadzi — mhembwe yavo haufumure; nokuti iyoyo ⟨ndiro⟩ mhembwe yako.",
+  "tokens": [
+    {
+      "surface": "עֶרְוַת",
+      "gloss": "mhembwe"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "yemwanasikana"
+    },
+    {
+      "surface": "בִּנְךָ",
+      "gloss": "womukomana wako"
+    },
+    {
+      "surface": "אוֹ",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "yemwanasikana"
+    },
+    {
+      "surface": "בִּתְּךָ",
+      "gloss": "womukomana wako wechikadzi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תְגַלֵּלה",
+      "gloss": "fumure"
+    },
+    {
+      "surface": "עֶרְוָתָן",
+      "gloss": "mhembwe yavo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עֶרְוָתְךָ",
+      "gloss": "mhembwe yako"
+    },
+    {
+      "surface": "הֵנָּה",
+      "gloss": "iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:27.141097535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Tenzi yaYosefa yakatora ⟨את⟩ iye, nokumuisa mumba wendombo, panzvimbo iyo ⟨vanhu⟩ vasungwa vemambo vakasungwa; iye akagara ipapo mumba wendombo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yakatora"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tenzi ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "nokumuisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "wendombo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "vasungwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vemambo"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "vakasungwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "wendombo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:37.603997278Z",
+  "model": "glm-5.3"
+}

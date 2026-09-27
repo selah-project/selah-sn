@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Zvino zvakaitika, Yosefu paukanwa kwake kune hama dzake, vakabvisa Yosefu ⟨את⟩ hembe yake, ⟨iyo⟩ hembe yakadai yakawedzwa mavara yaipfekwa naye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "paukanwa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwauya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hama dzake"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "vakabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe yake"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "hembe yake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe yakadai yakawedzwa mavara"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "yakawedzwa mavara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yaipfekwa naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:54.354762372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Nokuti ndakarayirwa zvakadaro neshoko raYahwe, ndichiti: Usatye chikafu, wousanwe mvura, wousadzokera munzira yaunofamba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ndakarayirwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "neshoko"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "neshoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndichiti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wousa"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "nwe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wousa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "dzokere"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "unofamba"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:18.774752279Z",
+  "model": "glm-5.3"
+}

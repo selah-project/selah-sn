@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Kubva pamirairo yako ndinonzwisisa; naizvozvo ndinovenga nzira dzose dzemanyepo.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "kubva pamirairo yako"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ndinonzwisisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndinovenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dzemanyepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:28.227026325Z",
+  "model": "glm-5.3"
+}

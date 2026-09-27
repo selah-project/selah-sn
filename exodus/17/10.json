@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 17:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Yehoshua akaita sezaakataurwa naMoshe, kurwa neAmareki; uye Moshe, Aharon naHuru vakakwira musoro wegomo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zaakataurwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "neAmareki"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "uye Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "naHuru"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vakakwira"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "wegomo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:43.214970068Z",
+  "model": "glm-5.3"
+}

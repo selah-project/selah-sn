@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndichafara uye ndichikudaidzira mukudo muri imi; ndichoraira zita renyu, iwe Eriyonu.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Ndichafara"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "uye ndichikudaidzira mukudo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri imi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ndichoraira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita renyu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "iwe Eriyonu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:16.189168040Z",
+  "model": "glm-5.3"
+}

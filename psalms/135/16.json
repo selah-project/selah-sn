@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Zvine miromo asi hazvitaure; zvine maziso asi hazvioni.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "miromo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zvine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hazvi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "taure"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zvine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hazvi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:29.012086531Z",
+  "model": "glm-5.3"
+}

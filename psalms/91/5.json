@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Haungatye nyereko yerusiku, kana museve unobhururuka masikati,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "haungatye"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "haungatye"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "nyereko yeru-"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "rusiku"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "museve"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "unobhururuka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "masikati"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:09.426246278Z",
+  "model": "glm-5.3"
+}

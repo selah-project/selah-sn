@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye vatsigiri vevanhu ava vanorashikisa; navo vanotsigirwa navo vanomedzwa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "uye vaive"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "vatsigiri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vevanhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ava"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "vanorashikisa"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "navo vanotsigirwa navo"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "vanomedzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:53.915652874Z",
+  "model": "glm-5.3"
+}

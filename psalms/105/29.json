@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Akashandura ⟨את⟩ mvura yavo kuva ropa, nekufa kwehove dzavo.",
+  "tokens": [
+    {
+      "surface": "הָפַךְ",
+      "gloss": "Akashandura"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "mvura yavo"
+    },
+    {
+      "surface": "מֵימֵיהֶם",
+      "gloss": "mvura yavo"
+    },
+    {
+      "surface": "לְדָם",
+      "gloss": "kuva ropa"
+    },
+    {
+      "surface": "וַיָּמֶת",
+      "gloss": "nekufa kwe"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "hove dzavo"
+    },
+    {
+      "surface": "דְּגָתָם",
+      "gloss": "hove dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:53.514664968Z",
+  "model": "glm-5.3"
+}

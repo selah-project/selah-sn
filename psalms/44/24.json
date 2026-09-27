@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Mukande! Ndeupi hunhu hwako husingamuke? Adhonai, simbisa! Usatiturire kununga kwamadaro.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Mukande!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ndeupi hunhu"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "husingamuke"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adhonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "simbisa!"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "turire"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuunga kwamadaro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:11.257825272Z",
+  "model": "glm-5.3"
+}

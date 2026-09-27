@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye anorova babake kana amai vake, anofa zvirokwazvo afa.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "uye anorova"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "babake"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "kana amai vake"
+    },
+    {
+      "surface": "מות",
+      "gloss": "afa zvirokwazvo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:44.364937466Z",
+  "model": "glm-5.3"
+}

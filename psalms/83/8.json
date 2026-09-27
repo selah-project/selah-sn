@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Gebharu neAmonu neAmareki, Pureshitia pamwe nevagari veTsyora.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebharu"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "neAmonu"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "neAmareki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pureshitia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nevagari"
+    },
+    {
+      "surface": "צור",
+      "gloss": "veTsyora"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:05.654783286Z",
+  "model": "glm-5.3"
+}

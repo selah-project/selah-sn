@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 132,
+  "translation": "Ipapo ndichaita kuti nyanga yaDhavhidhi ichimera; ndakagadzikirira mwenje weMashiach wangu.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "ndichaita kuti ichimera"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "ndakagadzikirira"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "mwenje"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "weMashiach wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:45.730087985Z",
+  "model": "glm-5.3"
+}

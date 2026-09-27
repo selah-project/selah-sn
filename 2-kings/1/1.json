@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mouabhu akapandukira Isiraeri mushure mekufa kwaAhabhu.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "akapandukira"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mouabhu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:44.058150496Z",
+  "model": "glm-5.3"
+}

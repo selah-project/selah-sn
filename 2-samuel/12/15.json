@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Natani akaenda kumusha kwake, uye Yahwe akarwadzisa ⟨את⟩ mwana amuzvarirwa mukadzi waUriya kuna Dhabhidhi, ndokurwara akaoma.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "musha kwake"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "akarwadzisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "muzvarirwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi wa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuna Dhabhidhi"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "akaoma (urwara)"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:46.376797875Z",
+  "model": "glm-5.3"
+}

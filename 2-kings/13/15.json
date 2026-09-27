@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Eriisha akati kwaari: Torawo uta nemiseve. Uye akatora kwaari uta nemiseve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eriisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "torawo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "nemiseve"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "uye akatora"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "nemiseve"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:27.969014809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye kuna vaRubheni nekuna vaGadi ndakapa kubva muGireadi kusvika rwizi rweArnoni, pakati perwizi, nemuganhu; uye kusvika rwizi rweYabokhi, rwizi rwemuganhu wevana vaAmoni.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "kuna vaRubheni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "nekuna vaGadi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ndakapa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "muGireadi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "rwizi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "rweArnoni"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "perwizi"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "nemuganhu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "rweYabokhi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "rwizi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "vaAmoni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:09.828765882Z",
+  "model": "glm-5.3"
+}

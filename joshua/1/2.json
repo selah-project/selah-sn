@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Moshe mushandi wangu afira; zvino ranuka, uyie ⟨את⟩ Yorudhani uyu, iwe nevahuwe vehurumenyuu hunhu, kuenda munyika yandinopavadza kuvanhu, kuvakorona vaIsiraeri.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mushandi wangu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "afira"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ranuka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uyie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yorudhani uyu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yorudhani"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nevahuwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vehurumenyuu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hunhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yandinopavadza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndinopavadza"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ninopa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvakorona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:50.118965256Z",
+  "model": "glm-5.3"
+}

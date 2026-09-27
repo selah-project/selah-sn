@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 149,
+  "translation": "Kusunga madzimambo awo mutambo, nevakurumbidzwa wavo mudhachi dzerunga.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Kusunga"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "madzimambo awo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "mutambo"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "nevakurumbidzwa wawo"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "mudhachi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "dzerunga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:21:06.887026596Z",
+  "model": "glm-5.3"
+}

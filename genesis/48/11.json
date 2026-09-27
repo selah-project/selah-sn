@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Isiraeri akati kuna Yosefu: Kuona chiso chako handina kuzvitarisira, uye tarisa, Erohimu wakandiratidza ⟨את⟩ zvakare ⟨את⟩ mbeu yako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kuona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "kuzvitarisira"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye tarisa"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "wakandiratidza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iye ndiri (pachena: Erohimu wakandiratidza ini)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeu yako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbeu yako"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:55.063873605Z",
+  "model": "glm-5.3"
+}

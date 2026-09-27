@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zuva iro vanobva kuAshuru nemaguta eMatsofo vichauya kwauri; uye kubva kuMatsofo kusvika kunzou, uye kubva gungwa kune rimwe gungwa, uye kubva zuva kune rimwe zuva remakomo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vichauya"
+    },
+    {
+      "surface": "למני",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "kuAshuru"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "nemaguta"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "eMatsofo"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "uye kubva"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kuMatsofo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kunzou"
+    },
+    {
+      "surface": "וים",
+      "gloss": "uye kubva gungwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kune rimwe gungwa"
+    },
+    {
+      "surface": "והר",
+      "gloss": "uye kubva zuva"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kone rimwe zuva remakomo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:44:33.719652171Z",
+  "model": "glm-5.3"
+}

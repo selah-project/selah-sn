@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Ndakakupikisai ⟨את⟩ amadzimai eYerusharemu, nambiri dzesango kana mhofu dzesango: musamukidze, musamutsidza ⟨את⟩ rudo, kusvika richida.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ndakakupikisai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "amadzimai eYerusharemu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadzimai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharemu"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "nambiri dzesango"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "mhofu dzesango"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "desango"
+    },
+    {
+      "surface": "אם",
+      "gloss": "musamukidze"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "musamukidze"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "musamutsidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rudo"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "rudo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "richida"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:06.553022371Z",
+  "model": "glm-5.3"
+}

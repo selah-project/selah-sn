@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Uye vachaita ⟨את⟩ gwai, ⟨את⟩ inha, ⟨את⟩ mafuta mangwanani nomangwanani — chibairo chokudziyisa chokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "vachaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwai"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "gwai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "inha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "nomangwanani"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "chibairo chokudziyisa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "chokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:33:59.212370107Z",
+  "model": "glm-5.3"
+}

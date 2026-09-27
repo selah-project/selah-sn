@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Haasi here Karano seKarikemishi? Haasi here Chamati seArupadi? Haasi here Shomeroni seDhamasheki?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Haasi here"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "seKarikemishi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Karano"
+    },
+    {
+      "surface": "אם",
+      "gloss": "here"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haasi"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "seArupadi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamati"
+    },
+    {
+      "surface": "אם",
+      "gloss": "here"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haasi"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "seDhamasheki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:08.805717185Z",
+  "model": "glm-5.3"
+}

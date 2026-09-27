@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "nokusiyanisa pakati pechitsvene nepakati pechakajairika, uye pakati pechisina kuchena nepakati pechakachena;",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "nokusiyanisa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "chakajairika"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "uye pakati pe"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "chisina kuchena"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakati pe"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "chakachena"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:44.311145957Z",
+  "model": "glm-5.3"
+}

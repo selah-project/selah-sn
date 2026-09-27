@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye mafuta enhombo yemhuka yakafa yokega, uye mafuta enhombo yemhuka yakapurwa namhuka yemusango, anogonei kushandiswa pabasa ripi zvari; asi kudya hamudyi.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Uye mafuta enhombo"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "yemhuka yakafa yokega"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "uye mafuta enhombo"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "yemhuka yakapurwa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anogonei kushandiswa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pabasa ripi zvari"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "-mudyi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:41:09.468846378Z",
+  "model": "glm-5.3"
+}

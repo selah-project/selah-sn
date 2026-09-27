@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Iwe unochengeta kumushandi wako Dhavhidhi baba vangu ⟨את⟩ izvo waakataura kwaari; wakataura nomuromo wako, wakazadzisa nezanja rako, senhasi ino.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Iwe… izvo"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "unochengeta"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kumushandi wako"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo waakataura kwaari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "waakataura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "wakataura"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "nomuromo wako"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "nezanja rako"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "wakazadzisa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nhasi ino"
+    }
+  ],
+  "timestamp": "2026-09-27T10:31:16.724159018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 125,
+  "translation": "Nokuti tsvimbo yehuipi haigari panzvimbo yevatsvene, kuti vatsvene varege kurejesa mawanipo avo mhuipa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "-gari"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tsvimbo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yehuipi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "nzvimbo"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "yevatsvene"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "varege"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "kurejesa"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "vatsvene"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "mhuipa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "mawanipo avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:48.752578102Z",
+  "model": "glm-5.3"
+}

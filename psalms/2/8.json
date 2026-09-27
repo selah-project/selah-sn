@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Kumbira kwandiri, ndichakupa ⟨את⟩ marudzi okugara nhaka yako, uye matare avo okuchibata ako magumo enyika.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Kumbira"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ndichakupa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi",
+      "marks": "marudzi"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "nhaka yako"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "uye matare avo okuchibata ako"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "magomu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "enyika"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:14.253192276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Erohimu akati kunaBhiramu: Usafambe navo; usaverekedza ⟨את⟩ vanhu, nokuti vakapfuyiwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bhiramu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "fambe"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "verekedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "vakapfuyiwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-27T06:02:22.940581281Z",
+  "model": "glm-5.3"
+}

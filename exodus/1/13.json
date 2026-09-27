@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "VaMitsraimu vakashandisa ⟨את⟩ vana vaIsiraeri neshanda rakaoma.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "vakashandisa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vaMitsraimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsiraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "neshanda rakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:31.285404965Z",
+  "model": "glm-5.3"
+}

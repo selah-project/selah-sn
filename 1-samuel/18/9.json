@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Zvakaitika Saulu akatanga kuona ⟨את⟩ Dhavhidhi nebanga rimwe chete, kubva zuva iro nokuenderera mberi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "akatanga kuona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "kubva zuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "nokuenderera mberi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:16.801472572Z",
+  "model": "glm-5.3"
+}

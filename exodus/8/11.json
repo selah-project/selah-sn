@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Parho akaona kuti paine kupumhurwa, akaita kuti ⟨את⟩ moyo wake uome, uye haana kuvateerera, sokutaura kwaYahwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "paine"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "kupumhurwa"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "akaita kuti uome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuvateerera"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kwaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:03.908631502Z",
+  "model": "glm-5.3"
+}

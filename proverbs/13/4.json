@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mweya wehunya unoshuvira, asi hauna chinhu; asi mweya wevanoshanda nokukasira unokwegura.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "unoshuvira"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "asi hauna chinhu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mweya wehunya"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "wehunya"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "asi mweya"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "wevanoshanda nokukasira"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "unokwegura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:25:43.684299403Z",
+  "model": "glm-5.3"
+}

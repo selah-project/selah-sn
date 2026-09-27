@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Kutatarwa kwako kuchizivikanwa, nyadzi yako ichionekwa; ndichatora chivengo, uye handidavirira ⟨munhu⟩.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "kuchizivikanwa"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "kutatarwa kwako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ichionekwa"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "nyadzi yako"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "chivengo"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ndichatora"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye handi"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "-davirira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:43.598752432Z",
+  "model": "glm-5.3"
+}

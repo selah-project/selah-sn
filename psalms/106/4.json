@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Ndangaririni ini, Yahwe, pamwe nerunyararo rwevanhu vako; nditarireini ponzo yako yeponeka.",
+  "tokens": [
+    {
+      "surface": "זָכְרֵ֣נִי",
+      "gloss": "Ndangaririni ini"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בִּרְצ֣וֹן",
+      "gloss": "pamwe nerunyararo"
+    },
+    {
+      "surface": "עַמֶּ֑ךָ",
+      "gloss": "rwevanhu vako"
+    },
+    {
+      "surface": "פָּ֝קְדֵ֗נִי",
+      "gloss": "nditarireini"
+    },
+    {
+      "surface": "בִּישׁוּעָתֶֽךָ",
+      "gloss": "ponzo yako yeponeka"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:30.020513021Z",
+  "model": "glm-5.3"
+}

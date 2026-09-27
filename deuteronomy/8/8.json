@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Nyika yechiwere nebariri, yemukuyu nefichi nemugranate; nyika yeomuri mafuta ehon'uDzvinyu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Nyika"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "yechiwere"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "nebariri"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "yemukuyu"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "nefichi"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "nemugranate"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "זית",
+      "gloss": "yeomuri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nedzvinyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:42.899857695Z",
+  "model": "glm-5.3"
+}

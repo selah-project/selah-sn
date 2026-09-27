@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Ziso rangu rinopera simba nokuda kwedambudziko rangu; ndinokudana, Yahwe, zuva rimwe nerimwe; ndinotambanura mawoko angu kwauri.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ziso rangu"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "rinopera simba"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "dambudziko rangu"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ndinokudana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "rimwe ne"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ndinotambanura"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mawoko angu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:10.607414210Z",
+  "model": "glm-5.3"
+}

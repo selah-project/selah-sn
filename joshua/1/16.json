@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Vakaenda mhosvo ⟨את⟩ Yehoshua, vachiti: Zvose wakatirayira tichaita, uye kunzvimbo yose wakatitumira tichafamba.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Vakaenda mhosvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "wakatirayira"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tichaita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "wakatitumira"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tichafamba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:09.724180144Z",
+  "model": "glm-5.3"
+}

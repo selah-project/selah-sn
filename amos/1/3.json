@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvakadaro zvinoti Yahwe: Nokutemwa kwazvitatu kweDhamasheki, uye kwechina, handidzokorere; nokuti vakadzura ⟨את⟩ Giyeradi nezvimwe zvikwazo zvechitoro.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvinoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Nokutemwa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kwazvitatu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dhamasheki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye kwe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "china"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "dzokorere"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "vakadzura"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "nezvimwe zvikwazo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "zvechitoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giyeradi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giyeradi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:40:17.975317884Z",
+  "model": "glm-5.3"
+}

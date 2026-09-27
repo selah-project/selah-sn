@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Imi makandipindura ⟨את⟩ mokuti: Izwi rokuti kwakanaka raunotaura kuita.",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲנוּ",
+      "gloss": "makandipindura"
+    },
+    {
+      "surface": "אֹתִי",
+      "gloss": "⟨את⟩",
+      "marks": "kandipindura (ndiri"
+    },
+    {
+      "surface": "וַתֹּאמְרוּ",
+      "gloss": "mokuti"
+    },
+    {
+      "surface": "טוֹב",
+      "gloss": "kwakanaka"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": ""
+    },
+    {
+      "surface": "דִּבַּרְתָּ",
+      "gloss": "raunotaura"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "kuita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:32.307519706Z",
+  "model": "glm-5.3"
+}

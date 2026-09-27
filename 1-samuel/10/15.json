@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Dzibaba waShaure akati: Ndiudza, ndapota, izva akataura kwamuri Shamueeri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dzibaba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "waShaure"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ndiudza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izva"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamueeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:08.622750254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Kana munhu atadza, atinzwa izwi rechitsidzo, iye ari mubhiri — kana akaona kana kuziva — kana ⟨asazivisa⟩, anotakura mhosva yake.",
+  "tokens": [
+    {
+      "surface": "וְנֶ֣פֶשׁ",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "תֶחֱטָ֗א",
+      "gloss": "atadza"
+    },
+    {
+      "surface": "וְשָֽׁמְעָה֙",
+      "gloss": "atinzwa"
+    },
+    {
+      "surface": "ק֣וֹל",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אָלָ֔ה",
+      "gloss": "rechitsidzo"
+    },
+    {
+      "surface": "וְה֣וּא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "עֵ֔ד",
+      "gloss": "mubhiri"
+    },
+    {
+      "surface": "א֥וֹ",
+      "gloss": "kana"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "א֣וֹ",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ל֥וֹא",
+      "gloss": "sa-"
+    },
+    {
+      "surface": "יַגִּ֖יד",
+      "gloss": "⟨asazivisa⟩"
+    },
+    {
+      "surface": "וְנָשָׂ֥א",
+      "gloss": "anotakura"
+    },
+    {
+      "surface": "עֲוֺנֽוֹ",
+      "gloss": "mhosva yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:42.716170786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Idzi ndidzo dzinza dzaAharon neMoshe, nomusi waYahwe akataura ⟨את⟩ Moshe pagomo reSinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dzinza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "neMoshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nomusi wa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pagomo re"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:02.555753841Z",
+  "model": "glm-5.3"
+}

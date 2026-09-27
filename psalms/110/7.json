@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 110,
+  "translation": "Anonwa ⟨mvura⟩ yechitokisi munzira; naizvozvo achasimudza musoro.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "chitokisi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "anonwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na⟨zvozvo⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "achasimudza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:02.299233689Z",
+  "model": "glm-5.3"
+}

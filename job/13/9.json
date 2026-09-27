@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Kune zvakanaka here kuti iye anotsvagisisa ⟨את⟩ imi? Kana sokututwa kwomunhu, muchamututa iye?",
+  "tokens": [
+    {
+      "surface": "הֲטוֹב",
+      "gloss": "kune zvakanaka here"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "יַחְקֹר",
+      "gloss": "anotsvagisisa"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "כְּהָתֵל",
+      "gloss": "sokututwa"
+    },
+    {
+      "surface": "בְּאֱנוֹשׁ",
+      "gloss": "kwomunhu"
+    },
+    {
+      "surface": "תְּהָתֵלּוּ",
+      "gloss": "muchamututa"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:09.976934534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mugati musazivise, musachema; mumba yeAfura — muivhu munozvivhiringa ⟨mose⟩.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Mugati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "zivise"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "chema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "chema"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba ye"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Afura"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "muivhu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "munozvivhiringa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:25.887890529Z",
+  "model": "glm-5.3"
+}

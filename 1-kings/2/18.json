@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Bhati-Sheva akati: Zvakanaka; ndichataura pamusoro pako kumambo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bhati-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Zvakanaka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi-"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "-chataura"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pamusoro pako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:29.559635261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "nokuti Yahwe Erohimu venyu ndivo vanofamba newo, kurwa kwamuri nevavengi venyu, nokukununura ⟨את⟩ imi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu venyu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ndivo vanofamba"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "newo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vavengi venyu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "nokukununura"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "imi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:16:26.928616643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe Erohimu akasika nokuda kwAdhamu nomudzimai wake mhembwe dzehide, ndokuvashambadzira.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "akasika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "nokuda kwAdhamu"
+    },
+    {
+      "surface": "ו לאשתו",
+      "gloss": "nomudzimai wake"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "mhembwe"
+    },
+    {
+      "surface": "עור",
+      "gloss": "deh ide"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "ndokuvashambadzira"
+    }
+  ],
+  "timestamp": "2026-09-27T05:04:42.645962222Z",
+  "model": "glm-5.3"
+}

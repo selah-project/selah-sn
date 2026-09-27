@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 24:13",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Ivo vakange vari mune vakapikisa chiedza; havana kuziva nzira dzacho, uye havaigara panzira dzayo.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ivo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vakange vari"
+    },
+    {
+      "surface": "במרדי",
+      "gloss": "mune vakapikisa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "vana kuziva"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "nzira dzacho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye ha-"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vaigara"
+    },
+    {
+      "surface": "בנתיבתיו",
+      "gloss": "panzira dzayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:40:55.056415430Z",
+  "model": "glm-5.3"
+}

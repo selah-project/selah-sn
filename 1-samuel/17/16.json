@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Muchirungwa akaendera mberi, amangwana nemadokero, akamira achiita zvake makumi mana mazuva.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "akaendera mberi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Muchirungwa"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "amangwana"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "nemadokero"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "akamira achiita zvake"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:57:19.312435922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Ndipo mazuva nomwe akazadzikana, mushure meYahwe kurova ⟨את⟩ rwizi rweNairi.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "akazadzikana"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kurova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rwizi rweNairi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "rwizi rweNairi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:44.037515852Z",
+  "model": "glm-5.3"
+}

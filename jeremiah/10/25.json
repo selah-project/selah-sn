@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Churuka hasha dzako pamusoro pendudzi idzi dzisina kukuziva, uye pamusoro pemadzinza asina kudana zita rako; nokuti dzakadya ⟨את⟩ Jakobho, dzakamudya-mudya, dzakamupedza, uye ⟨את⟩ mugara wake dzakaita matombo.",
+  "tokens": [
+    {
+      "surface": "שְׁפֹ֣ךְ",
+      "gloss": "Churuka"
+    },
+    {
+      "surface": "חֲמָתְךָ֗",
+      "gloss": "hasha dzako"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הַגּוֹיִם֙",
+      "gloss": "ndudzi"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "יְדָע֔וּךָ",
+      "gloss": "dzisina kukuziva"
+    },
+    {
+      "surface": "וְעַל֙",
+      "gloss": "uye pamusoro pe"
+    },
+    {
+      "surface": "מִשְׁפָּח֔וֹת",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": ""
+    },
+    {
+      "surface": "בְּשִׁמְךָ֖",
+      "gloss": "nezita rako"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "קָרָ֑אוּ",
+      "gloss": "asina kudana"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אָכְל֣וּ",
+      "gloss": "dzakadya"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Jakobho"
+    },
+    {
+      "surface": "יַעֲקֹ֗ב",
+      "gloss": "Jakobho"
+    },
+    {
+      "surface": "וַאֲכָלֻ֨הוּ֙",
+      "gloss": "dzakamudya-mudya"
+    },
+    {
+      "surface": "וַיְכַלֻּ֔הוּ",
+      "gloss": "dzakamupedza"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mugara wake"
+    },
+    {
+      "surface": "נָוֵ֖הוּ",
+      "gloss": "mugara wake"
+    },
+    {
+      "surface": "הֵשַֽׁמּוּ",
+      "gloss": "dzakaita matombo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:54:07.690537205Z",
+  "model": "glm-5.3"
+}

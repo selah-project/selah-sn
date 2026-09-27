@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Chii chinowanikwa nomunhu mune chakaoma chake chose anoita pasi pezuva?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Chii"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "chinowanikwa"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "nomunhu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mune ... chose"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "chakaoma chake"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:15.039946250Z",
+  "model": "glm-5.3"
+}

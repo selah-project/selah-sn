@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 122,
+  "translation": "Ndeapo mashanga anokwira, mashanga maYah, umbowo kunaIsraeri, kukudza Zita raYahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Ndeapo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "anokwira"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "mashanga"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mashanga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "maYah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "umbowo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kunaIsraeri"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kukudza"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Zita ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:08.560350686Z",
+  "model": "glm-5.3"
+}

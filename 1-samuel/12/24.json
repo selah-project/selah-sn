@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Chete, ityai Yahwe, uye mu⟨אתו⟩ mushande muchecheradzo nemoyo yenyu yose; nokuti taonai ⟨את⟩ izvo zvakakuru akaita newenyu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Chete"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ityai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "uye muushande"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "muchecheradzo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne-…-ose"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "moyo yenyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "taonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo zvakakuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "zvakakuru"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "akaita newenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:13.333651971Z",
+  "model": "glm-5.3"
+}

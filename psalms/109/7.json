@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Paanoongororwa abude ari muipi, uye munamato wake uve chitadzo.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Paanoongororwa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abude"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ari muipi"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "uye munamato wake"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uve"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "chitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:39.522130373Z",
+  "model": "glm-5.3"
+}

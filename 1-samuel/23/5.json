@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Dhavhidhi nemabhuru ake akaenda Kirhiya, akarwa neFirishitia, akatungamidza ⟨את⟩ zvipfuo zvavo, akavaroa rokurova gukuru, Dhavhidhi akaponesa ⟨את⟩ vagari veKirhiya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "nemabhuru ake"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kirhiya"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "akarwa"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "neFirishitia"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "akatungamidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfuo zvavo"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "zvipfuo zvavo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akavaroa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "avo"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "rokurova"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gukuru"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "akaponesa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vagari veKirhiya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "veKirhiya"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:41.304571496Z",
+  "model": "glm-5.3"
+}

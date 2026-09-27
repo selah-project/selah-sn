@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Munhu mumwe akaona, akaudza Jowabhu, akati: Ona, ndakaona ⟨את⟩ Abhusharomu akasungwa mukwenje.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Jowabhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhusharomu"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abhusharomu"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "akasungwa"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "mukwenje"
+    }
+  ],
+  "timestamp": "2026-09-27T07:00:49.068801358Z",
+  "model": "glm-5.3"
+}

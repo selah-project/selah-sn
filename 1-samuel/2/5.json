@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Vakaguta vakazvitengesa chingwa, uye vanenzara vakaramba kushomeka; kusvara mhando yebereka yakazvara nomwe, uye yaiva nevana vakawanda yave murema.",
+  "tokens": [
+    {
+      "surface": "שְׂבֵעִ֤ים",
+      "gloss": "vakaguta"
+    },
+    {
+      "surface": "בַּלֶּ֨חֶם֙",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "נִשְׂכָּ֔רוּ",
+      "gloss": "vakazvitengesa"
+    },
+    {
+      "surface": "וּרְעֵבִ֖ים",
+      "gloss": "vanenzara"
+    },
+    {
+      "surface": "חָדֵ֑לּוּ",
+      "gloss": "vakaramba kushomeka"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvara"
+    },
+    {
+      "surface": "עֲקָרָה֙",
+      "gloss": "mhando yebereka"
+    },
+    {
+      "surface": "יָלְדָ֣ה",
+      "gloss": "yakazvara"
+    },
+    {
+      "surface": "שִׁבְעָ֔ה",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "וְרַבַּ֥ת",
+      "gloss": "yaiva nevakawanda"
+    },
+    {
+      "surface": "בָּנִ֖ים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אֻמְלָֽלָה",
+      "gloss": "yave murema"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:26.724496182Z",
+  "model": "glm-5.3"
+}

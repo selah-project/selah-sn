@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Shauri akatuma vatumwa kuti vatore ⟨את⟩ Dhavhidi, uye iye akati: Ane chirwere.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauri"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "vatumwa"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kuti vatore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhavhidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "uye iye akati"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ane chirwere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:49.574299006Z",
+  "model": "glm-5.3"
+}

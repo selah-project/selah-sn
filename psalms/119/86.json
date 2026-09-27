@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Mirairo yako yose ⟨iri⟩ rutendo; nenyepi vandakatevera — ndibatsira.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Mirairo yako"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "rutendo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nenyepi"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "vandakatevera"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ndibatsira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:54.055189747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Hwayi rakanaka zvachose, chirume, chegore rimwe, chichiva chenyu; kubva mumakwayi kana mumbudzi muchitora.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "Hwayi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "rakanaka zvachose"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "chirume"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨che⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "gore rimwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "chichiva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "chenyu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mumakwayi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kana kubva"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mumbudzi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "muchitora"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:01.013784635Z",
+  "model": "glm-5.3"
+}

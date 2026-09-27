@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Iye zvino, huya; nyora izvi patafura ⟨את⟩ muwanikwa hwavo, uye mubhuku tsanangura; zvichave nezuro romugumisiro, semhaka yokusingaperi kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Iye zvino"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "huya"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "nyora izvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ muwanikwa hwavo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye mu-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bhuku"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "tsanangura (kuchera mazwi)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "zvichave"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "nezuro"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "romugumisiro"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "semhaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:30.607340047Z",
+  "model": "glm-5.3"
+}

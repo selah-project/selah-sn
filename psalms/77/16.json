@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 77,
+  "translation": "Wakadzikinura ⟨את⟩ vanhu vako noruwoko, vana vaYakobho naYosefu. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Wakadzikinura"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "noruwoko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "vaYakobho"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "naYosefu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:04.519646958Z",
+  "model": "glm-5.3"
+}

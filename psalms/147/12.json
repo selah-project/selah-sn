@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Rumbidza ⟨את⟩ Yahwe, iwe Yerusharema; tumidza Erohimu wako, iwe Ziyoni.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Rumbidza"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Tumidza"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:39.832315057Z",
+  "model": "glm-5.3"
+}

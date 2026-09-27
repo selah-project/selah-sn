@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndiratidzira nzira yezvitsidzo zvako, nokuti ndinofarira zviri mazvo.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Ndiratidzira"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "yezvitsidzo zvako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mazvo"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ndinofarira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:08.566612711Z",
+  "model": "glm-5.3"
+}

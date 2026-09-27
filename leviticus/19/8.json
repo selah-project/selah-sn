@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye wadyiwayo achatorenhera mhosva yake, nokuti akadavura ⟨את⟩ chitsvene chaYahwe; uye mweya uyo uchadzikiswa kuburikidza nevahuwe vavo.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "uye wadyiwayo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "mhosva yake"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "achatorenhera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chitsvene chaYahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "akadavura"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "uchadzikiswa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "mweya uyo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "kuburikidza nevahuwe vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:34.557401773Z",
+  "model": "glm-5.3"
+}

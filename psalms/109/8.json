@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Mazuva ake ave mashoma, uye mumwe atore chigaro chake.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ave"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "Mazuva ake"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mashoma"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "chigaro chake"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "atore"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mumwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:39.522290951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 19:14",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Yowabhu nemauto ari naye akaenderera mberi kuhondo yokurwisana naAramu; uye (Aramu) vakatiza pachiso pake.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "akaenderera mberi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "nemauto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kuhondo"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pachiso pake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:05.414970365Z",
+  "model": "glm-5.3"
+}

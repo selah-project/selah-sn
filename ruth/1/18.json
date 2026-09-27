@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Naomini akaona kuti iye aive akasimba mwoyo kuenda ⟨את⟩ naye, nokuti akamira kutaura ⟨kwaari⟩.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "aive akasimba mwoyo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "naye (Ruti naNaomini pamwe chete)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kutaura"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "⟨kwaari⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:49:39.731171788Z",
+  "model": "glm-5.3"
+}

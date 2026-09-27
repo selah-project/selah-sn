@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Mamisha e⟨the⟩ pasi, imwi muchiimba kunaErohimu; imwi muchiridza zvitema kunaAdonai. Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "mamisha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imwi muchiimba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kunaErohimu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imwi muchiridza zvitema"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:47.022777608Z",
+  "model": "glm-5.3"
+}

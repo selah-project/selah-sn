@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akanoburitsa kuwanda kwe nzvimbo; anondinunura, nokuti anondifarira.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "akanoburitsa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "kuwanda kwe nzvimbo"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "anondinunura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "anondifarira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iri muriwo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:01.032945489Z",
+  "model": "glm-5.3"
+}

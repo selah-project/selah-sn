@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Kubva kunzwi wemufembero wangu, mapfupa angu ananamatira kunyama yangu.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "kubva kunzwi"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "wemufembero wangu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ananamatira"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mapfupa angu"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "kunyama yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:02.946434187Z",
+  "model": "glm-5.3"
+}

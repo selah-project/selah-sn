@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Umambo hweYerusharema, motsi; umambo hweChebhironu, motsi;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "hweYerusharema"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "motsi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umambo"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "hweChebhironu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "motsi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:20.726320211Z",
+  "model": "glm-5.3"
+}

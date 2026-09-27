@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye ⟨iye⟩ akabvisa ⟨את⟩ chifukidzo cheYudha; iwe wakatarisa, nezuva iro, kunhuva zvikweso zveImba yeSango.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chifukidzo cheYudha"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chifukidzo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "cheYudha"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "iwe wakatarisa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nezuva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunhuva"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "zvikweso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Imba"
+    },
+    {
+      "surface": "היער",
+      "gloss": "yeSango"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:27.985809573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Uye Isiraeri akati kuna Yosefe: Ona, ini ndiri kufa, uye Erohimu achave nemi, uye achadzosera ⟨את⟩ imi kunyika yamadzibaba enyu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ndiri kufa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uyeachave"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "achadzosera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "yamadzibaba enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:23.267665160Z",
+  "model": "glm-5.3"
+}

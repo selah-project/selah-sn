@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino zvakaitika, Mushure pokufa kwaAhabhu, mambo weMoabhu akapanduka pa mambo weIzirayeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "pokufa kwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabhu"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "akapanduka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo we"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabhu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "pa mambo we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izirayeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:31.758511035Z",
+  "model": "glm-5.3"
+}

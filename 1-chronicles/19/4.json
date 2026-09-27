@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Ndipo Hanunu akatora ⟨את⟩ vashandi vaDhavhidhi, akavhora, akadimbira ⟨את⟩ hembe dzavo pakati kusvika pamusana, ndokuvasunungura.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vashandi vaDhavhidhi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "vashandi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "vaDhavhidhi"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "akavhora"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "akadimbira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hembe dzavo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "hembe dzavo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "pamusana"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ndokuvasunungura"
+    }
+  ],
+  "timestamp": "2026-09-27T11:23:24.800134806Z",
+  "model": "glm-5.3"
+}

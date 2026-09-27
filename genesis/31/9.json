@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Naizvozvo Erohimu akabvisa ⟨את⟩ zvipfuwo zvaibaba venyu, akazvipa iini.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfuwo zvaibaba venyu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "zvipfuwo"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba venyu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iini"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:48.989317734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Akati kwaari: Iwe unoziva ⟨את⟩ izvo ndakushandira, ne⟨את⟩ izvo zvakange zviri zvizvarwa zvako pari ⟨את⟩ neni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvo ndakushandira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ndakushandira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "izvo zvakange zviri zvizvarwa zvako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvakange zviri"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "zvizvarwa zvako"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ neni"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:32.535869357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Maziso ose anomataridza kuna iwe, uye iwe unopa kvavari ⟨את⟩ chokudya chavo panguva yayo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Maziso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuna iwe"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "anomataridza"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "uye iwe"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "unopa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kvavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chokudya chavo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chokudya chavo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "panguva yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.571223843Z",
+  "model": "glm-5.3"
+}

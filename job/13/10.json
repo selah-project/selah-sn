@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Iye achakuripira zvokwadi ⟨את⟩ imi, kana muri kutora chiso muchivanzira.",
+  "tokens": [
+    {
+      "surface": "הוֹכֵחַ",
+      "gloss": "achakuripira"
+    },
+    {
+      "surface": "יוֹכִיחַ",
+      "gloss": "zvokwadi"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בַּסֵּתֶר",
+      "gloss": "muchivanzira"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "תִּשָּׂאוּן",
+      "gloss": "muri kutora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:09.977166356Z",
+  "model": "glm-5.3"
+}

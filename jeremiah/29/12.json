@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye muchandishevedza ⟨את⟩ ini, muchafamba mokanamata kwandiri, uye ndichateerera kwamuri.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "muchandishevedza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "muchafamba"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "mokanamata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "ndichateerera"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:02:30.750312556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uyezve Yahwe Erohimu wako achatumira ⟨את⟩ nyuchi yemusango kwavari, kusvika vaparadzwa vasara nevavanzirwa pachiso pako.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Uyezve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyuchi yemusango"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nyuchi yemusango"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "achatumira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "vaparadzwa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "vasara"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "nevavanzirwa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pachiso pako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:11.649314815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Uye vanhu vakapokana naMozhe, vachiti: Munopa ini mvura ndinwe. Uye Mozhe akavati: Chii chamunopokana neni nacho? Chii chamunoyedza ⟨את⟩ Yahwe nacho?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "vakapokana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "munopa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ndinwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akavati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "chamunopokana"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "chamunoyedza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:56.137281721Z",
+  "model": "glm-5.3"
+}

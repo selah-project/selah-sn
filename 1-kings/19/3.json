@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Akaona izvi, akamuka, akaenda nokuda kwehupenyu hwake, akasvika muBheri-Shebha iri muYudha, uye akasiya ipapo ⟨את⟩ mukomana wake.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona izvi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kwehupenyu hwake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akasvika"
+    },
+    {
+      "surface": "באר",
+      "gloss": "muBheri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Shebha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "muYudha"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "akasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukomana wake"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "mukomana wake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:59.200594920Z",
+  "model": "glm-5.3"
+}

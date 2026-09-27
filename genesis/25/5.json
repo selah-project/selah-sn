@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye Abhurahama akapa ⟨את⟩ zvose zvaiva zvake kuna Isaka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvaiva zvake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaiva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zvake"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kuna Isaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:00.968180950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Adonai akamuka sesingapore, segomana rinodanidza nokuda kwemukuyi wa<strong><\/strong>waini.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "sesingapore"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "segomana"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "rinodanidza"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "nokuda kwemukuyi wawaini"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:47.797235165Z",
+  "model": "glm-5.3"
+}

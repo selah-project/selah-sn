@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Asi vanhu vangu havanzvere izwi rangu; uye Israeri haana kundizvivira.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Asi ... ava"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nzvere"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "izwi rangu"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "uye Israeri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kundizvivira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:58.729264895Z",
+  "model": "glm-5.3"
+}

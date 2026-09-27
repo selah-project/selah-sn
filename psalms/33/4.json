@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Nokuti shoko raYahwe rakatwasuka; uye mabasa ake ose ⟨ari⟩ muchokwadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "rakatwasuka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye … ose"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "mabasa ake"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "muchokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:20.839519593Z",
+  "model": "glm-5.3"
+}

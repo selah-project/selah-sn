@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 118,
+  "translation": "Iri ndiro zuva Yahwe rakasika; ngotidzare uye tifare mularo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Iri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ndiro zuva"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rakasika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "ngotidzare"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "tifare"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mularo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:47.862792455Z",
+  "model": "glm-5.3"
+}

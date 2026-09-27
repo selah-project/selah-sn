@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akati kundiri: Kurongana kwakaipa kwakawanikwa muvanhu veYudha nokuvagari veYerusharemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kwakawanikwa"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kurongana kwakaipa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "muvanhu ve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "nokuvagari ve"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusharemu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:54:56.784091033Z",
+  "model": "glm-5.3"
+}

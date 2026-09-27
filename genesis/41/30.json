@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Uye makore nomwe enzara achamuka mushure mazvo, nyika yaMitsrayimu ichakanganwa matero ose; uye nzara ichapedza ⟨את⟩ nyika.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "achamuka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nomwe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "makore"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "enzara"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "mushure mazvo"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "ichakanganwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "matero"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaMitsrayimu"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ichapedza"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:51.250933765Z",
+  "model": "glm-5.3"
+}

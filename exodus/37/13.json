@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Akanyungudutsira iro zviringo zvina zvendarama, akaisa ⟨את⟩ zviringo pamativi mana ari pamatsoka mana aro.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "akanyungudutsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iro"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "zvina"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "zviringo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zviringo"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "zviringo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "mativi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "matsoka aro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:27.038560030Z",
+  "model": "glm-5.3"
+}

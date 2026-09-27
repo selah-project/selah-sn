@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Yahwe akaropafadza ⟨את⟩ magumo eAyiyobhu kupfuira kutanga kwake; uye zvaive zvake zviuru zvigumi nenna zvemakwai, nezviuru zvitatanhatu zvingamira, nechuru chemapato emombe, nechuru chedhongi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akaropafadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magumo eAyiyobhu"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "magumo"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "eAyiyobhu"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "kupfuira kutanga kwake"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zvake"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nenna"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zvigumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "vemakwai"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "nezviuru zvitatanhatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zviuru zvitatanhatu"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "zvingamira"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "nechuru"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "chemapato"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "emombe"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "nechuru"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "chedhongi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:46:53.862354470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 107,
+  "translation": "Anochekerera kuremekedzwa-hapana pamusoro pemadzimambo, uye anosvitsa kuti zvakarasika muzvinhambo isina nzira.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "anochekerera"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "kuremekedzwa-hapana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "anosvitsa kuti zvakarasika"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "muzvinhambo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isina"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:12.203112899Z",
+  "model": "glm-5.3"
+}

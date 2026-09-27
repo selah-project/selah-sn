@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Iye achandidana kuti: Ndinobva kwababa vangu, Er wangu, namatombo eponyo yangu.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Iye"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "achandidana"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "NDinobva kwa⟨iwe⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Er wangu"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "namatombo"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "eponyo yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:50.799828979Z",
+  "model": "glm-5.3"
+}

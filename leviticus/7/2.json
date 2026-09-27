@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Panzvimbo ipi zvavo vanouraya ⟨את⟩ chipiriso chokupisa, ipapo vanouraya ⟨את⟩ ashamu; uye ⟨את⟩ ropa rwacho vanopararira pamusoro pealtari kuitira kureba kwose.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Panzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ipi zvavo"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "vanouraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipiriso chokupisa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "chipiriso chokupisa"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ipapo vanouraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashamu"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ashamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "ropa rwacho"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ropa rwacho"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "vanopararira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kuitira kureba kwose"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:40.685679234Z",
+  "model": "glm-5.3"
+}

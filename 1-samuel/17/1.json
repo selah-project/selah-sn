@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "VaFirishtim vakaunganidza ⟨את⟩ matere avo ehondo, vakawunganidzwa kuSokoh iri muYehudha, uye vakagarira pakati peSokoh neAzeka, kuEfesi-Damimi.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "vakaunganidza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "VaFirishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matere avo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "matere avo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ehondo"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "vakawunganidzwa"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "muYehudha"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "vakagarira"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "kuEfesi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damimi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:24.110626915Z",
+  "model": "glm-5.3"
+}

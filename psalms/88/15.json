@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Nei Yahwe urikundirasa mweya wangu, uvabvisa chiso chako kubva kwandiri?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "urikundirasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "uvabvisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:15.741725434Z",
+  "model": "glm-5.3"
+}

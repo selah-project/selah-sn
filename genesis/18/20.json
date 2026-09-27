@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yahwe akati: Kuchema kweSodhoma neGomora kwakawanda, nehutadzi hwavo hwakarema zvakaoma.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זַעֲקַ֛ת",
+      "gloss": "Kuchema"
+    },
+    {
+      "surface": "סְדֹ֥ם",
+      "gloss": "kweSodhoma"
+    },
+    {
+      "surface": "וַעֲמֹרָ֖ה",
+      "gloss": "neGomora"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "kwakawanda-sokuti"
+    },
+    {
+      "surface": "רָבָּ֑ה",
+      "gloss": "kwakawanda"
+    },
+    {
+      "surface": "וְחַטָּאתָ֥ם",
+      "gloss": "nehutadzi hwavo"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "sokuti"
+    },
+    {
+      "surface": "כָבְדָ֖ה",
+      "gloss": "hwakarema"
+    },
+    {
+      "surface": "מְאֹֽד",
+      "gloss": "zvakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T05:09:06.932238112Z",
+  "model": "glm-5.3"
+}

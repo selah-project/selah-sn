@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Usavenga ⟨את⟩ mukoma wako mumwoyo yako; zvirokwazvo unokurudza ⟨את⟩ shamwari yako wemumwe, uye usatakurire paano chitadzo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "-venga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wako"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mukoma wako"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "mumwoyo yako"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "unokurudza"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "zvirokwazvo unokurudza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamwari yako wemumwe"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "shamwari yako wemumwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye usa-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "-takurira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paano"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "chitadzo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:00.661953101Z",
+  "model": "glm-5.3"
+}

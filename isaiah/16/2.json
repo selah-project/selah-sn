@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Zvino zvichaita sevayiri rinotambanuka, sedende rakasiyirwa: vanasikana vevuMoabu vachave panzvimbo dzokuyambuka dzeArnoni.",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֥ה",
+      "gloss": "zvichaita"
+    },
+    {
+      "surface": "כְעוֹף",
+      "gloss": "sevayiri"
+    },
+    {
+      "surface": "נוֹדֵ֖ד",
+      "gloss": "rinotambanuka"
+    },
+    {
+      "surface": "קֵ֣ן",
+      "gloss": "sedende"
+    },
+    {
+      "surface": "מְשֻׁלָּ֑ח",
+      "gloss": "rakasiyirwa"
+    },
+    {
+      "surface": "תִּֽהְיֶ֨ינָה֙",
+      "gloss": "vachave"
+    },
+    {
+      "surface": "בְּנ֣וֹת",
+      "gloss": "vanasikana"
+    },
+    {
+      "surface": "מוֹאָ֔ב",
+      "gloss": "vevuMoabu"
+    },
+    {
+      "surface": "מַעְבָּרֹ֖ת",
+      "gloss": "nzvimbo dzokuyambuka"
+    },
+    {
+      "surface": "לְאַרְנֽוֹן",
+      "gloss": "dzeArnoni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:01.797594532Z",
+  "model": "glm-5.3"
+}

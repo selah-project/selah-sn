@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Kutya nokugwedezeka kwakauya mukati mangu, uye chityiso chinofukidza ini.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "nokugwedezeka"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kwakauya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mukati mangu"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "chinofukidza ini"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "chityiso"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:51.412167954Z",
+  "model": "glm-5.3"
+}

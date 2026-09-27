@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye ⟨את⟩ Aharoni ne⟨את⟩ vana vake uchazodza nomafuta, uchavatsetsvenesa ⟨את⟩ kuita vapristi vangu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "uchazodza nomafuta"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uchavatsetsvenesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni nevana vake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kuita vapristi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:28.028679782Z",
+  "model": "glm-5.3"
+}

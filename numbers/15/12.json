@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Senzamba yamuchagadzira, saizvozvo muchaita imwe neimwe senzamba yavo.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "senzamba ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muchagadzira"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muchaita"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "imwe neimwe"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "senzamba yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:59:59.085687225Z",
+  "model": "glm-5.3"
+}

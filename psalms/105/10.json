@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "akaichengeta ichimira somutemo kuna Yakobo, sungano isingaperi kuna Israeri.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "akaimisa iyoyo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kuna Yakobo"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "somutemo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuna Israeri"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "isingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:19.917522867Z",
+  "model": "glm-5.3"
+}

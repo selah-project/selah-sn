@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Muchapwanywa zvekare nei? Muchawedzera kutembuka! Musoro wose une hurwere, uye moyo wose une utini.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "muchapwanywa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvekare"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "muchawedzera"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "kutembuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "une hurwere"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye wose"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "une utini"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:43.086429005Z",
+  "model": "glm-5.3"
+}

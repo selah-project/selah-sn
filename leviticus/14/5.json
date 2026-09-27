@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye mukoheni acharayira, uye achabhinya ⟨את⟩ shiri imwe muchirongo chemitsipa, pamusoro pemvura yemupenyu.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "acharayira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mukoheni"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "achabhinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shiri imwe"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "chirongo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "chemitsipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yemupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:46:30.483458279Z",
+  "model": "glm-5.3"
+}

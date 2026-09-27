@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 101,
+  "translation": "Ndichaziva nzira yechitendero. Munguva upi muchauya kwandiri? Ndichafamba muchitendero chemoyo wangu, munzira yemba yangu.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "ndichaziva"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "munzira"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yechitendero"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "munguva upi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "muchauya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ndichafamba"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "muchitendero"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "chemoyo wangu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "munzira yemukati"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "yemba yangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:48.201540900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye rwizi runobuda muEdheni runodiridza ⟨את⟩ munda; uye kubva ipapo runopatsanurwa, uye runova misoro ina.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "uye rwizi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "runobuda"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "muEdheni"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "runodiridza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munda"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "munda"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "uye kubva ipapo"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "runopatsanurwa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uye runova"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "misoro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:51.095386736Z",
+  "model": "glm-5.3"
+}

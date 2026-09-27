@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Munhu asina knoujerwe haazivi, uye kupfuma hakuzive izvi ⟨את⟩ zvinhu izvi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "asina uzivi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zivi"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "uye wakapfuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "zive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinhu izvi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:28.885328326Z",
+  "model": "glm-5.3"
+}

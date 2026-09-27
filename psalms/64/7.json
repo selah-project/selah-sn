@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Vanotsvaga zvakaipa; ⟨takapedza⟩ tsvagiro yakasimba; mukati wemunhu newomwoyo ndiwo dzidzima.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "Vanotsvaga"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "takapedza"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "tsvagiro"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "yakasimba"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "newomukati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemunhu"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "newomwoyo"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dzidzima"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:13.952386662Z",
+  "model": "glm-5.3"
+}

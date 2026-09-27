@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Nokuti mambo anovimbira munaYahwe, uye muhesedhi weEriyoni haazombonhunga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "anovimbira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "munaYahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "uye muhesedhi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "weEriyoni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zombonhunga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:39.548410744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Kureba kwetanda rimwe ne rimwe kwakanga kuri maamha gumi, uye upamhi hwetanda rimwe ne rimwe maamha nechidimbu.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kwetanda"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "maamha"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nechidimbu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "weamha"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upamhi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "hwetanda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe ne rimwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:18.171606830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uye unofanira kufukidza ⟨את⟩ Aharoni nebhandi reutsvene, uye unaomaradza ⟨את⟩ iye, uye unomutsveneza ⟨את⟩ iye, kuti apfugamire iwe.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "unofanira kufukidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bhandi reutsvene"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bhandi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "reutsvene"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "unaomaradza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "unomutsveneza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iye",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "apfugamire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:17.560265365Z",
+  "model": "glm-5.3"
+}

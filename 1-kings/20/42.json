@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Akati kwaari: Zvakadaro zvitaurwa naYahwe: Nokuti wakasiya ⟨את⟩ murume wangu wakazarirwa kuparadzwa kubva mumaoko ako, uye upenyu hwako huchava pachinzvimvo cheupenyu hwake, uye vanhu vako pachinzvimvo chevanhu vake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvitaurwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "wakasiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murume"
+    },
+    {
+      "surface": "איש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "wangu wakazarirwa kuparadzwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko ako"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "uchava"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "upenyu hwako"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimvo che"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "upenyu hwake"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimvo che"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:33.444283644Z",
+  "model": "glm-5.3"
+}

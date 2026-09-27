@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Uye akamuka usiku uwo, akatora ⟨את⟩ vakadzi vake vaviri, ne⟨את⟩ vanhandara vake vaviri, ne⟨את⟩ vana vake gumi nemotsi, akapfuura ⟨את⟩ kupfuura kweYabhokho.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akamuka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakadzi vake vaviri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vakadzi vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vanhandara vake vaviri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "vanhandara vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake gumi nemotsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "motsi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "akapfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kupfuura kweYabhokho"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kupfuura"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabhokho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:15:21.262456198Z",
+  "model": "glm-5.3"
+}

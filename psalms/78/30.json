@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Havana kudzikama kubva paChido chavo; chokudya chiri mukanwa avo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Havana"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "kudzikama kubva"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "paChido chavo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chiri"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "chokudya"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mukanwa avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:48.129293220Z",
+  "model": "glm-5.3"
+}

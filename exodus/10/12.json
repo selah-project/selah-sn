@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Yahwe akati kuna Moshe: Simudza ruoko rwako pamusoro penyika yeMitsirayi, nokuda kwemhashu; uye zvikwire pamusoro penyika yeMitsirayi, zvidye ⟨את⟩ uswa hwose hwenyika, ⟨את⟩ zvose zvazvakasiya chando.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Simudza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsirayi"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "nokuda kwemhashu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "zvikwire"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsirayi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "zvidye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uswa hwose hwenyika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hwose"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hwenyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose zvazvakasiya chando"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "zvakasiya"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "chando"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:59.475006855Z",
+  "model": "glm-5.3"
+}

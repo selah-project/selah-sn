@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Iye akatora ⟨את⟩ dishi, ndokudururira pamberi pake; asi iye akarama kudya. Zvino Amhnon akati: “Bvisai munhu wega wega kundiri”; ndokubuda munhu wega wega kwaari.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dishi"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "dishi"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "akadururira"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pamberi pake"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "akarama"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amhnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Bvisai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wega"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "akabuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wega"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:02.632942538Z",
+  "model": "glm-5.3"
+}

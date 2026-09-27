@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "⟨את⟩ izwi rose ndanda ndinokurayira ⟨את⟩ amuri, ⟨אתו⟩ ngarichengetwe nokuita; musawedzera pamusoro paro, u kwete kudzikisa kubva maro.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi rose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndanda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ amuri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "izwi rose"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ngarichengetwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nokuita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "musawedzera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u kwete"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "kudzikisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva maro"
+    }
+  ],
+  "timestamp": "2026-09-27T06:14:34.016048257Z",
+  "model": "glm-5.3"
+}

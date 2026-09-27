@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Shomanana ndichamugara kubva pachiso pako, kusvika waunganirwa, uye wagaranhaka ⟨את⟩ nyika.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "shoma"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "nana"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ndichamugara"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kubva pachiso pako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waunganirwa"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "waunganirwa"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "wagaranhaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:52.339504042Z",
+  "model": "glm-5.3"
+}

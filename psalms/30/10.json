@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Chii chawandira mubayangu ra ropa rangu, pandinodzikera kundove? Nzvimbo yedhata ichakutendira here? Ngave achazivisa here chokwadi chako?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Chii"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "chawandira"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "mubayangu ra ropa rangu"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "pandinodzikera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "kundove"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ichakutendira here? Ngave achazivisa here"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Nzvimbo yedhata"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "achazivisa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "chokwadi chako"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:23.189720935Z",
+  "model": "glm-5.3"
+}

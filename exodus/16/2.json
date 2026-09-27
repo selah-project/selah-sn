@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Sangano rose revana vaIsirayeri rakapopota paMoshe nepaAharoni mugowani.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "rakapopota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "sangano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "revana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsirayeri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugowani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:32.642460291Z",
+  "model": "glm-5.3"
+}

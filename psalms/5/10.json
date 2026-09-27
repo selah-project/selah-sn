@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti hapana chokuvimbika mukanwa mavo; mukati mavo ⟨mariro⟩; huro yavo ⟨iri⟩ guva rakavhurika; nenzurukutu rurimi ravo vanonyangadza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "mukanwa mavo"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "chokuvimbika"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "mukati mavo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mariro"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "guva"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "rakavhurika"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "huro yavo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rurimi ravo"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "vanonyangadza"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:03.019462741Z",
+  "model": "glm-5.3"
+}

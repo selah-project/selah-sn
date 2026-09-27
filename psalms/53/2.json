@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 53,
+  "translation": "Chitsinga chakati mumwoyo wake: “Hapana Erohimu.” Vakaora, vakaita mabasa akaipa; hapana anochaita zvakanaka.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "chakati"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "chitsinga"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "mumwoyo wake"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "vakaora"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mabasa akaipa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anochaita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:30.998253944Z",
+  "model": "glm-5.3"
+}

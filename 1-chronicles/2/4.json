@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Tamari, muroora wake, akazvarira iye ⟨את⟩ Peretse na⟨את⟩ Zerahi; vana vaYehudha vose ndiva vashanu.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Tamari"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "muroora wake"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "akazvarira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretse"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Zerahi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "vaYehudha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vashanu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:15.773256755Z",
+  "model": "glm-5.3"
+}

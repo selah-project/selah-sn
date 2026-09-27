@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Teerai zvino izwi raYahwe rikuti: Simuka, ita dandaro newomakomo, uye ngamakomo oteerera inzwi rako.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Teerai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izwi⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rikuti"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ita dandaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "newo⟨את⟩",
+      "marks": "makomo"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "uye ngaoteerera"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "inzwi rako"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:06.869707090Z",
+  "model": "glm-5.3"
+}

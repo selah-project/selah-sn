@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Akatonga ⟨את⟩ Isiraeri makumi maviri nemakumi matatu emakore, akafa, okuvigwa munaShamiri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "makumi maviri"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "nemakumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akafa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "okuvigwa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "munaShamiri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:36:15.321462880Z",
+  "model": "glm-5.3"
+}

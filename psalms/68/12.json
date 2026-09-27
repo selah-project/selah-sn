@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Adonai anopa shoko; vazhinji vachizivisa nhau ndivo mauto mazhinji.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anopa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "shoko"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "vazhinji vachizivisa nhau"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mauto"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mazhinji"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:37.370518890Z",
+  "model": "glm-5.3"
+}

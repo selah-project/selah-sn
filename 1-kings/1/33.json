@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 1:33",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mambo akati kwavatori: Torai nemi varanda venhasi wenyu, uye mukakwirisa ⟨את⟩ Shoromoni mwanakomana wangu pabhurumanga riro randinazvo, uye mukamudzikisa kuGihoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavatori"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Torai"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda venhasi wenyu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "venhasi wenyu"
+    },
+    {
+      "surface": "וירכבתם",
+      "gloss": "mukakwirisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shoromoni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanakomana wangu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הפרדה",
+      "gloss": "bhurumanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "riro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "randinazvo"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "mukamudzikisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "Gihoni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:06:38.069525115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "Kubva mukunyengedza nokurwisa achadzikinura ⟨את⟩ mweya yavo, uye ropa rwavo ruchave chuma chinokosheswa mukati memaiso ake.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "kubva mukati"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "nokurwisa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "achadzikinura"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mweya yavo"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "uye ruchave chuma"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ropa rwavo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mukati memaiso ake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:20.205165299Z",
+  "model": "glm-5.3"
+}

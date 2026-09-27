@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "nehanzvadzi yake yechisikana, mhandara, yaanopedzana naye, iyo isina kuve nemurume — ndiye anogona kutsvedzerwa nekuda kwake.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "nehanzvadzi yake yechisikana"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "mhandara"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "yaanopedzana nayo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "isina"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kuve"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nemurume"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nekuda kwake"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kutsvedzerwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:11.316082491Z",
+  "model": "glm-5.3"
+}

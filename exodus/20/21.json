@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Vanhu vakamira kure; uye Mose akaswedera kune rima guru, apo paiva ⟨papovouya⟩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "vakamira"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "uye Mose"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "akaswedera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "rima guru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨papovouya⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:17.398891668Z",
+  "model": "glm-5.3"
+}

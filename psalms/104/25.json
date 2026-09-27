@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Iyo gungwa, guru uye rakakura mativi; ipapo zvinokambaira zvisina ⟨muzverengi⟩, zvipenyu zvidiki pamwe nezvikuru.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "guru"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "uye rakakura mativi"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "mativi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zvinokambaira"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "zvisina"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨muzverengi⟩"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "zvipenyu"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "zvidiki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:52.410422997Z",
+  "model": "glm-5.3"
+}

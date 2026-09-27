@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Yahwe akapindura ⟨את⟩ Jobhi kubva mune donga rerhefu, ndokuti:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jobhi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobhi"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "kubva mune"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "donga rerhefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokuti"
+    }
+  ],
+  "timestamp": "2026-09-27T09:44:24.115122809Z",
+  "model": "glm-5.3"
+}

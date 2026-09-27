@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Asi pachena izvi unovhura maziso ako, ⟨את⟩ uye ⟨את⟩ ini unondisa pamtongo newe?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Asi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pachena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "unovhura"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "maziso ako"
+    },
+    {
+      "surface": "ו",
+      "gloss": "⟨את⟩ uye"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ini",
+      "marks": "unondisa (ndiri)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "unondisa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "pamtongo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:36:56.799202574Z",
+  "model": "glm-5.3"
+}

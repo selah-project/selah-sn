@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Mwanasikana waBhabhoni, iwe wakatarirwa kuparadzwa — makorokoto iye anokubhadhara ⟨את⟩ mubairo wako waunaitira isu!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Mwanasikana"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "waBhabhoni"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "wakatarirwa kuparadzwa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "makorokoto"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "anokubhadhara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mubairo wako"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "mubairo wako"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "waunaitira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "isu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:21.347604174Z",
+  "model": "glm-5.3"
+}

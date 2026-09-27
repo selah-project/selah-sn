@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye akapomera ⟨את⟩ Izuraeri; ndokumukanda-ro dhza Yonathani, mukoma waShimui, munin'ina waDhavidhi.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "akapomera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izuraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izuraeri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ndokumukanda-ro dhza"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimui"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "munin'ina wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavidhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:01:24.531910147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Vakafamba-famba kubva munyika imwe kuenda munyika imwe, kubva muushe rimwe kuenda kuvanhu vamwe.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "vakafamba-famba"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "kubva muushe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "vamwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:30.624991182Z",
+  "model": "glm-5.3"
+}

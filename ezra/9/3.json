@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Zvino pandinanzwa ⟨את⟩ izwi iri, ndakabvisa ⟨את⟩ chipunu changu nechihwani changu, ndakabvisa mhosva dzande nemhasara wangu, ndikagara ndichishamiswa.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "pandinanzva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi iri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ndakabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipunu changu nechihwani changu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "chipunu changu"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "nechihwani changu"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "ndakabvisa mhosva"
+    },
+    {
+      "surface": "משער",
+      "gloss": "dzande"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "nemhasara wangu"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "nemhasara wangu"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ndikagara"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "ndichishamiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:11:18.531092808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Hasha dzako dzakandibata, uye nemasaisai ako ose wakandidzikisira. Selah",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "pandin"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "dzakabata"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "hasha dzako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uye ne… ose"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "masaisai ako"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "wakandidzikisira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:54.394392221Z",
+  "model": "glm-5.3"
+}

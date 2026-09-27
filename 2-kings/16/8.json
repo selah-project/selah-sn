@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Ahazi akatora ⟨את⟩ sirivha ne⟨את⟩ ndarama dzakawonekwa mumba yaYahwe nemutsa dzeumba yamambo, akazvituma kuna mambo weAshuru somubayiro.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirivha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "ndarama"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "dzakawonekwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "nemutsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dzeumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yamambo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akazvituma"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuna mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "somubayiro"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:34.979378978Z",
+  "model": "glm-5.3"
+}

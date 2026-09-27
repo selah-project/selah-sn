@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndikati kune mngirozi anotaura neni:vari kuyendesa ⟨את⟩ epha kupi?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mngirozi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "anotaura"
+    },
+    {
+      "surface": "בי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "vari"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "kuyendesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epha"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "epha"
+    }
+  ],
+  "timestamp": "2026-09-27T08:48:17.982654159Z",
+  "model": "glm-5.3"
+}

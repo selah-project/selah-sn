@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye muchaturira ipapo zvipira zvenyu zvokupiswa nezvibairo zvenyu, ne⟨את⟩ zvizimbwa zvenyu, ne⟨את⟩ zvinopihwa nezanja rinyu, nezvikumbiro zvenyu nezvinopa zvenyu, nezvibereko zveombe dzenyu nenhoo dzenyu.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "uye muchaturira"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "zvipira zvenyu zvokupiswa"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "nezvibairo zvenyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvizimbwa zvenyu"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "zvizimbwa zvenyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvinopihwa"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "zvinopihwa"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "nezanja rinyu"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "nezvikumbiro zvenyu"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "nezvinopa zvenyu"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "nezvibereko"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "zveombe dzenyu"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "nenhoo dzenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:49.047264293Z",
+  "model": "glm-5.3"
+}

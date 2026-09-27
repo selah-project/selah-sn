@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Usapindura mboni yechinyepo pa⟨מומו⟩ mumwe wako.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Usa-"
+    },
+    {
+      "surface": "תַעֲנֶה",
+      "gloss": "pindura"
+    },
+    {
+      "surface": "בְרֵעֲךָ",
+      "gloss": "pa mumwe wako"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "yechinyepo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:44.250240175Z",
+  "model": "glm-5.3"
+}

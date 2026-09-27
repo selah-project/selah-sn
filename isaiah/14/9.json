@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 14:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Sheori, kubva pasi, yagombedzera ⟨nekuda kwako⟩ yokutanganwidza ukunouya kwako; yamutsira iwe Refaimu, mitungamiri yose yenyika; yakamisa kubva matande avo madzishe ose emarudzi.",
+  "tokens": [
+    {
+      "surface": "שְׁא֗וֹל",
+      "gloss": "Sheori"
+    },
+    {
+      "surface": "מִתַּ֛חַת",
+      "gloss": "kubva pasi"
+    },
+    {
+      "surface": "רָגְזָ֥ה",
+      "gloss": "yagombedzera"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "nekuda kwako"
+    },
+    {
+      "surface": "לִקְרַ֣את",
+      "gloss": "yokutanganwidza"
+    },
+    {
+      "surface": "בּוֹאֶ֑ךָ",
+      "gloss": "ukunouya kwako"
+    },
+    {
+      "surface": "עוֹרֵ֨ר",
+      "gloss": "yamutsira"
+    },
+    {
+      "surface": "לְךָ֤",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "רְפָאִים֙",
+      "gloss": "Refaimu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עַתּ֣וּדֵי",
+      "gloss": "mitungamiri"
+    },
+    {
+      "surface": "אָ֔רֶץ",
+      "gloss": "enyika"
+    },
+    {
+      "surface": "הֵקִים֙",
+      "gloss": "yakamisa"
+    },
+    {
+      "surface": "מִכִּסְאוֹתָ֔ם",
+      "gloss": "kubva matande avo"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מַלְכֵ֥י",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "גוֹיִֽם",
+      "gloss": "emarudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:30.113317207Z",
+  "model": "glm-5.3"
+}

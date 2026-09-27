@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye zvino, Isuraeri, teerera ⟨את⟩ mitemo uye ⟨את⟩ matongero andiri kudzidzisa imi kuita, kuti mupenyu, uye mupinde mugare ⟨את⟩ nyika iyo Yahwe, Erohimu yemadzibaba enyu, akupa imi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Uye zvino"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "teerera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye kuna"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "matongero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "kudzidzisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "uye mupinde"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mugare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "yemadzibaba enyu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akupa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:49.103065569Z",
+  "model": "glm-5.3"
+}

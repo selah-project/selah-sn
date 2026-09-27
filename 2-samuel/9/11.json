@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 9:11",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Tsiba akati kumambo: “Sesingada kuita tenzi mambo ⟨את⟩ mushandi wake, kudaro muchaita mushandi wako.” “Mefibosheta anodya patafura yangu seumwe wevana vemambo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvo zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "anorayidha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tenzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mushandi wake"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mushandi wake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kudaro"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anochaita"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushandi wako"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "Mefibosheta"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "anodya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "tafura yangu"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "seumwe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wevana va"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:56:41.005260571Z",
+  "model": "glm-5.3"
+}

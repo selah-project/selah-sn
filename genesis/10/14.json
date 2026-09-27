@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ne⟨את⟩ Paturusimu, ne⟨את⟩ Kasuruhimu, voburuka iwo Pereshitimu, ne⟨את⟩ Kafutorimu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Paturusimu"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Paturusimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Kasuruhimu"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasuruhimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "voburuka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kubva ikoko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pereshitimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Kafutorimu"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kafutorimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:38.871332120Z",
+  "model": "glm-5.3"
+}

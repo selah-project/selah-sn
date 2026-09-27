@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye akaputsa ⟨את⟩ dagara rePenueri, nokuuraya ⟨את⟩ varume veguta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagara rePenueri"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "dagara"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "rePenueri"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "akaputsa"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "okuuraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varume veguta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "varume"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "veguta"
+    }
+  ],
+  "timestamp": "2026-09-27T06:35:53.318567722Z",
+  "model": "glm-5.3"
+}

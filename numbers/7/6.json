@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Moshe akatora ⟨את⟩ zvigorosi nevа ⟨את⟩ mombe, akaipa kuvа MaRevhii.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvigorosi"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "zvigorosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mombe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaipa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "MaRevhii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "MaRevhii"
+    }
+  ],
+  "timestamp": "2026-09-27T05:54:46.973235514Z",
+  "model": "glm-5.3"
+}

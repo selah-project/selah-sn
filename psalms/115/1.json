@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 115,
+  "translation": "Kwete kwatiri, Yahwe, kwete kwatiri, asi kuzita rako ipa rukudzo, nokuda kwehesedhi yako, nouchokwadi hwako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Kwete"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Kwete"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kwatiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kuzita rako"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ipa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "rukudzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "chokwadi chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:33.559820518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 55,
+  "translation": "Adonai, mizve ⟨iwo⟩, uye gova rurimi rwavo; nokuti ndaona ruvwimbo nekupokana muguta.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "mizve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "gova"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rurimi rwavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ruvwimbo"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "nekupokana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "muguta"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:02.184359642Z",
+  "model": "glm-5.3"
+}

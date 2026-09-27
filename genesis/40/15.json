@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Nokuti ndakaba nhau dzandinobvira muna vevhHebheru, uye pano zvakare handina kuita chinhu, nokuti vakaisa ⟨את⟩ ndiri mubhuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ndakaba"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "nhau dzandinobvira"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "muna"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "vevhHebheru"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye zvakare"
+    },
+    {
+      "surface": "פה",
+      "gloss": "pano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndiri mubhuru"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "mubhuru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:11.545492976Z",
+  "model": "glm-5.3"
+}

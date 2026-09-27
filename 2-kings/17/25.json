@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Zvino pakutanga kwekugara kwavo ikoko, havana kutya ⟨את⟩ Yahwe; Yahwe akatuma mumaruma ⟨את⟩ shumba, ndokubva dzava kuchiuraya pavari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "pakutanga"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kwekugara kwavo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mumaruma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shumba"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dzava"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "kuchiuraya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pavari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:49.899354230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Vakataura kuneungano yose yevana veIsraeri, vachiti: ⟨Izwi⟩ nyika iyo iyi takapfuura mairi, kuitarisa ⟨את⟩ iyo, yakanaka zvikuru zvikuru.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "yungano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "takapfuura"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mairi"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "kuitarisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iyo (nyika)"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yakanaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T05:58:55.392726931Z",
+  "model": "glm-5.3"
+}

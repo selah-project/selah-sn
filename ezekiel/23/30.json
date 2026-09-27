@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 23:30",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "⟨Kuita⟩ izvi kwauri nokuti wakaita hure mushume mealmarudzi, nokuti wakazvininipisa nemidzimu yavo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "בזנותך",
+      "gloss": "nehure rako"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushume me"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "wakazvininipisa"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "nemidzimu yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:24:54.656459828Z",
+  "model": "glm-5.3"
+}

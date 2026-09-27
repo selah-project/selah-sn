@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Kwauri, Yahwe, ndinodana; uye kuAdonai ndinonaya ndipembedze.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Kwauri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ndinodana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ndinonaya ndipembedze"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:23.189424435Z",
+  "model": "glm-5.3"
+}

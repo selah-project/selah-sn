@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Nokuti tarisa, vavengi vako, Yahwe; nokuti tarisa, vavengi vako vachaparara; vose vanoita zvakaipa vachaparadzirwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vavengi vako"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vachaparara"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "vachaparadzirwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "vanoita"
+    },
+    {
+      "surface": "און",
+      "gloss": "zvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:52.652422276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "uchiti: 'Sei ndakavengana nadzidziso, uye moyo wangu wakatembura kurangwa!';",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "uchiti"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Sei"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndakavengana"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "nadzidziso"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "kurangwa"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "wakatembura"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:03.834441913Z",
+  "model": "glm-5.3"
+}

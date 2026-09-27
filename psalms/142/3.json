@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 142,
+  "translation": "Ndinodonhedza pachiso chake shungu dzangu; dambudziko rangu pachiso chake ndinozivisa.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "ndinodonhedza"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pachiso chake"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "shungu dzangu"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "dambudziko rangu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pachiso chake"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ndinozivisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:49.944983271Z",
+  "model": "glm-5.3"
+}

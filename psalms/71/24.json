@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Rurimi rwawo rwangu mhaka yose ruchave richinyorosa kururamiswa kwako; nokuti vanonyadziswa, nokuti vanodzikama avo vanotsvaga zvakaipa kwandiri.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "rwawo"
+    },
+    {
+      "surface": "לְשׁוֹנִ֗י",
+      "gloss": "rurimi rwangu"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הַיּ֥וֹם",
+      "gloss": "mhaka"
+    },
+    {
+      "surface": "תֶּהְגֶּ֣ה",
+      "gloss": "ruchave richinyorosa"
+    },
+    {
+      "surface": "צִדְקָתֶ֑ךָ",
+      "gloss": "kururamiswa kwako"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בֹּ֥שׁוּ",
+      "gloss": "vanonyadziswa"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חָ֝פְר֗וּ",
+      "gloss": "vanodzikama"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֥י",
+      "gloss": "avanotsvaga"
+    },
+    {
+      "surface": "רָעָתִֽי",
+      "gloss": "zvakaipa kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:59.675266744Z",
+  "model": "glm-5.3"
+}

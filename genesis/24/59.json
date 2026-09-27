@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Vakatumira ⟨את⟩ Riveka hanzvadzi yavo, ne⟨את⟩ muyamwisi wake, ne⟨את⟩ muzviri waAbhurahama, ne⟨את⟩ varume vake.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "vakatumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Riveka hanzvadzi yavo"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riveka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "hanzvadzi yavo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muyamwisi wake"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "muyamwisi wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muzviri waAbhurahama"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muzviri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "varume vake"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "varume vake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:57.157825103Z",
+  "model": "glm-5.3"
+}

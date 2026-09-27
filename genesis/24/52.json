@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Zvino sokunge shongwe yaAbhurahama yakanzwa ⟨את⟩ mazwi avo, akagwadama pasi kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokunge"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yakanzwa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "shongwe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "yaAbhurahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazwi avo"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "mazwi avo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akagwadama"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:58.099473915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Nokudaro ndinozvidza, uye ndakudzokera shure, pamusoro pehurwa nevhotera.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nokudaro"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ndinozvidza"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ndakudzokera shure"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "hurwa"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "nevhotera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:47:50.185429895Z",
+  "model": "glm-5.3"
+}

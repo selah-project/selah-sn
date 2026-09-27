@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Zvino zvakaitika, Shamueri apo akura, akaisa ⟨את⟩ vana vake vave vatongi veIzraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apo"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamueri"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "vatongi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "veIzraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:48.557362483Z",
+  "model": "glm-5.3"
+}

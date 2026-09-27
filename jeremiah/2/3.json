@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Israeri ndechitsvene chaYahwe, chokutanga chezviyo zvozvarwa zvake; vose vanodya chiri ichi vanotadza; zvakaipa zvichauya kwavari, mushumo waYahwe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "chokutanga"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "chezviyo zvozvarwa zvake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "vanodya"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "vanotadza"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "zvichauya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mushumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:50:14.209593426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Akati: Ngaperehwe ⟨את⟩ Abhishagi weShunamu kunaAdhonijah, mukoma wako, kuti ave mukadzi wake.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ngaperehwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhishagi"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abhishagi"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "weShunamu"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kunaAdhonijah"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mukoma wako"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuti ave mukadzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:44.052895878Z",
+  "model": "glm-5.3"
+}

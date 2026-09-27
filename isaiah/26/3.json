@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Mufaro wakatsigika wakachengetwa; runyararo, runyararo; nokuti mumi wavimba.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "Mufaro"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "wakatsigika"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "wakachengetwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mumi"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "wavimba"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:34.758495448Z",
+  "model": "glm-5.3"
+}

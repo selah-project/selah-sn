@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye kugara kwavana vaIsiraeri, avo vakagara muMitsiri, kwakanga kuri makore mazana mana nemakumi matatu.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "uye kugara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwavana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "muMitsiri"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "nemazana mana"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "makore"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:16.536349320Z",
+  "model": "glm-5.3"
+}

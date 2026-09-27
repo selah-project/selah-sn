@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Munhu wose anogara nemhuka, anzisisa anofa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wose"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "anogara ne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mhuka"
+    },
+    {
+      "surface": "מות",
+      "gloss": "anzisisa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "anofa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:35.531408803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "mukati maro munhu mupenyu muchenjeri aka wanikwa, uye iye akapunza ⟨את⟩ guta nouchenjeri hwake; asi hapana munhu akarangarira ⟨את⟩ munhu mupenyu iyoyo.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "aka wanikwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mukati maro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "muchenjeri"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "akapunza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "nouchenjeri hwake"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "asi munhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akarangarira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munhu mupenyu iyoyo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "mupenyu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyoyo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:39.050360991Z",
+  "model": "glm-5.3"
+}

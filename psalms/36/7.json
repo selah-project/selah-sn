@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Kururama kwako semakomo aEr; mishumo yako inyiwa guru; munhu nomhuka unoponesa, Yahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "kururama kwako"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "semakomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aEr"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "mishumo yako"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "inyiwa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "nomhuka"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "unoponesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:22.578346174Z",
+  "model": "glm-5.3"
+}

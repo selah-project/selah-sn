@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Ndakati kune vanyori: Musanyore; uye kune vakashata: Musasimudze nyanga.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ndakati"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "kune vanyori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musanyore-"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "musanyore"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "uye kune vakashata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa-"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "musasimudze"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "nyanga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.009096956Z",
+  "model": "glm-5.3"
+}

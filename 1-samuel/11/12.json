@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye vanhu vakati kuna Shamuyero: Ndiani wakati Shauro ngaave mambo pandiri? Munopawo varume ivavo, kuti tiuraye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuyero"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ngaave mambo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "munopawo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume ivavo"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "kuti tiuraye"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:27.568961112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Uye makore tanhatu uchakodya ⟨את⟩ ivhu rako, uye uchanhonga ⟨את⟩ zvibairo zvaro;",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Uye tanhatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uchakodya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivhu rako"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ivhu rako"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "uyechanhonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvibairo zvaro"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zvibairo zvaro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:44.779763054Z",
+  "model": "glm-5.3"
+}

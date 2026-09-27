@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 126,
+  "translation": "Nziyo dzokukwira. Pakadzoka Yahwe ⟨את⟩ dzokero yaZiyoni, takanga tiri sevano-rota.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "dzokukwira"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Pakadzoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dzokero yaZiyoni"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "dzokero"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "yaZiyoni"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "takanga tiri"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sevano-rota"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:13.584174511Z",
+  "model": "glm-5.3"
+}

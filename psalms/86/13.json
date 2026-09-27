@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Nokuti hesedhi yako huru pamusoro pangu, uye wakaponesa mweya wangu kubva kuSheori yepasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi yako"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "huru"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pamusoro pangu"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "wakaponesa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "kubva kuSheori"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "yepasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:26.069069867Z",
+  "model": "glm-5.3"
+}

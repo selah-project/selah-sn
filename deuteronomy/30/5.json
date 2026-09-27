@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uye Yahwe Erohimu wako achakuyisa munyika yaive yevababa venyu, uye iwe uchaigara; uye achakuitira zvakanaka, achakuwedzera kupfuura vababa venyu.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "achakuyisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "vaigara"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "vababa venyu"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "uchaigara"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "achakuitira zvakanaka"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "achakuwedzera"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "kupfuura vababa venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:19:33.399726046Z",
+  "model": "glm-5.3"
+}

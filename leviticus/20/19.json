@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Uye manyepwe esisi yaamai vako nesisi yaibaba vako haufumuri; nokuti ⟨את⟩ nyama yake wakabvisa pachena; mhosva yavo vachatobata.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "Uye manyepwe"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "esisi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yaamai vako"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "nesisi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "yaibaba vako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ufumuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yake"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "nyama yake"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "wakabvisa pachena"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mhosva yavo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "vachabata"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:25.264444921Z",
+  "model": "glm-5.3"
+}

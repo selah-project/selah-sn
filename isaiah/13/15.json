@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Chose chinowanikwa chichabviswa, chose chinotorwa chichawa nebanga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "chinowanikwa"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "chichabviswa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "chose"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "chinotorwa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "chichawa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nebanga"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:19.139626763Z",
+  "model": "glm-5.3"
+}

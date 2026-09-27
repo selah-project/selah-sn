@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Yehonatani naDhavhidhi vakasunga sungano, nekuti akamuda ⟨אתו⟩ iye somweya wake.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "vakasunga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatani"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "naDhavhidhi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "nekuti akamuda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Dhavhidhi)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "somweya wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:48.962639992Z",
+  "model": "glm-5.3"
+}

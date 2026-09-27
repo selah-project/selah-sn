@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Anogara akaninipisa, oora; uye vakomesa vanomhanyirawa pasi nesimba rake.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "oora"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "anogara akaninipisa"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "vanomhanyirwa pasi"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "nesimba rake"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "vakomesa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:17.859796335Z",
+  "model": "glm-5.3"
+}

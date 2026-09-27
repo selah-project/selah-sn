@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 102,
+  "translation": "Vana vashandi vako vachagara, uye mbeu yavo ichamirirwa pamberi pechiso chako.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "vashandi vako"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "vachagara"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "uye mbeu yavo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pechiso chako"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ichamirirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:42.166761323Z",
+  "model": "glm-5.3"
+}

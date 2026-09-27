@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 41,
+  "translation": "Akandidzikisa mukati meHekari, akauyeta ⟨את⟩ mitsi, tanhatu ⟨ama⟩ upamhi pano, netanhatu ⟨ama⟩ upamhi pano — upamhi hwe⟨the⟩ tende.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "akandidzikisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "Hekari"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "akauyeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitsi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "mitsi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tanhatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upamhi"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "pano"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "netanhatu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upamhi"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "pano"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "upamhi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tende"
+    }
+  ],
+  "timestamp": "2026-09-27T11:12:34.043475589Z",
+  "model": "glm-5.3"
+}

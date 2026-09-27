@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye mambo Shoromo wakava mambo pane Israeri yose.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wakava"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:41.621889572Z",
+  "model": "glm-5.3"
+}

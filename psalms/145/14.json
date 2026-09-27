@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Yahwe anotsigira vose vakadonha, anomwasadza vose vakagomara.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "anotsigira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "vakadonha"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "anomwasadza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "vakagomara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.570980775Z",
+  "model": "glm-5.3"
+}

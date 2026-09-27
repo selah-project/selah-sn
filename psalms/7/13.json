@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Kana asingadzokere, anosekesa bakabwa rake; akatevedzera utare rwake, uye rakaugadzirira.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asinga-"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dzokere"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "bakabwa rake"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "anosekesa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "utare rwake"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "akatevedzera"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "rakaugadzirira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:58.740536791Z",
+  "model": "glm-5.3"
+}

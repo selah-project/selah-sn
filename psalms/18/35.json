@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Anodzidzisa maoko angu hondo, uta hwemhangura hwakadzikiswa namapendekangu.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "anodzidzisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maoko angu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "hwakadzikiswa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mhangura"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "namapendekangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:03.415355977Z",
+  "model": "glm-5.3"
+}

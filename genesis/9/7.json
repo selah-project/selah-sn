@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Imi, berekai uye wedzerai; uwandai munyika, uye wedzerai muine.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Imi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "berekai"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "uye wedzerai"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "uwandai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "uye wedzerai"
+    },
+    {
+      "surface": "בה",
+      "gloss": "muine"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:28.591072219Z",
+  "model": "glm-5.3"
+}

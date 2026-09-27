@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Nzira yangu nokurara kwangu waenzera; unoziva nzira dzangu dzose.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Nzira yangu"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "nokurara kwangu"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "waenzera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzira dzangu"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "unoziva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:52.275730231Z",
+  "model": "glm-5.3"
+}

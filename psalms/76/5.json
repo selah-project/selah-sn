@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Unopenya, iwe une ruremekedzo, kupfuura makomo ekuda.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Unopenya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "une ruremekedzo"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "kupfuura makomo"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ekuda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.694457571Z",
+  "model": "glm-5.3"
+}

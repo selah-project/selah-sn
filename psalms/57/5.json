@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Mweya wangu uri pakati peshumba; ndinogara mutsanga nevanopisa moto, vana vanhu, mazino avo fumo nemiseve, rurimi ravo bakatwa rakapinza.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakati pa"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ndinogara"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "vanopisa moto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mazino avo"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "fumo"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "nemiseve"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "rurimi ravo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "bakatwa"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "rakapinza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:03.986611123Z",
+  "model": "glm-5.3"
+}

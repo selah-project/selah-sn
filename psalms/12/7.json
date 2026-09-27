@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Mashoko aYahwe mashoko matsvene: sirivha yakacheneswa mutsime wepasaka, yatsvetukiswa nomwewa.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aYahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "matsvene"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "yakacheneswa"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "mutsime"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "wepasaka"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "yatsvetukiswa"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "nomwewa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:03.130596279Z",
+  "model": "glm-5.3"
+}

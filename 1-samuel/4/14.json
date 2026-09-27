@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Eli akanzwa ⟨את⟩ ruzha rwekudaidza, akati: Ruzha rwezhinji iri ruri kurevei? Uye murume akamhanyira, akapinda, akaudza Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruzha rwekudaidza"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "rekudaidza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ruri kurevei"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ruzha"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "rwezhinji"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "uye murume"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "akamhanyira"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:45.065337535Z",
+  "model": "glm-5.3"
+}

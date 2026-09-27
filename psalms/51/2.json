@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Pakuda ⟨את⟩ Natani muporofita kwaari, mushure mekunge apinda kuna Batshabha.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "pakuda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mushure mekunge"
+    },
+    {
+      "surface": "בא",
+      "gloss": "apinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "shabha"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:23.720437780Z",
+  "model": "glm-5.3"
+}

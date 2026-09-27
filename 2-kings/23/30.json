@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Varanda vake vakamuisa pagore raakafa, kubva kuMegidho, ndokumuisa muYerusharema, ndokumuviga muguva rake; uye vanhu venyika vakatora ⟨את⟩ Yehoahazi mukoma waYoshiyahu, vakamuzodza ⟨את⟩ iye, ndokumutumira kutonga ⟨pachinzvimbo cha⟩ baba vake.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "vakamuisa pagore"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "Varanda vake"
+    },
+    {
+      "surface": "מת",
+      "gloss": "raakafa"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "kubva kuMegidho"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ndokumuisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "muYerusharema"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ndokumuviga"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "muguva rake"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "waYoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "vakamuzodza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Yehoahazi)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ndokumutumira kutonga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Yehoahazi)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimbo cha"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:58.901130362Z",
+  "model": "glm-5.3"
+}

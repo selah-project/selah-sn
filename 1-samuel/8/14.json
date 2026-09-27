@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye ⟨את⟩ minda yenyu, ⟨את⟩ mizaburi yenyu, nemiti yeolive yenyu yakanyanya kunaka achatora, uye achazvipa varanda vake.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minda yenyu"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "minda yenyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mizaburi yenyu"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "mizaburi yenyu"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "miti yeolive yenyu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "yakanyanya kunaka"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "achatora"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "achazvipa"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "varanda vake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:36.901465817Z",
+  "model": "glm-5.3"
+}

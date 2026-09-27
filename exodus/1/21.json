@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Zvino zvikaonekwa, nokuti amadzitire akatya ⟨את⟩ Erohimu, akaita kuti ave nenzvimbo dzokugara ⟨dzimba⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikaonekwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "akatya"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "amadzitire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuti ave"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nzvimbo dzokugara ⟨dzimba⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:33.252533982Z",
+  "model": "glm-5.3"
+}

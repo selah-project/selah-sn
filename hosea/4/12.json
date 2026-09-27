@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vanhu vangu vanobvunza ⟨muti⟩ wawo, uye chimuti chavo chinodaidzira kwavari; nokuti Mweya wehure wakavashungurudza, vakaita hure pasi peErohimu wavo.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Vanhu vangu"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "⟨muti⟩ wawo"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "vanobvunza"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "chimuti chavo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "chinodaidzira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "wehure"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "wakavashungurudza"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "vakaita hure"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "peErohimu wavo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:37.895321120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "murwi wemasimba nemurwi wehondo, mutongi nemuporofita, mufemberi nemukuru.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "murwi wemasimba"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "murwi wehondo"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mutongi"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "nemuporofita"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "mufemberi"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "nemukuru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:29:05.119707900Z",
+  "model": "glm-5.3"
+}

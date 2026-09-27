@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Sarha akaona ⟨את⟩ mukororo waHagari wechiGibhitsi, avakabereka kunaAbhurahama, akaseka.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukororo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukororo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "waHagari"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wechiGibhitsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ava"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "vakabereka"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kunaAbhurahama"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "akaseka"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:43.918284056Z",
+  "model": "glm-5.3"
+}

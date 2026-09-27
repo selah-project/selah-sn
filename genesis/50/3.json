@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Vakamuzadzikisa kwake makumi mana mazuva, nokuti saizvozvo vanozadzikisa mazuva evahanuti; uye vaAigyipiti vakachema ⟨את⟩ yemakumi manomwe mazuva.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "vakazadzikisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi mana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "vanozadzikisa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "evahanuti"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "vakachema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yeye (Yakobo\/Israeri)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "vaAigyipiti"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mazuva"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:15.672908929Z",
+  "model": "glm-5.3"
+}

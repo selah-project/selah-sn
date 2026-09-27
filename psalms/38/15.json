@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Ndakaita semunhu asina kunzwa, uye muromo wake hauna matadzirwo.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ndakaita"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "semunhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asina"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kunzwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hauna"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "muromo wake"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "matadzirwo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:15.332844661Z",
+  "model": "glm-5.3"
+}

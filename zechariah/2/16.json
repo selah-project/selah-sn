@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Yahwe achagara naye ⟨את⟩ Yudha sehove yake pamusoro peivhu itsvene, uye achasarudza Jerusalem zvakare.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "achagara naye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sehove yake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "peivhu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "itsvene"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "achasarudza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalem"
+    }
+  ],
+  "timestamp": "2026-09-27T08:48:21.816978678Z",
+  "model": "glm-5.3"
+}

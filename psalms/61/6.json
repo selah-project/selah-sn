@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 61,
+  "translation": "Nokuti iwe, Erohimu, wakanzwa mapikerwa angu; wakapa ⟨את⟩ nhaka yevachitya zita rako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wakanzwa"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "mapikerwa angu"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "wakapa"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "nhaka"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "yevachitya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:48.515847024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Muzviringidzi zAroni mapango achagara; haabvikipa kubva pairi.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "muzviringidzi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "zAroni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mapango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "bvikipa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva pairi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:33:06.023375170Z",
+  "model": "glm-5.3"
+}

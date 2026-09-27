@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 60,
+  "translation": "Wakapa vakatya kwako ⟨את⟩ mureza, kuti umwedzwe nokuda kwechokwadi. Sera.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Wakapa"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "vakatya kwazo"
+    },
+    {
+      "surface": "נס",
+      "gloss": "mureza"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "kuti umwedzwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "chokwadi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:01.030456245Z",
+  "model": "glm-5.3"
+}

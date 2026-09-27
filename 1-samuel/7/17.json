@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye kudzoka kwake kwakanga kuri kuRama, nokuti ikoko kwaiva imba yake, uye ikoko akaita mutongo ⟨את⟩ Israeri; akavakawo ikoko altari ⟨kuna⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "uye kudzoka kwake"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "kuRama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "uye ikoko"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "akaita mutongo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:13.979185714Z",
+  "model": "glm-5.3"
+}

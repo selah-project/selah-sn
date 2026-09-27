@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "achapfeka hembe yebhandi yeutsvene, nomadhhirisiti ebhandi achava pamuviri wake, nochishishivha ebhandi achachibhatidza naro, nomudziyo wehusoro webhandi achazvinhavarira naro; zviri zvitsvene izvi zvibhazu, nomuchageza mumvura ⟨את⟩ muviri wake, apfeka nazo.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "hembe"
+    },
+    {
+      "surface": "בד",
+      "gloss": "yebhandi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yeutsvene"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "achapfeka"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "nomadhhirisiti"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ebhandi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "achava"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "muviri wake"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "nochishishivha"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ebhandi"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "achachibhatidza naro"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "nomudziyo wehusoro"
+    },
+    {
+      "surface": "בד",
+      "gloss": "webhandi"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "achazvinhavarira naro"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zvibhazu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zvitsvene"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izvi zviri"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "nomuchageza"
+    },
+    {
+      "surface": "במים",
+      "gloss": "mumvura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muviri wake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "muviri wake"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "apfeka nazo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:50:11.663666023Z",
+  "model": "glm-5.3"
+}

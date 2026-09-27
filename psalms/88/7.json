@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Wandisa muhomba rekuzasi, muzvima, munzvimbo dzakadzama.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Wandisa"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "muhomba"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "rekuzasi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "muzvima"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "munzvimbo dzakadzama"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:54.394281444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Vanhu venyika vakauraya ⟨את⟩ vose vakasungirana pamambo Amonu; vanhu venyika vakaita kuti ⟨את⟩ Yoshiyahu, mwanawe, atonge pachinzvimbo pake.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vose vakasungirana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "vakasungirana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonu"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "vakaita kuti atonge"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "venyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshiyahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanawe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pachinzvimbo pake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:02.571277162Z",
+  "model": "glm-5.3"
+}

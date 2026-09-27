@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye munaHhorebhwu makakwiyisa ⟨את⟩ Yahwe, uye Yahwe akatsamwa nemi kuita kurapadzai.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Uye munaHhorebhwu"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "makakwiyisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "uye akatsamwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "kuita kurapadza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi",
+      "marks": "imi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:33.920424414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "nokuti Yoveli ndiyo, itsvene inove yenyu; kubva munda muchadya ⟨את⟩ zvibereko zvayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yoveli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "itsvene"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "inove"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenyu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "munda"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvibereko zvayo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zvibereko zvayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:11.789609533Z",
+  "model": "glm-5.3"
+}

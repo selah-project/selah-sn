@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 103,
+  "translation": "Munhu, mazuva ake senzimbe; seruva remunda, ndokudaro anopachidza.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "senzimbe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mazuva ake"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "seruva"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "remunda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndokudaro"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "anopachidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:17.218267438Z",
+  "model": "glm-5.3"
+}

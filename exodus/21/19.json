@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "kana ATMKA, uye arohwa ndiye asina mhosva; anongobhadhara chubudiso chake chete, uye achaporeswa zvakanaka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "atmuka"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "ATMKA"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "timbwi rake"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "aro­hwa ndiye asina mhosva"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "anorova"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chete"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "chubudiso chake"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anobhadhara"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "achaporeswa"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:08.843865591Z",
+  "model": "glm-5.3"
+}

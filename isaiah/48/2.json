@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Nokuti kubva muguta mutsvene vanodanwa, uye vaErohimu weIsiraeri vanovatsigira — Yahwe Tsevaoti ndiro zita rake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kubva muguta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "vanodanwa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "uye pa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "vaErohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsiraeri"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "vanovatsigira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ndiro zita rake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:23.012965973Z",
+  "model": "glm-5.3"
+}

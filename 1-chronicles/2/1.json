@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ava ndiwo vana vaIsraeri: Reuvheni, Shimoni, Revhi, naYehudha, Yisaskari, naZevhuruni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ava ndiwo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvheni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Revhi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "naYehudha"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskari"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "naZevhuruni"
+    }
+  ],
+  "timestamp": "2026-09-27T10:18:15.772174405Z",
+  "model": "glm-5.3"
+}

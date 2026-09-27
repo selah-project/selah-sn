@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Zvivi zvekutanga kwangu nemhandu dzangu — usazvirangarire; nokufanana nehhesedhi yako, iwe ndirangarire, nokuda kwetsveneko yako, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "zvivi"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "zvekutanga kwangu"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "nemhandu dzangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "zvirangarire"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "nokufanana nehhesedhi yako"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ndirangarire"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "tsveneko yako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:03.383822181Z",
+  "model": "glm-5.3"
+}

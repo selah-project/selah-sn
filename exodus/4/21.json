@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 4:21",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Yahwe akati kuna Moshe: paunodzokera kuMisri, ona zvose izvo ndakaisa muruwoko rwako — uchazviita pamberi paFarao; asi ini ndiri kuomotsa ⟨את⟩ mwoyo wake, kuti arebe ⟨את⟩ vanhu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "paunodzokera"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kudzokera"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "kuMisri"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "zvinoshamisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ndakaisa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "muruwoko rwako"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "uchazviita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "paFarao"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "ndiri kuomotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwoyo wake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "mwoyo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuti asarebe"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "arebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:38.413262697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Vaviri vanofamba pamwechete here, kana vasina kuita chitsidzo?",
+  "tokens": [
+    {
+      "surface": "הֲיֵלְכ֥וּ",
+      "gloss": "vanofamba... here"
+    },
+    {
+      "surface": "שְׁנַ֖יִם",
+      "gloss": "Vaviri"
+    },
+    {
+      "surface": "יַחְדָּ֑ו",
+      "gloss": "pamwechete"
+    },
+    {
+      "surface": "בִּלְתִּ֖י",
+      "gloss": "kana vasina"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kana vasina"
+    },
+    {
+      "surface": "נוֹעָֽדוּ",
+      "gloss": "kuita chitsidzo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:39:49.756558216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Uye Moshe akanyora ⟨את⟩ kubuda kwavo, nenzendo dzavo, nomuromo waYahwe; ndiidzo nzendo dzavo pakubuda kwavo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akanyora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubuda kwavo"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "kubuda kwavo"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "nenzendo dzavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ndiidzo"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "nzendo dzavo"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "pakubuda kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:07:52.968805342Z",
+  "model": "glm-5.3"
+}

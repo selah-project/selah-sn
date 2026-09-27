@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Muchengete ⟨את⟩ mirairo yangu yose ne⟨את⟩ mitemo yangu yose, uye muzviite; ndini Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Muchengete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yangu yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mirairo yangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mitemo yangu yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mitemo yangu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "uye muzviite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ivo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:08.557215409Z",
+  "model": "glm-5.3"
+}

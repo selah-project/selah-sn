@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 99,
+  "translation": "Yahwe akatonga — vanhu vazotora kutya; iye akagara ⟨pamusoro pe⟩ cherubhi — pasi ripfavire.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akatonga"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "vazotora kutya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akagara"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "cherubhi"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ripfavire"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:28.067174938Z",
+  "model": "glm-5.3"
+}

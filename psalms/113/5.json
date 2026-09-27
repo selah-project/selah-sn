@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 113,
+  "translation": "Anopi anofanana naYahwe Erohimu wedu, iye anozvitubudza ⟨kugara⟩ pne?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anopi"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "anofanana naYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "anozvitubudza"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "⟨kugara⟩ pne"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:32.067951753Z",
+  "model": "glm-5.3"
+}

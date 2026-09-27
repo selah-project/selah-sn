@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 143,
+  "translation": "Mweya wangu wakafashama pandiri, moyo wangu wakamira mukati mangu.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "wakafashama"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "mukati mangu"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "wakamira"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:07.861247630Z",
+  "model": "glm-5.3"
+}

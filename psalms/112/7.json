@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 112,
+  "translation": "Shoko reshuramatiriro roipa haaratyi; moyo wake wakagadzikana, wakavimbika muna Yahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "shoko reshuramatiriro"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "roipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haaratyi"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "haaratyi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "wakagadzikana"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "wakavimbika"
+    },
+    {
+      "surface": "ביהווה",
+      "gloss": "muna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:08.037181394Z",
+  "model": "glm-5.3"
+}

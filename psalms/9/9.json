@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uye iye achaita kutonga ⟨את⟩ nyika netsvene, achadzikisa mutemo kuvamwe vokwawo muchakanaka.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Uye iye"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "achaita kutonga"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "netsvene"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "achadzikisa mutemo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kuvamwe vokwawo"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "muchakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:28.057269616Z",
+  "model": "glm-5.3"
+}

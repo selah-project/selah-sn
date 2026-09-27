@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndipo vakatora ⟨את⟩ Yona, vakamuponya mugungwa; ndipo gungwa rakamira kutsamwa kwari.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "vakatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "vakamuponya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "rakamira"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "kutsamwa kwari"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:54.574728305Z",
+  "model": "glm-5.3"
+}

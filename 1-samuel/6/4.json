@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 6:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Vakati: Chii ndicho ashamu chatingadzosa kwaari? Vakati: Huwandu hwemadzishe eveFiristia — maronda mashanu endarama nembeva mashanu endarama; nokuti chirwere chimwe chakaita kwavose, madzishe enyu navo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ashamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "chatingadzosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "huwandu"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "hwemadzishe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "eveFiristia"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "עפלי",
+      "gloss": "maronda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "endarama"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "nemashanu"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "mbeva"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "endarama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "chirwere"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kwavose"
+    },
+    {
+      "surface": "ולסרניכם",
+      "gloss": "nekumadzishe enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:43.019449537Z",
+  "model": "glm-5.3"
+}

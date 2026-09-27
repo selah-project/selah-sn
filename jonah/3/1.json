@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino izwi raYahwe rakauka kuna Yona kechipiri, richiti:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino...rakaitika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kechipiri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "richiti"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:52.119147768Z",
+  "model": "glm-5.3"
+}

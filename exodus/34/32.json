@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Uye shure kweizvi vose vana vaIsiraeri vaswedera pedyo, uye akayamura ⟨את⟩ izvozvo zvose izvo Yahwe akataur ⟨את⟩ naye pagomo reSaini.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "uye shure kwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "vaswedera pedyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "akayamura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izvozvo zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pagomo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "reSaini"
+    }
+  ],
+  "timestamp": "2026-09-27T05:37:20.444899055Z",
+  "model": "glm-5.3"
+}

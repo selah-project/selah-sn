@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Handitori fudzi mumba mako, kana mbudza dzirume pamadziripi ako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "handi-"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "-tori"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "mumba mako"
+    },
+    {
+      "surface": "פר",
+      "gloss": "fudzi"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "pamadziripi ako"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mbudza dzirume"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:30.356935212Z",
+  "model": "glm-5.3"
+}

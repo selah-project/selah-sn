@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahwe akaponesa ⟨את⟩ Israeri zumamwe iri; hondo yakapfuura ⟨ne⟩ ⟨את⟩ chishongwa cheBheti-Avheni.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "akaponesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zumamwe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "yakapfuura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bheti-Avheni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "chishongwa cheBheti"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avheni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:45:56.816798887Z",
+  "model": "glm-5.3"
+}

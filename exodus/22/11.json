@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Uye kana zvichabiwa zvachibiwa kwaari, anobhadharira tenzi waro.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "zvichabiwa"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "zvachibiwa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "anobhadharira"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "tenzi waro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:23.474298168Z",
+  "model": "glm-5.3"
+}

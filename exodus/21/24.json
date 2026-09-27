@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "ziso panzvimbo peziso, zvimba panzvimbo pezvimba, ruwoko panzvimbo reruwoko, tsoka panzvimbo petsoka.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zvimba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pe"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zvimba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tsoka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panzvimbo pe"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tsoka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:32.115667251Z",
+  "model": "glm-5.3"
+}

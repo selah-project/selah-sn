@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Ndokuisa mukamwa mwangu nziyo itsva, rumbidzo kune Erohimu wedu; vazhinji vachaona, novatya, novavimba naYahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ndokuisa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mukamwa mwangu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "itsva"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "rumbidzo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kune Erohimu wedu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vachaona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "vazhinji"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "novatya"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "novavimba"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "naYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:32.615868419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "kuvhura maziso emapofu, kuburitsa mutfiriri mumutfiriro, nevagere mudzimba mutfiriro vachigara murima.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "kuvhura"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maziso"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "emapofu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kuburitsa"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "mumutfiriro"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "mutfiriri"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mudzimba"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "mutfiriro"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nevagere"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "murima"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:57.231218490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "ne⟨את⟩ mafuta ekuzodza, ne⟨את⟩ vano yezvinhuvisa zviri mutsvene — sezvose ndakakurayira iwe, ndozvo achaita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ekuzodza"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ekuzodza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vano yezvinhuvisa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "vano"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "yezvinhuvisa"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "zviri mutsvene"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvo"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ndakakurayira iwe"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ndozvo achaita"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:53.237828747Z",
+  "model": "glm-5.3"
+}

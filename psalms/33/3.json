@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Imurirai rwiyo gitsva; ita zvakanaka muchiridza, makanyoreredza makuru.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imurirai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kwake⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "gitsva"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ita zvakanaka"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "muchiridza"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "makanyoreredza makuru"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:20.839380319Z",
+  "model": "glm-5.3"
+}

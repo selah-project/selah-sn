@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Naizvozvo ndinoda mirairo yako kupfuura ndarama, inde, kupfuura ndarama tsvene.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndinoda"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mirairo yako"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kupfuura ndarama"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "inde, kupfuura ndarama tsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:09.287281666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 148,
+  "translation": "Varumbidze ⟨את⟩ zita raYahwe, nokuti zita rake chete chakakwirira; ruremekedzo rwake rwuri pamusoro pepasi nematenga.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "varumbidze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "chakakwirira"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "chete"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ruremekedzo rwake"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "nematenga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:37.904597482Z",
+  "model": "glm-5.3"
+}

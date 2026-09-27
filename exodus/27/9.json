@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye uchaita ⟨את⟩ binduга reMishikani; kudivi rechamhembe, kuchamhembe, dzimba dzokuvharira dzerudzi rwesheshe wakazvinangidzwa, zana nemaamha kureba, nechimwe chedu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uchaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binduга reMishikani"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "binduга"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "reMishikani"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kudivi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "chamhembe"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "kuchamhembe"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "dzimba dzokuvharira"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "dzebinduга"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sheshe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wakazvinangidzwa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zana"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "nemaamha"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "kureba"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "nedivi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "chimwe chedu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:01.516425800Z",
+  "model": "glm-5.3"
+}

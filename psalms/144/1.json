@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "YaDhavhidhi. Rukudzirwe Yahwe, gwanda rangu, anodzidzisa maoko angu kurwa, zvigunwe zvangu hondo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "rukudzirwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "gwanda rangu"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "anodzidzisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maoko angu"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "zvigunwe zvangu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hondo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:06.616660839Z",
+  "model": "glm-5.3"
+}

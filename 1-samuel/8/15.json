@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye mbewu yenyu nemizaburi yenyu achatora chikumi, uye achazvipa madzimbabva ake nevaranda vake.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "mbewu yenyu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "mizaburi yenyu"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "achatora chikumi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "achazvipa"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "madzimbabva ake"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "varanda vake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:42:36.901623182Z",
+  "model": "glm-5.3"
+}

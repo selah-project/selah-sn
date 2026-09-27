@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Nokuti hasha dzaYahwe dziri pamusoro pemarudzi ose, netsamwiro pamusoro pemauto awo ose; akavadzikisa zvachose, akavapa kudhinha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "hasha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dzaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "pemarudzi"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "netsamwiro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "pemauto awo"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "akavadzikisa zvachose"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "akavapa"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kudhinha"
+    }
+  ],
+  "timestamp": "2026-09-27T07:40:05.062096166Z",
+  "model": "glm-5.3"
+}

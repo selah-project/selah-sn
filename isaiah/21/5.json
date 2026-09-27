@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Kugadzirira tafura, kutarisa panzvimbo yekutarisa, kudya, kunwa: simukai, imi muchinda, dzorai mafuta echishango.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "kugadzirira"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kutarisa"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "panzvimbo yekutarisa"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "kudya"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "kunwa"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "simukai"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "muchinda"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "dzorai mafuta"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "chishango"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:11.627541328Z",
+  "model": "glm-5.3"
+}

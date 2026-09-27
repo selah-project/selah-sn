@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye dzurira dzako dzichazadzwa nokukwandira, uye mvura yemukando dzako dzichabuditsa tiroshi.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "dzichazadzwa"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "dzurira dzako"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nokukwandira"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "uye mvura yemukando"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "dzako"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "dzichabuditsa tiroshi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:13.592044273Z",
+  "model": "glm-5.3"
+}

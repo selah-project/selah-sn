@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Naomi ndokutora ⟨את⟩ mwana, ndokumuisa muduzvi rwake, ndokuti ava mukuyamwi ari kwaari.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ndokutora"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "ndokumuisa"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "muduzvi rwake"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ndokuti ava"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ari kwaari"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mukuyamwi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:51:08.764079314Z",
+  "model": "glm-5.3"
+}

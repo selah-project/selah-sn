@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Simba rako, ndinorichengetedza; nokuti Erohimu ndiye chivharo changu.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Simba rako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ndinorichengetedza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "chivharo changu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:10.563031842Z",
+  "model": "glm-5.3"
+}

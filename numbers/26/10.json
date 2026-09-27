@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Ivhu rakavhurira ⟨את⟩ kamwa kayo, rakamedza ⟨אתם⟩ ivo, uye ⟨את⟩ Korahi, pakufa kweungano, apo moto waitengerera ⟨את⟩ makumi mashanu nemazana maviri vanhu; navakava cherechedzo.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "rakavhurira"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamwa kayo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "kamwa kayo"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "rakamedza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ivo (Dhatani naAbhiramu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Korahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "pakufa kwe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ungano"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "apo ... waitengerera"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makumi mashanu nemazana maviri vanhu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "nemazana maviri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "navakava"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "cherechedzo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:53:35.345448235Z",
+  "model": "glm-5.3"
+}

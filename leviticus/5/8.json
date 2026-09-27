@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ozounza ⟨את⟩ zviri kuna mupristi, uye ozopfuyira ⟨את⟩ iyo iri sechibairo chetadzo, ichokutanga; ozodonza ⟨את⟩ musoro wayo kumusoro kwemutsipa wake, asi haazvikananisi.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ozounza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "shiri mbiri idzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mupristi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ozopfuyira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyo iri sechibairo chetadzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sechibairo chetadzo"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ichokutanga"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ozodonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wayo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wayo"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "kumusoro kwa-"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "mutsipa wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi ha-"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "zvikananisi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:42:50.232374554Z",
+  "model": "glm-5.3"
+}

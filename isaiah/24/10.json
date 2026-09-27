@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Rakabvaruka guta renhumbwe; imba yose yakavharwa, yisina kupinda.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "rakabvaruka"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "guta"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "renhumbwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "yakavharwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "yisina kupinda"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:16.850132913Z",
+  "model": "glm-5.3"
+}

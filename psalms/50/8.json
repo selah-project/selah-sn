@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Haungamhokorodzwe nemachibairo ako; uye zipwa dzako dziri pamberi pangu nguva dzose.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Haunga-"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "machibairo ako"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "mhokorodzwe"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "uye zipwa dzako"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pamberi pangu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:43.741501329Z",
+  "model": "glm-5.3"
+}

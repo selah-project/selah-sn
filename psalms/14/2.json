@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Yahwe akatarisa kubva kumatenga pamusoro pevana vanhu, kuona kuti pane ane njere, anotsvaka ⟨את⟩ Erohimu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kubva kumatenga"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "akatarisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona kuti"
+    },
+    {
+      "surface": "היש",
+      "gloss": "pane"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ane njere"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "anotsvaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:55.561284515Z",
+  "model": "glm-5.3"
+}

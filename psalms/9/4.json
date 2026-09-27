@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Pakudzokera kwavavengi vangu kumashure, vachatetereka uye vachaparara pamusoro pechiso chenyu.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Pakudzokera kwa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vavengi vangu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "kumashure"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "vachatetereka"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "uye vachaparara"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pamusoro pechiso chenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:16.189329386Z",
+  "model": "glm-5.3"
+}

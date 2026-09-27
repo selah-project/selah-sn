@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Mafuta avo vakazvitseka; nomuromo wavo vakataura nomazvitiri.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mafuta avo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "vakazvitseka"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "nomuromo wavo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "nomazvitiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:35.671672975Z",
+  "model": "glm-5.3"
+}

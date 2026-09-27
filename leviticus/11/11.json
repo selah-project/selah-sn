@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye sheketi dzichava kwamuri; nyama yavo hamuzodyi, uye ⟨את⟩ matupi avo muchazvitsvenga.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "uye sheketi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dzichava"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nyama yavo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muzodyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matupi avo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "matupi avo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "muchazvitsvenga"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:25.593590742Z",
+  "model": "glm-5.3"
+}

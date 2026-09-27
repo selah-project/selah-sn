@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Nokuti kusvinda kwemukaka kunoburitsa ⟨chihoko⟩, uye kusvinda kwemhino kunoburitsa ropa, uye kusvinda kwehasa kunoburitsa makakatanwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "kusvinda"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mukaka"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kunoburitsa"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "chihoko"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "uye kusvinda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mhino"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kunoburitsa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "uye kusvinda"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "hasa"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kunoburitsa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "makakatanwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:54.973302239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Kana munhu ari mururami, uye angoita mutemo neutsvene,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "uye munhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ari"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mururami"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "angoita"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "neutsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T08:21:23.927309942Z",
+  "model": "glm-5.3"
+}

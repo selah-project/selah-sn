@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Asi muzvitadzo zvaYarobheamu mukororo waNevhati, wakakonzera ⟨את⟩ Israeri kutadza, akagara achibata; haana kuzasiya.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "asi"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "muzvitadzo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "zvaYarobheamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukororo wa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevhati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wa"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "akakonzera kutadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "akagara achibata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "סר",
+      "gloss": "kuzasiya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kazvi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:17:58.471907233Z",
+  "model": "glm-5.3"
+}

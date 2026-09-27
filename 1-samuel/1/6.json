@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye mukadzi mune huswa wainetesa kwazvo, nokutambudza, nokuda kukuisa kuti atsive; nokuti Yahwe akavhara nzvimbo yake yokuzvarira.",
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "nokutambudza"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "mukadzi mune huswa wake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "netsiso"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "nokuda kukuisa kuti atsive"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "anetsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akavhara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨nothing⟩"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "nzvimbo yake yokuzvarira"
+    }
+  ],
+  "timestamp": "2026-09-27T06:40:43.322029643Z",
+  "model": "glm-5.3"
+}

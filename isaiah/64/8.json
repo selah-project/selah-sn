@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "Usaiti kutsuruka kwazvo Yahwe, uye usarangarira nokusingaperi mhosva; ona, tarisa nemwero, tese tiri vanhu vako.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "usaiti"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "kutsuruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usaiti"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ukarangarira"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nemwero"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tese"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:15.643274825Z",
+  "model": "glm-5.3"
+}

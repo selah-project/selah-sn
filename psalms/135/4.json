@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Nokuti YakaobjudakasarudzaYah, Israeri sechuma chake chakanaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaka"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "judakasarudza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuti ave yake"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "sechuma chake chakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:40.104415046Z",
+  "model": "glm-5.3"
+}

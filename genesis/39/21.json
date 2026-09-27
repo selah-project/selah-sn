@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Uye Yahwe akanga ari ⟨את⟩ Yoshefu, akaunza hesedhi kwamari, nokumupa nyasha mumasoso emuchengeti wegereza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "akaita kuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoshefu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwamari"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nokumupa"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "nyasha"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mumasoso"
+    },
+    {
+      "surface": "שר",
+      "gloss": "emuchengeti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "we"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "gereza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:19:11.403804027Z",
+  "model": "glm-5.3"
+}

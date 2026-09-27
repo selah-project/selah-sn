@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Uye akati kuMoshe: Ini tezvara wako Yitiro ndauya kwauri, nomukadzi wako nevanakomana vaviri vake pamwe naye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "tezvara wako"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitiro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ndauya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nomukadzi wako"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "nevanakomana vaviri"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "vake"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "pamwe naye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:30.792507928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Unoziva ⟨את⟩ Abhinera mukoma waNera, kuti akauya kukunyengeredza, uye kuziva ⟨את⟩ kubuda kwako ne⟨את⟩ kupinda kwako, uye kuziva ⟨את⟩ zvose aunazviita.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhinera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abhinera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "נר",
+      "gloss": "waNera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "kukunyengeredza"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "uye kuziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubuda kwako"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "kubuda kwako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "kupinda kwako"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "kupinda kwako"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "uye kuziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvaunazviita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kuita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:01.003908361Z",
+  "model": "glm-5.3"
+}

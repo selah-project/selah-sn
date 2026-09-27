@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti vopenyi vanoziva kuti vachafa, asi vakafa havazivi chinhu, uye havachina mubairo futi, nokuti kurangwa kwavo kwakanganwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "vopenyi"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "vanoziva"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "kuti vachafa"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "asi vakafa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "zivi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mubairo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "kwakanganwa"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "kurangwa kwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:59.703730284Z",
+  "model": "glm-5.3"
+}

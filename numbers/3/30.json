@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Umambo we⟨mutungamiriri⟩ weimba yebaba remhuri dzevaKehati ndiwaEritsafani mukorwa waUzrieri.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "mutungamiriri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "weimba"
+    },
+    {
+      "surface": "אב",
+      "gloss": "yebaba"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "remhuri dze"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "vaKehati"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Eritsafani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "waUzrieri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:53:53.768809872Z",
+  "model": "glm-5.3"
+}

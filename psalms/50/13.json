@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Ndinodya here nyama yemabhuru? Nominwa here ropa remihorha?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Ndinodya here"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "yemabhuru"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "Nominwa here ropa"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "remihorha"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "⟨Nominwa here⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:07.628004267Z",
+  "model": "glm-5.3"
+}

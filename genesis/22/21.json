@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utuzi mukuru wokutanga woberekwa, uye ⟨את⟩ Buzi mukoma wake, uye ⟨את⟩ Kemueri baba vaAramu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utuzi"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utuzi"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mukuru wokutanga woberekwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Buzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mukoma wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Kemueri"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemueri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba va…"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:10:23.410231361Z",
+  "model": "glm-5.3"
+}

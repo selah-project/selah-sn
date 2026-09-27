@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Adonai akataura: Kubva muBashani ndichadzosera, ndichadzosera kubva mukudzika kwegungwa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Kubva muBashani"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndichadzosera"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ndichadzosera"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "kubva mukudzika"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kwegungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:46.403843727Z",
+  "model": "glm-5.3"
+}

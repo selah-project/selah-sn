@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Akauya kuna baba vake, akati: Baba! Iye akati: Ndiripo; ndiani iwe, mwanangu?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba!"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndiripo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwanangu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:05.617973082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye mhando nemagwenzi dzichamera kwazvo kwauri, uye uchadya ⟨את⟩ uswa wemunda.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Uye mhando"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "nemagwenzi"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "dzichamera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwazvo kwauri"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "uye uchadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uswa wemunda"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "uswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wemunda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:13.952080481Z",
+  "model": "glm-5.3"
+}

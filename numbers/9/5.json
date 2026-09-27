@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ivo vakaita ⟨את⟩ Paseka mumwedzi wekutanga, musi wegumi nenna wemwedzi, pakati pezviedwa, mugirazi reSinai; sezvakavudza Yahwe ⟨את⟩ Moshe, ndizvozvo vakaita vana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "mumwedzi wekutanga"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "nenna"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wegumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "wemwedzi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "pezviedwa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mugirazi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "reSinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvakavudza"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "zvakavudza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndizvozvo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:14.096238304Z",
+  "model": "glm-5.3"
+}

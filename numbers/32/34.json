@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Vana vaGadhi vakavaka ⟨את⟩ Dhibhoni, ne⟨את⟩ Atarothi, ne⟨את⟩ Aroeri.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "vakavaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhibhoni"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dhibhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Atarothi"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Aroeri"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:27.067965927Z",
+  "model": "glm-5.3"
+}

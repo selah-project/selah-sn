@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Vokapa vana vaIsraeri kuvaRevi, kubva mugovanwa wawo, nokurayirwa kwaYahwe, ⟨את⟩ maguta aya ⟨את⟩ nomafuro awo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Vokapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "kuvaRevi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "kubva mugovanwa wawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nokurayirwa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maguta aya"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maafuro awo"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "nomafuro awo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:04.491339519Z",
+  "model": "glm-5.3"
+}

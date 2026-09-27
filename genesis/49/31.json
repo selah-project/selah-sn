@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Ipo vakaviga ⟨את⟩ Abhurahama ne⟨את⟩ Sarra mukadzi wake; ipo vakaviga ⟨את⟩ Isaka ne⟨את⟩ Riveka mukadzi wake; nepo ipo ndakaviga ⟨את⟩ Rea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "vakaviga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhurahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Sarra"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarra"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "vakaviga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Riveka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riveka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "nepo ipo"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ndakaviga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Rea"
+    }
+  ],
+  "timestamp": "2026-09-27T05:24:14.257225810Z",
+  "model": "glm-5.3"
+}

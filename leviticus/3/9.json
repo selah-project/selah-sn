@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye anobva anonamura kubva muchibairo cheshelamimu chibairo chemoto chacho chinopihwa Yahwe: mafuta aro, nenhoo yose yamafuta, inobviswa yakanangana netsitsi; uye ⟨את⟩ mafuta anofukidza ⟨את⟩ zviropa, uye ⟨את⟩ mafuta ose ari pamusoro pezviropa,",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "anonamura"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "chibairo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "cheshelamimu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "chemoto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "chinopihwa Yahwe"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta aro"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "nhoo yamafuta"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "yose"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "yakanangana ne"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "tsitsi"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "inobviswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "anofukidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zviropa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zviropa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zviropa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:50.794122364Z",
+  "model": "glm-5.3"
+}

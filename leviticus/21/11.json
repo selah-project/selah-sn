@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye panhama yose inofa haapindi — kuna baba vake uye kuna amai vake haatapudzi.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Uye pane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nhama"
+    },
+    {
+      "surface": "מת",
+      "gloss": "inofa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "pindi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kuna baba vake"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "uye kuna amai vake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tapudzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:27.610494676Z",
+  "model": "glm-5.3"
+}

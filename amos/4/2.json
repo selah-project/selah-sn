@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Adonai Yahwe akapika muitsvene wake kuti: Tarira, mazuva anouya pamusoro penyu, uye vachakutorai ⟨אתכם⟩ nnezvihaho, nemagumu enu muzvimburu zvekubata hove.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "akapika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "muitsvene wake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tarira"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "באים",
+      "gloss": "anouya"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pamusoro penyu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "vachakutorai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "venyu"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "nnezvihaho"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "nemagumu enu"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "muzvimburu"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "zvekubata hove"
+    }
+  ],
+  "timestamp": "2026-09-27T08:40:12.986891869Z",
+  "model": "glm-5.3"
+}

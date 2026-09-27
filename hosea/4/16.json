@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nokuti se⟨a⟩ n'ombe isingateereri Israeri rakapotsa; zvino Yahwe achavarira se⟨a⟩ gwokwe panzvimbo yakakura?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "se n'ombe"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "isingateereri"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "rakapotsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "achavarira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "se gwokwe"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "panzvimbo yakakura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:36:06.678375478Z",
+  "model": "glm-5.3"
+}

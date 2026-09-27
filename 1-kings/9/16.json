@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Farao, mambo weEjiputa, aakakwira, akatora ⟨את⟩ Gezher, akayipisa nomoto, akauraya ⟨את⟩ mukanani aigara mudhombo, uye akaipeya mubairo womwanasikana wake, mukadzi waShehurumoni.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weEjiputa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "aakakwira"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezher"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezher"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "akayipisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "mukanani aigara mudhombo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "mukanani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "aigara"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mudhombo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "akaipeya"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "mubairo"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "womwanasikana wake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mukadzi wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shehurumoni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:50.210983960Z",
+  "model": "glm-5.3"
+}

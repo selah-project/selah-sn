@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Vamwe varume vakarebesa ⟨את⟩ ruoko rwavo, vakadzikisa ⟨את⟩ Loti kwavari, mumba; uye ⟨את⟩ chiyero vakativaridza.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "vakarebesa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vamwe varume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwavo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruoko rwavo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "vakadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chiyero"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "chiyero"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "vakativaridza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:08:40.213100433Z",
+  "model": "glm-5.3"
+}

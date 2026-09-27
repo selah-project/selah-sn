@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Akataura muchidza chemoyo chake: “Handisi kuzerereka; kubva muzera kusvika muzera handisi kuva mune yakaipa.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "muchidza chemoyo chake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "handisi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kuzerereka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kubva muzera"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kusvika muzera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨kuti⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handisi"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kuva mune yakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:24.233892209Z",
+  "model": "glm-5.3"
+}

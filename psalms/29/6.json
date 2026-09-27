@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye anovaita kuti vatame senhetevu — Rebhanoni neShiriyoni semhuru weraino.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "anovaita kuti vatame"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nhetevu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Rebhanoni"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "neShiriyoni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "se"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mhuru we"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "raino"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:20.025021152Z",
+  "model": "glm-5.3"
+}

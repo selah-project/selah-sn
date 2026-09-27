@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Kuvaka-ndakovaka imba yezvibvo zvako, nzvimbo yakadzikama yekugara kwako kwenguva zhinose.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ndakovaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "yezvibvo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwako"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nzvimbo yakadzikama"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "yekugara kwako"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kwenguva zhinose"
+    }
+  ],
+  "timestamp": "2026-09-27T07:10:09.958432894Z",
+  "model": "glm-5.3"
+}

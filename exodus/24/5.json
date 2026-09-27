@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Akatumira ⟨את⟩ vakomana vevana vaIsiraeri; vakakwidza zvibairo zvopisa, uye vakapira zvibairo zvokurarama zvakanaka kuna Yahwe — madhonza.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Akatumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakomana vevana vaIsiraeri"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vevana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vakakwidza"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "zvibairo zvopisa"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "vakapira"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "zvibairo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "zvokurarama zvakanaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "madhonza"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:41.408568288Z",
+  "model": "glm-5.3"
+}

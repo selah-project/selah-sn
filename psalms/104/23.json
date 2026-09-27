@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Munhu anobuda kuenda kubasa rwake, nekushanda kwake kusvika manheru.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "anobuda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Munhu"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "kuenda kubasa rwake"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "nekushanda kwake"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manheru"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:10.489009150Z",
+  "model": "glm-5.3"
+}

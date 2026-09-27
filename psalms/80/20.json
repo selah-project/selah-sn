@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 80,
+  "translation": "Yahwe, Erohimu waTsevaoti, tidzokerezve; heniko chiso chako, uye tichaponeswa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "waTsevaoti"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tidzokerezve"
+    },
+    {
+      "surface": "האר",
+      "gloss": "heniko"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "uye tichaponeswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:20.689602099Z",
+  "model": "glm-5.3"
+}

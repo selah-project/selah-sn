@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Asi usina kundidana ⟨את⟩-ini, iwe Yaakobha; nokuti wasvota neni, iwe Isuraeri.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi usina"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-ini",
+      "marks": "kundidana"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "kudana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "wasvota"
+    },
+    {
+      "surface": "בי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isuraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:41:53.779954895Z",
+  "model": "glm-5.3"
+}

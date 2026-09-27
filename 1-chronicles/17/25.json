@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Nokuti iwe, Erohimu wangu, wakavhurazve ⟨את⟩ nzeve yemuranda wako, kuti umuvakire ⟨iye⟩ imba, nokudaro muranda wako wawana ⟨simba⟩ rokunamata pamberi pako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "wakavhurazve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzeve yemuranda wako"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "nzeve"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yemuranda wako"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iye⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwazvo"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "wawana"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "muranda wako"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "rokunamata"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pamberi pako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:00.882317799Z",
+  "model": "glm-5.3"
+}

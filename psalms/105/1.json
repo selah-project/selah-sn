@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 105,
+  "translation": "Kudzivirira kuita Yahwe; itai izita rake; zivisanai mumativi a Madzinza mabasa ake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Kudzivirira kuita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "itai"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "izita rake"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "zivisanai"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mumativi a Madzinza"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mabasa ake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:45.910116936Z",
+  "model": "glm-5.3"
+}

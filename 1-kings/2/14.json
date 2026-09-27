@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndokuti iye, “Ndine chinyorwa chokutaura newe.” Iye ndokuti, “Taura.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ndokuti iye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinyorwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndine"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "newe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "iye ndokuti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:06.295127020Z",
+  "model": "glm-5.3"
+}

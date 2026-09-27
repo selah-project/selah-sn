@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye unozvisunga seratidzo ruwoko rwako, uye zvichava zvinonyorwa pamera pakati pemaziso ako.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "unozvisunga"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "seratidzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ru-"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruwoko rwako"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "zvichava"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "zvinonyorwa pamera"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "maziso ako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:00.267908683Z",
+  "model": "glm-5.3"
+}

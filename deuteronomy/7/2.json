@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "uye Yahwe Erohimu wako achazvipa pachiso chako, uye uchavarova: uchazviparadza zvachose ⟨את⟩ iwo; haucheki navo sungano, wokuti hauvatenderi tsitsi.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "achazvipa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pachiso chako"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "uchavarova"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "uchazviparadza"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "haucheki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "navo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sungano"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "wokuti hau"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "vatenderi tsitsi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:34.371394092Z",
+  "model": "glm-5.3"
+}

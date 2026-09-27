@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Vose vanonyadziswa ⟨ne⟩vanhu vasingabatsiri kwavari; kwete kubatsira, kwete kubatsira zvachose, asi idombo uye zvitutumwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Vose"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "vanonyadziswa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "visina"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "kubatsira"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "kubatsira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "kubatsira chero chii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "idombo (nyadzo)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye zve"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "zvitutumwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:30.605589124Z",
+  "model": "glm-5.3"
+}

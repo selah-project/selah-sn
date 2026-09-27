@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Hapana utano mumuviri wangu nokuda kwekutsamwa kwako; hapana runyararo mumbitsa mvangu nokuda kwematadzo angu.",
+  "tokens": [
+    {
+      "surface": "אֵין",
+      "gloss": "Hapana"
+    },
+    {
+      "surface": "מְתֹם",
+      "gloss": "utano"
+    },
+    {
+      "surface": "בְּבְשָׂרִי",
+      "gloss": "mumuviri wangu"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "nokuda kwe"
+    },
+    {
+      "surface": "זַעְמֶךָ",
+      "gloss": "kutsamwa kwako"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "שָׁלוֹם",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "בַּעֲצָמַי",
+      "gloss": "mumbitsa mvangu"
+    },
+    {
+      "surface": "מִפְּנֵי",
+      "gloss": "nokuda kwa"
+    },
+    {
+      "surface": "חַטָּאתִי",
+      "gloss": "matadzo angu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:17.862812421Z",
+  "model": "glm-5.3"
+}

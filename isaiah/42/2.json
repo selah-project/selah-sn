@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Haachemi, kana kuwedzera izwi, haaita kuti izwi rake richinzwikwe panze.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "achemi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana kuti ha"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kuwedzera izwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haaita kuti"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "richinzwikwe"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "panze"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "izwi rake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:14.900547965Z",
+  "model": "glm-5.3"
+}

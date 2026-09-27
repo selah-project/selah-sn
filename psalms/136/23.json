@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Akatikoshesa pataive tiri kumashure, akatibuka, nokuti hesedhi yake yakusingaperi.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "pataive tiri kumashure"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akatibuka"
+    },
+    {
+      "surface": "לנu",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yakusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:10.527024991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Nokuti namakomborero akanaka waamutangira, wakagadzikisa pamusoro pemusoro wake dzvene rerendadhahabhu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "waamutangira"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "namakomborero"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "wakagadzikisa"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "pamusoro pemusoro wake"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "dzvene"
+    },
+    {
+      "surface": "פז",
+      "gloss": "rerendadhahabhu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:42.592659113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "ne⟨את⟩ shukuru, ne⟨את⟩ sharikhi, ne⟨את⟩ yanshiphu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "shukuru"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "shukuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "sharikhi"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "sharikhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "yanshiphu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshiphu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:43.005973317Z",
+  "model": "glm-5.3"
+}

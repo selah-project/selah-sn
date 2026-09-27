@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Ndakamhanyisa, ndikasatemedza, kuchengeta mirairo yako.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ndakamhanyisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ndikasa"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "temedza"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kuchengeta"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mirairo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:12.652986033Z",
+  "model": "glm-5.3"
+}

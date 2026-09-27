@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nhungamiri vamambo, vashumiri vake, vakati: Ngavaunganidzwe kuna mambo nsikana mhandara dzakanaka kuterera.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "nhungamiri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vamambo"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "vashumiri vake"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ngavaunganidzwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuna mambo"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "nsikana"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "mhandara"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "dzakanaka"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuterera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:19.671417905Z",
+  "model": "glm-5.3"
+}

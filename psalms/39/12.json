@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Nekutsoropodza pamusoro pemhosva wakarairira ⟨את⟩ munhu, uye wakamunyudza segoho zvaanoda; zvirokwazvo, munhu oyese chinhu chinopfuyuka chete. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "nekutsoropodza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mhosva"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "wakarairira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "uye wakanyudza"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "segoho"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "zvaanoda"
+    },
+    {
+      "surface": "אך",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "chinhu chinopfuyuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oyese"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:29.742329422Z",
+  "model": "glm-5.3"
+}

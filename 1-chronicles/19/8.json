@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Davhidhi akanzwa, akatumira ⟨את⟩ Yowabhu, naye ⟨את⟩ bato rose revashandi vamasimba.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davhidhi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabhu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bato rose revashandi vamasimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bato revashandi"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "vamasimba"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:32.961386849Z",
+  "model": "glm-5.3"
+}

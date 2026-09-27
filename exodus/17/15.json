@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Moshe akavaka altari, akaipa zita rokuti Yahwe-Nisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "akavaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akaipa zita rokuti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:00.892447831Z",
+  "model": "glm-5.3"
+}

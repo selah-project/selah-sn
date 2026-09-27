@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Ndichakuchengetedza ⟨את⟩ iwe ikoko, nokuti nzara ichange isina kuperwa makore mashanu, kuti usava neshayiko — iwe, neimba yako, nezvose zvaunazvo.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "Ndichakuchengetedza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "iwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ichange isina kuperwa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuti usa-"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "va neshayiko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "neimba yako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "לך",
+      "gloss": "unazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:25.675993737Z",
+  "model": "glm-5.3"
+}

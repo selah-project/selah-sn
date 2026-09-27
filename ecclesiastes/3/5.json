@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nguva yokukanda mabwe, nenguva yokuunganidza mabwe; nguva yokukumbombedzana, nenguva yokure ⟨kubva pakumbombedzana⟩.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Nguva"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "yokukanda"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "yokuunganidza"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "yokukumbombedzana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "yokure"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "kubva pakumbombedzana"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:43.012076408Z",
+  "model": "glm-5.3"
+}

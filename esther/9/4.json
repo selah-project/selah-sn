@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 9:4",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nokuti Morodhakai aive mukuru mumba mambo, nezita rake rinoenda muzose matunhu; nokuti munhu Morodhakai ane kuenda, okuwedzera kukura.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodhakai"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nezita rake"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "rinoenda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muzose"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "matunhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Morodhakai"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ane kuenda"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "okuwedzera kukura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:59:27.298433961Z",
+  "model": "glm-5.3"
+}

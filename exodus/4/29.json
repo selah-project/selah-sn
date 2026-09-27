@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Moshe naAharona vakafamba, vakasangana ⟨את⟩ nevadzikwambo vose vavanhu vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "vakafamba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAharona"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "vakasangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevadzikwambo vose vavanhu vaIsraeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "nevadzikwambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vavanhu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:42.588819987Z",
+  "model": "glm-5.3"
+}

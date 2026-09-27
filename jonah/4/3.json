@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Naizvozvo, Yahwe, ndapota, tora ⟨את⟩ mweya wangu kubva kwandiri, nokuti kufa kwangu kunokurira kupenyu kwangu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tora"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweya wangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva kwandiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kunokurira"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "kufa kwangu"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kupenyu kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:13:18.347030229Z",
+  "model": "glm-5.3"
+}

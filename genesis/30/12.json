@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Zilpa, muzvazvariri waReya, akazvara kwauri Yakobho mukomana wechipiri.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "muzvazvariri wa-"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Reya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wechipiri"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yakobho"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:26.563855877Z",
+  "model": "glm-5.3"
+}

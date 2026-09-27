@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 83,
+  "translation": "Naizvozvo uvateveri nedongo rako, uye neshando yako uvashaise.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "uvateveri"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "nedongo rako"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "uye neshando yako"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "uvashaise"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:17.446334575Z",
+  "model": "glm-5.3"
+}

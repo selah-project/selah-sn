@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino zvakaitika, pakuzadzwa kwezvitengeso, akati kumwanakomana wake: Ndiunzire kundiri zvimwe zvitengeso. Iye akati kwaari: hapana zvimwe zvitengeso. Mafuta akamira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvakaitika"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "pakuzadzwa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kwezvitengeso"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Ndiunzire"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvimwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvitengeso"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvimwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvitengeso"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:14.864467478Z",
+  "model": "glm-5.3"
+}

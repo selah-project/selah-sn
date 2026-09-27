@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 76,
+  "translation": "Kubva kurapuridzo yako, Erohimu waJakobo, zvakarara dzoro chikochani neguruzvi.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Kubva kurapuridzo yako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "waJakobo"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "zvakarara dzoro"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "neguruzvi"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "nehosi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.694867293Z",
+  "model": "glm-5.3"
+}

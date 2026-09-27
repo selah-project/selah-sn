@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "uye ukadzoka kuna Yahwe Erohimu wako, uye ukateerera izwi rake sokufanana kwezvose ndinokurayira nhasi, iwe nevavana vako, nemoyo wako wose, neupenyu hwako hwose;",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "ukadzoka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ukateerera"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "izwi rake"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sokufanana kwezvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "nevavana vako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne…wose"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako wose"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ne…hwose"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "upenyu hwako hwose"
+    }
+  ],
+  "timestamp": "2026-09-27T06:20:33.606569910Z",
+  "model": "glm-5.3"
+}

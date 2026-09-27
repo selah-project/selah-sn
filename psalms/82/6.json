@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 82,
+  "translation": "Ndini ndakati: mwari imi, navakuru vana vevakuru imi mese.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ndakati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "navakuru vana ve-"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "vaEriyoni"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "imi mese"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:29.184768175Z",
+  "model": "glm-5.3"
+}

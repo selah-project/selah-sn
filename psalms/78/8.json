@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Uye vasave semadzibaba avo, ruri runopikisa rukashata, ruri rwoita mashure ruine ruvengo; asi ruri rwakagadzikana kunaEr ruvengo rwarwo hwarunasimba ⟨את⟩ ⟨is⟩ ruvengo rweEr rwakatendeka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kusave"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "semadzibaba avo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "runopikisa"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "rukashata"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "kugadzikana"
+    },
+    {
+      "surface": "לבowo",
+      "gloss": "moyo wake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye havana"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "kutendeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Er"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Mweya wake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:23.261226067Z",
+  "model": "glm-5.3"
+}

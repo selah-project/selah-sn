@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye mupristi mukuru mune vamwe vake vakomana, uyo wakaisirwa pamusoro pemusoro wake mafuta echizodzo, uye akazadza ⟨את⟩ ruoko rwake kuvhara ⟨את⟩ zvipfeko — ⟨את⟩ musoro wake haabvise, uye zvipfeko zvake haatsemure.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Uye mupristi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mukuru"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "mune vamwe vake vakomana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "wakaisirwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wake"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "echizodzo"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "uye akazadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwake"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "kuvhara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfeko"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "zvipfeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wake"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "bvise"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "uye zvipfeko zvake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "tsemure"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:27.610307626Z",
+  "model": "glm-5.3"
+}

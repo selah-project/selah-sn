@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye ndichaparadza ⟨את⟩ nzvimbo dzenyu dzakakwirira, ndichadimbura ⟨את⟩ zvidhindo zvemuzuva zvenyu, ndichaisa ⟨את⟩ mabhodhoro enyu pamusoro pemabhodhoro emidhunamutwi yenyu, uye mweya wangu uchasuwa ⟨את⟩ nemi.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "ndichaparadza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzvimbo dzenyu dzakakwirira"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "nzvimbo dzenyu dzakakwirira"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndichadimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvidhindo zvemuzuva zvenyu"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "zvidhindo zvemuzuva zvenyu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabhodhoro enyu"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "mabhodhoro enyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "mabhodhoro"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "emidhunamutwi yenyu"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "uchasuva"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nemi",
+      "marks": "nemi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:54.934176577Z",
+  "model": "glm-5.3"
+}

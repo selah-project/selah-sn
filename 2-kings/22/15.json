@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Ndiye akati kuvo: Zvakadaro zvinoti Yahwe, Erohimu weIsiraeri: Ndinirei kumurume uyo akatuma ⟨את⟩ imi kundiri:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ndiye akati"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kuvo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvinoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu we"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraeri"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Ndinirei"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumurume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:04.018098266Z",
+  "model": "glm-5.3"
+}

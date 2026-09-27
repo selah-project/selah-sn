@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 72,
+  "translation": "YaShoromoh. Erohimu, tapa humhandu hwako komambo, netsveneyo yako komwanamambo.",
+  "tokens": [
+    {
+      "surface": "לִשְׁלֹמֹה",
+      "gloss": "YaShoromoh"
+    },
+    {
+      "surface": "אֱֽלֹהִים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מִשְׁפָּטֶיךָ",
+      "gloss": "humhandu hwako"
+    },
+    {
+      "surface": "לְמֶלֶךְ",
+      "gloss": "komambo"
+    },
+    {
+      "surface": "תֵּן",
+      "gloss": "tapa"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ",
+      "gloss": "netsveneyo yako"
+    },
+    {
+      "surface": "לְבֶן",
+      "gloss": "komwanamambo"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-27T09:05:35.949161903Z",
+  "model": "glm-5.3"
+}

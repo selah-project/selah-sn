@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 136,
+  "translation": "Kune anoita zvinoshamisa zvikuru ega, nokuti hesedhi yake inogara nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kune anoita"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zvinoshamisa"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "inogara nokusingaperi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedhi yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:26.960786634Z",
+  "model": "glm-5.3"
+}

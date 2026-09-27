@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ne⟨את⟩ matare avo ose anogaramwa navo, ne⟨את⟩ matorwa avo ose, vakapisa nomoto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matare avo ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "matare avo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "anogaramwa navo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "matorwa avo ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "matorwa avo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "vakapisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nomoto"
+    }
+  ],
+  "timestamp": "2026-09-27T06:06:10.997911892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Kune mutungamiri wevaimbi, ⟨Usaparadze⟩; ndedzaDhavhidhi, Mikitamu, painoita bhurakwa rake kubva pachiso chaShauru, muguva.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kune mutungamiri wevaimbi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Usaparadze⟩"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "usaparadze"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ndedzaDhavhidhi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikitamu"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "painoita bhurakwa rake"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kubva pachiso cha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "muguva"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:57.216189094Z",
+  "model": "glm-5.3"
+}

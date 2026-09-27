@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Adyacha ⟨את⟩ mkaka wakagodzwa nehuchi, kuti azive kusarudza chakaipa nokudikanwa chakanaka.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "mkaka wakagodzwa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nehuchi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adyacha"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "kuti azive"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "kusarudza"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "nokudikanwa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "chakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T11:03:57.848469701Z",
+  "model": "glm-5.3"
+}

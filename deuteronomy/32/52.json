@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Nokuti kure uchaona ⟨את⟩ nyika, asi ikoko haugone kupinda munyika yandinopa vana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kure"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uchaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haugone"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kupinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "-pa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:10.663617867Z",
+  "model": "glm-5.3"
+}

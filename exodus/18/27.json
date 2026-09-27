@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Moshe akatumira ⟨את⟩ tezvara wake, wokuti akaenda kunaake kundayo yake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatumira"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tezvara wake"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "tezvara wake"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kunaake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ndayo yake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:41.784395902Z",
+  "model": "glm-5.3"
+}

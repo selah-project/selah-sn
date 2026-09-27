@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Akakwira kerubhu nokubhururuka, akabhururuka pamusoro pe-mapendekuti emhepo.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubhu"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "nokubhururuka"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "akabhururuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapendekuti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "emhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:51.174397708Z",
+  "model": "glm-5.3"
+}

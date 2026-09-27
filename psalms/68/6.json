@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Baba vevanherera, mutongi wevakafirwa, ⟨ndiro⟩ Erohimu, mugerero wake wetsvene.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Baba ve"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "vanherera"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "mutongi we"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vakafirwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "mugerero"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "wake wetsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:46.880250175Z",
+  "model": "glm-5.3"
+}

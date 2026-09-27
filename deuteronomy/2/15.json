@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvokuti ruwoko rwaYahwe rwakanga rwuri pavari, kuvasvitsa kuparadzwa kubva pakati pemu⟨the⟩sasa, kusvika vapera.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "zvokuti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "rwakanga rwuri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pavari"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "kuvasvitsa kuparadzwa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kubva pakati"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pemu⟨the⟩sasa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "vapera"
+    }
+  ],
+  "timestamp": "2026-09-27T10:53:01.616557479Z",
+  "model": "glm-5.3"
+}

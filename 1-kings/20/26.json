@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Zvino zvino pakutenderera kwegore, Beni-Hadhadhi akaverenga ⟨את⟩ vaAramu, akakwira kuAifeka, kurwa neIsraeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvino"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "pakutenderera"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "kwegore"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "akaverenga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "waHadhadhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaAramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "vaAramu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "kuAifeka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kurwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:15:56.216924320Z",
+  "model": "glm-5.3"
+}

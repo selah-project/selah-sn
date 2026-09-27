@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Akatya ⟨את⟩ izwi raYahwe pakati pevaranda vaParoh akatizisa ⟨את⟩ varanda vake ne⟨את⟩ zvipfuyo zvake, akavadzikisa mumba.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Akatya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi raYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "pakati pevaranda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "vaParoh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "akatizisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvipfuyo zvake"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "zvipfuyo zvake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mumba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:18.372723525Z",
+  "model": "glm-5.3"
+}

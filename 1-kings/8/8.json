@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 8:8",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Ndipo matanda akareba, ndipo misoro yematanda yaionekwa kubva mutsvene, pamberi pedevira; asi yaionaonekwa kunze; ndipo yakagara ikoko kusvika zuva iri.",
+  "tokens": [
+    {
+      "surface": "ויארכו",
+      "gloss": "akareba"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "yaionekwa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "misoro"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "yematanda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mutsvene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pechiso che"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "pedevira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "yaionaonekwa"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "yakagara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:09:41.474857774Z",
+  "model": "glm-5.3"
+}

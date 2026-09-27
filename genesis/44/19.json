@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Tenzi wangu akabvunza ⟨את⟩ varanda vake, ati: Kodi mune baba kana munin'ina?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Tenzi wangu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "akabvunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varanda vake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Kodi mune"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mune"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אח",
+      "gloss": "munin'ina"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:55.655570416Z",
+  "model": "glm-5.3"
+}

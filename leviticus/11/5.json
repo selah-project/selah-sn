@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye ⟨את⟩ shafani, nokuti anokwidza ⟨את⟩ gera, asi parisa haazvipatsanura — haatsvene iye kwamuri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shafani"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "anokwidza"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "parisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa-"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "zvipatsanura"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "haatsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:47.793716953Z",
+  "model": "glm-5.3"
+}

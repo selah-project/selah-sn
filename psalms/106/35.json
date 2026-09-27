@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "asi vakasanganiswa nemarudzi, uye vakadzidza mabasa avo.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "asi vakasanganiswa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nemarudzi"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "uye vakadzidza"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mabasa avo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:44.338060314Z",
+  "model": "glm-5.3"
+}

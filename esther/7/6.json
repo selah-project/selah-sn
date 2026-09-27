@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Esteri akati: Munhu anotambudza nomuvengi ⟨ndi⟩ Hamani muipi uyu. Hamani akatya pamberi pemambo nemambokadzi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "anotambudza"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "nomuvengi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "muipi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "akatya"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pamberi pa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "nemambokadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:00:24.097039410Z",
+  "model": "glm-5.3"
+}

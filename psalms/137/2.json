@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 137,
+  "translation": "Pamiti yemizhanje mukati medzo takamisa makinora edu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "mizhanje"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "mukati medzo"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "takamisa"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "makinora edu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:34.281349168Z",
+  "model": "glm-5.3"
+}

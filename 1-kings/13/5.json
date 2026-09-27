@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Uye ⟨altari⟩ yakaputika, uye madhota akabuditswa kubva mualtari, sezviratidzo izvo munhu waErohimu akapa mushoko maYahwe.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "yakaputika"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "akabuditswa"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "madhota"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mualtari"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "sezviratidzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "mushoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "maYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:12:35.729896658Z",
+  "model": "glm-5.3"
+}

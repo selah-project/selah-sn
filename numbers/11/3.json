@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Zita remunhuwo akarehwa Tabhera, nokuti moto waYahwe wakapisa pakati pavo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akarehwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Zita"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "remunhuwo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabhera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "wakapisa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pakati pavo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:31.378112642Z",
+  "model": "glm-5.3"
+}

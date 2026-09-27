@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndichakuroora kandiri murutendo; uyeuchaziva ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "Ndichakuroora"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kandiri"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "murutendo"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "uyeuchaziva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:35:47.108689550Z",
+  "model": "glm-5.3"
+}

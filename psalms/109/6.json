@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 109,
+  "translation": "Isa muipi pamusoro pake, uye satani amire kurudyi rwake.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pake"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "muipi"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "uye satani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "amire"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kurudyi rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:39.521960435Z",
+  "model": "glm-5.3"
+}

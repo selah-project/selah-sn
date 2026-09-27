@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "nokupa iwe ⟨את⟩ chipo cheAbhurahama — iwe, nenhodzi yako iyo ⟨את⟩ iri newe — kuti ugare nhaka ⟨את⟩ nyika yokutambuka kwako, iyo Erohimu yakapa Abhurahama.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nokupa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipo cheAbhurahama"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "chipo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "cheAbhurahama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "nenhodzi yako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iri newe"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "kuti ugare nhaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "yokutambuka kwako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yakapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abhurahama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:40.335578432Z",
+  "model": "glm-5.3"
+}

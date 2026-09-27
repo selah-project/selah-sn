@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Tanda rimwe ne rimwe raiva namaoko maviri, akabatana umwe neumwe; saizvozvo akaita matanda ose eMishikani.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "maviri"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "maoko"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "kwetanda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "rimwe"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "akabatana"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "matanda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "eMishikani"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:18.171867918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye vana veIsiraeri vakabvisa ⟨את⟩ maBharimu ne⟨את⟩ Ashtaroti, uye vakatenda ⟨את⟩ Yahwe chete.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "vakabvisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsiraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maBharimu"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "maBharimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtaroti"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtaroti"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "vakatenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "chete"
+    }
+  ],
+  "timestamp": "2026-09-27T06:43:46.256558003Z",
+  "model": "glm-5.3"
+}

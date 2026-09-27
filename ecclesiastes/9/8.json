@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Nguva dzose nguva dzose ngavave zviri zvino mbatya dzako zvichena, uye mafuta pasi pehuso hwako asanangwe.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ngavave"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "mbatya dzako"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "zvichena"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "uye mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pasi pe"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "huso hwako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "asa-"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "nangwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:59.704301423Z",
+  "model": "glm-5.3"
+}

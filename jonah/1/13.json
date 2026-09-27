@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Asi varume vakawanda kutadza kudzokera kudhiri reyabhasha, asi havana kukwanisa, nokuti gungwa rakanga richienda richikwira mhasha pairi.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "vakawanda kutadza"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "varume"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kudzokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dhiri reyabhasha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "havana kukwanisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "richienda"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "richikwira mhasha"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pairi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:54.574202148Z",
+  "model": "glm-5.3"
+}

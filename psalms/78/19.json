@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Vakataura ⟨kurwisa⟩ Erohimu, vakati: “Er anogona here kugadzaira tafiri munzvimbo yoma?”",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kurwisa Erohimu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "anogona here"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "kugadzaira"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafiri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "munzvimbo yoma"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:28.160309676Z",
+  "model": "glm-5.3"
+}

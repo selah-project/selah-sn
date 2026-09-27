@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nzvimbo yose ino murwodzi rwenhengo dzenyu richidzikira paivo, ndinokupai neo, sokutaura kwandinoita naMoshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "Nzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ino"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "richidzikira"
+    },
+    {
+      "surface": "כף",
+      "gloss": "rwodzi"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "rwenhengo dzenyu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paivo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ndinokupai"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "neo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaura"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kwandinoita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:23:50.119141830Z",
+  "model": "glm-5.3"
+}

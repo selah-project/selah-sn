@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Asi ini, ndichafamba mukuzvarwa kwangu; ndinunure, uye nditenderere nyasha.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "mukuzvarwa kwangu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ndichafamba"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ndinunure"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "nditenderere nyasha"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:05.094632477Z",
+  "model": "glm-5.3"
+}

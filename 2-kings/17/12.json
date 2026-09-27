@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Vakanamata zvipingamupinyi izvo Yahwe akataura kwavati: 'Musaita ⟨את⟩ chinhu ichi.'",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "vakanamata"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "zvipingamupinyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "musaita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinhu ichi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:57.829967328Z",
+  "model": "glm-5.3"
+}

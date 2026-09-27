@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Pamira kwavo, aimira; uye pakusimudzwa kwavo, ndokuzvisimudza ⟨avo⟩; nokuti Mweya wechipenyu ari muivo.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "pamira kwavo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "aimira"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "pakusimudzwa kwavo"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ndokuzvisimudza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "avo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Mweya"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wechipenyu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "muivo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:18:29.324554732Z",
+  "model": "glm-5.3"
+}

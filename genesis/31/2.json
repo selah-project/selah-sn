@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Yakobo akatarisa ⟨את⟩ chiso chaRabhan, uye taona iye asisiri naye seenzuro nemazuva apfuura.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akatarisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chaRabhan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "chaRabhan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uyye taona"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "asisiri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "seenzuro"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "nemazuva apfuura"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:36.577812296Z",
+  "model": "glm-5.3"
+}

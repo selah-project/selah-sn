@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti mugari weMarothi aitarisira zvakanaka; asi koipa kwakadzika kubva kuna Yahwe ⟨את⟩, kusvika musuo waYerushalemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "akatambudzika-aitarisira"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "mugari"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marothi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi nokuti"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kwakadzika"
+    },
+    {
+      "surface": "רע",
+      "gloss": "koipa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kubva kuna ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "kusvika musuo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "waYerushalemu"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:13.492426647Z",
+  "model": "glm-5.3"
+}

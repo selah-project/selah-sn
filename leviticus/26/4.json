@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "ndichapa kunaya kwenyu kunenguva dzayo, nyika ichapa zvibereko zvaito, miti yensimu ichapa michero yayo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ndichapa"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "kunaya kwenyu"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "kunenguva dzayo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ichapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zvibereko zvaito"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "miti"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "yensimu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ichapa"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "michero yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:51:16.034280702Z",
+  "model": "glm-5.3"
+}

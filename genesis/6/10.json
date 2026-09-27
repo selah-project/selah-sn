@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Nohha akazvara vanakomana vatatu: ⟨את⟩ Sheamu, ⟨את⟩ Chamu, na⟨את⟩ Yafetu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nohha"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "vatatu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vanakomana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheamu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chamu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "Yafetu"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafetu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:05:25.451656151Z",
+  "model": "glm-5.3"
+}

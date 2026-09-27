@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Ita seunotaura nzeve dzevanhu, uye vanhu van√¥ kumbira: mumwe nomumwe kune ⟨את⟩ mwenzi wake, womwe nomwe kune ⟨את⟩ mwenzi wake — zvinhu zvesirivha nezvinhu zve dhahabhu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ita seunotaura"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nzeve dze"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "vanhu vanze kumbira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kune ⟨את⟩",
+      "marks": "mwenzi wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mwenzi wake"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "womwe nomwomwe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kune ⟨את⟩",
+      "marks": "mwenzi wake"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "mwenzi wake"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvinhu zve"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezvinhu zve"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dhahabhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:57.284724243Z",
+  "model": "glm-5.3"
+}

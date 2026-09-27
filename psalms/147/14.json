@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 147,
+  "translation": "Anogadza runyararo mumuganhu wako, anokugutsa negutsa rwechibage.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "anogadza"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "mumuganhu wako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gutsa"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "rechibage"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "anokugutsa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:51.240642375Z",
+  "model": "glm-5.3"
+}

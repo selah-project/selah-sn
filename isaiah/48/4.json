@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Nokuti ndaiziva kuti wakaoma, uye tsandanyama yebesi ndiyo shure kwako, uye bindu rako mhangura.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Nokuti ndaiziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "wakaoma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uri"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "uye tsandanyama"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yebesi"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "shure kwako"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "uye bindu rako"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mhangura"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:23.013297955Z",
+  "model": "glm-5.3"
+}

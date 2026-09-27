@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Ataruya akanzwa ⟨את⟩ izwi revanomhanya, revanhu, akapinda kune vanhu, imba yaYahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Ataruya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "revanomhanya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "revanhu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "akapinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T07:22:26.982147090Z",
+  "model": "glm-5.3"
+}

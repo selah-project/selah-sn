@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Unomhanyisa pa shumba nomokota; unotsikisa mhangara njoka guru.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "shumba"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "nomokota"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "unomhanyisa"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "unotsikisa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "mhangara"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "njoka guru"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:24.192545107Z",
+  "model": "glm-5.3"
+}

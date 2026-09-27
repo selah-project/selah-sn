@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kubva dzinza raReuvheni: ⟨את⟩ Bhetsa nematunza aro, ⟨את⟩ Yahatsa nematunza aro.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Uye kubva dzinza"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "raReuvheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bhetsa"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Bhetsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunza aro (eBhetsa)"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunza aro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matunza aro (eYahatsa)"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunza aro"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:34.543785810Z",
+  "model": "glm-5.3"
+}

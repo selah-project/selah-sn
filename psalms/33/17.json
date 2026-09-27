@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Shekera ihosi rokuponesa; uye nehuwandu hweisimba rayo haiponesi.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "shekera"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ihosi"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "rokuponesa"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "uye nehuwandu"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hweisimba rayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "haiponesi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.281933402Z",
+  "model": "glm-5.3"
+}

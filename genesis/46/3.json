@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Akati: “Ndiri Er, Erohimu waibaba wako; usatya kudzikira kuIgupti, nokuti ndichakuita rudzi huru ipapo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ndiri"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa-"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ibaba wako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tya"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "kudzikira ku-"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Igupti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "huru"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "ndichakuita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:21.923621382Z",
+  "model": "glm-5.3"
+}

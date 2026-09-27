@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye kana chibairo chake chiri mbudzi, anobva anonamura ichi pachiso chaYahwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Uye kana"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "chibairo chake"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "anonamura"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso cha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:50.794677997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "akagadzira nzira yekutsamwa kwake; haairemeredza ⟨את⟩ mweya wavo kufa, asi akaipa ⟨את⟩ hupenyu hwavo kuunyongo.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "akagadzira"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "yekutsamwa kwake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "airemeredza"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mweya wavo"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "hupenyu hwavo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kuunyongo"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "akaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:36.002578587Z",
+  "model": "glm-5.3"
+}

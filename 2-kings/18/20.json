@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Wawoti: izwi remazvariro chete! umboo nesimba rokuhondo! Zvino uri kuvimbira ani, nokuti wakatambudzika mandiri?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Wawoti"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chete"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "remazvariro"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "umboo"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "rokuhondo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuvimbira"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "uri kuvimbira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "wakatambudzika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:24:41.447655874Z",
+  "model": "glm-5.3"
+}

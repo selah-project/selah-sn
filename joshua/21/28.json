@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye kubva mututowa waYisakara: ⟨את⟩ Kishiyoni nematunhu ayo, ⟨את⟩ Dhabherata nematunhu ayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "uye kubva mututowa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "waYisakara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishiyoni"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunhu ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunhu ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dhabherata"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dhabherata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "matunhu ayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nematunhu ayo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:50.446814080Z",
+  "model": "glm-5.3"
+}

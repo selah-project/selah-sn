@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Rangarira ⟨את⟩ zuva reShabhata, rokuita kuti rive chitsvene.",
+  "tokens": [
+    {
+      "surface": "זָכוֹר",
+      "gloss": "Rangarira"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "zuva reShabhata"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "הַשַּׁבָּת",
+      "gloss": "reShabhata"
+    },
+    {
+      "surface": "לְקַדְּשׁוֹ",
+      "gloss": "rokuita kuti rive chitsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T10:49:11.021134600Z",
+  "model": "glm-5.3"
+}

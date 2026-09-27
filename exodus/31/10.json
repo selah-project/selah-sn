@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "ne⟨את⟩ zvipfeko zveshandiro, ne⟨את⟩ zvipfeko zvenyeredziro zvomudzikinuri Aharoni, ne⟨את⟩ zvipfeko zvinuna zvake, vozashanda ushumiri;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfeko zveshandiro"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zvipfeko"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "zveshandiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfeko zvenyeredziro"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zvipfeko"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zvenyeredziro"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mudzikinuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvipfeko zvinuna zvake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "zvipfeko"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zvinuna zvake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "vozashanda ushumiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:53.237648612Z",
+  "model": "glm-5.3"
+}

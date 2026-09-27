@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yahwe akati kuna Moshe: Ndege pahumwe imwe chete ndichawedzera kuunza paParao nepaMuitire; mushure mezviya achakutumai muno. Kana atuma ⟨את⟩ makambani muchiitwa kurohwa, muchaburitswa zvachose muno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvachiroombe"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "rwohwo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "humwe"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ndichawedzera kuunza"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Muitire"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mezviya"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "achakutumai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ makambani",
+      "marks": "makambani"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "muno"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "kana atuma"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "zvachose"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "chiitwa kurohwa"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "muchaburitswa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ makambani",
+      "marks": "makambani"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "muno"
+    }
+  ],
+  "timestamp": "2026-09-27T05:27:57.284423272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvose zvakakumbwa nomaziso angu, handina kuramba kwavari; handina kudzivirira ⟨את⟩ moyo wangu kubva mune rimwe nomwe mufaro, nokuti moyo wangu wakafara nebasa rangu rose, uye izvi zvaive chikamu changu chebesa rangu rose.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izwi⟩"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "zvakakumbwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "maziso angu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "kuramba"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "kudzivirira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyo wangu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubva mune"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "mufaro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "moyo wangu"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "wakafara"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nebasa rangu rose"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "nebasa rangu rose"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "uye izvi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "chikamu changu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "chebesa rangu rose"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "chebesa rangu rose"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:27.536666310Z",
+  "model": "glm-5.3"
+}

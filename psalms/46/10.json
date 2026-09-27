@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Anomisa hondo kusvika kunze kwenyika; anotyora uta, anotema pfumo, motokari dvehondo anozvipisa nomoto.",
+  "tokens": [
+    {
+      "surface": "מַשְׁבִּית",
+      "gloss": "Anomisa"
+    },
+    {
+      "surface": "מִלְחָמוֹת",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "קְצֵה",
+      "gloss": "kunze kwenyika"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "⟨ye⟩nyika"
+    },
+    {
+      "surface": "קֶשֶׁת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "יְשַׁבֵּר",
+      "gloss": "anotyora"
+    },
+    {
+      "surface": "וְקִצֵּץ",
+      "gloss": "anotema"
+    },
+    {
+      "surface": "חֲנִית",
+      "gloss": "pfumo"
+    },
+    {
+      "surface": "עֲגָלוֹת",
+      "gloss": "motokari dvehondo"
+    },
+    {
+      "surface": "יִשְׂרֹף",
+      "gloss": "anozvipisa"
+    },
+    {
+      "surface": "בָּאֵשׁ",
+      "gloss": "nomoto"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:39.814607298Z",
+  "model": "glm-5.3"
+}

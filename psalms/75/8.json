@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 75,
+  "translation": "Nokuti Erohimu ndiye mutongi: uyu anodzikiswa, uyuwo anosimudzwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ndiye mutongi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "anodzikiswa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "uyuwo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "anosimudzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:07.009537270Z",
+  "model": "glm-5.3"
+}

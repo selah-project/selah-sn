@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Nokuti munhu akazvarirwa kutambudzika, uye vana vereshafu vanokwidza kuribha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "kutambudzika"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "akazvarirwa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "uye vana va"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "reshafu"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "vanokwidza"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "kuribha"
+    }
+  ],
+  "timestamp": "2026-09-27T11:18:56.633145857Z",
+  "model": "glm-5.3"
+}

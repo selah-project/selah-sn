@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Rutendo rwangu neh ⟨hesedhi⟩ yangu zvichave naye, uye muzita rangu nyanga yake ichazvikwidza.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Rutendo rwangu"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "neh ⟨hesedhi⟩ yangu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "zvichave naye"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "muzita rangu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ichazvikwidza"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "nyanga yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:50.799496648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Isa kutya kwavari, Yahwe; ngativazive ngaita kuti marudzi azive kuti vanhu chete ndivo. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ngazive"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "vanhu ( zvichifa )"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:08.671935051Z",
+  "model": "glm-5.3"
+}

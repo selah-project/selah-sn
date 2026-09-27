@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Yahwe, Erohimu wangu, iwe ⟨uri⟩; ndichakukudza, ndichatenda ⟨את⟩ zita rako; nokuti waita ⟨את⟩ zvinoshamisa — zvirongwa zvekare, zvine rutendo, chokwadi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wangu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ndichakukudza"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ndichatenda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waita"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zvinoshamisa"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "zvirongwa"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "zvekare"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "rutendo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "chokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:36:12.040324718Z",
+  "model": "glm-5.3"
+}

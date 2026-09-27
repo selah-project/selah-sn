@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 61,
+  "translation": "Vatorwa vachamira vopfudza makwai enyu, uye vana vevatorwa vachava varimi venyu nevachena minda yemazhabu yenyu.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "vachamira"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vatorwa"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "vopfudza"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "makwai enyu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "vana vevatorwa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vevatorwa"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "varimi venyu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "vachena minda yemazhabu yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:40.874375095Z",
+  "model": "glm-5.3"
+}

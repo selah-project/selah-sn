@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Zve ⟨את⟩ mwanakomana wehanda ndichamugadzira mutaundi, nokuti mbeu yako ndiye.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "zve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wehanda"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wehanda"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "mutaundi"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ndichamugadzira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbeu yako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    }
+  ],
+  "timestamp": "2026-09-27T05:11:10.675652550Z",
+  "model": "glm-5.3"
+}

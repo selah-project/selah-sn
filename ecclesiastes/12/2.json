@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Usati yasvika kwavari chiedza chisina kudzima, zuva, muridzi, mwedzi, nedzinyikadzi, uye mabhureti adzokera mushure memvura yakanaya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Usati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "chisina kudzima"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "mwedzi"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "dzinyikadzi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "adzokera"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mabhureti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mushure memo"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "vura yakanaya"
+    }
+  ],
+  "timestamp": "2026-09-27T09:56:07.260953698Z",
+  "model": "glm-5.3"
+}

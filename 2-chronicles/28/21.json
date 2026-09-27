@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Nokuti Ahazi akatora chikamu chemba yaYahwe, nchemba yamambo, nemadzishe, ndokupa mambo waAshuru; asi izvi hazina kumubatsira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "akatora chikamu che"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "imba yamambo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yamambo"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "nemadzishe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ndokupa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kumambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waAshuru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "hazina kubatsira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T10:40:11.955412038Z",
+  "model": "glm-5.3"
+}

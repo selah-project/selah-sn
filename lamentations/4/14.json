@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Vakazvizviringa vachirere mumigwagwa, vakazvitsvinya neropa; vachiri kuzondivara <zvinhu>, vaka ita kuti vasingagoni kubata zvipfeko zvavo.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "vakazvizviringa"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "vachirere"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "mumigwagwa"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "vakazvitsvinya"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "neropa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "vasingagoni"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "kubata"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "zvipfeko zwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:51:04.566176786Z",
+  "model": "glm-5.3"
+}

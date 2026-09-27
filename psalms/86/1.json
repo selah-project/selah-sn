@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 86,
+  "translation": "Pano yeravo raDhavhidhi. Tema nzeve dako, Yahwe, ndipindure, nokuti ndiri mupfuhwira nomushayi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pano yeravo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "raDhavhidhi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tema (nzeve dako)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nzeve dako"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ndipindure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mupfuhwira"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomushayi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:09.434171296Z",
+  "model": "glm-5.3"
+}

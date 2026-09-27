@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 7:1",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Zvino zvakaitika, rukome rwavakwa, ini ndikamisa misuva, uye vachengeti venusuva, navayimbi, navarivi vakatarwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakaitika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "נבנתה",
+      "gloss": "rwavakwa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "rukome"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "ndikamisa"
+    },
+    {
+      "surface": "הדלתות",
+      "gloss": "misuva"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "vakatarwa"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "vachengeti venusuva"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "navayimbi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "navarivi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:13:59.815314053Z",
+  "model": "glm-5.3"
+}

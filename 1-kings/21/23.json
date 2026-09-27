@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Uye nezvaIzhebheru Yahwe akataura achiti: imbwa dzichadya ⟨את⟩ Izhebheru pachihwi cheYizireeri.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Uye ne"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "zvaIzhebheru"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dzichadya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izhebheru"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izhebheru"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "pachihwi"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "cheYizireeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:30.669598110Z",
+  "model": "glm-5.3"
+}

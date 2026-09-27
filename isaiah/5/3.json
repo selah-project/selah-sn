@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Zvino, imi vagari veYerushalema, navanhu veYudha: tongoerere ndapota pakati pangu nendumiri yangu yemazambiringa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "navanhu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "veYudha"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "tongoerere"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakati pangu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ndumiri yangu yemazambiringa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:43.203067018Z",
+  "model": "glm-5.3"
+}

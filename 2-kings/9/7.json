@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Uchauraya ⟨את⟩ imba yaAhabu tenzi wako, ndichatsiva ⟨את⟩ ropa rvaranda vangu vaporofita, noropa rvaranda vose vaYahwe, kubva mumaoko aIzhebheru.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "uchauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaAhabu tenzi wako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "yaAhabu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tenzi wako"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "ndichatsiva"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ropa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rvaranda"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "vaporofita"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "noropa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "rvaranda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "vaYahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "aIzhebheru"
+    }
+  ],
+  "timestamp": "2026-09-27T07:19:48.012845238Z",
+  "model": "glm-5.3"
+}

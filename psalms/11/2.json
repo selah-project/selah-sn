@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Nokuti tarirai, vanhuakaipa vanopfeka utsamvani; vakagadzirira micheche yavo patsinga, kuti vanochema munguva dzakasviba pavari vanoita kuti vave nemitima yakafanira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tarirai"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "vanhuakaipa"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "vanopfeka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "utsamvani"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "vakagadzirira"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "micheche yavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tsinga"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "kuti vanochema"
+    },
+    {
+      "surface": "במו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "nguva dzakasviba"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "pavari vanoita kuti vave"
+    },
+    {
+      "surface": "לב",
+      "gloss": "nemitima yakafanira"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:17.104556102Z",
+  "model": "glm-5.3"
+}

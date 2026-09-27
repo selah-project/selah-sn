@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Yowabhu akatuma, akaudza Dhavhidha ⟨את⟩ zvizere mashoko ehondo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaudza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dhavhidha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvizere mashoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvizere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ehondo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:31.285562987Z",
+  "model": "glm-5.3"
+}

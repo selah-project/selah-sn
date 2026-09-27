@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Zvinonzikwa ndanzwa kubva kuna ⟨את⟩ Yahwe, nemutumwa atumwa kune madzinza: Muyungane, muuye kunaivo, mumuke sehondo.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "Zvinonzikwa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndanzwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "nemutumwa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kune madzinza"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "atumwa"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "Muyungane"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "muuye"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kunaivo"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "mumuke"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sehondo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:09:58.673927556Z",
+  "model": "glm-5.3"
+}

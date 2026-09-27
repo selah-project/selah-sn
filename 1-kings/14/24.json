@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 14:24",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Uye zveine kadhe aiva munyika; vakaita sezvose zvinonyadzisa zvemadzinhi, amaita Yawhe kudzinga pachiso chevana veIsraeri.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Uye zveine"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadhe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aiva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sezvose"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "zvinonyadzisa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zvemadzinhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "akadzinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawhe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pachoso pe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:13:27.503456531Z",
+  "model": "glm-5.3"
+}

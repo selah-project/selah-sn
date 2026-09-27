@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Uye ⟨את⟩ dzeru mbiri, nomafuta ari pamusoro padzo, ari pahudyu, uye ⟨את⟩ chidimbu chiri pamusoro pechirongo — pamusoro padzeru achachibvisa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dzeru mbiri"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "dzeru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "pamusoro padzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "hudyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chidimbu"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "chidimbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "chirongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "dzeru"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "achachibvisa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:51:08.769101922Z",
+  "model": "glm-5.3"
+}

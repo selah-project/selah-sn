@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Mombe gumi dzinonzwa, nemombe makumi maviri dzakafudzwa mufudzi, nezvihuta zana; sokunge shavhi, noriri, negora, neshiri dzikapwanywa.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Mombe"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "dzinonzwa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "nemombe makumi maviri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nemombe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "dzakafudzwa mufudzi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "nezvihuta zana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nezvihuta"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sokunge"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "shavhi"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "noriri"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "negora"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "neshiri"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "dzikapwanywa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:08:34.414815183Z",
+  "model": "glm-5.3"
+}

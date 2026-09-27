@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Mambo wako aripi izvozvi, iye achakupunza mumaguta ako ose? Navatongi vako, amwe unoti: “Ndipai mambo nemadzimambo.”",
+  "tokens": [
+    {
+      "surface": "אֱהִ֤י",
+      "gloss": "aripi"
+    },
+    {
+      "surface": "מַלְכְּךָ֙",
+      "gloss": "mambo wako"
+    },
+    {
+      "surface": "אֵפ֔וֹא",
+      "gloss": "izvozvi"
+    },
+    {
+      "surface": "וְיוֹשִֽׁיעֲךָ֖",
+      "gloss": "achakupunza"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "mumase"
+    },
+    {
+      "surface": "עָרֶ֑יךָ",
+      "gloss": "maguta ako"
+    },
+    {
+      "surface": "וְשֹׁ֣פְטֶ֔יךָ",
+      "gloss": "navatongi vako"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "amwe"
+    },
+    {
+      "surface": "אָמַ֔רְתָּ",
+      "gloss": "unoti"
+    },
+    {
+      "surface": "תְּנָ֥ה",
+      "gloss": "⟨ndipai⟩"
+    },
+    {
+      "surface": "לִ֖י",
+      "gloss": "⟨kundiri⟩"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "וְשָׂרִֽים",
+      "gloss": "nemadzimambo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:37:28.965672500Z",
+  "model": "glm-5.3"
+}

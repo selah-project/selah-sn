@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Mumaoko ako ⟨iri⟩ nguva dzangu; nunura ini kubva mumaoko avavengi vangu, nevatevedzi vangu.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Mumaoko ako"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "nguva dzangu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "nunura ini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva mumaoko"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "avavengi vangu"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "nevatevedzi vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:50.301198262Z",
+  "model": "glm-5.3"
+}

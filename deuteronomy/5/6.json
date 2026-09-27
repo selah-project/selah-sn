@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Ndini Yahwe Erohimu yako, anokuburitsa iwe kubva munyika yeMitsrayimu, kubva mumba wevaranda",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu yako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "kuburitsa iwe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kubva mumba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "wevaranda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:28.440702076Z",
+  "model": "glm-5.3"
+}

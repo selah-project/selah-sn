@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Haasi here kuti semukaka wandinodururwa, uye sechizi wandinogumhiswa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Haasi here kuti"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "semukaka"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "wandinodururwa"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "uye sechizi"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "wandinogumhiswa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:35:39.057410112Z",
+  "model": "glm-5.3"
+}

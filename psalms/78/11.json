@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Vakakanganwa mabasa ake nezvishamiso zvake izvo zvakaaratidzwa kwavari.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Vakakanganwa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mabasa ake"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezvishamiso zvake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "zvakaaratidzwa kwavari"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:18.634723223Z",
+  "model": "glm-5.3"
+}

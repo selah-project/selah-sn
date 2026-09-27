@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Uye zvichaita kuti, kana ati kwauri: Handizi kuchibva pauri, nokuti anoda iwe ne⟨את⟩ imba yako, nokuti zvakanaka kwari kugara newe;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "zvichaita kuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "-ndizi kuchibva"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "pauri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "anoda iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imba yako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imba yako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwairi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "newe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:13:53.145591359Z",
+  "model": "glm-5.3"
+}

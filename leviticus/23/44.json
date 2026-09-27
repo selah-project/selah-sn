@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Mhoshe akataura ⟨את⟩ nhanho dzaYahwe kuvana vaIsraeri.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhanho dzaYahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "nhanho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "dzaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:54.306829077Z",
+  "model": "glm-5.3"
+}

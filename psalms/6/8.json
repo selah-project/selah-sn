@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Ziso rangu rapunyuka nokushatirwa; rakurira nokuda kwevavengi vangu vose.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "rapunyuka"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "nokushatirwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Ziso rangu"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "rakurira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "nokuda kwevavengi vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:11.870669961Z",
+  "model": "glm-5.3"
+}

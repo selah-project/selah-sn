@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Imi vanhu ose, batai maoko; itai mhemberero kuna Erohimu nemazwi ekufara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "batai maoko"
+    },
+    {
+      "surface": "כף",
+      "gloss": "maoko (chidyo cheruoko)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "itai mhemberero"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuna Erohimu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "nemazwi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ekufara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.889647037Z",
+  "model": "glm-5.3"
+}

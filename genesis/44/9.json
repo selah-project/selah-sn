@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Uyo achawanikwa nacho ⟨אתו⟩ muzviranda zvenyu, aye afe; uye zvekare isu tigove zviranda kuna tenzi wangu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "achawanikwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uyo achawanikwa nacho"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "muzviranda zvenyu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "aye afe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye zvekare"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "isu"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tigove"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kuna tenzi wangu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "zviranda"
+    }
+  ],
+  "timestamp": "2026-09-27T05:21:39.821258131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Ahabha akatuma kunze kwevana vose veIsuraeri, akaanhanidza ⟨את⟩ maporofita kuGomo reKarmari.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kunze kwevana vose"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsuraeri"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "akaanhanidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maporofita"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "maporofita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Gomo"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "reKarmari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:14:44.938419021Z",
+  "model": "glm-5.3"
+}

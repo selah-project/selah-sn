@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Muchanditsvaga ndichawanikwa, nokuti muchanditsvaga nemoyo yenyu yose.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "muchanditsvaga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ndi (mimi)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ndichawanikwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "muchanditsvaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ne…yose"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "moyo yenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:50.675348361Z",
+  "model": "glm-5.3"
+}

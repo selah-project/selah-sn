@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Here chiedza hachizviiti here, uye kunzwisisa hakunzwe kutaura mazwi aro?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "here"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "chiedza"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "hachizviiti"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "kunzwisisa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hakunzwe kutaura"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "mazwi aro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:23:47.350673053Z",
+  "model": "glm-5.3"
+}

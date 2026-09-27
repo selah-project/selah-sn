@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Erohimu akasimudza kwaari muipi ⟨את⟩ Rezoni mukorova waEriyadha, uyo akatiza kuna ⟨את⟩ Hadhadhezera mambo weZovha, tenzi wake.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "muipi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezoni"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorova"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eriyadha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kuna ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadhadhezera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "weZovha"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tenzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:50.568623423Z",
+  "model": "glm-5.3"
+}

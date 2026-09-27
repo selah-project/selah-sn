@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Shungu yangu yandiparadza, nokuti vavengi vangu vakanganwa mashoko ako.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "yandiparadza"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "shungu yangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "vakanganwa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mashoko ako"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vavengi vangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:31.621378587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Ari iye ruoko rwangu ruchagara naro ruchamutsigira; bapiro rangu zvakare richamusimbidza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ari iye"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruoko rwangu"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ruchagara naro ruchamutsigira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "bapiro rangu"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "richamusimbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:14.992763801Z",
+  "model": "glm-5.3"
+}

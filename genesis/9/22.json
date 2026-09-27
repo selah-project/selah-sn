@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Chamu, baba waKenani, akaona ⟨את⟩ kusuwa kwababa vake, ndokuzivisa hanzvadzi dzake vaviri kunze.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "waKenani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kusuwa kwababa vake"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kusuwa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ndokuzivisa"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kunze"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:52.715461253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Akati kuambuya wake: “Aita muridzi wangu aiva pamberi pomuporofita ari muShomironi! Zvino aibvisa ⟨את⟩ iye pabonda rake.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ambuya wake"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Aita"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "muridzi wangu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pamberi po"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "muporofita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "muShomironi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "aibvisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "pabonda rake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:03.424013294Z",
+  "model": "glm-5.3"
+}

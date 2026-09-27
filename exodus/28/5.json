@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Ivavo vachatora ⟨את⟩ ndarama, nei ⟨את⟩ tekeleti, nei ⟨את⟩ arigamani, nei ⟨את⟩ dzvonyu re-shani, nei ⟨את⟩ sheshe.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ivavo"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "vachatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndarama"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ndarama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nei ⟨את⟩",
+      "marks": "tekeleti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekeleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nei ⟨את⟩",
+      "marks": "arigamani"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "arigamani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nei ⟨את⟩",
+      "marks": "dzvonyu re-shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "dzvonyu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "re-shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nei ⟨את⟩",
+      "marks": "sheshe"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:19.017372917Z",
+  "model": "glm-5.3"
+}

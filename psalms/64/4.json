@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 64,
+  "translation": "avanoshongvedza rurimi rwavo semunondo, vanoisa mucece wavo —izwi rakavorera.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ava"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "vanoshongvedza"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "semunondo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "rurimi rwavo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "vanoisa"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "mucece wavo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מר",
+      "gloss": "rakavorera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:50.244742299Z",
+  "model": "glm-5.3"
+}

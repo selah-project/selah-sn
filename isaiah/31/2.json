@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Uye zvakare iye ndiye ane huchenavi, akaunza ⟨את⟩ zvakaipa, uye ⟨את⟩ mashoko ake haana kudzorera shure; uye achamuka pamusoro peimba yevanorwadzisa, nepamusoro perchinjimo chevashandi vezvakaipa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "uye zvakare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ane huchenavi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akaunza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zvakaipa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "mashoko ake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haana"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kudzorera shure"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "achamuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yevanorwodza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nepamusoro pe"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "rubatsiro"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "chevashandi"
+    },
+    {
+      "surface": "און",
+      "gloss": "ezvakaipa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:38:16.572845907Z",
+  "model": "glm-5.3"
+}

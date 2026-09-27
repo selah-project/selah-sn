@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mutsamwasi akabvisa ⟨את⟩ zviyo zvavo newaini yaivanywa navo, akavapa miriwo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvikanzi"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "mutsamwasi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zviyo zvavo"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "zviyo zvavo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "newaini"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "yaivanywa navo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "miriwo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:58:27.718658158Z",
+  "model": "glm-5.3"
+}

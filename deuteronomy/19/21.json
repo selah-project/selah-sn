@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye ziso rako risatinyare: upenyu ⟨pa⟩upenyu, ziso ⟨pa⟩ziso, zino ⟨pa⟩zino, ruoko ⟨paruoko⟩, tsoka ⟨patsoka⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "uye risa-"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "-tanyare"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ziso rako"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "upenyu"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "paupenyu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ziso"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "paziso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zino"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "pazino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paruoko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tsoka"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "patsoka"
+    }
+  ],
+  "timestamp": "2026-09-27T06:15:21.836268507Z",
+  "model": "glm-5.3"
+}

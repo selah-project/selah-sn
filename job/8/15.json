@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Anotsigira paimba yake, asi haigadziki; anobata nacho, asi haizomere.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Anotsigira"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "imba yake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haigadziki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "(haigadziki)"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "anobata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nacho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi haizomere"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "(haizomere)"
+    }
+  ],
+  "timestamp": "2026-09-27T09:34:21.710575919Z",
+  "model": "glm-5.3"
+}

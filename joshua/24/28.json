@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Yehoshua akatuma ⟨את⟩ vanhu zvachose, mumwe nomumwe kunorugwa rwake.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kunorugwa rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:30:38.709996408Z",
+  "model": "glm-5.3"
+}

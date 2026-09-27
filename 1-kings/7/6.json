@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Akaita ⟨את⟩ poriko yemitsi: hurefu hwacho maambha makumi mashanu, upamhi hwacho maambha makumi matatu; neporiko pamberi pawo, nemitsi nedenga ripfava pamberi pawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "poriko yemitsi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "poriko"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "yemitsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akaita"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "makumi mashanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "maambha"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "hurefu hwacho"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "nemakumi matatu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "maambha"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "upamhi hwacho"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "neporiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "pawo"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "nemitsi"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "nedenga ripfava"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "pawo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:08:02.165285176Z",
+  "model": "glm-5.3"
+}

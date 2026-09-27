@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anathoti ne⟨את⟩ tunze dzayo, ne⟨את⟩ Alimoni ne⟨את⟩ tunze dzayo — maguta mana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anathoti"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netunze dzayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "netunze dzayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Alimoni"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Alimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netunze dzayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "netunze dzayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "maguta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mana"
+    }
+  ],
+  "timestamp": "2026-09-27T06:29:37.915341247Z",
+  "model": "glm-5.3"
+}

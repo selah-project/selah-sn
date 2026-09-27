@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Uye kutsamwa kwaErohimu kwakakwirira kwavari, akauraya vanonyanya-simba vavo, uye vakomana veIsraeri akavadzikisa.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Uye kutsamwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kwakakwirira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "akauraya"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "vanonyanya-simba vavo"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "uye vakomana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "akavadzikisa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:48.129497941Z",
+  "model": "glm-5.3"
+}

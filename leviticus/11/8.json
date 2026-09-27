@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Kubva munnyama yavo hamudyi, uye muchitunha chavo hamubati — havatsvene kwamuri.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "munnyama-yavo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mudyi"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "muchitunha-chavo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "mubati"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "havatsvene"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ivo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:43:47.794353609Z",
+  "model": "glm-5.3"
+}

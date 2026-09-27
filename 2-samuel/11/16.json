@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Zvino paive Yowabhu achengeta guta, akaisa ⟨את⟩ Uriya panzvimbo yaiziva kuti varume vane simba vangavaipo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino zvika"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "paive achengeta"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "aiziva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "varume"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vane simba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vangavaipo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:12.789012508Z",
+  "model": "glm-5.3"
+}

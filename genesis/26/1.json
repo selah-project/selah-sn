@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Zvakanangana nenzvimbo iyi: nzara yakauka munyika, kunze kwenzara yokutanga yaive mazuva eAbhurahama; Isaka akaenda kuAbhimeleki, mambo wevaFirishia, kuGerara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvakanangana nenzvimbo iyi"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "kunze kwe"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzara"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokutanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mazuva e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akaenda"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abhimeleki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo we"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "vaFirishia"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "Gerara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:55.176642559Z",
+  "model": "glm-5.3"
+}

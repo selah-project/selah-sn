@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Kuti ruri rwekupedzisira ruzive, vana vachazvarwa, vachamira navachataura kuvana vavo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ruzive"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "rwekupedzisira"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "vachazvarwa"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "vachamira"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "navachataura"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kuvana vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:23.260062908Z",
+  "model": "glm-5.3"
+}

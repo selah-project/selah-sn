@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Uye unoteerera izwi raYahwe Erohimu wako, uye unoita ⟨את⟩ mirairo yake ne⟨את⟩ mitemo yake, iyo ndinokurayira nhasi.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "unoteerera"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "unoita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirairo yake"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mirairo yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yake"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "mitemo yake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ndinokurayira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:53:46.304290183Z",
+  "model": "glm-5.3"
+}

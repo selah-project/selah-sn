@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Chinhu chokuchemerwa chilose hamuchadyi; munzvimbo dzose dzamugarira muchadya mabayirwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "chilose"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "chinhu chokuchemerwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hamuchadyi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hamuchadyi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "munzvimbo dzamugarira"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "muchadya"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mabayirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:55.630577638Z",
+  "model": "glm-5.3"
+}

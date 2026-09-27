@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Ndakapa mwoyo wangu kuziva uchenjeri, nekuziva upenzi neshinga; ndakaziva kuti ⟨zvino⟩ zviyedzo izvi zvose ⟨zvakare⟩ ⟨ndi⟩kuzvinanzira kwemhepo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ndakapa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mwoyo wangu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kuziva"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "uchenjeri"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "nekuziva"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "upenzi"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "neshinga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ndakaziva"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "kuti zvose"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ndi⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "kuzvinanzira"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "kwemhepo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:19.271050167Z",
+  "model": "glm-5.3"
+}

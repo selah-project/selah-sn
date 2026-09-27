@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Ndini Yahwe Erohimu yenyu, ndakakuburitsai ⟨אתכם⟩ munyika yeMitsirayi, kuti ndipe iyu ⟨את⟩ nyika yeKanaani, ndikuve Erohimu yenyu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu yenyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndakaburitsa"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ndakakuburitsai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "venyu (vaneburitswa)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsirayi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "kuti ndipe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyika yeKanaani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenyu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:50:21.859548430Z",
+  "model": "glm-5.3"
+}

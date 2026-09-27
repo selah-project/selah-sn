@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Uye Vafirisithi vakamanya Shauru nevana vake, uye Vafirisithi vakakunda ⟨את⟩ Yonathani ne⟨את⟩ Avhinadhavhu ne⟨את⟩ Makhishiwa, vana vaShauru.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "vakamanya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafirisithi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "shure kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "neshure kwa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakakunda"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Vafirisithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Avhinadhavhu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avhinadhavhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Makhishiwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Makhishiwa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "(Makhishiwa)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "vaShauru"
+    }
+  ],
+  "timestamp": "2026-09-27T10:21:43.379092149Z",
+  "model": "glm-5.3"
+}

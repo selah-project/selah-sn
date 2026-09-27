@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 40,
+  "translation": "Uye vakageza maro: Moshe, Aharoni, navana vake ⟨את⟩ maoko avo ne⟨את⟩ nutsenda dzavo.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "vakageza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "maro"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "navana vake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoko avo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maoko avo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nutsenda dzavo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "nutsenda dzavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:57.795985136Z",
+  "model": "glm-5.3"
+}

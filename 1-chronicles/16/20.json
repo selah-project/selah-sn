@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Vakafamba-famba kubva munda rimwe kuenda mundarimwe, uye kubva kumambo kuenda kuvamwe vechimwe.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "vakafamba-famba"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kubva mundarimwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mundarimwe"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "uye kubva kumambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kuvamwe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "vechimwe"
+    }
+  ],
+  "timestamp": "2026-09-27T10:22:54.283669777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Tambo dzerufu dzakandizinga, netsvimbo dzaSheori dzakandiwanira; ndakawana dambudziko norushungu.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "dzakandizinga"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Tambo dze"
+    },
+    {
+      "surface": "מות",
+      "gloss": "rufu"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "netsvimbo dza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheori"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "dzakandiwanira"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "dambudziko"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "norushungu"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ndakawana"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:55.106902487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 29:5",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "akati kwavati: Ndinzwai ini, vaRevhi — izvi zvino itai kuti muve vatsvene, uye itai kuti ⟨את⟩ imba yaYahwe, Erohimu wamadzibaba enyu, ive tsvene, uye buritsai ⟨את⟩ zvisina tsvene kubva muchitsvene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavati"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "ndinzwai ini"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "vaRevhi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izvi zvino"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "itai kuti muve vatsvene"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "uye itai kuti ive tsvene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imba yaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "wamadzibaba enyu"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "uye buritsai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvisina tsvene"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "zvisina tsvene"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muchitsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T10:40:01.480708934Z",
+  "model": "glm-5.3"
+}

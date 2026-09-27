@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 88,
+  "translation": "Nehesedhi hwakouchataurwa mugeva? Neutendо hwako muAbhadhoni?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "uchataurwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "mugeva"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedhi hwako"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "utendо hwako"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "muAbhadhoni"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:10.607707706Z",
+  "model": "glm-5.3"
+}

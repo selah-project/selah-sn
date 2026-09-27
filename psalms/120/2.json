@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 120,
+  "translation": "Yahwe, nunurira mweya wangu kubva mumilomo yekunyepa, kubva kururimi rwenyengo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "nunurira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "kubva mumilomo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yekunyepa"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "kubva kururimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "rwenyengo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:41.182077946Z",
+  "model": "glm-5.3"
+}

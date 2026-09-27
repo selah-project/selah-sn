@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Idzi ndizo kupupurwa, nezvirayirwa, nezvaitwa zvema mutemo, izvo Moshe akataura kuvanhu vaIsraeri pavakabuda muIjipita.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Idzi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ndizo kupupurwa"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "nezvirayirwa"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "nezvaitwa zvema mutemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vanhu va"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "pavakabuda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "muIjipita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:42.603086624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndikati kumutumwa anotaura muri: Izvi zvinorevei? Iye wakati: Izvi ndiro nyanga dzakaparadzira ⟨את⟩ Yudha, ⟨את⟩ Israeri, neYerushalemu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndikati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mutumwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "anotaura"
+    },
+    {
+      "surface": "בי",
+      "gloss": "muri"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zvinorevei"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Izvi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kune ini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Izvi"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "dakaparadzira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerushalemu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:49:05.025548174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Moshe naAharoni vakaita saizvozvo, sokuda kwaYahwe; akasimudza mutanda, akarova ⟨את⟩ mvura yakanzi iri munzizi, pamberi meFarao ne pamberi mevaranda vake; mvura yose yaive munzizi yakashanduka yave ropa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "vakaita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "naAharoni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "akasimudza"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "mutanda"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvura yakanzi iri munzizi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yakanzi iri"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "munzizi"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pamberi me"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "ne pamberi me"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "yakashanduka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaive"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "munzizi"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "yave ropa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:26:24.416625307Z",
+  "model": "glm-5.3"
+}

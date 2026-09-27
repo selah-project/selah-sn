@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Naizvozvo Yahwe akavaparadza ⟨את⟩ ivo ipapo, pamusoro pechiso chepasiri rose, uye vakarega kuvaka guta.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Naizvozvo akavaparadza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ivo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso che"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pasiri"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "uye vakarega"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    }
+  ],
+  "timestamp": "2026-09-27T10:45:40.871511230Z",
+  "model": "glm-5.3"
+}

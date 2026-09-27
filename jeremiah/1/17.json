@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 1:17",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Iwe, banda chiuno chako, umuka, utaure kwavari ⟨את⟩ zvose zvandiri kukuraira; usatye kuvatarisa, ndichaita kuti utyiswe pamberi pavo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "תאזר",
+      "gloss": "banda"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "chiuno chako"
+    },
+    {
+      "surface": "וקמת",
+      "gloss": "umuka"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "utaure"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvose (zvandiri kukuraira)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zva-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndiri"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "kukuraira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "-tye"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kuvatarisa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nekuti"
+    },
+    {
+      "surface": "אחתך",
+      "gloss": "ndichaita kuti utyiswe"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pamberi pavo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:49:44.861524370Z",
+  "model": "glm-5.3"
+}

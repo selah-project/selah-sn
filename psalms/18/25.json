@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Naizvozvo Yahwe akandizvizorera sokururama kwangu, sokuchena kwemaoko angu pachiso chemaziso ake.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "akandizvizorera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sokururama kwangu"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sokuchena"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kwemaoko angu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "maziso ake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:27.756076226Z",
+  "model": "glm-5.3"
+}

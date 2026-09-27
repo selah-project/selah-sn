@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Nokuti mumvuri wechenjerero, mumvuri wemari; uye kupfurumira kwezivo, ndiko kwenyange chenjerero chinopa upenyu kune vene waro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mumvuri"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "wechenjerero"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "mumvuri"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "wemari"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "uye kupfurumira"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kwezivo"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "chenjerero"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "chinopa upenyu"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "kune vene waro"
+    }
+  ],
+  "timestamp": "2026-09-27T09:54:09.006826968Z",
+  "model": "glm-5.3"
+}

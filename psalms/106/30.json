@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Ndipo Pinhasi akamira akaipira, ngozi yakazoramiswa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhasi"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "akaipira"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "yakazoramiswa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ngozi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:56.653818439Z",
+  "model": "glm-5.3"
+}

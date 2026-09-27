@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Ona, akarova ⟨את⟩ dombo, mvura yakazarira, masaisai akapfuurira. Angagonawo here kupa chingwa, kana kugadzaira nyama yevanhu vake?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ona"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akarova"
+    },
+    {
+      "surface": "צור",
+      "gloss": "dombo"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "yakazarira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "⟨את⟩",
+      "marks": "dombo"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "masaisai"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "akapfuurira"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "angagonawo here"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "anogona"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kupa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "kugadzaira"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "yevanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:28.160679236Z",
+  "model": "glm-5.3"
+}

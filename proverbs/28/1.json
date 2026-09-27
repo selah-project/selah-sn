@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Vanakaipa vanotiza uye hapana anotevera; asi vakarurama, semwana weshumba, vanovimbika.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "vanotiza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "anotevera"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "vanakaipa"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "asi vakarurama"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "semwana weshumba"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "vanovimbika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:31:42.140602456Z",
+  "model": "glm-5.3"
+}

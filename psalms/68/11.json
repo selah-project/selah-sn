@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Vanhu vako vagara mumaro; mune runako rwako, Erohimu, wakagadzirira ⟨izvi⟩ kuvapfuka.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Vanhu vako"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "vagara"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mumaro"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "wakagadzirira"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "mune runako rwako"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kuvapfuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:37.370374238Z",
+  "model": "glm-5.3"
+}

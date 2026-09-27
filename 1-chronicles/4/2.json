@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Uye Reaiya mukoma waShobharu akabereka ⟨את⟩ Yahaha; uye Yahaha akabereka ⟨את⟩ Ahumai ne⟨את⟩ Lahadhi; idzi dziri madzinza evaTsereathi.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Uye Reaiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "waShobharu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahaha"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahaha"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "uye Yahaha"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Lahadhi"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahadhi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "idzi"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "evaTsereathi"
+    }
+  ],
+  "timestamp": "2026-09-27T10:19:06.342394558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Panguva iyoyo Mozisi navakomana vaIsraeri vakaimba ⟨את⟩ rwiyo urwu kuna Yahwe, vachiti kuti: Ndichaimba kuna Yahwe, nokuti akazvitutamadza zvikuru; mbezi nomuridzi wayo wakanyudzwa mugungwa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Panguva iyoyo"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "vakaimba"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozisi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "navakomana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rwiyo urwu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "rwiyo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "uru"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vachiti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "Ndichaimba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "akazvitutamadza"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "zvikuru"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "mbezi"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "somuridzi wayo"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "wakanyudzwa"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mugungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:34.966510894Z",
+  "model": "glm-5.3"
+}

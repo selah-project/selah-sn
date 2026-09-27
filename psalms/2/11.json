@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Mushandre ⟨את⟩ Yahwe nokutya; mufare nokudedera.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Mushandre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "nokutya"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mufare"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "nokudedera"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:51.311689127Z",
+  "model": "glm-5.3"
+}

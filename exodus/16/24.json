@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Vakasiira ⟨את⟩ izvozvo kusvika mangwanani, sezvakavhumbidzwa naMoshe; uye hazvina kunhuhwirira, uye mbya haishayipo mazviri.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "vakasiira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izvozvo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mangwanani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akavhumbidza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hazvina"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "kunhuhwirira"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "uye mbya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haishayipo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "iva"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mazviri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:30:04.187814130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Reya akaona kuti ⟨haichazvari⟩, akatora ⟨את⟩ Zilpa muzvazvariri wake, akamupa ⟨את⟩ iye Yakobho sokadzi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Reya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "kuzvara"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akatora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa muzvazvariri wake"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "muzvazvariri wake"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "akamupa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Zilpa)"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yakobho"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sokadzi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:13:26.563155032Z",
+  "model": "glm-5.3"
+}

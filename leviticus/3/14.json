@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Achapereka kubva mairi chibairo chake, chipo chemoto kuna Yahwe: ⟨את⟩ mafuta anofukidza ⟨את⟩ matumbu, n⟨את⟩ mafuta ose ari pamusoro pematumbu.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "achapereka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva mairi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "chibairo chake"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "chipo chemoto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "anofukidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matumbu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "matumbu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:40:33.224120986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Uye Aroni navana vake vachadya ⟨את⟩ nyama yegota ne⟨את⟩ chingwa chiri mubhasiketi, panzvimbo yekupinda mumba yokusangana.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Uye vachadya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "navana vake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama yegota"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "yegota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chiri"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "mubhasiketi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "panzvimbo yekupinda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokusangana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:50.405405862Z",
+  "model": "glm-5.3"
+}

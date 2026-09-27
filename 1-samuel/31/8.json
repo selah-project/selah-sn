@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Zvino pazuva rinotevera, VaFiristia vakauya kudzinhongera zvinhu vafi, vakawana ⟨את⟩ Shauro ne⟨את⟩ vanakomana vake vatatu vakawira pagomo reGiribowa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pazuva rinotevera"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "VaFiristia"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "kudzinhongera zvinhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vafi"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "vafi"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "vakawana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauro"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "vanakomana vake vatatu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "vatatu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "nevanakomana vake"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "vakawira"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pagomo re"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Giribowa"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:11.160333262Z",
+  "model": "glm-5.3"
+}

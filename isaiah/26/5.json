@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Nokuti ane vachigara pamusoro achadzikisa, guta rakasimudzwa, acharidzikisa, acharidzikisa kusvika pasi, achariwedzera kusvika kuurwu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "השח",
+      "gloss": "achadzikisa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "vachigara"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "guta"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "rakasimudzwa"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "acharidzikisa"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "acharidzikisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "achariwedzera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "kuurwu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:35:08.032345364Z",
+  "model": "glm-5.3"
+}

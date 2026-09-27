@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Haisi here sokunge ndakaita kuShomeroni nezvipfambo zvayo, ndichaita zvakafanana kuYerushalema nemifananidzo yayo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Haisi here"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokunge"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "kuShomeroni"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "nezvipfambo zvayo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvakafanana"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kuYerushalema"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "nemifananidzo yayo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:31:08.806053987Z",
+  "model": "glm-5.3"
+}

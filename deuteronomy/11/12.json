@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "nyika imwe Yahwe Erohimu wako ane chido chokuidavira ⟨את⟩ panguva dzose; miso yaYahwe Erohimu wako iri pairi, kubva pakutanga kwegore kusvika kumagumo egore.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ane chido chokuidavira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nyika iyoyo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "panguva dzose"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "בה",
+      "gloss": "iri pairi"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "kubva pakutanga"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "kwegore"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kusvika kumagumo"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "kumagumo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "egore"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:04.207178709Z",
+  "model": "glm-5.3"
+}

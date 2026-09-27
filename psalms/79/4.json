@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 79,
+  "translation": "Tave nyadzo kuvanhu vedu vanogara pedyo, uchiseko neuterezo kuvakomberedzi nedu.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Tave"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nyadzo"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kuvanhu vedu vanogara pedyo"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "uchiseko"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "neuterezo"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "kuvakomberedzi nedu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:07:52.432677186Z",
+  "model": "glm-5.3"
+}

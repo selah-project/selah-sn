@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Mutsa wehwengo wegungwa: sekuputira kwemhepo munanzvudzi kunopfuura, kunouya kubva muhwengo, kubva munyika inotyisa.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "mutsa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wehwengo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "wegungwa"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "sekuputira kwemhepo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "munanzvudzi"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "kunopfuura"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kubva muhwengo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kunouya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kubva munyika"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "intyisa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:30.617457724Z",
+  "model": "glm-5.3"
+}

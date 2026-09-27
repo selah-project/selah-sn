@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Ndichapa kwamuri tsitsi, uye achaita tsitsi ⟨את⟩ kwamuri, achakudzorera ⟨את⟩ muri kuivhu rwenyu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Ndichapa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "tsitsi"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "achaita tsitsi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwamuri",
+      "marks": "kwamuri"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "achakudzorera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ muri",
+      "marks": "muri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ivhu rwenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:10:01.601252416Z",
+  "model": "glm-5.3"
+}

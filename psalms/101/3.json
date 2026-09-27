@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 101,
+  "translation": "Ndichaisa chinhu chisina value pamberi mezviso angu; basa revanhu vakatsauka ndinoriona; harigumiri kwandiri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "icha"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mezviso angu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "chisina value"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "revanhu vakatsauka"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndinoriona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "harigumiri"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:48.201702596Z",
+  "model": "glm-5.3"
+}

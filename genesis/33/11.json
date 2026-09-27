@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Torawo, ndapota, ⟨את⟩ chipo changu chakauya kwauri; nokuti Erohimu andikumbirawo, nokuti ndinazvo zvose. Akamumanikidza, naakashiyirwa.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Torawo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ndapota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chipo changu"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "chipo changu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chakauya"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "chakauya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "andikumbirawo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ndinazvo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "akamumanikidza"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na-"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "akashiyirwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:21.507432965Z",
+  "model": "glm-5.3"
+}

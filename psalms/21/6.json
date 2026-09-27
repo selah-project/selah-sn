@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Ukuru hwekuremekedza kwake mokuponesa kwamuri; humbere nehukuru mumumisa pamusoro pake.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ukuru"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hwekuremekedza kwake"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "mokuponesa kwamuri"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "humbere"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nehukuru"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "mumumisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pamusoro pake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:39.548121648Z",
+  "model": "glm-5.3"
+}

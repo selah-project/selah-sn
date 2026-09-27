@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Ndinorumbidza ⟨את⟩ Yahwe anondipa matsananguriro; kunyange manhetewe, doto rangu rinodzidzisa kwandiri.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ndinorumbidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "anondipa matsananguriro"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kunyange"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "manhetewe"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "rinodzidzisa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "doto rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:53.417777522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 124,
+  "translation": "Nziyo yokukwidza, yaDhavhidhi. Dai Yahwe asina kuva nati, ngatiite Israeri zvino:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nziyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "yokukwidza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "dai... asina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nati"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngatiite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:25.089132803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Munhu wepo akapindura akati: Ndivani baba vavo? Naizvozvo zvakava tsumo inoti: Sauro zve ndiye muporofita?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "akapindura"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Munhu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wepo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ndivani"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba vavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "Naizvozvo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zvakava"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "tsumo"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "zve"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauro"
+    },
+    {
+      "surface": "בנבאים",
+      "gloss": "muporofita"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:56.531193581Z",
+  "model": "glm-5.3"
+}

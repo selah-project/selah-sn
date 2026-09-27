@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Neyi Yahwe umire kure? Unovanzira nguva dzechitambudziko.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Neyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "umire"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kure"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "unovanzira"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "nguva dze"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "chitambudziko"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:07.494787835Z",
+  "model": "glm-5.3"
+}

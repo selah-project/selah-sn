@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Dhavithe akati kuna Jonathan: Ndani achandiuudza, kana kuti baba vako vachakupindura sei nezvakaoma?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavithe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "achandiuudza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "או",
+      "gloss": "kana kuti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sei"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "vachakupindura"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba vako"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nezvakaoma"
+    }
+  ],
+  "timestamp": "2026-09-27T06:48:41.046999365Z",
+  "model": "glm-5.3"
+}

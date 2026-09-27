@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Baba vavo vakataura kwavari kuti: Nzira ipi yaakafamba? Uye vanakomana vake vakaratidza ⟨את⟩ nzira iro yaakafamba munhu waErohimu, iwo wakauya kubva muYudha.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "vakataura"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba vavo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kupi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yaakafamba"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "vakaratidza"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vanakomana vake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iro"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yaakafamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "waErohimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wakauya"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "kubva muYudha"
+    }
+  ],
+  "timestamp": "2026-09-27T11:00:36.987242073Z",
+  "model": "glm-5.3"
+}

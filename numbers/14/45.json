@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 14:45",
+  "book": "numbers",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Nokudaro muAmareki nomuKanani aigara muromo uwo akazonorera, okurova ⟨את⟩ uye okukundikadza ⟨את⟩ kusvika Chirama.",
+  "tokens": [
+    {
+      "surface": "וַיֵּרֶד",
+      "gloss": "akazonorera"
+    },
+    {
+      "surface": "הָעֲמָלֵקִי",
+      "gloss": "muAmareki"
+    },
+    {
+      "surface": "וְהַכְּנַעֲנִי",
+      "gloss": "nomuKanani"
+    },
+    {
+      "surface": "הַיֹּשֵׁב",
+      "gloss": "aigara"
+    },
+    {
+      "surface": "בָּהָר",
+      "gloss": "muromo"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "uwo"
+    },
+    {
+      "surface": "וַיַּכּוּם",
+      "gloss": "okurova",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "וַיַּכְּתֽׁוּם",
+      "gloss": "okukundikadza",
+      "marks": "⟨את⟩"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "הַֽחָרְמָֽה",
+      "gloss": "Chirama"
+    }
+  ],
+  "timestamp": "2026-09-27T05:57:43.031525583Z",
+  "model": "glm-5.3"
+}

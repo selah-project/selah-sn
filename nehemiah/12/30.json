@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Uye vakacheneka mapristi navarEvhi; vakacheneka ⟨את⟩ vanhu, na⟨את⟩ masuo, na⟨את⟩ rusvingo.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "Uye vakacheneka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mapristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "navarEvhi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "vakacheneka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "masuo"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "masuo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩",
+      "marks": "rusvingo"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "rusvingo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:34.096145467Z",
+  "model": "glm-5.3"
+}

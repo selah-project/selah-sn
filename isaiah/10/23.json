@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti kupedzwa kwazvinobvira, nokurayirwa, Adonai Yahwe Tsevaoti achaita mukati ⟨mepasi⟩ rose.",
+  "tokens": [
+    {
+      "surface": "כִּ֥י",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כָלָ֖ה",
+      "gloss": "kupedzwa kwazvinobvira"
+    },
+    {
+      "surface": "וְנֶחֱרָצָ֑ה",
+      "gloss": "nokurayirwa"
+    },
+    {
+      "surface": "אֲדֹנָ֤י",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִה֙",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צְבָא֔וֹת",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עֹשֶׂ֖ה",
+      "gloss": "achaita"
+    },
+    {
+      "surface": "בְּקֶ֥רֶב",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "rose"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "⟨mepasi⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:28.101030211Z",
+  "model": "glm-5.3"
+}

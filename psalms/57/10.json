@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 57,
+  "translation": "Ndichakutendira, iwe Adonai, pakati pevamiriri; ndichakuimbira pakati pemadzinza.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ndichakutendira"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "pakati pevamiriri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ndichakuimbira"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "madzinza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:59.960121433Z",
+  "model": "glm-5.3"
+}

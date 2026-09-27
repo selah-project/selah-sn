@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Naivo imi, teererai izwi raYahwe, imi nharaunda yose yokutapwa yaandakatuma kubva muYerushalema kuenda kuBhabhironi.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Naivo imi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "teererai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "nharaunda yokutapwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ndakatuma"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "kubva muYerushalema"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "kuBhabhironi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:03:51.962739508Z",
+  "model": "glm-5.3"
+}

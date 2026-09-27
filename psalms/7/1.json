@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Shigayoni yaDhavhidhi, iyo akaimira Yahwe, pamusoro pemashoko eKushi waBhenjamini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigayoni"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaDhavhidhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "akaimira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Bhenjamini"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:47.000307780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 29,
+  "translation": "Yaakobha akavati: Vakoma vangu, munobva kupi? Vakati: Tinobva kuCharana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akavati"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku--ivo (vakomana)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobha"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Vakoma vangu"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "munobva kupi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "kuCharana"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "tiri (tinobva)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:14:04.930545677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Gare gare vakomana gumi vairidza zvibangwa zvaYowabhu vakapoteredza ⟨את⟩ Abhisharomu, vakamurasa mupenyu.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "vakapoteredza"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "vairidza"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zvibangwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "zvaYowabhu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "vakamurasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abhisharomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abhisharomu"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "mupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:02:23.593794672Z",
+  "model": "glm-5.3"
+}

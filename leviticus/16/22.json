@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nembudzi ichatora paari ⟨את⟩ mhosva dzavo dzose, ichienda kunyika yakaparadzaniswa; ozoita kuti ⟨את⟩ mbudzi ibuduke mumwenzere.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ichatora"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mhosva dzavo dzose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "mhosva dzavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuenda ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kunyika"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "yakaparadzaniswa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ozoita kuti ibuduke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbudzi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbudzi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mumwenzere"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:52.043136699Z",
+  "model": "glm-5.3"
+}

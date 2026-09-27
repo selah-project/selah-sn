@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ndichanyora pamathebhu ⟨את⟩ mashoko aive pamathebhu ekutanga, iwa wakawatsemukisa, uye uchazviisa muaroni.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Ndichanyora"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mathebhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashoko"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mashoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aive"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "mathebhu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ekutanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwa"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wakawatsemukisa"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "uye uchazviisa"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "muaroni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:40.105662980Z",
+  "model": "glm-5.3"
+}

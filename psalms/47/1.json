@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Kune muchengeti werwi. Nharembozi yevana vaKorachi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kune muchengeti werwi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nharembozi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:15.889392725Z",
+  "model": "glm-5.3"
+}

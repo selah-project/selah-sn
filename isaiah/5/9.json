@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 5,
+  "translation": "Munzve dzangu Yahwe Tsevaoti akati: zvirokwazvo, dzimba dzinoverengwa dzichave chirashwa, dzihombe nedzakanaka, pasina mugari.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "munzve dzangu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "dzimba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dzinoverengwa"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "chirashwa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dzichave"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dzihombe"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "nedzakanaka"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mugari"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:03.903980642Z",
+  "model": "glm-5.3"
+}

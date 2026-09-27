@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 37:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Akanyura pairi mhete ina zendarama, panzvimbo dzinana dzetsviri dzaro; mhete mbiri patsviri imwe chete, uye mhete mbiri patsviri yechipiri.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "akanambura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pairi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ina"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zendarama"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inana"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "tsviri dzaro"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "tsviri yaro"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imwe chete"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "mbiri"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mhete"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "tsviri yaro"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yechipiri"
+    }
+  ],
+  "timestamp": "2026-09-27T05:38:42.547737160Z",
+  "model": "glm-5.3"
+}

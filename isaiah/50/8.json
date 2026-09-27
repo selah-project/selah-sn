@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Apenda uyo anondichengetedza kuti ndiriwo; ndiani anondirwisa ⟨את⟩ neni? Ngatimire tese. Ndiani mubati wemhosva yangu? Ngauye kundiri.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "apenda"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "anondichengetedza kuti ndiriwo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "anondirwisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ neni",
+      "marks": "mataurirwo ari pano — ⟨את⟩ semadzitaurwa muchiShona: neni"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "ngatimire"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tese"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mubati"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "wemhosva yangu"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ngauye"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kundiri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:05:28.879250197Z",
+  "model": "glm-5.3"
+}

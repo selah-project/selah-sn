@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 36:3",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 36,
+  "translation": "Saka porofita, uye uti: Zvakadaro zvinoti Adonai Yahwe: Nokuti, zvirokwazvo, pakushata kwazvo uye kudyiwa ⟨את⟩ kwazvo kumativi ose, kuti muve mugari wechishusi chemadzimambo, mave kurwirwa nemidomo yevanhu, uye mashoko akaipa evanhu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Saka"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "porofita"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uye uti"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Zvakadaro"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "zvinoti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "ביען",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "pakushata kwazvo"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "uye kudyiwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kwazvo (kumativi ose)"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "kumativi ose"
+    },
+    {
+      "surface": "להיותכם",
+      "gloss": "kuti muve"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "mugari"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "wechishusi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "chemadzimambo"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "mave kurwirwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "midomo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "yevanhu"
+    },
+    {
+      "surface": "ודבת",
+      "gloss": "uye mashoko akaipa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "evanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:30:51.204523799Z",
+  "model": "glm-5.3"
+}

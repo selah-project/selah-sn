@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Madzishe aFarao vakaona ⟨את⟩ iye, vakamutenda kuna Farao; mukadzi akatorwa kumba kwaFarao.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "vakaona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "madzishe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "vakamutenda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akatorwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kwaFarao"
+    }
+  ],
+  "timestamp": "2026-09-27T05:07:22.196837515Z",
+  "model": "glm-5.3"
+}

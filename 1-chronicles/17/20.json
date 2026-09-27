@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Yahwe, hakuna wakafanana newe, uye hakuna Erohimu kunze kwauri, muzvose izvo tatinzwa nendromo dzedu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hakuna"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "wakafanana newe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "kunze kwauri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muzvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "tatinzwa"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "nendromo dzedu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:25:09.296765896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Nemambo weAshuru akamuteerera; nemambo weAshuru akakwira kuDhamasheki, akaibata, akatungamidza vanhu vayo kuKira, uye ⟨את⟩ Retsinu akauraya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akamuteerera"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dhamasheki"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "akaibata"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "akatungamidza vanhu vayo"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "kuKira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsinu"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsinu"
+    },
+    {
+      "surface": "המית",
+      "gloss": "akauraya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:23:52.630294916Z",
+  "model": "glm-5.3"
+}

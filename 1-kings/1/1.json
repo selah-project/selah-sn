@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye mambo Dhavhidhi akachembera, apfuura mazuva; uye vakamufukidza ⟨את⟩ mahomwe, asi kudziyisa hakuna kumuwanira.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "uye mambo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akachembera"
+    },
+    {
+      "surface": "בא",
+      "gloss": "apfuura"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mazuva"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "vakamufukidza"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "mahomwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "asi hakuna"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "kudziyisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kumuwanira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:04:49.194818676Z",
+  "model": "glm-5.3"
+}

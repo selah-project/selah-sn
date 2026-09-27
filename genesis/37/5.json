@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 37,
+  "translation": "Uye Yosefu akarota roto, rokati rokazara akaridudzira mukoma wake, uye vakawedzera kunzvenga kuriona ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "akarota"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "roto"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "akaridudzira"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kumukoma wake"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "vakawedzera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kunzvenga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuriona (Yosefu)"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:03.769299326Z",
+  "model": "glm-5.3"
+}

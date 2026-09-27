@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Ndakaona ⟨את⟩ ⟨the⟩ ivhu, uye tarira — tohu navohu; ndakaona matenga, uye hapana chiedza chawo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ndakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ivhu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye tarira"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "navohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ndakaona"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "matenga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "chiedza chawo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:51:37.149895149Z",
+  "model": "glm-5.3"
+}

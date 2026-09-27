@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Madzimambo anorova-binduwo, madzimambo emarudzi ose anozunza; mukata kwe6wedza, ivhu rinopfava.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "anorova-binduwo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "marudzi"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "anozunza"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "madzimambo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mukata kwe"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "6wedza"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "rinopfava"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ivhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:57.576073332Z",
+  "model": "glm-5.3"
+}

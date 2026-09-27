@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Imbai shoko ritsva kuna Yahwe, imbai kuna Yahwe, nyika yose.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Imbai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shoko ritsva"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "itsva"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "imbai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuna Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:22.910021586Z",
+  "model": "glm-5.3"
+}

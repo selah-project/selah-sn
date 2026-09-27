@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 56,
+  "translation": "Zuva randinotya, ini, ndinovimba naiwe.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Zuva"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "randinotya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "naiwe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ndinovimba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:40.024836658Z",
+  "model": "glm-5.3"
+}

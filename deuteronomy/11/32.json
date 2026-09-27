@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Muchachengeta kuita ⟨את⟩ mitemo yose ne⟨את⟩ mutemo dzamisunudzo andinokuisa pamberi penyu nhasi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Muchachengeta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitemo yose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mitemo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "mutemo dzamisunudzo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mutemo dzamisunudzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ndinokuisa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:46.651110949Z",
+  "model": "glm-5.3"
+}

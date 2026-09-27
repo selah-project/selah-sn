@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 47,
+  "translation": "Yosefu akadyetsa ⟨את⟩ baba vake ne⟨את⟩ vanozvara vake ne⟨את⟩ vhavari yose yemba yababa vake, chingwa sekuda kwavana vachiri vadiki.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "akadyetsa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba vake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vanozvara vake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "vanozvara vake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vhavari yose yemba yababa vake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vhavari yose"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yemba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yababa vake"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sekuda"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "kwavana vachiri vadiki"
+    }
+  ],
+  "timestamp": "2026-09-27T05:22:35.042453425Z",
+  "model": "glm-5.3"
+}

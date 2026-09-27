@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 17:2",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Sokurangarira kwavana vavo ma-altari avo nema-ashera avo, pamuti wakanyorovera, pamakomo akakwirira.",
+  "tokens": [
+    {
+      "surface": "כזכר",
+      "gloss": "sokurangarira"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kwavana vavo"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ma-altari avo"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "nema-ashera avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "muti"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wakanyorovera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "makomo"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "akakwirira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:58:02.386614613Z",
+  "model": "glm-5.3"
+}

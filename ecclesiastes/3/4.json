@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nguva yekuchema, uye nguva yekuseka; nguva yekushungurudzika, uye nguva yekutamba.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "yekuchema"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "yekuseka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "yekushungurudzika"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "uye nguva"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "yekutamba"
+    }
+  ],
+  "timestamp": "2026-09-27T09:53:01.728439485Z",
+  "model": "glm-5.3"
+}

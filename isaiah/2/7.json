@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nyika yavo yakazadzwa nendarama nesirivha, uye hapana muganhu wenzvimbo dzavo yechuma; nyika yavo yakazadzwa nemabhiza, uye hapana muganhu wemakari avo.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "yakazadzwa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nyika yavo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nesirivha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "nendarama"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "wenzvimbo dzavo yechuma"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yakazadzwa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nyika yavo"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "nemabhiza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "muganhu"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "wemakari avo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:28:13.887440901Z",
+  "model": "glm-5.3"
+}

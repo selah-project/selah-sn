@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 85,
+  "translation": "Zvirokwazvo, Yahwe achapa zvakanaka, uye nyika yedu ichapa zvibereko zwayo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Zvirokwazvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "achapa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "zvakanaka"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "uye nyika yedu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ichapa"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "zvibereko zwayo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:08:04.932454664Z",
+  "model": "glm-5.3"
+}

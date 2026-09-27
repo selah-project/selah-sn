@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 71,
+  "translation": "Vachiti: Erohimu wakamusiya; muitezvere mudzikwe, nokuti hapana anomununutsa.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Vachiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "wakamusiya"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "muitezvere"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "mudzikwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "anomununutsa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:35.484025455Z",
+  "model": "glm-5.3"
+}

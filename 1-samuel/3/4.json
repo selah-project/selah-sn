@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Yahwe akadana kuna Shumueri; iye akati: Ndiripo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shumueri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "iye akati"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ndiripo"
+    }
+  ],
+  "timestamp": "2026-09-27T06:41:55.022150876Z",
+  "model": "glm-5.3"
+}

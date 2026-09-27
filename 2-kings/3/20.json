@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino mangwanana, panguva yokunyorerwa kwe⟨minha⟩, tarisa, mvura yaive ichiouya nenenzira dzeEdhomu, nyika yakazadzwa ⟨את⟩ mvura.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangwanana"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "panguva yokunyorerwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kwe⟨minha⟩"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tarisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "באים",
+      "gloss": "yaive ichiouya"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "nenenzira"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "dzeEdhomu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yakazadzwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mvura"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mvura"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:05.621920868Z",
+  "model": "glm-5.3"
+}

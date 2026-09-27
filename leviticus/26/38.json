@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 26,
+  "translation": "Uye muchaparara pakati pamarudzi, uye ivhu ravenyu vavengi richadya ⟨את⟩ muni.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "muchaparara"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pakati pamarudzi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "richadya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "muni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ravenyu vavengi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:52:09.258919270Z",
+  "model": "glm-5.3"
+}

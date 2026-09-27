@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 48,
+  "translation": "Nzwa iwe, Yakobo, uye Isiraeri, wandirayira: ndini iye; ndini wokutanga, ndipowo ndini wekupedzisira.",
+  "tokens": [
+    {
+      "surface": "שְׁמַ֤ע",
+      "gloss": "nzwa"
+    },
+    {
+      "surface": "אֵלַי֙",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "יַֽעֲקֹ֔ב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "וְיִשְׂרָאֵ֖ל",
+      "gloss": "uyeIsiraeri"
+    },
+    {
+      "surface": "מְקֹרָאִ֑י",
+      "gloss": "wandirayira"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "הֽוּא֙",
+      "gloss": "iye"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "רִאשׁ֔וֹן",
+      "gloss": "wokutanga"
+    },
+    {
+      "surface": "אַ֣ף",
+      "gloss": "ndipowo"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "אַחֲרֽוֹן",
+      "gloss": "wekupedzisira"
+    }
+  ],
+  "timestamp": "2026-09-27T07:42:54.031187387Z",
+  "model": "glm-5.3"
+}

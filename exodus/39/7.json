@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 39,
+  "translation": "Uye akaisa ⟨אתם⟩ idzo pamapendekedza eEfodhi, mabwe echirangarirwa kuvanhu vaIsiraeri, sezvaYahwe akaraira ⟨את⟩ Mhoze.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "uye akaisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "idzo (mabwe)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mapendekedza"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "eEfodhi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabwe"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "echirangarirwa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuvanhu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsiraeri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezva"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akaraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mhoze"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mhoze"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:23.889625739Z",
+  "model": "glm-5.3"
+}

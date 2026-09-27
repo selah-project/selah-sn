@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Simuka, enda kuNinive, ⟨guta⟩ guru, uye zunza shoko pausadza pacho; nokuti akaipa avo akakwira pachiso pangu.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Simuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "enda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨guta⟩"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "guru"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "uye zunza shoko"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pausadza pacho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "akakwira"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "akaipa avo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:43:38.183917008Z",
+  "model": "glm-5.3"
+}

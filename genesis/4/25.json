@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Adhamu akaziva zvakare ⟨את⟩ mukadzi wake, iye ndokubereka mwanakomana, ndokudaidza ⟨את⟩ zita rake Sheti, kuti: Erohimu andisika umwe mbewu kwandiri pachinzvimbo paHebheru, nokuti Kayini akamuuraya.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "akaziva"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adhamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukadzi wake"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mukadzi wake"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ndokubereka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ndokudaidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita rake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zita rake"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שת",
+      "gloss": "andisika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbewu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "umwe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pachinzvimbo pa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebheru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "akamuuraya"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayini"
+    }
+  ],
+  "timestamp": "2026-09-27T05:03:45.674239446Z",
+  "model": "glm-5.3"
+}

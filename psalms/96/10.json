@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Taurai mune dzamadzimambo: Yahwe wakatonga; zvirokwazvo, pasi chakagadzikana, harizungunuki; achatonga vanhu nouchinjiki.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "taurai"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mune dzamadzimambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wakatonga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "chakagadzikana"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "rizungunuki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "nouchinjiki"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:00.416299086Z",
+  "model": "glm-5.3"
+}

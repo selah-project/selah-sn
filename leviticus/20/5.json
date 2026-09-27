@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 20,
+  "translation": "Ini ndichaisa ⟨את⟩ chiso changu pamunhu iyeya nomumhuri yake, ndichamudimadza iye, ne⟨את⟩ vose vanoita upombwe mushure make, kutora upombwe mushure waMoleki, pakati pevanhu vavo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ndichaisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso changu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso changu"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "pamunhu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iyeya"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "nomumhuri yake"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ndichamudimadza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "maps": "",
+      "marks": "vose vanoita upombwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "vanoita upombwe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mushure make"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kutora upombwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Moleki"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "vanhu vavo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:44.141782813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Usaite mwari wakanyungudutswa ⟨kwazvo⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "wakanyungudutswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Usaite"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "usaite"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:28.572774165Z",
+  "model": "glm-5.3"
+}

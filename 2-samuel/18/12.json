@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 18:12",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Munhu akati kuJowabhu: Kunyange ndingayere pamanja angu churu chesirivha, handina kutumira ruwoko rwangu kumwanakomana wamambo; nokuti nzevu dzedu mambo akakuraira ⟨את⟩ iwe ne⟨את⟩ Abhishai ne⟨את⟩ Itai kuti: Chengetai ⟨iwe⟩ muchidiki — Abhusharomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jowabhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye kwete"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "kuyera"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "manja angu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sirivha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "kutumira"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruwoko rwangu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "nzevu dzedu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akakuraira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ iwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Abhishai"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abhishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Itai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "Chengetai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בנער",
+      "gloss": "muchidiki"
+    },
+    {
+      "surface": "באבשלום",
+      "gloss": "Abhusharomu"
+    }
+  ],
+  "timestamp": "2026-09-27T07:00:49.069325630Z",
+  "model": "glm-5.3"
+}

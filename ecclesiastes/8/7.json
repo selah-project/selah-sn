@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Nokuti haazivi izvo zvichaita; nokuti nguva yacho ichange yaitika, ani achamudavira?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "haazivi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zivi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "zvichaita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nguva yacho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ichange yaitika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "achamudavira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu-"
+    }
+  ],
+  "timestamp": "2026-09-27T09:55:20.585636969Z",
+  "model": "glm-5.3"
+}

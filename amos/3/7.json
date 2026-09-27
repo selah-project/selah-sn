@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nokuti Adonai Yahwe haaite chinhu, kunze kwekuzarura zvakavanzika zvake kune varanda vake, maporofita.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "aaite"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יְהוִה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דָּבָר",
+      "gloss": "chinhu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kwekuti"
+    },
+    {
+      "surface": "גָּלָה",
+      "gloss": "kuzarura"
+    },
+    {
+      "surface": "סוֹדוֹ",
+      "gloss": "zvakavanzika zvake"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "עֲבָדָיו",
+      "gloss": "varanda vake"
+    },
+    {
+      "surface": "הַנְּבִיאִים",
+      "gloss": "maporofita"
+    }
+  ],
+  "timestamp": "2026-09-27T08:40:04.811942755Z",
+  "model": "glm-5.3"
+}

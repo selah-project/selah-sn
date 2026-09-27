@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "kasine kune hama yake yaanopedzana nayo: amai vake, baba vake, mukomana wake, mwanasikana wake, nehanzvadzi yake yemurume.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kasine"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "kune hama yake"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaanopedzana nayo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "amai vake"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "baba vake"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "mukomana wake"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "mwanasikana wake"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "nehanzvadzi yake yemurume"
+    }
+  ],
+  "timestamp": "2026-09-27T05:49:11.315948595Z",
+  "model": "glm-5.3"
+}

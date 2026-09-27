@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Yehudha akaona ⟨את⟩ iye, akamuona akatarisa somhure, nokuti akanga avhare chiso chake.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "akaona"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "akamuona akatarisa"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "somhure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "akanga avhare"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "chiso chake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:18:47.810575228Z",
+  "model": "glm-5.3"
+}

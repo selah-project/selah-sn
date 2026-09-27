@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "kufungidzira zvinogadzirwa, kuita mazvino ndarama nendarama tochena netambabwesu.",
+  "tokens": [
+    {
+      "surface": "לַחְשֹׁב",
+      "gloss": "kufungidzira"
+    },
+    {
+      "surface": "מַחֲשָׁבֹת",
+      "gloss": "zvinogadzirwa"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "kuita"
+    },
+    {
+      "surface": "בַּזָּהָב",
+      "gloss": "mazvino ndarama"
+    },
+    {
+      "surface": "וּבַכֶּסֶף",
+      "gloss": "nendarama tochena"
+    },
+    {
+      "surface": "וּבַנְּחֹשֶׁת",
+      "gloss": "netambabwesu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:34:21.154776394Z",
+  "model": "glm-5.3"
+}

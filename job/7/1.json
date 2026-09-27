@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Hauna here hondo yakanangirwa munhu pamusoro peoruzivo, uye semazuva emuridzi mazuva ake?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hauna here"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "oruzivo"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "semazuva e"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "muridzi wemazuva"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mazuva ake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:19:32.466289340Z",
+  "model": "glm-5.3"
+}

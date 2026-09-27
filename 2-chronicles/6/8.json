@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye Yahwe akati kunaDhavhidhi baba vangu: Nokuti zvaive nemwoyo yako kuvaka imba sezita rangu, waita zvakanaka nokuti zvaive nemwoyo yako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba vangu"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mwoyo yako"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kuvaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "sezita rangu"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "waita zvakanaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zvaive"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "mwoyo yako"
+    }
+  ],
+  "timestamp": "2026-09-27T10:30:03.486947537Z",
+  "model": "glm-5.3"
+}

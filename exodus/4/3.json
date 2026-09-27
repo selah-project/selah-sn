@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akati: Ita pasi! Wakaita pasi, wakava nyoka, Moshe akatiza pachiso paro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Akati"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Ita pasi!"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasiri"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "Wakaita pasi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasiri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wakava"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "akatiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pachiso paro"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:37.325254852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "aka bvunza muna Yahwe chake, akamupa chokudya; zvino ⟨את⟩ rupanga rwaGoliyati waMupirisiti akamupa.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "akabvunza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chake"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muna Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "chokudya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rupanga rwaGoliyati"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "rupanga"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "rwaGoliyati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "waMupirisiti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-i"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:34.094639650Z",
+  "model": "glm-5.3"
+}

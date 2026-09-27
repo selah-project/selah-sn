@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Uye imwi muchamuka mukavanda, muchitora ⟨את⟩ guta; uye Yahwe Erohimu wenyu achariipa mumaoko enyu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Uye imwi"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "muchamuka"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "mukavanda"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "muchitora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "achaiipa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu wenyu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "mumaoko enyu"
+    }
+  ],
+  "timestamp": "2026-09-27T06:25:25.108718294Z",
+  "model": "glm-5.3"
+}

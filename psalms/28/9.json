@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Ponesa ⟨את⟩ vanhu vako, uye tsigira ⟨את⟩ nhaka yako; uvafudze, uye uvatore kusvika nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Ponesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "uye tsigira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhaka yako"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "nhaka yako"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "uvafudze"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "uvatore"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:58.423876095Z",
+  "model": "glm-5.3"
+}

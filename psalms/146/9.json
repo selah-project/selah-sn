@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 146,
+  "translation": "Yahwe anochengeta ⟨את⟩ vatorwa; mushakabvi nenhambadzi anovamirira; uye nzira yevakaipa anotyora.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anochengeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatorwa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vatorwa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "mushakabvi"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "nenhambadzi"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "anovamirira"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "uye nzira"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yevakaipa"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "antyora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:36.058946454Z",
+  "model": "glm-5.3"
+}

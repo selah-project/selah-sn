@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Moshe akapfava ⟨את⟩ pachiso chaYahwe Erohimu wake, akati: Nei, Yahwe, kufema kwako kupisa pamusoro pevanhu vako, avo wakaburitsa munyika yeMuitiro nesimba rikuru nomurivo wakasimba?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "akapfava"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachiso chaYahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pachiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Erohimu wake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "kupisa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kufema kwako"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "pamusoro pevanhu vako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avo"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "wakaburitsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Muitiro"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "nesimba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rikuru"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nomurivo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wakasimba"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:55.411557659Z",
+  "model": "glm-5.3"
+}

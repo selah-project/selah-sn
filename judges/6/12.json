@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Mutumwa waYahwe wakaonekwa kwaari, wakati kwaari: Yahwe ari newe, iwe murwi wemasimba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wakaonekwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Mutumwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "waYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wakati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ari newe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "murwi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "wemasimba"
+    }
+  ],
+  "timestamp": "2026-09-27T06:33:50.088360479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Kusvika rinhi, Yahwe, uchandiyiwira — nokusingaperi? Kusvika rinhi ucha⟨את⟩ dzihira chiso chako kubva kwandiri?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "uchandiyiwira"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kusvika"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "rinhi"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ucha⟨dzihira⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso chako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "chiso chako"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kubva kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:21.137976850Z",
+  "model": "glm-5.3"
+}

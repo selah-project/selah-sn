@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 34,
+  "translation": "Yahwe akazuruka muchiedza, akamirira naye ikoko, akadana zita raYahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akazuruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "muchiedza"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "akamirira"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ikoko"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akadana"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "zita ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:36:39.579448204Z",
+  "model": "glm-5.3"
+}

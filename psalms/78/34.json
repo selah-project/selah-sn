@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 78,
+  "translation": "Kana akavauraya, vakamutsvaga; vakadzoka, vakatsvaga ⟨Er⟩ nokudzikamisa mtima.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "akavauraya"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "vakamutsvaga"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "vakadzoka"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "vakatsvaga nokudzikamisa mtima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:49.002793840Z",
+  "model": "glm-5.3"
+}

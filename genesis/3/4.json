@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nyoka yakati kumukadzi: hamuchazofa zvirokwazvo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yakati"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Nyoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mukadzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha-"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zvirokwazvo…fa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "muchazofa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:46:24.889244508Z",
+  "model": "glm-5.3"
+}

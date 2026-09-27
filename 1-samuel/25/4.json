@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Davhidhi akanzwa muwandu kuti Navhari ari kucheka ⟨את⟩ nhete dzake.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "akanzwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davhidhi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "muwandu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ari kucheka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navhari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhete dzake"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "nhete dzake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:50:44.531047427Z",
+  "model": "glm-5.3"
+}

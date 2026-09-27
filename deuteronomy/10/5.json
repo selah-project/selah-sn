@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Ndakatembenuka ndikaenda pasi kubva pagomo, ndaka⟨isa⟩ ⟨את⟩ matafura muArongi andakaita; zvakanga zviri ipapo, sezvo Yahwe akandiraira.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ndakatembenuka"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ndikaenda pasi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "pagomo"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ndaka⟨isa⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matafura"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matafura"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "muArongi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ndakaita"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zvakanga zviri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezvo"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "akandiraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T06:12:06.969743061Z",
+  "model": "glm-5.3"
+}

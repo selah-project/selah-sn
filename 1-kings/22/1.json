@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Vakagara makore matatu pasina hondo pakati peAramu neIsraeri.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "matatu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "makore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pasina"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakati pe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:01:07.601582771Z",
+  "model": "glm-5.3"
+}

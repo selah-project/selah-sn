@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Adonai Yahwe, iwe wakatanga kuratidza ⟨את⟩ mushumiri wako ⟨את⟩ kukuru kwako, nezvikuru ⟨את⟩ ruoko rwako rwakasimba; ndiani Er ari mumatenga nepasi anogona kuita semabasa ako, nessimba yako?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "wakatanga"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "kuratidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mushumiri wako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mushumiri wako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukuru kwako"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "kukuru kwako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruoko rwako rwakasimba"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "rwakasimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mumatenga"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "nepasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anogona kuita se-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anogona kuita"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "semabasa ako"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "nessimba yako"
+    }
+  ],
+  "timestamp": "2026-09-27T06:09:07.483103674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Musatendeudzwi kune zvipikwa, uye zvipikwa zvesimbi zvisunungurika musazviita kwamuri. Ndini Yahwe Erohimu venyu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "satendeudzwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "zvipikwa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "nezvipikwa"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "zvesimbi zvisunungurika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zviita"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Erohimu venyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:58.433405921Z",
+  "model": "glm-5.3"
+}

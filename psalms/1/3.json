@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uye achava semuti wakadzikidzwa pamadziro emvura, unopa muchero wawo nguva yayo, mashizha acho haashayi; uye zvose anoita zvichabuditsa mibairo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "achava"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "semuti"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "wakadzikidzwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "madziro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "emvura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uno"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "muchero wawo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "nguva yayo"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "mashizha acho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "shayi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "anoita"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "zvichabuditsa mibairo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:48.951172096Z",
+  "model": "glm-5.3"
+}

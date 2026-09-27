@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Yahwe, musandiporosedza mushure wakashatira, uye musandiranga mukushata kwako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "mukushatira kwako"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "musandiporosedza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "uye usa"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "mukusatenda kwako"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "musandiranga"
+    }
+  ],
+  "timestamp": "2026-09-27T08:52:13.908223601Z",
+  "model": "glm-5.3"
+}

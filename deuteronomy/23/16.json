@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Usatsevedza muranda kuna tenzi wake, anopunhukira kwauri kubva kuna tenzi wake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "satsevedza"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "muranda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tenzi wake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "punhukira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "kuna tenzi wake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:17:40.962531778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Nokuti tsoka yangu yakomboyedza kuzembera, uye marwadzo angu ari pamberi pangu nguva dzose.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kwetsoka yangu ⟨ndiri⟩"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "kuzembera"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yakomboyedza"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "uye marwadzo angu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pamberi pangu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:20.292730939Z",
+  "model": "glm-5.3"
+}

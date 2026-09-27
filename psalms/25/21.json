@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Kuzvariswa nekururama ngavandichengete; nokuti ndinotarisira kwauri.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "kuzvariswa"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "nekururama"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ngavandichengete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ndinotarisira kwauri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:04.278004836Z",
+  "model": "glm-5.3"
+}

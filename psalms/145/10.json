@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 145,
+  "translation": "Mabasa ako ose achakudaira, iwe Yahwe, navatsvene vako vachakurumbidza.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "achakudaira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "navatsvene vako"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "vachakurumbidza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:45.488354890Z",
+  "model": "glm-5.3"
+}

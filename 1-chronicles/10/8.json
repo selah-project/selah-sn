@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Zvino mazuva mavamba, Filisitia vakauya kubvunza ⟨את⟩ vakafirwa, vakawana ⟨את⟩ Shauru ne⟨את⟩ vana vake vakawirira pegomo reGiribhoa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Zvino zvakaitika"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mazuva mavamba"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vakauya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filisitia"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "kubvunza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vakafirwa"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "vakafirwa"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "vakawana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauru"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "vana vake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "vana vake"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "vakawirira"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "pegomo re"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Giribhoa"
+    }
+  ],
+  "timestamp": "2026-09-27T10:21:36.857249880Z",
+  "model": "glm-5.3"
+}

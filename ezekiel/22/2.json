@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Iwe, munhu woMwanakomana, ungotonga here, ungotonga here ⟨את⟩ guta reroso? Uye uchazivisa riro ⟨את⟩ zvinonyadzisa zvose zvazvo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwanakomana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ungotonga here"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ungotonga here"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guta reroso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "guta"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "reroso"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "uchazivisa riro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvinonyadzisa zvose zvazvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "zvinonyadzisa zvazvo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:23:18.166251405Z",
+  "model": "glm-5.3"
+}

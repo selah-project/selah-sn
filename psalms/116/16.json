@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Ndinokumbira, iwe Yahwe, nokuti ndini mukandiri wako, ndini mukandiri wako, mukomana wemurandarume wako; wakavhurira mkanda dzangu.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ndinokumbira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mukandiri wako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ndini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mukandiri wako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukomana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wemurandarume wako"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "wakavhurira"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mkanda dzangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:45.213746669Z",
+  "model": "glm-5.3"
+}

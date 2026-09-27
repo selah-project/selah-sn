@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Nokudaro hatina kutya kunyange ivhu richishandurwa, uye makoma okuzununguka mukati megungwa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nokuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kweizvi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatina"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "kunyange ... richishandurwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ivhu"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "uye ... okuzununguka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "makoma"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "mukati me"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "gungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:00.775831928Z",
+  "model": "glm-5.3"
+}

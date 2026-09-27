@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 27,
+  "translation": "Usandipa kumweya wevanondityisidzira; nokuti vapupuri venhema vakamuka pandiri, neanofema hutsamwa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Usa"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "Usandipa"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kumweya"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "wevanondityisidzira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "vakamuka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pandiri"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vapupuri"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "venhema"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "neanofema"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "hutsamwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:21.954249480Z",
+  "model": "glm-5.3"
+}

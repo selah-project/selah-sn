@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Dhabhidhi akatsvaga ⟨את⟩ Erohimu nomumwana; Dhabhidhi akaimisa kudya, akaenda mukati, akagona, ndokugara agere pasi.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "akatsvaga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhabhidhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Erohimu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "no"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mumwana"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "akaimisa kudya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhabhidhi"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kudya kwakaimiswa (tsanya)"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "akaenda mukati"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "akagona"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "akagara agere"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:58:46.376974658Z",
+  "model": "glm-5.3"
+}

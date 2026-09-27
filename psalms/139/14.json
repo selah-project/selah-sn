@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Ndichakudavira, nokuti wakandisika nenzira inotyisa uye yakanakisa; zvinoshamisa mabasa ako, uye mweya wangu unozviziva zvakanaka.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ndichakudavira"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "nenzira inotyisa"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "wakandisika (wakasiyisa)"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "zvinoshamisa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mabasa ako"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "uye mweya wangu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "unoziva"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvakanaka"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:37.933706110Z",
+  "model": "glm-5.3"
+}

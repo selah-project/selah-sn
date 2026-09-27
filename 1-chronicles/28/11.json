@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Dhavhidhi akapa Sholomono mwanake ⟨את⟩ mufananidzo wematanda, ne⟨את⟩ dzimba dzaro, nezvirongo zvaro, nedzimba dzepamusoro dzaro, nedzimba dzemukati, neimba yechipiriso.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Sholomono"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mufananidzo wematanda"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mufananidzo"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "wematanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "dzimba dzaro"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "dzimba dzaro"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "nezvirongo zvaro"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "nedzimba dzepamusoro dzaro"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "nedzimba dzemukati"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "dzemukati"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "neimba"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "yechipiriso"
+    }
+  ],
+  "timestamp": "2026-09-27T10:28:39.084540442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Zvino itai izvi, nokuti Yahwe akataura kuna Dhavhid achiti: Neruoko rwaDhavhid, muchanda wangu, ndichaponesa ⟨את⟩ vanhu vangu vokuIsirayeri kubva muruoko rwePerisitimu, nokubva muruoko rwevavengi vavo vose.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "itai izvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "Neruoko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "rwaDhavhid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "muchanda wangu"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "ndichaponesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vangu vokuIsirayeri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "vanhu vangu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vokuIsirayeri"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kubva muruoko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "rwePerisitimu"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nokubva muruoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rwe"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "vavengi vavo vose"
+    }
+  ],
+  "timestamp": "2026-09-27T06:55:40.158800957Z",
+  "model": "glm-5.3"
+}

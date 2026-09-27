@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 31:42",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Kudai Erohimu waababa vangu, Erohimu waAbhurahama, nomutya waIsaka, asiri navo, zvino ungaisunda ndisina chero chinhu; Erohimu wakaona ⟨את⟩ kutambudzika kwangu ne⟨את⟩ gweta rumanoko emazvokwamanda angu, akaugodzora usiku upfuure.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Kudai... asiri"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa-"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ababa vangu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "nomutya"
+    },
+    {
+      "surface": "יצצק",
+      "gloss": "waIsaka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "asiri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "navo"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עתה",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ndisina chero chinhu"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "ungaisunda ndiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutambudzika kwangu"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kutambudzika kwangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "gweta rumanoko emazvokwamanda angu"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "gweta"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "rumanoko emazvokwamanda angu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wakaona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "akaugodzora"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "usiku upfuure"
+    }
+  ],
+  "timestamp": "2026-09-27T05:16:09.911279868Z",
+  "model": "glm-5.3"
+}

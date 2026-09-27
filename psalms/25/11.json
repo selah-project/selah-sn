@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Nokuda rezita rako, Yahwe, ndiregereerere chitadzo changu, nokuti chakanyanyisa.",
+  "tokens": [
+    {
+      "surface": "לְמַֽעַן",
+      "gloss": "nokuda re"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וְֽסָלַחְתָּ",
+      "gloss": "ndiregereerere"
+    },
+    {
+      "surface": "לַ֝עֲוֺנִ֗י",
+      "gloss": "chitadzo changu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "chakanyanyisa"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "⟨icho⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:56.893492024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Mutero waMowabhu: nokuti usiku Aru waMowabhu wakaparadzwa, wakanyarara; nokuti usiku Kiri waMowabhu wakaparadzwa, wakanyarara.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Mutero"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMowabhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "wakaparadzwa"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMowabhu"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "wakanyarara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "usiku"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "wakaparadzwa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kiri"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waMowabhu"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "wakanyarara"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:51.202059367Z",
+  "model": "glm-5.3"
+}

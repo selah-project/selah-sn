@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Imi vanotya Yahwe, mukurumbidzei; mbeu yose yaJakobho, mukomekezai; imi mbeu yose yaIsraeri, mutyeyi.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Imi vanotya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mukurumbidzei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "yaJakobho"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mukomekezai"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "imutyeyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:55:09.130437371Z",
+  "model": "glm-5.3"
+}

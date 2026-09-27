@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Zvino zvikaerekana muzuva umwe chete uyu, Yahwe akabudisa ⟨את⟩ vana vaIsraeri muEgypto, mumauto yavo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino zvikaerekana"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "muzuva umwe chete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uyu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "akabudisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vana vaIsraeri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "muEgypto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypto"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "mauto yavo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:47:51.637137560Z",
+  "model": "glm-5.3"
+}

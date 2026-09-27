@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 111,
+  "translation": "Kutya Yahwe ndiko kutangira kungwaru; kunzwisisa kwakanaka kuvose anozviita; rumbidzo yake yakamira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "kutangira"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kungwaru"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kutya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kunzwisisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kwakanaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuvose"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "anozviita"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "rumbidzo yake"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "yakamira"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nokusingaperi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:13:22.871605778Z",
+  "model": "glm-5.3"
+}

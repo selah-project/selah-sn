@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "VaVe serukukwe pachiso chemhepo, uye mutumwa waYahwe achivadhosa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "VaVe"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "serukukwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso che"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mhepo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "uye mutumwa wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "achivadhosa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:58:18.063622661Z",
+  "model": "glm-5.3"
+}

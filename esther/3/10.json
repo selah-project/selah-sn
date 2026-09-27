@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Mambo akabvisa ⟨את⟩ chiringa chake kubva pa ruoko rwake, akaipa kuHamani, mukoma waMedhata, muAgagi, muvengi weYudhia.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "akabvisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiringa chake"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "chiringa chake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kubva pa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "akaipa"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kuHamani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukoma wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medhata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "muAgagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "muvengi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "weYudhia"
+    }
+  ],
+  "timestamp": "2026-09-27T11:21:25.108117478Z",
+  "model": "glm-5.3"
+}

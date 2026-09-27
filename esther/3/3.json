@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Uye vashandi vamambo vari kusuo ramambo vakati kuna Mordekai: Nei iwe uchikundikidza ⟨את⟩ murairo wamambo?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "vashandi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vamambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vari"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kusuo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ramambo"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kuna Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "uchikundikidza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murairo wamambo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "murairo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wamambo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:57:32.602651728Z",
+  "model": "glm-5.3"
+}

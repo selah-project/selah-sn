@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 68,
+  "translation": "Erohimu, pakubuda kwako mumberi pevanhu vako, pakufamba kwako mugwenga reSera.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "pakubuda kwako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mumberi pe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "vanhu vako"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "pakufamba kwako"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "mugwenga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sera"
+    }
+  ],
+  "timestamp": "2026-09-27T09:04:46.880573706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Naizvozvo shure kwangu zvazadzwa nedambudziko, marwadzo andibata semarwadzi emukadzi anabarira; ndakazvimba ndichinzwa, ndakanhenhera ndichiona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zvazadzwa"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "shure kwangu"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "nedambudziko"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "marwadzo"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "andibata"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "semarwadzi"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "emukadzi anabarira"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "ndakazvimba"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ndichinzwa"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ndakanhenhera"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ndichiona"
+    }
+  ],
+  "timestamp": "2026-09-27T07:34:30.617893709Z",
+  "model": "glm-5.3"
+}

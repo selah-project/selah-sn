@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 1:30",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nokuti sokutaura kwaizvozvo ndakakuraira nemi muna Yahwe, Erohimu waIsuraeri, ndichiti: Kutaura chokwadi Shoromhono mwanakomana wako achaita mambo mushure mangu, iye achagara pamusoro pechigaro changu chindo pachinzvimbo changa; kutaura chokwadi ndichaita saizvozvo nhasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokutaura kwaizvozvo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ndakakuraira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nemi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "muna Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "waIsuraeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndichiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kutaura chokwadi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shoromhono"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwanakomana wako"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "achaita mambo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure mangu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "achagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "chigaro changu"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pachinzvimbo changa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kutaura chokwadi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "saizvozvo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nhasi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨iri⟩"
+    }
+  ],
+  "timestamp": "2026-09-27T07:05:38.432402439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Asi ini ndakaita senge rusvingo handinzwi, uye senge dumwa widzo havatambanuki muromo wake.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Asi ini"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "senge rusvingo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handi"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nzwi"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "uye senge dumwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "vatambanuki"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "muromo wake"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:15.332720404Z",
+  "model": "glm-5.3"
+}

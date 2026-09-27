@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 28:19",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 28,
+  "translation": "Yahwe achapa wo ⟨את⟩ Izuraeri pamwe newe mumaoko evaFiristia; mangwana iwe navana vako muchava neni; wo ⟨את⟩ mauto eIzuraeri Yahwe achapa mumaoko evaFiristia.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "achapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izuraeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izuraeri"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pamwe newe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "evaFiristia"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "uye mangwana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "navana vako"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "neni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mauto eIzuraeri"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "mauto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIzuraeri"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "achapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "evaFiristia"
+    }
+  ],
+  "timestamp": "2026-09-27T06:53:16.257956345Z",
+  "model": "glm-5.3"
+}

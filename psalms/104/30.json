@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 104,
+  "translation": "Unotumira Mweya wako, vanosikwa; uye unovandudza chiso cheivhu.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "unotumira"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Mweya wako"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "vanosikwa"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "uye unovandudza"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ivhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:12:16.513137877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 18,
+  "translation": "Nokuti mutemo wese wake uri pamberi pangu, uye misungano yake handina kudzokera shure ⟨kubva⟩ pandiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wese"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "mutemo wake"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "uri pamberi pangu"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "uye misungano yake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "kudzokera shure"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨kubva⟩ pandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T08:54:40.228825991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Idzorera shure; usapfuura nawo; tsauka kubva pairi, uye pfuura.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Idzorera shure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "usa-"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "pfuura"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "tsauka"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kubva pairi"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "uye pfuura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:22:30.897914104Z",
+  "model": "glm-5.3"
+}

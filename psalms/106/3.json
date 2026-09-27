@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 106,
+  "translation": "Vakafari avo vanochengeta mutemo wokutonga, uyo anoita kururama nguva dzose.",
+  "tokens": [
+    {
+      "surface": "אַ֭שְׁרֵי",
+      "gloss": "Vakafari"
+    },
+    {
+      "surface": "שֹׁמְרֵ֣י",
+      "gloss": "avo vanochengeta"
+    },
+    {
+      "surface": "מִשְׁפָּ֑ט",
+      "gloss": "mutemo wokutonga"
+    },
+    {
+      "surface": "עֹשֵׂ֖ה",
+      "gloss": "uyo anoita"
+    },
+    {
+      "surface": "צְדָקָ֣ה",
+      "gloss": "kururama"
+    },
+    {
+      "surface": "בְכָל",
+      "gloss": "nguva dzose"
+    },
+    {
+      "surface": "עֵֽת",
+      "gloss": "nguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T11:17:30.020262829Z",
+  "model": "glm-5.3"
+}

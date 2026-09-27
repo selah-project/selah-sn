@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akati: Dzosera ruoko rwako muhembe yako. Akadzosa ruoko rwake muhembe yake, akabudisa kubva muhembe yake, uye taona, rwakadzokera seserwo rwake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "השב",
+      "gloss": "dzosera"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruoko rwako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "hembe yako"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "akadzosa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruoko rwake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "hembe yake"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "akabudisa"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "kubva muhembe yake"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "uye taona"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "rwakadzokera"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "seserwo rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T05:25:22.216858456Z",
+  "model": "glm-5.3"
+}

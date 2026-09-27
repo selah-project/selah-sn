@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Samueru akataura nevhu⟨את⟩ mutemo woushe, nhengo yakaomya munyore, akaishere pachiso paYahwe; Samueru akatuma ⟨את⟩ vanhu vose, mumwe nomumwe kumusha kwake.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "akataura"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nevhu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutemo woushe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mutemo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "woushe"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "akaomya munyore"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "munyore"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "akaishere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhu vose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kumusha kwake"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:03.738962462Z",
+  "model": "glm-5.3"
+}

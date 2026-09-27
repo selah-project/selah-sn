@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Uye chokururama chichave bhandi remhunga yake, uye chokutendeka chichave bhandi reshure rwake.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "uyye chichave"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chokururama"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bhandi"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "remhunga yake"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "chokutendeka"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "bhandi"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "reshure rwake"
+    }
+  ],
+  "timestamp": "2026-09-27T07:32:06.228128010Z",
+  "model": "glm-5.3"
+}

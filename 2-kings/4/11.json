@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Zvino zuva rimwe rakauya, iye akauya kumusha, akagovera kuenda kumuri iyoyepamusoro, akatora kurara ipapo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "zvino rakaita"
+    },
+    {
+      "surface": "היום",
+      "gloss": "zuva"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akauya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kumusha"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "akagovera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "muri iyoyepamusoro"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akatora kurara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ipapo"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:04.172250783Z",
+  "model": "glm-5.3"
+}

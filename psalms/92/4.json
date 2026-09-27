@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Pachena ⟨ashoru⟩, napachena ⟨navaru⟩, pachena ⟨higaioni⟩, nekinora.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "pachena"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "⟨ashoru⟩"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "napachena"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "⟨navaru⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pachena"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "⟨higaioni⟩"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "nekinora"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:27.336156461Z",
+  "model": "glm-5.3"
+}

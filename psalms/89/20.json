@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 89,
+  "translation": "Zvino wakataura mumuono kuvatsvene vako, uye wakati: “Ndakagadza rubatsiro pamusoro pemunhu anesimba, ndakakwirisa musarudzwa kubva muvanhu.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wakataura"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "mumuono"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "kuvatsvene vako"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "uye wakati"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ndakagadza"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "rubatsiro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "munhu anesimba"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "ndakakwirisa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "musarudzwa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kubva muvanhu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:06.633815135Z",
+  "model": "glm-5.3"
+}

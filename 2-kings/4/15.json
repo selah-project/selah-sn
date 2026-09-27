@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Akati: Danidza iye. Akamudanidza, iye akamira kumunyango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Danidza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "akamudanidza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iye"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "akamira"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "kumunyango"
+    }
+  ],
+  "timestamp": "2026-09-27T07:18:35.627303823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Achauraya ⟨את⟩ shiri imwe mudziyo wemivondo, pamusoro pemvura inopihwa upenyu.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "achauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shiri imwe"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "imwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dziyo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "wemivondo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mvura"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "inopihwa upenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:45:01.292685706Z",
+  "model": "glm-5.3"
+}

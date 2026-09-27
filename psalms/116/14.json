@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 116,
+  "translation": "Ndirairo dzangu kunaYahwe ndichazvizadza, pamberi pazvinonhongwa zvose pevanhu vake.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ndirairo dzangu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kunaYahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ndichazvizadza"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "pamberi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "zvinonhongwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pa… zvose"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pevanhu vake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:15:45.213438504Z",
+  "model": "glm-5.3"
+}

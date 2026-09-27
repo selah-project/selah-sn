@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Vakaisa muromo wavo mudenga, uye rurimi rwavo rwofamba pasi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "vakaisa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mudenga"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "muromo wavo"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "uye rurimi rwavo"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "rwofamba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:00.502341761Z",
+  "model": "glm-5.3"
+}

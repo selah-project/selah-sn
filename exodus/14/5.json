@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Zvakaudzwa umambo wakaenzana naFarao kuti vanhu vatiza; uye moyo waFarao nemapurisa ake vakachinja pfungwa ⟨pamusoro pe⟩ vanhu, vakati: “Tinoita sei izvozvo, kuti takasunungura ⟨את⟩ Israeri kubva kushanda kwedu?”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "zvakaudzwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "umambo wakaenzana naFarao"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "vatiza"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "vakachinja pfungwa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "waFarao"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "namapurisa ake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tinoita sei"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izvozvo"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "takaita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "takasunungura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "kubva kushanda kwedu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:28:24.405574701Z",
+  "model": "glm-5.3"
+}

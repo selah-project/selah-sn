@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 6,
+  "translation": "Uye masoko emasuo akazunzunguka nezwi rwaaiyedza odana, uye imba yakazara utsi.",
+  "tokens": [
+    {
+      "surface": "וַיָּנֻעוּ",
+      "gloss": "akazunzunguka"
+    },
+    {
+      "surface": "אַמּוֹת",
+      "gloss": "masoko"
+    },
+    {
+      "surface": "הַסִּפִּים",
+      "gloss": "emasuo"
+    },
+    {
+      "surface": "מִקּוֹל",
+      "gloss": "nezwi rwa"
+    },
+    {
+      "surface": "הַקּוֹרֵא",
+      "gloss": "aaiyedza odana"
+    },
+    {
+      "surface": "וְהַבַּיִת",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יִמָּלֵא",
+      "gloss": "yakazara"
+    },
+    {
+      "surface": "עָשָׁן",
+      "gloss": "utsi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:30:49.924108315Z",
+  "model": "glm-5.3"
+}

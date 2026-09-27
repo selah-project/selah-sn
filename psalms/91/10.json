@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 91,
+  "translation": "Zvakaipa hazvizochakusvika, uye chirwere hazvichaswedera pachihema chako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hazvizo"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "-chakusvika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kwauri"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zvakaipa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "uye chirwere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hazvi"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "-chaswedera"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "pachihema chako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:46.864082119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Muhwanza yako ndinovisa Mweya wangu; wakandinunura ⟨את⟩⟨ini⟩, Yahwe, Er wechokwadi.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Muhwanza yako"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ndinovisa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Mweya wangu"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "wakandinunura"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩-ini",
+      "marks": "ini (chinhu chakatodzaniswa neku-nunurwa)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "wechokwadi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:10.217071495Z",
+  "model": "glm-5.3"
+}

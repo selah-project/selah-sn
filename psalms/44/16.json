@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 44,
+  "translation": "Mazuva ose nyadzi yangu iri pamberi pangu, uye nyadzi yechiso changu yandikavaridza.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "הַ֭יּוֹם",
+      "gloss": "Mazuva"
+    },
+    {
+      "surface": "כִּלְמָתִ֣י",
+      "gloss": "nyadzi yangu"
+    },
+    {
+      "surface": "נֶגְדִּ֑י",
+      "gloss": "iri pamberi pangu"
+    },
+    {
+      "surface": "וּבֹ֖שֶׁת",
+      "gloss": "uye nyadzi"
+    },
+    {
+      "surface": "פָּנַ֣י",
+      "gloss": "yechiso changu"
+    },
+    {
+      "surface": "כִּסָּֽתְנִי",
+      "gloss": "yandikavaridza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:28.673644440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 92,
+  "translation": "Asi iwe, Yahwe, unogara wakakwirira nokusingaperi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "asi iwe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wakakwirira"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:52.652119979Z",
+  "model": "glm-5.3"
+}

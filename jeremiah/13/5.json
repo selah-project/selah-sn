@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Ndakaenda, ndikaviga muPerata, sezvo Yahwe akandiraira ⟨את⟩ ⟨אותי⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Ndakaenda"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ndikaviga"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "muPerata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sezvo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akandiraira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אותי⟩",
+      "marks": "kwandiri"
+    }
+  ],
+  "timestamp": "2026-09-27T07:56:28.931710663Z",
+  "model": "glm-5.3"
+}

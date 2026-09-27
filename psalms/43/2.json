@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Nokuti iwe uri Erohimu, simba rangu; nei wandirasia? nei ndinofamba ndiri muchema panzvimbo yokutyisidzira yemuvengi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "wandasira"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nei"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ndiri muchema"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ndinofamba"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "panzvimbo yokutyisidzira"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "yemuvengi"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:59.624602747Z",
+  "model": "glm-5.3"
+}

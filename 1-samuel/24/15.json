@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 24,
+  "translation": "Mambo weIsraeri abuda achitevedza ani? Iwe unotevedza ani? Achitevedza imbwa yakafa, achitevedza nhemware imwe chete.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "achitevedza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeri"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "unotevedza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "unotevedza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achitevedza"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "imbwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yakafa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "achitevedza"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "nhemware"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "imwe chete"
+    }
+  ],
+  "timestamp": "2026-09-27T06:49:52.854241899Z",
+  "model": "glm-5.3"
+}

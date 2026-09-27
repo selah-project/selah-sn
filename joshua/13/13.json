@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Asi vana vaIsraeri havana kudzinga ⟨את⟩ vaGeshuri nomazve ⟨את⟩ vaMaakhati; uye Geshuru naMaakhati vakagara mukati meIsraeri kusvika muzuva uno.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "asi...havana"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "kudzinga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "vaIsraeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaGeshuri"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "vaGeshuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaMaakhati"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "vaMaakhati"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "vakagara"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshuru"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "naMaakhati"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mukati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "meIsraeri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "היום",
+      "gloss": "muzuva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uno"
+    }
+  ],
+  "timestamp": "2026-09-27T06:26:43.471316359Z",
+  "model": "glm-5.3"
+}

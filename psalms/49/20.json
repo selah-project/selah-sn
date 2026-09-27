@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 49,
+  "translation": "Achasvika kune dzinza ramadzakwatara ake; kusvika nokusingaperi havaoni chiedza.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "achasvika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kune"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dzinza"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ramadzakwatara ake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusvika"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nokusingaperi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hava-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "oni"
+    },
+    {
+      "surface": "אור",
+      "gloss": "chiedza"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:01.847194585Z",
+  "model": "glm-5.3"
+}

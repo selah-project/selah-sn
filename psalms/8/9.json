@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Shiri dzematenga, nehove dzegungwa, chinopfuura ⟨nzira⟩ dzemakungwa.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "shiri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dzematenga"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "nehove"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dzegungwa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "chinopfuura"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "⟨nzira⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dzemakungwa"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:12.882834040Z",
+  "model": "glm-5.3"
+}

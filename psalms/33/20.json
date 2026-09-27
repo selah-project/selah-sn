@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 33,
+  "translation": "Mweya wedu wakamirira Yahwe; ndiye ibatsiro redu neshangano redu.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Mweya wedu"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "wakamirira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ibatsiro redu"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "neshangano redu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndiye"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:59.282440209Z",
+  "model": "glm-5.3"
+}

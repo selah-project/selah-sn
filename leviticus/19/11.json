@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Hamutembere, uye hamunyepi, uye hamunyengedzeri mumwe nomumwe pavana vechirimwa;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hamutembere"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "kutembera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hamunyepi"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "kunyepa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hamunyengedzeri"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "kunyengedzera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "nomumwe pavana vechirimwa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:47:03.345084001Z",
+  "model": "glm-5.3"
+}

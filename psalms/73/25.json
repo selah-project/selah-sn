@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Ndiani ndinawo mudenga? Uye newe, handina kuda ⟨chero chinhu⟩ munyika.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ndiani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndinawo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mudenga"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Uye newe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "handina"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika"
+    }
+  ],
+  "timestamp": "2026-09-27T11:16:25.910170932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 13,
+  "translation": "Akati kwaari: Enda ⟨את⟩ neni kumba, uye udye chingwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "enda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ neni",
+      "marks": "neni"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kumba"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "uye udye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chingwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:56.547548928Z",
+  "model": "glm-5.3"
+}

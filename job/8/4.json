@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "Kana vana vako vakatadza kwaari, akavasvitsa mumaoko emhusorwa hwavo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "vana vako"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vakatadza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "akavasvitsa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mumaoko"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "emhusorwa hwavo"
+    }
+  ],
+  "timestamp": "2026-09-27T09:34:42.972480069Z",
+  "model": "glm-5.3"
+}

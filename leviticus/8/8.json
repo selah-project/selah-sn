@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "akaisa ⟨את⟩ chiro chehanga paari, aka isa muchiro chehanga ⟨את⟩ Urimi ne⟨את⟩ Thumimi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiro chehanga"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chiro chehanga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "akaisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mu-"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chiro chehanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimi"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "Thumimi"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Thumimi"
+    }
+  ],
+  "timestamp": "2026-09-27T05:44:20.642599047Z",
+  "model": "glm-5.3"
+}

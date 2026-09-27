@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "ne⟨את⟩ tafura ne⟨את⟩ zvinhu zwayo, ne⟨את⟩ muridzi wemwenje wechena ne⟨את⟩ zvinhu zvose zwawo, ne⟨את⟩ altare yemafuta anunhu;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "tafura"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zwayo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zvinhu zwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "muridzi wemwenje wechena"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "muridzi wemwenje"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "wechena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "zvinhu zvose zwawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "zvinhu zwawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "altare yemafuta anunhu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "yemafuta anunhu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:33.680822247Z",
+  "model": "glm-5.3"
+}

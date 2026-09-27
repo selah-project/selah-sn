@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 14,
+  "translation": "Achacheka ⟨את⟩ gwamba panzvimbo inochekwa ⟨את⟩ chibairo chechitadzo ne⟨את⟩ chipiro chopadoko, panzvimbo yechitsvene; nokuti chiri sechibairo chechitadzo, ndechomupristi: chitsvene, chinopfuura chitsvene, ndicho.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Achacheka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gwamba"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "gwamba"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ino"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "inochekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chibairo chechitadzo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chibairo chechitadzo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "chipiro chopadoko"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "chipiro chopadoko"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "panzvimbo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yechitsvene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "chiri sechibairo chechitadzo"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "cheashamu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "chomupristi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "chinopfuura chitsvene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndicho"
+    }
+  ],
+  "timestamp": "2026-09-27T10:51:00.811200995Z",
+  "model": "glm-5.3"
+}

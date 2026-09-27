@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 66,
+  "translation": "Wakakonzera vanhu kuti vatakurwe pamusoro pedu; takapinda mumoto nemumvura, asi wakatibudisa kune yakazara.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "wakakonzera kuti... vatakurwe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "vanhu"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "pamusoro pedu"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "takapinda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mumoto"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "nemumvura"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "asi wakatibudisa"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "kune yakazara"
+    }
+  ],
+  "timestamp": "2026-09-27T09:03:20.533552571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Shoko Adonai akatuma kuna Yakobo, uye rakaguma paiṅuva paIsraeri.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Shoko"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akatuma"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kuna Yakobo"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "uye rakaguma paiṅuva"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "paIsraeri"
+    }
+  ],
+  "timestamp": "2026-09-27T11:03:40.535324676Z",
+  "model": "glm-5.3"
+}

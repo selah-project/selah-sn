@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Asi ini, nemazwi eutendi ndichapira kurunoko; izvo ndakazivisa ndichazvizadzisa. Rubatsiro ruchibva kuna Yahwe.",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֗י",
+      "gloss": "asi ini"
+    },
+    {
+      "surface": "בְּק֥וֹל",
+      "gloss": "nemazwi"
+    },
+    {
+      "surface": "תּוֹדָה֙",
+      "gloss": "eutendi"
+    },
+    {
+      "surface": "אֶזְבְּחָ֖ה",
+      "gloss": "ndichapira"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "kurunoko"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "izvo"
+    },
+    {
+      "surface": "נָדַ֖רְתִּי",
+      "gloss": "ndakazivisa"
+    },
+    {
+      "surface": "אֲשַׁלֵּ֑מָה",
+      "gloss": "ndichazvizadzisa"
+    },
+    {
+      "surface": "יְשׁוּעָ֖תָה",
+      "gloss": "rubatsiro"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "kuna Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:42:27.224428233Z",
+  "model": "glm-5.3"
+}

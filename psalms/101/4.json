@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 101,
+  "translation": "Moyo wakashamba uchacheneswa kwandiri; chakaipa handichazivisi.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "wakashamba"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uchacheneswa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "chakaipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "handichazivisi"
+    }
+  ],
+  "timestamp": "2026-09-27T09:11:48.201814141Z",
+  "model": "glm-5.3"
+}

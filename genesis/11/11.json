@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Shemu akagara mupenyu mashanu emazana emakore mushure mekubereka ⟨את⟩ Arupakashadha, akabereka vakomana nevasikana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "akagara mupenyu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kubereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arupakashadha"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arupakashadha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mashanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "emazana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "akabereka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vakomana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "vasikana"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:55.409036616Z",
+  "model": "glm-5.3"
+}

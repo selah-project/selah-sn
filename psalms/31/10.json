@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 31,
+  "translation": "Ndirefere, iwe Yahwe, nokuti ndiri munjodzi; ziso rangu rimbandiyanya nerunyanga, mweya wangu nedumbu rangu.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ndirefere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "njodzi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndiri mu"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "rimbandiyanya"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "nerunyanga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ziso rangu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mweya wangu"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "nedumbu rangu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:56:54.925047916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 51,
+  "translation": "Adonai, vhura midyaro yangu, uye muromo wanguuchazivisa rumbidzo rwako.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "midyaro yangu"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "vhura"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "uye muromo wangu"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "uchazivisa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "rumbidzo rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T09:02:11.426175481Z",
+  "model": "glm-5.3"
+}

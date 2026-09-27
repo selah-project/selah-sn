@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "sn",
+  "chapter": 11,
+  "translation": "Solomoni akatevedza Ashitoreti, mwari wevaTsidoni, naMilkoma, chinhu chinonyadzisa chevaAmoni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akatevedza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomoni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kutevedza"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashitoreti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mwari we"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "vaTsidoni"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkoma"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "chinhu chinonyadzisa"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "chevaAmoni"
+    }
+  ],
+  "timestamp": "2026-09-27T07:11:28.771309049Z",
+  "model": "glm-5.3"
+}

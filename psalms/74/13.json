@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 74,
+  "translation": "Iwe, nokusimba kwako, wakatyora ⟨את⟩ gungwa; wakaputsa misoro yeshato dzegungwa pamusoro pemvura.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "wakatyora"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "nekusimba kwako"
+    },
+    {
+      "surface": "ים",
+      "gloss": "gungwa"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wakaputsa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "misoro"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "yeshato dzegungwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro"
+    },
+    {
+      "surface": "המים",
+      "gloss": "pemvura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:08.813957075Z",
+  "model": "glm-5.3"
+}

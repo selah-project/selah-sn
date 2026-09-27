@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 59,
+  "translation": "Tarisa, ruwoko rwaYahwe haruna kufupika kuti rununure, uye nzeve yake haina kuomerera kuti inzwe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tarisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hai-"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "-na kufupika"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruwoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "kuita kununura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye haina"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "kuomerera"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "nzeve yake"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "kunzwa"
+    }
+  ],
+  "timestamp": "2026-09-27T07:48:12.801225775Z",
+  "model": "glm-5.3"
+}

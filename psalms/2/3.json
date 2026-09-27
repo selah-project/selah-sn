@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "“Ngopunyure tibvise ⟨את⟩ minyeso yavo, uye tikanda kubva kwatiri maturusi avo.”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "ngopunyure tibvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyeso yavo"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "minyeso yavo"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "uye tikanda"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kubva kwatiri"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "maturusi avo"
+    }
+  ],
+  "timestamp": "2026-09-27T11:14:37.946075109Z",
+  "model": "glm-5.3"
+}

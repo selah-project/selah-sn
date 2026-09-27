@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 81,
+  "translation": "Rega ⟨the⟩ rimwe mwari asiri wega rive muri; kana ugovarumbidza kune ⟨the⟩ mwari wemunhu asiri wenyu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Rega"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "rive"
+    },
+    {
+      "surface": "בך",
+      "gloss": "muri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mwari"
+    },
+    {
+      "surface": "זר",
+      "gloss": "asiri wega"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kana ugo"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "varumbidza"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kune mwari"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wemunhu asiri wenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:06:58.728589965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 35,
+  "translation": "Muromo wavo wakavhurazve kwandiri; vakati: “Aha, aha — ziso redu raona!”",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "wakavhurazve"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwandiri"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "muromo wavo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "raona"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ziso redu"
+    }
+  ],
+  "timestamp": "2026-09-27T08:57:38.091638318Z",
+  "model": "glm-5.3"
+}

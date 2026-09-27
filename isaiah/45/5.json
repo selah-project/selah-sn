@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Ndini Yahwe, uye hapana chimwe; kunze kwangu hapana Erohimu; ndakakuchira nesihamba, uye iwe haunazive.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ndini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "chimwe"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kunze kwangu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ndakakuchira nesihamba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uye hauna"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "kuziva"
+    }
+  ],
+  "timestamp": "2026-09-27T07:43:51.435627864Z",
+  "model": "glm-5.3"
+}

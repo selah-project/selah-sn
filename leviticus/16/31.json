@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Shabhata yokuzorora ndiyoyo kwamuri; uye muzvininipise ⟨את⟩ mweya yenyu — chisungo chenguva dzose.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabhata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "yokuzorora"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ndiyoyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwamuri"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "muzvininipise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mweya yenyu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mweya yenyu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "chisungo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "chenguva dzose"
+    }
+  ],
+  "timestamp": "2026-09-27T05:48:11.233321236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Runyararo rwazhinji rwune avo vanoda tora yako, uye hakuna chinodzikisira kwavari.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rwazhinji"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "une avo vanoda"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tora yako"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uye hakuna"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "chinodzikisira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:17:02.961743665Z",
+  "model": "glm-5.3"
+}

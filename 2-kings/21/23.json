@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Varanda vaAmonu vakasungirana pauri pake, vakauraya ⟨את⟩ mambo mumba make.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "vakasungirana"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "vaAmonu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pauri pake"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "vakauraya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mambo"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "mumba make"
+    }
+  ],
+  "timestamp": "2026-09-27T07:26:02.571037517Z",
+  "model": "glm-5.3"
+}

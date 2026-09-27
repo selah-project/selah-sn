@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 21,
+  "translation": "Vokuvigira ⟨את⟩ muguva rake mumbindu waUza; uye mukoma Yoshiahu mwana wake pachinzvimbo chake.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "vokuvigira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iye (Amonu)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "muguva rake"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "mumbindu"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "waUza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "uye mukoma"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana wake"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pachinzvimbo chake"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:19.492372078Z",
+  "model": "glm-5.3"
+}

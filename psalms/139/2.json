@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 139,
+  "translation": "Iwe waziva kugara kwangu nokumuka kwangu; wanzwa pfungwa dzangu kure.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Iwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "waziva"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kugara kwangu"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "nokumuka kwangu"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "wanzwa"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "pfungwa dzangu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kure"
+    }
+  ],
+  "timestamp": "2026-09-27T09:19:52.275535288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "vakadzoka mumatambudziko avo kuna Yahwe, Erohimu waIsraeri, vakamutsvaga, akawanikwa navo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vakadzoka"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mumatambudziko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "vakamutsvaga"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "akawanikwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "navo"
+    }
+  ],
+  "timestamp": "2026-09-27T10:35:20.081864147Z",
+  "model": "glm-5.3"
+}

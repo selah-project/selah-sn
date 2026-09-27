@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 50,
+  "translation": "Kubva muZioni, chitsvene cherunako, Erohimu waparira.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Kubva muZioni"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "cherunako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "waparira"
+    }
+  ],
+  "timestamp": "2026-09-27T09:01:21.374136631Z",
+  "model": "glm-5.3"
+}

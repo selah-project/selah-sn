@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 43,
+  "translation": "Mukatore ⟨את⟩ mukoma wenyu, muka mukadzokera kumurume iyeye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mukoma wenyu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mukoma wenyu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mukatore"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "muka"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "mukadzokera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:19.017121021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 46,
+  "translation": "Yahwe Tsevaoti ari nesu; mudzikinuri wedu ndiye Erohimu waJakobo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaoti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ari nesu"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mudzikinuri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wedu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Erohimu wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-27T09:00:57.576269183Z",
+  "model": "glm-5.3"
+}

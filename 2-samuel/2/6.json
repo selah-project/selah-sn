@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Zvino Yahwe ngaaitese nesu — ngaaita nesu hesedhi nechokwadi, uye iniwo ndichaita ⟨את⟩ nemi chakanaka ichi chimwe chete, nokuti makaita chiito ichi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Zvino"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "ngaaitese\/angaaita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nesu\/nemi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedhi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nechokwadi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "iniwo\/ini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ndichaita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nemi",
+      "marks": "nemi (aita nacho chakanaka)"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "chakanaka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ichi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nokuti makaita"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "makaita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chiito"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ichi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:31.155367989Z",
+  "model": "glm-5.3"
+}

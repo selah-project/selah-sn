@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 38,
+  "translation": "Mwoyo wangu unodendera; simba rangu rakandisiira; uye chiedza che ziso rangu — zvirokwazvo ichovo hachiri ⟨את⟩ ini.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Mwoyo wangu"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "unodendera"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "rakandisiira"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "simba rangu"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "uye chiedza"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "che ziso rangu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvirokwazvo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ichovo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hachiri"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ini",
+      "marks": "ini"
+    }
+  ],
+  "timestamp": "2026-09-27T08:59:21.229645086Z",
+  "model": "glm-5.3"
+}

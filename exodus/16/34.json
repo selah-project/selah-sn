@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 16,
+  "translation": "Sokuda kwaakarayira Yahwe kuna Moshe, ndokudaro Aharon akasiira ⟨את⟩ chacho pachiso pechitupamazwi, kuti chichengeterwe.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sokuda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwaakarayira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "ndokudaro akasiira"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pachiso pa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "chitupamazwi"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "kuti chichengeterwe"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:49.488445568Z",
+  "model": "glm-5.3"
+}

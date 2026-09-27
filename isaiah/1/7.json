@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Nyika yenyu yave shongwa, maguta enyu akapiswa nomoto; ivhu renyu, pamberi penyu vasheni vari kudya ⟨את⟩ ro, uye shongwa sokutevedzwa kwavasheni.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "nyika yenyu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "shongwa"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "maguta enyu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "akapiswa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nomoto"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ivhu renyu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "pamberi penyu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vasheni"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "vari kudya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ro (ivhu renyu)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "uye shongwa"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sokutevedzwa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "kwavasheni"
+    }
+  ],
+  "timestamp": "2026-09-27T11:02:42.552352961Z",
+  "model": "glm-5.3"
+}

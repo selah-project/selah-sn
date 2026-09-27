@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "Akatsvanyiridza ⟨את⟩ Tofeti iri mugomba revana vaHinomu, kuti munhu arege kudarika ⟨את⟩ mwanakomana wake nomwanasikana wake mumoto kuna Morekhi.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Akatsvanyiridza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofeti"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iri"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "mugomba re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vana va"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinomu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kuti arege"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kudarika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanakomana wake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwanakomana wake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwanasikana wake"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mumoto"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuna Morekhi"
+    }
+  ],
+  "timestamp": "2026-09-27T07:27:10.536992564Z",
+  "model": "glm-5.3"
+}

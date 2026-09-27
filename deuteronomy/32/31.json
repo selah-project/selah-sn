@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 32,
+  "translation": "Nokuti tsinda yavo haina kuenzana netsinda yedu, uye vavengi vedu pachavo ndivo vazviverengi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haina"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "kuenzana netsinda yedu"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "tsinda yavo"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "uye vavengi vedu"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "ndivo vazviverengi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:21:17.585869143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Ndikagadzikisa ⟨את⟩ chiso changu kuAdonai, kuErohimu, ndikatsvaga minamato nemidzidzo, nokuramba kudya, nenhedzi, nehurwa.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ndikagadzikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiso changu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "chiso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ndikatsvaga"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "minamato"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "nemidzidzo"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "nokuramba kudya"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "nenhedzi"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "nehurwa"
+    }
+  ],
+  "timestamp": "2026-09-27T11:22:59.279969837Z",
+  "model": "glm-5.3"
+}

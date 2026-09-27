@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Samueri akaswedza pedyo ⟨את⟩ madzinza ose eIsiraeri, ndokubatwa kwadzinza raBinjamini.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "akaswedza pedyo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madzinza ose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ose"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eIsiraeri"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ndokubatwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "dzinza"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "raBinjamini"
+    }
+  ],
+  "timestamp": "2026-09-27T06:44:17.643017Z",
+  "model": "glm-5.3"
+}

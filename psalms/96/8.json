@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 96,
+  "translation": "Ipai Yahwe ruremekedzo yeZita rake; simudzai minha uye uyai ⟨mu⟩michirwa yake.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Ipai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ruremekedzo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yeZita rake"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "simudzai"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "uye uyai"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "michirwa yake"
+    }
+  ],
+  "timestamp": "2026-09-27T09:10:16.192841573Z",
+  "model": "glm-5.3"
+}

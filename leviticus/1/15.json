@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Uhori anopfuudza kuna altari, adimbura ⟨את⟩ musoro wayo, akafashukira paaltari, uye ropa rwacho runotapudzwa panhivi yealtari.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "anopfuudza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "uhori"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "adimbura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musoro wayo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musoro wayo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "akafashukira"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "paaltari"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "runotapudzwa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ropa rwacho"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "nhivi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "yealtari"
+    }
+  ],
+  "timestamp": "2026-09-27T05:39:59.783859695Z",
+  "model": "glm-5.3"
+}

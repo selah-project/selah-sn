@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 42,
+  "translation": "Akati kavari: Kwete; asi kushama kwenyika ndiko kwamauya kuona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kavari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kwete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kushama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kwenyika"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mauya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kuona"
+    }
+  ],
+  "timestamp": "2026-09-27T05:20:33.603602852Z",
+  "model": "glm-5.3"
+}

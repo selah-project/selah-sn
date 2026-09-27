@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 144,
+  "translation": "Nzombe dzedu dzinotakura mitwaro yazo; hapana kuputsa, uye hapana kubuda, uye hapana pemberero mumigwagwa yedu yakakura.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "nzombe dzedu"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "dzinotakura mitwaro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "kuputsa"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "kubuda"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "uye hapana"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "pemberero"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "mumigwagwa yedu yakakura"
+    }
+  ],
+  "timestamp": "2026-09-27T09:20:49.612660255Z",
+  "model": "glm-5.3"
+}

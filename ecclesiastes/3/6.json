@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 3,
+  "translation": "Nguva yekutsvaga, nenguva yokurasa; nguva yekuchengeta, nenguva yokukanda.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Nguva"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "yekutsvaga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "yokurasa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nguva"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "yekuchengeta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nenguva"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "yokukanda"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:43.012267718Z",
+  "model": "glm-5.3"
+}

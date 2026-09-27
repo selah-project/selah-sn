@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Zvakare tora hwayi dzenyu, zvakare mombe dzenyu, semamireiro enyu torai, mendei; uye ropafadzai zvakare ⟨את⟩ ini.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "hwayi dzenyu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "mombe dzenyu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "torai"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "mamireiro enyu"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mendei"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ropafadzai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zvakare"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    }
+  ],
+  "timestamp": "2026-09-27T05:29:04.921319030Z",
+  "model": "glm-5.3"
+}

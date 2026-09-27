@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 23,
+  "translation": "nokuti mutumwa wangu achafamba mberi kwako, achakupinza kuna vaEmori, vaHiti, vaPerizi, vaKenani, vaHivi nevaYebhusi; ndichavadzimisa.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "achafamba"
+    },
+    {
+      "surface": "מַלְאָכִי",
+      "gloss": "mutumwa wangu"
+    },
+    {
+      "surface": "לְפָנֶיךָ",
+      "gloss": "mberi kwako"
+    },
+    {
+      "surface": "וֶהֱבִיאֲךָ",
+      "gloss": "achakupinza"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הָאֱמֹרִי",
+      "gloss": "vaEmori"
+    },
+    {
+      "surface": "וְהַחִתִּי",
+      "gloss": "vaHiti"
+    },
+    {
+      "surface": "וְהַפְּרִזִּי",
+      "gloss": "vaPerizi"
+    },
+    {
+      "surface": "וְהַכְּנַעֲנִי",
+      "gloss": "vaKenani"
+    },
+    {
+      "surface": "הַחִוִּי",
+      "gloss": "vaHivi"
+    },
+    {
+      "surface": "וְהַיְבוּסִי",
+      "gloss": "nevaYebhusi"
+    },
+    {
+      "surface": "וְהִכְחַדְתִּיו",
+      "gloss": "ndichavadzimisa"
+    }
+  ],
+  "timestamp": "2026-09-27T05:32:04.800776096Z",
+  "model": "glm-5.3"
+}

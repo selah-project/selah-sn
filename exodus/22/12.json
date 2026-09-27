@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 22,
+  "translation": "Kana chapembedzwa chapembedzwa, anounza hwaro — chinhu chapembedzwa; haazobhadhare.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kana"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "chapembedzwa"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "chapembedzwa"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "anounza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hwaro"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "chinhu chapembedzwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haazo-"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bhadhare"
+    }
+  ],
+  "timestamp": "2026-09-27T05:31:23.474417746Z",
+  "model": "glm-5.3"
+}

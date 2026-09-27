@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 87,
+  "translation": "Yahwe anoda mahango eZioni, kupfuura mishikani yose yaJakobho.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "anoda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "mahango e"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zioni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kupfuura"
+    },
+    {
+      "surface": "משכנתי",
+      "gloss": "mishikani"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobho"
+    }
+  ],
+  "timestamp": "2026-09-27T09:09:06.683534903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Ndipo akati kune vanasikana vake: Ari kupi? Nei musina kusiya ⟨את⟩ murume? Itai kwaari kuti aende kudya chikafu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kune"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "vanasikana vake"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Ari kupi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izvi"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "musina kusiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murume"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Itai kwaari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaari"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "aende kudya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    }
+  ],
+  "timestamp": "2026-09-27T05:23:58.527316760Z",
+  "model": "glm-5.3"
+}

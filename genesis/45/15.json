@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 45,
+  "translation": "Akananzvidza hanzvadzi dzake dzose, akachema pamusoro padzo; uye mushure mezvino, hanzvadzi dzake dzakataura naye ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "akananzvidza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dzose"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "akachema"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "pamusoro padzo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mushure me"
+    },
+    {
+      "surface": "כן",
+      "gloss": "zvino"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "dzakataura"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hanzvadzi dzake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
+    }
+  ],
+  "timestamp": "2026-09-27T10:48:25.171412611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Namurume ake vaiva naye, Dhavhidhi akakwidza nevarume pachavo nomisha yavo; ndokugara madhorobha eHebheroni.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Namurume ake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "akakwidza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume pachavo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "nomisha yavo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ndokugara"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "madhorobha"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "eHebheroni"
+    }
+  ],
+  "timestamp": "2026-09-27T06:54:52.785727181Z",
+  "model": "glm-5.3"
+}

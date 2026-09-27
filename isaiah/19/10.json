@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "sn",
+  "chapter": 19,
+  "translation": "Uye mitsigo yayo ichava yakadundurwa; vose vanoshandira muhoro mweya dzavo dzinosuruwa.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "uchava"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "mitsigo yayo"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "yakadundurwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "vanoshandira"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "muhoro"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "dzinosuruwa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mweya"
+    }
+  ],
+  "timestamp": "2026-09-27T07:33:42.901684552Z",
+  "model": "glm-5.3"
+}

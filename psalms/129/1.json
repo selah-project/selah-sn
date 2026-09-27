@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 129,
+  "translation": "Rwiyo rwekukwidzikira. Zvakanyanya vanditambudza kubva poudiki — Israeri rati naizvozvo:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Rwiyo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "rwekukwidzikira"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Zvakanyanya"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "vanditambudza"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kubva poudiki"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "rati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naizvozvo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:01.840745318Z",
+  "model": "glm-5.3"
+}

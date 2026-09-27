@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "sn",
+  "chapter": 17,
+  "translation": "Varume vose veIsraeri, pavakaona ⟨את⟩ murume iyeye, vakatiza pachiso pake, vakatya zvikuru.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "vose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "varume"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "veIsraeri"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "pavakaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murume iyeye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "murume iyeye"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "vakatiza"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pachiso pake"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "vakatya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zvikuru"
+    }
+  ],
+  "timestamp": "2026-09-27T06:47:01.626033090Z",
+  "model": "glm-5.3"
+}

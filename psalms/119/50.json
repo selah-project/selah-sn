@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Iyi ndiyo nharo yangu muchitiringwa hwangu; nokuti shoko rako rakandipa hupenyu.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Iyi"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nharo yangu"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "muchitiringwa hwangu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "shoko rako"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "rakandipa hupenyu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:25.641417104Z",
+  "model": "glm-5.3"
+}

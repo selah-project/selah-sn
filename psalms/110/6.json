@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 110,
+  "translation": "Achatonga pakati pe⟨marudzi⟩, achazadza ⟨nzvimbo⟩ nematumbi; achanyangadza ⟨musoro⟩ pamusoro penyika hombe.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "achatonga"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pakati pe⟨marudzi⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "achazadza"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "matumbi"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "achanyangadza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "musoro"
+    },
+    {
+      "surface": "על",
+      "gloss": "pamusoro pe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nyika"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hombe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:14:02.299104961Z",
+  "model": "glm-5.3"
+}

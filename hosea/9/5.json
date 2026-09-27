@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "sn",
+  "chapter": 9,
+  "translation": "Muchaite chii musi wokurongwa, nemusi wechiguva chaYahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "chii"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "muchaita"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "musi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wokurongwa"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "nemusi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "wechiguva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "chaYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T08:38:33.151436998Z",
+  "model": "glm-5.3"
+}

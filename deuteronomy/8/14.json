@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 8,
+  "translation": "moyo wako ukazvitutumadza, uye ukakanganwa ⟨את⟩ Yahwe Erohimu wako, anokuburitsa munyika yeMisri, imba yekushanda,",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ukazvitutumadza"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "moyo wako"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ukakanganwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Erohimu wako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Erohimu wako"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "anokuburitsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misri"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "imba ye"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "kushanda"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:51.281091332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 4:7",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "Nokuti ndiani rudzi rukuru rine Erohimu ari pedyo naro, seYahwe Erohimu wedu, muzvese tinomudana kwaari?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rudzi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rukuru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "ari pedyo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naro"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "seYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Erohimu wedu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "muzvese"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "tinomudana"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kwaari"
+    }
+  ],
+  "timestamp": "2026-09-27T06:11:13.417817699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 73,
+  "translation": "Ivo vakati: Er anoziva pano here? uye pane rudzi rwekuziva muEriyoni here?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "vakati"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "pano here"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anoziva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "uye pane"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "rudzi rwekuziva"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "muEriyoni"
+    }
+  ],
+  "timestamp": "2026-09-27T11:15:56.482023706Z",
+  "model": "glm-5.3"
+}

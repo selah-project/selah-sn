@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 25,
+  "translation": "Uye idzi ndidzo madzinza eIsaka, mukorwa waAbhurahama: Abhurahama akazvara ⟨את⟩ Isaka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Uye idzi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "madzinza"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "eIsaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mukorwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "waAbhurahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abhurahama"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akazvara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaka"
+    }
+  ],
+  "timestamp": "2026-09-27T05:12:45.536132736Z",
+  "model": "glm-5.3"
+}

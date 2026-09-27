@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 12,
+  "translation": "Nhema vanotaura mumwe na⟨את⟩ shamwari yake, milomo yakanyorovera, nemoyo nomoyo vanotaura.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Nhema"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vanotaura"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamwari yake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "shamwari yake"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "yakanyorovera"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "nemoyo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "nomoyo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vanotaura"
+    }
+  ],
+  "timestamp": "2026-09-27T08:53:32.689091066Z",
+  "model": "glm-5.3"
+}

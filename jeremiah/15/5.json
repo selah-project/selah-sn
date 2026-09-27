@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 15:5",
+  "book": "jeremiah",
+  "lang": "sn",
+  "chapter": 15,
+  "translation": "Nokuti ani achanyaradzira iwe, Yerushalema? Uye ani achirira iwe? Uye ani achafuratira kuenda kubvunza runyararo rwako?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "achanyaradzira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalema"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Uye ani"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "achirira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Uye ani"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "achafuratira"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "kuenda kubvunza"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "runyararo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rwako"
+    }
+  ],
+  "timestamp": "2026-09-27T07:56:40.455957453Z",
+  "model": "glm-5.3"
+}

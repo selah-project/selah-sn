@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "sn",
+  "chapter": 1,
+  "translation": "Mikombe yendarama makumi matatu, mikombe yerhende yechipiri mazana mana negumi, zvimwe zvombo churu.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "mikombe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "yendarama"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "makumi matatu"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "mikombe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yerhende"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "yechipiri"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mazana mana"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "negumi"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "zvombo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "zvimwe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "churu"
+    }
+  ],
+  "timestamp": "2026-09-27T10:05:46.040062572Z",
+  "model": "glm-5.3"
+}

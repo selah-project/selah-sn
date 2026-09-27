@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Nokuti ndiani anogona kudya, kana ndiani anogona kufara nazvo, kunze kwangu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokuti"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiani"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "anogona kudya"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kana ndiani"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "anogona kufara nazvo"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kunze"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwangu"
+    }
+  ],
+  "timestamp": "2026-09-27T09:52:49.161799937Z",
+  "model": "glm-5.3"
+}

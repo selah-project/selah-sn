@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 135,
+  "translation": "Rumbidzai Yah; rumbidzai ⟨את⟩ zita raYahwe; rumbidzai, imi varanda veYahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zita raYahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "zita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "raYahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rumbidzai"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "varanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "veYahwe"
+    }
+  ],
+  "timestamp": "2026-09-27T09:18:40.103665868Z",
+  "model": "glm-5.3"
+}

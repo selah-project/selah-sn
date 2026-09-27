@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "sn",
+  "chapter": 30,
+  "translation": "Uchagadzira ⟨את⟩ ketoreti — rokahi, basa remurokahi — inoiswa munyu, chena, tsvene.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֤יתָ",
+      "gloss": "Uchagadzira"
+    },
+    {
+      "surface": "אֹתָהּ֙",
+      "gloss": "⟨את⟩",
+      "marks": "ketoreti"
+    },
+    {
+      "surface": "קְטֹ֔רֶת",
+      "gloss": "ketoreti"
+    },
+    {
+      "surface": "רֹ֖קַח",
+      "gloss": "rokahi"
+    },
+    {
+      "surface": "מַעֲשֵׂ֣ה",
+      "gloss": "basa"
+    },
+    {
+      "surface": "רוֹקֵ֑חַ",
+      "gloss": "remurokahi"
+    },
+    {
+      "surface": "מְמֻלָּ֖ח",
+      "gloss": "inoiswa munyu"
+    },
+    {
+      "surface": "טָה֥וֹר",
+      "gloss": "chena"
+    },
+    {
+      "surface": "קֹֽדֶשׁ",
+      "gloss": "tsvene"
+    }
+  ],
+  "timestamp": "2026-09-27T05:35:11.647812048Z",
+  "model": "glm-5.3"
+}

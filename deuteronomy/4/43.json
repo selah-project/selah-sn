@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "sn",
+  "chapter": 4,
+  "translation": "⟨את⟩ Bhetseri mudzombo, munyika yeMishora, yeveRuvheni; uye ⟨את⟩ Raamothi muGireadhi, yeveGadhi; uye ⟨את⟩ Goraani muBhashani, yeveManhasi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bhetseri"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Bhetseri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mudzombo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "Mishora"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "yeveRuvheni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Raamothi"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamothi"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "muGireadhi"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "yeveGadhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uye ⟨את⟩",
+      "marks": "Goraani"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Goraani"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "muBhashani"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "yeveManhasi"
+    }
+  ],
+  "timestamp": "2026-09-27T06:10:32.655337891Z",
+  "model": "glm-5.3"
+}

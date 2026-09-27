@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "sn",
+  "chapter": 2,
+  "translation": "Uye Obedhi akabara ⟨את⟩ Yehu, uye Yehu akabara ⟨את⟩ Azaria.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Uye Obedhi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "uye Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "akabara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaria"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaria"
+    }
+  ],
+  "timestamp": "2026-09-27T10:17:18.436864592Z",
+  "model": "glm-5.3"
+}

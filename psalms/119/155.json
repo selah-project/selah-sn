@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 119,
+  "translation": "Chiponetso chiri kure kune vasina kururama, nokuti mitemo yako havana kuitsvaga.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "chiri kure"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kune vasina kururama"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "Chiponetso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mitemo yako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "havana"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "kuitsvaga"
+    }
+  ],
+  "timestamp": "2026-09-27T09:16:59.710346280Z",
+  "model": "glm-5.3"
+}

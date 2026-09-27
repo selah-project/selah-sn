@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "sn",
+  "chapter": 10,
+  "translation": "Nokuti ⟨את⟩ Hadhoramu, ⟨את⟩ Uzari, ⟨את⟩ Dikara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hadhoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadhoramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzari"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dikara"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikara"
+    }
+  ],
+  "timestamp": "2026-09-27T05:06:56.127680288Z",
+  "model": "glm-5.3"
+}

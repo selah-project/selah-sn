@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "sn",
+  "chapter": 7,
+  "translation": "Chitetezo changu chiri paErohimu, muponesi wevakatwasuka moyo.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "chitetezo changu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Erohimu"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "muponesi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "vevakatwasuka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-09-27T08:51:56.669077820Z",
+  "model": "glm-5.3"
+}
