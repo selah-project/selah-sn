@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 39,
-  "translation": "Asine makumbirero, akati kumukadzi watenzi wake: Ona, tenzi wangu haazivi ⟨את⟩ pamwe neni iziri muimba, uye zvinhu zvose aanazvo akapa mumaoko angu.",
+  "translation": "Asi iye akaramba, akati kumukadzi wamutenzi wake: Ona, tenzi wangu haazivi ⟨את⟩ neni chii chiri mumusha; uye zvose ari nazvo akapa mumaoko angu.",
   "tokens": [
     {
       "surface": "וימאן",
-      "gloss": "asine makumbirero"
+      "gloss": "akaramba"
     },
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשת",
-      "gloss": "mukadzi"
+      "gloss": "mukadzi wa"
     },
     {
       "surface": "אדניו",
-      "gloss": "watenzi wake"
+      "gloss": "mutenzi wake"
     },
     {
       "surface": "הן",
@@ -37,37 +37,50 @@
     },
     {
       "surface": "לא",
-      "gloss": "haa-"
+      "gloss": "haazivi"
     },
     {
-      "surface": "ידע",
-      "gloss": "-zivi"
+      "surface": "יודע",
+      "gloss": "haazivi"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ pamwe neni"
+      "gloss": "⟨את⟩ neni",
+      "marks": "neni"
     },
     {
       "surface": "מה",
-      "gloss": "iziri"
+      "gloss": "chii"
     },
     {
       "surface": "בבית",
-      "gloss": "muimba"
+      "gloss": "mumusha"
     },
     {
       "surface": "וכל",
-      "gloss": "uye zvinhu zvose"
+      "gloss": "uye zvose"
     },
     {
       "surface": "אשר",
-      "gloss": "aanazvo"
+      "gloss": "ari"
     },
     {
-      "surface": "יֵשׁ לוֹ נָתַן בְּיָדִי",
-      "gloss": "akapa mumaoko angu"
+      "surface": "יש",
+      "gloss": "ari nazvo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nazvo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akapa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mumaoko angu"
     }
   ],
-  "timestamp": "2026-09-27T10:46:35.869011445Z",
+  "timestamp": "2026-10-01T05:25:15.711275182Z",
   "model": "glm-5.3"
 }

@@ -5,50 +5,46 @@
   "book": "job",
   "lang": "sn",
   "chapter": 14,
-  "translation": "Asi pachena izvi unovhura maziso ako, ⟨את⟩ uye ⟨את⟩ ini unondisa pamtongo newe?",
+  "translation": "Uye pamusoro pemunhu wakadaro unovhura ⟨⟨maziso⟩⟩ ako, uye ⟨את⟩ ndiri unondisa mumatongero newe?",
   "tokens": [
     {
-      "surface": "אף",
-      "gloss": "Asi"
+      "surface": "אַף",
+      "gloss": "Uye"
     },
     {
-      "surface": "על",
-      "gloss": "pachena"
+      "surface": "עַל",
+      "gloss": "pamusoro pe"
     },
     {
-      "surface": "זה",
-      "gloss": "izvi"
+      "surface": "זֶה",
+      "gloss": "munhu wakadaro"
     },
     {
-      "surface": "פקחת",
+      "surface": "פָּקַחְתָּ",
       "gloss": "unovhura"
     },
     {
-      "surface": "עינך",
+      "surface": "עֵינֶךָ",
       "gloss": "maziso ako"
     },
     {
-      "surface": "ו",
-      "gloss": "uye"
+      "surface": "וְאֹתִי",
+      "gloss": "⟨את⟩ ndiri",
+      "marks": "unondisa mumatongero"
     },
     {
-      "surface": "אתי",
-      "gloss": "⟨את⟩ ini",
-      "marks": "unondisa (ndiri)"
+      "surface": "תָּבִיא",
+      "gloss": "unondisa mumatongero"
     },
     {
-      "surface": "תביא",
-      "gloss": "unondisa"
+      "surface": "בְּמִשְׁפָּט",
+      "gloss": "mumatongero"
     },
     {
-      "surface": "במשפט",
-      "gloss": "pamtongo"
-    },
-    {
-      "surface": "עמך",
+      "surface": "עִמָּךְ",
       "gloss": "newe"
     }
   ],
-  "timestamp": "2026-09-27T09:36:56.799202574Z",
+  "timestamp": "2026-10-01T05:25:35.317263530Z",
   "model": "glm-5.3"
 }

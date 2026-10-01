@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "sn",
   "chapter": 18,
-  "translation": "Uye mambo akati: Kodi runyararo rwomukomana, kweAbhusharomu? Uye Achimaatzi akati: Pakutumwa ⟨את⟩ komuredzi wamambo Jowabhu, newako ⟨את⟩ komuredzi, ndakaona huwandu huru, asi handina kuziva ⟨chii⟩.",
+  "translation": "Mambo akati: Pane runyararo here nenyanga, Abusharomu? Uye Achiimatsi akati: Ndakaona ruzha rukuru pakutumwa kwa⟨את⟩ muranda wamambo Yoabhi n⟨את⟩ wako muranda wako, asi handina kuziva chii.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "שלום",
-      "gloss": "kodi runyararo"
+      "gloss": "runyararo"
     },
     {
       "surface": "לנער",
-      "gloss": "rwomukomana"
+      "gloss": "nenyanga"
     },
     {
       "surface": "לאבשלום",
-      "gloss": "kweAbhusharomu"
+      "gloss": "Abusharomu"
     },
     {
       "surface": "ויאמר",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "אחימעץ",
-      "gloss": "Achimaatzi"
+      "gloss": "Achiimatsi"
     },
     {
       "surface": "ראיתי",
-      "gloss": "ndakaona"
+      "gloss": "Ndakaona"
     },
     {
       "surface": "ההמון",
-      "gloss": "huwandu"
+      "gloss": "ruzha"
     },
     {
       "surface": "הגדול",
-      "gloss": "huru"
+      "gloss": "rukuru"
     },
     {
       "surface": "לשלח",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "komuredzi wamambo"
+      "marks": "muranda wamambo Yoabhi"
     },
     {
       "surface": "עבד",
-      "gloss": "komuredzi"
+      "gloss": "muranda"
     },
     {
       "surface": "המלך",
@@ -66,21 +66,16 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Jowabhu"
+      "gloss": "Yoabhi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "komuredzi wako"
+      "marks": "wako muranda wako"
     },
     {
       "surface": "עבדך",
-      "gloss": "komuredzi wako"
-    },
-    {
-      "surface": "ויאת",
-      "gloss": "",
-      "marks": ""
+      "gloss": "muranda wako"
     },
     {
       "surface": "ולא",
@@ -95,6 +90,6 @@
       "gloss": "chii"
     }
   ],
-  "timestamp": "2026-09-27T07:02:16.990999363Z",
+  "timestamp": "2026-10-01T05:25:02.524838197Z",
   "model": "glm-5.3"
 }

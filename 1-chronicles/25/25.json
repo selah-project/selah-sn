@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 25,
-  "translation": "Wegumisere kuHanani, iye, vana vake nehama dzake, vaiva guminaviri:",
+  "translation": "Wechipfumbamwe-negumi kuna Hanani, iye, vana vake nehanzvadzi dzake, vaiva gumi nevaviri.",
   "tokens": [
     {
       "surface": "לשמונה",
-      "gloss": "Wegumisere"
+      "gloss": "wechipfumbamwe"
     },
     {
       "surface": "עשר",
-      "gloss": "⟨-sere⟩"
+      "gloss": "negumi"
     },
     {
       "surface": "לחנני",
-      "gloss": "kuHanani"
+      "gloss": "kuna Hanani"
     },
     {
       "surface": "בניו",
@@ -25,13 +25,17 @@
     },
     {
       "surface": "ואחיו",
-      "gloss": "nehama dzake"
+      "gloss": "nehanzvadzi dzake"
     },
     {
       "surface": "שנים",
-      "gloss": "guminaviri"
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
     }
   ],
-  "timestamp": "2026-09-27T10:26:18.134657670Z",
+  "timestamp": "2026-10-01T05:26:14.855071662Z",
   "model": "glm-5.3"
 }

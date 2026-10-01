@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "sn",
   "chapter": 2,
-  "translation": "Yoabu akadziza shofar, vanhu vose vakamira, vakarega kutevera Izuraeri, vakaregawo kupfurikidza kurwa.",
+  "translation": "Nokudaro Yowabhu akapfura mhopfu, uye vanhu vose vakamira, uye hava kuteverazve Israeri, havazove vakawedzera kurwa.",
   "tokens": [
     {
       "surface": "ויתקע",
-      "gloss": "akadziza"
+      "gloss": "akapfura"
     },
     {
       "surface": "יואב",
-      "gloss": "Yoabu"
+      "gloss": "Yowabhu"
     },
     {
       "surface": "בשופר",
-      "gloss": "shofar"
+      "gloss": "mhopfu"
     },
     {
       "surface": "ויעמדו",
@@ -32,38 +32,42 @@
       "gloss": "vanhu"
     },
     {
-      "surface": "וירדפו ולא",
-      "gloss": "vakarega kutevera"
+      "surface": "ולא",
+      "gloss": "uye hava"
     },
     {
-      "surface": "עוד",
-      "gloss": "azvichangopfuura"
-    },
-    {
-      "surface": "אחרי",
+      "surface": "ירדפו",
       "gloss": "kutevera"
     },
     {
+      "surface": "עוד",
+      "gloss": "zve"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kuteverazve mushure me"
+    },
+    {
       "surface": "ישראל",
-      "gloss": "Izuraeri"
+      "gloss": "Israeri"
     },
     {
       "surface": "ולא",
-      "gloss": "vakaregawo"
+      "gloss": "havazove"
     },
     {
       "surface": "יספו",
-      "gloss": "kupfurikidza"
+      "gloss": "vakawedzera"
     },
     {
       "surface": "עוד",
-      "gloss": "azvichangopfuura"
+      "gloss": "zve"
     },
     {
       "surface": "להלחם",
       "gloss": "kurwa"
     }
   ],
-  "timestamp": "2026-09-27T06:55:28.980843164Z",
+  "timestamp": "2026-10-01T05:24:59.236359958Z",
   "model": "glm-5.3"
 }

@@ -5,29 +5,41 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 12,
-  "translation": "Uye Yahoyadha mutungamiri weAroni, nauye zviuru zvitatu nemazana nomwe.",
+  "translation": "Uye Yehoiadha aiva mukuru wevano vaAroni, navake zviuru zvitatu nemazana nomwe.",
   "tokens": [
     {
       "surface": "ויהוידע",
-      "gloss": "Uye Yahoyadha"
+      "gloss": "Uye Yehoiadha"
     },
     {
       "surface": "הנגיד",
-      "gloss": "mutungamiri"
+      "gloss": "mukuru"
     },
     {
       "surface": "לאהרן",
-      "gloss": "weAroni"
+      "gloss": "vano vaAroni"
     },
     {
       "surface": "ועמו",
-      "gloss": "nauye"
+      "gloss": "navake"
     },
     {
       "surface": "שלשת",
       "gloss": "zviuru zvitatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "(zviuru)"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "nemazana nomwe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(mazana)"
     }
   ],
-  "timestamp": "2026-09-27T10:22:06.193168914Z",
+  "timestamp": "2026-10-01T05:26:15.774001219Z",
   "model": "glm-5.3"
 }

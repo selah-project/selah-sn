@@ -5,21 +5,73 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 11,
-  "translation": "Uku ndiko kumatambudziko evanhu vane simba vaiva veDhavhidhi, vait Simba navo humambo hwake, pamwe neIsraeri yose, kumuita mutongi, sokutaurwa kwaYahwe paIsraeri.",
+  "translation": "Uku ndiko kumusoro kwevasimba vaDhavhidhi, vakasimbisa naye humambo hwake, pamwe neIsraeri yose, kumuita mutonga, sokutaridzwa nekutaura kwaYahwe pamusoro peIsraeri.",
   "tokens": [
     {
-      "surface": "ויהוה",
+      "surface": "ואלה",
+      "gloss": "Uku ndiko"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kumusoro kwe"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "vasimba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dhavhidhi"
+    },
+    {
+      "surface": "המתחזקים",
+      "gloss": "vakasimbisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "humambo hwake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pamwe ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeri"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "kumuita mutonga"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sokutaridzwa nekutaura"
+    },
+    {
+      "surface": "יהוה",
       "gloss": "kwaYahwe"
     },
     {
       "surface": "על",
-      "gloss": "pa"
+      "gloss": "pamusoro pe"
     },
     {
       "surface": "ישראל",
       "gloss": "Israeri"
     }
   ],
-  "timestamp": "2026-09-27T10:20:58.029510491Z",
+  "timestamp": "2026-10-01T05:26:07.337697080Z",
   "model": "glm-5.3"
 }

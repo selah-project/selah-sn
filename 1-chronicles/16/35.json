@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 16,
-  "translation": "Uye mugoti: Tiponesei, Erohimu we↩.",
+  "translation": "Uye muti: Titapudza, iwe Erohimu we ruponeso rwenyu, uye tivanganidze, uye titipurure kubva kunyika dzose, kuti titende zita rako chitsvene, kuti tikurumbidze mutambo wako.",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "Uye mugoti"
+      "gloss": "uye muti"
     },
     {
       "surface": "הושיענו",
-      "gloss": "Tiponesei"
+      "gloss": "Titapudza"
     },
     {
       "surface": "אלהי",
@@ -21,9 +21,45 @@
     },
     {
       "surface": "ישענו",
-      "gloss": "↩"
+      "gloss": "ruponeso rwenyu"
+    },
+    {
+      "surface": "וקבצנו",
+      "gloss": "uye tivanganidze"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "uye titipurure"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kunyika dzose"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kuti titende"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "zita rako"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "chitsvene"
+    },
+    {
+      "surface": "להשתבח",
+      "gloss": "kuti tikurumbidze"
+    },
+    {
+      "surface": "בתהלתך",
+      "gloss": "mutambo wako"
     }
   ],
-  "timestamp": "2026-09-27T10:24:35.863799165Z",
+  "timestamp": "2026-10-01T05:26:10.518180773Z",
   "model": "glm-5.3"
 }

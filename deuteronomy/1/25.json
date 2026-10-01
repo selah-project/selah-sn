@@ -5,23 +5,19 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Ndokutora mabasa muumaoko avo, mhindo yeunhu hwenyika, nokudzikisa kuti auyе kune isu, ⟨את⟩ nokudzorera kwatiri izwi, nokuti: Nyika yakachena iyo Yahwe Erohimu wedu anopa isu.",
+  "translation": "Uye vakatora muzviti rwavo muchibage cheruoko chakabuda muzviyo zvinoibva munyika, vakazvititsa kwatiri, vakadzorera ⟨את⟩ shoko, vachiti: Ndeyakanaka nyika iyo Yahwe Erohimu wedu anotipa.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "nokutora"
+      "gloss": "vakatora"
     },
     {
       "surface": "בידם",
-      "gloss": "muumaoko avo"
+      "gloss": "muzviti rwavo"
     },
     {
       "surface": "מפרי",
-      "gloss": "mhindo ye"
-    },
-    {
-      "surface": "הארץ",
-      "gloss": "unhu hwe"
+      "gloss": "muchibage cheruoko chakabuda muzviyo"
     },
     {
       "surface": "הארץ",
@@ -29,31 +25,32 @@
     },
     {
       "surface": "ויורדו",
-      "gloss": "nokudzikisa"
+      "gloss": "vakazvititsa"
     },
     {
       "surface": "אלינו",
-      "gloss": "kuti auye kune isu"
-    },
-    {
-      "surface": "וישבו",
-      "gloss": "⟨את⟩ nokudzorera"
-    },
-    {
-      "surface": "אתנו",
       "gloss": "kwatiri"
     },
     {
+      "surface": "וישבו",
+      "gloss": "vakadzorera"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "shoko"
+    },
+    {
       "surface": "דבר",
-      "gloss": "izwi"
+      "gloss": "shoko"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "nokuti"
+      "gloss": "vachiti"
     },
     {
       "surface": "טובה",
-      "gloss": "yakachena"
+      "gloss": "Ndeyakanaka"
     },
     {
       "surface": "הארץ",
@@ -73,13 +70,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "anopa"
+      "gloss": "anotipa"
     },
     {
       "surface": "לנו",
-      "gloss": "isu"
+      "gloss": "is"
     }
   ],
-  "timestamp": "2026-09-27T06:09:22.047766955Z",
+  "timestamp": "2026-10-01T05:25:07.307798723Z",
   "model": "glm-5.3"
 }

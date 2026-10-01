@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "sn",
   "chapter": 12,
-  "translation": "Yahwe akataura kuna Mose naku Aharoni muIgipiti, achiti:",
+  "translation": "Yahwe akataura kuna Moshe nokuna Aroni, munyika yeMitsraji, achiti:",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,21 +21,29 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mose"
+      "gloss": "Moshe"
     },
     {
       "surface": "ואל",
-      "gloss": "naku"
+      "gloss": "nokuna"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoni"
+      "gloss": "Aroni"
     },
     {
       "surface": "בארץ",
-      "gloss": "muIgipiti-munda"
+      "gloss": "munyika ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "achiti"
     }
   ],
-  "timestamp": "2026-09-27T05:27:45.698134332Z",
+  "timestamp": "2026-10-01T05:24:41.997788009Z",
   "model": "glm-5.3"
 }

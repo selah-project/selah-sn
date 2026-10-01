@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 78,
-  "translation": "Ona, akarova ⟨את⟩ dombo, mvura yakazarira, masaisai akapfuurira. Angagonawo here kupa chingwa, kana kugadzaira nyama yevanhu vake?",
+  "translation": "Tarira, akarova ⟨את⟩ dombo, uye mvura yazhuruka, netsizi dzinoyerera makutu; kozve anokwanisa here kupa chingwa, kana kugadzirira nyama kuvanhu vake?",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "Ona"
+      "gloss": "Tarira"
     },
     {
       "surface": "הכה",
@@ -21,28 +21,23 @@
     },
     {
       "surface": "ויזובו",
-      "gloss": "yakazarira"
+      "gloss": "yazhuruka"
     },
     {
       "surface": "מים",
       "gloss": "mvura"
     },
     {
-      "surface": "ויזובו",
-      "gloss": "⟨את⟩",
-      "marks": "dombo"
-    },
-    {
       "surface": "ונחלים",
-      "gloss": "masaisai"
+      "gloss": "uye tsizi"
     },
     {
       "surface": "ישטפו",
-      "gloss": "akapfuurira"
+      "gloss": "dzinoyerera makutu"
     },
     {
       "surface": "הגם",
-      "gloss": "angagonawo here"
+      "gloss": "kozve"
     },
     {
       "surface": "לחם",
@@ -50,7 +45,7 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "anogona"
+      "gloss": "anokwanisa"
     },
     {
       "surface": "תת",
@@ -62,7 +57,7 @@
     },
     {
       "surface": "יכין",
-      "gloss": "kugadzaira"
+      "gloss": "kugadzirira"
     },
     {
       "surface": "שאר",
@@ -70,9 +65,9 @@
     },
     {
       "surface": "לעמו",
-      "gloss": "yevanhu vake"
+      "gloss": "kuvanhu vake"
     }
   ],
-  "timestamp": "2026-09-27T09:06:28.160679236Z",
+  "timestamp": "2026-10-01T05:25:32.444104581Z",
   "model": "glm-5.3"
 }

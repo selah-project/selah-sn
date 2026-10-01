@@ -5,19 +5,15 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 102,
-  "translation": "Ndaramba ndisina kutsveka, ndave seshiri yokamosha pamusoro pedenga.",
+  "translation": "Ndakagara ndirimaziso, ndikava seshiri iri yega pamusoro pedenga.",
   "tokens": [
     {
       "surface": "שקדתי",
-      "gloss": "Ndaramba ndisina kutsveka"
-    },
-    {
-      "surface": "ויהיה",
-      "gloss": "ndave"
+      "gloss": "ndakagara ndirimaziso"
     },
     {
       "surface": "ואהיה",
-      "gloss": "ndave"
+      "gloss": "ndikava"
     },
     {
       "surface": "כצפור",
@@ -25,17 +21,17 @@
     },
     {
       "surface": "בודד",
-      "gloss": "yokamosha"
+      "gloss": "iri yega"
     },
     {
       "surface": "על",
-      "gloss": "pamusoro pe-"
+      "gloss": "pamusoro"
     },
     {
       "surface": "גג",
-      "gloss": "denga"
+      "gloss": "pedenga"
     }
   ],
-  "timestamp": "2026-09-27T09:11:02.946759044Z",
+  "timestamp": "2026-10-01T05:25:44.129053242Z",
   "model": "glm-5.3"
 }

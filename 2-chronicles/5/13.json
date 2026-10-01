@@ -5,27 +5,27 @@
   "book": "2-chronicles",
   "lang": "sn",
   "chapter": 5,
-  "translation": "Zvakaitika sevari vaviri vechiambure-nzvovera nevayimbiri vari vamwe chete, kuita izwi rimwe chete rokurumbidza nokuvonga Yahwe; uye pavakasimudza izwi nemabhurukwa-nzvovera, netsvigiri, nedziyo dzorwiyo, vachirumbidza Yahwe vachiti: nokuti ndinakanaka, nokuti hesedhi yake igara nokusingaperi — nyika yega yaita panyika yaizadzwa nederere, imba yaYahwe.",
+  "translation": "Zvino zvikaomerwa, vakatorwa semumwe muridzi wematrampeti nevayimbi, kuita izwi rimwe chete rokunzwikwa pakurumbidza nokuvonga Yahwe; uye pavakasimudza izwi nematrampeti, netsimbale, nezvombo zvehuyimbo, vachirumbidza Yahwe, vachiti: Nde nokuti ndinaka, nokuti hesedhi yake ihoso kune nokusingaperi; zvino imba yakazadzwa nhuu, imba yaYahwe.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "zvakaitika"
+      "gloss": "Zvino zvikaomerwa"
     },
     {
       "surface": "כאחד",
-      "gloss": "sevari vamwe"
+      "gloss": "semumwe"
     },
     {
       "surface": "למחצצרים",
-      "gloss": "vechiambure-nzvovera"
+      "gloss": "kuridzi wematrampeti"
     },
     {
       "surface": "ולמשררים",
-      "gloss": "nevayimbiri"
+      "gloss": "nevayimbi"
     },
     {
       "surface": "להשמיע",
-      "gloss": "kuita izwi"
+      "gloss": "kuita izwi rokunzwikwa"
     },
     {
       "surface": "קול",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "להלל",
-      "gloss": "rokurumbidza"
+      "gloss": "pakurumbidza"
     },
     {
       "surface": "ולהדות",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "בחצצרות",
-      "gloss": "nemabhurukwa-nzvovera"
+      "gloss": "nematrampeti"
     },
     {
       "surface": "ובמצלתים",
-      "gloss": "netsvigiri"
+      "gloss": "netsimbale"
     },
     {
       "surface": "ובכלי",
-      "gloss": "nedziyo"
+      "gloss": "nezvombo"
     },
     {
       "surface": "השיר",
-      "gloss": "dzorwiyo"
+      "gloss": "zvehuyimbo"
     },
     {
       "surface": "ובהלל",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ndinakanaka"
+      "gloss": "ndinaka"
     },
     {
       "surface": "כי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "nokusingaperi"
+      "gloss": "kusingaperi"
     },
     {
       "surface": "חסדו",
@@ -101,21 +101,25 @@
     },
     {
       "surface": "והבית",
-      "gloss": "imba yega"
+      "gloss": "imba"
     },
     {
       "surface": "מלא",
-      "gloss": "yaizadzwa"
+      "gloss": "yakazadzwa"
     },
     {
       "surface": "ענן",
-      "gloss": "nederere"
+      "gloss": "nhuu"
     },
     {
-      "surface": "בית יהוה",
-      "gloss": "imba yaYahwe"
+      "surface": "בית",
+      "gloss": "imba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
     }
   ],
-  "timestamp": "2026-09-27T10:29:38.256646554Z",
+  "timestamp": "2026-10-01T05:26:17.840997127Z",
   "model": "glm-5.3"
 }

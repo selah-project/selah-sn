@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sn",
   "chapter": 21,
-  "translation": " vakakwira muYudha, vakatyora ⟨⟨את⟩⟩ nyika, uye ⟨את⟩ vakatora ⟨את⟩ pfuma yose yaive muimba yamambo, pamwe nevana vake nomadzimai vake; uye haana kusiya mwanakomana kuna iye, asi Yehoakazi, mudiki wevana vake.",
+  "translation": "Vakakwira muYudha, vakaitaparadza, vakatora ⟨את⟩ pfuma yose yaive muimba yomambo, nezvakare vana vake navakadzi vake; uye hakuna akasarirwa nomwana, asi Yehoahazi, mudiki wevana vake.",
   "tokens": [
     {
       "surface": "ויעלו",
@@ -17,11 +17,7 @@
     },
     {
       "surface": "ויבקעוה",
-      "gloss": "vakatyora"
-    },
-    {
-      "surface": "והיא",
-      "gloss": "⟨iye⟩"
+      "gloss": "vakaitaparadza"
     },
     {
       "surface": "וישבו",
@@ -50,11 +46,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "yamambo"
+      "gloss": "yomambo"
     },
     {
       "surface": "וגם",
-      "gloss": "pamwe"
+      "gloss": "nezvakare"
     },
     {
       "surface": "בניו",
@@ -62,23 +58,23 @@
     },
     {
       "surface": "ונשיו",
-      "gloss": "nomadzimai vake"
+      "gloss": "navakadzi vake"
     },
     {
       "surface": "ולא",
-      "gloss": "uye haana"
+      "gloss": "uye hakuna"
     },
     {
       "surface": "נשאר",
-      "gloss": "kusiya"
+      "gloss": "akasarirwa"
     },
     {
       "surface": "לו",
-      "gloss": "kuna iye"
+      "gloss": "nomwana — iye"
     },
     {
       "surface": "בן",
-      "gloss": "mwanakomana"
+      "gloss": "mwana"
     },
     {
       "surface": "כי",
@@ -86,11 +82,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "kunze"
+      "gloss": "—"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Yehoakazimu"
+      "gloss": "Yehoahazi"
     },
     {
       "surface": "קטן",
@@ -101,6 +97,6 @@
       "gloss": "wevana vake"
     }
   ],
-  "timestamp": "2026-09-27T10:36:35.764148899Z",
+  "timestamp": "2026-10-01T05:26:15.373523426Z",
   "model": "glm-5.3"
 }

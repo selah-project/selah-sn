@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "sn",
   "chapter": 13,
-  "translation": "Nevamwe mamba Dhavhidhi akanzwa ⟨את⟩ mashoko akawanda ose aya, uye ⟨zvaakaita⟩ akatsamwa zvake.",
+  "translation": "Nevamambo Dhavhidhi vakanzwa ⟨את⟩ mashoko ose aya, uye vakatsamwa zvakanyanya.",
   "tokens": [
     {
       "surface": "והמלך",
-      "gloss": "nevamwe mamba"
+      "gloss": "Nevamambo"
     },
     {
       "surface": "דוד",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "שמע",
-      "gloss": "akanzwa"
+      "gloss": "vakanzwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mashoko akawanda ose aya"
+      "marks": "mashoko ose aya"
     },
     {
       "surface": "כל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "mashoko akawanda"
+      "gloss": "mashoko"
     },
     {
       "surface": "האלה",
@@ -38,21 +38,17 @@
     },
     {
       "surface": "ויחר",
-      "gloss": "akatsamwa"
+      "gloss": "vakatsamwa"
     },
     {
       "surface": "לו",
-      "gloss": "zvake"
+      "gloss": ""
     },
     {
       "surface": "מאד",
-      "gloss": "zvishoma"
-    },
-    {
-      "surface": "",
-      "gloss": ""
+      "gloss": "zvakanyanya"
     }
   ],
-  "timestamp": "2026-09-27T06:57:49.594985491Z",
+  "timestamp": "2026-10-01T05:24:56.507232615Z",
   "model": "glm-5.3"
 }

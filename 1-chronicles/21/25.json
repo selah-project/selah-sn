@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 21,
-  "translation": "Dhavhidhi akapa Arananu, panzvimbo iyoyo, shekeri dzendarama, mwero wemazana matanu? — uyo: mwero wemazana matatu.",
+  "translation": "Dhavhidhi akapa Aranani panzvimbo iyoyo zvikumi zvezhendarama zvive nemazana matanhatu nezviyero.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -17,29 +17,33 @@
     },
     {
       "surface": "לארנן",
-      "gloss": "Arananu"
+      "gloss": "Aranani"
     },
     {
       "surface": "במקום",
-      "gloss": "panzvimbo iyoyo"
+      "gloss": "panzvimbo"
     },
     {
       "surface": "שקלי",
-      "gloss": "shekeri"
+      "gloss": "zvikumi"
     },
     {
       "surface": "זהב",
-      "gloss": "dzendarama"
+      "gloss": "zhendarama"
     },
     {
       "surface": "משקל",
-      "gloss": "mwero"
+      "gloss": "nezviyero"
     },
     {
       "surface": "שש",
-      "gloss": "matatu? matatu-shanu — tatu-pfumbamwe? — shanu"
+      "gloss": "matanhatu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mazana"
     }
   ],
-  "timestamp": "2026-09-27T10:24:32.777251314Z",
+  "timestamp": "2026-10-01T05:26:08.067623778Z",
   "model": "glm-5.3"
 }

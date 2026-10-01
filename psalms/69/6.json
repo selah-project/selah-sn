@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 69,
-  "translation": "Erohimu, iwe unoziva ⟨את⟩ upfuuri hwangu; nematadzo angu kubva kwako haavanzwi.",
+  "translation": "Erohimu, iwe unoziva ⟨את⟩ upenzi hwangu; uye zvitadzo zvangu hazvina kuvandwa kubva kwazuri.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -20,31 +20,26 @@
       "gloss": "unoziva"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "upfuuri hwangu"
-    },
-    {
       "surface": "לאולתי",
-      "gloss": "upfuuri hwangu"
+      "gloss": "upenzi hwangu"
     },
     {
       "surface": "ואשמותי",
-      "gloss": "nematadzo angu"
+      "gloss": "uye zvitadzo zvangu"
     },
     {
       "surface": "ממך",
-      "gloss": "kubva kwako"
+      "gloss": "kubva kwazuri"
     },
     {
       "surface": "לא",
-      "gloss": "ha-"
+      "gloss": "hazvina"
     },
     {
       "surface": "נכחדו",
-      "gloss": "-vanzwi"
+      "gloss": "kuvandwa"
     }
   ],
-  "timestamp": "2026-09-27T11:16:45.053033229Z",
+  "timestamp": "2026-10-01T05:25:24.545912266Z",
   "model": "glm-5.3"
 }

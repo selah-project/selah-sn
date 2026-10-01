@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sn",
   "chapter": 22,
-  "translation": "Naizvozvo, tarisa, ndichakuunganidza kumadzibaba ako, uye muchounganidzwa kumakuva ako murugare; uye maziso ako haachaona makaipa ose andichauisa panzvimbo ino.' Uye ⟨את⟩ vakadzosa ⟨את⟩ shoko kumambo.",
+  "translation": "Naizvozvo, tarisa, ndinokuunganidza kune madzibaba ako, uyeuchaunganidzwa muguva rako muchengetedzo, uye maziso ako haazaona chakaipa chose chandiri kuisa panzvimbo ino. Uye vakadzosa ⟨את⟩ umambo izwi.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,47 +13,43 @@
     },
     {
       "surface": "הנני",
-      "gloss": "tarisa"
+      "gloss": "tarisa, ini"
     },
     {
       "surface": "אספך",
-      "gloss": "ndichakuunganidza"
+      "gloss": "ndinokuunganidza"
     },
     {
       "surface": "על",
-      "gloss": "kuna"
+      "gloss": "kune"
     },
     {
       "surface": "אבתיך",
       "gloss": "madzibaba ako"
     },
     {
-      "surface": "ונאספפת",
-      "gloss": ""
-    },
-    {
       "surface": "ונאספת",
-      "gloss": "muchounganidzwa"
+      "gloss": "uyeuchaunganidzwa"
     },
     {
       "surface": "אל",
-      "gloss": "kumu"
+      "gloss": "mu"
     },
     {
       "surface": "קברתיך",
-      "gloss": "makuva ako"
+      "gloss": "guva rako"
     },
     {
       "surface": "בשלום",
-      "gloss": "murugare"
+      "gloss": "muchengetedzo"
     },
     {
       "surface": "ולא",
-      "gloss": "uye haachaona"
+      "gloss": "uye kwete"
     },
     {
       "surface": "תראינה",
-      "gloss": "haachaona"
+      "gloss": "haazaona"
     },
     {
       "surface": "עיניך",
@@ -61,23 +57,23 @@
     },
     {
       "surface": "בכל",
-      "gloss": "ose"
+      "gloss": "chose"
     },
     {
       "surface": "הרעה",
-      "gloss": "makaipa"
+      "gloss": "chakaipa"
     },
     {
       "surface": "אשר",
-      "gloss": "a"
+      "gloss": "cha"
     },
     {
       "surface": "אני",
-      "gloss": "ndi"
+      "gloss": "ini"
     },
     {
       "surface": "מביא",
-      "gloss": "chichauisa"
+      "gloss": "ndiri kuisa"
     },
     {
       "surface": "על",
@@ -93,22 +89,22 @@
     },
     {
       "surface": "וישיבו",
-      "gloss": "vakadzosa"
+      "gloss": "uye vakadzosa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "shoko kumambo"
+      "marks": "umambo"
     },
     {
       "surface": "המלך",
-      "gloss": "kumambo"
+      "gloss": "umambo"
     },
     {
       "surface": "דבר",
-      "gloss": "shoko"
+      "gloss": "izwi"
     }
   ],
-  "timestamp": "2026-09-27T07:27:17.600538261Z",
+  "timestamp": "2026-10-01T05:25:38.045784340Z",
   "model": "glm-5.3"
 }

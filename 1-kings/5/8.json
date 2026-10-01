@@ -5,33 +5,57 @@
   "book": "1-kings",
   "lang": "sn",
   "chapter": 5,
-  "translation": "Uye bhurakari netsviya yemabhabela nezveZvirwere zvinonzi mabhabela emazuva ano vaiita zvavo vatauri kumudziwa waiva imomo, mumwe nomumhu sezvaive mutemo wake.",
+  "translation": "Uye bhande nurusvingo zvemasviru nendongi vakazviunza kunzvimbo ⟨iyo⟩ yaizovepo ipapo, mumwe nomumwe nokurayirwa kwake.",
   "tokens": [
     {
       "surface": "והשערים",
-      "gloss": "Uye bhurakari"
+      "gloss": "uye bhande"
     },
     {
       "surface": "והתבן",
-      "gloss": "netsviya"
+      "gloss": "nurusvingo"
     },
     {
       "surface": "לסוסים",
-      "gloss": "yemabhabela"
+      "gloss": "zvemasviru"
     },
     {
       "surface": "ולרכש",
-      "gloss": "nezveZvirwere zvinonzi mabhabela emazuva ano"
+      "gloss": "nendongi"
     },
     {
       "surface": "יבאו",
-      "gloss": "vaiita zvavo vatauri"
+      "gloss": "vakazviunza"
     },
     {
       "surface": "אל",
-      "gloss": "kumudziwa waiva imomo, mumwe nomumhu sezvaive mutemo wake."
+      "gloss": "ku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨iyo⟩ nzvimbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ipo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yaizovepo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ipapo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumwe nomumwe"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "nokurayirwa kwake"
     }
   ],
-  "timestamp": "2026-09-27T07:07:03.601803052Z",
+  "timestamp": "2026-10-01T05:25:00.091899283Z",
   "model": "glm-5.3"
 }

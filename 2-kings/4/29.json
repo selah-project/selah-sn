@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "sn",
   "chapter": 4,
-  "translation": "Akati kuna Geihazi: Batanidza chiuno chako, uye tora chimutsamire changu mumurara wako, uye enda; kana ukasangana nemunhu, usamupfumbatidze; uye kana munhu akupfumbatidza iwe, usamupindure; uye isa chimutsamire changu pamusoro pechiso che mwana.",
+  "translation": "Akati kuna Geihazi: Simbisa hudyu hwako, uye tora chimucheto changu mumaoko ako, uye enda; kana ukasangana nemunhu, usamufambidze zvakanaka; uye kana munhu akakufambidza zvakanaka, usamupindura; uye isa chimucheto changu pamusoro pechiso chemwana.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "akati"
+      "gloss": "Akati"
     },
     {
       "surface": "לגיחזי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "חגר",
-      "gloss": "batanidza"
+      "gloss": "Simbisa"
     },
     {
       "surface": "מתניך",
-      "gloss": "chiuno chako"
+      "gloss": "hudyu hwako"
     },
     {
       "surface": "וקח",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "משענתי",
-      "gloss": "chimutsamire changu"
+      "gloss": "chimucheto changu"
     },
     {
       "surface": "בידך",
-      "gloss": "mumurara wako"
+      "gloss": "mumaoko ako"
     },
     {
       "surface": "ולך",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "usa"
+      "gloss": "usa-"
     },
     {
       "surface": "תברכנו",
-      "gloss": "usamupfumbatidze"
+      "gloss": "mufambidze zvakanaka"
     },
     {
       "surface": "וכי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "יברכך",
-      "gloss": "akupfumbatidza"
+      "gloss": "akakufambidza zvakanaka"
     },
     {
       "surface": "איש",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "usa"
+      "gloss": "usa-"
     },
     {
       "surface": "תעננו",
-      "gloss": "usamupindure"
+      "gloss": "mupindura"
     },
     {
       "surface": "ושמת",
@@ -85,25 +85,21 @@
     },
     {
       "surface": "משענתי",
-      "gloss": "chimutsamire changu"
+      "gloss": "chimucheto changu"
     },
     {
       "surface": "על",
-      "gloss": "pamusoro"
+      "gloss": "pamusoro pe-"
     },
     {
       "surface": "פני",
-      "gloss": "pechiso"
+      "gloss": "chiso che"
     },
     {
       "surface": "הנער",
-      "gloss": "che⟨⟨mwana⟩⟩"
-    },
-    {
-      "surface": "",
-      "gloss": ""
+      "gloss": "mwana"
     }
   ],
-  "timestamp": "2026-09-27T07:18:37.844977413Z",
+  "timestamp": "2026-10-01T05:25:19.526177307Z",
   "model": "glm-5.3"
 }

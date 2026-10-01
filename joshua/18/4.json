@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "sn",
   "chapter": 18,
-  "translation": "Itai kwamuri varume vatatu padzinza, ndichavatuma, vokamuka, vofamba-famba munyika, vonyora ⟨את⟩ iyi ⟨את⟩ zvichitevera nhaka yavo, vokunduya kwandiri.",
+  "translation": "Sarudzai nemi varume vatatu pachigango chamumwe nomumwe, ndichavatuma, vozoimirira, vozofamba nyika yose, voinyora ⟨את⟩ nyika iyi sokugarwanira kwavo, ndokuzoundira kwandiri.",
   "tokens": [
     {
       "surface": "הבו",
-      "gloss": "Itai"
+      "gloss": "Sarudzai"
     },
     {
       "surface": "לכם",
-      "gloss": "kwamuri"
+      "gloss": "nemi"
     },
     {
       "surface": "שלשה",
@@ -25,46 +25,50 @@
     },
     {
       "surface": "לשבט",
-      "gloss": "padzinza"
+      "gloss": "pachigango chamumwe nomumwe"
     },
     {
-      "surface": "ויקומו",
-      "gloss": "vokamuka"
+      "surface": "ואשלחם",
+      "gloss": "ndichavatuma"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "vozoimirira"
     },
     {
       "surface": "ויתהלכו",
-      "gloss": "vofamba-famba"
+      "gloss": "vozofamba"
     },
     {
       "surface": "בארץ",
-      "gloss": "munyika"
+      "gloss": "nyika yose"
     },
     {
       "surface": "ויכתבו",
-      "gloss": "vonyora"
+      "gloss": "voinyora"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ iyi",
-      "marks": "nyika"
+      "gloss": "⟨את⟩",
+      "marks": "nyika iyi"
     },
     {
       "surface": "לפי",
-      "gloss": "⟨את⟩ zvichitevera"
+      "gloss": "sokugarwanira"
     },
     {
       "surface": "נחלתם",
-      "gloss": "nhaka yavo"
+      "gloss": "kwavo"
     },
     {
       "surface": "ויבאו",
-      "gloss": "vokunduya"
+      "gloss": "ndokuzoundira"
     },
     {
       "surface": "אלי",
       "gloss": "kwandiri"
     }
   ],
-  "timestamp": "2026-09-27T06:28:41.541001156Z",
+  "timestamp": "2026-10-01T05:24:58.252364397Z",
   "model": "glm-5.3"
 }

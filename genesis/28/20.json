@@ -5,23 +5,23 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 28,
-  "translation": "Yakobo akapika chipiko, achiti: Kana Erohimu achiri neni, achandichengeta munzira iyi yandinoenda, achandipa chikafu chokudya nomwando wokufamba nacho —",
+  "translation": "Yaakobha akaipa chirangwa chokuti: Kana Erohimu achiri neni, uye achandichengeta munzira iyi yandiri kufamba nayo, uye achandipa chikafu chokudya nobhembe rokufunga,",
   "tokens": [
     {
       "surface": "וידר",
-      "gloss": "akapika"
+      "gloss": "akaipa"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yakobo"
+      "gloss": "Yaakobha"
     },
     {
       "surface": "נדר",
-      "gloss": "chipiko"
+      "gloss": "chirangwa"
     },
     {
       "surface": "לאמר",
-      "gloss": "achiti"
+      "gloss": "chokuti"
     },
     {
       "surface": "אם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ושמרני",
-      "gloss": "achandichengeta"
+      "gloss": "uye achandichengeta"
     },
     {
       "surface": "בדרך",
@@ -53,25 +53,41 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ya"
+      "gloss": "yo"
     },
     {
       "surface": "אנכי",
-      "gloss": "ndini"
+      "gloss": "ndiri"
     },
     {
       "surface": "הולך",
-      "gloss": "yandinoenda"
+      "gloss": "kufamba"
     },
     {
-      "surface": "ויצק",
-      "gloss": "achandipa"
+      "surface": "ונתן",
+      "gloss": "uye achandipa"
     },
     {
       "surface": "לי",
-      "gloss": "changova"
+      "gloss": "⟨ndiri⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chikafu"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "chokudya"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "nobhembe"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "rokufunga"
     }
   ],
-  "timestamp": "2026-09-27T05:14:29.262668138Z",
+  "timestamp": "2026-10-01T05:55:32.582326938Z",
   "model": "glm-5.3"
 }

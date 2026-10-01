@@ -5,41 +5,57 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 71,
-  "translation": "Ndanyoroka nokuchema kwangu, muromo wangu wakaoma, maziso angu apera andirimirira Erohimu wangu.",
+  "translation": "Iva iwe ⟨dombo⟩ rangu rokugaramo, pandinogona kuuya nguva dzose; wakakomekedza kuti undununure, nokuti iwe ndiwe dombo rangu nedziva rangu rokudzivirira.",
   "tokens": [
     {
-      "surface": "געתי",
-      "gloss": "Ndanyoroka"
+      "surface": "היה",
+      "gloss": "Iva"
     },
     {
-      "surface": "בקראי",
-      "gloss": "nokuchema kwangu"
+      "surface": "לי",
+      "gloss": "iwe ⟨kune⟩ ndiri"
     },
     {
-      "surface": "נחרתי",
-      "gloss": "wakaoma"
+      "surface": "לצור",
+      "gloss": "dombo"
     },
     {
-      "surface": "גרוני",
-      "gloss": "muromo wangu"
+      "surface": "מעון",
+      "gloss": "rokugaramo"
     },
     {
-      "surface": "כלו",
-      "gloss": "apera"
+      "surface": "לבוא",
+      "gloss": "kuuya"
     },
     {
-      "surface": "עיני",
-      "gloss": "maziso angu"
+      "surface": "תמיד",
+      "gloss": "nguva dzose"
     },
     {
-      "surface": "מיוחלים",
-      "gloss": "andirimirira"
+      "surface": "צוית",
+      "gloss": "wakakomekedza"
     },
     {
-      "surface": "לאלהי",
-      "gloss": "Erohimu wangu"
+      "surface": "להושיעני",
+      "gloss": "kuti undununure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "dombo rangu"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nedziva rangu rokudzivirira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "iwe"
     }
   ],
-  "timestamp": "2026-09-27T09:05:57.473185853Z",
+  "timestamp": "2026-10-01T05:25:26.943784186Z",
   "model": "glm-5.3"
 }

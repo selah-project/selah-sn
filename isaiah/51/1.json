@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "sn",
   "chapter": 51,
-  "translation": "Nditeererei, imi vanotevera chitendero, vanotsvaga Yahwe: tarirai dombo ramakachekwa narwo, uye mugimbwa wemugero wamakachera.",
+  "translation": "Nzvengetei kwandiri, imi muchenjera kurweza chilungamo, imi munotsvaka Yahwe: tarisai dombo raMuchakacheka, uye kuMugodi-cherwa munobvewa.",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "Nditeererei"
+      "gloss": "Nzvengetei"
     },
     {
       "surface": "אלי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "רדפי",
-      "gloss": "vanotevera"
+      "gloss": "muchenjera kurweza"
     },
     {
       "surface": "צדק",
-      "gloss": "chitendero"
+      "gloss": "chilungamo"
     },
     {
       "surface": "מבקשי",
-      "gloss": "vanotsvaga"
+      "gloss": "munotsvaka"
     },
     {
       "surface": "יהוה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הביטו",
-      "gloss": "tarirai"
+      "gloss": "tarisai"
     },
     {
       "surface": "אל",
-      "gloss": "dombo"
+      "gloss": "ku"
     },
     {
       "surface": "צור",
@@ -45,29 +45,25 @@
     },
     {
       "surface": "חצבתם",
-      "gloss": "ramakachekwa narwo"
+      "gloss": "raMuchakacheka"
     },
     {
-      "surface": "ו",
-      "gloss": "uye"
-    },
-    {
-      "surface": "אל",
-      "gloss": "kumugimbwa"
+      "surface": "ואל",
+      "gloss": "uye ku"
     },
     {
       "surface": "מקבת",
-      "gloss": "mugimbwa"
+      "gloss": "Mugodi-cherwa"
     },
     {
       "surface": "בור",
-      "gloss": "wemugero"
+      "gloss": "cherwa"
     },
     {
       "surface": "נקרתם",
-      "gloss": "wamakachera"
+      "gloss": "munobvewa"
     }
   ],
-  "timestamp": "2026-09-27T07:46:45.704131816Z",
+  "timestamp": "2026-10-01T05:25:55.555085513Z",
   "model": "glm-5.3"
 }

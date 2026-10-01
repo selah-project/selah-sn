@@ -5,24 +5,19 @@
   "book": "proverbs",
   "lang": "sn",
   "chapter": 12,
-  "translation": "Munhu mukanganwi vanza ⟨את⟩ ruzivo; asi mwoya wemapenzi unodaidzira upenzi.",
+  "translation": "Munhu wakachenjera anoviga ruzivo, asi mwoyo wevapenzi unodana ⟨kupenzi⟩.",
   "tokens": [
     {
       "surface": "אדם",
-      "gloss": "Munhu"
+      "gloss": "munhu"
     },
     {
       "surface": "ערום",
-      "gloss": "mukanganwi"
+      "gloss": "wakachenjera"
     },
     {
       "surface": "כסה",
-      "gloss": "vanza"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ruzivo"
+      "gloss": "anoviga"
     },
     {
       "surface": "דעת",
@@ -30,21 +25,21 @@
     },
     {
       "surface": "ולב",
-      "gloss": "asi mwoya"
+      "gloss": "asi mwoyo we"
     },
     {
       "surface": "כסילים",
-      "gloss": "wemapenzi"
+      "gloss": "vapenzi"
     },
     {
       "surface": "יקרא",
-      "gloss": "unodaidzira"
+      "gloss": "unodana"
     },
     {
       "surface": "אולת",
-      "gloss": "upenzi"
+      "gloss": "kupenzi"
     }
   ],
-  "timestamp": "2026-09-27T09:24:57.483991664Z",
+  "timestamp": "2026-10-01T05:25:46.715466361Z",
   "model": "glm-5.3"
 }

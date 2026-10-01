@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "sn",
   "chapter": 17,
-  "translation": "Vanhu vakataura kumambo waAshuru vachiti: “Marudzi amambo akatapudza naamambo wakagadzira muguta reShomeroni havazivi ⟨את⟩ mutemo waErohimu we⟨the⟩ nyika; ndokuti akatuma ⟨את⟩ mumaruma ⟨את⟩ shumba, ndipo ⟨את⟩ dziri kuuraya ⟨את⟩ ivo, nokuti havazivi ⟨את⟩ mutemo waErohimu we⟨the⟩ nyika.”",
+  "translation": "Zvino vakataura kumambo weAshuru vachiti: “Madzimambo aunotaura — kwete; marudzi awakatungamidzira kudzinosvitswa, awakagadzira mumaguta eShomroni, haazivi ⟨את⟩ mutemo waErohimu wenyika; naizvozvo akatuma shumba pakati pavo, uye iona, dziri kuuraya, nokuti haazivi ⟨את⟩ mutemo waErohimu wenyika.”",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "waAshuru"
+      "gloss": "weAshuru"
     },
     {
       "surface": "לאמר",
@@ -25,39 +25,35 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "Marudzi"
+      "gloss": "marudzi"
     },
     {
       "surface": "אשר",
-      "gloss": "avo"
+      "gloss": "awa"
     },
     {
       "surface": "הגלית",
-      "gloss": "wakatapudza"
+      "gloss": "wakatungamidzira kudzinosvitswa"
     },
     {
-      "surface": "ו",
-      "gloss": "na"
-    },
-    {
-      "surface": "תושב",
-      "gloss": "wakagadzira"
+      "surface": "ותושב",
+      "gloss": "awakagadzira"
     },
     {
       "surface": "בערי",
-      "gloss": "muguta"
+      "gloss": "mumaguta"
     },
     {
       "surface": "שמרון",
-      "gloss": "reShomeroni"
+      "gloss": "eShomroni"
     },
     {
       "surface": "לא",
-      "gloss": "havazivi"
+      "gloss": "haazivi ⟨hapana⟩"
     },
     {
       "surface": "ידעו",
-      "gloss": "kuziva"
+      "gloss": "haazivi"
     },
     {
       "surface": "את",
@@ -82,7 +78,7 @@
     },
     {
       "surface": "בם",
-      "gloss": "mumaruma"
+      "gloss": "pakati pavo"
     },
     {
       "surface": "את",
@@ -95,16 +91,15 @@
     },
     {
       "surface": "והנם",
-      "gloss": "ndipo"
+      "gloss": "uyona dziri"
     },
     {
       "surface": "ממיתים",
-      "gloss": "dziri kuuraya"
+      "gloss": "kuuraya"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ivo",
-      "marks": "marudzi"
+      "gloss": "⟨את⟩ ⟨ivo⟩"
     },
     {
       "surface": "כאשר",
@@ -112,11 +107,11 @@
     },
     {
       "surface": "אינם",
-      "gloss": "havana"
+      "gloss": "haazivi"
     },
     {
       "surface": "ידעים",
-      "gloss": "kuziva"
+      "gloss": "haazivi"
     },
     {
       "surface": "את",
@@ -136,6 +131,6 @@
       "gloss": "wenyika"
     }
   ],
-  "timestamp": "2026-09-27T07:24:49.899852657Z",
+  "timestamp": "2026-10-01T05:25:37.999987204Z",
   "model": "glm-5.3"
 }

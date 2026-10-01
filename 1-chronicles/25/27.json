@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 25,
-  "translation": "Wemakumi maviri kuEriyataha, iye, vana vake nehama dzake, vaiva guminaviri:",
+  "translation": "Kwemakumi maviri, kuna Eriyata, iye, vana vake nehanzvadzi dzake, vanga vari gumi navaviri.",
   "tokens": [
     {
       "surface": "לעשרים",
-      "gloss": "Wemakumi maviri"
+      "gloss": "kwemakumi maviri"
     },
     {
       "surface": "לאליתה",
-      "gloss": "kuEriyataha"
+      "gloss": "kuna Eriyata"
     },
     {
       "surface": "בניו",
@@ -21,13 +21,17 @@
     },
     {
       "surface": "ואחיו",
-      "gloss": "nehama dzake"
+      "gloss": "nehanzvadzi dzake"
     },
     {
       "surface": "שנים",
-      "gloss": "guminaviri"
+      "gloss": "viviri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(gumi na)vaviri"
     }
   ],
-  "timestamp": "2026-09-27T10:26:18.135388340Z",
+  "timestamp": "2026-10-01T05:26:19.780801264Z",
   "model": "glm-5.3"
 }

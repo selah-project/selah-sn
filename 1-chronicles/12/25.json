@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 12,
-  "translation": "Vana vaYehudha, vatakuri denderedzwa nhoo nemuromo, zviuru zvitanhatu namazana masere, vakazvarirwa hondo.",
+  "translation": "Vana vaYudha, vatakuri beta ngavhara nerumhanya, zviuru zvitanhatu namazana masere, vakagadzirira hondo.",
   "tokens": [
     {
       "surface": "בני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "vaYehudha"
+      "gloss": "vaYudha"
     },
     {
       "surface": "נשאי",
@@ -21,17 +21,37 @@
     },
     {
       "surface": "צנה",
-      "gloss": "denderedzwa nhoo"
+      "gloss": "beta ngavhara"
     },
     {
       "surface": "ורמח",
-      "gloss": "nomuromo"
+      "gloss": "nerumhanya"
     },
     {
       "surface": "ששת",
-      "gloss": "zviuru zvitatu"
+      "gloss": "zvitanhatu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "namazana masere"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "vakagadzirira"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hondo"
     }
   ],
-  "timestamp": "2026-09-27T10:22:06.192572630Z",
+  "timestamp": "2026-10-01T05:26:24.899335446Z",
   "model": "glm-5.3"
 }

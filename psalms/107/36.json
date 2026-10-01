@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 107,
-  "translation": "Akagadzikisa ipapo vanzara, vakamisikidza ⟨את⟩ guta rokugara.",
+  "translation": "Ipapo vakagadzira vanzara kugara, uye vakamisikidza ⟨guta⟩ rokugara.",
   "tokens": [
     {
       "surface": "ויושב",
-      "gloss": "Akagadzikisa"
+      "gloss": "vakagadzira kugara"
     },
     {
       "surface": "שם",
@@ -24,11 +24,6 @@
       "gloss": "vakamisikidza"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "guta rokugara"
-    },
-    {
       "surface": "עיר",
       "gloss": "guta"
     },
@@ -37,6 +32,6 @@
       "gloss": "rokugara"
     }
   ],
-  "timestamp": "2026-09-27T09:13:20.100514222Z",
+  "timestamp": "2026-10-01T05:25:22.877074408Z",
   "model": "glm-5.3"
 }

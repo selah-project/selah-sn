@@ -5,7 +5,7 @@
   "book": "jonah",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Akati kwavari: Muhebheru ndiri, ⟨את⟩ uye Yahwe, Erohimu wematenga, ndinomutya; iye ⟨את⟩ akaita ⟨את⟩ gungwa ne⟨את⟩ pasi yakoma.",
+  "translation": "Iye akati kwavari: Hebheru ndini, uye ⟨את⟩ Yahwe, Erohimu wamatenga, ndinomutya, iye akasika ⟨את⟩ gungwa ne⟨את⟩ ivhu rakoma.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,18 +17,14 @@
     },
     {
       "surface": "עברי",
-      "gloss": "Muhebheru"
+      "gloss": "Hebheru"
     },
     {
       "surface": "אנכי",
-      "gloss": "ndiri"
+      "gloss": "ndini"
     },
     {
-      "surface": "ו",
-      "gloss": "uye"
-    },
-    {
-      "surface": "את",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
       "marks": "Yahwe"
     },
@@ -42,15 +38,15 @@
     },
     {
       "surface": "השמים",
-      "gloss": "wematenga"
+      "gloss": "wamatenga"
     },
     {
       "surface": "אני",
-      "gloss": "ndino"
+      "gloss": "ndini"
     },
     {
       "surface": "ירא",
-      "gloss": "mutya"
+      "gloss": "ndinomutya"
     },
     {
       "surface": "אשר",
@@ -58,7 +54,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "akaita"
+      "gloss": "akasika"
     },
     {
       "surface": "את",
@@ -72,13 +68,13 @@
     {
       "surface": "ואת",
       "gloss": "ne⟨את⟩",
-      "marks": "pasi yakoma"
+      "marks": "ivhu rakoma"
     },
     {
       "surface": "היבשה",
-      "gloss": "pasi yakoma"
+      "gloss": "ivhu rakoma"
     }
   ],
-  "timestamp": "2026-09-27T08:43:19.961426589Z",
+  "timestamp": "2026-10-01T05:25:55.055173513Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 11,
-  "translation": "Vakati: Ndauyai, tivake guta ruuya nemadziro, musoro waro urudenga; uye tiite zita redu, vasati vataparadzira-sikue pamusoro pechiso chepasi rose.",
+  "translation": "Zvino vakati: Idzai, tinovaka ⟨tivakire⟩ tega guta nedhinda, musoro waro ari matenga, uye tiite ⟨zita⟩ r Zimbabweedu, kuti tisaparadzwa pamusoro pechiso che⟨yose⟩ pasi rose.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "הבה",
-      "gloss": "ndauyai"
+      "gloss": "Idzai"
     },
     {
       "surface": "נבנה",
-      "gloss": "tivake"
+      "gloss": "tinovaka"
     },
     {
       "surface": "לנו",
-      "gloss": "kwatiri"
+      "gloss": "tegai"
     },
     {
       "surface": "עיר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומגדל",
-      "gloss": "nemadziro ari pamusoro"
+      "gloss": "nedhinda"
     },
     {
       "surface": "וראשו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בשמים",
-      "gloss": "rudenga"
+      "gloss": "matenga"
     },
     {
       "surface": "ונעשה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "kwatiri"
+      "gloss": "zitarire"
     },
     {
       "surface": "שם",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "vasati"
+      "gloss": "kuti ti...-sa"
     },
     {
       "surface": "נפוץ",
-      "gloss": "tataparadzira"
+      "gloss": "tisaparadzwa"
     },
     {
       "surface": "על",
@@ -69,9 +69,13 @@
     },
     {
       "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "הארץ",
       "gloss": "pasi rose"
     }
   ],
-  "timestamp": "2026-09-27T05:07:11.977796023Z",
+  "timestamp": "2026-10-01T05:25:11.027433411Z",
   "model": "glm-5.3"
 }

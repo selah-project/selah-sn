@@ -5,15 +5,19 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 27,
-  "translation": "Vagari vose vezvitsuwa vakashamiswa pauri, namadzimambo avo vakatya zvokutyisa, vakazununguka muzviso ⟨dzavo⟩.",
+  "translation": "Vose vagari venyuzvi vakashamiswa pauri, uye madzimambo avo akatya zvikuru, vakatetetara muzviso chiso.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "vose"
+      "gloss": "Vose"
     },
     {
-      "surface": "יושבי האיים",
-      "gloss": "vagari vezvitsuwa"
+      "surface": "ישבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "venyuzvi"
     },
     {
       "surface": "שממו",
@@ -25,25 +29,25 @@
     },
     {
       "surface": "ומלכיהם",
-      "gloss": "namadzimambo avo"
+      "gloss": "madzimambo avo"
     },
     {
       "surface": "שערו",
-      "gloss": "vakatya zvokutyisa"
+      "gloss": "akatya zvikuru"
     },
     {
       "surface": "שער",
-      "gloss": "zvokutyisa"
+      "gloss": "kutya"
     },
     {
       "surface": "רעמו",
-      "gloss": "vakazununguka"
+      "gloss": "vakatetetara"
     },
     {
       "surface": "פנים",
-      "gloss": "muzviso"
+      "gloss": "chiso"
     }
   ],
-  "timestamp": "2026-09-27T11:11:10.950338245Z",
+  "timestamp": "2026-10-01T05:25:37.133971963Z",
   "model": "glm-5.3"
 }

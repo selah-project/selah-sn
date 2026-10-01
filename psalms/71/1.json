@@ -5,37 +5,33 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 71,
-  "translation": "Ndinunure Erohimu, pakuti madiro auya kusvika pamweya ⟨wangu⟩.",
+  "translation": "Mauri, Yahwe, ndinoteme chivimbo; ngandisashamede nokusingaperi.",
   "tokens": [
     {
-      "surface": "הצילני",
-      "gloss": "Ndinunure"
+      "surface": "בך",
+      "gloss": "Mauri"
     },
     {
-      "surface": "אלהים",
-      "gloss": "Erohimu"
+      "surface": "יהוה",
+      "gloss": "Yahwe"
     },
     {
-      "surface": "כי",
-      "gloss": "pakuti"
+      "surface": "חסיתי",
+      "gloss": "ndinoteme chivimbo"
     },
     {
-      "surface": "באו",
-      "gloss": "auya"
+      "surface": "אל",
+      "gloss": "ngandi-"
     },
     {
-      "surface": "מים",
-      "gloss": "madiro"
+      "surface": "אבושה",
+      "gloss": "-sashamede"
     },
     {
-      "surface": "עד",
-      "gloss": "kusvika"
-    },
-    {
-      "surface": "נפש",
-      "gloss": "mweya"
+      "surface": "לעולם",
+      "gloss": "nokusingaperi"
     }
   ],
-  "timestamp": "2026-09-27T09:05:57.472807284Z",
+  "timestamp": "2026-10-01T05:25:56.451770287Z",
   "model": "glm-5.3"
 }

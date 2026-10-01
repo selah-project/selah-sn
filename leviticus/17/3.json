@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sn",
   "chapter": 17,
-  "translation": "Munhu nomunhu wobva mumba yaIsraeri, anocheka ⟨את⟩ mombe kana gwai kana mbudzi mumusasa, kana anocheka kunze kwemusasa,",
+  "translation": "Munhu nomunhu wemumba yaIsraeri, anocheka nzombe kana mwaku kana mbudzi muchitokisi, kana anocheka ⟨kunze⟩ kwechitokisi —",
   "tokens": [
     {
       "surface": "איש",
@@ -17,28 +17,23 @@
     },
     {
       "surface": "מבית",
-      "gloss": "wobva mumba"
+      "gloss": "wemumba"
     },
     {
       "surface": "ישראל",
-      "gloss": "yaIsraeri"
+      "gloss": "Israeri"
     },
     {
       "surface": "אשר",
-      "gloss": "uyo"
+      "gloss": "ano"
     },
     {
       "surface": "ישחט",
       "gloss": "anocheka"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "mombe kana gwai kana mbudzi"
-    },
-    {
       "surface": "שור",
-      "gloss": "mombe"
+      "gloss": "nzombe"
     },
     {
       "surface": "או",
@@ -46,7 +41,7 @@
     },
     {
       "surface": "כשב",
-      "gloss": "gwai"
+      "gloss": "mwaku"
     },
     {
       "surface": "או",
@@ -58,7 +53,7 @@
     },
     {
       "surface": "במחנה",
-      "gloss": "mumusasa"
+      "gloss": "muchitokisi"
     },
     {
       "surface": "או",
@@ -66,7 +61,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "uyo"
+      "gloss": "ano"
     },
     {
       "surface": "ישחט",
@@ -78,9 +73,9 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "kwemusasa"
+      "gloss": "chitokisi"
     }
   ],
-  "timestamp": "2026-09-27T10:50:54.186939114Z",
+  "timestamp": "2026-10-01T05:25:07.464201198Z",
   "model": "glm-5.3"
 }

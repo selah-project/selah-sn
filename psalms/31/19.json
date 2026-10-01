@@ -5,50 +5,45 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 31,
-  "translation": "Ngadzimenwe ⟨את⟩ milomo yenhema, iyo inotaura makuhwa pamusoro pemutsva, mukudzwa nekushora.",
+  "translation": "Mazumuromo enyepi ngavaome, anotaura zvinomashura pamusoro pemururami, mukuzvikudza nokushora.",
   "tokens": [
     {
       "surface": "תאלמנה",
-      "gloss": "ngadzimenwe"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "milomo yenhema"
+      "gloss": "ngavaome"
     },
     {
       "surface": "שפתי",
-      "gloss": "milomo"
+      "gloss": "mazumuromo"
     },
     {
       "surface": "שקר",
-      "gloss": "yenhema"
+      "gloss": "enyepi"
     },
     {
       "surface": "הדברות",
-      "gloss": "inotaura"
+      "gloss": "anotaura"
     },
     {
       "surface": "על",
-      "gloss": "kune avo vanokutya"
+      "gloss": "pamusoro pa"
     },
     {
       "surface": "צדיק",
-      "gloss": "mutsva"
+      "gloss": "mururami"
     },
     {
       "surface": "עתק",
-      "gloss": "makuhwa makuru"
+      "gloss": "zvinomashura"
     },
     {
       "surface": "בגאוה",
-      "gloss": "mukudzwa"
+      "gloss": "mukuzvikudza"
     },
     {
       "surface": "ובוז",
-      "gloss": "nekushora"
+      "gloss": "nokushora"
     }
   ],
-  "timestamp": "2026-09-27T11:15:16.168896403Z",
+  "timestamp": "2026-10-01T05:25:37.899178284Z",
   "model": "glm-5.3"
 }

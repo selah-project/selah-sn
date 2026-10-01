@@ -5,20 +5,15 @@
   "book": "lamentations",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Kubva mudenga akatuma ⟨את⟩ moto mumabhonzo angu, ndokuidzikisa; akayarira duta netsoka dzangu, akandidzorera shure, akandiisa kurima kwakafanira kugara, mazuva ose ndiri kurwara.",
+  "translation": "Kubva pamusoro akatuma ⟨moto⟩ muzvapupu zvangu, uye akuidzikisa; akatambanura ⟨dhamhu⟩ nokutsvako zvangu, akandidzosera shure; akandisvetuka kushayiwa chinhu, nhengu dzose ndiri kurwara.",
   "tokens": [
     {
       "surface": "ממרום",
-      "gloss": "kubva mudenga"
+      "gloss": "Kubva pamusoro"
     },
     {
       "surface": "שלח",
       "gloss": "akatuma"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "moto"
     },
     {
       "surface": "אש",
@@ -26,27 +21,27 @@
     },
     {
       "surface": "בעצמתי",
-      "gloss": "mumabhonzo angu"
+      "gloss": "muzvapupu zvangu"
     },
     {
       "surface": "וירדנה",
-      "gloss": "ndokuidzikisa"
+      "gloss": "uye akuidzikisa"
     },
     {
       "surface": "פרש",
-      "gloss": "akayarira"
+      "gloss": "akatambanura"
     },
     {
       "surface": "רשת",
-      "gloss": "duta"
+      "gloss": "dhamhu"
     },
     {
       "surface": "לרגלי",
-      "gloss": "netsoka dzangu"
+      "gloss": "nokutsvako zvangu"
     },
     {
       "surface": "השיבני",
-      "gloss": "akandidzorera"
+      "gloss": "akandidzosera shure"
     },
     {
       "surface": "אחור",
@@ -54,25 +49,25 @@
     },
     {
       "surface": "נתנני",
-      "gloss": "akandiisa"
+      "gloss": "akandisvetuka"
     },
     {
       "surface": "שממה",
-      "gloss": "kurima kwakafanira kugara"
+      "gloss": "kushayiwa chinhu"
     },
     {
       "surface": "כל",
-      "gloss": "ose"
+      "gloss": "nhengu dzose"
     },
     {
       "surface": "היום",
-      "gloss": "mazuva"
+      "gloss": "dzose"
     },
     {
       "surface": "דוה",
       "gloss": "ndiri kurwara"
     }
   ],
-  "timestamp": "2026-09-27T09:51:22.365342102Z",
+  "timestamp": "2026-10-01T05:25:58.535296252Z",
   "model": "glm-5.3"
 }

@@ -5,94 +5,115 @@
   "book": "2-kings",
   "lang": "sn",
   "chapter": 20,
-  "translation": "Dzoka, uye utaure neChizkiyahu, mutungamiri wevanhu vangu: Zvakadaro Yahwe, Erohimu waDhavhidhi baba wako: ndanzwa munamato wako, ndaona misodzi yako; tarira, ndinoporesa iwe; nenguva yechitatuuchawedzera makumi mashanu emakore; uye nokubva mumaoko emambo weAshuru ndichakudzikinura iwe ne⟨את⟩ iguta iri, ⟨את⟩ uye ndichachengetedza iguta iri nokuda kwangu, nokuda kwaDhavhidhi mutori wangu.",
+  "translation": "Dzoka, uye utaure naChizkiyahu, mutungamiri wevanhu vangu: Zvino ndotaura Yahwe, Erohimu waDhavhidhi baba wako: ndanzwa ⟨את⟩ minamato yako, ndaona ⟨את⟩ misozi yako; tarira, ndinoporesa iwe; nomuzuva rechitatuucha mumba yaYahwe.",
   "tokens": [
     {
-      "surface": "והספתי",
-      "gloss": "ndichawedzera"
+      "surface": "שוב",
+      "gloss": "Dzoka"
     },
     {
-      "surface": "על",
-      "gloss": "pa"
+      "surface": "ואמרת",
+      "gloss": "uye utaure"
     },
     {
-      "surface": "ימיך",
-      "gloss": "mazuva ako"
+      "surface": "אל",
+      "gloss": "na"
     },
     {
-      "surface": "חמש",
-      "gloss": "shanu"
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
     },
     {
-      "surface": "עשרה",
-      "gloss": "(gumi) — makumi mashanu pamwechete"
+      "surface": "נגיד",
+      "gloss": "mutungamiri"
     },
     {
-      "surface": "שנה",
-      "gloss": "emakore"
+      "surface": "עמי",
+      "gloss": "wevanhu vangu"
     },
     {
-      "surface": "ומכף",
-      "gloss": "uye nokubva mumaoko"
+      "surface": "כה",
+      "gloss": "Zvino"
     },
     {
-      "surface": "מלך",
-      "gloss": "emambo"
+      "surface": "אמר",
+      "gloss": "ndotaura"
     },
     {
-      "surface": "אשור",
-      "gloss": "weAshuru"
+      "surface": "יהוה",
+      "gloss": "Yahwe"
     },
     {
-      "surface": "אצילך",
-      "gloss": "ndichakudzikinura iwe"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "ne⟨את⟩",
-      "marks": "iguta iri"
-    },
-    {
-      "surface": "העיר",
-      "gloss": "iguta"
-    },
-    {
-      "surface": "הזאת",
-      "gloss": "iri"
-    },
-    {
-      "surface": "וגנותי",
-      "gloss": "uye ndichachengetedza"
-    },
-    {
-      "surface": "על",
-      "gloss": "pa"
-    },
-    {
-      "surface": "העיר",
-      "gloss": "iguta"
-    },
-    {
-      "surface": "הזאת",
-      "gloss": "⟨את⟩ iri"
-    },
-    {
-      "surface": "למעני",
-      "gloss": "nokuda kwangu"
-    },
-    {
-      "surface": "ולמען",
-      "gloss": "uye nokuda"
+      "surface": "אלהי",
+      "gloss": "Erohimu"
     },
     {
       "surface": "דוד",
-      "gloss": "Dhavhidhi"
+      "gloss": "waDhavhidhi"
     },
     {
-      "surface": "עבדי",
-      "gloss": "mutori wangu"
+      "surface": "אביך",
+      "gloss": "baba wako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ndanzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minamato yako"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "minamato yako"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ndaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misozi yako"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "misozi yako"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tarira"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ndinoporesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nomuzuva"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "rechitatu"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ucha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mumba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "yaYahwe"
     }
   ],
-  "timestamp": "2026-09-27T11:02:49.581934957Z",
+  "timestamp": "2026-10-01T05:25:45.447656906Z",
   "model": "glm-5.3"
 }

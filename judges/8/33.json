@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "sn",
   "chapter": 8,
-  "translation": "Zvino zvakaitika, Gidheoni apo afa, vakadzoka vana vaIsiraeri vakazviita nhore dzinotevera maBhaari, uye vakazviisavari Bhaari-Bheriti somwari.",
+  "translation": "Zvino zvakaita, Gidhioni apo afa, vana veIsraeri vakadzoka, vakaita hure achitevedza vaBaari, uye vakave chisarudzo chaavo Baari-Beriti ave mwari wavo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "zvakaitika"
+      "gloss": "Zvino zvakaita"
     },
     {
       "surface": "כאשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גדעון",
-      "gloss": "Gidheoni"
+      "gloss": "Gidhioni"
     },
     {
       "surface": "וישובו",
@@ -33,37 +33,41 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "vaIsiraeri"
+      "gloss": "veIsraeri"
     },
     {
       "surface": "ויזנו",
-      "gloss": "vakazviita nhore"
+      "gloss": "vakaita hure"
     },
     {
       "surface": "אחרי",
-      "gloss": "dzinotevera"
+      "gloss": "achitevedza"
     },
     {
       "surface": "הבעלים",
-      "gloss": "maBhaari"
+      "gloss": "vaBaari"
     },
     {
       "surface": "וישימו",
-      "gloss": "vakazviisa"
+      "gloss": "vakave chisarudzo"
     },
     {
       "surface": "להם",
-      "gloss": "vari"
+      "gloss": "chaavo"
     },
     {
-      "surface": "בעל ברית",
-      "gloss": "Bhaari-Bheriti"
+      "surface": "בעל",
+      "gloss": "Baari"
     },
     {
-      "surface": "לאלהים",
-      "gloss": "somwari"
+      "surface": "ברית",
+      "gloss": "Beriti"
+    },
+    {
+      "surface": "לאלהim",
+      "gloss": "ave mwari wavo"
     }
   ],
-  "timestamp": "2026-09-27T06:34:47.967437283Z",
+  "timestamp": "2026-10-01T05:25:14.221229657Z",
   "model": "glm-5.3"
 }

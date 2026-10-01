@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sn",
   "chapter": 21,
-  "translation": "Dhavhidhi akati kuna Ahimeleki mupristi: Mambo wakandidavira chinhu, akati kundiri: Munhu ngaare kuziva chinhu chiri ⟨את⟩ chandinokutumira nacho, ⟨את⟩ uye izvo ndakakudavira; ndinozivisa ⟨את⟩ vechidiki kuti agare panzvimbo inonzi ⟨uyo-uyo⟩.",
+  "translation": "Dhavhidhi akati kwaAkhimeleki muprista: Mambo wandidayira ⟨את⟩ basa, akati kunditi: Munhu asazive chero chinhu ⟨את⟩ basa ndinokutumira nazvo, nenzimwe ya ndakakudayira; ⟨את⟩ vakomana ndinoziva — kunzvimbo yokunana-nokunana.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לאחימלך",
-      "gloss": "kuna Ahimeleki"
+      "gloss": "kwaAkhimeleki"
     },
     {
       "surface": "הכהן",
-      "gloss": "mupristi"
+      "gloss": "muprista"
     },
     {
       "surface": "המלך",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "צוני",
-      "gloss": "wakandidavira"
+      "gloss": "wandidayira"
     },
     {
       "surface": "דבר",
-      "gloss": "chinhu"
+      "gloss": "basa"
     },
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "kundiri"
+      "gloss": "kunditi"
     },
     {
       "surface": "איש",
@@ -49,79 +49,75 @@
     },
     {
       "surface": "אל",
-      "gloss": "ngaare"
+      "gloss": "asa"
     },
     {
       "surface": "ידע",
-      "gloss": "kuziva"
+      "gloss": "azive"
     },
     {
       "surface": "מאומה",
-      "gloss": "chinhu (chero chidiki)"
+      "gloss": "chero chinhu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chinhu chiri"
+      "marks": "basa"
     },
     {
       "surface": "הדבר",
-      "gloss": "chinhu chiri"
+      "gloss": "basa"
     },
     {
       "surface": "אשר",
-      "gloss": "chandinokutumira nacho"
+      "gloss": "ndinokutumira nazvo"
     },
     {
       "surface": "אנכי",
-      "gloss": "ini"
+      "gloss": "ndi"
     },
     {
       "surface": "שלחך",
       "gloss": "ndinokutumira"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "uye izvo"
+      "surface": "ואשר",
+      "gloss": "nenzimwe ya"
     },
     {
       "surface": "צויתך",
-      "gloss": "ndakakudavira"
-    },
-    {
-      "surface": "ואשר",
-      "gloss": "uye izvo"
+      "gloss": "ndakakudayira"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "vechidiki"
+      "marks": "vakomana"
     },
     {
       "surface": "הנערים",
-      "gloss": "vechidiki"
+      "gloss": "vakomana"
     },
     {
       "surface": "יודעתי",
-      "gloss": "ndinozivisa"
+      "gloss": "ndinoziva"
     },
     {
       "surface": "אל",
-      "gloss": "kuti"
+      "gloss": "ku"
     },
     {
       "surface": "מקום",
-      "gloss": "panzvimbo"
+      "gloss": "nzvimbo"
     },
     {
       "surface": "פלני",
-      "gloss": "inonzi"
+      "gloss": "kunana-nokunana"
     },
     {
       "surface": "אלמוני",
-      "gloss": "uyo-uyo"
+      "gloss": "kunana-nokunana"
     }
   ],
-  "timestamp": "2026-09-27T06:50:01.754695004Z",
+  "timestamp": "2026-10-01T05:24:48.824420995Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 25,
-  "translation": "Wegumipfumbamwe kuMaroti, iye, vana vake nehama dzake, vaiva guminaviri:",
+  "translation": "Wechipfumbamwe-nemapfumbamwe kuna Marothi, iye, vana vake nehanzvadzi dzake, vaiva gumi nevaviri.",
   "tokens": [
     {
       "surface": "לתשעה",
-      "gloss": "Wegumipfumbamwe"
+      "gloss": "wechipfumbamwe"
     },
     {
       "surface": "עשר",
-      "gloss": "⟨-pfumbamwe⟩"
+      "gloss": "nemapfumbamwe"
     },
     {
       "surface": "למלותי",
-      "gloss": "kuMaroti"
+      "gloss": "kuna Marothi"
     },
     {
       "surface": "בניו",
@@ -25,13 +25,17 @@
     },
     {
       "surface": "ואחיו",
-      "gloss": "nehama dzake"
+      "gloss": "nehanzvadzi dzake"
     },
     {
       "surface": "שנים",
-      "gloss": "guminaviri"
+      "gloss": "vaviri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gumi"
     }
   ],
-  "timestamp": "2026-09-27T10:26:18.135085902Z",
+  "timestamp": "2026-10-01T05:26:14.857142908Z",
   "model": "glm-5.3"
 }

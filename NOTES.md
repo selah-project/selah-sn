@@ -860,3 +860,5 @@ book directories and said they were "the tail of the Ketuvim, which matches the
 really were absent — **but it implied a sequential burn, and the burn is not
 sequential across books any more than it is within them.** The known law was the
 narrower one.
+
+- **Gen 28:20** (2026-10-01, the pre-seating clean): `ובגד ללבש` *clothing to wear* came back `bhembe rokufunga` — *kufunga* is "to think"; *kufuka* "to wear". Re-press.

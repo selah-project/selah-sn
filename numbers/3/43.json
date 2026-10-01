@@ -5,47 +5,47 @@
   "book": "numbers",
   "lang": "sn",
   "chapter": 3,
-  "translation": "Uye makoro ekutanga ose echirume, muverengerowmazita, kubva pamwana wemwedzi mumwe nokumusoro, eavakaverengwa, aiva mazana maviri nemakumi maviri zviuru, nomwe namakumi manomwe nezana rimwe nomwe negumi rimwe netatu.",
+  "translation": "Uye vakatanga kuzvarwa vose vechirume, pakuverengwa mazita avo, kubura pamwana wemwedzi zvichikwira, pavakaverengwa, hwaiti zviuru makumi maviri nemaviri, mazana maviri, makumi manomwe natatu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "aiva"
+      "gloss": "hwaiti"
     },
     {
       "surface": "כל",
-      "gloss": "ose"
+      "gloss": "vose"
     },
     {
       "surface": "בכור",
-      "gloss": "makoro ekutanga"
+      "gloss": "vakatanga kuzvarwa"
     },
     {
       "surface": "זכר",
-      "gloss": "echirume"
+      "gloss": "vechirume"
     },
     {
       "surface": "במספר",
-      "gloss": "muverengero we"
+      "gloss": "pakuverengwa"
     },
     {
       "surface": "שמות",
-      "gloss": "mazita"
+      "gloss": "mazita avo"
     },
     {
       "surface": "מבן",
-      "gloss": "kubva pamwana we"
+      "gloss": "kubura pamwana we"
     },
     {
       "surface": "חדש",
-      "gloss": "mwedzi mumwe"
+      "gloss": "mwedzi"
     },
     {
       "surface": "ומעלה",
-      "gloss": "nokumusoro"
+      "gloss": "zvichikwira"
     },
     {
       "surface": "לפקדיהם",
-      "gloss": "eavakaverengwa"
+      "gloss": "pavakaverengwa"
     },
     {
       "surface": "שנים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ועשרים",
-      "gloss": "nemakumi maviri"
+      "gloss": "nemakumi"
     },
     {
       "surface": "אלף",
@@ -61,9 +61,17 @@
     },
     {
       "surface": "שלשה",
-      "gloss": "nomwe namakumi manomwe nezana rimwe nomwe negumi rimwe netatu"
+      "gloss": "natatu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "makumi manomwe"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "mazana maviri"
     }
   ],
-  "timestamp": "2026-09-27T05:53:37.593850918Z",
+  "timestamp": "2026-10-01T05:25:15.689554828Z",
   "model": "glm-5.3"
 }

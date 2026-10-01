@@ -5,19 +5,23 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 11,
-  "translation": "Uye vashanda-zvakanaka vemauto vairipo: Ashaeri mukoma waYowavu, Erchanani mukomana waDhodho, weBeti-Rehemu.",
+  "translation": "Uye vanopiwa simba revamasipe vemauto: Asaeri mukoma waYoabu, Erihananu mwanakomana waDodo, muBeitirehemu.",
   "tokens": [
     {
       "surface": "וגבורי",
-      "gloss": "uye vashanda-zvakanaka"
+      "gloss": "Uye vanopiwa simba"
     },
     {
       "surface": "החילים",
-      "gloss": "vemauto"
+      "gloss": "revamasipe vemauto"
     },
     {
       "surface": "עשה",
-      "gloss": "Ashaeri"
+      "gloss": "Asae-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ri"
     },
     {
       "surface": "אחי",
@@ -25,29 +29,29 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Yowavu"
+      "gloss": "Yoabu"
     },
     {
       "surface": "אלחנן",
-      "gloss": "Erchanani"
+      "gloss": "Erihananu"
     },
     {
       "surface": "בן",
-      "gloss": "mukomana wa"
+      "gloss": "mwanakomana wa"
     },
     {
       "surface": "דודו",
-      "gloss": "Dhodho"
+      "gloss": "Dodo"
     },
     {
       "surface": "מבית",
-      "gloss": "weBeti-"
+      "gloss": "mu"
     },
     {
       "surface": "לחם",
-      "gloss": "Rehemu"
+      "gloss": "Beitirehemu"
     }
   ],
-  "timestamp": "2026-09-27T10:20:56.299071425Z",
+  "timestamp": "2026-10-01T05:26:10.034337677Z",
   "model": "glm-5.3"
 }

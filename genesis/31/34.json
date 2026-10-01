@@ -5,53 +5,48 @@
   "book": "genesis",
   "lang": "sn",
   "chapter": 31,
-  "translation": "Rachero aga ⟨את⟩ atora ⟨את⟩ madhhirafimu, akaaisa mumusoro wegamhari, akagara pamusoro pawo; ⟨את⟩ Labhani akataura nemaoko ⟨את⟩ ose atende, asi haana kuwana.",
+  "translation": "Rachiya akatora ⟨את⟩ zvifananidzo (terafimu), aka isa mubharavha hwengamira, okagara pamusoro pazvo; Labhani akavhundunza ⟨את⟩ chitende chose, asi haana kuwana.",
   "tokens": [
     {
-      "surface": "וורחל",
-      "gloss": "Rachero",
-      "note": null
-    },
-    {
       "surface": "ורחל",
-      "gloss": "Rachero"
+      "gloss": "Rachiya"
     },
     {
       "surface": "לקחה",
-      "gloss": "atora"
+      "gloss": "akatora"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "madhhirafimu"
+      "marks": "zvifananidzo (terafimu)"
     },
     {
       "surface": "התרפים",
-      "gloss": "madhhirafimu"
+      "gloss": "zvifananidzo (terafimu)"
     },
     {
       "surface": "ותשמם",
-      "gloss": "akaaisa"
+      "gloss": "aka isa"
     },
     {
       "surface": "בכר",
-      "gloss": "mumusoro wegamhari"
+      "gloss": "mubharavha"
     },
     {
       "surface": "הגמל",
-      "gloss": "wegamhari"
+      "gloss": "hwengamira"
     },
     {
       "surface": "ותשב",
-      "gloss": "akagara"
+      "gloss": "okagara"
     },
     {
       "surface": "עליהם",
-      "gloss": "pamusoro pawo"
+      "gloss": "pamusoro pazvo"
     },
     {
       "surface": "וימשש",
-      "gloss": "akataura nemaoko"
+      "gloss": "akavhundunza"
     },
     {
       "surface": "לבן",
@@ -60,25 +55,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "atende ose"
+      "marks": "chitende chose"
     },
     {
       "surface": "כל",
-      "gloss": "ose"
+      "gloss": "chose"
     },
     {
       "surface": "האהל",
-      "gloss": "atende"
+      "gloss": "chitende"
     },
     {
       "surface": "ולא",
-      "gloss": "asi haana"
+      "gloss": "asi"
     },
     {
       "surface": "מצא",
-      "gloss": "kuwana"
+      "gloss": "haana kuwana"
     }
   ],
-  "timestamp": "2026-09-27T05:16:20.922374087Z",
+  "timestamp": "2026-10-01T05:24:42.291494968Z",
   "model": "glm-5.3"
 }

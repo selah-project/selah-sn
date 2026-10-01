@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sn",
   "chapter": 26,
-  "translation": "Dhavhidhi akapindura akati kuna Ahimelekhi muHitite, nokuna Abhishai mukoma waTserujah, mukoma waJohabhu, achiti: Ndiani anodzika ⟨את⟩ neni kuna Shaure, kune musasa? Abhishai akati: Ndinodzika newe.",
+  "translation": "Dhavhidhi akapindura akati kuna Achimeleki Muhiti, nokuna Abhishai mukomana waTserujah, munin'ina waYowabhu, kuti: “Ndiani anodzika ⟨את⟩ neni kuna Shauru, kumisasa?” Abhishai akati: “Ini ndinodzika newe.”",
   "tokens": [
     {
       "surface": "ויען",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אחימלך",
-      "gloss": "Ahimelekhi"
+      "gloss": "Achimeleki"
     },
     {
       "surface": "החתי",
-      "gloss": "muHitite"
+      "gloss": "Muhiti"
     },
     {
       "surface": "ואל",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "בן",
-      "gloss": "mukoma"
+      "gloss": "mukomana wa"
     },
     {
       "surface": "צרויה",
-      "gloss": "waTserujah"
+      "gloss": "Tserujah"
     },
     {
       "surface": "אחי",
-      "gloss": "mukoma"
+      "gloss": "munin'ina wa"
     },
     {
       "surface": "יואב",
-      "gloss": "waJohabhu"
+      "gloss": "Yowabhu"
     },
     {
       "surface": "לאמר",
-      "gloss": "achiti"
+      "gloss": "kuti"
     },
     {
       "surface": "מי",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ neni"
+      "gloss": "⟨את⟩ neni",
+      "marks": "neni"
     },
     {
       "surface": "אל",
@@ -77,15 +78,15 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaure"
+      "gloss": "Shauru"
     },
     {
       "surface": "אל",
-      "gloss": "kune"
+      "gloss": "ku"
     },
     {
       "surface": "המחנה",
-      "gloss": "musasa"
+      "gloss": "misasa"
     },
     {
       "surface": "ויאמר",
@@ -97,13 +98,17 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ndinodzika"
+      "gloss": "Ini"
     },
     {
       "surface": "ארד",
+      "gloss": "ndinodzika"
+    },
+    {
+      "surface": "עמך",
       "gloss": "newe"
     }
   ],
-  "timestamp": "2026-09-27T06:53:26.089291184Z",
+  "timestamp": "2026-10-01T05:55:39.941441826Z",
   "model": "glm-5.3"
 }

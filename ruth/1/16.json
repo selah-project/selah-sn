@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Rute akati: Usandivhiringidze kusiya iwe, kudzoka kumashure kwako; nokuti kwaunoduva, ndinoduva, uko unogara, ndinogara; vanhu vako vanhu vangu, uye Erohimu wako Erohimu wangu.",
+  "translation": "Ruti akati: Undomanyikirira kundisiya iwe kana kudzoka kumashure kwako; nokuti kwauri kuenda, ndiko ndichakuendako; uye kwauri gochera, ndiko ndichagocherako; vanhu vako ndivanhu vangu, uye Erohimu vako ndiErohimu vangu.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -13,19 +13,23 @@
     },
     {
       "surface": "רות",
-      "gloss": "Rute"
+      "gloss": "Ruti"
     },
     {
       "surface": "אל",
-      "gloss": "usa"
+      "gloss": "Undo"
     },
     {
-      "surface": "תפגעי בי",
-      "gloss": "sandivhiringidze"
+      "surface": "תפגעי",
+      "gloss": "manyikirira"
+    },
+    {
+      "surface": "בי",
+      "gloss": "panguva ino"
     },
     {
       "surface": "לעזבך",
-      "gloss": "kusiya iwe"
+      "gloss": "kundisiya iwe"
     },
     {
       "surface": "לשוב",
@@ -45,27 +49,27 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kunova"
+      "gloss": "uri"
     },
     {
       "surface": "תלכי",
-      "gloss": "unoduva"
+      "gloss": "kuenda"
     },
     {
       "surface": "אלך",
-      "gloss": "ndinoduva"
+      "gloss": "ndichakuendako"
     },
     {
       "surface": "ובאשר",
-      "gloss": "ukova"
+      "gloss": "uye kwa"
     },
     {
       "surface": "תליני",
-      "gloss": "unogara"
+      "gloss": "gochera"
     },
     {
       "surface": "אלין",
-      "gloss": "ndinogara"
+      "gloss": "ndichagocherako"
     },
     {
       "surface": "עמך",
@@ -77,13 +81,13 @@
     },
     {
       "surface": "ואלהיך",
-      "gloss": "Erohimu wako"
+      "gloss": "Erohimu vako"
     },
     {
       "surface": "אלהי",
-      "gloss": "Erohimu wangu"
+      "gloss": "Erohimu vangu"
     }
   ],
-  "timestamp": "2026-09-27T09:49:12.218694897Z",
+  "timestamp": "2026-10-01T05:25:57.780364554Z",
   "model": "glm-5.3"
 }

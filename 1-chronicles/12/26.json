@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 12,
-  "translation": "Kubva kuvana vaShimioni, simba rehondo, zviuru zvinomwe nezana rimwe.",
+  "translation": "Kubva kuvana vaShimoni, simba rehondo, zviuru zvinomwe nezana ⟨rimwe⟩.",
   "tokens": [
     {
       "surface": "מן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שמעון",
-      "gloss": "vaShimioni"
+      "gloss": "vaShimoni"
     },
     {
       "surface": "גבורי",
@@ -33,13 +33,17 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "zviuru zvinomwe"
+      "gloss": "zvinomwe"
     },
     {
       "surface": "אלפים",
-      "gloss": "nezana"
+      "gloss": "zviuru"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "nezana ⟨rimwe⟩"
     }
   ],
-  "timestamp": "2026-09-27T10:22:06.192844614Z",
+  "timestamp": "2026-10-01T05:26:24.901550507Z",
   "model": "glm-5.3"
 }

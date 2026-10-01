@@ -5,24 +5,73 @@
   "book": "exodus",
   "lang": "sn",
   "chapter": 38,
-  "translation": "Uye zvitigiro zvematanda zvaive mhangura; makokodzani ematanda namarusungo avo zvaive silivha; uye kufukidzwa kwemisoro yavo kwaive silivha; uye matanda ose echivanze akasungirwa nasilivha.",
+  "translation": "Uye matsigo emitsi yaive mhangura; zvinamatiro zvemitsi netsinga dzadzo zvaive silivha, uye kufukidzwa kwemisoro yadzo zvaive silivha; uye iwo meltsi yakanga yakatsingiswa silivha — mitsi yose yechiteverari.",
   "tokens": [
     {
       "surface": "והאדנים",
-      "gloss": "uye zvitigiro"
+      "gloss": "uye matsigo"
     },
     {
       "surface": "לעמדים",
-      "gloss": "zvematanda"
+      "gloss": "emitsi"
     },
     {
       "surface": "נחשת",
       "gloss": "mhangura"
     },
     {
-      "surface": "וכו"
+      "surface": "ווי",
+      "gloss": "zvinamatiro zvemitsi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "⟨emitsi⟩"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "netsinga dzadzo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silivha"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "kufukidzwa"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kwemisoro yadzo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silivha"
+    },
+    {
+      "surface": "והם",
+      "gloss": "uye iwo"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "yakatsingiswa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silivha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yose"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mitsi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "yechiteverari"
     }
   ],
-  "timestamp": "2026-09-27T05:39:22.301505281Z",
+  "timestamp": "2026-10-01T05:24:54.288716312Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,19 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 32,
-  "translation": "Nokuti Yahwe achatonga ⟨את⟩ vanhu vake, achanyaradzirwa pavari kunevaranda vake; nokuti achawona kuti ruoko rwakashomeka, uye hapuna akavharwa kana kusiwa.",
+  "translation": "Nokuti Yahwe achadzoverera ⟨את⟩ vanhu vake, uye acharegerera varanda vake, pamwe achazoona kuti ruoko rwarasikira, uye hapana asungwa kana wasaradzwa.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nokuti"
+      "gloss": "Nokuti"
     },
     {
       "surface": "ידין",
-      "gloss": "achatonga"
+      "gloss": "achadzoverera"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "vanhu vake"
     },
     {
       "surface": "עמו",
@@ -30,7 +25,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "uye kune"
+      "gloss": "uye"
     },
     {
       "surface": "עבדיו",
@@ -38,15 +33,15 @@
     },
     {
       "surface": "יתנחם",
-      "gloss": "achanyaradzirwa"
+      "gloss": "acharegerera"
     },
     {
       "surface": "כי",
-      "gloss": "nokuti"
+      "gloss": "pamwe"
     },
     {
       "surface": "יראה",
-      "gloss": "achawona"
+      "gloss": "achazoona"
     },
     {
       "surface": "כי",
@@ -54,7 +49,7 @@
     },
     {
       "surface": "אזלת",
-      "gloss": "rwakashomeka"
+      "gloss": "rwarasikira"
     },
     {
       "surface": "יד",
@@ -62,17 +57,17 @@
     },
     {
       "surface": "ואפס",
-      "gloss": "uye hapuna"
+      "gloss": "uye hapana"
     },
     {
       "surface": "עצור",
-      "gloss": "akavharwa"
+      "gloss": "asungwa"
     },
     {
       "surface": "ועזוב",
-      "gloss": "kana kusiwa"
+      "gloss": "kana wasaradzwa"
     }
   ],
-  "timestamp": "2026-09-27T06:21:06.430871008Z",
+  "timestamp": "2026-10-01T05:24:49.844964924Z",
   "model": "glm-5.3"
 }

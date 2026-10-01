@@ -5,153 +5,37 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 25,
-  "translation": "Wemakumi maviri nemotsi, Gidaruti, vanhu vake neumwe hama yavo vaviri; vhiki ivo vakanga vasingapiwa; nomuunganidzwa wemadzinza avo akafanira maera",
+  "translation": "Wemakumi maviri nemaviri Gidharuti, ⟨vane⟩ vanakomana vake nehama dzake — vanga vamakumi gumi uye maviri.",
   "tokens": [
     {
-      "surface": "ויהי",
-      "gloss": "vakanga"
+      "surface": "לשנים",
+      "gloss": "wemakumi maviri nemaviri"
     },
     {
-      "surface": "מִזְרָעָם",
-      "gloss": "umwe hama yavo"
+      "surface": "ועשרים",
+      "gloss": "nemaviri"
     },
     {
-      "surface": "בְּנֵי־אָסָף",
-      "gloss": "vana vaAsafu"
+      "surface": "לגדלתי",
+      "gloss": "Gidharuti"
     },
     {
-      "surface": "הַשָּׁלִישׁ",
-      "gloss": "vachidavirira vechitatu"
+      "surface": "בניו",
+      "gloss": "vanakomana vake"
     },
     {
-      "surface": "לְמַלְכִּיָּהוּ",
-      "gloss": "kuMalkiyahu"
+      "surface": "ואחיו",
+      "gloss": "nehama dzake"
     },
     {
-      "surface": "לְנַתַנְיָהוּ",
-      "gloss": "kuNatanhayu"
+      "surface": "שנים",
+      "gloss": "maviri"
     },
     {
-      "surface": "וּלַעֲבְדֵדָרָם",
-      "gloss": "vakuAbhedhedharamu"
-    },
-    {
-      "surface": "וְזַכּוּר",
-      "gloss": "nekuti Zakhuri"
-    },
-    {
-      "surface": "וְיְשַׁבְעַשׂ",
-      "gloss": "nelayo Yeshabhasu"
-    },
-    {
-      "surface": "בְּנֵי",
-      "gloss": "vana"
-    },
-    {
-      "surface": "אָסָף",
-      "gloss": "vaAsafu"
-    },
-    {
-      "surface": "בְּמִזְמוֹר",
-      "gloss": "nendimbwi"
-    },
-    {
-      "surface": "לְמַלְכִּיָּה",
-      "gloss": "Malkiyahu"
-    },
-    {
-      "surface": "וְעַבְדְנָתָן",
-      "gloss": "Abhedhinatanu"
-    },
-    {
-      "surface": "הַשֵּׁשִׁי",
-      "gloss": "vechitanhatu"
-    },
-    {
-      "surface": "עַל־יְמִינוֹ",
-      "gloss": "parutivi rwerudyi rwake"
-    },
-    {
-      "surface": "וּבְנֵיהוּ",
-      "gloss": "navana vake"
-    },
-    {
-      "surface": "חֲנַנְיָה",
-      "gloss": "Hananyahu"
-    },
-    {
-      "surface": "וּזְרַמְיָה",
-      "gloss": "nekuti Zeramihayu"
-    },
-    {
-      "surface": "אֲחִי",
-      "gloss": "muzukuru"
-    },
-    {
-      "surface": "אֲבִיָּהוּ",
-      "gloss": "Abhiyahu"
-    },
-    {
-      "surface": "אֲבִי",
-      "gloss": "muzukuru wa"
-    },
-    {
-      "surface": "נְתַנְאֵל",
-      "gloss": "Netaneri"
-    },
-    {
-      "surface": "אֲבִי",
-      "gloss": "muzukuru wa"
-    },
-    {
-      "surface": "עֲזַרְקָם",
-      "gloss": "Azarikamu"
-    },
-    {
-      "surface": "אֲבִי",
-      "gloss": "muzukuru wa"
-    },
-    {
-      "surface": "שָׁאסָף",
-      "gloss": "Shasafu"
-    },
-    {
-      "surface": "הַשְּׁבִיעִי",
-      "gloss": "vechinomwe"
-    },
-    {
-      "surface": "עַל־יְמִינוֹ",
-      "gloss": "parutivi rwerudyi rwake"
-    },
-    {
-      "surface": "וּבְנֵיהוּ",
-      "gloss": "navana vake"
-    },
-    {
-      "surface": "יְשַׁעְיָהוּ",
-      "gloss": "Yeshayahu"
-    },
-    {
-      "surface": "וּמַתִּתְיָה",
-      "gloss": "nekuti Matithiyahu"
-    },
-    {
-      "surface": "וַעֲזַרְיָהוּ",
-      "gloss": "nelayo Azariyahu"
-    },
-    {
-      "surface": "וּפְנַלְיָהוּ",
-      "gloss": "nekuti Penarihayu"
-    },
-    {
-      "surface": "וִיקֻבְאֵל",
-      "gloss": "nekuti Yikuberu"
-    },
-    {
-      "surface": "הַשְּׁמִינִי",
-      "gloss": "vechinomwe..."
+      "surface": "עשר",
+      "gloss": "gumi uye"
     }
   ],
-  "timestamp": "2026-09-27T10:26:29.180533919Z",
+  "timestamp": "2026-10-01T05:26:10.497304805Z",
   "model": "glm-5.3"
 }

@@ -5,25 +5,61 @@
   "book": "deuteronomy",
   "lang": "sn",
   "chapter": 32,
-  "translation": "Rangarira mazuva ekare; ponganyaridza makore emadzinza nemadzinza; bvunza baba wako, uye achakududzira; vakuru vako, uye vachakuudza.",
+  "translation": "Rangarira mazuva ekare; ponesa mazano emakore emazera nemazera; bvunza baba wako, anokuudza; vakuru vako, vanoti iwe.",
   "tokens": [
     {
-      "surface": "זְכֹר֙",
+      "surface": "זכר",
       "gloss": "Rangarira"
     },
     {
-      "surface": "יְמ֣וֹת",
+      "surface": "ימות",
       "gloss": "mazuva"
     },
     {
-      "surface": "עוֹלָ֔ם",
+      "surface": "עולם",
       "gloss": "ekare"
     },
     {
-      "surface": "בִּ֖ינוּ",
-      "gloss": "pongenyu...pongtest"
+      "surface": "בינו",
+      "gloss": "ponesa mazano"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "emakore"
+    },
+    {
+      "surface": "דור",
+      "gloss": "emazera"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nemazera"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bvunza"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba wako"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "anokuudza"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "vakuru vako"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "vanoti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iwe"
     }
   ],
-  "timestamp": "2026-09-27T06:21:30.901299029Z",
+  "timestamp": "2026-10-01T05:25:28.241873895Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,49 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 50,
-  "translation": "Mwari wedu achauya, asingazvitse; moto pamusoro pechiso chakeuchadya, uye nzvimbo dzose around yake dzichazunza nokushata.",
+  "translation": "Mwari wedu achauya, asi asazonyarara: moto unodya pamberi pake, uye kutenderedza kwake kune dongo risinganyarari ⟨nekukasira⟩.",
   "tokens": [
     {
-      "surface": "יבא",
+      "surface": "יָ֤בֹ֥א",
       "gloss": "achauya"
     },
     {
-      "surface": "אלהינו",
-      "gloss": "Mwari wedu"
+      "surface": "אֱלֹהֵ֗ינוּ",
+      "gloss": "Erohimu wedu"
     },
     {
-      "surface": "ויחרש",
-      "gloss": "asingazvitse"
+      "surface": "וְֽאַל",
+      "gloss": "asi asa"
     },
     {
-      "surface": "אש",
+      "surface": "יֶ֫חֱרַ֥שׁ",
+      "gloss": "zvinyarare"
+    },
+    {
+      "surface": "אֵשׁ",
       "gloss": "moto"
     },
     {
-      "surface": "לפניו",
-      "gloss": "pamusoro pechiso chake"
+      "surface": "לְפָנָ֥יו",
+      "gloss": "pamberi pake"
     },
     {
-      "surface": "תאכל",
-      "gloss": "uchadya"
+      "surface": "תֹּאכֵ֑ל",
+      "gloss": "unodya"
     },
     {
-      "surface": "וסביביו",
-      "gloss": "nzvimbo dzose around yake"
+      "surface": "וּ֝סְבִיבָ֗יו",
+      "gloss": "nokutenderedza kwake"
     },
     {
-      "surface": "נשערה",
-      "gloss": "dzichazunza"
+      "surface": "נִשְׂעֲרָ֥ה",
+      "gloss": "rine dongo"
     },
     {
-      "surface": "מאד",
-      "gloss": "nokushata"
+      "surface": "מְאֹֽד",
+      "gloss": "rakanyanya"
     }
   ],
-  "timestamp": "2026-09-27T09:01:21.374602438Z",
+  "timestamp": "2026-10-01T05:25:28.125080883Z",
   "model": "glm-5.3"
 }

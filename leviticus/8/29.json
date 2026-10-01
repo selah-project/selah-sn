@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "sn",
   "chapter": 8,
-  "translation": "Uye Moshe akatora ⟨את⟩ chifudzo, akazvinyumwadza chinyumwadzo pachiso chaYahwe; chehwe remhumba yezvimiso zvakanga zviri chikamu chaMoshe, sokudzikisidzwa kwaYahwe kuna Moshe.",
+  "translation": "Uye Moshe akatora ⟨את⟩ zamu, akaunza kutsemuka sokutsemukwa pamusoro pechiso chaYahwe, kubva mumwan'a wemazvino okudzikiswa; yakanga iri yevhu raMoshe, sokutsamwira kwaYahwe kuna Moshe.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -18,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chifudzo"
+      "marks": "zamu"
     },
     {
       "surface": "החזה",
-      "gloss": "chifudzo"
+      "gloss": "zamu"
     },
     {
       "surface": "ויניפהו",
-      "gloss": "akazvinyumwadza"
+      "gloss": "akaunza kutsemuka"
     },
     {
       "surface": "תנופה",
-      "gloss": "chinyumwadzo"
+      "gloss": "sokutsemukwa"
     },
     {
       "surface": "לפני",
-      "gloss": "pachiso pa"
+      "gloss": "pamusoro pechiso cha"
     },
     {
       "surface": "יהוה",
@@ -42,33 +42,46 @@
     },
     {
       "surface": "מאיל",
-      "gloss": "chehwe remhumba"
+      "gloss": "kubva mumwan'a"
     },
     {
       "surface": "המלאים",
-      "gloss": "yezvimiso"
+      "gloss": "wemazvino okudzikiswa"
     },
     {
       "surface": "למשה",
-      "gloss": "chaMoshe"
+      "gloss": "raMoshe"
     },
     {
       "surface": "היה",
-      "gloss": "zvakanga zviri"
+      "gloss": "yakanga iri"
     },
     {
       "surface": "למנה",
-      "gloss": "chikamu"
+      "gloss": "yevhu"
     },
     {
       "surface": "כאשר",
-      "gloss": "sokudzikisidzwa"
+      "gloss": "sokutsamwira"
     },
     {
       "surface": "צוה",
-      "gloss": "kwaYahwe"
+      "gloss": "kwakatsamwira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-09-27T05:43:56.520690795Z",
+  "timestamp": "2026-10-01T05:25:10.328825820Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "sn",
   "chapter": 1,
-  "translation": "Solomona akaunganidza zvitima nemabhiza; akawana churu nemazana mana ezvitima, negumi nembiri zviuru zvemabhiza; akazviisa mumaguta ezvitima, netutemambo muYerushalema.",
+  "translation": "Solomoni akaunganidza ⟨את⟩ magariro emabhachi nepamabharavha, uye akava nechuru chimwe nemazana mana magariro emabhachi, nezviuru gumi nembiri mabharavha; akaagadza mumaguta emabhachi, netemu mambo muYerushalema.",
   "tokens": [
     {
       "surface": "ויאסף",
@@ -13,19 +13,23 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Solomona"
+      "gloss": "Solomoni"
     },
     {
       "surface": "רכב",
-      "gloss": "zvitima"
+      "gloss": "magariro emabhachi"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "nepamabharavha"
     },
     {
       "surface": "ויהי",
-      "gloss": "akawana"
+      "gloss": "akava ne"
     },
     {
       "surface": "לו",
-      "gloss": "⟨ndiwe⟩"
+      "gloss": "kwake"
     },
     {
       "surface": "אלף",
@@ -33,23 +37,23 @@
     },
     {
       "surface": "וארבע",
-      "gloss": "ne... mana"
+      "gloss": "nemazana"
     },
     {
       "surface": "מאות",
-      "gloss": "mazana"
+      "gloss": "mana"
     },
     {
       "surface": "רכב",
-      "gloss": "ezvitima"
+      "gloss": "magariro emabhachi"
     },
     {
       "surface": "ושנים",
-      "gloss": "negumi nembiri"
+      "gloss": "nezviuru"
     },
     {
       "surface": "עשר",
-      "gloss": "(mbiri)"
+      "gloss": "gumi nembiri"
     },
     {
       "surface": "אלף",
@@ -57,11 +61,11 @@
     },
     {
       "surface": "פרשים",
-      "gloss": "zvemabhiza"
+      "gloss": "mabharavha"
     },
     {
       "surface": "ויניחם",
-      "gloss": "akazviisa"
+      "gloss": "akaagadza"
     },
     {
       "surface": "בערי",
@@ -69,21 +73,21 @@
     },
     {
       "surface": "הרכב",
-      "gloss": "ezvitima"
+      "gloss": "emabhachi"
     },
     {
       "surface": "ועם",
-      "gloss": "ne"
+      "gloss": "netemu"
     },
     {
       "surface": "המלך",
-      "gloss": "temambo"
+      "gloss": "mambo"
     },
     {
       "surface": "בירושלם",
       "gloss": "muYerushalema"
     }
   ],
-  "timestamp": "2026-09-27T10:29:08.078387503Z",
+  "timestamp": "2026-10-01T05:55:32.546751222Z",
   "model": "glm-5.3"
 }

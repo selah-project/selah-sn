@@ -5,33 +5,73 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 41,
-  "translation": "Zvakaitwa pairi, padari reheikari: kerubhi netimora, sokudaro sokwakaitwa kwamadziro; uye hudzamu hwehuni ⟨riri⟩ pachiso cheuranzi, kunze.",
+  "translation": "Uye zvairochwa pazvowo, padzivo dzehaikari, makherubhi nenzira dzemitamba, sokurochwa kwaitwa pamadziro; uye hutsima hwehuni hwaiita ⟨the⟩ chiso che⟨the⟩ egoro kubva kunze.",
   "tokens": [
     {
-      "surface": "וְעָ֥ב",
-      "gloss": "hudzamu"
+      "surface": "ועשויה",
+      "gloss": "zvairochwa"
     },
     {
-      "surface": "עֵ֛ץ",
+      "surface": "אליהן",
+      "gloss": "pazvowo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pa-"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dzivo"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "haikari"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "makherubhi"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "nenzira dzemitamba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sokufanana"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "kurochwa"
+    },
+    {
+      "surface": "לקירות",
+      "gloss": "pamadziro"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "hutsima"
+    },
+    {
+      "surface": "עץ",
       "gloss": "hwehuni"
     },
     {
-      "surface": "אֶל",
-      "gloss": "pa"
+      "surface": "אל",
+      "gloss": "che-"
     },
     {
-      "surface": "פְּנֵ֥י",
+      "surface": "פני",
       "gloss": "chiso"
     },
     {
-      "surface": "הָאוּלָ֖ם",
-      "gloss": "cheuranzi"
+      "surface": "האולם",
+      "gloss": "egoro"
     },
     {
-      "surface": "מֵהַחֽוּץ",
-      "gloss": "kunze"
+      "surface": "מהחוץ",
+      "gloss": "kubva kunze"
     }
   ],
-  "timestamp": "2026-09-27T08:31:18.572147682Z",
+  "timestamp": "2026-10-01T05:26:00.171477554Z",
   "model": "glm-5.3"
 }

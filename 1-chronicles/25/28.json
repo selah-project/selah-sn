@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "sn",
   "chapter": 25,
-  "translation": "Wemotsi nemakumi maviri kuHothiri, iye, vana vake nehama dzake, vaiva guminaviri:",
+  "translation": "Kwemotsi nemakumi maviri, kuna Hothiri, iye, vana vake nehanzvadzi dzake, vanga vari gumi navaviri.",
   "tokens": [
     {
       "surface": "לאחד",
-      "gloss": "Wemotsi"
+      "gloss": "kwemotsi (ne)"
     },
     {
       "surface": "ועשרים",
-      "gloss": "nemakumi maviri"
+      "gloss": "makumi maviri"
     },
     {
       "surface": "להותיר",
-      "gloss": "kuHothiri"
+      "gloss": "kuna Hothiri"
     },
     {
       "surface": "בניו",
@@ -25,13 +25,17 @@
     },
     {
       "surface": "ואחיו",
-      "gloss": "nehama dzake"
+      "gloss": "nehanzvadzi dzake"
     },
     {
       "surface": "שנים",
-      "gloss": "guminaviri"
+      "gloss": "viviri"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(gumi na)vaviri"
     }
   ],
-  "timestamp": "2026-09-27T10:26:18.135718926Z",
+  "timestamp": "2026-10-01T05:26:19.781969457Z",
   "model": "glm-5.3"
 }

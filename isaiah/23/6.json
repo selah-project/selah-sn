@@ -5,25 +5,29 @@
   "book": "isaiah",
   "lang": "sn",
   "chapter": 23,
-  "translation": "Duyai kuTarshisha; rirai, imi vagari vechitsuwa.",
+  "translation": "Dambukai kuTarishishi; rirai, imi vagari ⟨ve⟩chitsuwa.",
   "tokens": [
     {
       "surface": "עברו",
-      "gloss": "Duyai"
+      "gloss": "Dambukai"
     },
     {
       "surface": "תרשישה",
-      "gloss": "kuTarshisha"
+      "gloss": "kuTarishishi"
     },
     {
       "surface": "הילילו",
       "gloss": "rirai"
     },
     {
-      "surface": "יושבי אי",
-      "gloss": "vagari vechitsuwa"
+      "surface": "יושבי",
+      "gloss": "vagari"
+    },
+    {
+      "surface": "אי",
+      "gloss": "chitsuwa"
     }
   ],
-  "timestamp": "2026-09-27T07:35:33.849700291Z",
+  "timestamp": "2026-10-01T05:25:46.337400792Z",
   "model": "glm-5.3"
 }

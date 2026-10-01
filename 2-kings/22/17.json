@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "sn",
   "chapter": 22,
-  "translation": "Nokuti vakandisiya, uye vakapisa fumo kuvamwari vamwe, kuti vandise tsamwise nezvose zvezviito zvamawoko avo; naizvozvo rushusho rwangu rwuchatsva munzvimbo ino, uye haruna kudzima.",
+  "translation": "Nokuti vakandisiya, vakapisa chipfuva kumwari vamwe, vozonditsamwisa nomabasa ose emazvo avo; uye hasha dzenyu — hasha dzaYahwe dzichabvira panzvimbo iyi, uye hazhidzimare.",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": "Nokuti"
+      "gloss": "nokuti"
     },
     {
       "surface": "אשר",
-      "gloss": "nokuti"
+      "gloss": "⟨nokuti⟩"
     },
     {
       "surface": "עזבוני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ויקטרו",
-      "gloss": "vakapisa fumo"
+      "gloss": "vakapisa chipfuva"
     },
     {
       "surface": "לאלהים",
-      "gloss": "kuvamwari"
+      "gloss": "kumwari"
     },
     {
       "surface": "אחרים",
@@ -33,53 +33,49 @@
     },
     {
       "surface": "למען",
-      "gloss": "kuti"
+      "gloss": "vozo"
     },
     {
       "surface": "הכעיסני",
-      "gloss": "vandise tsamwise"
+      "gloss": "onditsamwisa"
     },
     {
       "surface": "בכל",
-      "gloss": "nezvose"
+      "gloss": "noose"
     },
     {
       "surface": "מעשה",
-      "gloss": "zvezviito"
+      "gloss": "mabasa"
     },
     {
       "surface": "ידיהם",
-      "gloss": "zvamawoko avo"
-    },
-    {
-      "surface": "ויקטרו",
-      "gloss": ""
+      "gloss": "emazvo avo"
     },
     {
       "surface": "ונצתה",
-      "gloss": "rwuchatsva"
+      "gloss": "dzaYahwe dzichabvira"
     },
     {
       "surface": "חמתי",
-      "gloss": "rushusho rwangu"
+      "gloss": "hasha dzenyu"
     },
     {
       "surface": "במקום",
-      "gloss": "munzvimbo"
+      "gloss": "panzvimbo"
     },
     {
       "surface": "הזה",
-      "gloss": "ino"
+      "gloss": "iyi"
     },
     {
       "surface": "ולא",
-      "gloss": "uye haruna"
+      "gloss": "uye hazhi"
     },
     {
       "surface": "תכבה",
-      "gloss": "kudzima"
+      "gloss": "dzimare"
     }
   ],
-  "timestamp": "2026-09-27T07:27:17.599709598Z",
+  "timestamp": "2026-10-01T05:25:37.383092185Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "sn",
   "chapter": 44,
-  "translation": "Ndakatumira kwamuri varanda vangu ⟨את⟩ vose vaporofita, ndakamuka mangwananaga ndichitumira, ndichiti: munyarene kuita ⟨את⟩ chinhu chitsvondogedza ichi ndinorwira;",
+  "translation": "Ndakatuma kwamuri ⟨את⟩ vashandi vangu vose vaporofita, ndakamuka mangwananana ndikatumawo, ndichiti: Itai mwoyo, musaite ⟨את⟩ chinhu chakashata ichi chandinorwira.",
   "tokens": [
     {
       "surface": "ואשלח",
-      "gloss": "Ndakatumira"
+      "gloss": "Ndakatuma"
     },
     {
       "surface": "אליכם",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "varanda vangu vose"
+      "marks": "vashandi vangu vose"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "varanda vangu"
+      "gloss": "vashandi vangu"
     },
     {
       "surface": "הנביאים",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "השכים",
-      "gloss": "ndakamuka mangwananaga"
+      "gloss": "ndakamuka mangwananana"
     },
     {
       "surface": "ושלח",
-      "gloss": "ndichitumira"
+      "gloss": "ndikatumawo"
     },
     {
       "surface": "לאמר",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "אל",
-      "gloss": "mukare"
+      "gloss": "musaite"
     },
     {
       "surface": "נא",
-      "gloss": "mune"
+      "gloss": "Itai mwoyo"
     },
     {
       "surface": "תעשו",
-      "gloss": "ita"
+      "gloss": "musaite"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chinhu chitsvondogedza ichi"
+      "marks": "chinhu chakashata ichi"
     },
     {
       "surface": "דבר",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "התעבה",
-      "gloss": "chitsvondogedza"
+      "gloss": "chakashata"
     },
     {
       "surface": "הזאת",
@@ -75,9 +75,13 @@
     },
     {
       "surface": "אשר",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שנאתי",
       "gloss": "ndinorwira"
     }
   ],
-  "timestamp": "2026-09-27T08:10:14.143673262Z",
+  "timestamp": "2026-10-01T05:25:46.849715204Z",
   "model": "glm-5.3"
 }

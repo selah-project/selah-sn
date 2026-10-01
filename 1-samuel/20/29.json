@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "sn",
   "chapter": 20,
-  "translation": "Uye akati: Ndibvise, ndapota, nokuti chibairo chemhuri yedu chiripo muguta, uye mukoma wangu ndiye akandirayira; zvino ndikawana chengetedzo maziso ako, ndibvise, ndapota, ndikaone ⟨את⟩ vavandiki vangu; naizvozvo haana kuuya kuna tafula yamambo.",
+  "translation": "Akati: Ndibvise ndapata, nokuti tine chibairo chemhuri yedu muguta, uye mukoma wangu ndini wakandirayira ⟨kuuya⟩; zvino kana ndinawo nyasha maziso enyu, ndibvise ndapata, ndikaone ⟨את⟩ mukoma wangu; nokudaro haasviki patafura yehumambo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "ndapota"
+      "gloss": "ndapata"
     },
     {
       "surface": "כי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "צוה",
-      "gloss": "akandirayira"
+      "gloss": "wakandirayira"
     },
     {
       "surface": "לי",
-      "gloss": "ndi-"
+      "gloss": "ndini"
     },
     {
       "surface": "אחי",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "מצאתי",
-      "gloss": "ndikawana"
+      "gloss": "ndinawo"
     },
     {
       "surface": "חן",
-      "gloss": "chengetedzo"
+      "gloss": "nyasha"
     },
     {
       "surface": "בעיניך",
-      "gloss": "maziso ako"
+      "gloss": "maziso enyu"
     },
     {
       "surface": "אמלטה",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "ndapota"
+      "gloss": "ndapata"
     },
     {
       "surface": "ואראה",
@@ -90,37 +90,41 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vavandiki vangu"
+      "marks": "mukoma wangu"
     },
     {
       "surface": "אחי",
-      "gloss": "vavandiki vangu"
+      "gloss": "mukoma wangu"
     },
     {
       "surface": "על",
-      "gloss": "naizvozvo"
+      "gloss": "nokudaro"
     },
     {
       "surface": "כן",
-      "gloss": "naizvozvo"
+      "gloss": "nokudaro"
     },
     {
       "surface": "לא",
-      "gloss": "ha-"
+      "gloss": "haa-"
     },
     {
       "surface": "בא",
-      "gloss": "kuuya"
+      "gloss": "sviki"
     },
     {
       "surface": "אל",
-      "gloss": "kuna"
+      "gloss": "pa"
     },
     {
       "surface": "שלחן",
-      "gloss": "tafula"
+      "gloss": "tafura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yehumambo"
     }
   ],
-  "timestamp": "2026-09-27T06:49:13.601876565Z",
+  "timestamp": "2026-10-01T05:24:42.668680330Z",
   "model": "glm-5.3"
 }

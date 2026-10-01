@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "sn",
   "chapter": 33,
-  "translation": "Yahwe akaputsa ⟨את⟩ dongorero dzematunhu, akadzikisa-zera ⟨את⟩ maonero ezvikwata zvomunhu.",
+  "translation": "Yahwe akaparadza ungano hwenyika dzinopikisa, akadzikisa pachena zvitsva dzemarudzi.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,34 +13,29 @@
     },
     {
       "surface": "הפיר",
-      "gloss": "akaputsa"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "dongorero dzematunhu"
+      "gloss": "akaparadza"
     },
     {
       "surface": "עצת",
-      "gloss": "dongorero"
+      "gloss": "ungano"
     },
     {
       "surface": "גוים",
-      "gloss": "dzematunhu"
+      "gloss": "hwenyika dzinopikisa"
     },
     {
       "surface": "הניא",
-      "gloss": "akadzikisa-zera"
+      "gloss": "akadzikisa pachena"
     },
     {
       "surface": "מחשבות",
-      "gloss": "maonero"
+      "gloss": "zvitsva"
     },
     {
       "surface": "עמים",
-      "gloss": "zvikwata zvomunhu"
+      "gloss": "dzemarudzi"
     }
   ],
-  "timestamp": "2026-09-27T11:14:35.584207658Z",
+  "timestamp": "2026-10-01T05:25:21.651949194Z",
   "model": "glm-5.3"
 }

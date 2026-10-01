@@ -5,28 +5,28 @@
   "book": "1-kings",
   "lang": "sn",
   "chapter": 18,
-  "translation": "Vakatora ⟨את⟩ bhuru iro vakapiwha, vakagadzirira, uye vakafidzira zita reBhaaru kubva mangwanan kusvika masikati, achiti: Bhaaru, tidanire! Asi hapana izwi, uye hapana anodanira; uye vakasvetuka pane altari raivo vakaita.",
+  "translation": "Vakatora ⟨את⟩ mombe yaivapiwa kwavari, vakagadzirira, vakadana zita raBaari kubva mangwanani kusvika masikati, vachiti: Baari, pindurai! Asi hapana izwi, hapana anopindura; vakabhobha pamusoro pemizbeahi yaakaita.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "Vakatora"
+      "gloss": "vakatora"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bhuru"
+      "marks": "mombe"
     },
     {
       "surface": "הפר",
-      "gloss": "bhuru"
+      "gloss": "mombe"
     },
     {
       "surface": "אשר",
-      "gloss": "iro"
+      "gloss": "yaivapiwa"
     },
     {
       "surface": "נתן",
-      "gloss": "vakapiwha"
+      "gloss": "yaivapiwa"
     },
     {
       "surface": "להם",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "ויקראו",
-      "gloss": "vakafidzira"
+      "gloss": "vakadana"
     },
     {
       "surface": "בשם",
-      "gloss": "zita"
+      "gloss": "zita ra"
     },
     {
       "surface": "הבעל",
-      "gloss": "reBhaaru"
+      "gloss": "Baari"
     },
     {
       "surface": "מהבקר",
-      "gloss": "kubva mangwanan"
+      "gloss": "kubva mangwanani"
     },
     {
       "surface": "ועד",
@@ -62,19 +62,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "achiti"
+      "gloss": "vachiti"
     },
     {
       "surface": "הבעל",
-      "gloss": "Bhaaru"
+      "gloss": "Baari"
     },
     {
       "surface": "עננו",
-      "gloss": "tidanire"
-    },
-    {
-      "surface": "ויקחו",
-      "gloss": ""
+      "gloss": "pindurai"
     },
     {
       "surface": "ואין",
@@ -86,33 +82,33 @@
     },
     {
       "surface": "ואין",
-      "gloss": "uye hapana"
+      "gloss": "hapana"
     },
     {
       "surface": "ענה",
-      "gloss": "anodanira"
+      "gloss": "anopindura"
     },
     {
       "surface": "ויפסחו",
-      "gloss": "vakasvetuka"
+      "gloss": "vakabhobha"
     },
     {
       "surface": "על",
-      "gloss": "pa"
+      "gloss": "pamusoro pe"
     },
     {
       "surface": "המזבח",
-      "gloss": "altari"
+      "gloss": "mizbeahi"
     },
     {
       "surface": "אשר",
-      "gloss": "raivo"
+      "gloss": "yaakaita"
     },
     {
       "surface": "עשה",
-      "gloss": "vakaita"
+      "gloss": "yaakaita"
     }
   ],
-  "timestamp": "2026-09-27T07:16:17.940712589Z",
+  "timestamp": "2026-10-01T05:25:10.777447343Z",
   "model": "glm-5.3"
 }

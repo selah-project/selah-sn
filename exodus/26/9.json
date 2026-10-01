@@ -5,84 +5,80 @@
   "book": "exodus",
   "lang": "sn",
   "chapter": 26,
-  "translation": "Uchabatanidza ⟨את⟩ matajira mashanu ega, ⟨את⟩ uye ⟨את⟩ matajira matanhatu ega; ⟨את⟩ uchipetudza ⟨את⟩ jira rechechitanhatu pakatarisa chiso chetendi.",
+  "translation": "Uchabatanidza ⟨את⟩ machira mashanu ega, uye ⟨את⟩ machira matanhatu ega; uye uchapeta kaviri ⟨את⟩ chirwa chechitanhatu chiri ⟨pamberi⟩, kumusoro pechiso che⟨the⟩ tendi.",
   "tokens": [
     {
-      "surface": "וחברת",
+      "surface": "וְחִבַּרְתָּ֞",
       "gloss": "uchabatanidza"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "matajira mashanu"
+      "marks": "machira mashanu"
     },
     {
-      "surface": "חמש",
+      "surface": "חֲמֵשׁ",
       "gloss": "mashanu"
     },
     {
-      "surface": "היריעת",
-      "gloss": "matajira"
+      "surface": "הַיְרִיעֹת",
+      "gloss": "machira"
     },
     {
-      "surface": "לבד",
+      "surface": "לְבָד",
       "gloss": "ega"
     },
     {
-      "surface": "ו",
-      "gloss": "uye"
-    },
-    {
-      "surface": "את",
+      "surface": "וְאֶת",
       "gloss": "⟨את⟩",
-      "marks": "matajira matanhatu"
+      "marks": "machira matanhatu"
     },
     {
-      "surface": "שש",
+      "surface": "שֵׁשׁ",
       "gloss": "matanhatu"
     },
     {
-      "surface": "היריעת",
-      "gloss": "matajira"
+      "surface": "הַיְרִיעֹת",
+      "gloss": "machira"
     },
     {
-      "surface": "לבד",
+      "surface": "לְבָד",
       "gloss": "ega"
     },
     {
-      "surface": "וכפלת",
-      "gloss": "uchipetudza"
+      "surface": "וְכָפַלְתָּ֙",
+      "gloss": "uchapeta kaviri"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "jira rechechitanhatu"
+      "marks": "chirwa chechitanhatu"
     },
     {
-      "surface": "היריעה",
-      "gloss": "jira"
+      "surface": "הַיְרִיעָה",
+      "gloss": "chirwa"
     },
     {
-      "surface": "הששית",
-      "gloss": "rechechitanhatu"
+      "surface": "הַשִּׁשִּׁית",
+      "gloss": "chechitanhatu"
     },
     {
-      "surface": "אל",
-      "gloss": "ku"
+      "surface": "אֶל",
+      "gloss": "kumusoro"
     },
     {
-      "surface": "מול",
-      "gloss": "pakatarisa"
+      "surface": "מוּל",
+      "gloss": "pamberi"
     },
     {
-      "surface": "פני",
+      "surface": "פְּנֵי",
       "gloss": "chiso"
     },
     {
-      "surface": "האהל",
-      "gloss": "chetendi"
+      "surface": "הָאֹהֶל",
+      "gloss": "tendi"
     }
   ],
-  "timestamp": "2026-09-27T05:33:24.899861783Z",
+  "timestamp": "2026-10-01T05:24:51.311662143Z",
   "model": "glm-5.3"
 }

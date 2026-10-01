@@ -5,23 +5,15 @@
   "book": "ezekiel",
   "lang": "sn",
   "chapter": 2,
-  "translation": "Mweya wakapinda muri ndiri, sokuti akataura kundiri, wakandimisa paotsika dzangu, ndikanzwa ⟨את⟩ iye ari kuta kundiri.",
+  "translation": "Mweya wakanopinda mukati mangu, sezvaakataura neni, uye wakamisa mitsoka yangu, ndokundidzorerawo kuti ndinze ndichinzwa ⟨את⟩ ari kutaura neni.",
   "tokens": [
     {
       "surface": "ותבא",
-      "gloss": "wakapinda"
+      "gloss": "wakanopinda"
     },
     {
       "surface": "בי",
-      "gloss": "muri"
-    },
-    {
-      "surface": "רוח",
-      "gloss": "ndiri"
-    },
-    {
-      "surface": "בי",
-      "gloss": "muri"
+      "gloss": "mukati mangu"
     },
     {
       "surface": "רוח",
@@ -29,7 +21,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "sokuti"
+      "gloss": "sezvaakataura"
     },
     {
       "surface": "דבר",
@@ -37,19 +29,19 @@
     },
     {
       "surface": "אלי",
-      "gloss": "kundiri"
+      "gloss": "neni"
     },
     {
       "surface": "ותעמדני",
-      "gloss": "wakandimisa"
+      "gloss": "wakamisa mitsoka yangu"
     },
     {
       "surface": "על",
-      "gloss": "pa"
+      "gloss": "pamusoro pe"
     },
     {
       "surface": "רגלי",
-      "gloss": "otsika dzangu"
+      "gloss": "mitsoka yangu"
     },
     {
       "surface": "ואשמע",
@@ -58,17 +50,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iye ari kuta"
+      "marks": "ari kutaura neni"
     },
     {
       "surface": "מדבר",
-      "gloss": "ari kuta"
+      "gloss": "ari kutaura"
     },
     {
       "surface": "אלי",
-      "gloss": "kundiri"
+      "gloss": "neni"
     }
   ],
-  "timestamp": "2026-09-27T08:14:50.371984709Z",
+  "timestamp": "2026-10-01T05:25:38.652714970Z",
   "model": "glm-5.3"
 }

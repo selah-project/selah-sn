@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "sn",
   "chapter": 3,
-  "translation": "Nokuti chaitika kune vanhu ndicho chakanangana nenzara... ",
+  "translation": "Nokuti zvinoitikira vana vanhu ndozvinoitikira zvimhuka: chinongedzo chimwe chete kwavari; sokufa kweiyi, nadzo kufa kweiyo; uye kufema mumwe chete kuvose; uye musiyano wemunhu kubva muzvimhuka hapana, nokuti zvose ndihavhe.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,17 +13,101 @@
     },
     {
       "surface": "מקרה",
-      "gloss": "chaitika"
+      "gloss": "zvinoitikira"
     },
     {
       "surface": "בני",
       "gloss": "vana"
     },
     {
-      "surface": "ha'adam",
+      "surface": "האדם",
       "gloss": "vanhu"
+    },
+    {
+      "surface": "ומקרה",
+      "gloss": "ndozvinoitikira"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvimhuka"
+    },
+    {
+      "surface": "ומקרה",
+      "gloss": "chinongedzo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "chimwe chete"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwavari"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "sokufa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kweiyi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nadzo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kweiyo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "uye kufema"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mumwe chete"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuvose"
+    },
+    {
+      "surface": "ומותר",
+      "gloss": "uye musiyano"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemunhu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kubva"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "muzvimhuka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hapana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nokuti"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "zvose"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havhe"
     }
   ],
-  "timestamp": "2026-09-27T09:53:30.036090325Z",
+  "timestamp": "2026-10-01T05:26:05.518641037Z",
   "model": "glm-5.3"
 }
